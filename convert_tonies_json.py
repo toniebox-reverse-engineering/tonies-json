@@ -8,9 +8,11 @@ import json
 import yaml
 
 yaml_dir = "work/yaml"
-os.makedirs(yaml_dir)
-
 tonies_json_file = "./work/tonies.json"
+
+if not os.path.exists(yaml_dir):
+    os.makedirs(yaml_dir)
+
 # Check if the JSON file exists
 if not os.path.isfile(tonies_json_file):
     url = "https://gt-blog.de/JSON/tonies.json"
