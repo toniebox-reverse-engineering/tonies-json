@@ -17,8 +17,7 @@ class HostNameIgnoringAdapter(HTTPAdapter):
 
 def ruid_to_int_uid(hex_str):
     hex_bytes = bytes.fromhex(hex_str)
-    reversed_bytes = hex_bytes[::-1]
-    return int.from_bytes(reversed_bytes, byteorder='big')
+    return int.from_bytes(hex_bytes, byteorder='little')
 
 def get_server_data(endpoint_path, data=None, method='GET'):
     # Paths to your PEM files
