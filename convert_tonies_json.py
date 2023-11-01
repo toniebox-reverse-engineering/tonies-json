@@ -33,7 +33,7 @@ if not os.path.isfile(tonies_json_file):
 [os.remove(os.path.join(yaml_dir, filename)) for filename in os.listdir(yaml_dir) if os.path.isfile(os.path.join(yaml_dir, filename))]
 
 yaml_base_struct = {
-    "model": None,
+    "article": None,
     "data": []
 }
 yaml_data_struct = {
@@ -58,22 +58,22 @@ with open("./work/tonies.json", "r") as json_file:
 # Sort the data by the "model" key
 data = sorted(data, key=lambda x: x['model'])
 
-# Create a dictionary to organize the data by model
-model_data = {}
+# Create a dictionary to organize the data by article
+article_data = {}
 
 for item in data:
-    model = item['model']
-    if model not in model_data:
-        model_data[model] = []
-    model_data[model].append(item)
+    article = item['model']
+    if article not in article_data:
+        article_data[article] = []
+    article_data[article].append(item)
 
-# Convert and save each model's data to a separate YAML file
-for model, model_items in model_data.items():
-    yaml_file_path = f"{yaml_dir}/{model}.yaml"
+# Convert and save each article's data to a separate YAML file
+for article, article_items in article_data.items():
+    yaml_file_path = f"{yaml_dir}/{article}.yaml"
 
     yaml_dict = copy.deepcopy(yaml_base_struct)
-    yaml_dict["model"] = model
-    for item in model_items:
+    yaml_dict["article"] = article
+    for item in article_items:
         yaml_data = copy.deepcopy(yaml_data_struct)
         yaml_data["series"] = item["series"]
         yaml_data["episode"] = item["episodes"]
@@ -102,12 +102,12 @@ for model, model_items in model_data.items():
         # Check if language is one of the specified codes
         if yaml_data["language"] not in ["de-de", "en-gb", "en-us", "fr-fr"]:
             # Print the 'language' value
-            print(f"Wrong language for model: {model}, Language: {yaml_data['language']}")
+            print(f"Wrong language for article: {article}, Language: {yaml_data['language']}")
 
         yaml_dict["data"].append(yaml_data)
         
     if len(yaml_dict["data"]) > 1:
-         print(f"model: {model}, with more than one entry")
+         print(f"article: {article}, with more than one entry")
         
 
     with open(yaml_file_path, "w") as yaml_file:
