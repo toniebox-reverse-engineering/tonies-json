@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
+import yaml
+import os
 import requests
 from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.poolmanager import PoolManager
@@ -12,6 +14,11 @@ class HostNameIgnoringAdapter(HTTPAdapter):
                                        maxsize=maxsize,
                                        block=block,
                                        assert_hostname=False)
+
+def ruid_to_int_uid(hex_str):
+    hex_bytes = bytes.fromhex(hex_str)
+    reversed_bytes = hex_bytes[::-1]
+    return int.from_bytes(reversed_bytes, byteorder='big')
 
 def get_server_data(endpoint_path, data=None, method='GET'):
     # Paths to your PEM files
@@ -38,7 +45,7 @@ def get_server_data(endpoint_path, data=None, method='GET'):
         return None
 
     if response.status_code == 200:
-        return response.text
+        return response.content
     else:
         print(f"Request failed with status code {response.status_code}: {response.text}")
         return None
@@ -51,8 +58,25 @@ time_result = get_server_data(endpoint_path_get)
 if time_result is not None:
     print("Response (GET):", time_result)
 
+# Define the folder path containing YAML files
+content_yaml_folder = 'work/content/'
 
 fc_request = fc_request_pb2.TonieFreshnessCheckRequest()
+
+for filename in os.listdir(content_yaml_folder):
+    if filename.endswith('.yaml'):
+        yaml_file_path = os.path.join(content_yaml_folder, filename)
+
+        # Read and parse the YAML file
+        with open(yaml_file_path, 'r') as yaml_file:
+            data = yaml.safe_load(yaml_file)
+
+        # Create a TonieFCInfo message and populate it with data from the YAML file
+        tonie_info = fc_request.tonie_infos.add()
+        tonie_info.uid = ruid_to_int_uid(data["ruid"])  # Replace with the actual YAML field name
+        tonie_info.audio_id = int(data["audio-id"])
+
+
 tonie_info = fc_request.tonie_infos.add()
 tonie_info.uid = 0x0000000100000003
 tonie_info.audio_id = 0
@@ -64,7 +88,7 @@ fc_response_data = get_server_data(endpoint_path_post, data=fc_request.Serialize
 if fc_response_data is not None:
     print("Response (POST):", fc_response_data)
     fc_response = fc_response_pb2.TonieFreshnessCheckResponse()
-    fc_response.ParseFromString(fc_response_data.encode('utf-8'))
+    fc_response.ParseFromString(fc_response_data)
     print("Marked UIDs:")
     for marked in fc_response.tonie_marked:
         print(format(marked, '016x'))
