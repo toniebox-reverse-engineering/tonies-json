@@ -63,23 +63,42 @@ content_yaml_folder = 'work/content/'
 
 fc_request = fc_request_pb2.TonieFreshnessCheckRequest()
 
-for filename in os.listdir(content_yaml_folder):
-    if filename.endswith('.yaml'):
-        yaml_file_path = os.path.join(content_yaml_folder, filename)
+yaml_infos =  {}
 
+for filename in os.listdir(content_yaml_folder):
+    if filename.endswith('.auth.yaml'):
+        yaml_info = {
+            'auth' : None,
+            'data' : None,
+            'updated': False
+        }
         # Read and parse the YAML file
-        with open(yaml_file_path, 'r') as yaml_file:
-            data = yaml.safe_load(yaml_file)
+        with open(os.path.join(content_yaml_folder, filename), 'r') as yaml_file:
+           yaml_info["auth"] = yaml.safe_load(yaml_file)
+
+        # Look for a corresponding .data.yaml file
+        data_file_path = os.path.join(content_yaml_folder, filename.replace('.auth.yaml', '.data.yaml'))
+        if os.path.exists(data_file_path):
+            with open(data_file_path, 'r') as data_yaml_file:
+                yaml_info["data"] = yaml.safe_load(data_yaml_file)
+        else:
+            yaml_info["data"] = {
+                'audio-id': 0,
+                'hash': '0000000000000000000000000000000000000000',
+                'tracks': 0
+            }
+
 
         # Create a TonieFCInfo message and populate it with data from the YAML file
         tonie_info = fc_request.tonie_infos.add()
-        tonie_info.uid = ruid_to_int_uid(data["ruid"])  # Replace with the actual YAML field name
-        tonie_info.audio_id = int(data["audio-id"])
+        tonie_info.uid = ruid_to_int_uid(yaml_info["auth"]["ruid"])  # Replace with the actual YAML field name
+        tonie_info.audio_id = int(yaml_info["data"]["audio-id"])
+        print(f"uid: {tonie_info.uid:016x}, audio_id: {tonie_info.audio_id}")
 
-
-tonie_info = fc_request.tonie_infos.add()
-tonie_info.uid = 0x0000000100000003
-tonie_info.audio_id = 0
+        if tonie_info.uid in yaml_infos:
+            print(f"Warning: UID {tonie_info.uid} is already in the YAML data, skipping {filename}.")
+        else:
+            yaml_infos[tonie_info.uid] = yaml_info
 
 # Send a POST request with data
 endpoint_path_post = 'v1/freshness-check'
@@ -92,3 +111,6 @@ if fc_response_data is not None:
     print("Marked UIDs:")
     for marked in fc_response.tonie_marked:
         print(format(marked, '016x'))
+        yaml_info = yaml_infos[marked]
+
+        # TODO download 4k, parse taf for audio_id, hash, tracks
