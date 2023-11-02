@@ -92,6 +92,8 @@ for article, article_items in article_data.items():
     if len(yaml_dict["data"]) > 1:
          print(f"article: {article}, with more than one entry")
         
-
-    with open(yaml_file_path, "w") as yaml_file:
-        yaml.dump(yaml_dict, yaml_file, default_flow_style=False, sort_keys=False, allow_unicode=True)
+    if os.path.exists(yaml_file_path):
+        pass # skip existing files
+    else:
+        with open(yaml_file_path, "w") as yaml_file:
+            yaml.dump(yaml_dict, yaml_file, default_flow_style=False, sort_keys=False, allow_unicode=True)
