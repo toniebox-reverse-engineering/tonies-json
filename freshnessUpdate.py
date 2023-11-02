@@ -85,7 +85,7 @@ for filename in os.listdir(content_yaml_folder):
     if filename.endswith('.auth.yaml'):
         # Read and parse the YAML file
         fileAuth = os.path.join(content_yaml_folder, filename)
-        fileData = os.path.join(content_yaml_folder, filename.replace('.auth.yaml', '.data.yaml'))
+        fileData = os.path.join(content_yaml_folder, "data", filename.replace('.auth.yaml', '.data.yaml'))
         with open(fileAuth, 'r') as yaml_file:
            auths = yaml.safe_load(yaml_file)
         article = filename.replace('.auth.yaml', '')
@@ -93,7 +93,7 @@ for filename in os.listdir(content_yaml_folder):
         data = {
             'audio-id': 0,
             'hash': '0000000000000000000000000000000000000000',
-            'length': 0,
+            'size': 0,
             'tracks': 0
         }
         # Look for a corresponding .data.yaml file
@@ -165,13 +165,13 @@ if fc_response_data is not None:
             yaml_info["data"]["audio-id"] = taf_header.audio_id
             yaml_info["data"]["hash"] = binascii.hexlify(taf_header.sha1_hash).decode('utf-8')
             yaml_info["data"]["tracks"] = len(taf_header.track_page_nums)
-            yaml_info["data"]["length"] = taf_header.num_bytes
+            yaml_info["data"]["size"] = taf_header.num_bytes
             yaml_info["updated"] = True
 
             print(f'-  Audio ID: {yaml_info["data"]["audio-id"]}')
             print(f'   Hash: {yaml_info["data"]["hash"]}')
             print(f'   Tracks: {yaml_info["data"]["tracks"]}')
-            print(f'   Length: {yaml_info["data"]["length"]}')
+            print(f'   Size: {yaml_info["data"]["size"]}')
     
     for article, article_info in article_infos.items():
         last_yaml_info = None
@@ -189,12 +189,12 @@ if fc_response_data is not None:
         if error:
             print(f'Different data for article {article}:')
             for yaml_info in article_info:
-                print(f'   Audio ID: {yaml_info["data"]["audio-id"]}, Hash: {yaml_info["data"]["hash"]}, Tracks: {yaml_info["data"]["tracks"]}, Length: {yaml_info["data"]["length"]}')
+                print(f'   Audio ID: {yaml_info["data"]["audio-id"]}, Hash: {yaml_info["data"]["hash"]}, Tracks: {yaml_info["data"]["tracks"]}, Size: {yaml_info["data"]["size"]}')
 
         elif updated:
             fileData = last_yaml_info["fileData"]
             print(f'Updated data for article {article} to {fileData}:')
-            print(f'   Audio ID: {last_yaml_info["data"]["audio-id"]}, Hash: {last_yaml_info["data"]["hash"]}, Tracks: {last_yaml_info["data"]["tracks"]}, Length: {last_yaml_info["data"]["length"]}')
+            print(f'   Audio ID: {last_yaml_info["data"]["audio-id"]}, Hash: {last_yaml_info["data"]["hash"]}, Tracks: {last_yaml_info["data"]["tracks"]}, Size: {last_yaml_info["data"]["size"]}')
 
             with open(fileData, "w") as yaml_file:
                 yaml.safe_dump(last_yaml_info["data"], yaml_file)
