@@ -22,6 +22,10 @@ def ruid_to_int_uid(hex_str):
     hex_bytes = bytes.fromhex(hex_str)
     return int.from_bytes(hex_bytes, byteorder='little')
 
+def print_data(data):
+    print(f'   Audio ID: {data["audio-id"]}, Hash: {data["hash"]}, Tracks: {data["tracks"]}, Size: {data["size"]}')
+ 
+
 def get_server_data(endpoint_path, data=None, method='GET', auth=None, max_length=0):
     # Paths to your PEM files
     client_cert_file = 'work/certs/client.pem'
@@ -114,6 +118,7 @@ for filename in os.listdir(content_yaml_folder):
                 'article': article,
                 'auth' : pair,
                 'data' : copy.deepcopy(data),
+                'old-data' : data,
                 'article_info' : article_info,
                 'updated' : False
             }
@@ -167,16 +172,13 @@ if fc_response_data is not None:
             yaml_info["data"]["tracks"] = len(taf_header.track_page_nums)
             yaml_info["data"]["size"] = taf_header.num_bytes
             yaml_info["updated"] = True
-
-            print(f'-  Audio ID: {yaml_info["data"]["audio-id"]}')
-            print(f'   Hash: {yaml_info["data"]["hash"]}')
-            print(f'   Tracks: {yaml_info["data"]["tracks"]}')
-            print(f'   Size: {yaml_info["data"]["size"]}')
+            print_data(yaml_info["data"])
     
     for article, article_info in article_infos.items():
         last_yaml_info = None
         length = len(article_info)
         error = False
+        track_error = False
         updated = False
         for yaml_info in article_info:
             if last_yaml_info is None:
@@ -186,15 +188,23 @@ if fc_response_data is not None:
                     error = True
             if last_yaml_info["updated"]:
                 updated = True
+            if yaml_info["old-data"]["tracks"] != yaml_info["data"]["tracks"]:
+                if yaml_info["old-data"]["tracks"] > 0 and yaml_info["data"]["tracks"] > 0:
+                    track_error = True
+                    error = True
         if error:
-            print(f'Different data for article {article}:')
+            if track_error:
+                print(f'Changed tracks for article {article}:')
+                print_data(last_yaml_info["old-data"])
+            else:
+                print(f'Different data for article {article}:')
             for yaml_info in article_info:
-                print(f'   Audio ID: {yaml_info["data"]["audio-id"]}, Hash: {yaml_info["data"]["hash"]}, Tracks: {yaml_info["data"]["tracks"]}, Size: {yaml_info["data"]["size"]}')
+                print_data(yaml_info["data"])
 
         elif updated:
             fileData = last_yaml_info["fileData"]
             print(f'Updated data for article {article} to {fileData}:')
-            print(f'   Audio ID: {last_yaml_info["data"]["audio-id"]}, Hash: {last_yaml_info["data"]["hash"]}, Tracks: {last_yaml_info["data"]["tracks"]}, Size: {last_yaml_info["data"]["size"]}')
+            print_data(last_yaml_info["data"])
 
             with open(fileData, "w") as yaml_file:
                 yaml.safe_dump(last_yaml_info["data"], yaml_file)
