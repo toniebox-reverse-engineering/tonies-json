@@ -1,10 +1,10 @@
 article: '10001998'
-last-update: 1698939344
+last-update: 1698940514
 lock-data: false
 data:
 - series: Bibi Blocksberg
   episode: Die Junghexenbande
-  release: '1680134400'
+  release: 1680134400
   language: de-de
   category: audio-play
   runtime: 40

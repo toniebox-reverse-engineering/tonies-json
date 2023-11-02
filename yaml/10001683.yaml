@@ -1,10 +1,10 @@
 article: '10001683'
-last-update: 1698939346
+last-update: 1698940514
 lock-data: false
 data:
 - series: Woozle Goozle
   episode: Luft & Elektrizität
-  release: '1683676800'
+  release: 1683676800
   language: de-de
   category: audio-play
   runtime: 42

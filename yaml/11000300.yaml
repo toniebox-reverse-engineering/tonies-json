@@ -1,10 +1,10 @@
 article: '11000300'
-last-update: 1698939475
+last-update: 1698940518
 lock-data: false
 data:
 - series: Gigantosaurus
   episode: Tiny
-  release: '1698278400'
+  release: 1698278400
   language: fr-fr
   category: audio-play
   runtime: 46

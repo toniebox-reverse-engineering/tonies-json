@@ -1,10 +1,10 @@
 article: '10001232'
-last-update: 1698939401
+last-update: 1698940515
 lock-data: false
 data:
 - series: Roald Dahl
   episode: The Witches
-  release: '1658275200'
+  release: 1658275200
   language: en-gb
   category: audio-book
   runtime: 180

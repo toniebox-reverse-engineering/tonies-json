@@ -1,10 +1,10 @@
 article: '10001307'
-last-update: 1698939392
+last-update: 1698940515
 lock-data: false
 data:
 - series: National Geographic Kids
   episode: Whale
-  release: '1650844800'
+  release: 1650844800
   language: en-gb
   category: audio-play
   runtime: 60

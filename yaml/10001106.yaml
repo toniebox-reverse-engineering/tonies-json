@@ -1,10 +1,10 @@
 article: '10001106'
-last-update: 1698939319
+last-update: 1698940513
 lock-data: false
 data:
 - series: Lieblings-Kinderlieder
   episode: Kindergartenlieder
-  release: N
+  release: 0
   language: de-de
   category: music
   runtime: 50

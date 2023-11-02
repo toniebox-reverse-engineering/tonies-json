@@ -1,10 +1,10 @@
 article: '10000998'
-last-update: 1698939323
+last-update: 1698940513
 lock-data: false
 data:
 - series: Die kleine Hexe
   episode: Die neugierige kleine Hexe / Die kleine Hexe hat Geburtstag
-  release: '1663113600'
+  release: 1663113600
   language: de-de
   category: audio-play-songs
   runtime: 55

@@ -1,10 +1,10 @@
 article: '10001490'
-last-update: 1698939333
+last-update: 1698940513
 lock-data: false
 data:
 - series: Disney
   episode: Tinker Bell
-  release: '1670371200'
+  release: 1670371200
   language: de-de
   category: audio-play
   runtime: 54

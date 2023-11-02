@@ -1,10 +1,10 @@
 article: '10001272'
-last-update: 1698939454
+last-update: 1698940517
 lock-data: false
 data:
 - series: Astérix
   episode: Astérix Et La Serpe D'Or
-  release: '1667433600'
+  release: 1667433600
   language: fr-fr
   category: audio-play
   runtime: 39

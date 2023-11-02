@@ -1,10 +1,10 @@
 article: '10001963'
-last-update: 1698939427
+last-update: 1698940516
 lock-data: false
 data:
 - series: Roald Dahl
   episode: The Enormous Crocodile
-  release: '1690156800'
+  release: 1690156800
   language: en-gb
   category: audio-book
   runtime: 101

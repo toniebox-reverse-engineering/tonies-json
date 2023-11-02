@@ -1,10 +1,10 @@
 article: '10001371'
-last-update: 1698939432
+last-update: 1698940516
 lock-data: false
 data:
 - series: Cultural Tales
   episode: Black British Tales
-  release: '1695600000'
+  release: 1695600000
   language: en-gb
   category: audio-play
   runtime: 80

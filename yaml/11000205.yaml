@@ -1,10 +1,10 @@
 article: '11000205'
-last-update: 1698939424
+last-update: 1698940516
 lock-data: false
 data:
 - series: Disney
   episode: Encanto
-  release: '1685664000'
+  release: 1685664000
   language: en-gb
   category: audio-play-songs
   runtime: 58

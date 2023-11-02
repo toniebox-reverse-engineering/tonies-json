@@ -1,10 +1,10 @@
 article: 01-0168
-last-update: 1698939206
+last-update: 1698940510
 lock-data: false
 data:
 - series: Der kleine Drache Kokosnuss
   episode: Hörspiel zur TV-Serie 04
-  release: '1557360000'
+  release: 1557360000
   language: de-de
   category: audio-play
   runtime: 68

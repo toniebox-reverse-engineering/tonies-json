@@ -1,10 +1,10 @@
 article: '10000321'
-last-update: 1698939360
+last-update: 1698940578
 lock-data: false
 data:
 - series: Paw Patrol
   episode: Chase
-  release: '1620604800'
+  release: 1620604800
   language: en-gb
   category: audio-play
   runtime: 54

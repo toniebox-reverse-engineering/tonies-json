@@ -1,10 +1,10 @@
 article: '11000304'
-last-update: 1698939479
+last-update: 1698940518
 lock-data: false
 data:
 - series: Le Journal De Gurty
   episode: Vacances En Provence
-  release: '1698278400'
+  release: 1698278400
   language: fr-fr
   category: audio-book
   runtime: 65

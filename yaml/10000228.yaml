@@ -1,10 +1,10 @@
 article: '10000228'
-last-update: 1698939366
+last-update: 1698940578
 lock-data: false
 data:
 - series: Despicable Me
   episode: The Junior Novel
-  release: N
+  release: 0
   language: en-gb
   category: audio-book
   runtime: 116
@@ -14,6 +14,5 @@ data:
   sample: https://cdn.tonies.de/o/audio_samples/964fb17a65a02a23b915051c6a95a188b4a11a50e28ef69d0810a590/audio_sample_despicable_me_the_junior_novel_ext.mp3
   web: https://tonies.com/en-gb/tonies/despicable-me/the-junior-novel/
   shop-id: 90d0622f-8fb9-4cbd-b38f-409567abe6a4
-  track-desc:
-  - STORY- The Junior Novel
+  track-desc: []
   ids: []

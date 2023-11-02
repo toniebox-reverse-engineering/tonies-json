@@ -1,10 +1,10 @@
 article: '10001408'
-last-update: 1698939471
+last-update: 1698940517
 lock-data: false
 data:
 - series: Contes Du Monde
   episode: Afrique De L'Ouest
-  release: '1688601600'
+  release: 1688601600
   language: fr-fr
   category: audio-book
   runtime: 77

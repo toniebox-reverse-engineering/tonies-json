@@ -1,10 +1,10 @@
 article: '10001037'
-last-update: 1698939389
+last-update: 1698940578
 lock-data: false
 data:
 - series: Favourite Children's Songs
   episode: Playtime & Action (relaunch)
-  release: N
+  release: 0
   language: en-gb
   category: music
   runtime: 0
@@ -28,7 +28,7 @@ data:
   - Five Little Ducks
   - One Finger, One Thumb
   - Incy Wincy Spider
-  - Pat-a-Cake , Pat-a-Cake
+  - Pat-a-Cake, Pat-a-Cake
   - Row, Row, Row Your Boat
   - See-saw, Margery Daw
   - Wind the Bobbin Up

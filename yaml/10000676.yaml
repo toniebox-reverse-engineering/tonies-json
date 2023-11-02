@@ -1,10 +1,10 @@
 article: '10000676'
-last-update: 1698939386
+last-update: 1698940578
 lock-data: false
 data:
 - series: Disney
   episode: Beauty and the Beast
-  release: '1636502400'
+  release: 1636502400
   language: en-gb
   category: audio-book-songs
   runtime: 35

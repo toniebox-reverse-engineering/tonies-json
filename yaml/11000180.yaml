@@ -1,10 +1,10 @@
 article: '11000180'
-last-update: 1698939430
+last-update: 1698940516
 lock-data: false
 data:
 - series: Claude
   episode: The Claude Collection
-  release: '1692316800'
+  release: 1692316800
   language: en-gb
   category: audio-book
   runtime: 167

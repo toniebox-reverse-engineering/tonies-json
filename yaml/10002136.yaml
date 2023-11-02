@@ -1,10 +1,10 @@
 article: '10002136'
-last-update: 1698939354
+last-update: 1698940514
 lock-data: false
 data:
 - series: PAW Patrol
   episode: Ein neuer Fellfreund
-  release: '1694563200'
+  release: 1694563200
   language: de-de
   category: audio-play
   runtime: 50

@@ -1,10 +1,10 @@
 article: '10000270'
-last-update: 1698939374
+last-update: 1698940515
 lock-data: false
 data:
 - series: Favourite Children's Songs
   episode: European Children's Songs
-  release: '1599696000'
+  release: 1599696000
   language: en-gb
   category: music
   runtime: 50

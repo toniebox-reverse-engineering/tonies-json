@@ -1,10 +1,10 @@
 article: '10001314'
-last-update: 1698939402
+last-update: 1698940515
 lock-data: false
 data:
 - series: Roald Dahl
   episode: Matilda
-  release: '1663632000'
+  release: 1663632000
   language: en-gb
   category: audio-book
   runtime: 86

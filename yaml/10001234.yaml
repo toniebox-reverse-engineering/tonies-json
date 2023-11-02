@@ -1,10 +1,10 @@
 article: '10001234'
-last-update: 1698939405
+last-update: 1698940516
 lock-data: false
 data:
 - series: Eloise
   episode: Eloise Audio Collection
-  release: '1668729600'
+  release: 1668729600
   language: en-gb
   category: audio-play
   runtime: 104

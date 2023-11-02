@@ -1,10 +1,10 @@
 article: '10001014'
-last-update: 1698939443
+last-update: 1698940579
 lock-data: false
 data:
 - series: Astérix
   episode: Astérix Le Gaulois
-  release: N
+  release: 0
   language: fr-fr
   category: audio-play
   runtime: 40

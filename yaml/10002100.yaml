@@ -1,10 +1,10 @@
 article: '10002100'
-last-update: 1698939473
+last-update: 1698940517
 lock-data: false
 data:
 - series: Les Contes De Hoofs
   episode: Zoof
-  release: '1692748800'
+  release: 1692748800
   language: fr-fr
   category: audio-play
   runtime: 46

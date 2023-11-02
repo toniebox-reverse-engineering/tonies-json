@@ -1,10 +1,10 @@
 article: '10001278'
-last-update: 1698939457
+last-update: 1698940517
 lock-data: false
 data:
 - series: Les Schtroumpfs
   episode: La Grande Schtroumpfette
-  release: '1668643200'
+  release: 1668643200
   language: fr-fr
   category: audio-play
   runtime: 74

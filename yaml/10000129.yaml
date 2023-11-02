@@ -1,10 +1,10 @@
 article: '10000129'
-last-update: 1698939266
+last-update: 1698940511
 lock-data: false
 data:
 - series: Super Wings
   episode: Schwimmende Schweinchen
-  release: '1618444800'
+  release: 1618444800
   language: de-de
   category: audio-play
   runtime: 47

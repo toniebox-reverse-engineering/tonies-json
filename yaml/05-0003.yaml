@@ -1,10 +1,10 @@
 article: 05-0003
-last-update: 1698939210
+last-update: 1698940510
 lock-data: false
 data:
 - series: Die Playmos
   episode: Der Ball im Prinzessinnen-Schloss
-  release: '1564617600'
+  release: 1564617600
   language: de-de
   category: audio-play
   runtime: 60

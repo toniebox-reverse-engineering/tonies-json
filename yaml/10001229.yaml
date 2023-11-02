@@ -1,10 +1,10 @@
 article: '10001229'
-last-update: 1698939451
+last-update: 1698940517
 lock-data: false
 data:
 - series: Miraculous
   episode: Ladybug
-  release: '1655942400'
+  release: 1655942400
   language: fr-fr
   category: audio-play
   runtime: 44

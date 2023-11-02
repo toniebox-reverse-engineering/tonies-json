@@ -1,10 +1,10 @@
 article: '10000837'
-last-update: 1698939369
+last-update: 1698940514
 lock-data: false
 data:
 - series: Blue's Clues
   episode: Blue's Clues and You
-  release: '1666828800'
+  release: 1666828800
   language: en-gb
   category: audio-play-songs
   runtime: 57

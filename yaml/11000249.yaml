@@ -1,10 +1,10 @@
 article: '11000249'
-last-update: 1698939357
+last-update: 1698940514
 lock-data: false
 data:
 - series: Disney
   episode: Tiggers großes Abenteuer
-  release: '1699401600'
+  release: 1699401600
   language: de-de
   category: audio-play
   runtime: 42

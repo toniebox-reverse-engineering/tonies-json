@@ -1,10 +1,10 @@
 article: 01-0101
-last-update: 1698939212
+last-update: 1698940511
 lock-data: false
 data:
 - series: Die drei !!!
   episode: Das Geheimnis der alten Villa
-  release: '1572998400'
+  release: 1572998400
   language: de-de
   category: audio-play
   runtime: 68

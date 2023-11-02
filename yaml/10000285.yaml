@@ -1,10 +1,10 @@
 article: '10000285'
-last-update: 1698939244
+last-update: 1698940511
 lock-data: false
 data:
 - series: Disney
   episode: Die Monster AG
-  release: '1605744000'
+  release: 1605744000
   language: de-de
   category: audio-play
   runtime: 59

@@ -1,10 +1,10 @@
 article: '10001659'
-last-update: 1698939464
+last-update: 1698940517
 lock-data: false
 data:
 - series: Astérix
   episode: Astérix Et Cléopâtre
-  release: '1680134400'
+  release: 1680134400
   language: fr-fr
   category: audio-play
   runtime: 49

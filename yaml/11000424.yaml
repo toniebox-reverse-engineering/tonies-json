@@ -1,10 +1,10 @@
 article: '11000424'
-last-update: 1698939417
+last-update: 1698940516
 lock-data: false
 data:
 - series: Sleepy Friends
   episode: Classical Music with Sleepy Rabbit
-  release: '1684540800'
+  release: 1684540800
   language: en-gb
   category: music
   runtime: 90

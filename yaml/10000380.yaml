@@ -1,10 +1,10 @@
 article: '10000380'
-last-update: 1698939388
+last-update: 1698940515
 lock-data: false
 data:
 - series: Paddington Bear
   episode: A bear called Paddington
-  release: '1638403200'
+  release: 1638403200
   language: en-gb
   category: audio-book
   runtime: 155

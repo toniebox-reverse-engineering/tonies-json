@@ -1,10 +1,10 @@
 article: '10000121'
-last-update: 1698939213
+last-update: 1698940511
 lock-data: false
 data:
 - series: Disney
   episode: Dumbo
-  release: '1572998400'
+  release: 1572998400
   language: de-de
   category: audio-play-songs
   runtime: 51

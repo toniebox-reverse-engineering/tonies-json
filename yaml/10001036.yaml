@@ -1,10 +1,10 @@
 article: '10001036'
-last-update: 1698939391
+last-update: 1698940578
 lock-data: false
 data:
 - series: Favourite Classics
   episode: Pinocchio (relaunch)
-  release: '1659052800'
+  release: 1659052800
   language: en-gb
   category: audio-book
   runtime: 120
@@ -19,6 +19,4 @@ data:
   - The Wind in the Willows
   - The Railway Children
   - Black Beauty
-  - Five Children & it
-  - A Little Princess
   ids: []

@@ -1,10 +1,10 @@
 article: '10000245'
-last-update: 1698939234
+last-update: 1698940511
 lock-data: false
 data:
 - series: Disney
   episode: Cinderella
-  release: '1603324800'
+  release: 1603324800
   language: de-de
   category: audio-play-songs
   runtime: 59

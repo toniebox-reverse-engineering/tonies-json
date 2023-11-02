@@ -1,10 +1,10 @@
 article: '10000675'
-last-update: 1698939379
+last-update: 1698940578
 lock-data: false
 data:
 - series: Disney
   episode: Bambi
-  release: '1626307200'
+  release: 1626307200
   language: en-gb
   category: audio-play-songs
   runtime: 40

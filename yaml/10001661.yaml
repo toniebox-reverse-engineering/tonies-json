@@ -1,10 +1,10 @@
 article: '10001661'
-last-update: 1698939439
+last-update: 1698940516
 lock-data: false
 data:
 - series: La Pat' Patrouille
   episode: Ruben
-  release: '1671062400'
+  release: 1671062400
   language: fr-fr
   category: audio-play
   runtime: 45

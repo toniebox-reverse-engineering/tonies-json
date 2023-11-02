@@ -1,10 +1,10 @@
 article: 01-0001
-last-update: 1698939187
+last-update: 1698940509
 lock-data: false
 data:
 - series: Janosch
   episode: Oh, wie schön ist Panama
-  release: '1474934400'
+  release: 1474934400
   language: de-de
   category: audio-play
   runtime: 55

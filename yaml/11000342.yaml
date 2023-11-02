@@ -1,10 +1,10 @@
 article: '11000342'
-last-update: 1698939474
+last-update: 1698940518
 lock-data: false
 data:
 - series: La Pat' Patrouille
   episode: Rocky
-  release: '1692748800'
+  release: 1692748800
   language: fr-fr
   category: audio-play
   runtime: 60

@@ -1,10 +1,10 @@
 article: '10000725'
-last-update: 1698939397
+last-update: 1698940578
 lock-data: false
 data:
 - series: PJ Masks
   episode: Catboy
-  release: '1660780800'
+  release: 1660780800
   language: en-gb
   category: audio-play
   runtime: 64
@@ -15,9 +15,10 @@ data:
   web: https://tonies.com/en-gb/tonies/pj-masks/catboy/
   shop-id: 906093f0-f2e0-4505-a98d-0e620e6100cb
   track-desc:
-  - PJ Masks Theme Song
-  - Catboy vs. Robo-Cat
-  - Catboy Squared
-  - Super Super Cat Speed
-  - The Bravest Cat
+  - Gecko und der Schlafwandler
+  - Catboy und der Schrumpfer
+  - Eulette und der verschwundene Zug
+  - Gecko will keine Hilfe
+  - Geckos Konzertkartenproblem
+  - Tollpatschiger Catboy
   ids: []

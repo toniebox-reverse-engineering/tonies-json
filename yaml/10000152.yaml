@@ -1,10 +1,10 @@
 article: '10000152'
-last-update: 1698939361
+last-update: 1698940578
 lock-data: false
 data:
 - series: Disney
   episode: Frozen
-  release: '1605744000'
+  release: 1605744000
   language: en-gb
   category: audio-play-songs
   runtime: 24

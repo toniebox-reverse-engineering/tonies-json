@@ -1,10 +1,10 @@
 article: '10000375'
-last-update: 1698939416
+last-update: 1698940516
 lock-data: false
 data:
 - series: Disney
   episode: Brave
-  release: '1675036800'
+  release: 1675036800
   language: en-gb
   category: audio-play-songs
   runtime: 30

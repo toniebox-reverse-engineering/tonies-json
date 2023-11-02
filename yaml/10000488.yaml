@@ -1,10 +1,10 @@
 article: '10000488'
-last-update: 1698939378
+last-update: 1698940515
 lock-data: false
 data:
 - series: The Famous Five
   episode: 'The Famous Five: A Short Story Collection'
-  release: '1620604800'
+  release: 1620604800
   language: en-gb
   category: audio-play
   runtime: 67

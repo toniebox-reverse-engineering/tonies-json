@@ -1,10 +1,10 @@
 article: '10000202'
-last-update: 1698939214
+last-update: 1698940511
 lock-data: false
 data:
 - series: Benjamin Blümchen
   episode: Die Märchennacht im Zoo
-  release: '1580947200'
+  release: 1580947200
   language: de-de
   category: audio-play
   runtime: 44

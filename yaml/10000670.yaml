@@ -1,10 +1,10 @@
 article: '10000670'
-last-update: 1698939396
+last-update: 1698940515
 lock-data: false
 data:
 - series: Bing
   episode: Bing Bunny
-  release: N
+  release: 0
   language: en-gb
   category: audio-play
   runtime: 52

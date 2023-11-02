@@ -1,10 +1,10 @@
 article: '10001831'
-last-update: 1698939469
+last-update: 1698940517
 lock-data: false
 data:
 - series: Les Schtroumpfs
   episode: L'Apprenti Schtroumpf Et 2 Autres Histoires
-  release: '1687392000'
+  release: 1687392000
   language: fr-fr
   category: audio-play
   runtime: 100

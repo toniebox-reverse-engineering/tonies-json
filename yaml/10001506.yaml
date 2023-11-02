@@ -1,10 +1,10 @@
 article: '10001506'
-last-update: 1698939467
+last-update: 1698940517
 lock-data: false
 data:
 - series: Miraculous
   episode: Chat Noir
-  release: '1684368000'
+  release: 1684368000
   language: fr-fr
   category: audio-play
   runtime: 44

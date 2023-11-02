@@ -1,10 +1,10 @@
 article: '10001263'
-last-update: 1698939438
+last-update: 1698940516
 lock-data: false
 data:
 - series: Disney
   episode: La Belle Et La Bête
-  release: '1657756800'
+  release: 1657756800
   language: fr-fr
   category: audio-play-songs
   runtime: 47

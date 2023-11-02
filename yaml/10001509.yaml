@@ -1,10 +1,10 @@
 article: '10001509'
-last-update: 1698939462
+last-update: 1698940517
 lock-data: false
 data:
 - series: Simon
   episode: Superlapin
-  release: '1676505600'
+  release: 1676505600
   language: fr-fr
   category: audio-play
   runtime: 45

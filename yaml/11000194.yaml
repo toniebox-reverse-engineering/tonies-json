@@ -1,10 +1,10 @@
 article: '11000194'
-last-update: 1698939425
+last-update: 1698940516
 lock-data: false
 data:
 - series: Paw Patrol
   episode: Rex
-  release: '1687219200'
+  release: 1687219200
   language: en-gb
   category: audio-play
   runtime: 58

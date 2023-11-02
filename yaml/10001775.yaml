@@ -1,10 +1,10 @@
 article: '10001775'
-last-update: 1698939460
+last-update: 1698940517
 lock-data: false
 data:
 - series: Mes Classiques Préférés
   episode: Les Trois Mousquetaires
-  release: '1673481600'
+  release: 1673481600
   language: fr-fr
   category: audio-play
   runtime: 64

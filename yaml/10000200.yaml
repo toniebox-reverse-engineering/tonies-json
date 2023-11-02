@@ -1,10 +1,10 @@
 article: '10000200'
-last-update: 1698939215
+last-update: 1698940511
 lock-data: false
 data:
 - series: Lieblings-Klassiker
   episode: Robinson Crusoe und vier weitere Klassiker
-  release: '1580947200'
+  release: 1580947200
   language: de-de
   category: audio-play
   runtime: 80

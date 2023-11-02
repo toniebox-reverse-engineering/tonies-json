@@ -1,10 +1,10 @@
 article: '11000503'
-last-update: 1698939477
+last-update: 1698940518
 lock-data: false
 data:
 - series: La Pat' Patrouille
   episode: Liberty
-  release: '1695254400'
+  release: 1695254400
   language: fr-fr
   category: audio-play
   runtime: 59

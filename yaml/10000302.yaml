@@ -1,10 +1,10 @@
 article: '10000302'
-last-update: 1698939255
+last-update: 1698940511
 lock-data: false
 data:
 - series: Die drei Räuber
   episode: Die drei Räuber
-  release: '1615420800'
+  release: 1615420800
   language: de-de
   category: audio-book
   runtime: 68

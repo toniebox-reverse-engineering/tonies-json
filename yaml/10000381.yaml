@@ -1,10 +1,10 @@
 article: '10000381'
-last-update: 1698939291
+last-update: 1698940512
 lock-data: false
 data:
 - series: Paddington
   episode: Geschichten von Paddington
-  release: '1638316800'
+  release: 1638316800
   language: de-de
   category: audio-book
   runtime: 157

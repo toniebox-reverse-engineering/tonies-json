@@ -1,10 +1,10 @@
 article: '10001270'
-last-update: 1698939453
+last-update: 1698940517
 lock-data: false
 data:
 - series: Le Petit Nicolas
   episode: Le Petit Nicolas
-  release: '1661990400'
+  release: 1661990400
   language: fr-fr
   category: audio-play
   runtime: 68

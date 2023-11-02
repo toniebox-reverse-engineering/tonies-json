@@ -1,10 +1,10 @@
 article: '10000408'
-last-update: 1698939380
+last-update: 1698940515
 lock-data: false
 data:
 - series: Super Wings
   episode: A World of Adventure
-  release: '1628726400'
+  release: 1628726400
   language: en-gb
   category: audio-play
   runtime: 72

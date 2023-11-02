@@ -1,10 +1,10 @@
 article: '10001480'
-last-update: 1698939438
+last-update: 1698940516
 lock-data: false
 data:
 - series: Mes Comptines Préférées
   episode: Pour Apprendre
-  release: '1657756800'
+  release: 1657756800
   language: fr-fr
   category: music
   runtime: 35

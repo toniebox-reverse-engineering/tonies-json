@@ -1,10 +1,10 @@
 article: '10001502'
-last-update: 1698939462
+last-update: 1698940517
 lock-data: false
 data:
 - series: Disney
   episode: Mulan
-  release: '1678320000'
+  release: 1678320000
   language: fr-fr
   category: audio-play-songs
   runtime: 54

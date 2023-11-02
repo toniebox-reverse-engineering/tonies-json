@@ -1,10 +1,10 @@
 article: '10001258'
-last-update: 1698939289
+last-update: 1698940512
 lock-data: false
 data:
 - series: Lieblings-Kinderlieder
   episode: Tierlieder
-  release: '1633996800'
+  release: 1633996800
   language: de-de
   category: music
   runtime: 53

@@ -1,10 +1,10 @@
 article: '10000358'
-last-update: 1698939376
+last-update: 1698940515
 lock-data: false
 data:
 - series: Bob the Builder
   episode: Bob the Builder 1
-  release: '1618963200'
+  release: 1618963200
   language: en-gb
   category: audio-play
   runtime: 60

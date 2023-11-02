@@ -1,10 +1,10 @@
 article: '10001322'
-last-update: 1698939428
+last-update: 1698940516
 lock-data: false
 data:
 - series: DC
   episode: Wonder Woman
-  release: '1689811200'
+  release: 1689811200
   language: en-gb
   category: audio-play
   runtime: 60
