@@ -108,6 +108,7 @@ for filename in os.listdir(auth_dir):
                 if tmp_base is not None and tmp_base["article"] == article and len(tmp_base["data"]) > 0:
                     base = tmp_base
                     data = base["data"][0]
+                    id = data["ids"][0]
                     
         if data is None:
             continue
