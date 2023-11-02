@@ -1,20 +1,41 @@
 article: '10000830'
-last-update: 1698936992
+last-update: 1698939184
 lock-data: false
 data:
 - series: Lieblings-Kinderlieder
   episode: Schlaflieder
-  release: 1626307200
+  release: '1626307200'
   language: de-de
   category: music
-  runtime: 0
-  age: 99
+  runtime: 50
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000830-50002696-b--9flWR7Ik.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/5ed489eb046309bd2c912d98a81196f4a981ea5051bfe3aea168087f/hoerprobe_neuauflage_schalflieder.mp3
+  web: https://tonies.com/de-de/tonies/lieblings-kinderlieder/schlaflieder-2021/
+  shop-id: ab3b1beb-c968-45b2-aedc-5f0c4e88ffab
+  track-desc:
+  - Der Mond ist aufgegangen
+  - La-Le-Lu
+  - Schlaf, Kindlein, schlaf
+  - Weißt du, wie viel Sternlein stehen
+  - Wenn ich ein Vöglein wär
+  - Ade zur guten Nacht
+  - Der Sandmann ist da
+  - Die Blümlein, sie schlafen
+  - Guten Abend, gut‘ Nacht
+  - Guter Mond, du gehst so stille
+  - Kein schöner Land
+  - Schlaf, mein kleines Mäuschen
+  - Kinder brauchen Träume
+  - Kindlein mein, schlaf nun ein
+  - Kommt gezogen, kleine Vögel
+  - Leise, Peterle, leise
+  - Müde bin ich, geh zur Ruh
+  - Nun ruhen alle Wälder
+  - Schlaflied für Anne
+  - Still, still, still
+  - Wer hat die schönsten Schäfchen
   ids:
   - audio-id: 1623662483
     hash: 329B411BA117F4BB8E781AF022D96D04F44111D8

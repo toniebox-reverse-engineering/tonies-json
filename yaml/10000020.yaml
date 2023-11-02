@@ -1,20 +1,25 @@
 article: '10000020'
-last-update: 1698936991
+last-update: 1698939367
 lock-data: false
 data:
 - series: Disney
   episode: The Lion King
-  release: 0
+  release: N
   language: en-gb
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 30
+  age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000020-50000060-b-GvoWSCOl.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000020-50000060-b--TjY0sqFh.png
+  sample: https://cdn.tonies.de/o/audio_samples/1a7d13f6f1390a2bfb66a023077fcd79eaa821f73f570b8169aeea87/audio_sample_10000020_disney_lion_king_1min.mp3
+  web: https://tonies.com/en-gb/tonies/disney/the-lion-king/
+  shop-id: a28f7907-a83b-499e-8e34-189f271609f4
+  track-desc:
+  - I Just Can’t Wait to Be King
+  - Hakuna Matata
+  - Queen of the Jungle
+  - He Lives in You
+  - STORY- The Lion King
   ids:
   - audio-id: 1561553854
     hash: 12CED2F9C6577B5D0B410D2A4E9B27F4F80E6BA2

@@ -1,18 +1,19 @@
 article: '10000807'
-last-update: 1698936992
+last-update: 1698939431
 lock-data: false
 data:
-- series: Enid Blyton
+- series: The Wishing Chair
   episode: The Wishing Chair
-  release: 1695600000
+  release: '1695600000'
   language: en-gb
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 220
+  age: 5
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000807%202-9CNxImgI.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/12e50c1e0a67aec4e9bfc5c2645d158358b55f3dc268a9eec7846410/10000807_the_wishing_chair_sample.wav
+  web: https://tonies.com/en-gb/tonies/the-wishing-chair/the-wishing-chair/
+  shop-id: 4d8f44fc-5148-4b78-b580-a4d848b75575
+  track-desc:
+  - The Adventures of the Wishing Chair
   ids: []

@@ -1,18 +1,26 @@
 article: '10000377'
-last-update: 1698936992
+last-update: 1698939382
 lock-data: false
 data:
 - series: Masha and the Bear
   episode: Masha & the Bear 1
-  release: 1631145600
+  release: '1631145600'
   language: en-gb
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 33
+  age: 3
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/hero-2-Zk6hWR2Y.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/c0d52ff421351c2dca6bf25b1533a364386767eebbc7f35bf884f27e/audio_sample_masha.mp3
+  web: https://tonies.com/en-gb/tonies/masha-and-the-bear/masha-the-bear-1/
+  shop-id: d355b069-4440-4041-8c72-883d440d6da3
+  track-desc:
+  - Song of Jams
+  - Red Riding Hood
+  - Song About Cleanliness
+  - By the Pike’s Wish
+  - Song of Three Wishes
+  - The Wolf and the Seven Young Kids
+  - Coming Home Song
+  - Lullaby Song
   ids: []

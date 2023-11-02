@@ -1,18 +1,19 @@
 article: '10000944'
-last-update: 1698936993
+last-update: 1698939402
 lock-data: false
 data:
-- series: We’re Going on a Bear Hunt
+- series: We're Going on a Bear Hunt
   episode: We're Going on a Bear Hunt
-  release: 1663632000
+  release: '1663632000'
   language: en-gb
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 23
+  age: 4
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000944-50003099-b-Kp0dBPHX.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/cd5b8157208ce0e01096ebbafb147d1ece15b1d209c482970c27f6f8/bear_hunt_sample_clip_1.wav
+  web: https://tonies.com/en-gb/tonies/we-re-going-on-a-bear-hunt/were-going-on-a-bear-hunt/
+  shop-id: afb27a01-5e0b-45e2-944a-b77b52e4aa30
+  track-desc:
+  - We're Going on a Bear Hunt
   ids: []

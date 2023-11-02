@@ -1,20 +1,29 @@
 article: 01-0013
-last-update: 1698936991
+last-update: 1698939189
 lock-data: false
 data:
 - series: Benjamin Blümchen
   episode: Der Zoo-Kindergarten
-  release: 1474934400
+  release: '1474934400'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 43
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0013-98-0065-b-16Kl6TCe.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/4a12ddaa0a1d805b2730a7961c9c15169f03fc7b0affe8bc41ad01ec/01_hoerprobe_benjamin_zoo_kindergarten_128_kbps.mp3
+  web: https://tonies.com/de-de/tonies/benjamin-bluemchen/der-zoo-kindergarten/
+  shop-id: d3678e1a-1af7-4ecb-8509-3fe4cfa0bec9
+  track-desc:
+  - Titellied
+  - Eine gute Idee
+  - Auf dem Dachboden
+  - Lauter Vorschriften
+  - Malen, Spielen, Rumkugeln
+  - Benjamins Kochstunde
+  - Wozu Übungsbögen?
+  - Die Prüfung
+  - Alles kommt anders
   ids:
   - audio-id: 1490954302
     hash: DE2E96DCAEF3C0251104354AAE218323BB0D804A

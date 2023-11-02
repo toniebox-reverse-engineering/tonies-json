@@ -1,18 +1,19 @@
 article: '10001278'
-last-update: 1698936993
+last-update: 1698939457
 lock-data: false
 data:
 - series: Les Schtroumpfs
   episode: La Grande Schtroumpfette
-  release: 1668643200
+  release: '1668643200'
   language: fr-fr
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 74
+  age: 4
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001278-50003917-b-Q_0zrR42.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/87aff3a3b149882ad274e742e64acdd8b6783798eb40015143adccf2/sample_tonie_schtroumpfette.mp3
+  web: https://tonies.com/fr-fr/tonies/les-schtroumpfs/la-grande-schtroumpfette/
+  shop-id: 30600395-3612-4402-8a09-cf05db19911f
+  track-desc:
+  - La Grande Schtroumpfette
   ids: []

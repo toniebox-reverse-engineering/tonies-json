@@ -1,18 +1,25 @@
 article: '10001318'
-last-update: 1698936993
+last-update: 1698939393
 lock-data: false
 data:
-- series: Nat Geo
+- series: National Geographic Kids
   episode: Astronaut
-  release: 1650844800
+  release: '1650844800'
   language: en-gb
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 60
+  age: 5
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10001318-50004035-b-vMYjUo_G.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/077a5559814fb5437ce9b2796aca8a2e67324c18b63599b00307c8e0/1astro_intro.wav
+  web: https://tonies.com/en-gb/tonies/national-geographic-kids/astronaut/
+  shop-id: a7fdfa72-a9c0-4429-91c2-52e85a2739da
+  track-desc:
+  - Our Solar System
+  - Galaxies, Stars and Black Holes
+  - Humans in Space
+  - Aliens?
+  - Blast Off
+  - Space Mysteries
+  - Exploring the Night Sky
   ids: []

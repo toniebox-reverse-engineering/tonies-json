@@ -1,18 +1,29 @@
 article: '10001501'
-last-update: 1698936993
+last-update: 1698939465
 lock-data: false
 data:
 - series: Mes Classiques Préférés
   episode: Le Roman De Renart
-  release: 1681344000
+  release: '1681344000'
   language: fr-fr
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 75
+  age: 6
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/50004854-Tonie_Shado-nYwTQU8D.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/c5cff94628bcb89ded80a4436fc7aa22b013a537bbb56b761d5b0f7e/sample_tonie_mclap_roman_renart.mp3
+  web: https://tonies.com/fr-fr/tonies/mes-classiques-preferes/le-roman-de-renart/
+  shop-id: d185ea55-5b5d-4820-b068-e03fac042d1c
+  track-desc:
+  - Introduction
+  - Comment Renart vola des poissons à des marchands.
+  - Comment Renart emporta le coq Chantecler mais ne le mangea pas.
+  - Comment Renart prit à Tiecelin le fromage qu’il avait volé.
+  - Comment Renart ne put obtenir de la Mésange la bise de la paix.
+  - Comment Renart et Tybert firent la découverte d’une andouille que Tybert emporta
+    et que Renart ne mangea pas.
+  - Comment Renart entra et sortit tranquillement du puits ; comment Ysengrin y entra
+    et en sortit à son grand dommage.
+  - Comment Ysengrin régla ses comptes avec Renart
+  - Conclusion
   ids: []

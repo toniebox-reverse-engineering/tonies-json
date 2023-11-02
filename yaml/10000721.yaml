@@ -1,18 +1,20 @@
 article: '10000721'
-last-update: 1698936992
+last-update: 1698939364
 lock-data: false
 data:
 - series: Paw Patrol
   episode: Skye
-  release: 1631145600
+  release: '1631145600'
   language: en-gb
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 58
+  age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000721-50002336-b-H6bLN9nf.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000721-50002336-b-EIBKveVe.png
+  sample: https://cdn.tonies.de/o/audio_samples/b193f62d74862218007c704a1e3a7ce6f522f261946ac17468f03057/audio_sample_paw_patrol_skye_ext.mp3
+  web: https://tonies.com/en-gb/tonies/paw-patrol/skye/
+  shop-id: 1067134b-fa45-49c1-b9c2-e56b91fa6fa9
+  track-desc:
+  - '1–15 Sea Patrol: Pirate Pups to the Rescue'
+  - '16–29 Sea Patrol: Pups save Puplantis'
   ids: []

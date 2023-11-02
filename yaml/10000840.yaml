@@ -1,18 +1,39 @@
 article: '10000840'
-last-update: 1698936992
+last-update: 1698939435
 lock-data: false
 data:
 - series: The Elf on the Shelf
   episode: The Elf on the Shelf
-  release: 1697760000
+  release: '1697760000'
   language: en-gb
   category: audio-book-songs
-  runtime: 0
-  age: 99
+  runtime: 54
+  age: 3
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/Image%202-_pbF_tF5.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/d2b078f786a7ec10c26f69de6ae750eecdc6439e086b1ae4d53f17d4/10000840_elf_on_the_shelf_sample.wav
+  web: https://tonies.com/en-gb/tonies/the-elf-on-the-shelf/the-elf-on-the-shelf/
+  shop-id: c4d1b66d-4955-4f25-b24d-30bf7908a6f9
+  track-desc:
+  - Scout Elf Zippy
+  - Here At The North Pole Song
+  - Legends And Lore Lab
+  - Reindeer Stable
+  - Reindeer Stomp
+  - Snackstravaganza
+  - Mrs Claus Sweet Shop
+  - Recipe
+  - Scout Elf School
+  - Scout Elves Dont Rest
+  - Mail Grotto
+  - Letters To Santa
+  - Night Before Christmas Intro
+  - Night Before Christmas Story (Bebop)
+  - Night Before Christmas Song
+  - Clocktower
+  - Christmas Is Here
+  - Scout Elf Comedy Club
+  - Grand Hall
+  - Boardwalk
+  - Snowflake Shuffle
   ids: []

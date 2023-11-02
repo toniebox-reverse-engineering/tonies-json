@@ -1,18 +1,29 @@
 article: '10001473'
-last-update: 1698936993
+last-update: 1698939343
 lock-data: false
 data:
 - series: Leos Tag
   episode: Achtung, fertig, Zähneputzen!
-  release: 1680134400
+  release: '1680134400'
   language: de-de
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 50
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001473-50004892-b-CH2wvqo-.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/b0b607deec768d257af76f3ccfca94cbd2afc5f3d83500cb0d4418a6/heorprobe_10001473_leos_tag_achtung_fertig_zahneputzen.mp3
+  web: https://tonies.com/de-de/tonies/leos-tag/achtung-fertig-zhneputzen/
+  shop-id: e280136f-64ca-4ebb-aa93-29a30334008d
+  track-desc:
+  - Los geht's!
+  - Bli-bla-blitzeblanke Zähne
+  - '"Süße" Tierchen in deinem Mund?'
+  - Ellis Reise
+  - Armer, kleiner Leo
+  - Quatsch im Badezimmmer
+  - Leoparden-lecker, aber gut für die Zähne?
+  - Da wackelt was!
+  - Keine Angst, Leo!
+  - In geheimer Mission
+  - Leo und Ellli haben Streit
   ids: []

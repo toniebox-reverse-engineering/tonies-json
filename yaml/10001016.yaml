@@ -1,18 +1,23 @@
 article: '10001016'
-last-update: 1698936993
+last-update: 1698939449
 lock-data: false
 data:
 - series: C'Est Toujours Pas Sorcier
   episode: Sur Les Traces Des Dinosaures
-  release: 1650499200
+  release: '1650499200'
   language: fr-fr
   category: audio-play-educational
-  runtime: 0
-  age: 99
+  runtime: 68
+  age: 6
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001016-50003341-b-L6ST_gNt.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/ff01b5230d10d059b2535f7485a315538202430bc14f034b3d76921e/sample_tonie_ctps_dinosaures.mp3
+  web: https://tonies.com/fr-fr/tonies/c-est-toujours-pas-sorcier/sur-les-traces-des-dinosaures/
+  shop-id: a5433bd6-3436-4dbb-aa0c-3e36b239f155
+  track-desc:
+  - Introduction
+  - Que reste-t-il des dinosaures
+  - 'Mes jeux sonores : les dinosaures'
+  - Pourquoi chasse-t-on les astéroïdes ?
+  - 'Mes jeux sonores : les astéroïdes'
   ids: []

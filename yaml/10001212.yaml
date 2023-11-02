@@ -1,20 +1,21 @@
 article: '10001212'
-last-update: 1698936993
+last-update: 1698939318
 lock-data: false
 data:
-- series: Bitte nicht öffnen – Bissig!
+- series: Bitte nicht öffnen
   episode: Bissig!
-  release: 0
+  release: N
   language: de-de
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 153
+  age: 8
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001212-50003726-b-cWO9BDGA.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/503150d22f501222fab79b596c901f26295bc0a0b6c1544d8dc50700/hoerprobe_10001212_bitte_nicht_oeffnen.mp3
+  web: https://tonies.com/de-de/tonies/bitte-nicht-oeffnen/bissig/
+  shop-id: 167c8da9-8cb1-44b2-a66b-8bde0380950c
+  track-desc:
+  - '43 Kapitel: Bitte nicht öffnen – Bissig!'
   ids:
   - audio-id: 1653375391
     hash: 20BEEED2E8CB2FF29DCA3DA106CB4437B298F50E

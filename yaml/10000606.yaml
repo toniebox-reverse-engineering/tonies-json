@@ -1,20 +1,30 @@
 article: '10000606'
-last-update: 1698936992
+last-update: 1698939283
 lock-data: false
 data:
 - series: Peter Wohlleben
   episode: Hörst du wie die Bäume sprechen?
-  release: 1631145600
+  release: '1631145600'
   language: de-de
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 141
+  age: 6
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000606-50001915-b-1o6a8e1l.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/025fbfd4c14fe5a18acc3de79b9009e1fee60d2ced0ed21007e15edb/hoerprobe_peter_wohlleben_hoerst_du_wie_die_baeume_sprechen_ext.mp3
+  web: https://tonies.com/de-de/tonies/peter-wohlleben/hoerst-du-wie-die-baeume-sprechen/
+  shop-id: d2a58c44-a0b2-4888-afa6-22073946f6c7
+  track-desc:
+  - Wie ein Baum funktioniert
+  - Familienleben im Wald
+  - Im Wald wird viel erzählt
+  - Bäume haben viel Durst
+  - Wie Tiere im Wald leben
+  - Was Tiere können
+  - Auch im Wald sind nicht alle gesund
+  - Das Jahr im Wald
+  - Der Wald und wir
+  - Bäume und Tiere in der Stadt
   ids:
   - audio-id: 1628517672
     hash: 68A2F8C3A88774A986D0ECA868B482E8C4CB721F

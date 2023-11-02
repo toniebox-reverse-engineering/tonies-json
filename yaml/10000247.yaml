@@ -1,20 +1,22 @@
 article: '10000247'
-last-update: 1698936992
+last-update: 1698939233
 lock-data: false
 data:
 - series: Pumuckl
   episode: Spuk in der Werkstatt/Das verkaufte Bett
-  release: 1599696000
+  release: '1599696000'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 49
+  age: 4
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000247-50001211-b-mASJO1wG.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/9a824fb64c8ba4eb35133e74d9bafafc6c3b6899dc9b02431de6cb94/hoerprobe_pumuckl_ext.mp3
+  web: https://tonies.com/de-de/tonies/pumuckl/spuk-in-der-werkstatt-das-verkaufte-bett/
+  shop-id: 5e42ada7-f19e-4b58-8e80-48adcaac8d77
+  track-desc:
+  - Spuk in der Werkstatt
+  - Das verkaufte Bett
   ids:
   - audio-id: 1597843958
     hash: BD838A625EC63E7713687B347EAFDF7C774E57A7

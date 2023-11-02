@@ -1,18 +1,22 @@
 article: '11000307'
-last-update: 1698936994
+last-update: 1698939474
 lock-data: false
 data:
 - series: Les As De La Jungle
   episode: Miguel
-  release: 1692748800
+  release: '1692748800'
   language: fr-fr
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 42
+  age: 4
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/51001016-Tonie_Shado-BX7QVi8q.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/20b629e976567dd29009804cbb113f7dc193e1dd636f6a0da0419198/sample_tonie_as_jungle_miguel.mp3
+  web: https://tonies.com/fr-fr/tonies/les-as-de-la-jungle/miguel/
+  shop-id: 25fe1c6c-657f-4573-9621-e9f3a1fbbb3a
+  track-desc:
+  - Le monstre de la nuit
+  - Gaffe au gorille
+  - La banane fatale
+  - Le gorille et la reine
   ids: []

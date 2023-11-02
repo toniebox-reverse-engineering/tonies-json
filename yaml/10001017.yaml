@@ -1,18 +1,22 @@
 article: '10001017'
-last-update: 1698936993
+last-update: 1698939445
 lock-data: false
 data:
 - series: Mes Contes Préférés
   episode: Le Petit Chaperon Rouge Et 3 Autres Contes
-  release: 0
+  release: N
   language: fr-fr
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 40
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001017-50003343-b-bPw96OFc.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/f75a173ddae4d729bba0015f79e367bed2c538e65c26e25559033da9/sample_tonie_mconp_petit_chaperon_rouge.mp3
+  web: https://tonies.com/fr-fr/tonies/mes-contes-preferes/le-petit-chaperon-rouge-et-3-autres-contes/
+  shop-id: e805a0d2-d351-4055-9971-4e0ecdad90ed
+  track-desc:
+  - Le petit Chaperon Rouge
+  - Hansel et Gretel
+  - Blanche Neige et les sept nains
+  - Le loup et les sept chevreaux
   ids: []

@@ -1,18 +1,26 @@
 article: '10001310'
-last-update: 1698936993
+last-update: 1698939368
 lock-data: false
 data:
-- series: Nat Geo
+- series: National Geographic Kids
   episode: Horse
-  release: 1669507200
+  release: '1669507200'
   language: en-gb
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 60
+  age: 6
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10001310-50004013-b-ubyMMvzq.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/1a9e27dc54d47c9fe5ed2424a7da3dadaabb6433dcd538cee1661643/nat_geo_horses_audio_sample.wav
+  web: https://tonies.com/en-gb/tonies/national-geographic-kids/horse-uk/
+  shop-id: 43b50845-bb90-4599-9b18-12592e17f313
+  track-desc:
+  - Horse History
+  - Horses Around the World
+  - Super Senses
+  - Horse Talk
+  - Saddle Up!
+  - Walk, Trot, Canter, Gallop
+  - Wild Horses
+  - Horse Care and Preservation
   ids: []

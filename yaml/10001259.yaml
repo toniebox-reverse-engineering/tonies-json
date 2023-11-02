@@ -1,20 +1,43 @@
 article: '10001259'
-last-update: 1698936993
+last-update: 1698939185
 lock-data: false
 data:
 - series: Lieblings-Kinderlieder
   episode: Schlaflieder 2
-  release: 0
+  release: N
   language: de-de
   category: music
-  runtime: 0
-  age: 99
+  runtime: 60
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001259-50003837-b--Hepch5uS.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/0ee7bdc736358f8850feac2fec21e99758c16509d88a4396a6ba14f0/hoerprobe_10001259_lieblings_kinderlieder_schlaflieder_2.mp3
+  web: https://tonies.com/de-de/tonies/lieblings-kinderlieder/schlaflieder-2-2021/
+  shop-id: be76f9ef-9f0c-478a-98d1-641c74d8eb35
+  track-desc:
+  - Sandmann, lieber Sandmann
+  - Abend wird es wieder
+  - Wie man schlafen geht
+  - Schlaflied
+  - Das Einschlaflied
+  - Schlaft alle
+  - Hundemüde
+  - Der Abendstern
+  - Hier im Mondenscheine
+  - Sieh nur die Sterne
+  - Schlaf, Kindchen, balde
+  - Der Wächter tutet in sein Horn
+  - Träumer
+  - Komm Schlaf, komm Traum
+  - Dein kleines Leben
+  - Wann die Kinder schlafen ein
+  - Vöglein fliegt dem Nestchen zu
+  - Puppenwiegenlied
+  - Suse, liebe Suse
+  - Stille, stille (kein Geräusch gemacht)
+  - Mariä Wiegenlied
+  - Großvaters Heia-Lied
+  - Twinkle, Twinkle Little Star (instrumental)
   ids:
   - audio-id: 1634291675
     hash: E905B5DD6EC37FF5C86CC318904E8DEA70C2229D

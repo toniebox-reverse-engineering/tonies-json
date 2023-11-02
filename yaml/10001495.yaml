@@ -1,18 +1,21 @@
 article: '10001495'
-last-update: 1698936993
+last-update: 1698939457
 lock-data: false
 data:
 - series: Babar
   episode: Les Chasses Au Trésor De Babar
-  release: 1669852800
+  release: '1669852800'
   language: fr-fr
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 56
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001495-50004836-b-viDP_6G8.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/828e2a7aa6f5b2a0e7409046a2e4f238195a515068ef0a5fa31b456a/sample_tonie_babar.mp3
+  web: https://tonies.com/fr-fr/tonies/babar/les-chasses-au-tresor-de-babar/
+  shop-id: b77ccf09-5c8f-4130-90aa-0a453c965518
+  track-desc:
+  - Introduction
+  - Comme au bon vieux temps
+  - Un objet d'art
   ids: []

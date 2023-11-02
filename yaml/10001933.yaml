@@ -1,18 +1,35 @@
 article: '10001933'
-last-update: 1698936993
+last-update: 1698939429
 lock-data: false
 data:
 - series: Yakka Dee
   episode: Yakka Dee
-  release: 1692316800
+  release: '1692316800'
   language: en-gb
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 59
+  age: 3
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10001933%202-GwHAuPcI.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/87b69baceed1ae58390f96f5b5761a83a262b35de096dd82f3e9b252/10001933_yakka_dee_sample_2.wav
+  web: https://tonies.com/en-gb/tonies/yakka-dee/yakka-dee/
+  shop-id: a8a30e86-94f1-4ae5-9f78-fe4204069286
+  track-desc:
+  - Introduction
+  - Bike
+  - Transport Game
+  - Boots
+  - Action Rhyme
+  - Drum
+  - Music Quiz
+  - Robot
+  - Robot Game
+  - Cup
+  - Kitchen Game
+  - Chicken
+  - Farm Quiz
+  - Train
+  - Train Game
+  - Mouse
+  - Mouse Rhyme
   ids: []

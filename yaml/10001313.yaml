@@ -1,18 +1,22 @@
 article: '10001313'
-last-update: 1698936993
+last-update: 1698939431
 lock-data: false
 data:
 - series: Marvel
   episode: 'Spidey & His Amazing Friends: Spidey'
-  release: 1695168000
+  release: '1695168000'
   language: en-gb
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 40
+  age: 3
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10001313%202-s0dYDXfi.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/c9331251e79cc25779338642ed0b511665d13eb92162699e3db216e2/10001313_spidey_his_amazing_friends_spidey_sample.wav
+  web: https://tonies.com/en-gb/tonies/marvel/spidey-his-amazing-friends-spidey/
+  shop-id: a3707d68-5477-472d-b2ce-d3b34a208697
+  track-desc:
+  - Marvel’s Spidey and His Amazing Friends Theme Song
+  - Webs Up Song
+  - Super Hero Song
+  - Spidey and His Amazing Friends - Too Much Fun Story
   ids: []

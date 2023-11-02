@@ -1,20 +1,28 @@
 article: '10000303'
-last-update: 1698936992
+last-update: 1698939187
 lock-data: false
 data:
 - series: Peppa Pig
   episode: Die Ritterburg und 7 weitere Geschichten
-  release: 1605744000
+  release: '1605744000'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 44
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000303-50001268-b-MMwcmSQ5.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/353820fbff0100f088585a444cc1ff0d74b19782618f28938e99c3cf/hoerprobe_peppa_pig_die_ritterburg_ext.mp3
+  web: https://tonies.com/de-de/tonies/peppa-pig/die-ritterburg/
+  shop-id: 7e91c8cf-3ddf-4b48-a9e0-45518399d4f7
+  track-desc:
+  - Die Ritterburg
+  - Der Fallschirmsprung
+  - Gerald Giraffe ist schon groß
+  - Frau Mümmels Taxi
+  - So tun als ob
+  - Roller fahren
+  - Die Musikstunde
+  - Die Puppenklinik
   ids:
   - audio-id: 1603281123
     hash: 9D5EDE86C919617B949BC0B8F69B3FB8BF67CA42

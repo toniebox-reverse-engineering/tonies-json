@@ -1,18 +1,20 @@
 article: '10001588'
-last-update: 1698936993
+last-update: 1698939461
 lock-data: false
 data:
 - series: Les Copains Du Dodo
   episode: Doudou Nounours
-  release: 1676505600
+  release: '1676505600'
   language: fr-fr
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 47
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/50004079-Tonie_Shado-aEosqkrK.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/942d462b64870c2a13f9916a3bb6c90036d4c668eb267b0481904abc/sample_tonie_lcdd_doudou_nounours.mp3
+  web: https://tonies.com/fr-fr/tonies/les-copains-du-dodo/doudou-nounours/
+  shop-id: b32e297f-191e-4b8f-afbc-7067b5ebe8ef
+  track-desc:
+  - La promenade bucolique de Doudou Nounours
+  - La chanson-ritournelle de Doudou Nounours
   ids: []

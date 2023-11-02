@@ -1,20 +1,42 @@
 article: '10000508'
-last-update: 1698936992
+last-update: 1698939330
 lock-data: false
 data:
 - series: Giraffenaffen
   episode: Die Giraffenaffen Lieblingslieder
-  release: 1668038400
+  release: '1668038400'
   language: de-de
   category: music
-  runtime: 0
-  age: 99
+  runtime: 66
+  age: 6
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000508-50001599-b-OshyuzM2.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/7ea1d246fb6ab47d615408a5c95ee134c8d32519215b9bf1192cb823/hoerprobe_10000508_giraffenaffen_die_giraffenaffen_lieblingslieder.wav
+  web: https://tonies.com/de-de/tonies/giraffenaffen/die-giraffenaffen-lieblingslieder/
+  shop-id: caa6bf32-f978-4514-8377-b82167f58b6f
+  track-desc:
+  - Wir sind da (Giraffenaffensong) - Roger Cicero
+  - Ich wär so gern wie Du - Johannes Oerding
+  - Unter dem Meer - Stefanie Heinzmann
+  - Wenn Du richtig glücklich bist - Nico Santos
+  - Wundertoller Tag - Giraffenaffen
+  - Auf der Mauer, auf der Lauer - Marquess
+  - Kommt ein Vogel geflogen - Mark Forster
+  - Seeräuber-Opa Fabian - Lena
+  - Hätt' ich Dich heut' erwartet - Thomas D, Roman Lob
+  - Anne Kaffeekanne - Leslie Clio
+  - Probiers mal mit Gemütlichkeit - Jupiter Jones
+  - Wer hat Angst vor dem bösen Wolf - Max Raabe & Palast Orchester
+  - Trau Dich - Slime
+  - Und Alle! (Giraffenaffensong) - Giraffenaffen
+  - Die Affen rasen durch den Wald - Roger Cicero
+  - Die Gedanken sind frei - LEA
+  - Im Frühtau zu Berge - Lotte
+  - Manah Mannah - Dendemann
+  - Die schnellste Maus von Mexiko - Alvaro Soler
+  - Meine Oma fährt im Hühnerstall Motorrad - Culcha Candela
+  - Biene Maja - Kerstin Ott
+  - Weißt Du wie viel Sternlein stehen - Glasperlenspiel
   ids:
   - audio-id: 1666852857
     hash: CD64F10600A56E42853ED6C8AA7A33DA6F362AD5

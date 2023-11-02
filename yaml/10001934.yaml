@@ -1,18 +1,29 @@
 article: '10001934'
-last-update: 1698936993
+last-update: 1698939421
 lock-data: false
 data:
 - series: Little Princess
   episode: Little Princess Collection
-  release: 1684713600
+  release: '1684713600'
   language: en-gb
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 105
+  age: 3
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/50006092-Tonie_Shado-qo6BGtyh.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/437a545430eb8e407fdc988c3a14d2febf0fd61b9090f3c56fccda34/10001934_little_princess_sample.wav
+  web: https://tonies.com/en-gb/tonies/little-princess/little-princess-collection/
+  shop-id: 9d6054f4-45d8-471e-a28a-f64a174abe60
+  track-desc:
+  - Introduction
+  - Cloud Fishing
+  - Cowgirl
+  - Gilbot
+  - Fish
+  - Little Princess and the Sunflower
+  - Little Princess Lends a Hand
+  - Sister
+  - Tea for Two
+  - Turn on the Taps
+  - Where's Puss?
   ids: []

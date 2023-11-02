@@ -1,20 +1,29 @@
 article: 01-0114
-last-update: 1698936991
+last-update: 1698939199
 lock-data: false
 data:
 - series: Bibi & Tina
   episode: Die Waschbären sind los
-  release: 1511222400
+  release: '1511222400'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 40
+  age: 6
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0114-98-0338-b-fM8SKAgm.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/2d3fe0e9d39860f91b59c4c5975ad659530fc549408f1d21719cbf24/die_waschbaeren.mp3
+  web: https://tonies.com/de-de/tonies/bibi-tina/die-waschbaeren-sind-los/
+  shop-id: 12cef1e0-2972-40b5-b9c7-df586ad99a8b
+  track-desc:
+  - Titellied
+  - Die Überraschung am Mühlenbach
+  - Waschbärenalarm
+  - Auftrag vom Förster
+  - Nichts als Ärger
+  - Tina ist sauer
+  - Ohne Ende Waschbären
+  - Wo ist Woody?
+  - Versöhnliches Ende
   ids:
   - audio-id: 1506952133
     hash: E3BE5309B28F12F115600132904CC8FDFC09D3B4

@@ -1,20 +1,21 @@
 article: '10001273'
-last-update: 1698936993
+last-update: 1698939455
 lock-data: false
 data:
 - series: Astérix
   episode: Le Tour De Gaule D'Astérix
-  release: 1667433600
+  release: '1667433600'
   language: fr-fr
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 53
+  age: 6
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001273-50003897-b-iaVk1lY5.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/f9c3c493f8eb02444055434383cf47c730b2a7b096bc56aa3f2894db/sample_tonie_idefix.mp3
+  web: https://tonies.com/fr-fr/tonies/asterix/le-tour-de-gaule-d-asterix/
+  shop-id: ceb752a3-5c7c-4c09-898f-e36cf38e5c15
+  track-desc:
+  - Le Tour De Gaule D'Astérix
   ids:
   - audio-id: 1664204178
     hash: C5B809E777D88B91B2570BF155A4D0853F674FE6

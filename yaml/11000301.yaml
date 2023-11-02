@@ -1,18 +1,24 @@
 article: '11000301'
-last-update: 1698936994
+last-update: 1698939478
 lock-data: false
 data:
 - series: Tara Duncan
   episode: Que Ta Magie Illumine !
-  release: 1698278400
+  release: '1698278400'
   language: fr-fr
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 50
+  age: 5
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/51000998-Tonie_Shado-bPmPPfl0.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/1a2214a148ade9dab96a5f8bb5f5e0503c3cab79df9fe1d1ed19aa71/11000301_taraduncan_tara_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/tara-duncan/que-ta-magie-illumine/
+  shop-id: ee1e39e5-21ad-439a-81fa-fa47bb7dad4d
+  track-desc:
+  - Présentation de Tara
+  - Générique (chanson)
+  - AutreMonde
+  - L'arbre maudit
+  - Le violoniste
+  - Joyeux Anniversaire Tara !
   ids: []

@@ -1,18 +1,19 @@
 article: '10001272'
-last-update: 1698936993
+last-update: 1698939454
 lock-data: false
 data:
 - series: Astérix
   episode: Astérix Et La Serpe D'Or
-  release: 1667433600
+  release: '1667433600'
   language: fr-fr
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 39
+  age: 6
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001272-50003893-b-RomQNzzA.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/471c9fd96f2556695f4321fd40a2c4c081934b952a76ee8e0ba41dbc/sample_tonie_obelix.mp3
+  web: https://tonies.com/fr-fr/tonies/asterix/asterix-et-la-serpe-d-or/
+  shop-id: f57fea92-4b7c-4e02-9713-9ab452d30374
+  track-desc:
+  - Astérix Et La Serpe D'Or
   ids: []

@@ -1,18 +1,26 @@
 article: '10002100'
-last-update: 1698936993
+last-update: 1698939473
 lock-data: false
 data:
 - series: Les Contes De Hoofs
   episode: Zoof
-  release: 1692748800
+  release: '1692748800'
   language: fr-fr
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 46
+  age: 5
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/50006884-Tonie_Shado-GY_hj68a.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/8c146f1321da4c861504c95905d442204b2b07912159143747ea41f9/sample_tonie_hoofs_zoof.mp3
+  web: https://tonies.com/fr-fr/tonies/les-contes-de-hoofs/zoof/
+  shop-id: 9d7c0003-dd77-413e-8bdb-d14a5175566f
+  track-desc:
+  - Présentation Zoof
+  - Le petit chaperon rouge
+  - La princesse au petit pois
+  - Hansel et Gretel
+  - Pierre et le loup
+  - Blanche-Neige
+  - 'Jeu #1 : Devinettes'
+  - 'Jeu #2 : Virelangues'
   ids: []

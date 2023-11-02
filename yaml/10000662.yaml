@@ -1,18 +1,29 @@
 article: '10000662'
-last-update: 1698936992
+last-update: 1698939390
 lock-data: false
 data:
-- series: Enid Blyton
+- series: Magic Faraway Tree
   episode: Magic Faraway Tree - The Enchanted Wood
-  release: 1650585600
+  release: '1650585600'
   language: en-gb
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 117
+  age: 6
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000662-50002108-b-BX51M0WF.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/4e1b6da683c71dcc53fbd70d09d64dde39521f04364680e8e9ee3e05/mft_sample.mp3
+  web: https://tonies.com/en-gb/tonies/magic-faraway-tree/magic-faraway-tree/
+  shop-id: 71d0566a-2152-4878-b935-d6e3375326c2
+  track-desc:
+  - How they found the Magic Wood
+  - First visit to the Wood
+  - Up the Faraway Tree
+  - The Roundabout Land
+  - Moon-Face and the slippery-slip
+  - Beth makes some toffee for Moon-Face
+  - Joe and the Magic Snowman
+  - The House of the Three Bears
+  - The Battle of the Bears
+  - More and more surprises
+  - What happened to the Snowman
   ids: []

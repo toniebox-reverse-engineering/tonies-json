@@ -1,18 +1,33 @@
 article: '10001691'
-last-update: 1698936993
+last-update: 1698939351
 lock-data: false
 data:
 - series: Caillou
   episode: Sternschnuppen und weitere Geschichten
-  release: 1689120000
+  release: '1689120000'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 67
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/eyJwYXRoIjoiYm94aW5l-ZIefHFWa.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/ca55223c5a2b7be267ed5a4a40878d78e549c84c30d69bf49fa8b1bf/hoerprobe_10001691_caillou_sternschnuppen_und_weitere_geschichten.mp3
+  web: https://tonies.com/de-de/tonies/caillou/sternschnuppen-und-weitere-geschichten/
+  shop-id: 821d2e7c-7df6-4d70-96ef-09f2cdc2d189
+  track-desc:
+  - Caillou Intro
+  - Caillou Vorspann
+  - Sternschnuppen
+  - Ein Arbeitstag
+  - Gilbert Muß Zum Arzt
+  - Der Mondspaziergang
+  - Die Schatztruhe
+  - Auf Zum Campen
+  - Mit Stäbchen Essen
+  - Der Blindenhund
+  - Caillou Ist Es Heiß
+  - Rücksitzfahrer
+  - Verloren Und Wiedergefunden
+  - Magische Weihnachtszeit
+  - Caillou Abspann
   ids: []

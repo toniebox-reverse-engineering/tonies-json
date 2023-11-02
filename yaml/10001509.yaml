@@ -1,18 +1,27 @@
 article: '10001509'
-last-update: 1698936993
+last-update: 1698939462
 lock-data: false
 data:
 - series: Simon
   episode: Superlapin
-  release: 1676505600
+  release: '1676505600'
   language: fr-fr
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 45
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/50004882-Tonie_Shado-bsdna4HL.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/06b7c66fa58d6cd50e79e6a5a2754427922827f3c67751a0afee4222/sample_tonie_simon_superlapin.mp3
+  web: https://tonies.com/fr-fr/tonies/simon/superlapin/
+  shop-id: 012b1581-0108-4d5b-a9e5-d6c5a4f63e10
+  track-desc:
+  - C'est qui le plus fort ?
+  - Bataille de boules de neige
+  - J'peux y arriver
+  - Elle est trop forte Super Lou
+  - Les super animaux
+  - On a perdu Superlapin
+  - Mais si, tu es un super-héros
+  - C'est pas moi qui fais le monstre
+  - Super Mission !
   ids: []

@@ -1,18 +1,30 @@
 article: '10001959'
-last-update: 1698936993
+last-update: 1698939472
 lock-data: false
 data:
 - series: Les Sisters
   episode: Marine
-  release: 1689206400
+  release: '1689206400'
   language: fr-fr
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 70
+  age: 6
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/50006124-Tonie_Shado-f0b3zUuR.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/3ae0afc7afd339b0565fab864099a3e9ed4dbe9b6647ddbae67e92e1/sample_tonie_sisters_marine.mp3
+  web: https://tonies.com/fr-fr/tonies/les-sisters/marine/
+  shop-id: 622ae43e-da92-42e0-ab2f-2c0091972558
+  track-desc:
+  - Prologue
+  - Un journal pas si intime
+  - Histoires de vêtements
+  - Le doudou de Marine
+  - Un nouveau lit pour Marine
+  - La jambe dans le plâtre
+  - Des jeux en pagaille
+  - La cabane secrète
+  - Les visites de Darwin
+  - Marine et les mots
+  - Les vacances à Sète
+  - Épilogue
   ids: []

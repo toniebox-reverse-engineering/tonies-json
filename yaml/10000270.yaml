@@ -1,18 +1,38 @@
 article: '10000270'
-last-update: 1698936992
+last-update: 1698939374
 lock-data: false
 data:
-- series: Favourite Children’s Songs
+- series: Favourite Children's Songs
   episode: European Children's Songs
-  release: 1599696000
+  release: '1599696000'
   language: en-gb
   category: music
-  runtime: 0
-  age: 99
+  runtime: 50
+  age: 3
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000270-50001627-b-bCu5Jkld.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/75e4b5ed9ba57be94f0e90c067e0d6ab03c24b68547cc433fefe054f/audio_sample_fcs_european_childrens_songs_ext.mp3
+  web: https://tonies.com/en-gb/tonies/favourite-children-s-songs/european-childrens-songs/
+  shop-id: f89ef566-e3de-4f1a-aca4-93c9a53e0c65
+  track-desc:
+  - Pera stus pera kampus (Greece)
+  - Sur le pont d’Avignon (France)
+  - Grün, grün, grün sind alle meine Kleider (Germany)
+  - Små grodorna (Sweden)
+  - Jeg gik mig over sø og land (Denmark)
+  - Wlazł kotek na płotek (Poland)
+  - La mar estaba salada (Spain)
+  - Fui ao jardim da Celeste (Portugal)
+  - Vem kan segla (Sweden)
+  - Poesje Mauw (Netherlands)
+  - Santa Lucia (Italy)
+  - Piiri pieni pyörii (Finland)
+  - Bukkene Bruse (Norway)
+  - Holka modrooká (Czech Republic)
+  - Wo pole berjosa stojala (Russia)
+  - London Bridge is falling down (England)
+  - Frère Jacques (France)
+  - Én elmentem a vásárba félpénzzel (Hungary)
+  - Dağlar gibi dalgaları (Turkey)
+  - A caminho de Viseu (Portugal)
   ids: []

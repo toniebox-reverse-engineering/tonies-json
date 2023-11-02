@@ -1,18 +1,39 @@
 article: '10001898'
-last-update: 1698936993
+last-update: 1698939344
 lock-data: false
 data:
 - series: Lieblings-Kinderlieder
   episode: Reiselieder (Neuauflage 2023)
-  release: 1680048000
+  release: '1680048000'
   language: de-de
   category: music
-  runtime: 0
-  age: 99
+  runtime: 60
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001898-50004934-b-1Q6Gcikl.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/b90fcf7f11d7da60b480dbd963475f8fd680ee4c0619321dab2cb2ca/hoerprobe_10001898_lkl_reiselieder_neuauflage2023.mp3
+  web: https://tonies.com/de-de/tonies/lieblings-kinderlieder/reiselieder-neuauflage-2023/
+  shop-id: 8449c928-c879-4ac3-b320-aa1c258cc607
+  track-desc:
+  - Den ganzen Sommer lang
+  - Von den blauen Bergen kommen wir
+  - Ich packe meinen Urlaubskoffer
+  - Da kommt 'ne Bimmelbahn
+  - Wenn der Sommer kommt
+  - Jetzt fahrn wir übern See
+  - Eine Seefahrt, die ist lustig
+  - Im Frühtau zu Berge
+  - Das Wandern ist des Müllers Lust
+  - Muss wandern
+  - Schön ist es auf der Welt zu sein
+  - Ich flieg in meinem Flugzeug
+  - Nicht schon wieder an die Ostsee
+  - Endlich da
+  - Große Pause
+  - Das Auto von Lucio
+  - Alle Kinder auf der Welt
+  - Meine kleine Ente
+  - Die große Reise (Sabine, willst du mit mir fahren?)
+  - Mein Lieblingsland, mein Lieblingsland
+  - Töff, töff, töff, die Eisenbahn
   ids: []

@@ -1,20 +1,40 @@
 article: '10000148'
-last-update: 1698936991
+last-update: 1698939213
 lock-data: false
 data:
 - series: Der Traumzauberbaum
   episode: Geschichtenlieder
-  release: 1572998400
+  release: '1572998400'
   language: de-de
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 44
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000148-50000860-b-H0GY58qt.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/8e845c8fdaaadd5a8f78fa6099acaca833f92ceed214748c23da2d56/hoerprobe_der_traumzauberbaum_geschichtenlieder_ext.mp3
+  web: https://tonies.com/de-de/tonies/der-traumzauberbaum/geschichtenlieder/
+  shop-id: 92c780e7-f5d0-4bae-b5c6-90c113b9494f
+  track-desc:
+  - Traumzauberbaum
+  - Küsschenlied
+  - Der Pfannekuchenschreck
+  - Der Eierbecher
+  - Gespensterduett
+  - Liebkoselied
+  - Mary Lu
+  - Frühlingslied
+  - Ich bin doch kein Schneemann
+  - Frosch Rock’n’Roll
+  - Kleine Wolke
+  - Lied von der Anstrengung, böse zu sein
+  - Neidlied
+  - Regenlied
+  - Wie Riesen niesen
+  - Klopsemops
+  - Das Bächlein
+  - Mondsilbertaufe
+  - Eine kleine Stadt
+  - Traumreise
   ids:
   - audio-id: 1571398952
     hash: 1FDA1CA0C8CD1B1EBCD1A3F04B57A6CE7EC23DEC

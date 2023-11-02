@@ -1,18 +1,39 @@
 article: '11000304'
-last-update: 1698936994
+last-update: 1698939479
 lock-data: false
 data:
 - series: Le Journal De Gurty
   episode: Vacances En Provence
-  release: 1698278400
+  release: '1698278400'
   language: fr-fr
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 65
+  age: 6
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/51001007-Tonie_Shado-RkJw-wmG.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/1bf4b8fa8c6b3c2d1a540d7794c4e9fbfe82516dc5c6a00d16194cff/11000304_gurtyprovence_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/le-journal-de-gurty/vacances-en-provence/
+  shop-id: 47739710-4cb9-438b-82fb-2785da31123e
+  track-desc:
+  - 1er juillet - L'arrivée
+  - 2 juillet - Plaisir d'offrir
+  - 3 juillet - Tête de fesses
+  - 4 juillet - Fleur
+  - 5 juillet - Déception
+  - 9 juillet - Idiote
+  - 11 juillet - L'os pas possible
+  - 13 juillet -  Le foin
+  - 14 juillet - La barbe à papa
+  - 15 juillet - Les tomates
+  - 20 juillet - Mon nom
+  - 24 juillet - Chichi est là
+  - 31 juillet - Le monstre du trou
+  - 32 juillet - Les oiseaux
+  - 35 juillet - L'écureuil qui fait hihi
+  - 36 juillet -  Envie passagère
+  - 37 juillet - Les rêves
+  - 38 juillet - La fugue
+  - 40 juillet - Le papillon
+  - 42 juillet - Camomille
+  - Le train
   ids: []

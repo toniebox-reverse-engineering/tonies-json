@@ -1,18 +1,35 @@
 article: '10001675'
-last-update: 1698936993
+last-update: 1698939342
 lock-data: false
 data:
 - series: Furzipups, der Knatterdrache
   episode: Furzipups - 3 Geschichten und 6 Songs
-  release: 1680048000
+  release: '1680048000'
   language: de-de
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 50
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001675-50005288-b-aNIpZYNe.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/ef56ab48e4613965683a50fb8727ade36b0a69a3f2691d7ef246ef11/heorprobe_10001675_furzipups_der_knatterdrache.mp3
+  web: https://tonies.com/de-de/tonies/furzipups-der-knatterdrache/furzipups-3-geschichten-und-6-songs/
+  shop-id: 58e1a649-d43d-4d27-8687-049bbd2b4df2
+  track-desc:
+  - Furzen in der Badewanne
+  - Furzipups der Knatterdrache
+  - Alles ist Musik
+  - Mach es richtig
+  - Furzipups und Hicksihuhn
+  - Frag mich nicht
+  - Die dicken Jungs
+  - Furzipups und Rüdiger Rülpsrüssel
+  - Wiedersehn
+  - Introducing Karaoke
+  - Furzen in der Badewanne (Karaoke Version)
+  - Alles ist Musik (Karaoke Version)
+  - Mach es richtig (Karaoke Version)
+  - Frag mich nicht (Karaoke Version)
+  - Die dicken Jungs (Karaoke Version)
+  - Wiedersehn (Karaoke Version)
+  - Outro und Hidden Furz (Karaoke Version)
   ids: []

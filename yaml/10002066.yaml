@@ -1,18 +1,27 @@
 article: '10002066'
-last-update: 1698936993
+last-update: 1698939415
 lock-data: false
 data:
 - series: Karma's World
   episode: Karma's World
-  release: 1672185600
+  release: '1672185600'
   language: en-gb
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 50
+  age: 5
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10002066-50006808-b-l6-XU7UL.png
   sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  web: https://tonies.com/en-gb/tonies/karma-s-world/karmas-world/
+  shop-id: 94312430-2b21-4d31-a0d3-c65c131854a7
+  track-desc:
+  - Intro
+  - Welcome to Karma’s World (Song)
+  - Proud of My Hair (Song)
+  - Freestyle Knockout
+  - Dance Full Out (Song)
+  - Legend of the Lost Lyrics Part 1
+  - Legend of the Lost Lyrics Part 2
+  - Everyday (Song)
+  - The Final Showdown
   ids: []

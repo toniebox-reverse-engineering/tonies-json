@@ -1,20 +1,43 @@
 article: 01-0049
-last-update: 1698936991
+last-update: 1698939195
 lock-data: false
 data:
 - series: Ella
   episode: Ella in der Schule
-  release: 1499731200
+  release: '1499731200'
   language: de-de
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 114
+  age: 7
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0049-98-0125-b-GSMYClu0.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/e39320dc1d04b74a9ad8cfdc408a2ff21610c55ab63855ece9ad6eb7/hoerprobe_ella_in_der_schule.mp3
+  web: https://tonies.com/de-de/tonies/ella/ella-in-der-schule/
+  shop-id: 2b0507db-0ee5-4ca2-8354-03c204586ea3
+  track-desc:
+  - Unser Lehrer ist auf einmal so seltsam
+  - Im Schwimmbad
+  - Die Grube
+  - Der zweite Brief
+  - Die Umfrage
+  - Der Koffer
+  - Im Park
+  - Die Vertretung
+  - Rechnen
+  - Unser Lehrer ist zurück
+  - Im richtigen Theater
+  - Zurück in der Schule
+  - Die Versteigerung
+  - Die Generalprobe
+  - Das Krippenspiel
+  - Die Abreise
+  - Im Bus
+  - Im Restaurant
+  - Kunst
+  - Im Zoo
+  - Wilde Tiere
+  - Die Rückfahrt
+  - Zeugnisse im Sommerwind
   ids:
   - audio-id: 1494587913
     hash: 7645CCA44DA9B4ED1450B0BDB3959E1C5149F310

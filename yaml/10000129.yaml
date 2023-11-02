@@ -1,20 +1,24 @@
 article: '10000129'
-last-update: 1698936991
+last-update: 1698939266
 lock-data: false
 data:
 - series: Super Wings
   episode: Schwimmende Schweinchen
-  release: 1618444800
+  release: '1618444800'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 47
+  age: 4
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000129-50001432-b-TBTZ-zhh.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/ed72e72e93fd1054921894184e19c26092bb7df85e9bf824e7e0d984/horprobe_super_wings_schwimmende_schweinchen_ext.mp3
+  web: https://tonies.com/de-de/tonies/super-wings/schwimmende-schweinchen/
+  shop-id: 86f155b6-9f52-4a29-8da0-5d387c4de209
+  track-desc:
+  - Chaos in Hongkong
+  - Die Suche nach dem Yeti
+  - Schwimmende Schweinchen
+  - Das Muskelpaket
   ids:
   - audio-id: 1615477825
     hash: C1C371A61BBD64D5A86D01B375002FC4CD78CF47

@@ -1,18 +1,33 @@
 article: '10001281'
-last-update: 1698936993
+last-update: 1698939470
 lock-data: false
 data:
 - series: Petit Ours Brun
   episode: Petit Ours Brun
-  release: 1687392000
+  release: '1687392000'
   language: fr-fr
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 51
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/50003926-Tonie_Shado-hTiHMjQE.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/3ef1e6dae799873d3aff20d8c09e5419c7d9f52f0ede9c0ab74b710c/sample_tonie_petit_ours_brun.mp3
+  web: https://tonies.com/fr-fr/tonies/petit-ours-brun/petit-ours-brun/
+  shop-id: 904745eb-ce4f-4682-a39a-f2c3588fb2b4
+  track-desc:
+  - Petit Ours Brun va à l'école
+  - Petit Ours Brun va se coucher
+  - Petit Ours Brun fête son anniversaire
+  - Petit Ours Brun fait du manège
+  - Petit Ours Brun se déguise
+  - Petit Ours Brun se promène au marché
+  - Petit Ours Brun joue au parc
+  - Petit Ours Brun va chez le docteur
+  - Petit Ours Brun se promène au parc animalier
+  - Petit Ourse Brun va pique-niquer
+  - Petit Ours Brun va à la piscine
+  - Petit Ours Brun découvre la ferme
+  - Petit Ours Brun joue à la plage
+  - Petit Ours Brun se promène en forêt
+  - Petit Ours Brun joue dans la neige
   ids: []

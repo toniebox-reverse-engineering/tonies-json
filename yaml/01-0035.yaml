@@ -1,20 +1,32 @@
 article: 01-0035
-last-update: 1698936991
+last-update: 1698939193
 lock-data: false
 data:
 - series: Der kleine Rabe Socke
   episode: Alles vermurkst!
-  release: 1487548800
+  release: '1487548800'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 49
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0035-b-jTJXC9QB.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/c6c269b3cf82679a941fe1e960a10bd388bbbbdb869a4d1528bc87d9/hoerprobe_rabe_socke_alles_vermurkst_128kbs.mp3
+  web: https://tonies.com/de-de/tonies/der-kleine-rabe-socke/alles-vermurkst-und-weitere-geschichten/
+  shop-id: 2edc5af1-7ad7-4a94-bcc5-62090f1636d5
+  track-desc:
+  - Alles vermurkst 1
+  - Alles vermurkst 2
+  - Alles vermurkst 3
+  - Alles vermurkst 4
+  - Alles geheim 1
+  - Alles geheim 2
+  - Alles saust um die Wette 1
+  - Alles saust um die Wette 2
+  - Alles saust um die Wette 3
+  - Alles saust um die Wette 4
+  - Alles saust um die Wette 5
+  - Alles saust um die Wette 6
   ids:
   - audio-id: 1488447947
     hash: 14ADC00F025D7C0B18A63B0031E5F8292E7BBC97

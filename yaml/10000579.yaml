@@ -1,20 +1,26 @@
 article: '10000579'
-last-update: 1698936992
+last-update: 1698939281
 lock-data: false
 data:
 - series: Hanni und Nanni
   episode: Hanni und Nanni voll im Trend
-  release: 1626307200
+  release: '1626307200'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 63
+  age: 7
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000579-50001823-b-7fvjmIgZ.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/1793526adb2a05c0d7cdc86f89a8e5f2a6085b5366efe28cf2e9ed3f/hoerprobe_hanninanni_trend.mp3
+  web: https://tonies.com/de-de/tonies/hanni-und-nanni/hanni-nanni-voll-im-trend/
+  shop-id: 5199f0fa-7fd5-45b9-852a-1f15eab2074b
+  track-desc:
+  - Ohne Preis - kein Fleiß!
+  - Gewonnen
+  - Chapeau!
+  - Mademoiselle Chic
+  - Zwick und Zwing
+  - Applaus!
   ids:
   - audio-id: 1623658942
     hash: FD1AEB03D12B017C82B3F139192AD46F46866487

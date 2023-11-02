@@ -1,18 +1,19 @@
 article: '10000357'
-last-update: 1698936992
+last-update: 1698939385
 lock-data: false
 data:
 - series: Shrek
   episode: Shrek
-  release: 1634083200
+  release: '1634083200'
   language: en-gb
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 90
+  age: 6
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000357-50001131-b-yMJDMr_y.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000357-50001131-b-UdxCYvUr.png
+  sample: https://cdn.tonies.de/o/audio_samples/8f16712dfb9935b43ca703cdd7ce3b7153e03e7be3a566fd337e5d51/1_8f16712dfb9935b43ca703cdd7ce3b7153e03e7be3a566fd337e5d51_audio_sample_shrek.mp3
+  web: https://tonies.com/en-gb/tonies/shrek/shrek/
+  shop-id: 0cacac68-2e72-463b-aa4b-f0a048bcf206
+  track-desc:
+  - Shrek
   ids: []

@@ -1,20 +1,43 @@
 article: 01-0139
-last-update: 1698936991
+last-update: 1698939233
 lock-data: false
 data:
 - series: Der kleine Siebenschläfer
   episode: Die Geschichte vom kleinen Siebenschläfer, der nicht einschlafen konnte
-  release: 1599696000
+  release: '1599696000'
   language: de-de
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 45
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0139-50001491-b-sa1ZxbvZ.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/d3a61dfc11a635afd26c95cf513a55e994e25f8c6c7cca98d784d319/hoerprobe_der_kleine_siebenschlaefer_ext.mp3
+  web: https://tonies.com/de-de/tonies/der-kleine-siebenschlaefer/die-geschichte-vom-kleinen-siebenschlaefer-der-nicht-einschlafen-konnte/
+  shop-id: 278cd216-24fa-49fa-9b8d-e1837390faaa
+  track-desc:
+  - Die Mama
+  - Einschlafen ist gar nicht so schwer
+  - Drei junge Siebenschläfer
+  - So etwas gibt es nicht
+  - Das Siebenschläfermädchen
+  - Das Lied vom Küssen
+  - Immer noch wach!
+  - Ich kann nicht schlafen
+  - Der Fuchs
+  - Schäfchen zählen
+  - Die Fledermaus
+  - Häng mit mir ab
+  - Die Schnecke
+  - T-E-M-P-O
+  - Der Wolf
+  - Heul doch
+  - Die Spinne
+  - Es ist nicht leicht, eine Spinne zu sein
+  - Der Bär
+  - Mein Knuddelwuddelpuschelwuschelknuffeltier
+  - Immer noch wach?
+  - Wenn ich wach bleibe
+  - Das Schlaflied der Tiere
   ids:
   - audio-id: 1597844784
     hash: 6D721696277CF60E7293DC2758FA63D964BF57D0

@@ -1,20 +1,30 @@
 article: '10000202'
-last-update: 1698936992
+last-update: 1698939214
 lock-data: false
 data:
 - series: Benjamin Blümchen
   episode: Die Märchennacht im Zoo
-  release: 1580947200
+  release: '1580947200'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 44
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000202-50000819-b-S_10dRXu.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/50ce2f286d22b1a544c00948504a7e0d76862dc3324e6019b9682697/hoerprobe_benjamin_bluemchen_maerchennacht_im_zoo_ext.mp3
+  web: https://tonies.com/de-de/tonies/benjamin-bluemchen/maerchennacht-im-zoo/
+  shop-id: ee868e35-e0e8-44d5-8368-1655c0ce7096
+  track-desc:
+  - Schlafliedchen
+  - Der kleine Hirsch und die Prinzessin
+  - Vom Eisbären, dem es zu kalt war
+  - Königin Anita Anakonda
+  - Der Wirbelwind und das Känguru
+  - Der kleine Glücksbär
+  - Das Märchen aus dem ewigen Eis
+  - Häuptling Furchtloser Vielfraß
+  - Die Krokodile, die zu faul waren
+  - Schlafliedchen
   ids:
   - audio-id: 1579694773
     hash: C701E816FA88F802666A632E8A190921A0AA9E18

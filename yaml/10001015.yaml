@@ -1,18 +1,22 @@
 article: '10001015'
-last-update: 1698936993
+last-update: 1698939437
 lock-data: false
 data:
 - series: Disney
   episode: Raiponce
-  release: 1652918400
+  release: '1652918400'
   language: fr-fr
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 30
+  age: 4
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001015-50003339-b-xRKhmPnh.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/a045041956edfd2a9cc805558cd2bc2be1659db223fb60ffaebef768/sample_tonie_disney_raiponce.mp3
+  web: https://tonies.com/fr-fr/tonies/disney/raiponce/
+  shop-id: 062ae954-5c52-4004-80ae-8a7ba250dbb7
+  track-desc:
+  - 'Histoire : Raiponce'
+  - 'Chanson : Où est la vraie vie ?'
+  - 'Chanson : Je veux y croire'
+  - 'Chanson : J''ai un rêve'
   ids: []

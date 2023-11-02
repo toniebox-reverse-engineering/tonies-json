@@ -1,18 +1,24 @@
 article: '10000577'
-last-update: 1698936992
+last-update: 1698939381
 lock-data: false
 data:
 - series: Disney
   episode: Moana
-  release: 1628726400
+  release: '1628726400'
   language: en-gb
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 32
+  age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000577-50001794-b-8lXnD7aK.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000577-50001794-b-F5WxIzRu.png
+  sample: https://cdn.tonies.de/o/audio_samples/f027bd57b541816752b4dcf8fc7cfd9d9b22347b620bcd6715ce0620/audio_sample_disney_moana_ext.mp3
+  web: https://tonies.com/en-gb/tonies/disney/moana/
+  shop-id: 547dc87c-1ecd-44a3-b7a1-203a236da545
+  track-desc:
+  - You're Welcome
+  - We know the Way
+  - Where You Are
+  - How Far I'll go
+  - Shiny
+  - STORY - Moana
   ids: []

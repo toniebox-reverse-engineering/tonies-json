@@ -1,18 +1,24 @@
 article: '10002022'
-last-update: 1698936993
+last-update: 1698939347
 lock-data: false
 data:
 - series: Conni
   episode: Conni backt Pizza / Conni lernt Rad fahren
-  release: 0
+  release: N
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 40
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/BOX10002022_1_a-Zh1y8OUG.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/41c9ebd66f83536e24f6a41f2f48cb27c9000bbf980acd9902d50a5b/hoerprobe_conni_backt_pizza.mp3
+  web: https://tonies.com/de-de/tonies/conni/conni-backt-pizza-conni-lernt-rad-fahren/
+  shop-id: bf2b0a26-c326-43c0-ad60-1d476e3cfb69
+  track-desc:
+  - Kartoffelbrei und Spinat
+  - Der Pizzateig
+  - Die Pizza ist fertig!
+  - Aller Anfang ist schwer!
+  - Das neue Fahrrad
+  - Eine kleine Schadenfreude
   ids: []

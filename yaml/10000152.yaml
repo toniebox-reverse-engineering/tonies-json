@@ -1,20 +1,25 @@
 article: '10000152'
-last-update: 1698936991
+last-update: 1698939361
 lock-data: false
 data:
 - series: Disney
   episode: Frozen
-  release: 1605744000
+  release: '1605744000'
   language: en-gb
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 24
+  age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000152-50000857-b-qenIda8S.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000674-50000857-b--56NEMwai.png
+  sample: https://cdn.tonies.de/o/audio_samples/35d75c3deb3d394470d405976aa43108f9837e3b63ebc3017dcf9242/audio_sample_disney_frozen_ext.mp3
+  web: https://tonies.com/en-gb/tonies/disney/frozen/
+  shop-id: d4762725-9012-4316-8b01-99fa6c3dc819
+  track-desc:
+  - Let It Go
+  - Do You Want to Build a Snowman?
+  - For the First Time in Forever
+  - Love Is an Open Door
+  - Frozen
   ids:
   - audio-id: 1602774212
     hash: BC26A93ED0D8F08EC40CCD1E6665B7A63D79AEA2

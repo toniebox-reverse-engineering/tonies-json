@@ -1,18 +1,26 @@
 article: '10001371'
-last-update: 1698936993
+last-update: 1698939432
 lock-data: false
 data:
 - series: Cultural Tales
   episode: Black British Tales
-  release: 1695600000
+  release: '1695600000'
   language: en-gb
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 80
+  age: 5
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10001371%202-B0MT801M.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/14995e55d82a4a794b0577c0be10d8872a404bcb5df1feb0b8712e06/10001371_cultural_tales_black_british_tales_sample.wav
+  web: https://tonies.com/en-gb/tonies/cultural-tales/black-british-tales/
+  shop-id: 853f6407-f79a-44b6-8f12-7e2bb57ac6e7
+  track-desc:
+  - Introduction
+  - Meet My Family
+  - Windrush
+  - Notting Hill Carnival
+  - Music
+  - Culture, Difference & Respect
+  - Sporting Greats
+  - The Future
   ids: []

@@ -1,20 +1,25 @@
 article: '10000018'
-last-update: 1698936991
+last-update: 1698939371
 lock-data: false
 data:
 - series: Disney
   episode: The Little Mermaid
-  release: 0
+  release: N
   language: en-gb
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 24
+  age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000018-50000058-b-4gaEAsLo.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000018-50000058-b-6peGW8p6.png
+  sample: https://cdn.tonies.de/o/audio_samples/75a96ec4249f2371934e216ad50971c503513da59f1418872f9df5a0/audio_sample_disney_the_little_mermaid_ext.mp3
+  web: https://tonies.com/en-gb/tonies/disney/the-little-mermaid/
+  shop-id: 0cf4f3f5-0479-4834-a8e7-83a2041bc065
+  track-desc:
+  - Part of Your World
+  - Beyond My Wildest Dreams
+  - Sea Floor Strut
+  - Under the Sea
+  - STORY- The Little Mermaid
   ids:
   - audio-id: 1571390854
     hash: 03415C09CE9FFA446A74F74C2392304A26C9C24B

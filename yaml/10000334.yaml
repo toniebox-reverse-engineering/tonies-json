@@ -1,20 +1,25 @@
 article: '10000334'
-last-update: 1698936992
+last-update: 1698939252
 lock-data: false
 data:
 - series: Disney
   episode: Winnie Puuh auf großer Reise
-  release: 1613001600
+  release: '1613001600'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 46
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000334-50001020-b-KEL_C6bL.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/827787fe3285f77f18b942ceca387e55c77a24c9c5ffdc49c5f8e52b/horprobe_disney_winnie_puuh_ext.mp3
+  web: https://tonies.com/de-de/tonies/disney/winnie-puuh-auf-grosser-reise/
+  shop-id: 10be7d65-cf26-40c4-a786-787a75e1a2ff
+  track-desc:
+  - Geschichte
+  - Für immer und ewig
+  - Abenteuer sind toll (Teil 1 & 2)
+  - Wo magst du nur sein
+  - So ist das Leben schön
   ids:
   - audio-id: 1611138006
     hash: 812C030A89FF1B8736B7E940FAA5A45352BC196A

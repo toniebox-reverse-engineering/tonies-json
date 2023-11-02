@@ -1,20 +1,60 @@
 article: '10000722'
-last-update: 1698936992
+last-update: 1698939275
 lock-data: false
 data:
 - series: Mia and me
   episode: Ankunft in Centopia / Eine neue Hoffnung
-  release: 1620604800
+  release: '1620604800'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 45
+  age: 7
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000722-50002339-b--T_KiZi27.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/4d1d79274e04455a927d33e4e3fd499ab6c250bc6e131567c8d8d731/hoerprobe_mia_and_me_ankunft_in_centopia_relaunch_ext.mp3
+  web: https://tonies.com/de-de/tonies/mia-and-me/ankunft-in-centopia/
+  shop-id: 8720d5f7-16f6-404f-bb87-5120f90f3874
+  track-desc:
+  - 'Kapitel 01: Ankunft in Centopia'
+  - 'Kapitel 02: Ankunft in Centopia'
+  - 'Kapitel 03: Ankunft in Centopia'
+  - 'Kapitel 04: Ankunft in Centopia'
+  - 'Kapitel 05: Ankunft in Centopia'
+  - 'Kapitel 06: Ankunft in Centopia'
+  - 'Kapitel 07: Ankunft in Centopia'
+  - 'Kapitel 08: Ankunft in Centopia'
+  - 'Kapitel 09: Ankunft in Centopia'
+  - 'Kapitel 10: Ankunft in Centopia'
+  - 'Kapitel 11: Ankunft in Centopia'
+  - 'Kapitel 12: Ankunft in Centopia'
+  - 'Kapitel 13: Ankunft in Centopia'
+  - 'Kapitel 14: Ankunft in Centopia'
+  - 'Kapitel 15: Ankunft in Centopia'
+  - 'Kapitel 16: Ankunft in Centopia'
+  - 'Kapitel 17: Ankunft in Centopia'
+  - 'Kapitel 18: Ankunft in Centopia'
+  - 'Kapitel 19: Ankunft in Centopia'
+  - 'Kapitel 20: Ankunft in Centopia'
+  - 'Kapitel 21: Ankunft in Centopia'
+  - 'Kapitel 22: Ankunft in Centopia'
+  - 'Kapitel 01: Eine neue Hoffnung'
+  - 'Kapitel 02: Eine neue Hoffnung'
+  - 'Kapitel 03: Eine neue Hoffnung'
+  - 'Kapitel 04: Eine neue Hoffnung'
+  - 'Kapitel 05: Eine neue Hoffnung'
+  - 'Kapitel 06: Eine neue Hoffnung'
+  - 'Kapitel 07: Eine neue Hoffnung'
+  - 'Kapitel 08: Eine neue Hoffnung'
+  - 'Kapitel 09: Eine neue Hoffnung'
+  - 'Kapitel 10: Eine neue Hoffnung'
+  - 'Kapitel 11: Eine neue Hoffnung'
+  - 'Kapitel 12: Eine neue Hoffnung'
+  - 'Kapitel 13: Eine neue Hoffnung'
+  - 'Kapitel 14: Eine neue Hoffnung'
+  - 'Kapitel 15: Eine neue Hoffnung'
+  - 'Kapitel 16: Eine neue Hoffnung'
+  - 'Kapitel 17: Eine neue Hoffnung'
+  - 'Kapitel 18: Eine neue Hoffnung'
   ids:
   - audio-id: 1618494143
     hash: 28801200539431E823E80E72DFC779F5C41E29C3

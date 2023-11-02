@@ -1,18 +1,25 @@
 article: '10001798'
-last-update: 1698936993
+last-update: 1698939388
 lock-data: false
 data:
-- series: Steiff Soft Cuddly Friends
+- series: Steiff Soft Cuddly Friends mit Hörspiel
   episode: Jimmy Bear
-  release: 1634688000
+  release: '1634688000'
   language: en-gb
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 69
+  age: 3
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/113888-Jimmy_Baer-b-wNLLOsxP.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/3ee55dcb9ed22d716aeca7aeb4fe170c9c3b4cc73b82199913506830/audio_sample_10001798_soft_cuddly_friends_with_radio_play_jimmy_bear.mp3
+  web: https://tonies.com/en-gb/tonies/steiff-soft-cuddly-friends-mit-hoerspiel/jimmy-bear/
+  shop-id: 30fa74a8-268a-47f4-a116-007cde365fd6
+  track-desc:
+  - 'Intro: Jimmy Bear'
+  - The Banana Battle
+  - The Heart of Bamboo
+  - The Glowing Pictures
+  - The Pirate’s Treasure
+  - The Lost Buds
+  - The Stone Skimming Champion
   ids: []

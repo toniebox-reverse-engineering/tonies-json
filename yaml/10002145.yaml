@@ -1,18 +1,27 @@
 article: '10002145'
-last-update: 1698936993
+last-update: 1698939355
 lock-data: false
 data:
 - series: Disney
   episode: Das ist ja zum Flattern & drei weitere Geschichten
-  release: 1696982400
+  release: '1696982400'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 61
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/BOX10002145_1_a-0m27EQ9j.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/79a1e01c751da27184e6ab1c2840f6d4b6c8a0ae5a4f40169f343404/10002145_disneyvampirina.mp3
+  web: https://tonies.com/de-de/tonies/disney/vampirina-das-ist-ja-zum-flattern-drei-weitere-geschichten/
+  shop-id: 366ad0a2-b551-4453-bca6-edf757446c36
+  track-desc:
+  - Vampirinatheme
+  - Das Ist Ja Zum Flattern
+  - Das Ist Ja Zum Flattern 2
+  - Eine Pension Zum Gruseln
+  - Eine Pension Zum Gruseln 2
+  - Vees Übernachtungsparty
+  - Vees Übernachtungsparty 2
+  - Fotos Und Fledermäuse
+  - Fotos Und Fledermäuse 2
   ids: []

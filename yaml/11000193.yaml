@@ -1,18 +1,45 @@
 article: '11000193'
-last-update: 1698936994
+last-update: 1698939434
 lock-data: false
 data:
 - series: Leo's Day
   episode: Routines Music Album
-  release: 1698019200
+  release: '1698019200'
   language: en-gb
   category: music
-  runtime: 0
-  age: 99
+  runtime: 50
+  age: 3
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/Image%202-BL0dIGRg.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/938f8c331abcf0abcaefaff783a0680e17fa4aa9e7188a80ef8df41e/11000193__daily_routines_leo_s_day_sample.wav
+  web: https://tonies.com/en-gb/tonies/leo-s-day/routines-music-album/
+  shop-id: fa42585d-47f2-4ff0-8a76-77946aafc98c
+  track-desc:
+  - Introduction
+  - Brand New Day
+  - Waking Up
+  - Use The Potty
+  - Stay Healthy with Clean Hands
+  - Wash Your Hands
+  - Morning Stretches with Leo
+  - Brush Your Teeth
+  - Getting Ready for the Day
+  - Get Dressed
+  - Food Gives Us Energy
+  - Breakfast
+  - Leo's Pets
+  - Taking Care Of My Pets
+  - Leo Goes To School
+  - School Is Where I Want To Be
+  - After School Rest
+  - Take A Break
+  - Family Dinners
+  - Dinner Time
+  - Baths Are Fun
+  - Taking A Bath
+  - Shiny & Bright Teeth
+  - Brush Your Teeth (Reprise)
+  - Nighttime Stretches with Leo
+  - Goodnight
+  - Leo's Day
   ids: []

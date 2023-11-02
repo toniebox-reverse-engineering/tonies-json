@@ -1,20 +1,27 @@
 article: 01-0109
-last-update: 1698936991
+last-update: 1698939201
 lock-data: false
 data:
 - series: Dr. Brumm
   episode: Dr. Brumm steckt fest/Dr. Brumm geht baden
-  release: 1528329600
+  release: '1528329600'
   language: de-de
   category: audio-book-songs
-  runtime: 0
-  age: 99
+  runtime: 28
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0109-98-0332-b-yc5xb9lc.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/5640c68c89c23e9343737a37e6a3cd6f02d29dc9b037818c82b2cecc/hoerprobe_drbrumm_steckt_fest.mp3
+  web: https://tonies.com/de-de/tonies/dr-brumm/dr-brumm-steckt-fest-geht-baden/
+  shop-id: 5bd64931-8abd-44d7-a80c-225f80f903f0
+  track-desc:
+  - Dr. Brumm steckt fest 1
+  - Dr. Brumm steckt fest 2
+  - Ein Tag mit Dr. Brumm
+  - Dr. Brumm geht baden 1
+  - Dr. Brumm geht baden 2
+  - Frage-Antwort-Spiel
+  - Dr. Brumm-Song
   ids:
   - audio-id: 1520616479
     hash: 779C666F0918E04A9D976F7FE74D9A3D9B41DEAA

@@ -1,20 +1,31 @@
 article: '10000794'
-last-update: 1698936992
+last-update: 1698939318
 lock-data: false
 data:
 - series: Der magische Blumenladen
   episode: Ein Geheimnis kommt selten allein
-  release: 0
+  release: N
   language: de-de
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 77
+  age: 7
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000794-50002563-b-8yRu_a93.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/5ff021494c25fba931b8db9d98f6a321aa5dda58b0960f8e6ffe539d/10000794_der_magische_blumenladen.mp3
+  web: https://tonies.com/de-de/tonies/der-magische-blumenladen/ein-geheimnis-kommt-selten-allein/
+  shop-id: 645d4fb2-9ee9-497d-84b1-bde97909af1b
+  track-desc:
+  - Ein Geheimnis kommt selten allein
+  - Ein Geheimnis kommt selten allein
+  - Ein Geheimnis kommt selten allein
+  - Ein Geheimnis kommt selten allein
+  - Ein Geheimnis kommt selten allein
+  - Ein Geheimnis kommt selten allein
+  - Ein Geheimnis kommt selten allein
+  - Ein Geheimnis kommt selten allein
+  - Ein Geheimnis kommt selten allein
+  - Ein Geheimnis kommt selten allein
+  - Ein Geheimnis kommt selten allein
   ids:
   - audio-id: 1651050000
     hash: 7BFED33E2B4BAA38BEEC9A48389CCBADE68805C0

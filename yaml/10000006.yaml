@@ -1,20 +1,24 @@
 article: '10000006'
-last-update: 1698936991
+last-update: 1698939363
 lock-data: false
 data:
 - series: Zog
   episode: Zog
-  release: 0
+  release: N
   language: en-gb
   category: audio-book-songs
-  runtime: 0
-  age: 99
+  runtime: 20
+  age: 4
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000006-50000046-b--0UdJxpcs.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/424364c7f708a5f68140d65b38966dad74e93f1e1e33153116476316/hoerprobe_zog.mp3
+  web: https://tonies.com/en-gb/tonies/zog/zog/
+  shop-id: 07984db1-13a3-4f6a-84b6-27b6ba1b0f74
+  track-desc:
+  - STORY- Zog
+  - Flying Doctors Song
+  - Zog’s Listening Game
+  - Flying Doctors Song - instrumental version
   ids:
   - audio-id: 1550238386
     hash: 867C7915AA83D6F81073404172744022B73583E2

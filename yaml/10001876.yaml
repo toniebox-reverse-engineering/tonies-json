@@ -1,18 +1,23 @@
 article: '10001876'
-last-update: 1698936993
+last-update: 1698939418
 lock-data: false
 data:
 - series: Worldwide Tales
   episode: West African Tales
-  release: 1677196800
+  release: '1677196800'
   language: en-gb
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 74
+  age: 4
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/50004816-Tonie_Shado-Q6zGqBTp.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/b97e78ae93abf4372775c1da94d98069efcea3fc3b9c21f3396b1677/10001876_west_african_tales_sample.wav
+  web: https://tonies.com/en-gb/tonies/worldwide-tales/west-african-tales/
+  shop-id: 65e8362d-d9ee-4888-ace8-8fa19397b1c6
+  track-desc:
+  - Anansi and Thunder
+  - How The Tortoise Got Its Shell
+  - The Leopard and The Ram
+  - Why We See Ants Carrying Bundles as Big As Themselves
+  - King Chameleon and The Animals
   ids: []

@@ -1,18 +1,19 @@
 article: '10000940'
-last-update: 1698936993
+last-update: 1698939404
 lock-data: false
 data:
 - series: Roald Dahl
   episode: James and the Giant Peach
-  release: 1666656000
+  release: '1666656000'
   language: en-gb
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 61
+  age: 6
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000940-50003091-b-DElun9n2.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/0a978af789b49b947792d303026a25cbd0228b8f98025d0ec195098b/james_and_the_giant_peach_sample.wav
+  web: https://tonies.com/en-gb/tonies/roald-dahl/james-and-the-giant-peach/
+  shop-id: c8eabd6e-330a-47e2-bc29-a7997cae2753
+  track-desc:
+  - James and the Giant Peach
   ids: []

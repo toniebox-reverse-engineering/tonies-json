@@ -1,20 +1,24 @@
 article: '10000273'
-last-update: 1698936992
+last-update: 1698939366
 lock-data: false
 data:
 - series: Peter Rabbit
   episode: The Peter Rabbit Collection
-  release: 1613001600
+  release: '1613001600'
   language: en-gb
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 65
+  age: 3
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000273-50001635-b--3vVCvuHA.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/6c252e3dff661de3ff85a21c5498e7006d1d482fafbf12c4ff0a69a4/audio_sample_peter_rabbit_ext.mp3
+  web: https://tonies.com/en-gb/tonies/peter-rabbit/the-peter-rabbit-collection/
+  shop-id: 92b11bf7-5357-430b-bd4c-df794c197263
+  track-desc:
+  - The Tale of Peter Rabbit™️
+  - The Tale of Benjamin Bunny™️
+  - The Tale of Mr. Tod™️
+  - The Tale of The Flopsy Bunnies™️
   ids:
   - audio-id: 1611154008
     hash: EFE4DDEF42D7AD8D9673217633D77B712BEEE31D

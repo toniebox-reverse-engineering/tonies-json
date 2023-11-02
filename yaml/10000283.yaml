@@ -1,20 +1,66 @@
 article: '10000283'
-last-update: 1698936992
+last-update: 1698939235
 lock-data: false
 data:
 - series: Kasperli
   episode: Es hät en Dieb im Zoo! / D Insle vom Pirat Ohnibart
-  release: 1603324800
+  release: '1603324800'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 74
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000283-50001853-b-FY_pzlQh.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/319c293b72ae119f3e186194275119a98b04bf5a8495e6cb2fd8ae1c/hoerprobe_kasperli_ext.mp3
+  web: https://tonies.com/de-de/tonies/kasperli/im-zoo-pirat-ohnibart/
+  shop-id: 063fb104-d79a-4e4d-99ab-632bc7ef7f7c
+  track-desc:
+  - Es hät en Dieb im Zoo! 1
+  - Es hät en Dieb im Zoo! 2
+  - Es hät en Dieb im Zoo! 3
+  - Es hät en Dieb im Zoo! 4
+  - Es hät en Dieb im Zoo! 5
+  - Es hät en Dieb im Zoo! 6
+  - Es hät en Dieb im Zoo! 7
+  - Es hät en Dieb im Zoo! 8
+  - Es hät en Dieb im Zoo! 9
+  - Es hät en Dieb im Zoo! 10
+  - Es hät en Dieb im Zoo! 11
+  - Es hät en Dieb im Zoo! 12
+  - Es hät en Dieb im Zoo! 13
+  - Es hät en Dieb im Zoo! 14
+  - Es hät en Dieb im Zoo! 15
+  - Es hät en Dieb im Zoo! 16
+  - Es hät en Dieb im Zoo! 17
+  - Es hät en Dieb im Zoo! 18
+  - Es hät en Dieb im Zoo! 19
+  - Es hät en Dieb im Zoo! 20
+  - Es hät en Dieb im Zoo! 21
+  - Es hät en Dieb im Zoo! 22
+  - D Insle vom Pirat Ohnibart 1
+  - D Insle vom Pirat Ohnibart 2
+  - D Insle vom Pirat Ohnibart 3
+  - D Insle vom Pirat Ohnibart 4
+  - D Insle vom Pirat Ohnibart 5
+  - D Insle vom Pirat Ohnibart 6
+  - D Insle vom Pirat Ohnibart 7
+  - D Insle vom Pirat Ohnibart 8
+  - D Insle vom Pirat Ohnibart 9
+  - D Insle vom Pirat Ohnibart 10
+  - D Insle vom Pirat Ohnibart 11
+  - D Insle vom Pirat Ohnibart 12
+  - D Insle vom Pirat Ohnibart 13
+  - D Insle vom Pirat Ohnibart 14
+  - D Insle vom Pirat Ohnibart 15
+  - D Insle vom Pirat Ohnibart 16
+  - D Insle vom Pirat Ohnibart 17
+  - D Insle vom Pirat Ohnibart 18
+  - D Insle vom Pirat Ohnibart 19
+  - D Insle vom Pirat Ohnibart 20
+  - D Insle vom Pirat Ohnibart 21
+  - D Insle vom Pirat Ohnibart 22
+  - D Insle vom Pirat Ohnibart 23
+  - D Insle vom Pirat Ohnibart 24
   ids:
   - audio-id: 1603203813
     hash: 6516548B7BBC7B900F56CECCB13E9CFCBF7D37BB

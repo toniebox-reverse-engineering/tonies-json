@@ -1,20 +1,44 @@
 article: '10000832'
-last-update: 1698936992
+last-update: 1698939284
 lock-data: false
 data:
 - series: Lieblings-Kinderlieder
   episode: Weihnachtslieder
-  release: 1631145600
+  release: '1631145600'
   language: de-de
   category: music
-  runtime: 0
-  age: 99
+  runtime: 54
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000832-50002702-b--53LpBw4c.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/9de17ad58428e2f09a09a0ecd0461aad057ca7fff845849b3a07f536/hoerprobe_lieblings_kinderlieder_weihnachtslieder_relaunch_ext.mp3
+  web: https://tonies.com/de-de/tonies/lieblings-kinderlieder/weihnachtslieder-2021/
+  shop-id: 860eb497-ff2b-4dfe-959f-e78711f19b9a
+  track-desc:
+  - Fröhliche Weihnachten überall
+  - Lasst uns froh und munter sein
+  - In der Weihnachtsbäckerei
+  - A, a, a, der Winter, der ist da
+  - Schneeflöckchen, Weißröckchen
+  - Juchhe, der erste Schnee
+  - Schneeflöckchen, tanze
+  - Alle Jahre wieder
+  - Leise rieselt der Schnee
+  - Ihr Kinderlein kommet
+  - Es ist ein Ros' entsprungen
+  - Kling, Glöckchen, klingelingeling
+  - Macht hoch die Tür
+  - Morgen, Kinder, wird's was geben
+  - Stille, Stille
+  - O Tannenbaum
+  - Eine Muh, eine Mäh
+  - Am Weihnachtsbaum, die Lichter brennen
+  - In einem kleinen Apfel
+  - Süßer die Glocken nie klingen
+  - Vom Himmel hoch, da komm ich her
+  - Tochter Zion, freue dich (instrumental)
+  - O du fröhliche
+  - Stille Nacht, heilige Nacht
   ids:
   - audio-id: 1628520341
     hash: 5E26979F73425E70AAC9AB4F099B6C734094A5DB

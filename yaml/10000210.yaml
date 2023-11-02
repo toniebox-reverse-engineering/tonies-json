@@ -1,18 +1,23 @@
 article: '10000210'
-last-update: 1698936992
+last-update: 1698939380
 lock-data: false
 data:
 - series: Disney
   episode: Mulan
-  release: 1628726400
+  release: '1628726400'
   language: en-gb
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 30
+  age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000210-50001254-b-Dcd_kSDW.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000210-50001254-b-7k4sPtxX.png
+  sample: https://cdn.tonies.de/o/audio_samples/6923fc72debb5d155c3b78156388997e27d83a27eb99400099e14331/audio_sample_disney_mulan_ext.mp3
+  web: https://tonies.com/en-gb/tonies/disney/mulan/
+  shop-id: ef321c83-b494-4a4d-a63b-336a9febc720
+  track-desc:
+  - Honor to Us All
+  - I'll Make a Man Out of You
+  - A Girl Worth Fighting For
+  - Reflection
+  - Mulan
   ids: []

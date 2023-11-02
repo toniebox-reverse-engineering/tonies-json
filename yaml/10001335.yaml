@@ -1,20 +1,33 @@
 article: '10001335'
-last-update: 1698936993
+last-update: 1698939325
 lock-data: false
 data:
-- series: Glubschis
+- series: Die Glubschis
   episode: Miss Crayon auf heißer Spur
-  release: 1663113600
+  release: '1663113600'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 60
+  age: 5
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001335-50004104-b-Vu4KpbqP.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/9e3e615d1fce42fed9fb0a46810731a5bb3cbac7b84bdf6c02659c8d/hoerprobe_10001335_glubschis_miss_crayon_auf_heier_spur.mp3
+  web: https://tonies.com/de-de/tonies/die-glubschis/miss-crayon-auf-heier-spur/
+  shop-id: 437c920e-7184-4fe8-8adb-8fbb4a76af0d
+  track-desc:
+  - Titelsong
+  - Willkommen in der Welt der Glubschis
+  - Schöne bunte Kleider
+  - Lassis Café
+  - Ein Besuch im Baako-Tower
+  - Die Suche nach dem Schlüssel
+  - Verschnaufpause
+  - Captain Cools Sternwarte
+  - Glitter Town von oben
+  - Das Bürgermeistermobil
+  - Enttarnt
+  - Titelsong
+  - 'Bonuskapitel: Kehre zurück nach Glittertown'
   ids:
   - audio-id: 1661154239
     hash: C7EC2FF1792A8B72C1B7BEEAF0C73FC6E817D327

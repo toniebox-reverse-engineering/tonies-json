@@ -1,20 +1,30 @@
 article: '10000369'
-last-update: 1698936992
+last-update: 1698939289
 lock-data: false
 data:
 - series: Pixi Wissen
   episode: Planeten und Sterne
-  release: 0
+  release: N
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 33
+  age: 6
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000369-50001166-b-i7Y1DVdZ.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/312fbf8633410e9d193cd1a0878cbf3b100169f21a6f0088ac64df86/hoerprobe_10000369_pixi_wissen_planeten_und_sterne.mp3
+  web: https://tonies.com/de-de/tonies/pixi-wissen/planeten-und-sterne/
+  shop-id: 4f240806-b91b-4fe7-b611-fa7119986f98
+  track-desc:
+  - Was leuchtet am Himmel?
+  - Unsere Nachbarplaneten
+  - Die Sonne
+  - Forscher des Weltraums
+  - Was sagen uns die Sterne?
+  - Der Große Wagen am Himmel
+  - Die Milchstraße
+  - Was ist ein Mond?
+  - Die Erde im Weltall
+  - Und da draußen?
   ids:
   - audio-id: 1634643392
     hash: 0F78F13E82FC49C7E955A948BDCB9EF6D6E987E6

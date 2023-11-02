@@ -1,20 +1,25 @@
 article: '10000676'
-last-update: 1698936992
+last-update: 1698939386
 lock-data: false
 data:
 - series: Disney
   episode: Beauty and the Beast
-  release: 1636502400
+  release: '1636502400'
   language: en-gb
   category: audio-book-songs
-  runtime: 0
-  age: 99
+  runtime: 35
+  age: 4
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000676-50002149-b-eFVI6Tvh.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000676-50002149-b-U-Xgx_Fw.png
+  sample: https://cdn.tonies.de/o/audio_samples/9fdb258481a7eae1f7083d92779615934272a5ce23b9b6bf3416c3f0/audio_sample_10000676_disney_the_beauty_and_the_beast.mp3
+  web: https://tonies.com/en-gb/tonies/disney/the-beauty-and-the-beast/
+  shop-id: 579360f6-840b-47f3-95ea-85bc7eda9a74
+  track-desc:
+  - Belle
+  - Gaston
+  - Be Our Guest
+  - Something There
+  - STORY- Beauty and the Beast
   ids:
   - audio-id: 1633616185
     hash: 80A70612E754900E25BCE05164CCA54F3996F7C7

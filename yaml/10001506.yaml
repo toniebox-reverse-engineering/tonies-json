@@ -1,18 +1,22 @@
 article: '10001506'
-last-update: 1698936993
+last-update: 1698939467
 lock-data: false
 data:
 - series: Miraculous
   episode: Chat Noir
-  release: 1684368000
+  release: '1684368000'
   language: fr-fr
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 44
+  age: 6
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/50004870-Tonie_Shado-JVH79I8F.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/87bc49ea2cf170a5c96806179c23905bbe4b47c3cae6e1b36925d2e7/sample_tonie_miraculous_chat_noir.mp3
+  web: https://tonies.com/fr-fr/tonies/miraculous/chat-noir/
+  shop-id: e5c1e83b-2e4c-4b8b-9445-c5e572d2cb23
+  track-desc:
+  - Générique
+  - Le Dislocoeur
+  - L'Imposteur
+  - Générique de fin
   ids: []

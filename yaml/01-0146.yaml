@@ -1,20 +1,34 @@
 article: 01-0146
-last-update: 1698936991
+last-update: 1698939200
 lock-data: false
 data:
 - series: Heidi
   episode: Ein Wolf im Dörfli
-  release: 1517443200
+  release: '1517443200'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 64
+  age: 5
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0146-98-0425-b-sIJ33VEE.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/c2a84574ce57cf2ce06e859aa684e78c35fe76cf09a000349969fdb9/hoerprobe_heidi_ein_wolf_im_doerfli.mp3
+  web: https://tonies.com/de-de/tonies/heidi/heidi-ein-wolf-im-doerfli/
+  shop-id: 777fa7e2-e633-48ed-bd81-6b268c57b225
+  track-desc:
+  - Titellied "Heidi"
+  - Ein schlechter Tausch
+  - Im Dorfladen
+  - Im Dorfladen
+  - Auf zur Schmiede
+  - Das alte Gutshaus
+  - Eine Schlittenfahrt
+  - Im Gutshaus
+  - Wie in alten Zeiten
+  - Ein Wolf im Dörfli
+  - Auf zur Jagd!
+  - Wo ist Heidi?
+  - Der Wolf!
+  - Schuldig!
   ids:
   - audio-id: 1516120313
     hash: CC64F046F23AA201E01DBAC8EEFF32C889697601

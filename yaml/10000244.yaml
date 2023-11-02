@@ -1,20 +1,32 @@
 article: '10000244'
-last-update: 1698936992
+last-update: 1698939225
 lock-data: false
 data:
 - series: Die Eule mit der Beule
   episode: Liederalbum
-  release: 1591228800
+  release: '1591228800'
   language: de-de
   category: music
-  runtime: 0
-  age: 99
+  runtime: 41
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000244-50001283-b-zcJK3kJA.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/7e50efddeee3da214e61b7c8a9bfc5db71abc76bdef7155ae0045646/hoerprobe_eule_mit_der_beule_und_ihre_freunde_liederalbum_ext.mp3
+  web: https://tonies.com/de-de/tonies/die-eule-mit-der-beule/liederalbum/
+  shop-id: ebf0ce65-b60a-468f-92ce-45501713a736
+  track-desc:
+  - Die Eule mit der Beule
+  - Das Einhorn ohne Horn vorn
+  - Der Hummer hat Kummer
+  - Das Einhorn sucht den Regenbogen
+  - Die kleine Eule mag nicht baden
+  - Warum brummt der Bär nicht mehr?
+  - Der kleine Fuchs hört einen Mucks
+  - Die Maus mit der Laus
+  - Gute Nacht, kleine Eule
+  - Der Biber hat Fieber
+  - Happy Birthday, kleine Eule
+  - Das kleine Einhorn sucht die Mama
   ids:
   - audio-id: 1589465384
     hash: 384583340FD8D880ADED6CEEBAD1D5CEBB4E805E

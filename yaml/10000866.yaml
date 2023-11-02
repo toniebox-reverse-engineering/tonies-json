@@ -1,20 +1,21 @@
 article: '10000866'
-last-update: 1698936992
+last-update: 1698939441
 lock-data: false
 data:
 - series: Disney
   episode: Le Roi Lion
-  release: 0
+  release: N
   language: fr-fr
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 48
+  age: 4
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000866%5Bhero-2%5D-1jW61IV8.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000866-50002801-b-CMZjxYeR.png
+  sample: https://cdn.tonies.de/o/audio_samples/b71a5989f8c77a54b9414d1f162081f1b04069cbae05afa19a201a18/sample_tonie_disney_simba.mp3
+  web: https://tonies.com/fr-fr/tonies/disney/le-roi-lion/
+  shop-id: 607a5048-89ce-43a2-96dd-cdedee0b2e23
+  track-desc:
+  - 'L''Histoire & Les Chansons : Le Roi Lion (env. 48 min)'
   ids:
   - audio-id: 1613996775
     hash: FA6E17956D55E441D229B0D7B1ECA45FC34E9505

@@ -1,18 +1,23 @@
 article: '10000252'
-last-update: 1698936992
+last-update: 1698939372
 lock-data: false
 data:
 - series: Favourite Tales
   episode: Puss in Boots and other fairy tales
-  release: 1599696000
+  release: '1599696000'
   language: en-gb
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 50
+  age: 3
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000252-50001289-b-j8uXPnJk.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/9d9edbc97a47ee2527dd6a4277313127ebfd4c0bf4207c8693b9cf95/audio_sample_ft_puss_in_boots_ext.mp3
+  web: https://tonies.com/en-gb/tonies/favourite-tales/puss-in-boots-and-other-fairy-tales/
+  shop-id: 91a59dd3-b50e-42b0-b4c3-f739b8bde93d
+  track-desc:
+  - Puss in Boots
+  - The Magic Porridge Pot
+  - The Emperor’s New Clothes
+  - Thumbelina
+  - The Brave Tin Soldier
   ids: []

@@ -1,20 +1,26 @@
 article: 01-0118
-last-update: 1698936991
+last-update: 1698939282
 lock-data: false
 data:
 - series: Mascha und der Bär
   episode: Ein neuer Freund für Mascha
-  release: 1631145600
+  release: '1631145600'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 40
+  age: 4
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0118-50001193-b-3_L7GGar.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/15ee55088249ed0cd48c4bdce68dc4c9d523b70fb3913f136e995ce8/hoerprobe_mascha_und_der_baer_ext.mp3
+  web: https://tonies.com/de-de/tonies/mascha-und-der-baer/ein-neuer-freund-fuer-mascha/
+  shop-id: b5eb60bb-4b06-4458-9d07-607341a205ac
+  track-desc:
+  - Ein neuer Freund
+  - Die Nummer für den Notfall
+  - Einweck-Tag
+  - Frühlingsgefühle
+  - Der Zauberfisch
+  - Die mit den Wölfen tanzt
   ids:
   - audio-id: 1628505371
     hash: 7FFF3246429934809591E29BDF4E8895F86891A6

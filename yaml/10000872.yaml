@@ -1,18 +1,27 @@
 article: '10000872'
-last-update: 1698936992
+last-update: 1698939443
 lock-data: false
 data:
 - series: Peppa Pig
   episode: Sur La Route Avec Peppa
-  release: 0
+  release: N
   language: fr-fr
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 55
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000872-50002813-b-0nKgLUF5.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/7bf1c1bd260b6690f3caa5dcd0ab91071114ea34c2c9c93117a2c370/sample_tonie_peppa_pig.mp3
+  web: https://tonies.com/fr-fr/tonies/peppa-pig/sur-la-route-avec-peppa/
+  shop-id: f6ab940e-66ed-4f6b-8669-44496bb5ec3d
+  track-desc:
+  - Le tour du monde de Peppa
+  - À la plage
+  - La maison de vacances
+  - La montagne blanche
+  - Le grand aquarium
+  - En bateau !
+  - Le voyage à Paris
+  - Londres
+  - La grande barrière de corail
   ids: []

@@ -1,20 +1,44 @@
 article: '10001106'
-last-update: 1698936993
+last-update: 1698939319
 lock-data: false
 data:
 - series: Lieblings-Kinderlieder
   episode: Kindergartenlieder
-  release: 0
+  release: N
   language: de-de
   category: music
-  runtime: 0
-  age: 99
+  runtime: 50
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001106-50003569-b--oqXF8g_-.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/8aae1f0f3d574f02ff8234e4a85f76271bdb400d1b81bcc7f57ea089/hoeprrobe_10001106_kindergartenlieder.mp3
+  web: https://tonies.com/de-de/tonies/lieblings-kinderlieder/kindergartenlieder-neuauflage-2022/
+  shop-id: 96c17f7f-7521-4af3-b22f-ab9faa080e68
+  track-desc:
+  - Wir Kindergartenkinder
+  - Wenn du fröhlich bist
+  - Wir werden immer größer
+  - Bruder Jakob
+  - Wenn der Tag erwacht
+  - Guten Morgen, guten Morgen
+  - Kindermutmachlied
+  - Nun sind wir wieder da
+  - Die Jahresuhr
+  - Liebe, liebe Sonne
+  - Ich bin der kleine Hampelmann
+  - Alle meine Entchen
+  - Der Kuckuck und der Esel
+  - Hänschen klein
+  - Ein Männlein steht im Walde
+  - Backe, backe Kuchen
+  - Ri-ra-rutsch
+  - Meine Hände sind verschwunden
+  - Es regnet, es regnet
+  - Ich geh mit meiner Laterne
+  - In einem kleinen Apfel
+  - Es war eine Mutter
+  - Happy Birthday
+  - Alle Leut
   ids:
   - audio-id: 1653373826
     hash: 654A0321F0404439D966BD9EBDED570062C4F3C3

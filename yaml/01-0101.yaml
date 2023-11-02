@@ -1,20 +1,29 @@
 article: 01-0101
-last-update: 1698936991
+last-update: 1698939212
 lock-data: false
 data:
 - series: Die drei !!!
   episode: Das Geheimnis der alten Villa
-  release: 1572998400
+  release: '1572998400'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 68
+  age: 8
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0101-50000674-b-1kgWReJw.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/11dd089a7758b1443ff491af79a7ecb37f7e8f8d8684c2c02bd9fb47/hoerprobe_die_drei_ausrufezeichen_das_geheimnis_der_alten_villa_ext.mp3
+  web: https://tonies.com/de-de/tonies/die-drei-ausrufezeichen/das-geheimnis-der-alten-villa/
+  shop-id: df3e82fa-0af4-41a6-bc10-408073738444
+  track-desc:
+  - Ein rätselhafter Fund
+  - Reise in die Vergangenheit
+  - Erfolgreiche Recherche
+  - Stillstand und Fortschritt
+  - Romantisches Date
+  - Nächtlicher Einbruch
+  - Im Schutz des Rhododendrons
+  - Märchen oder Wahrheit?
+  - Geheimnis des pausbäckigen Engels
   ids:
   - audio-id: 1571644754
     hash: 296F70606833670626F7FF7799BEE347F856D8B4

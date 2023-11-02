@@ -1,18 +1,19 @@
 article: '10001232'
-last-update: 1698936993
+last-update: 1698939401
 lock-data: false
 data:
 - series: Roald Dahl
   episode: The Witches
-  release: 1658275200
+  release: '1658275200'
   language: en-gb
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 180
+  age: 6
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10001232-50003760-b-qGtYZ5Ay.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/f4dd4cc19b48f737c34c51ea5aacdf009e7e8e558bfb0f84b0c81dc2/rd_thewitches_sample.wav
+  web: https://tonies.com/en-gb/tonies/roald-dahl/roald-dahl-the-witches/
+  shop-id: d48cce5c-77a5-4e7e-a299-6e4c8e9fada7
+  track-desc:
+  - The Witches
   ids: []

@@ -1,18 +1,25 @@
 article: '10001654'
-last-update: 1698936993
+last-update: 1698939424
 lock-data: false
 data:
-- series: Percy the Park Keeper
+- series: Percy the Park keeper
   episode: Percy
-  release: 1687392000
+  release: '1687392000'
   language: en-gb
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 45
+  age: 4
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/50005209-Tonie_Shado-Hemvm9sV.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/aae3320cbe60184b42b43cce3afc1d6038efdf90e017cf119e5de352/10001654_percy_the_park_keeper_sample.wav
+  web: https://tonies.com/en-gb/tonies/percy-the-park-keeper/percy/
+  shop-id: 15308195-81c1-4e98-9734-e73f77b7b8d9
+  track-desc:
+  - The Secret Path
+  - The Rescue Party
+  - Percy's Bumpy Ride
+  - After the Storm
+  - The Treasure Hunt
+  - One Snowy Night
+  - One Springy Day
   ids: []

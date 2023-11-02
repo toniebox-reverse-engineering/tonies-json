@@ -1,18 +1,23 @@
 article: '11000313'
-last-update: 1698936994
+last-update: 1698939476
 lock-data: false
 data:
 - series: Ernest & Célestine
   episode: Mon Amie Célestine
-  release: 1695254400
+  release: '1695254400'
   language: fr-fr
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 47
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/51001034-Tonie_Shado-OAG7gVnA.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/ce32a6f17ab2e16f60cdbe564289d0f03ba9527677b77e631bea95bc/sample_tonie_ec_celestine.mp3
+  web: https://tonies.com/fr-fr/tonies/ernest-celestine/mon-amie-celestine/
+  shop-id: 44b99a2d-435f-455d-9a16-d839a4408f3b
+  track-desc:
+  - Introduction
+  - Le Club Souris
+  - Les frères Tulipe
+  - L'arbre moqueur
+  - Joyeux Noël, Célestine
   ids: []

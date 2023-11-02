@@ -1,20 +1,42 @@
 article: '10001334'
-last-update: 1698936993
+last-update: 1698939323
 lock-data: false
 data:
 - series: Lieblings-Kinderlieder
   episode: Weihnachtslieder 2 (Neuauflage 2022)
-  release: 1663113600
+  release: '1663113600'
   language: de-de
   category: music
-  runtime: 0
-  age: 99
+  runtime: 55
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001334-50004100-b--CuPtjnzs.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/63a2950477dedb4ce34c91f55b802447d7ac4c6734e33978007abb63/hoerprobe_10001334_lieblings_kinderlieder_weihnachtslieder_2_relaunch.mp3
+  web: https://tonies.com/de-de/tonies/lieblings-kinderlieder/weihnachtslieder-2-neuauflage-2022/
+  shop-id: f6d5a84b-46b8-4fc6-bf98-206c53f4399f
+  track-desc:
+  - Morgen kommt der Weihnachtsmann
+  - Es ist für uns eine Zeit angekommen
+  - Kommet, ihr Hirten
+  - Wisst ihr was die Frösche am Weihnachtsabend machen?
+  - Stern über Bethlehem
+  - Dicke rote Kerze
+  - Sei gegrüßt lieber Nikolaus
+  - Kommt, wir zünden Kerzen an
+  - Nikolaus, Nikolaus, Nikolaus
+  - Sind die Lichter angezündet
+  - Jingle Bells
+  - Engel haben Himmelslieder
+  - Oh, es riecht gut
+  - Guten Abend, schön Abend
+  - Es sahen drei Eulen den Weihanchtsstern
+  - So viel Heimlichkeit
+  - Was soll das bedeuten?
+  - Und Frieden für die Welt
+  - Unterm Weihnachtsbaum
+  - Bald nun ist Weihnachtszeit
+  - Danke sage ich leise dann
+  - Outro
   ids:
   - audio-id: 1660920435
     hash: 33C30A66A0D203571613F45626CC2B24E1AFE4F5

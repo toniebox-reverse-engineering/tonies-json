@@ -1,18 +1,24 @@
 article: '10001036'
-last-update: 1698936993
+last-update: 1698939391
 lock-data: false
 data:
 - series: Favourite Classics
   episode: Pinocchio (relaunch)
-  release: 1659052800
+  release: '1659052800'
   language: en-gb
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 120
+  age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001036-50003364-b-Nd3sBRBx.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/pinocchio-relaunch-u-q3W9GDWz.png
+  sample: https://cdn.tonies.de/o/audio_samples/ac4ed966e76c2717f31e84f2ade6dc8d6542b64b6b9608e7979e217f/pinnochio_relaunch.wav
+  web: https://tonies.com/en-gb/tonies/favourite-classics/pinocchio-relaunch/
+  shop-id: ef215f9f-a1e7-4cb2-a463-e27069d0a93f
+  track-desc:
+  - Pinocchio
+  - The Wind in the Willows
+  - The Railway Children
+  - Black Beauty
+  - Five Children & it
+  - A Little Princess
   ids: []

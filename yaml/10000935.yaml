@@ -1,18 +1,23 @@
 article: '10000935'
-last-update: 1698936993
+last-update: 1698939389
 lock-data: false
 data:
 - series: Disney
   episode: Fantasia
-  release: 1638403200
+  release: '1638403200'
   language: en-gb
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 39
+  age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000935-50003069-b-pffC-h4D.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000935-50003069-b-xGhxuk0I.png
+  sample: https://cdn.tonies.de/o/audio_samples/5dae21f587b486c316f5e789352b2a1d2a908078d75050543fe83ed2/audio_sample_10000935_disney_fantasia.mp3
+  web: https://tonies.com/en-gb/tonies/disney/fantasia/
+  shop-id: 04299db4-54e4-40f2-a36b-405651bf3e84
+  track-desc:
+  - STORY- The Sorcerer’s Apprentice
+  - Toccata and Fugue in D Minor, BMV 565
+  - The Nutcracker Suite, Op. 71A, Dance of the Sugar Plum Fairy
+  - Symphony No. 6 (“Pastoral”), Op. 68, I.Allegro Ma Non Troppo
+  - Dance of the Hours from the opera “La Gioconda”
   ids: []

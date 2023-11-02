@@ -1,20 +1,22 @@
 article: 01-0165
-last-update: 1698936991
+last-update: 1698939202
 lock-data: false
 data:
 - series: Tabaluga
   episode: Das große Ereignis/Freunde fürs Leben
-  release: 1541635200
+  release: '1541635200'
   language: de-de
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 55
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0165-98-0509-b-adAQGTCx.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/962196342a107e3cddc5485c390c50948b579c5eb8096929ac5f45d4/hoerprobe_tabaluga.mp3
+  web: https://tonies.com/de-de/tonies/tabaluga/das-grosse-ereignis-freunde-fuers-leben/
+  shop-id: 94039160-fdca-410f-b7f8-9370c55fd081
+  track-desc:
+  - Das große Ereignis
+  - Freunde fürs Leben
   ids:
   - audio-id: 1540992468
     hash: 5202BCA10DB887E75273470D6BBD0771E198F5AB

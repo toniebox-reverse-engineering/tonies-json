@@ -1,20 +1,41 @@
 article: '10000151'
-last-update: 1698936991
+last-update: 1698939224
 lock-data: false
 data:
 - series: Wieso? Weshalb? Warum? junior
   episode: Die Polizei
-  release: 1588809600
+  release: '1588809600'
   language: de-de
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 32
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000151-50000578-b-fUeKsbOt.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/36db52b381dbc02d00901b7b4d271bbe5e92d1cd8b9cf32916f00227/hoerprobe_wwwjunior_die_polizei_ext.mp3
+  web: https://tonies.com/de-de/tonies/wieso-weshalb-warum-junior-2/die-polizei/
+  shop-id: 070ab276-f6fc-4952-9720-004b9c2ff8bd
+  track-desc:
+  - Mein kleines Wieso? Weshalb? Warum?- Lied (Intro)
+  - Wozu braucht die Polizei das Blaulicht? 1
+  - Wozu braucht die Polizei das Blaulicht? 2
+  - Was passiert auf dem Polizeirevier? 1
+  - Was passiert auf dem Polizeirevier? 2
+  - Welche Kleidung tragen Polizisten? 1
+  - Welche Kleidung tragen Polizisten? 2
+  - Welche Fahrzeuge braucht die Polizei? 1
+  - Welche Fahrzeuge braucht die Polizei? 2
+  - Was passiert bei einem Unfall?
+  - 'Lied: Tatütata-Lied'
+  - Was macht die Polizei im Kindergarten?
+  - Lied der Ampelmännchen
+  - Wozu gibt es Polizeihunde?
+  - 'Lied: Harro, der Polizeihund'
+  - Wie fängt die Polizei den Dieb? 1
+  - Wie fängt die Polizei den Dieb? 2
+  - Warum kontrolliert die Polizei Fahrzeuge? 1
+  - Warum kontrolliert die Polizei Fahrzeuge? 2
+  - Was muss ein Polizist alles können?
+  - Mein kleines Wieso? Weshalb? Warum?-Lied (Extro)
   ids:
   - audio-id: 1587460860
     hash: EC8B9F05BA84328D04D64A7348969EB99AE1777F

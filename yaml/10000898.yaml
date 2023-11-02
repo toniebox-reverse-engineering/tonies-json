@@ -1,20 +1,33 @@
 article: '10000898'
-last-update: 1698936993
+last-update: 1698939321
 lock-data: false
 data:
 - series: Jan Tenner
   episode: Jan Tenner - Planet der 1000 Wunder
-  release: 1657670400
+  release: '1657670400'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 42
+  age: 10
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000898-50002953-b-a0dK_Sfn.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/82ed4888b7c110001711df9a631df6d43adaee4ffb704cb98eec68cf/hoerprobe_10000898_jan_tenner_planet_der_1000_wunder.mp3
+  web: https://tonies.com/de-de/tonies/jan-tenner/jan-tenner-planet-der-1000-wunder/
+  shop-id: c83981cc-7b3e-4cbe-8d5f-f853538a80f0
+  track-desc:
+  - Vorspann
+  - Sathoans Geist
+  - Die erste Prüfung
+  - Zweistein in Not
+  - Ehrfurcht vor dem Leben
+  - In den Untergrund
+  - Höllenspuk der Dämonen
+  - Unterirdisches Labyrinth
+  - Bedrohliches Wasser
+  - Zweistein verschwindet
+  - Rote Sandwüste
+  - Blaue Treppe
+  - Ausblick in die Zukunft
   ids:
   - audio-id: 1656412723
     hash: 036DD3579EDE773C22804E4E08B1499DB57BB927

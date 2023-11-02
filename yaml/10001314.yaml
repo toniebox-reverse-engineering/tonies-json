@@ -1,18 +1,19 @@
 article: '10001314'
-last-update: 1698936993
+last-update: 1698939402
 lock-data: false
 data:
 - series: Roald Dahl
   episode: Matilda
-  release: 1663632000
+  release: '1663632000'
   language: en-gb
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 86
+  age: 6
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10001314-50004021-b-JeBZaOQ0.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/8c95ffb48ba0297efa9d4dbd3b449129197182927d80e890971f3fd2/matilda__audio_clip.mp3
+  web: https://tonies.com/en-gb/tonies/roald-dahl/matilda/
+  shop-id: dfaa869e-bb74-460d-a034-aab4ca9e1539
+  track-desc:
+  - Matilda
   ids: []

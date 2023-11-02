@@ -1,18 +1,26 @@
 article: '10001249'
-last-update: 1698936993
+last-update: 1698939394
 lock-data: false
 data:
-- series: Nat Geo
+- series: National Geographic Kids
   episode: Penguin
-  release: 1650844800
+  release: '1650844800'
   language: en-gb
   category: audio-play-educational
-  runtime: 0
-  age: 99
+  runtime: 60
+  age: 5
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10001249-50003817-b-aIU4lfw6.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/7bf7cf909b2d14cef8e8ae692ccc328c220811a1093e0505551e416e/1penguins_intro.wav
+  web: https://tonies.com/en-gb/tonies/national-geographic-kids/penguin/
+  shop-id: 2a839c5f-4d24-4e01-bfbc-59c00554151b
+  track-desc:
+  - What Are Penguins?
+  - Where Do Penguins Live?
+  - Not Just Any Bird
+  - What’s for Dinner?
+  - Life on Land
+  - A Chick Is Born
+  - The Longest March
+  - Penguin Play
   ids: []

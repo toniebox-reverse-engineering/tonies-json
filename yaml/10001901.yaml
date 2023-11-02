@@ -1,18 +1,43 @@
 article: '10001901'
-last-update: 1698936993
+last-update: 1698939465
 lock-data: false
 data:
 - series: Séléna Sans Chichis Ni Tralala
   episode: Plongée Insolite Dans Moby Dick
-  release: 1681344000
+  release: '1681344000'
   language: fr-fr
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 60
+  age: 6
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/50005966-Tonie_Shado-4nU5lm5P.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/79c1348e4825f1bf41110e8968b2218e2e4567baf295ca1127e666ed/sample_tonie_selena_moby_dick.mp3
+  web: https://tonies.com/fr-fr/tonies/selena-sans-chichis-ni-tralala/plongee-insolite-dans-moby-dick/
+  shop-id: 15772168-b7eb-43d1-bc22-7539315ded9a
+  track-desc:
+  - Introduction (inclus 🎵 Séléna)
+  - Éthan, la terreur de l'école
+  - Cookies et plongée dans l'inconnu (inclus 🎵 Voyage entre les pages)
+  - L'auberge du jet de la baleine
+  - Le Pequod, un vieux rafiot bizarrement bizarre
+  - Starbuck, la capitaine en second qu'a tout l'air d'un dragon (inclus 🎵 On prend
+    la mer)
+  - Le départ de l'équipage et l'absence énigmatique
+  - Achab ou celui qui a un compte à régler
+  - L'historique de Moby Dick
+  - 🎵 Moby Dick
+  - Passager clandestin
+  - La première chasse
+  - Fedallah, j'la sens pas ! (inclus 🎵 Ho-Hisse la saucisse)
+  - Pas de bras, pas de chocolat
+  - Qui part à la chasse, perd sa place (inclus 🎵 Vivre sa vie de cachalot)
+  - 'La vérité est comme l''huile : elle remonte toujours à la surface'
+  - Queequeg et la faucheuse
+  - Un typhon ? Même pas peur !
+  - 🎵 Perdu la boule
+  - Le Rachel
+  - Achab verse une larme
+  - La dernière chasse
+  - Clap de fin (inclus 🎵 On coule)
+  - Épilogue (inclus 🎵 Séléna)
   ids: []

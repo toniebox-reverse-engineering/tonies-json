@@ -1,20 +1,33 @@
 article: 01-0060
-last-update: 1698936991
+last-update: 1698939196
 lock-data: false
 data:
 - series: Wickie
   episode: Die Königin der Winde
-  release: 1506384000
+  release: '1506384000'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 61
+  age: 5
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0060-98-0137-b-M_0MS6Wi.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/0856e8f9f4a7258393d5ae1de1f9c507ba0a3c1fc26e0a2569bdb8c9/hoerprobe_wickie_koenigin.mp3
+  web: https://tonies.com/de-de/tonies/wickie/die-koenigin-der-winde/
+  shop-id: 6d52a760-4c49-496d-9b05-0bc8a924f1f8
+  track-desc:
+  - Titellied „Hey, hey Wickie“
+  - Die Königin der Winde
+  - Sichere Landung
+  - Die Sternschnuppe
+  - Der Stern
+  - Der weltbeste Krieger
+  - Der Babysitter
+  - Gilby auf großer Fahrt
+  - Zu klein!
+  - Flake steht Kopf!
+  - Die Hypnose
+  - Gorms Möwe
+  - Gorm muss verschwinden
   ids:
   - audio-id: 1503563886
     hash: 2357B01BBB21A544917EB22C5D9E24C43D976487

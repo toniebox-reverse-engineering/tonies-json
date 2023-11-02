@@ -1,20 +1,30 @@
 article: '10000399'
-last-update: 1698936992
+last-update: 1698939254
 lock-data: false
 data:
 - series: Sternenschweif
   episode: Geheimnisvolle Verwandlung
-  release: 1615420800
+  release: '1615420800'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 58
+  age: 6
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000399-50001428-b-g-8NJWrF.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/acc8f52187e0eb6504e2d5c71d9f958d903d9c955c0d8080fba06684/horprobe_sternenschweif_geheimnisvolle_verwandlung_ext.mp3
+  web: https://tonies.com/de-de/tonies/sternenschweif/geheimnisvolle-verwandlung/
+  shop-id: b455ce07-d763-4cea-88dc-20f2312d1e99
+  track-desc:
+  - Titelsong
+  - Laura bekommt ein Pony
+  - Auf der Pferdeauktion
+  - Mr Fontanas Buchhandlung
+  - Das geheimnisvolle Zauberbuch
+  - Sternenschweifs Ankunft auf der Farm
+  - Lauras erster Ausritt zur Waldlichtung
+  - Der Mondblumen-Zauber
+  - Silberstern hoch am Himmel
+  - Laura wird Einhorn-Freundin
   ids:
   - audio-id: 1613137355
     hash: 04CFB9417A3F264312FF166A5D5FD1DAE57C2141

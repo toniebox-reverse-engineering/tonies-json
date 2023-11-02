@@ -1,18 +1,29 @@
 article: '10001387'
-last-update: 1698936993
+last-update: 1698939417
 lock-data: false
 data:
 - series: Horrible Histories
   episode: Terrible Tudors
-  release: 1677024000
+  release: '1677024000'
   language: en-gb
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 55
+  age: 6
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/50004544-Tonie_Shado-KEjECVqU.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/9f8aad5249847327494a80e7677e9f88749cee73afbcea3ecd59b395/10001387__terrible_tudors_deary_me_sample.mp3
+  web: https://tonies.com/en-gb/tonies/horrible-histories/terrible-tudors/
+  shop-id: a1afc11e-4028-43a8-983f-aeb0a83faede
+  track-desc:
+  - Deary Me
+  - Heaven for Henry Seven
+  - Henry Eight and Ate
+  - Advertising Break
+  - Horrible Henry
+  - Terrible Teacher Testing
+  - Awful for Anne & Hair for Mary
+  - Ships and Things
+  - Crime Time
+  - Murder for Marlowe
+  - The End of The Tudors
   ids: []

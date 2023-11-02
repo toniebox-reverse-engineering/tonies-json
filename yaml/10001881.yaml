@@ -1,18 +1,34 @@
 article: '10001881'
-last-update: 1698936993
+last-update: 1698939405
 lock-data: false
 data:
-- series: Favourite Children’s Songs
+- series: Favourite Children's Songs
   episode: Animal Songs (relaunch)
-  release: 1667088000
+  release: '1667088000'
   language: en-gb
   category: music
   runtime: 0
-  age: 99
+  age: 3
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/animal_songs-UOzCXphB.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/8518cdec3464e3ef99d47091279c72f82d7cf9d2e98b5b91cfb77ea2/animal_songs_relaunch_audio_sample.wav
+  web: https://tonies.com/en-gb/tonies/favourite-children-s-songs/animal-songs-relaunch/
+  shop-id: c1759a33-c3f2-4da4-bd1e-729f08a49249
+  track-desc:
+  - Here Come the Animals
+  - When Ducks Wake Up in the Morning
+  - Down by the Waterhole
+  - One Elephant Went Out to Play
+  - Monkey Mountain
+  - Frog Went A Hoppin
+  - Grizzly Bear
+  - Cool Cat
+  - Two Little Blackbirds
+  - Deep Sea Wilderness
+  - Jammin in the Jungle
+  - Fly Little Butterfly
+  - Sweetly Sings the Donkey
+  - Hush Little Baby
+  - At the Zoo
+  - My Little Lamb
   ids: []

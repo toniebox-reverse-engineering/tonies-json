@@ -1,20 +1,24 @@
 article: '10000364'
-last-update: 1698936992
+last-update: 1698939267
 lock-data: false
 data:
 - series: Bob der Baumeister
   episode: Bob der Küchenmeister
-  release: 1620604800
+  release: '1620604800'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 53
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000364-50001151-b-F-28_KRN.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/f6ce8ebae416249f01f8f3a11cb2a81fb6287e060f580ab537ae796f/hoerprobe_bob_der_baumeister_bob_der_kuechenmeister_ext.mp3
+  web: https://tonies.com/de-de/tonies/bob-der-baumeister/bob-der-kuechenmeister/
+  shop-id: d11c1223-6039-43c6-967f-a98ea797578f
+  track-desc:
+  - Bob, der Küchenmeister
+  - Bob und die Geburtstagsüberraschung
+  - Baggis großer Durchbruch
+  - Heppo und die Giraffe
   ids:
   - audio-id: 1618933130
     hash: 1F67EF68F732DCAAA0A966CB408D38DB0838056C

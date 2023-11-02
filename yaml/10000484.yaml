@@ -1,19 +1,19 @@
 article: '10000484'
-last-update: 1698936992
+last-update: 1698939100
 lock-data: false
 data:
 - series: SPIRIT
   episode: SPIRIT - Frei und Ungezähmt
-  release: 0
+  release: N
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 61
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000484-50001519-b-o0o9sPWf.png
-  sample: null
-  web: null
-  shop-id: null
+  sample: https://cdn.tonies.de/o/audio_samples/e7ef8b30196bd8b605a68903f35b91980196613fae5ea9c239e9455f/heorprobe_10000484_spirit.mp3
+  web: https://tonies.com/de-de/tonies/spirit/spirit-frei-und-ungezhmt/
+  shop-id: 52b6376f-45ec-43fc-a8ca-e381696e912f
   track-desc: []
   ids:
   - audio-id: 1653301237

@@ -1,20 +1,40 @@
 article: '10000289'
-last-update: 1698936992
+last-update: 1698939243
 lock-data: false
 data:
 - series: Lieblings-Kinderlieder
   episode: Halloween & Spuk
-  release: 1603324800
+  release: '1603324800'
   language: de-de
   category: music
-  runtime: 0
-  age: 99
+  runtime: 50
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000289-50001862-b-6PEAZPeh.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/07b2599651884f4fc333db6b0eb6dcd68b0d4c48919cfcf069583103/hoerprobe_lkl_halloween_und_spuk_ext.mp3
+  web: https://tonies.com/de-de/tonies/lieblings-kinderlieder/halloween-und-spuk/
+  shop-id: 3bae4615-455b-4af0-b7d4-1896ada14cff
+  track-desc:
+  - Geisterzeit
+  - Schaurig-schönes Halloween
+  - Dracula-Rock
+  - Kürbis-Geister-Stunde
+  - Hexentanz
+  - Supermonster Boogie Markus Reyhani
+  - Hu-Ha-Halloween
+  - Geisterstunde
+  - Ich tanz heut Nacht im Schloss herum
+  - Das olchige Rattenlied
+  - Süßes oder Saures
+  - Morgens früh um sechs
+  - Grüne Dracheneier
+  - Ich bin die kleine Hexe und habe rote Schuh
+  - Ich bin ein Monster (Minimusiker)
+  - Flattermaus (Die schwarzen Tasten mit Tobias Siebert von Klez.e)
+  - Monster & Zombies (Gorilla Club 1-2-3-4! mit Junge)
+  - Wir sind kleine Geister
+  - Die alte Moorhexe
+  - Monster Boogie Woogie
   ids:
   - audio-id: 1603187188
     hash: 3975179176CFAA082229A2CF7848BEA4395730E2

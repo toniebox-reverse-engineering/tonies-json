@@ -1,18 +1,26 @@
 article: '11000303'
-last-update: 1698936994
+last-update: 1698939479
 lock-data: false
 data:
 - series: Alix Pix
   episode: Du Rififi Au Royaume Des Contes
-  release: 0
+  release: N
   language: fr-fr
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 53
+  age: 5
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/51001004-Tonie_Shado-xAwQgct_.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/d662ab65d23c3788c77d3016e27ff79959ae75795cb768051652e40b/alix_pix_extraitmp3.mp3
+  web: https://tonies.com/fr-fr/tonies/alix-pix-1/du-rififi-au-royaume-des-contes/
+  shop-id: 06c4f1e7-205a-48d9-92e6-8f5809842c7e
+  track-desc:
+  - Introduction
+  - Chapitre 1 - Une lettre mystérieuse
+  - Chapitre 2 - Enquête à la ménagerie
+  - Chapitre 3 - Direction le palais !
+  - Chapitre 4 - Une drôle d'alliée
+  - Chapitre 5 - Derrière la porte secrète
+  - Chapitre 6 - Au cœur de la forêt
+  - Chapitre 7 - Tout ne fait que commencer
   ids: []

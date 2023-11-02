@@ -1,18 +1,28 @@
 article: '11000495'
-last-update: 1698936994
+last-update: 1698939436
 lock-data: false
 data:
 - series: Paw Patrol
   episode: Liberty
-  release: 1697414400
+  release: '1697414400'
   language: en-gb
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 50
+  age: 3
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/Image%202-3J27E1xi.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/9df52214e0b67c350f72f94137791702ade60839cdef88c47a7ae922/tonie_liberty_uk_1__160lufsint.wav
+  web: https://tonies.com/en-gb/tonies/paw-patrol/liberty/
+  shop-id: fb760b65-e2c1-4ac9-85fc-7a42def5a4ba
+  track-desc:
+  - Intro
+  - Paw Patrol Theme Song
+  - Liberty Makes a New Friend
+  - Interlude
+  - Pups Save the Pup Pup Boogie Contest
+  - Interlude
+  - Pups Save a Jukebox
+  - Interlude
+  - Pups Save the Hatchlings
+  - Outro
   ids: []

@@ -1,18 +1,24 @@
 article: '10001406'
-last-update: 1698936993
+last-update: 1698939458
 lock-data: false
 data:
 - series: Mouk
   episode: Découvre Le Monde Avec Mouk
-  release: 1669852800
+  release: '1669852800'
   language: fr-fr
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 46
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001406-50004810-b--1QQQ0_u0.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/cba8b65e53f92afa2e55bed27983e8cdc233c75d7bf9f147ebfafe93/sample_tonie_mouk.mp3
+  web: https://tonies.com/fr-fr/tonies/mouk/decouvre-le-monde-avec-mouk/
+  shop-id: cb8635f6-d118-4ff8-923c-efa46197a79e
+  track-desc:
+  - Les archéologues du désert
+  - Les cowboys d'Argentine
+  - Les étoiles filantes
+  - Le dauphin rose
+  - L'oiseau perdu
+  - La bambouseraie
   ids: []

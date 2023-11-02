@@ -1,21 +1,37 @@
 article: '10002023'
-last-update: 1698936993
+last-update: 1698939330
 lock-data: false
 data:
 - series: Secret Science Club
   episode: 'Secret Science Club: Abwehrstark - Rund um Viren, Abwehrkräfte und Immunhelfer!
     mit Özlem & Ugur'
-  release: 0
+  release: N
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 60
+  age: 6
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10002023-50006608-b-a6WWvPfk.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/cf566ecfba362f4c5f32156ab1b5bc130d0c04e9d79cc239312bf164/hoerprobe_10002023_secret_science_club_abwehrstark.wav
+  web: https://tonies.com/de-de/tonies/secret-science-club/secret-science-club-abwehrstark/
+  shop-id: 78ad5a7d-5960-4000-9234-1544289da82f
+  track-desc:
+  - 'Folge 1: Die geheime Welt des Immunsystems'
+  - „Ha! Geschafft!”
+  - Ahnt ihr, was gerade passiert ist?
+  - Uğur und Özlem laufen mit Phagi im Schlepptau …
+  - Ein Blitz blendet die beiden jungen Forschenden.
+  - Am nächsten Morgen auf dem Schulhof …
+  - „Ah, jetzt sehe ich, wie das funktioniert.”
+  - 'Folge 2: Die Immunflüsterer'
+  - „So, und jetzt wieder zu dir, Dendritio.”
+  - Jetzt sind Özlem und er so winzig klein …
+  - Schon stehen Özlem und Uğur wieder …
+  - Am nächsten Nachmittag im Geheimlabor …
+  - Uğur klappt den Laptop auf und verbindet ihn mit dem Minimax.
+  - Aber wieder zurück zu unseren beiden Forschenden.
+  - Und eines Nachmittags bekommen sie im Geheimlabor Besuch.
+  - 'Bonustrack: Interview mit zwei echten Forschenden'
   ids:
   - audio-id: 1666854957
     hash: 5D3DF5D24D4AA5F28C3D507687C270EF78313C7E

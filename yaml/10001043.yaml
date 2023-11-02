@@ -1,18 +1,32 @@
 article: '10001043'
-last-update: 1698936993
+last-update: 1698939443
 lock-data: false
 data:
 - series: Heidi
   episode: Heidi
-  release: 0
+  release: N
   language: fr-fr
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 60
+  age: 5
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001043-50003380-b-aIV05NEI.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/7255ba3b2db082a63286e028c099f4f19ac25ed0b1015cb8d20ed273/sample_tonie_heidi.mp3
+  web: https://tonies.com/fr-fr/tonies/heidi/heidi/
+  shop-id: a2fbe823-ac77-40a5-8d08-3242793c7ae9
+  track-desc:
+  - Chanson
+  - En voyage chez Grand-Père (Partie 1)
+  - En voyage chez Grand-Père (Partie 2)
+  - Dans les pâturages (Partie 1)
+  - Dans les pâturages (Partie 2)
+  - L'épreuve (Partie 1)
+  - L'épreuve (Partie 2)
+  - Introduction des jeux sonores
+  - 'Jeu #1 : Le trombinoscope de la montagne'
+  - 'Jeu #2 : Le grand voyage de la goutte d''eau'
+  - 'Jeu #3 : Loup y-es-tu ?'
+  - 'Jeu #4 : La cueillette en rébus'
+  - 'Jeu #5 : Le goûter des sommets, recette du gâteau de Savoie'
+  - 'Jeu #6 : Laisse ta trace, construis ton cairn !'
   ids: []

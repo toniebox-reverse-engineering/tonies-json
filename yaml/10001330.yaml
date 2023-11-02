@@ -1,18 +1,19 @@
 article: '10001330'
-last-update: 1698936993
+last-update: 1698939337
 lock-data: false
 data:
 - series: Die Haferhorde
   episode: Immer den Nüstern nach
-  release: 1678233600
+  release: '1678233600'
   language: de-de
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 139
+  age: 8
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001330-50004084-b-4e0R8fXC.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/66d0d77bef48913c6c326d407c56b2d300b003b3812650f9636dd6ca/hoerprobe_10001330_die_haferhorde_immer_den_nustern_nach.mp3
+  web: https://tonies.com/de-de/tonies/die-haferhorde/immer-den-nstern-nach/
+  shop-id: f8190fe9-7d35-41b5-abe1-6426c0e3a2d5
+  track-desc:
+  - '49 Die Haferhorde: Immer den Nüstern nach'
   ids: []

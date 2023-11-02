@@ -1,18 +1,22 @@
 article: '10000321'
-last-update: 1698936992
+last-update: 1698939360
 lock-data: false
 data:
 - series: Paw Patrol
   episode: Chase
-  release: 1620604800
+  release: '1620604800'
   language: en-gb
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 54
+  age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000321-50003328-b-JYUbBLXm.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000321-50003328-b--nVprK4ic.png
+  sample: https://cdn.tonies.de/o/audio_samples/7aeca17576883418846305d323c56f65408ab804f3654e1dd7365553/audio_sample_paw_patrol_chase_ext.mp3
+  web: https://tonies.com/en-gb/tonies/paw-patrol/paw-patrol-chase/
+  shop-id: d9135014-2de3-4090-a201-77da1cca09f5
+  track-desc:
+  - 01-09 Pups Save the Football Game
+  - 10-17 Pups Save a Lucky Collar
+  - 18-26 Pups Save Alexs Mini-Patrol
+  - 27-34 Pups Save a Lost Tooth
   ids: []

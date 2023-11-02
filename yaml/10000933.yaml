@@ -1,20 +1,24 @@
 article: '10000933'
-last-update: 1698936993
+last-update: 1698939295
 lock-data: false
 data:
-- series: Paw Patrol
+- series: PAW Patrol
   episode: Schneller als die Feuerwehr
-  release: 1645574400
+  release: '1645574400'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 59
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000933-50003063-b-MBfhYJnn.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/0e2636f2f9336ffa79488b4ae17b896317cf28ee09a4a593fbfd897d/hoerprobe_10000933_paw_patrol_schneller_als_die_feuerwehr.mp3
+  web: https://tonies.com/de-de/tonies/paw-patrol/schneller-als-die-feuerwehr/
+  shop-id: 0da87958-2460-4b46-8958-0a35a0a09ad6
+  track-desc:
+  - Was für ein Zirkus
+  - Hunde retten Huhn
+  - Der Boxenstopp
+  - Schneller als die Feuerwehr
   ids:
   - audio-id: 1643643834
     hash: 9889122EDCCCF11F1E7ED72E6CBFC176BC7CC4A6

@@ -1,20 +1,21 @@
 article: '10000906'
-last-update: 1698936993
+last-update: 1698939298
 lock-data: false
 data:
 - series: Das kleine WIR
   episode: Das kleine WIR
-  release: 0
+  release: N
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 36
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000906-50002969-b-CfEuwLeO.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/76c728ed55c58edfb091740e0f10ce00083b858ab4cd8bfa3f6db27a/hoerprobe_10000906_das_kleine_wir.mp3
+  web: https://tonies.com/de-de/tonies/das-kleine-wir/das-kleine-wir/
+  shop-id: 34a35e60-20c0-4f70-bff7-142d2a20b482
+  track-desc:
+  - '1 – 10: Das kleine WIR'
   ids:
   - audio-id: 1648810807
     hash: 4196C73CEFD3E597E423FE4D56E3913E1360AAD0

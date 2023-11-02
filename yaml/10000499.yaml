@@ -1,20 +1,35 @@
 article: '10000499'
-last-update: 1698936992
+last-update: 1698939292
 lock-data: false
 data:
 - series: Sesamstraße
   episode: Krümelmonsters Mitmampfspaß
-  release: 1644364800
+  release: '1644364800'
   language: de-de
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 40
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000499-50001573-b-JvL-ywWC.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/8dc338bb14c46a8acefec4c76a31d3bd2430b4be8875b0fa935aaf3d/hoerprobe_s10000499_sesamstrae_krumelmonsters_mitmampfspa.mp3
+  web: https://tonies.com/de-de/tonies/sesamstrasse/kruemelmonsters-mitmampfspass/
+  shop-id: 80f5e588-f233-43d1-8f26-c1b71239f4f2
+  track-desc:
+  - Willkommen in der Sesamstraße
+  - Der, die, das
+  - Gesunde Sachen
+  - Hallo-Song
+  - Kleine Snacks zwischendurch
+  - Die Super-Snack-Show
+  - Krümelmonsters Foodie Truck
+  - Mit K schreibt man Kekse
+  - Kekse backen mit Krümelmonster (Teil 1)
+  - Ich wart’ ab!
+  - Kekse backen mit Krümelmonster (Teil 2)
+  - Ich bin topfit
+  - Das Monster-Sportfest
+  - Der Monster-Tanz
+  - Monstermäßige Entspannung
   ids:
   - audio-id: 1641995471
     hash: B26449358C8A12CEAC6E3A404C390986CD80C65A

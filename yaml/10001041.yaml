@@ -1,18 +1,34 @@
 article: '10001041'
-last-update: 1698936993
+last-update: 1698939444
 lock-data: false
 data:
 - series: Maya L'Abeille
   episode: Maya L'Abeille
-  release: 0
+  release: N
   language: fr-fr
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 79
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001041-50003378-b-jLIkM7gy.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/dcea25b53a695bc90d4050faf534e578fe27981863b01a67041d67ce/sample_tonie_maya.mp3
+  web: https://tonies.com/fr-fr/tonies/maya-l-abeille/maya-l-abeille/
+  shop-id: bb7a2283-5b34-45fb-a7dd-fe31f9e6bb38
+  track-desc:
+  - Chanson
+  - La naissance de Maya
+  - L'envol
+  - Les messagers de la reine
+  - Belles de nuit
+  - La bouteille de Willy
+  - Le concours de bouse
+  - Le juge Ciredabeille
+  - Introduction des jeux sonores
+  - 'Jeu #1 : Abeille sauvage ou domestique ?'
+  - 'Jeu #2 : Dans mon panier de la ferme'
+  - 'Jeu #3 : Affairée comme une abeille'
+  - 'Jeu #4 : Promenade sonore - L''abeille butineuse'
+  - 'Jeu #5 : Des chiffres et des abeilles'
+  - 'Jeu #6 : Danse comme une abeille'
+  - 'Jeu #7 : Le grog au miel'
   ids: []

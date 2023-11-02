@@ -1,20 +1,36 @@
 article: '10001000'
-last-update: 1698936993
+last-update: 1698939297
 lock-data: false
 data:
 - series: Volker Rosin
   episode: Das singende Känguru
-  release: 1646784000
+  release: '1646784000'
   language: de-de
   category: music
-  runtime: 0
-  age: 99
+  runtime: 50
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001000-50003267-b-lHloX8vZ.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/2f25f0d1916c374ceb28f27b43416ef4b0546beaeae7736ee0840fd5/hoerprobe_10001000_volker_rosin_das_singende_kanguru.mp3
+  web: https://tonies.com/de-de/tonies/volker-rosin/das-singende-kaenguru/
+  shop-id: 8b4b73a4-aaa5-4179-ba29-b30386a10571
+  track-desc:
+  - Das singende Känguru (Originalversion)
+  - Volle Kraft voraus
+  - Ich habe einen kleinen Papagei
+  - Der kleine Fuchs
+  - Tanzfieber
+  - Die Eule tanzt (Videoversion)
+  - Alle Schäfchen machen Böckchen (STEREOACT-Remix)
+  - Theo Theo (Veo Veo)
+  - Wellermann Tanz
+  - Baby Hai
+  - Laufende Tiere
+  - Krabben Samba
+  - Turn-Tiger (Turn-Alarm)
+  - Matze, die Katze
+  - Happy Birthday – Du hast Geburtstag
+  - Lasst uns heute Freunde sein (Volkers Version 2021)
   ids:
   - audio-id: 1645515636
     hash: 0ED852D8DB12E384F6AB90752B05C8CD98072B4D

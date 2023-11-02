@@ -1,20 +1,34 @@
 article: '10001329'
-last-update: 1698936993
+last-update: 1698939185
 lock-data: false
 data:
 - series: Schlummerbande
-  episode: Gutenachtgeschichten - Schlaf schön, kleiner Bär
-  release: 0
+  episode: Gutenachtgeschichten - Schlaf schön, kleiner Schlummerbär
+  release: N
   language: de-de
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 40
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001329-50003237-b-f0UvGMZQ.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/361d904d8285908636f763207eb9e89e50c71e721a76aa0fe9009165/hoerprobe_schlummerbande_gutenachtgeschichten_schlaf_schon.mp3
+  web: https://tonies.com/de-de/tonies/schlummerbande/gutenachtgeschichten-schlaf-schoen-kleiner-baer/
+  shop-id: 7c87f25c-66e2-458f-9414-b6b197fa036a
+  track-desc:
+  - Intro
+  - Ein wunderbarer langer Tag im Schlummerwald geht langsam zu Ende.
+  - „Jetzt aber, auf geht‘s“, drängen die Großeltern …
+  - Bärenschlaflied
+  - Summend stromert der kleine Schlummerbär durch den Wald.
+  - Bärenschlaflied
+  - Auf seinem Weg nach Hause will der Schlummerbär …
+  - Der kleine Bär folgt weiter dem Pfad.
+  - Bärenschlaflied
+  - Der Schlummerbär will mit seinem Lied gerade nochmal …
+  - Der kleine Bär bleibt stehen und überlegt.
+  - Jetzt freut sich der kleine Bär aber auf Zuhause!
+  - Bärenschlaflied
+  - Instrumental
   ids:
   - audio-id: 1669741999
     hash: 4432DBA3382F5EB9A50DC68F9B876C4A4A4312F3

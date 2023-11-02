@@ -1,18 +1,19 @@
 article: '10002267'
-last-update: 1698936994
+last-update: 1698939423
 lock-data: false
 data:
 - series: Sleepy Friends
   episode: Sleepy Sheep Night Light
-  release: 1684540800
+  release: '1684540800'
   language: en-gb
   category: audio-play-songs
-  runtime: 0
+  runtime: 90
   age: 99
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/Sleepy_Sheep_Night_L-g5sw5Jiz.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/2c5ec1d830a8041b55197a3c9ba753b30a70d5989c20e0dff5e976a5/audiosample_nightlight_schlummerschaf_90sek_1.mp3
+  web: https://tonies.com/en-gb/tonies/sleepy-friends/sleepy-sheep-night-light/
+  shop-id: ef1a8809-074f-442b-bee3-171849d83d06
+  track-desc:
+  - 90 mins of beautifully composed melodies
   ids: []

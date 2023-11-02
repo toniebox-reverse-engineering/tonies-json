@@ -1,18 +1,24 @@
 article: '10000859'
-last-update: 1698936992
+last-update: 1698939443
 lock-data: false
 data:
 - series: Elmer
   episode: Elmer Et Ses Amis
-  release: 0
+  release: N
   language: fr-fr
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 50
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000859-50002787-b-alQJe8cv.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/02f713c114a4d4b6be648bf0119fb996833a3f448c6a87131bcf1930/sample_tonie_elmer.mp3
+  web: https://tonies.com/fr-fr/tonies/elmer/elmer-et-ses-amis/
+  shop-id: 258309b8-9662-4b9f-a7ff-e22849c6af73
+  track-desc:
+  - Elmer
+  - Elmer et Walter
+  - Elmer et le vent
+  - Elmer et l'étranger
+  - Elmer et le trésor perdu
+  - Elmer encore et encore
   ids: []

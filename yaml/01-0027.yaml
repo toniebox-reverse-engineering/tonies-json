@@ -1,20 +1,33 @@
 article: 01-0027
-last-update: 1698936991
+last-update: 1698939191
 lock-data: false
 data:
 - series: Ritter Rost
   episode: Die Zauberinsel
-  release: 1487548800
+  release: '1487548800'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 40
+  age: 4
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0027-98-0102-b-uwKLIYwp.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/1de9728a0717de613d201d59325a46b340f632f16ff883a5d1956d9b/hoerprobe_ritter_rost_128kbs.mp3
+  web: https://tonies.com/de-de/tonies/ritter-rost/die-zauberinsel/
+  shop-id: 13744457-00e2-4f92-a0ed-99a44c992fb0
+  track-desc:
+  - Ritter-Rost - Trailer
+  - Auf Dem Meer
+  - Am Strand
+  - Im Urwald
+  - Im Hexengebiet
+  - Vulkan, Vulkan
+  - Wieder Am Strand
+  - In Der Fabrik
+  - Ein Bad In Der Lava (1)
+  - Unter Wasser
+  - Wieder In Der Fabrik
+  - Wieder Auf Dem Meer
+  - Ein Bad In Der Lava (2)
   ids:
   - audio-id: 1486543535
     hash: BF9374148A23770463CDAB0574F3E82BACCA281B

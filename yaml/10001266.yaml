@@ -1,18 +1,21 @@
 article: '10001266'
-last-update: 1698936993
+last-update: 1698939440
 lock-data: false
 data:
 - series: La Pat' Patrouille
   episode: Stella
-  release: 1652918400
+  release: '1652918400'
   language: fr-fr
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 42
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001266-50003875-b-spqgK8Nk.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/ae7c1705265b33c51a83ded644dc4bc327c6337326454193426fcf55/sample_tonie_pat_patrouille_stella.mp3
+  web: https://tonies.com/fr-fr/tonies/la-pat-patrouille/stella/
+  shop-id: 464a08bb-7421-4ae0-a113-42f57c19142d
+  track-desc:
+  - Gros orage sur la Grande Vallée
+  - La ruée vers l'or
+  - L'anniversaire surprise d'Astrid
   ids: []

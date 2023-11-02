@@ -1,18 +1,23 @@
 article: '10001877'
-last-update: 1698936993
+last-update: 1698939423
 lock-data: false
 data:
 - series: Conservation Crew
   episode: Rescues at Sea with Bobby the Sea Turtle
-  release: 1684713600
+  release: '1684713600'
   language: en-gb
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 45
+  age: 4
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/50005453-Tonie_Shado-Dq3t5Dn2.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/9475d88b60d013a83226a5274f2f1725c2fa4eee534330b6135205b8/10001877_conservation_crew_bobby_sea_turtle_sample.wav
+  web: https://tonies.com/en-gb/tonies/conservation-crew/rescues-at-sea-with-bobby-the-sea-turtle/
+  shop-id: b8bce442-6926-434a-98a3-42050c2ec09a
+  track-desc:
+  - Introduction
+  - A Stairway for Salmon
+  - Dylan the Dolphin
+  - The Frog's Chorus
+  - Beaver Rescue
   ids: []

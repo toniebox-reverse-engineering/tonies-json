@@ -1,18 +1,23 @@
 article: '11000224'
-last-update: 1698936994
+last-update: 1698939421
 lock-data: false
 data:
 - series: Paw Patrol
   episode: Rocky
-  release: 1681948800
+  release: '1681948800'
   language: en-gb
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 50
+  age: 3
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/50006768-Tonie_Shado-hTFz0_iR.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/f8ab14c6ebdd772c6d9ca325be253a44faa31bc0e4aad90fa6e6fe75/11000224_rocky_sample.wav
+  web: https://tonies.com/en-gb/tonies/paw-patrol/rocky/
+  shop-id: 4974cfd8-9943-41b0-bb38-0f8f30cfead3
+  track-desc:
+  - PAW Patrol Theme Song
+  - Pups Save the Honey
+  - Rocky Saves Himself
+  - 'Ultimate Rescue: Pups and the Hidden Golden Bones'
+  - Pups Save a Trash-Dinger
   ids: []

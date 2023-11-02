@@ -1,20 +1,30 @@
 article: '10000491'
-last-update: 1698936992
+last-update: 1698939288
 lock-data: false
 data:
 - series: Rico und Oskar
   episode: Rico, Oskar und die Tieferschatten
-  release: 1634083200
+  release: '1634083200'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 52
+  age: 8
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000491-50001547-b-yajOddiM.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/deec654bbce89eafe9a4f21016f35b74393f989fab4d4d081b22f0c7/hoerprobe_rico_oskar_und_die_tierferschatten.mp3
+  web: https://tonies.com/de-de/tonies/rico-und-oskar/rico-oskar-und-die-tieferschatten/
+  shop-id: 1c807f83-00a1-48fc-9d9e-1f2d3b21cae7
+  track-desc:
+  - 'Kapitel 01: Rico, Oskar und die Tieferschatten'
+  - 'Kapitel 02: Rico, Oskar und die Tieferschatten'
+  - 'Kapitel 03: Rico, Oskar und die Tieferschatten'
+  - 'Kapitel 04: Rico, Oskar und die Tieferschatten'
+  - 'Kapitel 05: Rico, Oskar und die Tieferschatten'
+  - 'Kapitel 06: Rico, Oskar und die Tieferschatten'
+  - 'Kapitel 07: Rico, Oskar und die Tieferschatten'
+  - 'Kapitel 08: Rico, Oskar und die Tieferschatten'
+  - 'Kapitel 09: Rico, Oskar und die Tieferschatten'
+  - 'Kapitel 10: Rico, Oskar und die Tieferschatten'
   ids:
   - audio-id: 1632496175
     hash: 31EDC8FA096F7C5515C1863CAD057B155D5A04FC

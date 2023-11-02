@@ -1,20 +1,24 @@
 article: 01-0184
-last-update: 1698936991
+last-update: 1698939211
 lock-data: false
 data:
 - series: Disney
   episode: Cars
-  release: 1570665600
+  release: '1570665600'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 50
+  age: 4
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0184-98-0558-b-eWCQF6OF.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/5e6aa0b953c3af0d44d692caa21045a161d817970b080fff9085acf3/hoerprobe_cars_ext_1.mp3
+  web: https://tonies.com/de-de/tonies/disney/cars/
+  shop-id: 303266df-8422-46ac-a681-93480b344693
+  track-desc:
+  - 'Kapitel 01: Cars'
+  - 'Kapitel 02: Cars'
+  - 'Kapitel 03: Cars'
+  - 'Kapitel 04: Cars'
   ids:
   - audio-id: 1567698840
     hash: 24AB3FFC29605649811503965848C607AAF38E5E

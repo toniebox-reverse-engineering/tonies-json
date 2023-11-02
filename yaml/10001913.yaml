@@ -1,18 +1,24 @@
 article: '10001913'
-last-update: 1698936993
+last-update: 1698939470
 lock-data: false
 data:
 - series: Les Schtroumpfs
   episode: Les Schtroumpfs Et Le Livre Qui Dit Tout
-  release: 1687392000
+  release: '1687392000'
   language: fr-fr
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 90
+  age: 4
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/50006009-Tonie_Shado-Vqaknr30.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/62b1dd51f1e04b1d035dbe7e8d80f3d52d1feb694b5e4dfdc96d07d1/sample_tonie_schtroumpf_lunettes.mp3
+  web: https://tonies.com/fr-fr/tonies/les-schtroumpfs/les-schtroumpfs-et-le-livre-qui-dit-tout/
+  shop-id: cd6a2efb-af13-4d3f-b8d3-8afc48ade206
+  track-desc:
+  - Le livre qui dit tout (Partie 1)
+  - Le livre qui dit tout (Partie 2)
+  - Le livre qui dit tout (Partie 3)
+  - Le livre qui dit tout (Partie 4)
+  - Comment parler le schtroumpf ? (Partie 1)
+  - Comment parler le schtroumpf ? (Partie 2)
   ids: []

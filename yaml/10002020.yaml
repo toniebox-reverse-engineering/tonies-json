@@ -1,18 +1,27 @@
 article: '10002020'
-last-update: 1698936993
+last-update: 1698939331
 lock-data: false
 data:
 - series: Conni
   episode: Conni kommt in den Kindergarten/ Conni geht aufs Töpfchen
-  release: 1668038400
+  release: '1668038400'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 38
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10002020-50006595-b-R7CbS2u_.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/b4717483dfed1782de5eeb7e329a89092c2d67e0f55d9ca66318d0d2/hoerprobe_conni_conni_kommt_in_den_kindergarten_neuauflage2022.mp3
+  web: https://tonies.com/de-de/tonies/conni/conni-kommt-in-den-kindergarten-conni-geht-aufs-toepfchen/
+  shop-id: 7ae5f5da-fd73-4fa1-b365-3a360a85b515
+  track-desc:
+  - Titellied „Meine beste Freundin Conni“
+  - Das Foto für den Geburtstagskalender
+  - Frühstück in der Igelgruppe
+  - Die Geschichte von der Katze Minka
+  - Kein Mamagarten
+  - In die Hose gegangen
+  - Das neue gelbe Töpfchen
+  - Prinzessin auf dem Klothron
+  - Titellied „Meine beste Freundin Conni“
   ids: []

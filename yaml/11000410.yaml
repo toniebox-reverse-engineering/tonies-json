@@ -1,18 +1,38 @@
 article: '11000410'
-last-update: 1698936994
+last-update: 1698939434
 lock-data: false
 data:
-- series: Favourite Children’s Songs
+- series: Favourite Children's Songs
   episode: Christmas Songs and Carols (relaunch)
-  release: 1697760000
+  release: '1697760000'
   language: en-gb
   category: music
-  runtime: 0
-  age: 99
+  runtime: 59
+  age: 3
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/Image%202-6TolAKz3.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/c4e1177bf86382a8b82fc2e5361369f0d9bccaaa34bb7e2d3e2fd335/11000410_christmas_songs_and_carols_relaunch_sample.wav
+  web: https://tonies.com/en-gb/tonies/favourite-children-s-songs/christmas-songs-and-carols-relaunch/
+  shop-id: 459107f2-ef84-4527-afac-e60249d87fe6
+  track-desc:
+  - Deck The Halls
+  - Jolly Old St Nicholas
+  - 12 Days Of Christmas
+  - O Christmas Tree
+  - O Come, All Ye Faithful
+  - Silent Night
+  - God Rest Ye Merry, Gentlemen
+  - The First Noel
+  - While Shepherds Watch
+  - Away In A Manger
+  - Good King Wenceslas
+  - We Three Kings
+  - I Saw Three Ships
+  - Little Town Of Bethlehem
+  - Once In Royal David S City
+  - O Holy Night
+  - Jingle Bells
+  - Joy To The World
+  - We Wish You a Merry Christmas
+  - Auld Lang Syne
   ids: []

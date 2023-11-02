@@ -1,20 +1,27 @@
 article: 01-0180
-last-update: 1698936991
+last-update: 1698939212
 lock-data: false
 data:
 - series: Disney
   episode: Arielle die Meerjungfrau
-  release: 1570665600
+  release: '1570665600'
   language: de-de
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 57
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0180-98-0553-b-3l4n0rZ3.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/a6612060a564d73fe9b12f77fd17e56702ea692815202a7755d19f3e/hoerprobe_01_0180_disney_arielle_die_meerjungfrau_ext1_1.mp3
+  web: https://tonies.com/de-de/tonies/disney/arielle-die-meerjungfrau/
+  shop-id: d3367fe5-bc78-4d6c-9088-6339684b86e9
+  track-desc:
+  - Ariel
+  - In deiner Welt
+  - Unten im Meer
+  - In deiner Welt (Reprise)
+  - Die armen Seelen in Not
+  - Nur ein Kuss
+  - Happy End/ In deiner Welt (Finale)
   ids:
   - audio-id: 1567169844
     hash: 59BDC6D17969BE4FF168F1190B73C8765A780A7D

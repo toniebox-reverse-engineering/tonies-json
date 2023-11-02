@@ -1,20 +1,25 @@
 article: '10000016'
-last-update: 1698936991
+last-update: 1698939371
 lock-data: false
 data:
 - series: Disney
   episode: The Jungle Book
-  release: 0
+  release: N
   language: en-gb
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 24
+  age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000016-50000056-b-tSl6Z3I2.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000016-50000056-b--15AOkBDY.png
+  sample: https://cdn.tonies.de/o/audio_samples/2a8b6d996245f0fe6eae29342e4b0e69ae84a5cd044192635fa8364a/audio_sample_10000016_disney_jungle_book_1min.mp3
+  web: https://tonies.com/en-gb/tonies/disney/the-jungle-book/
+  shop-id: d1e7a79d-bf34-486a-8038-187bcbdd500e
+  track-desc:
+  - Colonel Hathi’s March (The Elephant Song)
+  - The Bare Necessities
+  - I Wan’na Be Like You (The Monkey Song)
+  - My Own Home (The Jungle Book Theme)
+  - STORY- The Jungle Book
   ids:
   - audio-id: 1561552371
     hash: 4D6BDD2CB763A564C1B3A052CF2F92E1F6A95B57

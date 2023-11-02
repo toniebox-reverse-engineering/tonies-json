@@ -1,18 +1,19 @@
 article: '10000368'
-last-update: 1698936992
+last-update: 1698939401
 lock-data: false
 data:
 - series: Shaun the Sheep
   episode: The Farmer's Llamas
-  release: 1661212800
+  release: '1661212800'
   language: en-gb
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 60
+  age: 4
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000368-50001162-b-eKcQv4hd.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/2c27a895d34f2bce688627acfc20255639bb62a8aba0713f5a5b54ab/shaunthesheep_audiosample_1.wav
+  web: https://tonies.com/en-gb/tonies/shaun-the-sheep/shaun-the-sheep/
+  shop-id: f43450c5-091b-4cbd-8e9c-36eb04048101
+  track-desc:
+  - The Farmer's Llamas
   ids: []

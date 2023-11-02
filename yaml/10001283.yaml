@@ -1,18 +1,30 @@
 article: '10001283'
-last-update: 1698936993
+last-update: 1698939453
 lock-data: false
 data:
 - series: Molang
   episode: Molang
-  release: 1665619200
+  release: '1665619200'
   language: fr-fr
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 41
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001283-50003934-b--yYyPDwRU.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/27b216b1d97ca19e16fc9fc669269284695148713fd49768be606bc5/sample_tonie_molang.mp3
+  web: https://tonies.com/fr-fr/tonies/molang/molang/
+  shop-id: 3a221db1-2e9d-47aa-b27d-3dfc5d974ba9
+  track-desc:
+  - Le poisson
+  - Les pompiers
+  - Les embouteillages
+  - Le bonnet
+  - La souris
+  - La compétition
+  - L'extraterrestre
+  - Le robot
+  - La fanfare
+  - Une nuit mouvementée
+  - Le château du fantôme
+  - Le perroquet
   ids: []

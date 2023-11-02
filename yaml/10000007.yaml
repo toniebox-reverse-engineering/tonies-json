@@ -1,20 +1,24 @@
 article: '10000007'
-last-update: 1698936991
+last-update: 1698939361
 lock-data: false
 data:
 - series: Stick Man
   episode: Stick Man
-  release: 0
+  release: N
   language: en-gb
   category: audio-book-songs
-  runtime: 0
-  age: 99
+  runtime: 27
+  age: 4
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000007-50000047-b--E1b1iT2M.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/d8a739abda06ff0ab31936a3965e8cb2f0c55a6d024182fb905f3749/hoerprobe_stick_man.mp3
+  web: https://tonies.com/en-gb/tonies/stick-man/stick-man/
+  shop-id: b73dfc00-f6d7-4924-a859-b0677e33ff5c
+  track-desc:
+  - Stick Man - the classic story with music
+  - The Stick Man Action Game
+  - The Stick Man Song
+  - The Stick Man Song - instrumental version
   ids:
   - audio-id: 1537278651
     hash: 6C477248718A4F541A75BFE9E7DE0FFC2231BA88

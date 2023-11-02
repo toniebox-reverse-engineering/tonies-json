@@ -1,18 +1,28 @@
 article: '11000503'
-last-update: 1698936994
+last-update: 1698939477
 lock-data: false
 data:
 - series: La Pat' Patrouille
   episode: Liberty
-  release: 1695254400
+  release: '1695254400'
   language: fr-fr
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 59
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/51003022-Tonie_Shado-_FkAg7Rq.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/22bae2dd13548ea54b9a5b67f6ec01925b0b7923546576aa9c5b68e0/sample_tonie_pat_patrouille_liberty.mp3
+  web: https://tonies.com/fr-fr/tonies/la-pat-patrouille/liberty/
+  shop-id: 0041af69-1f3a-4432-91ce-f31baec80fdf
+  track-desc:
+  - Intro
+  - Générique de la Pat’ Patrouille
+  - Un ours dans la ville
+  - Interlude
+  - Les championnes de pop pop boogie
+  - Interlude
+  - En avant la musique !
+  - Interlude
+  - La plus grosse omelette du monde
+  - Conclusion
   ids: []

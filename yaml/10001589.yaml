@@ -1,18 +1,27 @@
 article: '10001589'
-last-update: 1698936993
+last-update: 1698939460
 lock-data: false
 data:
 - series: Ma Pause Zen
   episode: Séances Méditatives De Max Larelax
-  release: 1673481600
+  release: '1673481600'
   language: fr-fr
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 76
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/98-1196-Tonie_Shadow-paXm2vQk.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/3c784f3533d7ee0f3becd3444c9d73126369b127216783403489b142/sample_tonie_mpz_max.mp3
+  web: https://tonies.com/fr-fr/tonies/ma-pause-zen/seances-meditatives-de-max-larelax/
+  shop-id: b338ac50-ea5c-4973-b479-f1615829cef0
+  track-desc:
+  - Introduction
+  - À la découverte de la jungle
+  - Excursion dans la savane
+  - Promenade nocturne en forêt
+  - Les mystères du monde sous-marin
+  - Des traces de pas dans la neige
+  - Une île rien qu'à nous
+  - Ton monde vu d'en haut
+  - Balade au fil de l'eau
   ids: []

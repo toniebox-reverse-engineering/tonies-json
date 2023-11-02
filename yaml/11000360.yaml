@@ -1,18 +1,24 @@
 article: '11000360'
-last-update: 1698936994
+last-update: 1698939430
 lock-data: false
 data:
 - series: Octonauts
   episode: Peso
-  release: 1692576000
+  release: '1692576000'
   language: en-gb
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 87
+  age: 3
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/11000360%202-L73KFm0i.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/32dd4ff27a2d35466024783aadaf80346620dc7d0cdb0db631ca2ce4/11000360_octonauts_peso_sample.wav
+  web: https://tonies.com/en-gb/tonies/octonauts/peso/
+  shop-id: 9d3c57c1-4b23-4ef7-b78b-a02fabd6ed89
+  track-desc:
+  - The Octonauts and the Flying Foxes
+  - The Octonauts and the Great Penguin Race
+  - The Octonauts and the Giant Jelly
+  - The Octonauts and the Land of Fire and Ice
+  - The Octonauts and the Snot Sea Cucumber
+  - The Octonauts and the Puffin Colony"
   ids: []

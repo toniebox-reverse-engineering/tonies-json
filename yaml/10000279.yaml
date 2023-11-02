@@ -1,20 +1,27 @@
 article: '10000279'
-last-update: 1698936992
+last-update: 1698939267
 lock-data: false
 data:
 - series: Janosch
   episode: Als Tiger und Bär beinahe das Beste verpassten
-  release: 1620604800
+  release: '1620604800'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 45
+  age: 4
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000279-50001643-b-R_rvqPXa.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/460eb1042d712464bce4a8b8e8b1ae33b89706b09a87438346b09557/hoerprobe_janosch_als_tiger_und_baer_beinahe_das_beste_verpassten_ext.mp3
+  web: https://tonies.com/de-de/tonies/janosch/als-tiger-und-baer-beinahe-das-beste-verpassten/
+  shop-id: 2a61a15c-ee43-441f-a79b-860e45965f95
+  track-desc:
+  - Als Tiger und Bär beinahe das Beste verpassten
+  - Der Kleine Tiger hat zwei Namas gebaut
+  - Der Fuchs hat heimlich an einen Baum gepinkelt
+  - Der Reiseesel Mallorca hat keinen Regentropfen verpasst
+  - Die Reise immer geradeaus
+  - Der Kleine Bär und der Kleine Tiger laufen weiter geradeaus
+  - Der Kleine Tiger und der Kleine Bär müssen zweimal nach links
   ids:
   - audio-id: 1618931878
     hash: 283FBCE5DD7AC7F82FF94707F0E89DB48C53D613

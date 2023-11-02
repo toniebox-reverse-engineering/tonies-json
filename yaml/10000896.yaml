@@ -1,20 +1,53 @@
 article: '10000896'
-last-update: 1698936993
+last-update: 1698939329
 lock-data: false
 data:
 - series: Wie kleine Tiere schlafen gehen
   episode: Wie kleine Tiere schlafen gehen / Wie kleine Kinder schlafen gehen
-  release: 0
+  release: N
   language: de-de
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 50
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000896-50002945-b-jcKOERBL.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/7914b267d40e2337669165b0133b4a91dc2873413222ae8d537a96c8/hoerprobe_10000896_wie_kleine_tiere_schlafen_gehen_wenn_kleine_tiere_schlafen_gehen_neu.mp3
+  web: https://tonies.com/de-de/tonies/wie-kleine-tiere-schlafen-gehen/wie-kleine-tiere-schlafen-gehen-wie-kleine-kinder-schlafen-gehen/
+  shop-id: ed6329eb-d053-4370-9fc3-f481e7710dea
+  track-desc:
+  - Schlaf, mein kleines Mäuschen
+  - Himpelchen und Pimpelchen (Reim)
+  - Guten Abend, gut' Nacht
+  - Wie kleine Tiere schlafen gehen (von Anne-Kristin zur Brügge)
+  - Der Mond ist aufgegangen
+  - In meinem kleinen Kinderbett (von Paul Maar)
+  - Wer hat die schönsten Schäfchen
+  - Gute Nacht, kleiner Stern (von Susanne Lütje)
+  - Johann Pachelbel - Kanon in D-Dur
+  - Wenn Kuscheltiere schlafen gehen (von Hans-Christian Schmidt)
+  - Franz Schubert - Wiegenlied
+  - Träum, Kindlein, träum (von Christian Morgenstern)
+  - Weißt du, wie viel Sternlein stehen
+  - In unserm alten Apfelbaum (Reim)
+  - Der Sandmann ist da!
+  - Leise, leise, leise (Reim)
+  - Schlafe, mein Prinzchen
+  - Friedlich schlafen kleine Drachen (von Paul Maar)
+  - Schlaf, Kindlein, schlaf!
+  - Wie kleine Kinder schlafen gehen (von Anne-Kristin zur Brügge)
+  - Kindlein mein, schlaf nun ein
+  - Jetzt will ich schlafen, sagt der Bär (von Anne Steinwart)
+  - Schlaf, Kindelein, süße
+  - Sieben, acht, nun gute Nacht (von Hans-Christian Schmidt)
+  - Gute Nacht, mein feines Lieb
+  - Keiner macht Krach (von Anne Steinwart)
+  - Leise, Peterle, leise
+  - Abends, wenn der Mond aufgeht (von Hans-Christian Schmidt)
+  - So schlaf in Ruh’
+  - Niko und Mama (von Anne Steinwart)
+  - Müde bin ich, geh zur Ruh’
+  - Niko und Otte (von Anne Steinwart)
+  - Eia popeia, so leise, so lind
   ids:
   - audio-id: 1661256078
     hash: 2A6D36F748BC31146703C233C91892845292F8D7

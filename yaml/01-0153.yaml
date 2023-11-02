@@ -1,20 +1,61 @@
 article: 01-0153
-last-update: 1698936991
+last-update: 1698939205
 lock-data: false
 data:
 - series: Die Haferhorde
   episode: Flausen im Schopf
-  release: 1553126400
+  release: '1553126400'
   language: de-de
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 138
+  age: 8
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0153-98-0463-b-jo_QCcku.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/0fc12f99e1023f74e2be2c32b1826c2179bea23091a698853274e21a/hoerprobe_haferhorde_flausen.mp3
+  web: https://tonies.com/de-de/tonies/die-haferhorde/flausen-im-schopf/
+  shop-id: 24ffae79-489a-4896-80ab-c50b7befb272
+  track-desc:
+  - 'Kapitel 01: Flausen im Schopf'
+  - 'Kapitel 02: Flausen im Schopf'
+  - 'Kapitel 03: Flausen im Schopf'
+  - 'Kapitel 04: Flausen im Schopf'
+  - 'Kapitel 06: Flausen im Schopf'
+  - 'Kapitel 07: Flausen im Schopf'
+  - 'Kapitel 08: Flausen im Schopf'
+  - 'Kapitel 09: Flausen im Schopf'
+  - 'Kapitel 10: Flausen im Schopf'
+  - 'Kapitel 11: Flausen im Schopf'
+  - 'Kapitel 12: Flausen im Schopf'
+  - 'Kapitel 13: Flausen im Schopf'
+  - 'Kapitel 14: Flausen im Schopf'
+  - 'Kapitel 15: Flausen im Schopf'
+  - 'Kapitel 16: Flausen im Schopf'
+  - 'Kapitel 17: Flausen im Schopf'
+  - 'Kapitel 18: Flausen im Schopf'
+  - 'Kapitel 19: Flausen im Schopf'
+  - 'Kapitel 20: Flausen im Schopf'
+  - 'Kapitel 21: Flausen im Schopf'
+  - 'Kapitel 22: Flausen im Schopf'
+  - 'Kapitel 23: Flausen im Schopf'
+  - 'Kapitel 24: Flausen im Schopf'
+  - 'Kapitel 25: Flausen im Schopf'
+  - 'Kapitel 26: Flausen im Schopf'
+  - 'Kapitel 27: Flausen im Schopf'
+  - 'Kapitel 28: Flausen im Schopf'
+  - 'Kapitel 29: Flausen im Schopf'
+  - 'Kapitel 30: Flausen im Schopf'
+  - 'Kapitel 31: Flausen im Schopf'
+  - 'Kapitel 32: Flausen im Schopf'
+  - 'Kapitel 33: Flausen im Schopf'
+  - 'Kapitel 34: Flausen im Schopf'
+  - 'Kapitel 35: Flausen im Schopf'
+  - 'Kapitel 36: Flausen im Schopf'
+  - 'Kapitel 37: Flausen im Schopf'
+  - 'Kapitel 38: Flausen im Schopf'
+  - 'Kapitel 39: Flausen im Schopf'
+  - 'Kapitel 40: Flausen im Schopf'
+  - 'Kapitel 41: Flausen im Schopf'
+  - 'Kapitel 42: Flausen im Schopf'
   ids:
   - audio-id: 1552298695
     hash: 4646AB771BFAEF1F7013EE6F2F259B0BEEBA863C

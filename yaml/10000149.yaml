@@ -1,20 +1,30 @@
 article: '10000149'
-last-update: 1698936991
+last-update: 1698939185
 lock-data: false
 data:
 - series: Unser Sandmännchen
   episode: Abends im Walde
-  release: 1572998400
+  release: '1572998400'
   language: de-de
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 53
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000149-50000859-b-k0ewEmNh.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/dbb28d15df7279d305360b95c3ae234f0a15416f449a742ec486cf2c/hoerprobe_unser_sandmaennchen_abends_im_walde_ext.mp3
+  web: https://tonies.com/de-de/tonies/unser-sandmaennchen/abends-im-walde/
+  shop-id: 45826563-3309-4f93-b436-1996f5d0c54d
+  track-desc:
+  - Als der Förster seine Runde machte
+  - Knax, das Eichhörnchen
+  - Das Feinschmecker­Wildschwein
+  - Frühlingslied
+  - Die Hasen, die müde werden wollten
+  - Der Bär, der nicht schlafen kann
+  - Der Fuchs im Kindergarten
+  - Das schreckhafte Reh
+  - Die Maus feiert ein Fest
+  - Mami, ich bin müde
   ids:
   - audio-id: 1576855851
     hash: 7A68D103DC474710B102E7F6ABEF2C403A0AB8A3

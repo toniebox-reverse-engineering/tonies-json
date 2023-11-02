@@ -1,18 +1,25 @@
 article: '10001316'
-last-update: 1698936993
+last-update: 1698939393
 lock-data: false
 data:
-- series: Nat Geo
+- series: National Geographic Kids
   episode: Dinosaur
-  release: 1650844800
+  release: '1650844800'
   language: en-gb
   category: audio-play-educational
-  runtime: 0
-  age: 99
+  runtime: 60
+  age: 5
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10001316-50004029-b-IfJpkLh3.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/bef9f0125b88efe418880e9e5528ff0a06edc1fda649789fedd52f36/1dino_intro.wav
+  web: https://tonies.com/en-gb/tonies/national-geographic-kids/dinosaur/
+  shop-id: 4b0e863e-49f1-4d3e-ab61-0bf13ac045fb
+  track-desc:
+  - Discovering Dinosaurs
+  - Marvellous Meat Eaters
+  - Phenomenal Plant Munchers
+  - Dinosaur Defences
+  - Growing Up Dino
+  - Prehistoric Creatures
+  - A Tour Through Time
   ids: []

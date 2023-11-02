@@ -1,18 +1,38 @@
 article: '11000177'
-last-update: 1698936994
+last-update: 1698939421
 lock-data: false
 data:
 - series: Cocomelon
   episode: Outdoor Adventures with JJ
-  release: 0
+  release: N
   language: en-gb
   category: music
-  runtime: 0
-  age: 99
+  runtime: 60
+  age: 3
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/51000548-Tonie_Shado-_6V2NlJu.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/062bf219bd78b6e88b0dfd1d5d506a261b1a676576b7ff0f44063be8/11000174_cocomelon_getting_ready_with_jj_sample.wav
+  web: https://tonies.com/en-gb/tonies/cocomelon/outdoor-adventures-with-jj/
+  shop-id: 6ace88a8-9b66-46ce-8ada-73cec13118f7
+  track-desc:
+  - Old MacDonald
+  - 12345 Once I Caught A Fish Alive
+  - Animal Dance Song
+  - Ants Go Marching
+  - Baa Baa Black Sheep
+  - Mary Had a Little Lamb
+  - My Dog Song (Bingo)
+  - Guess the Animal Song
+  - Dinosaur Song
+  - Ten Little Duckies
+  - Numbers Song with Little Chicks
+  - Musical Instruments Song
+  - One Potato Two Potato
+  - Humpty Dumpty
+  - Helping Song
+  - Clean Up Trash Song
+  - Wash Your Hands Song
+  - Balloon Boat Race
+  - Rain Rain Go Away
+  - Jobs and Career Song
   ids: []

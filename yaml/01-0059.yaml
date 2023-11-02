@@ -1,20 +1,26 @@
 article: 01-0059
-last-update: 1698936991
+last-update: 1698939212
 lock-data: false
 data:
 - series: Ich - einfach unverbesserlich
   episode: Ich - einfach unverbesserlich 1
-  release: 1570665600
+  release: '1570665600'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 58
+  age: 6
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0059-98-0136-b-AV5ke_ki.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/b65171b915ac016a88a5e721d15d8f90c5387578e1e60ae35a555b0d/hoerprobe_01_0059_ich_einfach_unverbesserlich.mp3
+  web: https://tonies.com/de-de/tonies/ich-einfach-unverbesserlich/ich-einfach-unverbesserlich-1/
+  shop-id: 0993f4c5-40d8-4aad-9008-8617b22a1056
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
   ids:
   - audio-id: 1565619974
     hash: FB7A10017EA1CECDBBB639712381E1BB426B6488

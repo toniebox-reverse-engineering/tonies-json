@@ -1,18 +1,25 @@
 article: '10001903'
-last-update: 1698936993
+last-update: 1698939468
 lock-data: false
 data:
 - series: Mes Mythes Préférés
   episode: La Mythologie Grecque
-  release: 1684972800
+  release: '1684972800'
   language: fr-fr
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 60
+  age: 5
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/50005974-Tonie_Shado-cWj8PZjr.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/2a79509e0b076b1db54523ec18d5a1a0ed40fbb3beae6dbe9bcca52d/sample_tonie_mmp_grecque.mp3
+  web: https://tonies.com/fr-fr/tonies/mes-mythes-preferes/la-mythologie-grecque/
+  shop-id: 28584337-8fda-4c43-816f-958a17158260
+  track-desc:
+  - Introduction
+  - La création du monde
+  - Thésée et le Minotaure
+  - Déméter et Perséphone
+  - Persée et Méduse
+  - Pégase et Bellérophon
+  - Épilogue
   ids: []

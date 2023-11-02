@@ -1,18 +1,36 @@
 article: '10000853'
-last-update: 1698936992
+last-update: 1698939447
 lock-data: false
 data:
 - series: Mes Comptines Préférées
   episode: De Noël
-  release: 0
+  release: N
   language: fr-fr
   category: music
-  runtime: 0
-  age: 99
+  runtime: 45
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000853-50002775-b-opJgc5sb.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/45ea7bff3739bdae8cd2bb1986b6d6c8349c30884c6f5c75e6a9f1fa/sample_tonie_mcomp_noel.mp3
+  web: https://tonies.com/fr-fr/tonies/mes-comptines-preferees/de-noel/
+  shop-id: ae04bc05-87f3-4212-88ac-5a66ace6138f
+  track-desc:
+  - Vive le vent
+  - Petit papa Noël
+  - Trotte, trotte renne rose
+  - La marche des rois
+  - L'enfant au tambour
+  - Le p'tit renne au nez rouge
+  - Père Noël
+  - Il est né le divin enfant
+  - Noël russe
+  - Les anges dans nos campagnes
+  - L'as-tu vu
+  - Noël blanc
+  - Mon beau sapin
+  - Je te souhaite un joyeux Noël
+  - Noël c'est comme un rythme de jazz
+  - Entre le boeuf et l'âne gris
+  - Neige, neige blanche
+  - Douce nuit
   ids: []

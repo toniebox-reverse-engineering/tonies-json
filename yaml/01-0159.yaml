@@ -1,20 +1,27 @@
 article: 01-0159
-last-update: 1698936991
+last-update: 1698939281
 lock-data: false
 data:
 - series: Erdbeerinchen Erdbeerfee
   episode: Zauberhafte Geschichten aus dem Erdbeergarten
-  release: 1628726400
+  release: '1628726400'
   language: de-de
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 42
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0159-50001544-b-brz3eX7Y.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/ca7483b82c93937bc5d3c2c8fa73523da8a306d8dd73eb62e9276efc/hoerprobe_erdbeerinchen_erdbeerfee_ext.mp3
+  web: https://tonies.com/de-de/tonies/erdbeerinchen-erdbeerfee/zauberhafte-geschichten-aus-dem-erdbeergarten/
+  shop-id: eba5e0ce-6281-484c-9fbf-fc47bec95098
+  track-desc:
+  - Erdbeerinchens Lied
+  - Der Dieb
+  - Ein Raumschiff für Rudi
+  - Teekränzchen im Mäusehaus
+  - Don Carlo ist verliebt
+  - Der Wasserdrache
+  - Ein muffiges Feenfest
   ids:
   - audio-id: 1623844621
     hash: 8826A3B929094A3610550FAE8832291656C54329

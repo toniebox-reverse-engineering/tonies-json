@@ -1,18 +1,29 @@
 article: '10000733'
-last-update: 1698936992
+last-update: 1698939387
 lock-data: false
 data:
 - series: Pippi Longstocking
   episode: Pippi Longstocking
-  release: 1636502400
+  release: '1636502400'
   language: en-gb
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 174
+  age: 4
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000733-50002370-b-Rql7PtdM.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000733-50002370-b-QLKalh5W.png
+  sample: https://cdn.tonies.de/o/audio_samples/8862a1ef1cf11db3067ebf2b7c0285502c5d5b3ed900aaebe35bed63/audio_sample_10000733_pippi_longstocking.mp3
+  web: https://tonies.com/en-gb/tonies/pippi-longstocking/pippi-longstocking/
+  shop-id: 2c461dc5-f399-44b6-a893-a4b6c6dcef40
+  track-desc:
+  - Pippi moves into Villa Villekulla
+  - Pippi Is a Thing-Finder and Gets into a Fight
+  - Pippi Plays Tag with the Police
+  - Pippi Goes to School
+  - Pippi Sits on a Gate Post and Climbs a Tree
+  - Pippi Plans an Outing
+  - Pippi Goes to the Circus
+  - Pippi Has a Visit from Thieves
+  - Pippi Goes to a Coffee Party
+  - Pippi Becomes a Lifesaver
+  - Pippi Celebrates Her Birthday
   ids: []

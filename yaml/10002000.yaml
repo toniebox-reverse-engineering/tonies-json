@@ -1,20 +1,24 @@
 article: '10002000'
-last-update: 1698936993
+last-update: 1698939333
 lock-data: false
 data:
 - series: Karmas Welt
   episode: Karmas Welt
-  release: 1670371200
+  release: '1670371200'
   language: de-de
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 50
+  age: 5
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10002000-50006244-b-DMVdOnuk.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/0b73de3de8c4a4f68e44a5352012f373de840d6a5c910ef8225e6f11/10002000_karmas_welt_hoerprobe.mp3
+  web: https://tonies.com/de-de/tonies/karmas-welt/karmas-welt/
+  shop-id: f86cfd35-5809-4af6-800e-64fb0c3db67c
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
   ids:
   - audio-id: 1669892148
     hash: 9B277A3AC84899606647B04995A3B7B3F2D1A065

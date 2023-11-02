@@ -1,18 +1,23 @@
 article: '10001261'
-last-update: 1698936993
+last-update: 1698939450
 lock-data: false
 data:
 - series: C'Est Toujours Pas Sorcier
   episode: Plongée Dans Les Océans
-  release: 1650499200
+  release: '1650499200'
   language: fr-fr
   category: audio-play-educational
-  runtime: 0
-  age: 99
+  runtime: 65
+  age: 6
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001261-50003861-b-EAOGDWEM.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/6a19a50b875f5663f0cc6719eb88dc494f220d6312ea3bf4e38843ec/sample_tonie_ctps_oceans.mp3
+  web: https://tonies.com/fr-fr/tonies/c-est-toujours-pas-sorcier/plongee-dans-les-oceans/
+  shop-id: eec0c5c9-e292-4d0a-b48a-eec64d447cc8
+  track-desc:
+  - Introduction
+  - Explorer les océans
+  - 'Mes jeux sonores : les océans'
+  - Sauvons les coraux
+  - 'Mes jeux sonores : la biodiversité marine'
   ids: []

@@ -1,20 +1,59 @@
 article: 01-0154
-last-update: 1698936991
+last-update: 1698939207
 lock-data: false
 data:
 - series: Die Haferhorde
   episode: Volle Mähne!
-  release: 1562198400
+  release: '1562198400'
   language: de-de
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 121
+  age: 8
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0154-98-0464-b-w14AntYG.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/acb43e44f7cbfe41de27b01880a0d215a33260578c3ce7a7d9495ea0/hoerprobe_01_0154_die_haferhorde_volle_maehne.mp3
+  web: https://tonies.com/de-de/tonies/die-haferhorde/volle-maehne/
+  shop-id: 99e73f63-d533-40c1-969c-a6a2c3e85b03
+  track-desc:
+  - 'Kapitel 01: Volle Mähne!'
+  - 'Kapitel 02: Volle Mähne!'
+  - 'Kapitel 03: Volle Mähne!'
+  - 'Kapitel 04: Volle Mähne!'
+  - 'Kapitel 05: Volle Mähne!'
+  - 'Kapitel 06: Volle Mähne!'
+  - 'Kapitel 07: Volle Mähne!'
+  - 'Kapitel 08: Volle Mähne!'
+  - 'Kapitel 09: Volle Mähne!'
+  - 'Kapitel 10: Volle Mähne!'
+  - 'Kapitel 11: Volle Mähne!'
+  - 'Kapitel 12: Volle Mähne!'
+  - 'Kapitel 13: Volle Mähne!'
+  - 'Kapitel 14: Volle Mähne!'
+  - 'Kapitel 15: Volle Mähne!'
+  - 'Kapitel 15: Volle Mähne!'
+  - 'Kapitel 16: Volle Mähne!'
+  - 'Kapitel 17: Volle Mähne!'
+  - 'Kapitel 18: Volle Mähne!'
+  - 'Kapitel 19: Volle Mähne!'
+  - 'Kapitel 20: Volle Mähne!'
+  - 'Kapitel 21: Volle Mähne!'
+  - 'Kapitel 22: Volle Mähne!'
+  - 'Kapitel 23: Volle Mähne!'
+  - 'Kapitel 24: Volle Mähne!'
+  - 'Kapitel 25: Volle Mähne!'
+  - 'Kapitel 26: Volle Mähne!'
+  - 'Kapitel 27: Volle Mähne!'
+  - 'Kapitel 28: Volle Mähne!'
+  - 'Kapitel 29: Volle Mähne!'
+  - 'Kapitel 30: Volle Mähne!'
+  - 'Kapitel 31: Volle Mähne!'
+  - 'Kapitel 32: Volle Mähne!'
+  - 'Kapitel 33: Volle Mähne!'
+  - 'Kapitel 34: Volle Mähne!'
+  - 'Kapitel 35: Volle Mähne!'
+  - 'Kapitel 36: Volle Mähne!'
+  - 'Kapitel 37: Volle Mähne!'
+  - 'Kapitel 38: Volle Mähne!'
   ids:
   - audio-id: 1561473242
     hash: 8AEBB400ABF765D5E42FCC631802F2A370C23F0F

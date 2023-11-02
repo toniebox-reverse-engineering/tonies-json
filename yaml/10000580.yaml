@@ -1,20 +1,28 @@
 article: '10000580'
-last-update: 1698936992
+last-update: 1698939281
 lock-data: false
 data:
 - series: Hanni und Nanni
   episode: Hanni und Nanni im Hochzeitsrausch
-  release: 1626307200
+  release: '1626307200'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 59
+  age: 7
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000580-50001827-b-6R-7fr6U.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/c92a4601f386878f63e88e9867c351638421b2e3d933d19adb176c77/hoerprobe_hanni_und_nanni_im_hochzeitsrausch_ext.mp3
+  web: https://tonies.com/de-de/tonies/hanni-und-nanni/hanni-und-nanni-im-hochzeitsrausch/
+  shop-id: fb73977d-8b33-4acf-a81f-1b1343aa08eb
+  track-desc:
+  - Wundersame Verwandlung
+  - Ein alter Bekannter
+  - Das Geheimnis
+  - Die Stimme der Vernunft
+  - Ein Taschentuch für den Bräutigam
+  - Kleine und große Katastrophen
+  - Der Glücksautomat
+  - Ein Hoch auf das Brautpaar!
   ids:
   - audio-id: 1623661702
     hash: 3CBE5DBF69D0E2E0C740016A4795DBA1C26A30D6

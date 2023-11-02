@@ -1,18 +1,31 @@
 article: '10001505'
-last-update: 1698936993
+last-update: 1698939464
 lock-data: false
 data:
 - series: Molang
   episode: Molang 2
-  release: 1680134400
+  release: '1680134400'
   language: fr-fr
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 46
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/50004866-Tonie_Shado-vRI1_iBX.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/3826c952b0aed94c58d039cb4664571e58a5572f18828d52f31ff349/sample_tonie_millimages_molang_2.mp3
+  web: https://tonies.com/fr-fr/tonies/molang/molang-2/
+  shop-id: 31332cee-e470-43ab-960b-34ec742b6a03
+  track-desc:
+  - Le cadeau
+  - La brioche
+  - La varicelle
+  - L'œuf perdu
+  - Le piano
+  - La tortue
+  - Le comédien
+  - Les clefs perdues
+  - Le safari
+  - Le sauvetage
+  - Une journée catastrophe
+  - Le château
+  - La nuit de Noël
   ids: []

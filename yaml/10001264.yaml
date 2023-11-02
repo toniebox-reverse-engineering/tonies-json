@@ -1,20 +1,21 @@
 article: '10001264'
-last-update: 1698936993
+last-update: 1698939316
 lock-data: false
 data:
 - series: Snöfrid aus dem Wiesental
   episode: Das wahrlich große Geheimnis von Appelgarden
-  release: 0
+  release: N
   language: de-de
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 90
+  age: 5
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001264-50003869-b-xkd5eaCQ.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/c80e3d5b29b0b6fe853fdda91a34097071e199261706b91a240c0531/10001264_snoefrid_aus_dem_wiesental.mp3
+  web: https://tonies.com/de-de/tonies/snoefrid-aus-dem-wiesental/geheimnis-von-appelgarden/
+  shop-id: e5aa0626-9c2d-44f9-9508-3b4855281ecb
+  track-desc:
+  - '1 – 18: Das wahrlich große Geheimnis von Appelgarden'
   ids:
   - audio-id: 1650637322
     hash: A40CB1F5036C2DE96F740514514C58FD49612340

@@ -1,18 +1,23 @@
 article: '11000198'
-last-update: 1698936994
+last-update: 1698939428
 lock-data: false
 data:
-- series: Ben & Holly's Little Kingdom
+- series: Ben and Holly's Little Kingdom
   episode: Ben
-  release: 1690156800
+  release: '1690156800'
   language: en-gb
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 60
+  age: 3
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/11000198%202-3jgpSPRF.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/09fee9582f52c761ee25b12118d97e71fd955e85188a538a9a6b31aa/11000198_ben_and_holly_ben_sample.wav
+  web: https://tonies.com/en-gb/tonies/ben-and-holly-s-little-kingdom/ben/
+  shop-id: 9bbf28b3-f768-4415-a0c9-2b752f58b700
+  track-desc:
+  - Elf Games
+  - Elf Joke Day
+  - Elf Rescue
+  - Superheroes
+  - Big Ben and Holly
   ids: []

@@ -1,20 +1,31 @@
 article: 01-0002
-last-update: 1698936991
+last-update: 1698939188
 lock-data: false
 data:
 - series: Die Olchis
   episode: Die Olchis auf Geburtstagsreise
-  release: 1474934400
+  release: '1474934400'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 33
+  age: 5
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0002-98-0054-b-jCKXRduL.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/7a3cfbd34acda1cea434c955202dd05e55c0089ef752843f9d915a6f/hoerprobe_die_olchis_auf_geburtstagsreise3_128_kbps.mp3
+  web: https://tonies.com/de-de/tonies/die-olchis/die-olchis-auf-geburtstagsreise/
+  shop-id: 0e8d4e89-5225-41c1-a9ae-b86ba791c950
+  track-desc:
+  - Das ist ein Olchi
+  - Olchi-Lied
+  - Drachenflug
+  - Hohe Gipfel und ein alter Bekannter
+  - Das war knapp
+  - Herberge und Gruselspaß
+  - Touristen-Überfall
+  - Ferien, bis sich die Balken biegen
+  - Die Olchis tun ein gutes Werk
+  - Ein echtes Olchi-Paradies
+  - Olchi-Lied
   ids:
   - audio-id: 1490953360
     hash: 5CC60897A8AE7FECEA1502CA05ADB14932CAB458

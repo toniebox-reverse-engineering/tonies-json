@@ -1,18 +1,43 @@
 article: '10000382'
-last-update: 1698936992
+last-update: 1698939367
 lock-data: false
 data:
 - series: In the Night Garden
-  episode: A Musical Journey
-  release: 1615420800
+  episode: Igglepiggle
+  release: '1615420800'
   language: en-gb
   category: music
-  runtime: 0
-  age: 99
+  runtime: 47
+  age: 3
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000382-50001344-b-NLZIjRTt.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/db7bb61a652fbea598fea90223c39d075d81af0ab75f02bafd5b6afc/audiosample_in_the_night_garden_ext.mp3
+  web: https://tonies.com/en-gb/tonies/in-the-night-garden/a-musical-journey/
+  shop-id: e56c0ed1-c6be-4bd5-a44f-6102659b245b
+  track-desc:
+  - In the Night Garden Opening Theme
+  - Oh No! It‘s The Ninky Nonk!
+  - Hello Igglepiggle!
+  - Igglepiggle Goes For A Walk
+  - Hello Upsy Daisy!
+  - Upsy Daisy Kisses Everything in the Garden
+  - Tittifers Verse 1
+  - It‘s The Tombliboos‘ House!
+  - Tombliboo Bricks
+  - Tittifers Verse 2
+  - Hello Makka Pakka!
+  - Catch Makka Pakka‘s Og-Pog!
+  - Tiffifers Verse 3
+  - Hello Pontipines!
+  - The Pontipines Go For A Walk
+  - The Pinky Ponk
+  - Where Is The Pinky Ponk Going?
+  - The Haahoos
+  - Everybody Loves Jumping!
+  - Tiffifers Verse 4
+  - Time for Tombliboos To Clean Their Teeth
+  - The Night Garden Dance
+  - The Tittifers Bedtime Song
+  - Time To Go To Sleep
+  - In the Night Garden Closing Theme
   ids: []

@@ -1,18 +1,28 @@
 article: '11000293'
-last-update: 1698936994
+last-update: 1698939471
 lock-data: false
 data:
 - series: Contes Du Monde
   episode: Corée
-  release: 1688601600
+  release: '1688601600'
   language: fr-fr
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 102
+  age: 4
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/50006731-Tonie_Shado-6Zmuu52w.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/3fbd72cf4d175023436ed94014888d813787718e8147449095f8e367/sample_tonie_cdm_coree.mp3
+  web: https://tonies.com/fr-fr/tonies/contes-du-monde/coree/
+  shop-id: 4259ea21-46c9-4c18-98cd-29d453db5908
+  track-desc:
+  - Introduction
+  - Heungboga, ou le chant de Heungbo (Partie 1)
+  - Heungboga, ou le chant de Heungbo (Partie 2)
+  - Chunhyangga, ou le Chant de Chunhyang (Partie 1)
+  - Chunhyangga, ou le Chant de Chunhyang (Partie 2)
+  - Simcheongga, ou le chant de Sim Cheong (Partie 1)
+  - Simcheongga, ou le chant de Sim Cheong (Partie 2)
+  - Sugungga, ou le chant de Sugung (Partie 1)
+  - Sugungga, ou le chant de Sugung (Partie 2)
+  - Conclusion
   ids: []

@@ -1,18 +1,27 @@
 article: '10001288'
-last-update: 1698936993
+last-update: 1698939454
 lock-data: false
 data:
 - series: Didou
   episode: Didou
-  release: 1665619200
+  release: '1665619200'
   language: fr-fr
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 45
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001288-50003952-b--u79b8kZC.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/c0974376bc3d1ef3012fe80172067b28d2aa24f44ffd97387192ab07/sample_tonie_didou.mp3
+  web: https://tonies.com/fr-fr/tonies/didou/didou/
+  shop-id: 38c5638a-f03f-4576-b154-c0c2a5833f24
+  track-desc:
+  - Le soleil
+  - Le bateau à voile
+  - La boussole
+  - La tente
+  - Le feu
+  - Le pont
+  - Le trampoline
+  - Le canoë
+  - La brouette
   ids: []

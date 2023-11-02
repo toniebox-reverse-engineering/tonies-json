@@ -1,20 +1,38 @@
 article: '10000371'
-last-update: 1698936992
+last-update: 1698939253
 lock-data: false
 data:
 - series: Kikaninchen
   episode: Die Mischung macht’s!
-  release: 1613001600
+  release: '1613001600'
   language: de-de
   category: music
-  runtime: 0
-  age: 99
+  runtime: 49
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000371-50001174-b-etPYd4AG.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/2e0c0510de4ce4484a710a68280a669c22e371039f3dd6d308a93117/hoerprobe_kikaninchen_mischung.mp3
+  web: https://tonies.com/de-de/tonies/kikaninchen/die-mischung-machts/
+  shop-id: e8bfc77e-ac06-475b-956e-d1464c2a327c
+  track-desc:
+  - KiKANiNCHEN-Freundelied
+  - Die Affen rasen durch den Wald
+  - Die Mischung macht’s
+  - Dibedibedab mhh! - Kuschellied
+  - Rumpelstilzchentwist
+  - Badewannensitzpirat
+  - Monsterparty
+  - KiKANiNCHEN-Titellied
+  - Winziggroß und riesenklein
+  - Tooor!
+  - Tatütata
+  - Zusammen
+  - Wunderminute
+  - Mutmachlied - Ich hab keine Angst
+  - Endlich da
+  - Ich liebe dich so
+  - KiKANiNCHEN-Freundelied - Tschüs!
+  - Müde genug
   ids:
   - audio-id: 1610722877
     hash: 982E3EA5B91CE0428910916F4D3F45922803A964

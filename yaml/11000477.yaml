@@ -1,18 +1,28 @@
 article: '11000477'
-last-update: 1698936994
+last-update: 1698939435
 lock-data: false
 data:
 - series: Dino Ranch
   episode: Dino Ranch
-  release: 1698019200
+  release: '1698019200'
   language: en-gb
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 47
+  age: 3
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/Image%202-fbisMYD_.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/2134bdfbcd18b08ac879443d4efaf2247fefc6e361862b38a155acf2/11000477_dino_ranch_sample.wav
+  web: https://tonies.com/en-gb/tonies/dino-ranch/dino-ranch/
+  shop-id: a5735a43-b5ad-4fde-b074-d0ff067f7c40
+  track-desc:
+  - Intro
+  - Theme Song
+  - Pterodactyl-Doodle-Doo
+  - Interstitial 1
+  - Small Wonder
+  - Interstitial 2
+  - Goliath's Little Helper
+  - Interstitial 3
+  - Good Neighbors
+  - Outro
   ids: []

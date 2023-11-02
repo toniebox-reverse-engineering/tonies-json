@@ -1,20 +1,40 @@
 article: '10000855'
-last-update: 1698936992
+last-update: 1698939438
 lock-data: false
 data:
 - series: Mes Comptines Préférées
   episode: De La Maternelle
-  release: 0
+  release: N
   language: fr-fr
   category: music
-  runtime: 0
-  age: 99
+  runtime: 40
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000855-50002777-b-BLI50xUV.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/e1899209ba57a9810668fab0acce52e0c503cde25dececf0f6e4c23e/sample_tonie_mcomp_maternelle.mp3
+  web: https://tonies.com/fr-fr/tonies/mes-comptines-preferees/de-la-maternelle/
+  shop-id: ad3cbc3c-e047-49ac-a45a-20dbf09fa373
+  track-desc:
+  - Maman les p'tits bateaux
+  - Une souris verte
+  - Promenons-nous dans les bois
+  - L'empereur, sa femme et le petit prince
+  - Pomme de reinette et pomme d'api
+  - La famille Tortue
+  - La mère Michel
+  - Au feu, les pompiers !
+  - ABCD
+  - L'araignée Gipsy
+  - Petit escargot
+  - Il pleut, il pleut, bergère
+  - Savez-vous planter les choux ?
+  - Ah les crocodiles
+  - Ainsi font, font, font...
+  - Mon âne
+  - Bonjour ma cousine
+  - Une poule sur un mur
+  - J'aime la galette
+  - J'ai un gros nez rouge
   ids:
   - audio-id: 1621604842
     hash: 658FDD725562CEC6721132328B4EE10E3C4B7F2E

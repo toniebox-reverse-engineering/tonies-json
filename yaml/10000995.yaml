@@ -1,20 +1,36 @@
 article: '10000995'
-last-update: 1698936993
+last-update: 1698939322
 lock-data: false
 data:
 - series: Unter meinem Bett
   episode: Unter meinem Bett 6
-  release: 1663113600
+  release: '1663113600'
   language: de-de
   category: music
-  runtime: 0
-  age: 99
+  runtime: 54
+  age: 4
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000995-50003247-b-Q6lLthn0.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/88087735e204c78937211c92976eb5d457ca05d13bb8d05bb6d0e01a/hoerprobe_10000995_unter_meinem_bett_unter_meinem_bett_6.mp3
+  web: https://tonies.com/de-de/tonies/unter-meinem-bett/unter-meinem-bett-6/
+  shop-id: 3585ab2c-9d57-4ff9-b14f-d20576e38036
+  track-desc:
+  - Moritz & Francesco - Ich leb in der Zukunft
+  - Larissa Pesch - Liebe
+  - Thomas Rost - Antoine der Stadtschwan
+  - Olli Schulz - Oscar und Charlie
+  - Masha Qrella - Ich hab's viel besser als du
+  - Pohlmann - Wespenlied
+  - Tiere Streicheln Menschen - Mit Büchsenschuh im Hopserlauf
+  - Cäthe - Ballerina
+  - Gorilla Club - Im Kino
+  - Deniz & Ove - Die Niddeldididds
+  - Dino Paris & Der Chor Der Finsternis feat. Sukini - Das Universum ist ein Spielplatz
+  - Lisa Who - Ich kann das alleine
+  - Francesco & Bosse - Hund und Katze
+  - Familie Wermut  - Fragen fragen
+  - Matze Rossi - Ich habe keine Angst
+  - Der Hund Marie - Ich finde ja, du leuchtest
   ids:
   - audio-id: 1656071577
     hash: F72B2F37E72EF76C0BA769C5FF7390D42DFA513E

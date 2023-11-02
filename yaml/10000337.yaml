@@ -1,20 +1,26 @@
 article: '10000337'
-last-update: 1698936992
+last-update: 1698939253
 lock-data: false
 data:
 - series: Peter Hase und seine Freunde
   episode: Ein Geschichten-Schatz
-  release: 1613001600
+  release: '1613001600'
   language: de-de
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 65
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000337-50001032-b-SOm6kfKC.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/80784141eb712394c0c15051d8d126fc5da74b28f510bb3becef58b1/horprobe_peter_hase_ein_geschichten_schatz_ext_neu.mp3
+  web: https://tonies.com/de-de/tonies/peter-hase-und-seine-freunde/ein-geschichten-schatz/
+  shop-id: 58cec730-5dce-4a62-b29f-fdadb6925187
+  track-desc:
+  - Die Geschichte von Peter Hase
+  - Die Geschichte von Katerchen Moppel
+  - Die Geschichte von Jemima Pratschel-Watschel
+  - Die Geschichte von Jeremias Quaddel
+  - Die Geschichte von Frau Tiggy-Wiggel
+  - Die Geschichte von den Flopsi-Häschen
   ids:
   - audio-id: 1611143214
     hash: A49ABDE70780A8A5E7B577521FF2381850BD9C41

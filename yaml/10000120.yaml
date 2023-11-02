@@ -1,18 +1,23 @@
 article: '10000120'
-last-update: 1698936991
+last-update: 1698939374
 lock-data: false
 data:
 - series: Disney
   episode: Aladdin
-  release: 1613001600
+  release: '1613001600'
   language: en-gb
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 28
+  age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000120-50000314-b-xtRWGNsd.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000120-50000314-b-ypsz_M0T.png
+  sample: https://cdn.tonies.de/o/audio_samples/32859d6735feff086e61558eae2f1ef670c6a4af4e0dab9bbcfc6536/audio_sample_disney_aladdin_ext.mp3
+  web: https://tonies.com/en-gb/tonies/disney/aladdin/
+  shop-id: 3fb45ef9-0171-4a9a-bfba-570427165486
+  track-desc:
+  - A whole new world
+  - One jump ahead
+  - Friend like me
+  - Prince Ali
+  - Aladdin
   ids: []

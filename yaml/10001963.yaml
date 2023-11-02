@@ -1,18 +1,21 @@
 article: '10001963'
-last-update: 1698936993
+last-update: 1698939427
 lock-data: false
 data:
 - series: Roald Dahl
   episode: The Enormous Crocodile
-  release: 1690156800
+  release: '1690156800'
   language: en-gb
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 101
+  age: 6
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10001963%202-Z6cvgmGu.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/df8177901baf82d5151832b0573e1fb280c4d8a46388a55b865353ab/10001963_the_enormous_crocodile_sample.wav
+  web: https://tonies.com/en-gb/tonies/roald-dahl/enormous-crocodile/
+  shop-id: 911b75fc-1fef-492c-bd11-46509afad820
+  track-desc:
+  - The Enormous Crocodile
+  - The Giraffe, The Pelly and Me
+  - Esio Trot
   ids: []

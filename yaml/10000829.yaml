@@ -1,20 +1,43 @@
 article: '10000829'
-last-update: 1698936992
+last-update: 1698939253
 lock-data: false
 data:
 - series: Lieblings-Kinderlieder
   episode: Spiel- und Bewegungslieder
-  release: 1613001600
+  release: '1613001600'
   language: de-de
   category: music
-  runtime: 0
-  age: 99
+  runtime: 51
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000829-50002693-b--a-XMhHMq.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/f4dcd2b0edb15575e25c74d1be5387825d076841c93df34f28b164d9/hoerprobe_neuauflage_spiel_und_bewegung.mp3
+  web: https://tonies.com/de-de/tonies/lieblings-kinderlieder/bewegungslieder-2021/
+  shop-id: 254bbc79-988c-45df-99de-aca9ac9975d2
+  track-desc:
+  - Es tanzt ein Bi-Ba-Butzemann
+  - Backe, backe Kuchen
+  - Brüderchen, komm tanz mit mir
+  - Das ist grade, das ist schief
+  - Laurentia, liebe Laurentia mein
+  - Mein Hut, der hat drei Ecken
+  - Wer will fleißige Handwerker sehen
+  - Zeigt her eure Füße
+  - Auf uns’rer Wiese gehet was
+  - Das Krokodil vom Nil
+  - Der Apfelbaum
+  - Große Uhren machen Tick-Tack
+  - Hände waschen
+  - Ich bin die kleine Hexe und habe rote Schuh
+  - Jetzt steigt Hampelmann, jetzt steigt Hampelmann
+  - Komm wir wollen tanzen
+  - Ringel, Ringel, Reihe
+  - Teddybär, Teddybär, dreh dich um
+  - Was müssen das für Bäume sein
+  - Wenn du fröhlich bist
+  - Wie das Fähnchen auf dem Turme
+  - Wozu sind die Hände da?
+  - Zehn kleine Zappelmänner
   ids:
   - audio-id: 1612883610
     hash: 81A32C7D7C098F4110DF5589E30CC49E162344A4

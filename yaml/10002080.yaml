@@ -1,18 +1,23 @@
 article: '10002080'
-last-update: 1698936993
+last-update: 1698939433
 lock-data: false
 data:
 - series: Love Monster
   episode: Love Monster
-  release: 1695600000
+  release: '1695600000'
   language: en-gb
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 43
+  age: 3
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10002080%20(2)-6dagsjPf.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/6ff8a85b7c0298f8920f76172c94d7e9c5e3af5dec732b06e4f44688/10002080_love_monster_sample.wav
+  web: https://tonies.com/en-gb/tonies/love-monster/love-monster/
+  shop-id: d5c23d77-dc4f-47e7-a4f5-8d97022e7cd8
+  track-desc:
+  - Give it Another Go Day
+  - Sharing With Others Day
+  - Three Legged Race Day
+  - Clear Out Day
+  - Special Surprise Day
   ids: []

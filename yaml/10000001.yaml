@@ -1,20 +1,22 @@
 article: '10000001'
-last-update: 1698936991
+last-update: 1698939368
 lock-data: false
 data:
 - series: The Gruffalo
   episode: The Gruffalo
-  release: 0
+  release: N
   language: en-gb
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 17
+  age: 4
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000001-50000041-b--719YHE0p.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/7dcd592f796ac9b1e04ab39b705c68e8e809d15b2aff2fda353492c8/hoerprobe_the_grufallo.mp3
+  web: https://tonies.com/en-gb/tonies/the-gruffalo/the-gruffalo/
+  shop-id: f16007bb-7600-4676-8221-6e2270d5c797
+  track-desc:
+  - STORY- The Gruffalo
+  - SONG- The Gruffalo
   ids:
   - audio-id: 1538986377
     hash: 843D8B52F017A517EC15D457D83711B72D84601C

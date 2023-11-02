@@ -1,18 +1,23 @@
 article: '10000837'
-last-update: 1698936992
+last-update: 1698939369
 lock-data: false
 data:
-- series: Blue's Clues & You!
+- series: Blue's Clues
   episode: Blue's Clues and You
-  release: 1666828800
+  release: '1666828800'
   language: en-gb
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 57
+  age: 3
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000837-50002730-b-w4mwCivA.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/f9ecbcfaffb11fe8f3920ccc8430803c89f52bb46ef6b7ce2bd9f88b/bluesclues_audiosample.wav
+  web: https://tonies.com/en-gb/tonies/blue-s-clues/blues-clues-and-you/
+  shop-id: 9cf93438-13a0-4162-acf5-3793fa0ef379
+  track-desc:
+  - Blue’s Clues & You! Theme Song
+  - Blue’s Beat Band
+  - Blue’s Big Neighbourhood Adventure
+  - ABC Scavenger Hunt
+  - ABC Song with Blue
   ids: []

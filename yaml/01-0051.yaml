@@ -1,20 +1,30 @@
 article: 01-0051
-last-update: 1698936991
+last-update: 1698939196
 lock-data: false
 data:
 - series: Kikaninchen
   episode: Mein Geschichtenkissen
-  release: 1506384000
+  release: '1506384000'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 65
+  age: 4
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0051-b-JkqDkha0.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/1e8aa633bea365e573b3b084a12a25e77ff8b13ff2dd321160e3e7da/hoerprobe_kikaninchen_geschichtenkissen.mp3
+  web: https://tonies.com/de-de/tonies/kikaninchen/mein-geschichtenkissen/
+  shop-id: 05bd7f24-3fc3-444f-983c-a5767995893a
+  track-desc:
+  - Schäfchen und Wolke
+  - Der Elefantenschnupfen
+  - Die Versprecherhexe
+  - Die Verstecksafari
+  - Tick, Tack und die Zeit
+  - Bruno Bär übernachtet woanders
+  - Als die Hexen noch auf Eisbären ritten
+  - Opa Otto sucht sein Zuhause
+  - Der fliegende Pinguin
+  - Der Riese und die Maus
   ids:
   - audio-id: 1499761300
     hash: 57AF01BF655803F39E063D0EE3F80984D93BB93A

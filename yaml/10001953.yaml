@@ -1,18 +1,28 @@
 article: '10001953'
-last-update: 1698936993
+last-update: 1698939472
 lock-data: false
 data:
 - series: Les Sisters
   episode: Wendy
-  release: 1689206400
+  release: '1689206400'
   language: fr-fr
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 72
+  age: 6
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/50006102-Tonie_Shado-GhYRhThU.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/8213d0eb14ad7013452176f132e2c15b04f40b6ffc593a654453c5e7/sample_tonie_sisters_wendy.mp3
+  web: https://tonies.com/fr-fr/tonies/les-sisters/wendy/
+  shop-id: cc93a515-7f79-451d-a448-18089c3427ae
+  track-desc:
+  - Prologue
+  - Bonne nuit, les Sisters !
+  - Le doudou de Marine
+  - Les amours de Wendy et Maxence
+  - Une pluie de cadeaux
+  - Les jeux d'hiver
+  - Bon appétit, les Sisters !
+  - La Portnawak Run
+  - Le bal de fin d'année
+  - Épilogue
   ids: []

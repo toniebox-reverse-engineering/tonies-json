@@ -1,18 +1,23 @@
 article: '10001262'
-last-update: 1698936993
+last-update: 1698939449
 lock-data: false
 data:
 - series: C'Est Toujours Pas Sorcier
-  episode: Les Secrets De L’Espace
-  release: 1650499200
+  episode: Les Secrets De L'Espace
+  release: '1650499200'
   language: fr-fr
   category: audio-play-educational
-  runtime: 0
-  age: 99
+  runtime: 67
+  age: 6
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001262-50003863-b-CoideHTc.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/3e16e4964baf617fbded246afa99851946d125d920907598775e478f/sample_tonie_ctps_espace.mp3
+  web: https://tonies.com/fr-fr/tonies/c-est-toujours-pas-sorcier/les-secrets-de-l-espace/
+  shop-id: f0f0f01e-7fe2-4b10-beab-f6fd0f645a29
+  track-desc:
+  - Introduction
+  - 'Extraterrestres : que sait-on ?'
+  - 'Mes jeux sonores : la vie extraterrestres'
+  - Vivre dans l'espace
+  - 'Mes jeux sonores : la vie dans l''espace'
   ids: []

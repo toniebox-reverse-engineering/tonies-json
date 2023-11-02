@@ -1,20 +1,29 @@
 article: '10001296'
-last-update: 1698936993
+last-update: 1698939278
 lock-data: false
 data:
-- series: Steiff Soft Cuddly Friends mit Hörspiel
+- series: Steiff Soft Cuddly Friends
   episode: Lita Lamm
-  release: 1623283200
+  release: '1623283200'
   language: de-de
   category: audio-play-songs
-  runtime: 0
+  runtime: 70
   age: 99
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/074097-Lita_Lamm-b-YxUP29iA.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/875e7e7d9bbf4a3b171c8a0025bd8a6f208b40b777ffee4118ba839a/hoerprobe_soft_cuddly_friends_lita_lamm_ext.mp3
+  web: https://tonies.com/de-de/tonies/steiff-soft-cuddly-friends/lita-lamm/
+  shop-id: 7638f77a-c51b-4faa-b500-bd35e71c6b22
+  track-desc:
+  - Hallo, ich bin Lita Lamm!
+  - Kuschelfreunde Lied
+  - Im Laden von Lisa
+  - Eine Rutsche für alle
+  - Die Wundermuschel
+  - Reime für das Einhorn
+  - Das neue Spiel
+  - Der Freundschaftsbaum
+  - Das große Scheunenfest
   ids:
   - audio-id: 1632399007
     hash: EE966A6E5B6CF7134FA31C686A835C718EC0CF0F

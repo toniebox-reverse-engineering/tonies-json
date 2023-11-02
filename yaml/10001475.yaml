@@ -1,18 +1,25 @@
 article: '10001475'
-last-update: 1698936993
+last-update: 1698939439
 lock-data: false
 data:
 - series: Disney
   episode: Winnie L'Ourson
-  release: 1650499200
+  release: '1650499200'
   language: fr-fr
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 28
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001475-50004728-b-tPt54tQR.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/abcf5be5de7f3310bd53ed99c107ac08ce67ee0b73dbaa28411ca844/sample_tonie_disney_winnie.mp3
+  web: https://tonies.com/fr-fr/tonies/disney/winnie-l-ourson/
+  shop-id: 799ac6f2-89f7-4b5b-b60a-014ae758f218
+  track-desc:
+  - Winnie l'Ourson et l'arbre à miel
+  - Winnie l'Ourson et un jour de tempête
+  - Winnie l'Ourson et Tigrou
+  - L'univers de Jean-Christophe
+  - Un petit nuage noir
+  - J'ai le ventre qui gargouille
+  - Mains en l'air
   ids: []

@@ -1,18 +1,29 @@
 article: '10000941'
-last-update: 1698936993
+last-update: 1698939398
 lock-data: false
 data:
 - series: Horrible Histories
   episode: Rotten Romans
-  release: 1658188800
+  release: '1658188800'
   language: en-gb
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 61
+  age: 7
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000941-50003089-b-Wl3vHHC5.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/9e80c2063facd4a2dac385a54c09cfed4f43670de2bc9c85301ccab1/hh_rotten_romans_sample.wav
+  web: https://tonies.com/en-gb/tonies/horrible-histories/rotten-romans/
+  shop-id: c72e4bea-7658-4c73-804c-026a15b0ea77
+  track-desc:
+  - A Rome With a View
+  - Roman all over the Place
+  - Sinister Superstitions
+  - Cheerless for Chickens
+  - Rotten Republic
+  - The Barmy Roman Army
+  - Gory Gaul
+  - Evil Emperors
+  - Gruesome Gods
+  - Deadly Doctoring
+  - Gruesome Gladiators
   ids: []

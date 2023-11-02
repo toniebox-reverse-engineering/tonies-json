@@ -1,18 +1,23 @@
 article: '10000408'
-last-update: 1698936992
+last-update: 1698939380
 lock-data: false
 data:
 - series: Super Wings
   episode: A World of Adventure
-  release: 1628726400
+  release: '1628726400'
   language: en-gb
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 72
+  age: 3
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000408-50001433-b-AWoVjlie.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/3408eb156129a9876a465fe38c72e596b61115f5f896eb387a5e91fd/audio_sample_superwings_a_world_of_adventure15sek.mp3
+  web: https://tonies.com/en-gb/tonies/super-wings/a-world-of-adventure/
+  shop-id: cb5f3516-5196-4e60-acdd-03a69cb6a4da
+  track-desc:
+  - Whale Tale
+  - Baursaki Blast-Off
+  - Shark Surf Surprise
+  - Noah's Dinosaur Eggs
+  - Save World Aircraft
   ids: []

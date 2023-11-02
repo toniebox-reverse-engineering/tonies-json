@@ -1,18 +1,25 @@
 article: '10002067'
-last-update: 1698936993
+last-update: 1698939469
 lock-data: false
 data:
 - series: Le Monde De Karma
   episode: Karma
-  release: 1686787200
+  release: '1686787200'
   language: fr-fr
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 50
+  age: 5
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/50003786-Tonie_Shado-5_tS86Fz.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/2b42b79cc1e307686e28d00e6af0080a97bc371622fbcb5b4dad5d39/sample_tonie_monde_karma.mp3
+  web: https://tonies.com/fr-fr/tonies/le-monde-de-karma/karma/
+  shop-id: de791e0d-46eb-4c70-a0d9-702916cd0440
+  track-desc:
+  - 🎵 Présentation de Karma
+  - 🎵 Bienvenue dans le monde de Karma
+  - 📖 Battle freestyle
+  - 📖 La légende des rimes volées (Partie 1)
+  - 📖 La légende des rimes volées (Partie 2)
+  - 📖 La dernière chance
+  - 🎵 Tous les jours
   ids: []

@@ -1,18 +1,22 @@
 article: '10001035'
-last-update: 1698936993
+last-update: 1698939391
 lock-data: false
 data:
 - series: Favourite Tales
   episode: Little Red Riding Hood (relaunch)
-  release: 1650585600
+  release: '1650585600'
   language: en-gb
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 80
+  age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001035-50003360-b-Nw2rDh9V.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10001035-50003360-b-6kZh5g3A.png
+  sample: https://cdn.tonies.de/o/audio_samples/3ce55cf4477243e4815124e3c368379af9074e5cdf106e31d5acec8f/1_little_red_riding_hood_clip.wav
+  web: https://tonies.com/en-gb/tonies/favourite-tales/little-red-riding-hood-relaunch/
+  shop-id: b2592527-aea2-4ef8-b826-e630ef946737
+  track-desc:
+  - Little Red Riding Hood
+  - Goldilocks
+  - The Gingerbread Man
+  - Jack & The Beanstalk
   ids: []

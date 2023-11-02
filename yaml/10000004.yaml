@@ -1,20 +1,22 @@
 article: '10000004'
-last-update: 1698936991
+last-update: 1698939370
 lock-data: false
 data:
 - series: The Snowman
   episode: The Snowman/The Snowman and the Snowdog
-  release: 0
+  release: N
   language: en-gb
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 17
+  age: 3
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000004-50000044-b-XOfI-Jo8.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/18d07da5797ad402f828e4fd86327577de2da3ad4db8a20e82b4a8fe/hoerprobe_the_snowman.mp3
+  web: https://tonies.com/en-gb/tonies/the-snowman/the-snowman-and-the-snowdog/
+  shop-id: 2eb100d0-4a9a-41fb-bad6-04334d84b8f6
+  track-desc:
+  - The Snowman
+  - The Snowman and the Snowdog
   ids:
   - audio-id: 1537356882
     hash: 780F1AF1159CB7B3D054A04C2DC78DC77795B977

@@ -1,20 +1,45 @@
 article: 01-0100
-last-update: 1698936991
+last-update: 1698939202
 lock-data: false
 data:
 - series: Die Schule der magischen Tiere
   episode: Die Schule der magischen Tiere
-  release: 1541635200
+  release: '1541635200'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 82
+  age: 7
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0100-98-0322-b-FrJN465A.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/35284b9f3b9fd9f87ee80601197c35bb6b3ca248f86c5a2b25748faa/hoerprobe_schule_der_magischen_tiere.mp3
+  web: https://tonies.com/de-de/tonies/die-schule-der-magischen-tiere/die-schule-der-magischen-tiere/
+  shop-id: 6ae8edb5-c885-4836-a7f8-9e15a271ce2a
+  track-desc:
+  - Titellied „Willkommen in der Schule der magischen Tiere“
+  - Pinguin Juri
+  - Der Umzugswagen
+  - Tante Elfriiiede!
+  - Der geheimnisvolle Omnibus
+  - Sportstunde
+  - Gesta en, Morrison
+  - Pinkie sorgt für Chaos
+  - Alles läuft schief
+  - Post von der magischen Zoohandlung
+  - Ida und Benni bekommen ihre magischen Tiere
+  - Zu Hause bei Ida
+  - Zu Hause bei Benni
+  - Die magischen Tiere kommen mit in die Schule
+  - Rabbat hat Appetit auf Schokokekse
+  - Dicke Luft in der Pausenhalle
+  - Der Liebesbrief
+  - Der stinkende Zaubertrank
+  - Ausflug durch die Nacht
+  - Ertappt!
+  - Die Stinkebrühe landet im Müll
+  - Der Wettkampf
+  - Jo und Juri
+  - Madagaskar
+  - Titellied „Willkommen in der Schule der magischen Tiere“
   ids:
   - audio-id: 1542108286
     hash: A8EAA6F788CAE24FF8FE44281C73F9414ECCCACC

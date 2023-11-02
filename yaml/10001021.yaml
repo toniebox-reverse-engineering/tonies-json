@@ -1,20 +1,41 @@
 article: '10001021'
-last-update: 1698936993
+last-update: 1698939450
 lock-data: false
 data:
-- series: 'Language: French'
-  episode: '[FR] Favourite Children''s Songs - Pour Faire La Fête'
-  release: 1657238400
-  language: en-gb
-  category: languages
-  runtime: 0
-  age: 99
+- series: Mes Comptines Préférées
+  episode: Pour Faire la Fête
+  release: '1650499200'
+  language: fr-fr
+  category: music
+  runtime: 35
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001021-50003352-b-ApvXOeq7.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/4b451347cfd8571a0d338405d6cfc87506089650714021876cce2feb/sample_tonie_mcomp_fete.mp3
+  web: https://tonies.com/fr-fr/tonies/mes-comptines-preferees/pour-faire-la-fete/
+  shop-id: c7975780-dae2-4496-ae1c-beaea567a53b
+  track-desc:
+  - Am, stram, gram
+  - Gugusse
+  - Joyeux anniversaire
+  - Ah mon beau château
+  - J'ai vu le loup
+  - En passant par la Lorraine
+  - Trois p'tits chats
+  - J'ai perdu le do de ma clarinette
+  - Auprès de ma blonde
+  - Un petit pouce qui danse
+  - J'ai descendu dans mon jardin (Gentil coquelicot)
+  - Papiyon volé
+  - L'alouette est sur la branche
+  - D'où venez-vous Perrine ?
+  - Le rock and roll des gallinacés
+  - Guillot, prends ton tambourin
+  - Si tu as d'la joie au cœur
+  - Chauffeur, si t'es champion
+  - Un éléphant
+  - Tiens voilà main droite
+  - Dans ma maison il y a...
   ids: []
 - series: Mes Comptines Préférées
   episode: Pour Faire la Fête

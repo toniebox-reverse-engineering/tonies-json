@@ -1,18 +1,22 @@
 article: '10001661'
-last-update: 1698936993
+last-update: 1698939439
 lock-data: false
 data:
 - series: La Pat' Patrouille
   episode: Ruben
-  release: 1671062400
+  release: '1671062400'
   language: fr-fr
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 45
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001661-50005239-b-V-cA1Itx.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/b968c4de8313328162f7dd0fe8202349c24e16ee3f68bc594ffc6471/sample_tonie_pat_patrouille_ruben.mp3
+  web: https://tonies.com/fr-fr/tonies/la-pat-patrouille/ruben/
+  shop-id: 21e72def-75cd-42cd-bc9d-f02e4b5d9dbf
+  track-desc:
+  - L'avalanche
+  - Monsieur Hellinger voit les choses en grand
+  - La Pat' Patrouille sauve un super-chien
+  - La fête avec les chauves-souris
   ids: []

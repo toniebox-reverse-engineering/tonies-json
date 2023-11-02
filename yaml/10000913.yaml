@@ -1,20 +1,43 @@
 article: '10000913'
-last-update: 1698936993
+last-update: 1698939320
 lock-data: false
 data:
 - series: Das kleine Hörbuch vom großen Glück
   episode: Das kleine Hörbuch vom großen Glück - Die Glücksfee
-  release: 0
+  release: N
   language: de-de
   category: audio-book-songs
-  runtime: 0
-  age: 99
+  runtime: 46
+  age: 6
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000913-50002993-b-BrNpju78.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/1ab2a6fc972557fa1738b28b7c448f24a2b50bd7f35a87c98c592bc0/hoerprobe_10000913_das_kleine_horbuch_vom_groen_gluck_die_glucksfee___wo_das_gluck_wachst.mp3
+  web: https://tonies.com/de-de/tonies/das-kleine-hoerbuch-vom-grossen-glueck/das-kleine-hoerbuch-vom-groszen-glueck-die-gluecksfee-dach/
+  shop-id: a5422d8a-aaca-488c-8bf9-2f28ceb0e06c
+  track-desc:
+  - Intro
+  - Glück
+  - Es gibt auf der Welt
+  - '"Pistazia", sagte Tusnelda'
+  - Popel
+  - Lukas Besenbein schlief...
+  - Angst
+  - Dann schubste sie Lukas...
+  - Essen
+  - Am nächsten Morgen
+  - Mama
+  - Am vierten Tag saß...
+  - Glück
+  - Zwei Tage nach ihrem siebten Geburtstag
+  - Fremd
+  - Da kam am sechsten Tag
+  - Wünsche
+  - Fritz zog eine Lakritzschnecke
+  - Katze
+  - Marie guckte zum Zaun
+  - Witze
+  - Sie ritten auch in den Wald
+  - Schlaf
   ids:
   - audio-id: 1653303491
     hash: F42053C2766AE48C7731B191A2C3C98E3AECBA7F

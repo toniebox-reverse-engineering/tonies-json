@@ -1,18 +1,28 @@
 article: '10001660'
-last-update: 1698936993
+last-update: 1698939476
 lock-data: false
 data:
-- series: 'Les Contes Déglingués '
+- series: Les Contes Déglingués
   episode: Du Grand Méchant Loup
-  release: 1695859200
+  release: '1695859200'
   language: fr-fr
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 60
+  age: 4
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/50005232-Tonie_Shado-v-JvKkiT.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/2e5a7b1eeac054918193daf07dfcae0f3d30370d1a031556ce28942d/sample_tonie_lcd_grand_mechant_loup.mp3
+  web: https://tonies.com/fr-fr/tonies/les-contes-deglingues/du-grand-mechant-loup/
+  shop-id: b718f578-8a54-4cc4-8415-e6682caa08f6
+  track-desc:
+  - Introduction
+  - La fois où la Belle au bois dormant a jeté des petits cailloux
+  - La fois où la bonne fée a fait tout exploser
+  - La fois où la petite sirène a pris un bain
+  - La fois où le bonhomme de pain d'épices a eu un plan
+  - La fois où le capitaine Crochet a cuisiné
+  - La fois où le petit Chaperon rouge a fini derrière les barreaux
+  - La fois où Jack a mal coupé le haricot magique
+  - La fois où les 3 petits cochons sont allés au bal
+  - Conclusion
   ids: []

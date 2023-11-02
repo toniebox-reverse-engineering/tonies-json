@@ -1,18 +1,23 @@
 article: '10001236'
-last-update: 1698936993
+last-update: 1698939420
 lock-data: false
 data:
 - series: Rachel Bright Series
   episode: The Lion Inside
-  release: 1681948800
+  release: '1681948800'
   language: en-gb
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 35
+  age: 3
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/98-1393-Tonie_Shadow-a48tOI_d.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/2f59e91f9aab66819f688cc44be4a3ef4bb2bea57a36975d8cdbe0d1/the_lion_inside_sample.wav
+  web: https://tonies.com/en-gb/tonies/rachel-bright-series/the-lion-inside/
+  shop-id: d37e367f-f2db-423a-83b2-b2a13073eca9
+  track-desc:
+  - The Lion Inside
+  - The Way Home for Wolf
+  - The Whale Who Wanted More
+  - The Lion Inside – Listen Again!
+  - The Lion Inside Quiz
   ids: []

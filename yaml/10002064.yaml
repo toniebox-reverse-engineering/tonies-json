@@ -1,18 +1,37 @@
 article: '10002064'
-last-update: 1698936993
+last-update: 1698939403
 lock-data: false
 data:
 - series: Disney
   episode: Doc McStuffins
-  release: 1660953600
+  release: '1660953600'
   language: en-gb
   category: audio-play-songs
   runtime: 0
-  age: 99
+  age: 3
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10002064-50006795-b-GK3e7nAN.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/5e8aef4aa65e5218d20060383489c32d1b5ccf0e7cbdf1839327fad0/docmcstuffinssample.wav
+  web: https://tonies.com/en-gb/tonies/disney/doc-mcstuffins/
+  shop-id: f310e306-65a2-4e90-bea7-0cdb984d8462
+  track-desc:
+  - Theme Song
+  - Doc Mobile
+  - Everyone Gets Hurt Sometimes
+  - Baby Bath Time
+  - I Feel Better
+  - Welcome to the Hospital
+  - Wash Your Hands
+  - Do What the Doctor Says
+  - Water Water
+  - Eat Good Food
+  - Take Care
+  - If You Got the Hiccups
+  - You're Gonna Grow
+  - Brush Your Teeth
+  - Time for Your Check-up
+  - Be Good to Your Tummy
+  - Get Your Sleep On
+  - Made to Be a Nurse Storyette
+  - Doctoring the Docs
   ids: []

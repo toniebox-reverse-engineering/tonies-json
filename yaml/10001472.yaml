@@ -1,20 +1,23 @@
 article: '10001472'
-last-update: 1698936993
+last-update: 1698939330
 lock-data: false
 data:
-- series: Paw Patrol
+- series: PAW Patrol
   episode: Der Piratenschatz
-  release: 1668038400
+  release: '1668038400'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 55
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001472-50004898-b-HHfglRee.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/858d255966704bd37b88b1476c4affbf4f680efde6a2aca740a825fb/hoerprobe_10001472_paw_patrol_der_piratenschatz.wav
+  web: https://tonies.com/de-de/tonies/paw-patrol/der-piratenschatz/
+  shop-id: bed6385a-903a-4f26-ab05-bbccf35a14fb
+  track-desc:
+  - Das große Rennen
+  - Der Kuchenback-Wettbewerb
+  - Der Piratenschatz
   ids:
   - audio-id: 1666872595
     hash: F9584E7F3F8B9E81FE9AA28CA13B5A4A28BC2970

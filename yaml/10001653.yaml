@@ -1,18 +1,19 @@
 article: '10001653'
-last-update: 1698936993
+last-update: 1698939429
 lock-data: false
 data:
-- series: Enid Blyton
+- series: Malory Towers
   episode: First Term at Malory Towers
-  release: 1692316800
+  release: '1692316800'
   language: en-gb
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 282
+  age: 5
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10001653%202-A-xP_9VD.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/100f8eda064a6487e4ddbbe0f8627be56fd4ce7fdfc79bf5cfac361a/10001653_malory_towers_sample_1.wav
+  web: https://tonies.com/en-gb/tonies/malory-towers/first-term-at-malory-towers/
+  shop-id: 64c38824-8380-4977-854d-3b3253bfd511
+  track-desc:
+  - First Term at Malory Towers
   ids: []

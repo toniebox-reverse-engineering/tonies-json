@@ -1,18 +1,22 @@
 article: '11000782'
-last-update: 1698936994
+last-update: 1698939436
 lock-data: false
 data:
-- series: tonies® Podcast
-  episode: Today with tonies
-  release: 1699228800
+- series: Today with tonies
+  episode: A daily podcast
+  release: '1699228800'
   language: en-gb
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 70
+  age: 4
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/1%20Tonie-damevn9t.jpg
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/twt_product_image-nKTYen7v.png
+  sample: https://cdn.tonies.de/o/audio_samples/ed727964b925cf4cf713f63c3d8bc658275c2e12a5240cd15d354bce/podcast_sample.mp3
+  web: https://tonies.com/en-gb/tonies/today-with-tonies/today-with-tonies/
+  shop-id: a742a774-63b0-450f-8303-6552b3c99bc9
+  track-desc:
+  - Wed 8th Nov
+  - Tues 7th Nov
+  - Mon 6th Nov
+  - Today With Tonies Jingle
   ids: []

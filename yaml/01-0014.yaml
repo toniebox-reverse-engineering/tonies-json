@@ -1,20 +1,29 @@
 article: 01-0014
-last-update: 1698936991
+last-update: 1698939190
 lock-data: false
 data:
 - series: Benjamin Blümchen
   episode: Benjamin als Baggerfahrer
-  release: 1474934400
+  release: '1474934400'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 41
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0014-b-bNX6ajHQ.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/a4c465f99ed73747d2066a5b46347905153de3edb371ae7ebe0ee076/02_hoerprobe_benjamin_baggerfahrer_2_128_kbps.mp3
+  web: https://tonies.com/de-de/tonies/benjamin-bluemchen/als-baggerfahrer/
+  shop-id: ba8a6c9e-79b4-4160-8081-38b68210d2c5
+  track-desc:
+  - Titellied
+  - Tierische Überraschung
+  - Ein Bagger muss her!
+  - Schlechte Nachricht
+  - Bagger fahren ist schwer
+  - Hilfe, Rohrbruch!
+  - Sofortiges Baggerverbot
+  - Bürgermeister in der Grube
+  - Die neuen Gehege
   ids:
   - audio-id: 1490955104
     hash: 0DB4521B90EAC3DCA1C14E65733AFBBC1D17549B

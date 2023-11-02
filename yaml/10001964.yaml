@@ -1,18 +1,38 @@
 article: '10001964'
-last-update: 1698936993
+last-update: 1698939428
 lock-data: false
 data:
-- series: Favourite Children’s Songs
+- series: Favourite Children's Songs
   episode: Bedtime Songs 2 (relaunch)
-  release: 1692576000
+  release: '1692576000'
   language: en-gb
   category: music
-  runtime: 0
-  age: 99
+  runtime: 44
+  age: 3
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10001964%202-gT29qEdO.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/c9188ca8fa39ade4a5481e09a855331d0992ef00fe57c029afb8dd88/10001964_bedtime_songs_relaunch_samples_1.wav
+  web: https://tonies.com/en-gb/tonies/favourite-children-s-songs/fcs-bedtime-songs-2-relaunch/
+  shop-id: b224bd4e-8a37-4930-826b-5d23e3e55b3f
+  track-desc:
+  - This Little Light of Mine
+  - Didn’t Leave Nobody But The Baby
+  - Sweet and Low
+  - Kumbaya
+  - Star Light Star Bright
+  - Now The Day Is Over
+  - Cradle Hymn
+  - All Through The Night
+  - Pachelbels Canon
+  - The Northwind Doth Blow
+  - Ode To Joy
+  - There Was A Princess
+  - Suo Gan
+  - Michael Row The Boat Ashore
+  - Mozarts Lullaby
+  - Bye Baby Bunting
+  - Nutcracker
+  - The Moon Has Risen
+  - Cradle Song Weber
+  - Swing Low Sweet Chario
   ids: []

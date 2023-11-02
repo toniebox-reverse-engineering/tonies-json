@@ -1,20 +1,39 @@
 article: '10001483'
-last-update: 1698936993
+last-update: 1698939341
 lock-data: false
 data:
 - series: Gloria Glühwürmchen
   episode: Bezaubernde Gutenachtgeschichten
-  release: 1678233600
+  release: '1678233600'
   language: de-de
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 128
+  age: 4
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001483-50004756-b-UkvPZFOr.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/7506766c4b991d11c9e140e6aa605f35a59004cdbac801c51324280e/hoerprobe_10001483_gloria_gluhwurmchen_bezaubernde_gutenachtgeschichten.mp3
+  web: https://tonies.com/de-de/tonies/gloria-gluehwuermchen/bezaubernde-gutenachtgeschichten/
+  shop-id: 9302d380-cabc-4dc1-a3f5-15d11a5c9967
+  track-desc:
+  - Gloria-Lied Intro
+  - Gloria Glühwürmchen – das bin ich
+  - Eine ganz besondere Nacht
+  - Glühtag
+  - Glühtag (Teil 2)
+  - Ein großer Wunsch
+  - Die Welt von oben
+  - Die Welt von oben (Teil 2)
+  - Vom Fliegen und Leuchten
+  - Vom Fliegen und Leuchten (Teil 2)
+  - Ausflug in die Menschenwelt
+  - Ausflug in die Menschenwelt (Teil 2)
+  - Glühtherapie für Igel Isidor
+  - Geschichten vom Glühen
+  - Geschichten vom Glühen (Teil 2)
+  - Nachtwanderung mit Froschkonzert
+  - Zauberhafte Freunde
+  - Zauberhafte Freunde (Teil 2)
+  - Gloria-Lied
   ids:
   - audio-id: 1676034089
     hash: AC18A1A2EFCC3047B848E8990D646DB65ADF307E

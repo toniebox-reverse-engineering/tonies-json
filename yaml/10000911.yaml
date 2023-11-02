@@ -1,20 +1,62 @@
 article: '10000911'
-last-update: 1698936993
+last-update: 1698939316
 lock-data: false
 data:
 - series: Willy Astor
   episode: Kindischer Ozean
-  release: 0
+  release: N
   language: de-de
   category: audio-book-songs
   runtime: 0
-  age: 99
+  age: 5
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000911-50002987-b-HubKQGqm.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/20a721347650123435696e6d49244b773489a3a969037aa22cabdd91/10000911_willy_astor.mp3
+  web: https://tonies.com/de-de/tonies/willy-astor/kindischer-ozean/
+  shop-id: afdccb48-045b-4eb5-84ed-b62595accd4d
+  track-desc:
+  - Kindischer Ozean (mit Max Mutzke)
+  - In rabendunkelfinst‘rer Nacht
+  - Mir ist so langweilig
+  - Licht am Ende des Dünnels
+  - Ausreden-Jonny
+  - In der Oase
+  - Ich bin ein Hängereh
+  - Kutschenfahrt durch den Dschungel
+  - Schiss-Katze Blues (mit Otto)
+  - Wo geht‘s denn jetzt hin
+  - Hummelhonig
+  - Könich Nochmal
+  - Motte Lotte
+  - Inselbauernhof
+  - L.F. Hand
+  - Gans Davadda und Gans Gefährlich
+  - Quatsch machen!
+  - Birok & Wäschek (mit Badesalz)
+  - Boyrische Boygroup
+  - Annamirl
+  - Strandspaziergang
+  - Buona Sera Serafina (Schnullersong)
+  - Mit dem Eis in der Hand
+  - Fischflossenflipflops (mit Otto)
+  - Zeit zum Baden
+  - Rosmarie, die Kitzelqualle (mit Mary Roos)
+  - Wer ist denn das?
+  - Gammel-Lümmel-Lommodon
+  - Der Inselhausmeister
+  - Hamse Hamse Ananas
+  - Vor der Strohhütte (mit Rolf Miller)
+  - Eintagsfliege Joe (mit Ludwig Bachmayer)
+  - Ein Ballon landet
+  - Kuddelmuddel Rock‘n‘Roll (mit Günther Sigl)
+  - Im Scherzgebirge (mit Nadeschkin)
+  - Hey Du hast Geburtstag heut‘
+  - Im Pensionswaldhotel
+  - Lala Salama
+  - Am nächsten Morgen
+  - Kindischer Ozean Jazz
+  - Ozeanischer Gospel (mit Max Mutzke)
+  - Ozeanische Klarinette (mit Mulo Francel)
   ids:
   - audio-id: 1650551002
     hash: BEE399FC6B812A5EA7F6DEB8ADFE70DADFC54983

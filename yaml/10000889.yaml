@@ -1,18 +1,27 @@
 article: '10000889'
-last-update: 1698936993
+last-update: 1698939396
 lock-data: false
 data:
-- series: Tee & Mo
+- series: Tee and Mo
   episode: Tee and Mo
-  release: 1655683200
+  release: '1655683200'
   language: en-gb
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 39
+  age: 3
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000889-50002917-b-slgmRrBx.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/dd510617dcbb179a9ec0f7fe1066ce1d0e1c738c03f67e63b4aa01fe/tee_mo_audio_sample.wav
+  web: https://tonies.com/en-gb/tonies/tee-and-mo/tee-and-mo/
+  shop-id: de0cb8a4-8465-438c-8520-9d7df77d9122
+  track-desc:
+  - Action Ape Did It
+  - Helpful Tee
+  - Baby Tee
+  - Big Boy Boots
+  - Being Little
+  - Here with You
+  - Are We Ready to Go?
+  - Help Our Little World
+  - Go to Sleep
   ids: []

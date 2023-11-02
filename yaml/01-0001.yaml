@@ -1,20 +1,23 @@
 article: 01-0001
-last-update: 1698936991
+last-update: 1698939187
 lock-data: false
 data:
 - series: Janosch
   episode: Oh, wie schön ist Panama
-  release: 1474934400
+  release: '1474934400'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 55
+  age: 4
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0001-98-0053-b-turiiCTi.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/0f4e1d7ac385d4073eb1596168c84a34bba4890755aff686bad3002f/hoerprobe__janosch_panama_3_128_kbps.mp3
+  web: https://tonies.com/de-de/tonies/janosch/oh-wie-schoen-ist-panama/
+  shop-id: eb5b755b-aae7-4415-8cef-7c8888198376
+  track-desc:
+  - Oh, wie schön ist Panama
+  - Guten Tag, kleines Schweinchen
+  - Geschichte von der Flaschenpost
   ids:
   - audio-id: 1490952835
     hash: 8DAF02437F070941B7DE1890A986A381B9F839EB

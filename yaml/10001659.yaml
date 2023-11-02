@@ -1,18 +1,19 @@
 article: '10001659'
-last-update: 1698936993
+last-update: 1698939464
 lock-data: false
 data:
 - series: Astérix
   episode: Astérix Et Cléopâtre
-  release: 1680134400
+  release: '1680134400'
   language: fr-fr
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 49
+  age: 6
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/50005228-Tonie_Shado-cgH5D94q.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/17b69ab97e87bbd578039203b1ed5436621da5b242af060a39ab9efb/sample_tonie_cleopatre.mp3
+  web: https://tonies.com/fr-fr/tonies/asterix/asterix-et-cleopatre/
+  shop-id: 9a13b748-2d84-4956-9ed4-6e0a9cfc8728
+  track-desc:
+  - Astérix Et Cléopâtre
   ids: []

@@ -1,20 +1,24 @@
 article: '10001677'
-last-update: 1698936993
+last-update: 1698939339
 lock-data: false
 data:
 - series: Die Schlümpfe
   episode: Ein unwiderschlumpfliches Lächeln & 3 weitere schlumpfige Abenteuer
-  release: 1677024000
+  release: '1677024000'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 50
+  age: 5
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001677-50003915-b-C3OJyjcN.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/e6afde48824f53ea42c08d68f2b37bbd156ae99aa798bf9aab0fcc1d/hoerprobe_10001677_ein_unwiderschlumpfliches_lacheln_3_weitere_schlumpfige_abenteuer.mp3
+  web: https://tonies.com/de-de/tonies/die-schluempfe/ein-unwiderschlumpfliches-lcheln-3-weitere-schlumpfige-abenteuer/
+  shop-id: 6b69102e-54d7-4854-8498-138ed540b6c3
+  track-desc:
+  - Die schlumpftastischen Fünf
+  - Wer zuletzt lacht,...
+  - Eine gefährliche Entwicklung
+  - Ein unwiderschlumpfliches Lächeln
   ids:
   - audio-id: 1673875899
     hash: F0EB1CA3E579FDD309F01AEC1EE6F33F1D209525

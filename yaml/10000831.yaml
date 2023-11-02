@@ -1,20 +1,42 @@
 article: '10000831'
-last-update: 1698936992
+last-update: 1698939282
 lock-data: false
 data:
 - series: Lieblings-Kinderlieder
   episode: Geburtstagslieder
-  release: 1628726400
+  release: '1628726400'
   language: de-de
   category: music
-  runtime: 0
-  age: 99
+  runtime: 60
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000831-50002699-b--LsJUyV9E.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/e9cb94f004c013303f9eeef72a2669130b0377f7bd393c74f11252c9/hoerprobe_geburtstagslieder_relaunch_ext.mp3
+  web: https://tonies.com/de-de/tonies/lieblings-kinderlieder/geburtstagslieder-2021/
+  shop-id: cd88df22-84ef-42ab-9940-be0176789ef7
+  track-desc:
+  - Wie schön, dass du geboren bist
+  - So ein schöner Tag (Fliegerlied)
+  - Die Affen rasen durch den Wald
+  - Biene Maja
+  - Eine Insel mit zwei Bergen (Lummerlandlied)
+  - Geburtstagskanon
+  - Incy, wincy spider
+  - Grün, grün, grün sind alle meine Kleider
+  - Probiers mal mit Gemütlichkeit
+  - Das rote Pferd
+  - Und wer im Januar geboren ist
+  - Head and shoulders, knees and toes
+  - Der Cowboy Jim aus Texas
+  - Hörst du die Regenwürmer husten
+  - Der Gorilla mit der Sonnenbrille
+  - Meine Oma fährt im Hühnerstall Motorrad
+  - Wenn der Elefant in die Disco geht
+  - Old MacDonald had a farm
+  - Theo (Der Bananenbrot-Song)
+  - Von den blauen Bergen kommen wir
+  - Happy birthday to you
+  - Wer hat an der Uhr gedreht
   ids:
   - audio-id: 1626272002
     hash: 8E6935CAA11A2CFAD48265912084C45F4BFDEAC4

@@ -1,18 +1,25 @@
 article: '10000174'
-last-update: 1698936992
+last-update: 1698939372
 lock-data: false
 data:
-- series: Maya The Bee
+- series: Maya the Bee
   episode: The birth of Maya
-  release: 0
+  release: N
   language: en-gb
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 67
+  age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000174-50000588-b-5TpcNz85.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000227-50000588-b-5zuTgL8H.png
+  sample: https://cdn.tonies.de/o/audio_samples/673e2ae36ed6c38325f81d459ff1a17c28dce9a658ff1dd1ccc5f08a/audio_sample_maya_the_bee_1_ext.mp3
+  web: https://tonies.com/en-gb/tonies/maya-the-bee/the-birth-of-maya/
+  shop-id: 6ea8c325-ce5c-4ece-a68b-4252d121ada2
+  track-desc:
+  - Maya the Bee - Intro Song
+  - The Birth of Maya
+  - The Take Off
+  - The Queen’s Messenger
+  - Maya and the Night Blooms
+  - Willy’s bottle
+  - Keep Ball rolling
   ids: []

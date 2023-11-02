@@ -1,20 +1,26 @@
 article: '10000616'
-last-update: 1698936992
+last-update: 1698939293
 lock-data: false
 data:
 - series: Lieblings-Meisterstücke
   episode: Schwanensee
-  release: 1644364800
+  release: '1644364800'
   language: de-de
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 48
+  age: 5
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000616-50001949-b-bMvGoQjk.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/2530bd65be2ac4eab0a14f9dc86f9e95d8a378d632d0a8ca4b5da442/hoerprobe_1000061lieblings_meisterstucke_schwanensee_final.mp3
+  web: https://tonies.com/de-de/tonies/lieblings-meisterstuecke/schwanensee/
+  shop-id: 77af4cbc-2c2d-4e09-93d3-2afe83705e4d
+  track-desc:
+  - Siegfrieds Geburtstag
+  - Am Schwanensee
+  - Der Treueschwur
+  - Auf dem Ball
+  - Siegfried und Odile
+  - Rotbarts Sturm
   ids:
   - audio-id: 1642411203
     hash: 8394304B472C37686C0B1872152B6C92FC4750D4

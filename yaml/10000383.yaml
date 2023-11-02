@@ -1,20 +1,26 @@
 article: '10000383'
-last-update: 1698936992
+last-update: 1698939255
 lock-data: false
 data:
 - series: Die kleine Schnecke Monika Häuschen
   episode: Warum stolpern Tausendfüßler nicht?
-  release: 1615420800
+  release: '1615420800'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 42
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000383-50001347-b-iXFGmCF1.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/c2d63fbd4f0fb2f72be703ce9c2dfe133042c4966419e58a5e0fdbad/horprobe_die_kleine_schnecke_monika_hauschen_ext.mp3
+  web: https://tonies.com/de-de/tonies/die-kleine-schnecke-monika-haeuschen/warum-stolpern-tausendfuessler-nicht/
+  shop-id: c3d35dab-a4e9-4e27-a4be-c7fbeb09a51d
+  track-desc:
+  - 'Titellied: Die kleine Schnecke Monika Häuschen'
+  - 'Kapitel 01: Warum stolpern Tausendfüßler nicht?'
+  - 'Kapitel 02: Warum stolpern Tausendfüßler nicht?'
+  - 'Kapitel 03: Warum stolpern Tausendfüßler nicht?'
+  - 'Kapitel 04: Warum stolpern Tausendfüßler nicht?'
+  - 'Kapitel 05: Warum stolpern Tausendfüßler nicht?'
   ids:
   - audio-id: 1614003428
     hash: 15DD5DE9899063F6998D162288E9BE96F57835BD

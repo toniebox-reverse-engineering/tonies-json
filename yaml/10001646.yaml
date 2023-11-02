@@ -1,18 +1,38 @@
 article: '10001646'
-last-update: 1698936993
+last-update: 1698939429
 lock-data: false
 data:
-- series: Favourite Children’s Songs
+- series: Favourite Children's Songs
   episode: Sing-a-long Songs (relaunch)
-  release: 1692576000
+  release: '1692576000'
   language: en-gb
   category: music
-  runtime: 0
-  age: 99
+  runtime: 50
+  age: 3
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10001646%202-G4aKzYhE.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/4d6f357428f718ee12e6a400030c46607b427611ee0bba01a8836b93/10001646_sing_a_long_songs_sample_2.wav
+  web: https://tonies.com/en-gb/tonies/favourite-children-s-songs/sing-a-long-songs-relaunch/
+  shop-id: 626b04ee-a2ad-48c0-bc7c-fc142e9de05f
+  track-desc:
+  - We All Clap Our Hands Together
+  - Polly Put the Kettle On
+  - Wind The Bobbin Up
+  - Skip To My Lou
+  - Hickory Dickory Dock
+  - Oats, Peas, Beans and Barley Grow
+  - Little Robin Redbreast
+  - Five Currant Buns in a Baker’s Shop
+  - Pop Goes the Weasel
+  - Ride a Cock Horse to Banbury Cross
+  - I Had a Little Nut Tree
+  - In and Out the Dusty Bluebells
+  - There Was a Crooked Man
+  - A Frog Went A Courtin’
+  - Ging Gang Goolie
+  - This Little Piggy Went to Market
+  - Sing a Song of Sixpence
+  - London’s Burning
+  - Humpty Dumpty
+  - Wheels on the Bus
   ids: []

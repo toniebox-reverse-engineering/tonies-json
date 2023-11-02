@@ -1,20 +1,36 @@
 article: '10000278'
-last-update: 1698936992
+last-update: 1698939264
 lock-data: false
 data:
 - series: Fredrik Vahle
   episode: Zugabe
-  release: 1618444800
+  release: '1618444800'
   language: de-de
   category: music
-  runtime: 0
-  age: 99
+  runtime: 56
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000278-50001847-b-YhAXXYmr.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/742681261126be7e10e78441b3edee7f5aa2a89fa0f0f2cec530fc01/horprobe_fredrik_vahle_zugabe_ext.mp3
+  web: https://tonies.com/de-de/tonies/fredrik-vahle/zugabe/
+  shop-id: 33b3b806-d645-4a5d-92c5-760fc96eaf07
+  track-desc:
+  - Das kleine bunte Trampeltier (Stoppok & Fjarill)
+  - Anne Kaffeekanne (Maren Kroymann)
+  - Der Umzug (Eki & Kathrin)
+  - Ping Pong Pinguin (Heinz Rudolf Kunze)
+  - Stille (Deine Freunde)
+  - Wir sind alle Himmelskinder (Johannes Falk)
+  - Der Cowboy Jim aus Texas (Tex)
+  - Der Hase (Augustin Randale)
+  - Dracula-Rock (Kai & Funky von Ton Steine Scherben & Gymmick)
+  - Der Friedensmaler (Max Mutzke)
+  - Die Rübe (Hartmut E. Höfele)
+  - Das Hexenmädchen (De-Phazz feat. Pat Appleton)
+  - Hokus Pokus Fidibus (HOBBY, Wigald Boning & Roberto di Gioia)
+  - Der Spatz (Fräulein Schneider & Pawel Popolski)
+  - Das Rackedickeducke-Lied (Max Prosa & Sarina Rado)
+  - Schlaflied für Anne (Mia Diekow)
   ids:
   - audio-id: 1615473211
     hash: E4A00BCD6E9A368691A64B13B5F6439F8B3ECEC9

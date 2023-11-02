@@ -1,20 +1,27 @@
 article: '10000335'
-last-update: 1698936992
+last-update: 1698939379
 lock-data: false
 data:
 - series: Disney
   episode: Winnie the Pooh
-  release: 1626307200
+  release: '1626307200'
   language: en-gb
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 32
+  age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000335-50001024-b-9-kwCgCw.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000335-50001024-b-P92RQqDd.png
+  sample: https://cdn.tonies.de/o/audio_samples/5701be3b9d6aa3c2220aeaccb81f5b5adb74314b7545d8d5af027986/audio_sample_winnie_the_pooh.mp3
+  web: https://tonies.com/en-gb/tonies/disney/winnie-the-pooh/
+  shop-id: 53257ccb-f419-4861-a037-028f49d8046f
+  track-desc:
+  - Winnie the Pooh
+  - Little Black Rain Cloud
+  - Rumply in My Tumbly
+  - Up, Down and Touch the Ground
+  - Winnie the Pooh and the Honey Tree
+  - Winnie the Pooh and the Blustery Day
+  - Winnie the Pooh and Tigger Too
   ids:
   - audio-id: 1623757893
     hash: FDFE716263EF7E90EE07F2C3CFAD2A5DE93317B8

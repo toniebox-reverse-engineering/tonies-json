@@ -1,20 +1,21 @@
 article: 01-0193
-last-update: 1698936991
+last-update: 1698939215
 lock-data: false
 data:
 - series: Pettersson und Findus
   episode: Findus zieht um
-  release: 1580947200
+  release: '1580947200'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 33
+  age: 4
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0193-98-0588-b-ddpRQ61P.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/c973a1d9795413faba6462c40443ddac2481e3d360771ebe27dfc8f3/hoerprobe_pettersson_und_findus_findus_zieht_um_ext.mp3
+  web: https://tonies.com/de-de/tonies/pettersson-und-findus/findus-zieht-um/
+  shop-id: 754f84fa-d607-4059-be7f-f03a25ca73bf
+  track-desc:
+  - .
   ids:
   - audio-id: 1579696839
     hash: C9FEC899B41930D42E1AC49065C48C66A89799DC

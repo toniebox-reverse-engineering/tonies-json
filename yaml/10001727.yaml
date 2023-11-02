@@ -1,18 +1,21 @@
 article: '10001727'
-last-update: 1698936993
+last-update: 1698939448
 lock-data: false
 data:
 - series: Mes Classiques Préférés
   episode: Peter Pan Et 2 Autres Classiques
-  release: 1646870400
+  release: '1646870400'
   language: fr-fr
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 60
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001727-50005517-b-L9GGVFmg.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/d0808e9af3d51035314281402099037bdd1ac58a1e8576b17a999854/sample_tonie_mclap_peter_pan.mp3
+  web: https://tonies.com/fr-fr/tonies/mes-classiques-preferes/peter-pan-et-2-autres-classiques/
+  shop-id: d8f7f86b-7b0f-47c6-81c0-de7290a2faf2
+  track-desc:
+  - Peter Pan
+  - L'île au trésor
+  - Tom Sawyer
   ids: []

@@ -1,18 +1,27 @@
 article: '10001408'
-last-update: 1698936993
+last-update: 1698939471
 lock-data: false
 data:
 - series: Contes Du Monde
   episode: Afrique De L'Ouest
-  release: 1688601600
+  release: '1688601600'
   language: fr-fr
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 77
+  age: 4
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/50004816-Tonie_Shado-H_RvZm1y.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/f56c51ee3d5c65a7456d158def80c3d5c6d4db40441075c2f616b413/sample_tonie_cdm_afrique.mp3
+  web: https://tonies.com/fr-fr/tonies/contes-du-monde/afrique-de-l-ouest/
+  shop-id: e8abdc4f-8c26-4912-989d-d0f4fd761dbb
+  track-desc:
+  - Introduction
+  - Anansi et le Tonnerre
+  - Comment la Tortue a eu sa carapace
+  - Le Bélier et le Léopard
+  - Intermède
+  - Pourquoi l'on voit des fourmis porter des choses aussi grosses qu'elles
+  - Intermède
+  - Le roi Caméléon et les Animaux
+  - Conclusion
   ids: []

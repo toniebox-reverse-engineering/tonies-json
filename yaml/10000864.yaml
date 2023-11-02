@@ -1,18 +1,19 @@
 article: '10000864'
-last-update: 1698936992
+last-update: 1698939442
 lock-data: false
 data:
 - series: Disney
   episode: Ariel, La Petite Sirène
-  release: 0
+  release: N
   language: fr-fr
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 57
+  age: 4
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000864-50002797-b-YPB2nIBK.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/32c4849611b14908ef07b4d6fe1a8687397c7474cd74c782950eb749/sample_tonie_disney_ariel.mp3
+  web: https://tonies.com/fr-fr/tonies/disney/ariel-la-petite-sirene/
+  shop-id: 95249de2-f2fd-4c69-a805-339b569860ad
+  track-desc:
+  - 'L''Histoire & Les Chansons : La Petite Sirène (env. 59 min)'
   ids: []

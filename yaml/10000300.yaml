@@ -1,20 +1,26 @@
 article: '10000300'
-last-update: 1698936992
+last-update: 1698939252
 lock-data: false
 data:
 - series: Lieblings-Meisterstücke
   episode: Der Nussknacker
-  release: 1613001600
+  release: '1613001600'
   language: de-de
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 49
+  age: 5
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000300-50001979-b-R6s6QVVz.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/5460ba8667df5bb135c77ffc459c43a5937882901eb15787c76282fa/horprobe_lieblings_meisterstuecke_der_nussknacker_ext.mp3
+  web: https://tonies.com/de-de/tonies/lieblings-meisterstuecke/der-nussknacker/
+  shop-id: 65abe1ad-19a0-4dec-9860-cf3fbb744994
+  track-desc:
+  - Am Weihnachtsabend bei Familie Silberhaus
+  - Drosselmeiers Bescherung
+  - Die Schlacht der Mäuse und Soldaten
+  - Clara und Prinz Nussknacker im Winterwald
+  - Ein Fest in der Konfitürenburg. Die süßesten Tänze der Welt. Zuckerfee und Sirup-Prinz.
+  - Claras Traum vom Erwachsensein
   ids:
   - audio-id: 1611142297
     hash: D6F795A4E775939BB5E33106D2E581132E4D1EF7

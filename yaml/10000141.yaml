@@ -1,20 +1,28 @@
 article: '10000141'
-last-update: 1698936991
+last-update: 1698939223
 lock-data: false
 data:
 - series: Disney
   episode: Die Eiskönigin
-  release: 0
+  release: N
   language: de-de
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 71
+  age: 4
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000141-50000861-b-Lnlgh2mc.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/b086d67072e21adf8c0e0b41ee9029054268255a013aa59dbaa641f2/hoerprobe_disney_die_eiskoenigin_ext_v2.mp3
+  web: https://tonies.com/de-de/tonies/disney/die-eiskoenigin/
+  shop-id: e50acc34-15ea-41b6-bf85-adc54bb0c075
+  track-desc:
+  - Kaltes Herz
+  - Willst du einen Schneemann bauen?
+  - Liebe öffnet Tür'n
+  - Lass jetzt los
+  - Im Sommer
+  - Zum ersten Mal
+  - Aufpolieren
+  - Die Eiskönigin
   ids:
   - audio-id: 1584719217
     hash: 7F3303306E01A5DDD86EF0F12AA1BB070C35E4BC

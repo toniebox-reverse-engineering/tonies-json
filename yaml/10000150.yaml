@@ -1,20 +1,52 @@
 article: '10000150'
-last-update: 1698936991
+last-update: 1698939224
 lock-data: false
 data:
 - series: Wieso? Weshalb? Warum? junior
   episode: Die Feuerwehr/Die Rettungsfahrzeuge
-  release: 1591228800
+  release: '1591228800'
   language: de-de
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 53
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000150-50001227-b-7MU6z2zd.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/5d707bb1933839dde227ced1afa6b320bb5bdfb14174a63eebfb705d/hoerprobe_www_junior_die_feuerwehr_ext.mp3
+  web: https://tonies.com/de-de/tonies/wieso-weshalb-warum-junior-2/die-feuerwehr-die-rettungsfahrzeuge/
+  shop-id: c1a70ce7-0b73-4569-a390-1875602a1bcd
+  track-desc:
+  - Die Feuerwehr 1
+  - Die Feuerwehr 2
+  - Die Feuerwehr 3
+  - Die Feuerwehr 4
+  - Die Feuerwehr 5
+  - Die Feuerwehr 6
+  - Die Feuerwehr 7
+  - Die Feuerwehr 8
+  - Die Feuerwehr 9
+  - Die Feuerwehr 10
+  - Die Feuerwehr 11
+  - Die Feuerwehr 12
+  - Die Feuerwehr 13
+  - Die Feuerwehr 14
+  - Die Feuerwehr 15
+  - Die Feuerwehr 16
+  - Die Rettungsfahrzeuge 1
+  - Die Rettungsfahrzeuge 2
+  - Die Rettungsfahrzeuge 3
+  - Die Rettungsfahrzeuge 4
+  - Die Rettungsfahrzeuge 5
+  - Die Rettungsfahrzeuge 6
+  - Die Rettungsfahrzeuge 7
+  - Die Rettungsfahrzeuge 8
+  - Die Rettungsfahrzeuge 9
+  - Die Rettungsfahrzeuge 10
+  - Die Rettungsfahrzeuge 11
+  - Die Rettungsfahrzeuge 12
+  - Die Rettungsfahrzeuge 13
+  - Die Rettungsfahrzeuge 14
+  - Die Rettungsfahrzeuge 15
+  - Die Rettungsfahrzeuge 16
   ids:
   - audio-id: 1589465611
     hash: 334A0F16B2E234C376CCF719CF1D2C4D12D75B86

@@ -1,18 +1,21 @@
 article: '10002098'
-last-update: 1698936993
+last-update: 1698939462
 lock-data: false
 data:
 - series: La Pat' Patrouille
   episode: Everest
-  release: 1678320000
+  release: '1678320000'
   language: fr-fr
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 43
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/50005848-FR-Tonie_Sh-zcYSqV06.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/16c73fe7ac6bb2d22e2110a5c045b8017e24d51cfa6d8c9e53ced089/sample_tonie_pat_patrouille_everest.mp3
+  web: https://tonies.com/fr-fr/tonies/la-pat-patrouille/everest/
+  shop-id: 3a22b5c6-5b2a-4709-b04b-8e2ad82b90ec
+  track-desc:
+  - Everest, la petite nouvelle
+  - La Pat' Patrouille sauve les cerfs
+  - Le Baleineau
   ids: []

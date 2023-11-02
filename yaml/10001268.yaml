@@ -1,18 +1,28 @@
 article: '10001268'
-last-update: 1698936993
+last-update: 1698939453
 lock-data: false
 data:
 - series: Peppa Pig
   episode: George
-  release: 1661990400
+  release: '1661990400'
   language: fr-fr
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 45
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001268-50003881-b--W4V0iIS9.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/b3149966361125a657fba4d702bf1d2ed26c017503c427afd03e5888/sample_tonie_peppa_pig_george.mp3
+  web: https://tonies.com/fr-fr/tonies/peppa-pig/george/
+  shop-id: c635652d-7763-4d14-a3fc-737c6f73e066
+  track-desc:
+  - À la recherche de monsieur Dinosaure
+  - La plus grande flaque de boue du monde
+  - La halte-garderie
+  - Le nouveau dinosaure de George
+  - Richard Rabbit vient jouer à la maison
+  - Les jeux de plein air
+  - L'anniversaire de George
+  - Le voyage sur la lune
+  - La voiture de course de George
+  - Le ballon de George
   ids: []

@@ -1,18 +1,33 @@
 article: '10000705'
-last-update: 1698936992
+last-update: 1698939363
 lock-data: false
 data:
 - series: Sesame Street
   episode: Elmo
-  release: 1636502400
+  release: '1636502400'
   language: en-gb
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 40
+  age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000705-50002247-b-baCuOfCZ.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000705-50002247-b-giCPPqJR.png
+  sample: https://cdn.tonies.de/o/audio_samples/c44e172692b53801db98d6ea424b4d96a365812c9b5e4d9f454de319/audio_sample_10000705_sesame_street_elmo.mp3
+  web: https://tonies.com/en-gb/tonies/sesame-street/elmo/
+  shop-id: c008eeb6-dbac-49af-b247-a0709acf4b9e
+  track-desc:
+  - Welcome to Sesame Street!
+  - 'Sunny Day: Sesame Street Theme'
+  - Introducing Music
+  - The ABCs
+  - Guess That Instrument
+  - Elmo Starts a Band
+  - Twinkle, Twinkle, Little Star
+  - If You’re Happy and You Know It
+  - Dance Like an Animal
+  - Freeze Dance Party
+  - Head, Shoulders, Knees and Toes
+  - I Can Sing
+  - Elmo’s Dance Party
+  - Elmo Loves You
+  - Monster Cool Down
   ids: []

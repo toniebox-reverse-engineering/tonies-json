@@ -1,18 +1,26 @@
 article: '10001307'
-last-update: 1698936993
+last-update: 1698939392
 lock-data: false
 data:
-- series: Nat Geo
+- series: National Geographic Kids
   episode: Whale
-  release: 1650844800
+  release: '1650844800'
   language: en-gb
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 60
+  age: 5
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10001307-50004011-b-LxL10NzL.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/f378c3c6cfab6234faa92b21692040250b7291031d751134197c438b/1whales_intro.wav
+  web: https://tonies.com/en-gb/tonies/national-geographic-kids/whale/
+  shop-id: 77c719f1-aa80-43d0-b919-a22801efc350
+  track-desc:
+  - Wonderful Whales
+  - Flip a Fin!
+  - Meet the Whales
+  - Ocean Home
+  - Whale Chat
+  - On the Menu
+  - Baby Whale
+  - Caring for Whales
   ids: []

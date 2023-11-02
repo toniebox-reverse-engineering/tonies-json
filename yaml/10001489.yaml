@@ -1,18 +1,30 @@
 article: '10001489'
-last-update: 1698936993
+last-update: 1698939343
 lock-data: false
 data:
 - series: Die Eule mit der Beule
   episode: Gute Nacht, kleine Eule
-  release: 1680134400
+  release: '1680134400'
   language: de-de
   category: audio-book-songs
-  runtime: 0
-  age: 99
+  runtime: 49
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001489-50004782-b-xfVCE7Y5.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/701bfda9ad987a44a7b4ba8909f8a2c6a8117f6c957c0d555a632c68/hoerprobe_10001489_die_eule_mit_der_beule_gute_nacht_kleine_eule.mp3
+  web: https://tonies.com/de-de/tonies/die-eule-mit-der-beule/gute-nacht-kleine-eule/
+  shop-id: 70084fb9-217c-40e2-965d-72882bcb1f14
+  track-desc:
+  - Gute Nacht, kleine Eule (Lied)
+  - Besuch beim Biber
+  - Die kleine Eule fliegt zu den Sternen
+  - Die kleine Eule fliegt zu den Sternen (Lied)
+  - Post für den Spatz
+  - Die kleine Eule findet einen Freund
+  - Die kleine Eule findet einen Freund (Lied)
+  - Ein Tag mit Papa
+  - Pssst! Die kleine Eule will schlafen
+  - Das Waldorchester-Lied (Lied)
+  - Pssst! Die kleine Eule will schlafen (Lied)
+  - 'Gute Nacht, kleine Eule (Lied: Instrumental-Version)'
   ids: []

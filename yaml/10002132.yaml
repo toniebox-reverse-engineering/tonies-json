@@ -1,18 +1,35 @@
 article: '10002132'
-last-update: 1698936993
+last-update: 1698939468
 lock-data: false
 data:
 - series: Lucie Petite Danseuse
   episode: Lucie
-  release: 1686787200
+  release: '1686787200'
   language: fr-fr
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 73
+  age: 5
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/50006945-Tonie_Shado-Hi32-BN4.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/89ba2db2634b602b4ea97838fc05b5af56afdbaf056c2d34c50ebd9f/sample_tonie_lucie_petite_danseuse.mp3
+  web: https://tonies.com/fr-fr/tonies/lucie-petite-danseuse/lucie/
+  shop-id: e5829bde-2e47-4c5b-afd7-199c29ed45a3
+  track-desc:
+  - Introduction
+  - À l'école de danse
+  - Mon papa ne veut pas
+  - Un garçon au cours de danse
+  - Mystère au musée de la danse
+  - À l'opéra côté scène
+  - Un reportage au cours de danse
+  - Tutu et castagnettes
+  - Le spectacle de danse
+  - Introduction des jeux sonores
+  - 'Jeu #1 : Petit vocabulaire de la danse classique (Quiz)'
+  - 'Jeu #2 : Dans la peau d''une ballerine un soir de ballet (Balade Sonore)'
+  - 'Jeu #3 : La danse classique en charades'
+  - 'Jeu #4 : L''histoire du Lac des cygnes'
+  - 'Jeu #5 : Les danses au fil du temps'
+  - 'Jeu #6 : Quelques conseils pour danser chez toi'
+  - 'Jeu #7 : Les cinq positions de départ'
   ids: []

@@ -1,18 +1,22 @@
 article: '11000194'
-last-update: 1698936994
+last-update: 1698939425
 lock-data: false
 data:
 - series: Paw Patrol
   episode: Rex
-  release: 1687219200
+  release: '1687219200'
   language: en-gb
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 58
+  age: 3
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/11000194%202-j_6epumG.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/0a04145468b6658995763d41753a60af485434bd5c7e69229ff86c05/11000194_rex_sample.wav
+  web: https://tonies.com/en-gb/tonies/paw-patrol/rex/
+  shop-id: 8aa8eab0-a923-49b4-bf47-a49f254d423b
+  track-desc:
+  - Intoduction
+  - 'Dino Rescue: Pups Save a Sore Dino'
+  - 'Dino Rescue: Pups Save a Hum-Dino'
+  - 'Dino Rescue: Pups and the Big Rumble'
   ids: []

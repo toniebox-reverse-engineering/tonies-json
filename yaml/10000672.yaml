@@ -1,20 +1,21 @@
 article: '10000672'
-last-update: 1698936992
+last-update: 1698939290
 lock-data: false
 data:
 - series: Disney
   episode: Coco
-  release: 0
+  release: N
   language: de-de
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 76
+  age: 6
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000672-50002142-b-3wqy7IeY.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/e58a8d18bf36a58ffd927ba4156868899ec2628197aed1cea273a617/hoerprobe_10000672_disney_coco_coco.mp3
+  web: https://tonies.com/de-de/tonies/disney/coco/
+  shop-id: 35783b5f-eae6-4837-90be-492d47251556
+  track-desc:
+  - 07 Coco
   ids:
   - audio-id: 1634306694
     hash: F220183E11F8D147EDD3955FECD824E9913F385B

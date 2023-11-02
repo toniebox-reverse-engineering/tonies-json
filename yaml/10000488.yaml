@@ -1,18 +1,22 @@
 article: '10000488'
-last-update: 1698936992
+last-update: 1698939378
 lock-data: false
 data:
 - series: The Famous Five
   episode: 'The Famous Five: A Short Story Collection'
-  release: 1620604800
+  release: '1620604800'
   language: en-gb
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 67
+  age: 6
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000488-50001531-b-WaQ56T-m.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/853cc98e2715dccf7a54708d2234468a26d8c734b3da71621159118f/audio_sample_famous_five_a_short_story_collection_ext.mp3
+  web: https://tonies.com/en-gb/tonies/the-famous-five/famous-five-a-short-story-collection/
+  shop-id: 676a3c18-72e5-46bd-bfee-acc8e6347880
+  track-desc:
+  - Good Old Timmy
+  - When Timmy Chased the Cat
+  - A Lazy Afternoon
+  - Five and a Half-Term Adventure
   ids: []

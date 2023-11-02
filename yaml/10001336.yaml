@@ -1,20 +1,44 @@
 article: '10001336'
-last-update: 1698936993
+last-update: 1698939325
 lock-data: false
 data:
 - series: Planet Omar
   episode: Planet Omar
-  release: 1663113600
+  release: '1663113600'
   language: de-de
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 110
+  age: 8
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001336-50004108-b-1koH3ee0.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/69b993eb97e29f94d4c6b4e82d2ea0e39605960f4689cc4061d6b5fd/hoerprobe_10001336_planet_omar_nichts_als_arger.mp3
+  web: https://tonies.com/de-de/tonies/planet-omar/planet-omar/
+  shop-id: 6311e1e9-7d85-4418-8f21-bd6de881457e
+  track-desc:
+  - Intro
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
+  - Kapitel 20
+  - Kapitel 21
+  - Kapitel 22
+  - Kapitel 23
   ids:
   - audio-id: 1661846281
     hash: E0F91E10F96527FA1488BB1DE25BE6CFFD120996

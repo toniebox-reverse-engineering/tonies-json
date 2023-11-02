@@ -1,20 +1,21 @@
 article: '10000687'
-last-update: 1698936992
+last-update: 1698939294
 lock-data: false
 data:
 - series: Disney
   episode: Küss den Frosch
-  release: 1646784000
+  release: '1646784000'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 60
+  age: 4
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000687-50002177-b-Nj4F7Ku-.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/142227e1a65cd87bfb17e5cd4403f6695090c7c5d329538a81ebf3d2/heorprobe_10000687_disney_kuss_den_frosch.mp3
+  web: https://tonies.com/de-de/tonies/disney/kss-den-frosch/
+  shop-id: 16ad2b9b-6fbd-44d0-92c3-ad6a230d2070
+  track-desc:
+  - '1'
   ids:
   - audio-id: 1642593734
     hash: 0A2A25AD7C8276E1D1C2803C42F94D493F038F5C

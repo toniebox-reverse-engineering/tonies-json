@@ -1,18 +1,19 @@
 article: '10002051'
-last-update: 1698936993
+last-update: 1698939432
 lock-data: false
 data:
 - series: Disney
   episode: Tigger
-  release: 1695600000
+  release: '1695600000'
   language: en-gb
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 43
+  age: 3
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10002051%202-C9J-Q3tK.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/c75f61c1e4cdf8a718b5fe124c098184bbbaba3c18812f12ffc0c27c/10002051_disney_tigger.wav
+  web: https://tonies.com/en-gb/tonies/disney/tigger/
+  shop-id: 8a62751e-615d-4519-8f88-d437e40cde7e
+  track-desc:
+  - The Tigger Movie
   ids: []

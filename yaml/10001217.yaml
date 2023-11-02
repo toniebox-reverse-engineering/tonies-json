@@ -1,18 +1,40 @@
 article: '10001217'
-last-update: 1698936993
+last-update: 1698939448
 lock-data: false
 data:
 - series: Mes Comptines Préférées
   episode: En Anglais
-  release: 1646870400
+  release: '1646870400'
   language: fr-fr
   category: music
-  runtime: 0
-  age: 99
+  runtime: 40
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001217-50003730-b-UL9MClOS.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/318f7ca0084a5952d8eaf7e4bab411f76b855c43f8932f0aca539cde/sample_tonie_mcomp_anglais.mp3
+  web: https://tonies.com/fr-fr/tonies/mes-comptines-preferees/en-anglais/
+  shop-id: 4a869e3c-3a17-430a-ae11-d73eef261823
+  track-desc:
+  - Head shoulders knees and toes
+  - Happy birthday
+  - The alphabet song
+  - The itsy bitsy spider
+  - Numbers song
+  - One elephant went out to play
+  - Lucy locket
+  - Rain rain go away
+  - Two little blackbirds
+  - Pat a cake
+  - Numbers 10-100
+  - Monkey mountain
+  - Old MacDonald had a farm
+  - Hickory Dickory Dock
+  - The wheels on the bus
+  - My little lamb
+  - The ants go marching
+  - Grizzly bear
+  - Ten in the bed
+  - Mary had a little lamb
+  - The muffin man
+  - A tisket, a tasket
   ids: []

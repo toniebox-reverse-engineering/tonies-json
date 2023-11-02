@@ -1,20 +1,47 @@
 article: 01-0082
-last-update: 1698936991
+last-update: 1698939197
 lock-data: false
 data:
 - series: Der kleine Prinz
   episode: Der Kleine Prinz
-  release: 1508198400
+  release: '1508198400'
   language: de-de
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 106
+  age: 8
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0082-b-XrRX3opY.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/82ab36fbde10a7e76fa39b830137c005a2a5c7bfc93e8fa54d254361/hoerprobe_der_kleine_prinz.mp3
+  web: https://tonies.com/de-de/tonies/der-kleine-prinz/der-kleine-prinz/
+  shop-id: a53b946d-3ca6-4089-a228-d3dce7576dd7
+  track-desc:
+  - Als ich sechs Jahre alt war
+  - So lebte ich für mich allein
+  - Ich brauchte lange, um zu verstehen
+  - So hatte ich eine zweite, sehr wichtige Sache
+  - Jeden Tag lernte ich wieder etwas
+  - Ach, kleiner Prinz
+  - Am fünften Tage offenbarte sich mir
+  - Diese Blume sollte ich bald besser kennenlernen
+  - Ich glaubte, für seine Flucht nutzte er
+  - Er befand sich in der Region
+  - Auf dem zweiten Planeten wohnte
+  - Auf dem nächsten Planeten wohnte
+  - Der vierte Planet gehörte
+  - Der fünfte Planet war sehr seltsam
+  - Der sechste Planet war zehnmal so groß
+  - Der siebte Planet war also die Erde
+  - Wenn man geistreich sein möchte
+  - Der kleine Prinz durchquerte die Wüste
+  - Der kleine Prinz stieg auf einen hohen Berg
+  - Nachdem der kleine Prinz nun aber lange
+  - In dem Moment erschien der Fuchs
+  - '"Guten Tag", sagte der kleine Prinz'
+  - '"Guten Tag", sagte der kleine Prinz'
+  - Es war bereits der achte Tag
+  - '"Die Menschen", sagte der kleine Prinz'
+  - Neben dem Brunnen standen die Überreste
+  - Das ist jetzt natürlich schon sechs Jahre her
   ids:
   - audio-id: 1506513728
     hash: 161392572BEB9A55948089BF8FA6EC3528F48E84

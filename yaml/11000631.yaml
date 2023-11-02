@@ -1,18 +1,19 @@
 article: '11000631'
-last-update: 1698936994
+last-update: 1698939435
 lock-data: false
 data:
-- series: Advent Calendar
+- series: Advent calendar
   episode: The Little Reindeer's Christmas Wish
-  release: 1697760000
+  release: '1697760000'
   language: en-gb
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 194
+  age: 3
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/Image%202-5LODe6SZ.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/88b889c0fea89b7b7b39490cf49f119a90b20c0f4fada1ce16cca101/11000631_advent_calendar_little_reindeer_sample.wav
+  web: https://tonies.com/en-gb/tonies/advent-calendar/the-little-reindeers-christmas-wish/
+  shop-id: 2fbcc068-b538-478b-9081-cac9565e3df9
+  track-desc:
+  - Welcome to The Little Reindeer's Christmas Wish
   ids: []

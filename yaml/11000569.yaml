@@ -1,18 +1,34 @@
 article: '11000569'
-last-update: 1698936994
+last-update: 1698939468
 lock-data: false
 data:
 - series: Mes Comptines Préférées
   episode: Les Animaux
-  release: 1686787200
+  release: '1686787200'
   language: fr-fr
   category: music
-  runtime: 0
-  age: 99
+  runtime: 44
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/98-1437-Tonie_Shadow-VXK1ewOw.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/eff7d0f8a845bba0ef04248c3549c955b531c6ac40c7e67a423ef9d5/sample_tonie_mcomp_animaux.mp3
+  web: https://tonies.com/fr-fr/tonies/mes-comptines-preferees/les-animaux/
+  shop-id: 937193cb-1373-4862-b40f-4ba2e115d24d
+  track-desc:
+  - Voilà les animaux
+  - Quand les canards se réveillent
+  - Autour du point d'eau
+  - Un éléphant sortit jouer
+  - La montagne des singes
+  - Une grenouille saute jusqu'à l'étang
+  - Le grizzly
+  - Un chat super cool
+  - Deux petits merles
+  - Tout au fond de l'eau
+  - On s'éclate dans la jungle
+  - Vole petit papillon
+  - J'entends chanter l'âne
+  - Chut petit bébé
+  - Au zoo
+  - Mon p'tit agneau
   ids: []

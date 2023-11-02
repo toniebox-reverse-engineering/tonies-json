@@ -1,18 +1,26 @@
 article: '10001904'
-last-update: 1698936993
+last-update: 1698939467
 lock-data: false
 data:
 - series: Mes Mythes Préférés
   episode: La Mythologie Égyptienne
-  release: 1684972800
+  release: '1684972800'
   language: fr-fr
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 60
+  age: 5
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/50005978-Tonie_Shado-BYvFkpaD.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/a0633f47666dd0ce7fdbb200687e98cbeeab4a457eb8825abd428b4e/sample_tonie_mmp_egyptienne.mp3
+  web: https://tonies.com/fr-fr/tonies/mes-mythes-preferes/la-mythologie-egyptienne/
+  shop-id: 4ec4c9d6-cbff-4c1c-80cb-e7c97ab26b65
+  track-desc:
+  - Introduction
+  - La création du monde
+  - Le nom secret de Rê
+  - Isis et Osiris
+  - L'enfance d'Horus
+  - Le combat de Seth et Horus
+  - Le voyage du Soleil
+  - Épilogue
   ids: []

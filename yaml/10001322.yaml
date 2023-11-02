@@ -1,18 +1,26 @@
 article: '10001322'
-last-update: 1698936993
+last-update: 1698939428
 lock-data: false
 data:
 - series: DC
   episode: Wonder Woman
-  release: 1689811200
+  release: '1689811200'
   language: en-gb
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 60
+  age: 5
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10001322%202-3MjkqPq6.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/188cbc35c1eebcfdcc304b0e565e8c8e9d0bf5cfb6713662db822065/wonder_woman_audio_sample.mp3
+  web: https://tonies.com/en-gb/tonies/dc/wonder-woman/
+  shop-id: a25e821d-e17f-4dc3-be33-e8c51fe201c9
+  track-desc:
+  - Introduction
+  - Young Diana
+  - Ares
+  - Wonder Woman Training
+  - Cheetah
+  - Wonder Woman Quiz
+  - Medusa
+  - Circe
   ids: []

@@ -1,20 +1,21 @@
 article: '10001349'
-last-update: 1698936993
+last-update: 1698939454
 lock-data: false
 data:
 - series: Les Copains Du Dodo
   episode: Doudou Mouton
-  release: 1665619200
+  release: '1665619200'
   language: fr-fr
   category: music
-  runtime: 0
-  age: 99
+  runtime: 140
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001349-50004169-b--ht0H8CMD.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/1329e1ecfea1d0a6db1384252b30dca53ad20f59681129f3421f16fc/sample_tonie_mouton.mp3
+  web: https://tonies.com/fr-fr/tonies/les-copains-du-dodo/doudou-mouton/
+  shop-id: ce11f0b3-a483-4c3f-8117-2cf11d231b74
+  track-desc:
+  - Berceuses instrumentales
   ids:
   - audio-id: 1664284580
     hash: 75DE0AA33CED69BB6A7509CAB3406DFF1D89C52F

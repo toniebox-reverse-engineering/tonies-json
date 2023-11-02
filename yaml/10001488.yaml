@@ -1,18 +1,30 @@
 article: '10001488'
-last-update: 1698936993
+last-update: 1698939342
 lock-data: false
 data:
 - series: Nasreddin Hodscha
   episode: Seine ersten Abenteuer
-  release: 1680134400
+  release: '1680134400'
   language: de-de
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 85
+  age: 5
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001488-50004778-b-gQ5yZIG5.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/243459fa3f0f82c98889b6e5912beee2ad00769a5c2063100ce9c53f/hoerprobe_10001488_nasreddin_hodscha_seine_ersten_abenteuer.mp3
+  web: https://tonies.com/de-de/tonies/nasreddin-hodscha/seine-ersten-abenteuer/
+  shop-id: 31fec76e-54db-401d-92c6-7d078e07a0b3
+  track-desc:
+  - Vor langer langer Zeit …
+  - Große Träume
+  - Wer ist denn dieses Mädchen?
+  - Der denkende Truthahn
+  - Die Rettung des Mondes und der Dieb
+  - Die Reise beginnt
+  - Der Freund mit den langen Ohren
+  - Auch Sultane waschen sich
+  - Die knauserige Fatma
+  - Der Tag der Prüfung
+  - Nasri gibt nicht auf!
+  - Auf dem Rücken des Elefanten
   ids: []

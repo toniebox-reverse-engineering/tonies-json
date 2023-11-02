@@ -1,18 +1,38 @@
 article: '10001019'
-last-update: 1698936993
+last-update: 1698939446
 lock-data: false
 data:
 - series: Mes Comptines Préférées
   episode: À Mimer
-  release: 0
+  release: N
   language: fr-fr
   category: music
-  runtime: 0
-  age: 99
+  runtime: 40
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001019-50003348-b-lvPFWvbL.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/b5f4d5bf9572c8c3c0ac6b2b3af9f54f09fb59b1c5ad0e07b37d892a/sample_tonie_mcomp_mimer.mp3
+  web: https://tonies.com/fr-fr/tonies/mes-comptines-preferees/mimer/
+  shop-id: 24d9c453-5a60-4c36-8942-30e9ace867ac
+  track-desc:
+  - Tourne, tourne, petit moulin
+  - Je cache mes yeux
+  - J'ai deux mains
+  - Jean petit qui danse
+  - La fourmi m'a piqué la main
+  - Alouette, gentille alouette
+  - Dans la forêt lointaine
+  - Qui se cache ?
+  - Pirouette, cacahuète
+  - À la volette
+  - Dans sa maison un grand cerf
+  - Mes petites mains font tap, tap
+  - Sur le pont d'Avignon
+  - Do, ré, mi, la perdrix
+  - Il pleut, il mouille
+  - Je me lave les mains
+  - Le bon roi Dagobert
+  - Un éléphant qui se balançait
+  - Cadet Rousselle
+  - Il court, il court le furet
   ids: []

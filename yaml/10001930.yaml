@@ -1,18 +1,39 @@
 article: '10001930'
-last-update: 1698936993
+last-update: 1698939424
 lock-data: false
 data:
-- series: Favourite Children’s Songs
+- series: Favourite Children's Songs
   episode: Healthy Habits
-  release: 1687392000
+  release: '1687392000'
   language: en-gb
   category: music
-  runtime: 0
-  age: 99
+  runtime: 45
+  age: 3
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10001930%202-4DzL5KLp.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/f31c0a102bcdd9ecd5c7dda54ccecd593bf207e3d44ad3882f122af5/10001930_fcs_healthy_habits_sample.wav
+  web: https://tonies.com/en-gb/tonies/favourite-children-s-songs/healthy-habits/
+  shop-id: a796431c-7058-4c24-b64c-f30cae164a15
+  track-desc:
+  - The Best I Can Be
+  - Affirmations
+  - I Am A Superstar
+  - Exercise
+  - Gym Class
+  - Healthy Eating
+  - I Can Eat A Rainbow
+  - Getting Sunlight
+  - Outside
+  - Feelings
+  - I’m Happy
+  - Playtime
+  - Can You Jump?
+  - Stay Hydrated
+  - Drink Some Water
+  - Be Present
+  - Enjoy The Moment
+  - Mindful Breathing
+  - Breathing In Breathing Out Exercise
+  - Sleep
+  - Go To Sleep
   ids: []

@@ -1,20 +1,21 @@
 article: '10001998'
-last-update: 1698936993
+last-update: 1698939344
 lock-data: false
 data:
 - series: Bibi Blocksberg
   episode: Die Junghexenbande
-  release: 1680134400
+  release: '1680134400'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 40
+  age: 4
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001998-50006236-b-YC2jqSE6.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/79e097d4deed30320171c232df162b1992c44a95399271a7f3668117/heorprobe_10001998_bibi_blocksberg_die_junghexenbande.mp3
+  web: https://tonies.com/de-de/tonies/bibi-blocksberg/junghexenbande/
+  shop-id: f286ee22-cf0c-480d-9a73-1c470d281ee9
+  track-desc:
+  - Die Junghexenbande
   ids:
   - audio-id: 1679410725
     hash: E43D5063B936F55779CEFA5F3406A986ABE74BF9

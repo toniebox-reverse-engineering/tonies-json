@@ -1,18 +1,24 @@
 article: '10001775'
-last-update: 1698936993
+last-update: 1698939460
 lock-data: false
 data:
 - series: Mes Classiques Préférés
   episode: Les Trois Mousquetaires
-  release: 1673481600
+  release: '1673481600'
   language: fr-fr
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 64
+  age: 6
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/50005545-Tonie_Shado-JkzByFfm.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/bc3ccc86d45b3e8be67e332fa90e3283ccab19978539c3b1885b46f1/sample_tonie_mclap_mousquetaires.mp3
+  web: https://tonies.com/fr-fr/tonies/mes-classiques-preferes/les-trois-mousquetaires/
+  shop-id: 26499671-8490-4ef5-80a3-9e723644ddf6
+  track-desc:
+  - Prologue
+  - Que l'aventure commence !
+  - Danger à la cour
+  - Une mission dangereuse
+  - Sur tous les fronts
+  - Épilogue
   ids: []

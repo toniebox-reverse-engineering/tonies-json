@@ -1,20 +1,30 @@
 article: 01-0127
-last-update: 1698936991
+last-update: 1698939199
 lock-data: false
 data:
 - series: Lieselotte
   episode: Ein Geburtstagsfest für Lieselotte und andere Geschichten
-  release: 0
+  release: N
   language: de-de
   category: audio-book-songs
-  runtime: 0
-  age: 99
+  runtime: 57
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0127-98-0349-b-wNXyNeLt.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/c15e4beebaa3e8365b9b71d2763fb12072f7dfca24f264725902a5b1/lieselotte_031117_1013.mp3
+  web: https://tonies.com/de-de/tonies/lieselotte/geburtstagsfest-fuer-lieselotte/
+  shop-id: e1050073-0a06-4e24-b36e-f9da29927afe
+  track-desc:
+  - Ein Geburtstagsfest für Lieselotte 1
+  - Ein Geburtstagsfest für Lieselotte 2
+  - Ein Geburtstagsfest für Lieselotte 3
+  - Lieselotte sucht 1
+  - Lieselotte sucht 2
+  - Lieselotte sucht 3
+  - Lieselotte sucht 4
+  - Lieselotte ist krank 1
+  - Lieselotte ist krank 2
+  - Lieselotte ist krank 3
   ids:
   - audio-id: 1508506646
     hash: 7B9F1DD1C8ACE3026808B293EF3531F0309A5B0A

@@ -1,18 +1,22 @@
 article: '10001936'
-last-update: 1698936993
+last-update: 1698939434
 lock-data: false
 data:
 - series: Disney
   episode: Tinkerbell
-  release: 1698019200
+  release: '1698019200'
   language: en-gb
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 53
+  age: 3
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/Image%202-kRmrySqv.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/d8a62daf6795be6bc33353fb08fde8394daa469a81b02f80846dce74/10001936_tinkerbell_sample.wav
+  web: https://tonies.com/en-gb/tonies/disney/tinkerbell/
+  shop-id: 4eb447f9-452b-4e71-9234-c299768bc430
+  track-desc:
+  - To The Fairies They Draw Near
+  - Fly To Your Heart
+  - To The Fairies They Draw Near Pt. 2
+  - Tinkerbell
   ids: []

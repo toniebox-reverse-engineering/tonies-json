@@ -1,18 +1,25 @@
 article: '10001799'
-last-update: 1698936993
+last-update: 1698939387
 lock-data: false
 data:
-- series: Steiff Soft Cuddly Friends
+- series: Steiff Soft Cuddly Friends mit Hörspiel
   episode: Lita Lamb
-  release: 1634688000
+  release: '1634688000'
   language: en-gb
   category: audio-play
-  runtime: 0
+  runtime: 68
   age: 99
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/074097-Lita_Lamm-b-nDLA8ils.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/43cc1de013cc9e158b3792371bdfe961420624043129ed984f61b841/audio_sample_10001799_soft_cuddly_friends_with_radio_play_lita_lamb.mp3
+  web: https://tonies.com/en-gb/tonies/steiff-soft-cuddly-friends-mit-hoerspiel/lita-lamb/
+  shop-id: 60b45f04-2ad0-46b7-8b76-56206a96d60b
+  track-desc:
+  - 'Intro: Lita Lamb'
+  - A Slide For Everyone
+  - The Miracle Shell
+  - Rhymes For The Unicorn
+  - The New Game
+  - The Friendship Tree
+  - The Party in The Barn
   ids: []

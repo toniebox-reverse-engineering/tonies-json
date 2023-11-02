@@ -1,18 +1,29 @@
 article: '10000502'
-last-update: 1698936992
+last-update: 1698939373
 lock-data: false
 data:
 - series: Beethoven for Kids
   episode: Beethoven for Kids - Presented by Daniel Hope
-  release: 1599696000
+  release: '1599696000'
   language: en-gb
   category: audio-book-songs
-  runtime: 0
-  age: 99
+  runtime: 76
+  age: 4
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000502-50001586-b-XN1Y7fGa.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/efe5eb9fdd782f3be1a63c1c3102f4e1a589a0f558feba45c8823993/audio_sample_beethoven_for_kids_ext.mp3
+  web: https://tonies.com/en-gb/tonies/beethoven-for-kids/beethoven-for-kids-presented-by-daniel-hope/
+  shop-id: 07a6d76b-e238-412a-83f7-f924f6d1624d
+  track-desc:
+  - The Awakening of Joyous Feelings on Arriving in the Countryside
+  - Scene by the Brook
+  - Merry Gathering of Country Folk
+  - Thunder, Storm
+  - Shepherd’s Song; Cheerful and Thankful Feelings after the Storm
+  - One last thought from Beethoven
+  - 'Movement 1: "Allegro ma non troppo"'
+  - 'Movement 2: "Andante molto moto"v'
+  - 'Movement 3: "Allegro"'
+  - 'Movement 4: "Allegro"'
+  - 'Movement 5: "Allegretto"'
   ids: []

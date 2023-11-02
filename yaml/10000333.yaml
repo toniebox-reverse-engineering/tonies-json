@@ -1,20 +1,31 @@
 article: '10000333'
-last-update: 1698936992
+last-update: 1698939226
 lock-data: false
 data:
 - series: Beethoven für Kids
   episode: Beethoven für Kids - Gelesen von Daniel Hope
-  release: 1593648000
+  release: '1593648000'
   language: de-de
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 80
+  age: 4
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000333-50001016-b-llwDxeee.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/b99654452ecaa4a4b676f41a5475c1a30e65822f137b02555c687d32/hoerprobe_beethoven_fuer_kids_gelesen_von_daniel_hope_ext_v3.mp3
+  web: https://tonies.com/de-de/tonies/beethoven-fuer-kids/gelesen-von-daniel-hope/
+  shop-id: 06898a62-c71e-434f-8fdd-1c7da29aacd1
+  track-desc:
+  - Ankunft auf dem Land
+  - Szene am Bach
+  - Lustiges Zusammensein der Landleute
+  - Gewitter, Sturm
+  - Hirtenlied, frohe und dankbare Gefühle nach dem Sturm
+  - Ein letzter Gedanke von Beethoven
+  - '1. Satz: „Allegro ma non troppo“'
+  - '2. Satz: „Andante molto moto“'
+  - '3. Satz: „Allegro“'
+  - '4. Satz: „Allegro“'
+  - '5. Satz: „Allegretto“'
   ids:
   - audio-id: 1592471045
     hash: 7FD5227A307737494EBEC4BEF94BBE0EFE04F0E2

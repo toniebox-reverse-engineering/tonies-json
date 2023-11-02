@@ -1,18 +1,29 @@
 article: '10001491'
-last-update: 1698936993
+last-update: 1698939456
 lock-data: false
 data:
 - series: Didier Jeunesse
   episode: Monsieur Mozart
-  release: 1670457600
+  release: '1668643200'
   language: fr-fr
   category: audio-book-songs
-  runtime: 0
-  age: 99
+  runtime: 50
+  age: 5
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001491-50004822-b-MXxSmpwU.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/6e287bdff71f6d55acf4d30341593339e6347919e0e9b0f2c1f4ea86/sample_tonie_mozart.mp3
+  web: https://tonies.com/fr-fr/tonies/didier-jeunesse/monsieur-mozart/
+  shop-id: eb6959ab-a1b4-4b6d-aedd-ff348d187bb8
+  track-desc:
+  - Et si nous partions en voyage ?
+  - Sa sœur joue du clavecin
+  - À quatre ans
+  - À peine six ans
+  - À huit ans
+  - Déjà, ils partent à Londres
+  - Monsieur Mozart travaille beaucoup
+  - Parfois, Monsieur Mozart compose en marchant
+  - Le lendemain
+  - Cette nuit-là
+  - Cette nuit-là 21e concerto pour piano KV 467 (Allegro)
   ids: []

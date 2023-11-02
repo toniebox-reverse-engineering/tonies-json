@@ -1,18 +1,22 @@
 article: '11000402'
-last-update: 1698936994
+last-update: 1698939431
 lock-data: false
 data:
 - series: Marvel
   episode: 'Spidey & His Amazing Friends: Ghost-Spider'
-  release: 1695168000
+  release: '1695168000'
   language: en-gb
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 39
+  age: 3
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/11000402%202-LM9MpTxh.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/dbf0d8f932ccbbf4b61f8c9329d0e33b374cb9eec64fcf8eee315100/11000402_spidey_his_amazing_friends_ghostspider_sample.wav
+  web: https://tonies.com/en-gb/tonies/marvel/spidey-his-amazing-friends-ghost-spider/
+  shop-id: a92a2417-8fdf-49d2-bf58-7a7e4614d18c
+  track-desc:
+  - Marvel’s Spidey and His Amazing Friends Theme Song
+  - Webs Up Song
+  - Super Hero on the Beat Song
+  - Spidey and His Amazing Friends - Swing With A Stomp Story
   ids: []

@@ -1,19 +1,19 @@
 article: 01-0200
-last-update: 1698936991
+last-update: 1698939098
 lock-data: false
 data:
 - series: Feuerwehrmann Sam
   episode: In Pontypandy ist was los
-  release: 1549497600
+  release: '1549497600'
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 60
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0200-98-0627-b-nL2ncLa4.png
-  sample: null
-  web: null
-  shop-id: null
+  sample: https://cdn.tonies.de/o/audio_samples/1158abc6c2a24a9915a05165685c6dcf72c3543e8d2fba8443bcf9e1/hoerprobe_feuerwehrmann_sam.mp3
+  web: https://tonies.com/de-de/tonies/feuerwehrmann-sam/in-pontypandy-ist-was-los/
+  shop-id: 532274c0-b87a-4a2f-9dd2-6c17c679741e
   track-desc: []
   ids:
   - audio-id: 1539349655

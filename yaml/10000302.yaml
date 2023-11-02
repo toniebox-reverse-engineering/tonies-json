@@ -1,20 +1,37 @@
 article: '10000302'
-last-update: 1698936992
+last-update: 1698939255
 lock-data: false
 data:
 - series: Die drei Räuber
   episode: Die drei Räuber
-  release: 1615420800
+  release: '1615420800'
   language: de-de
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 68
+  age: 5
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000302-50001969-b-2qQEh95j.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/10f8592b8fedbf8b6efa973ecc71abf20052041d830d72493e1eb821/horprobe_die_drei_raeuber_ext.mp3
+  web: https://tonies.com/de-de/tonies/die-drei-raeuber/die-drei-raeuber/
+  shop-id: 40a51588-b1da-4b50-bb5b-a8bf8d81415c
+  track-desc:
+  - Ansage
+  - Die drei Räuber
+  - Der Abschied
+  - Der Überfall
+  - Ankunft in der Räuberhöhle
+  - Im Waisenhaus
+  - Entdeckungsreise in der Räuberhöhle
+  - Der Lösegoldbrief
+  - Die Fahndung wird eingeleitet
+  - Gregorys und Nikolas Flucht
+  - Ein Geschenk für Tiffany
+  - Das ABC - Die Räuber lernen lesen
+  - Die Finte fliegt auf
+  - Auf ins Waisenhaus
+  - Die drei Räuber kehren zurück
+  - Die Party beginnt
+  - Räuberlieder
   ids:
   - audio-id: 1613142717
     hash: 399DB744A1BFB10EF5141A4C0F3B23321C9167C0

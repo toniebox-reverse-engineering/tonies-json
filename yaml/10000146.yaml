@@ -1,20 +1,37 @@
 article: '10000146'
-last-update: 1698936991
+last-update: 1698939209
 lock-data: false
 data:
 - series: Minimusiker
   episode: Lieder für dich
-  release: 1567641600
+  release: '1567641600'
   language: de-de
   category: music
-  runtime: 0
-  age: 99
+  runtime: 50
+  age: 3
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000146-50000595-b-G5ozmjj8.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/981c2f6872378b29b3a39e29a7c31c592758529e3b74be9b4a9b289c/hoerprobe_10000146_minimusiker_lieder_fuer_dich.mp3
+  web: https://tonies.com/de-de/tonies/minimusiker/lieder-fuer-dich/
+  shop-id: 25de787b-da8d-4534-a354-5221e393cd64
+  track-desc:
+  - Minimusikersong
+  - Faultier
+  - Kann ich nicht
+  - Ich und Du
+  - Alles wird gut
+  - Ich wär so gern ein Astronaut
+  - So wie Du
+  - Ich mach so gern Musik
+  - Mein Style
+  - Schussel und ich
+  - Draußen Spielen
+  - Was reimt sich auf „Wissen“?
+  - Zickenalarm
+  - Ich bin ein Monster
+  - Tröste mich
+  - Freunde fürs Leben
+  - Augen zu
   ids:
   - audio-id: 1565696183
     hash: 0E6D030E40AB272DBED5F7CB06C43EB2B9E1179D

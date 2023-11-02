@@ -1,18 +1,19 @@
 article: '10001011'
-last-update: 1698936993
+last-update: 1698939440
 lock-data: false
 data:
 - series: Disney
   episode: Bambi
-  release: 0
+  release: N
   language: fr-fr
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 35
+  age: 4
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001011-50003309-b-bdfuBGYJ.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/3f6933d61487f5be474479f9c2200dc2c9126b469ebfc601db404128/sample_tonie_disney_bambi.mp3
+  web: https://tonies.com/fr-fr/tonies/disney/bambi/
+  shop-id: e95b9fe7-c56b-448c-9e9e-9461802fc696
+  track-desc:
+  - 'L''Histoire & Les Chansons : Bambi (env. 35 min)'
   ids: []
