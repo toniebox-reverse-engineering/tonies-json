@@ -9,7 +9,7 @@ from article_yaml_helpers import YamlStruct
 from tonies_json_config import Config
 
 yaml_dir = Config.yaml_dir
-tonies_json_file = Config.tonies_file
+tonies_json_file = Config.import_tonies_file
 
 if not os.path.exists(yaml_dir):
     os.makedirs(yaml_dir)

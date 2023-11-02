@@ -7,6 +7,6 @@ class Config:
     certs_dir = f"{work_dir}certs/"
     flipper_dir = f"{work_dir}flipper/"
     cache_dir = f"{work_dir}cache/"
-    tonies_file = f"{work_dir}tonies.json"
+    import_tonies_file = f"{work_dir}tonies.json"
     export_tonies_file = "./tonies.json"
     export_toniesV2_file = "./toniesV2.json"
