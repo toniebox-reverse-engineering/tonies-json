@@ -3,6 +3,7 @@
 import yaml
 import os
 import glob
+import yaml
 
 from tonies_json_config import Config
 
@@ -24,4 +25,8 @@ for file_path in glob.glob(flipper_dumps_folder):
         if len(auth) != 64:
             print(f'Auth has invalid length {len(auth)}, {repr(auth)}')
         else:
-            print(f'{ruid},{auth}')
+            output = [{"ruid": ruid, "auth": auth}]
+            with open(f'{Config.flipper_out_dir}{ruid}.yaml', "w") as file:
+                yaml.safe_dump(output, file, default_flow_style=False, sort_keys=False, allow_unicode=True)
+                print(f'{ruid},{auth}')
+        
