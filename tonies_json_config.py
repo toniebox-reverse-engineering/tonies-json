@@ -4,6 +4,7 @@ class Config:
     work_dir = "./work/"
     yaml_dir = f"./yaml/"
     auth_dir = f"{work_dir}auth/"
+    auth_download_dir = f"{work_dir}auth/download"
     certs_dir = f"{work_dir}certs/"
     flipper_dir = f"{work_dir}flipper/"
     flipper_out_dir = f"{flipper_dir}out/"
