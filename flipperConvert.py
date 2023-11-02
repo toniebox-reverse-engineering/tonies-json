@@ -4,7 +4,9 @@ import yaml
 import os
 import glob
 
-flipper_dumps_folder = 'work/flipper/SLIX_*.nfc'
+from tonies_json_config import Config
+
+flipper_dumps_folder = f'{Config.flipper_dir}SLIX_*.nfc'
 for file_path in glob.glob(flipper_dumps_folder):
     # Extract the reversed UID from the filename
     filename = os.path.basename(file_path)

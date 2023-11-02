@@ -1,14 +1,15 @@
 #!/usr/bin/python3
 
-import copy
 import os
 import requests
-
 import json
 import yaml
 
-yaml_dir = "work/yaml"
-tonies_json_file = "./work/tonies.json"
+from article_yaml_helpers import YamlStruct
+from tonies_json_config import Config
+
+yaml_dir = Config.yaml_dir
+tonies_json_file = Config.tonies_file
 
 if not os.path.exists(yaml_dir):
     os.makedirs(yaml_dir)
@@ -32,27 +33,6 @@ if not os.path.isfile(tonies_json_file):
 
 [os.remove(os.path.join(yaml_dir, filename)) for filename in os.listdir(yaml_dir) if os.path.isfile(os.path.join(yaml_dir, filename))]
 
-yaml_base_struct = {
-    "article": None,
-    "data": []
-}
-yaml_data_struct = {
-    "series": None,
-    "episode": None,
-    "release": None,
-    "language": None,
-    "category": None,
-    "picture": None,
-    "track-desc": [],
-    "ids": []
-}
-yaml_ids_struct = {
-    "audio-id": None,
-    "hash": None,
-    "size": None,
-    "tracks": None,
-}
-
 # Load JSON data from a file
 with open("./work/tonies.json", "r") as json_file:
     data = json.load(json_file)
@@ -73,10 +53,10 @@ for item in data:
 for article, article_items in article_data.items():
     yaml_file_path = f"{yaml_dir}/{article}.yaml"
 
-    yaml_dict = copy.deepcopy(yaml_base_struct)
+    yaml_dict = YamlStruct.get_base()
     yaml_dict["article"] = article
     for item in article_items:
-        yaml_data = copy.deepcopy(yaml_data_struct)
+        yaml_data = YamlStruct.get_data()
         yaml_data["series"] = item["series"]
         yaml_data["episode"] = item["episodes"]
         if item["release"] != '':
@@ -89,7 +69,7 @@ for article, article_items in article_data.items():
             yaml_data["track-desc"].append(track)
 
         for audio_id, hash_value in zip(item["audio_id"], item["hash"]):
-            yaml_ids = copy.deepcopy(yaml_ids_struct)
+            yaml_ids = YamlStruct.get_id()
             yaml_ids["audio-id"] = int(audio_id)
             yaml_ids["hash"] = hash_value
             yaml_data["ids"].append(yaml_ids)
