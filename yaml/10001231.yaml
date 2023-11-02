@@ -1,5 +1,5 @@
 article: '10001231'
-last-update: 1698940578
+last-update: 1698941551
 lock-data: false
 data:
 - series: Peppa Pig
@@ -14,5 +14,15 @@ data:
   sample: https://cdn.tonies.de/o/audio_samples/4bb81749e73148a54538a37133e14abdabd158158ec2634f8a4a8a17/georgepig_sample_1.wav
   web: https://tonies.com/en-gb/tonies/peppa-pig/george-pig/
   shop-id: cb1db431-ea37-4502-b206-d11288d30da8
-  track-desc: []
+  track-desc:
+  - George’s New Dinosaur
+  - The Big Tale of Little Peppa
+  - The Biggest Muddy Puddle in the World
+  - Peppa’s Circus
+  - Grampy Rabbit in Space
+  - Granny Pig’s Perfume
+  - Mr Bull in a China Shop
+  - The Children’s Fete
+  - The Sandpit
+  - Daddy Pig’s Lost Keys
   ids: []

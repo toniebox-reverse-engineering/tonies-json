@@ -1,5 +1,5 @@
 article: '10000357'
-last-update: 1698940578
+last-update: 1698941569
 lock-data: false
 data:
 - series: Shrek
@@ -14,5 +14,6 @@ data:
   sample: https://cdn.tonies.de/o/audio_samples/8f16712dfb9935b43ca703cdd7ce3b7153e03e7be3a566fd337e5d51/1_8f16712dfb9935b43ca703cdd7ce3b7153e03e7be3a566fd337e5d51_audio_sample_shrek.mp3
   web: https://tonies.com/en-gb/tonies/shrek/shrek/
   shop-id: 0cacac68-2e72-463b-aa4b-f0a048bcf206
-  track-desc: []
+  track-desc:
+  - Shrek
   ids: []
