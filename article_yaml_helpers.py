@@ -32,7 +32,7 @@ class YamlStruct:
     @staticmethod
     def get_id():
         return {
-            "audio-id": None,
+            "audio-id": 0,
             "hash": None,
             "size": 0,
             "tracks": 0,

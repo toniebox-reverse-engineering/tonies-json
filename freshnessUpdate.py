@@ -2,6 +2,7 @@
 
 import yaml
 import os
+import time
 import copy
 import requests
 import binascii
@@ -10,6 +11,9 @@ from requests.packages.urllib3.poolmanager import PoolManager
 
 from proto.toniebox.pb.freshness_check import fc_request_pb2, fc_response_pb2
 from proto.toniebox.pb import taf_header_pb2
+
+from article_yaml_helpers import YamlStruct
+from tonies_json_config import Config
 
 class HostNameIgnoringAdapter(HTTPAdapter):
     def init_poolmanager(self, connections, maxsize, block=False):
@@ -28,9 +32,9 @@ def print_data(data):
 
 def get_server_data(endpoint_path, data=None, method='GET', auth=None, max_length=0):
     # Paths to your PEM files
-    client_cert_file = 'work/certs/client.pem'
-    private_key_file = 'work/certs/private.pem'
-    custom_ca_file = 'work/certs/ca.pem'
+    client_cert_file = f'{Config.certs_dir}client.pem'
+    private_key_file = f'{Config.certs_dir}private.pem'
+    custom_ca_file = f'{Config.certs_dir}ca.pem'
 
     base_url = 'https://prod.de.tbs.toys'
     url = f'{base_url}/{endpoint_path}'
@@ -78,37 +82,35 @@ if time_result is not None:
     print("Response (GET):", time_result)
 
 # Define the folder path containing YAML files
-content_yaml_folder = 'work/content/'
+auth_dir = Config.auth_dir
 
 fc_request = fc_request_pb2.TonieFreshnessCheckRequest()
 
 yaml_infos = {}
 article_infos = {}
 
-for filename in os.listdir(content_yaml_folder):
+for filename in os.listdir(auth_dir):
     if filename.endswith('.auth.yaml'):
         # Read and parse the YAML file
-        fileAuth = os.path.join(content_yaml_folder, filename)
-        fileData = os.path.join(content_yaml_folder, "data", filename.replace('.auth.yaml', '.data.yaml'))
+        fileAuth = os.path.join(auth_dir, filename)
         with open(fileAuth, 'r') as yaml_file:
            auths = yaml.safe_load(yaml_file)
         article = filename.replace('.auth.yaml', '')
+        fileData = os.path.join(Config.yaml_dir, f'{article}.yaml')
 
-        data = {
-            'audio-id': 0,
-            'hash': '0000000000000000000000000000000000000000',
-            'size': 0,
-            'tracks': 0
-        }
+        data = None
+        base = None
+        id = YamlStruct.get_id()
         # Look for a corresponding .data.yaml file
         if os.path.exists(fileData):
             with open(fileData, 'r') as data_yaml_file:
-                tmp_data = yaml.safe_load(data_yaml_file)
-                if tmp_data is not None:
-                    for name in data:
-                        if name in tmp_data:
-                            data[name] = tmp_data[name]
+                tmp_base = yaml.safe_load(data_yaml_file)
+                if tmp_base is not None and tmp_base["article"] == article and len(tmp_base["data"]) > 0:
+                    base = tmp_base
+                    data = base["data"][0]
                     
+        if data is None:
+            continue
 
         article_info = []
         for pair in auths:
@@ -117,8 +119,9 @@ for filename in os.listdir(content_yaml_folder):
                 'fileData' : fileData,
                 'article': article,
                 'auth' : pair,
-                'data' : copy.deepcopy(data),
-                'old-data' : data,
+                'id' : copy.deepcopy(id),
+                'old-id' : id,
+                'base' : base,
                 'article_info' : article_info,
                 'updated' : False
             }
@@ -126,7 +129,7 @@ for filename in os.listdir(content_yaml_folder):
             # Create a TonieFCInfo message and populate it with data from the YAML file
             tonie_info = fc_request.tonie_infos.add()
             tonie_info.uid = ruid_to_int_uid(pair["ruid"])  # Replace with the actual YAML field name
-            tonie_info.audio_id = int(data["audio-id"])
+            tonie_info.audio_id = int(id["audio-id"])
             print(f"uid: {tonie_info.uid:016x}, audio_id: {tonie_info.audio_id}")
 
             if tonie_info.uid in yaml_infos:
@@ -167,12 +170,12 @@ if fc_response_data is not None:
             taf_header = taf_header_pb2.TonieboxAudioFileHeader()
             taf_header.ParseFromString(taf_header_raw[4:])
 
-            yaml_info["data"]["audio-id"] = taf_header.audio_id
-            yaml_info["data"]["hash"] = binascii.hexlify(taf_header.sha1_hash).decode('utf-8')
-            yaml_info["data"]["tracks"] = len(taf_header.track_page_nums)
-            yaml_info["data"]["size"] = taf_header.num_bytes
+            yaml_info["id"]["audio-id"] = taf_header.audio_id
+            yaml_info["id"]["hash"] = binascii.hexlify(taf_header.sha1_hash).decode('utf-8')
+            yaml_info["id"]["tracks"] = len(taf_header.track_page_nums)
+            yaml_info["id"]["size"] = taf_header.num_bytes
             yaml_info["updated"] = True
-            print_data(yaml_info["data"])
+            print_data(yaml_info["id"])
     
     for article, article_info in article_infos.items():
         last_yaml_info = None
@@ -184,28 +187,32 @@ if fc_response_data is not None:
             if last_yaml_info is None:
                 last_yaml_info = yaml_info
             else:
-                if last_yaml_info["data"] != yaml_info["data"]:
+                if last_yaml_info["id"] != yaml_info["id"]:
                     error = True
             if last_yaml_info["updated"]:
                 updated = True
-            if yaml_info["old-data"]["tracks"] != yaml_info["data"]["tracks"]:
-                if yaml_info["old-data"]["tracks"] > 0 and yaml_info["data"]["tracks"] > 0:
+            if yaml_info["old-id"]["tracks"] != yaml_info["id"]["tracks"]:
+                if yaml_info["old-id"]["tracks"] > 0 and yaml_info["id"]["tracks"] > 0:
                     track_error = True
                     error = True
         if error:
             if track_error:
                 print(f'Changed tracks for article {article}:')
-                print_data(last_yaml_info["old-data"])
+                print_data(last_yaml_info["old-id"])
             else:
                 print(f'Different data for article {article}:')
             for yaml_info in article_info:
-                print_data(yaml_info["data"])
+                print_data(yaml_info["id"])
 
         elif updated:
             fileData = last_yaml_info["fileData"]
-            print(f'Updated data for article {article} to {fileData}:')
-            print_data(last_yaml_info["data"])
+            base = last_yaml_info["base"]
+            print_data(last_yaml_info["id"])
+
+            base["last-update"] = int(time.time())
+            base["data"][0]["ids"].insert(0, last_yaml_info["id"])
 
             with open(fileData, "w") as yaml_file:
-                yaml.safe_dump(last_yaml_info["data"], yaml_file)
+                yaml.safe_dump(base, yaml_file, default_flow_style=False, sort_keys=False, allow_unicode=True)
+                print(f'Updated data for article {article} to {fileData}:')
 
