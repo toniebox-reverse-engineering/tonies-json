@@ -1,5 +1,5 @@
 article: '10000364'
-last-update: 1698940511
+last-update: 1698946180
 lock-data: false
 data:
 - series: Bob der Baumeister
@@ -21,6 +21,6 @@ data:
   - Heppo und die Giraffe
   ids:
   - audio-id: 1618933130
-    hash: 1F67EF68F732DCAAA0A966CB408D38DB0838056C
+    hash: 1f67ef68f732dcaaa0a966cb408d38db0838056c
     size: 0
     tracks: 0

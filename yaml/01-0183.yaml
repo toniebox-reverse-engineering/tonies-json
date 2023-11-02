@@ -1,5 +1,5 @@
 article: 01-0183
-last-update: 1698940510
+last-update: 1698946179
 lock-data: false
 data:
 - series: TKKG Junior
@@ -29,6 +29,6 @@ data:
   - Kapitel 12
   ids:
   - audio-id: 1567701087
-    hash: 44790F4BEB2AEFC4CA5652A00A12B565050334D1
+    hash: 44790f4beb2aefc4ca5652a00a12b565050334d1
     size: 0
     tracks: 0

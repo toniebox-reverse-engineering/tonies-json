@@ -1,5 +1,5 @@
 article: '10000246'
-last-update: 1698940511
+last-update: 1698946179
 lock-data: false
 data:
 - series: Heavysaurus
@@ -28,6 +28,6 @@ data:
   - Raumschiff Juranoid
   ids:
   - audio-id: 1589465494
-    hash: 87B145D77B3FF327B324CD9AC99D4A5733ED8DC2
+    hash: 87b145d77b3ff327b324cd9ac99d4a5733ed8dc2
     size: 0
     tracks: 0

@@ -1,5 +1,5 @@
 article: '10000482'
-last-update: 1698940513
+last-update: 1698946181
 lock-data: false
 data:
 - series: Thomas & seine Freunde
@@ -27,6 +27,6 @@ data:
   - Du bist mein Freund
   ids:
   - audio-id: 1655213844
-    hash: A7AC16F50A989631E51AE050261566EC23B3DD5A
+    hash: a7ac16f50a989631e51ae050261566ec23b3dd5a
     size: 0
     tracks: 0

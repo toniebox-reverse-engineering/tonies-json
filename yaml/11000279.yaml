@@ -1,5 +1,5 @@
 article: '11000279'
-last-update: 1698940514
+last-update: 1698946182
 lock-data: false
 data:
 - series: Tabaluga
@@ -55,4 +55,8 @@ data:
   - Tabaluga - Mondsüchtig Teil 18
   - Tabaluga - Mondsüchtig Teil 19
   - Tabaluga - Mondsüchtig Teil 20
-  ids: []
+  ids:
+  - audio-id: 1696928510
+    hash: ' 80dbfd849f883882b61c91579d678179c444b5f1'
+    size: 0
+    tracks: 0

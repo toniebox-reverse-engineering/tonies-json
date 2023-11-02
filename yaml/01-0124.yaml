@@ -1,5 +1,5 @@
 article: 01-0124
-last-update: 1698936991
+last-update: 1698946172
 lock-data: false
 data:
 - series: Lieblings-Kinderlieder
@@ -17,6 +17,6 @@ data:
   track-desc: []
   ids:
   - audio-id: 1505232981
-    hash: 0B5277535FFC20350E0D3379D89B3D9A663835B6
+    hash: 0b5277535ffc20350e0d3379d89b3d9a663835b6
     size: 0
     tracks: 0

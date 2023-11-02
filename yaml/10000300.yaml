@@ -1,5 +1,5 @@
 article: '10000300'
-last-update: 1698940511
+last-update: 1698946179
 lock-data: false
 data:
 - series: Lieblings-Meisterstücke
@@ -23,6 +23,6 @@ data:
   - Claras Traum vom Erwachsensein
   ids:
   - audio-id: 1611142297
-    hash: D6F795A4E775939BB5E33106D2E581132E4D1EF7
+    hash: d6f795a4e775939bb5e33106d2e581132e4d1ef7
     size: 0
     tracks: 0

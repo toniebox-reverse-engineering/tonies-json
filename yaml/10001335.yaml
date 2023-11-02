@@ -1,5 +1,5 @@
 article: '10001335'
-last-update: 1698940513
+last-update: 1698946181
 lock-data: false
 data:
 - series: Die Glubschis
@@ -30,10 +30,10 @@ data:
   - 'Bonuskapitel: Kehre zurück nach Glittertown'
   ids:
   - audio-id: 1661154239
-    hash: C7EC2FF1792A8B72C1B7BEEAF0C73FC6E817D327
+    hash: c7ec2ff1792a8b72c1b7beeaf0c73fc6e817d327
     size: 0
     tracks: 0
   - audio-id: 1663587464
-    hash: C63730B0490285D28E132EF6458011C6E58CDC1A
+    hash: c63730b0490285d28e132ef6458011c6e58cdc1a
     size: 0
     tracks: 0

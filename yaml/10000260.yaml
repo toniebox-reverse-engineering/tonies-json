@@ -1,5 +1,5 @@
 article: '10000260'
-last-update: 1698940511
+last-update: 1698946179
 lock-data: false
 data:
 - series: Disney
@@ -23,6 +23,6 @@ data:
   - Kapitel 6
   ids:
   - audio-id: 1603186614
-    hash: 8F2B06C048AB02600E92357D1671E6E1FE9FB066
+    hash: 8f2b06c048ab02600e92357d1671e6e1fe9fb066
     size: 0
     tracks: 0

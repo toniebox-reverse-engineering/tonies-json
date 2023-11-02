@@ -1,5 +1,5 @@
 article: 01-0100
-last-update: 1698940510
+last-update: 1698946179
 lock-data: false
 data:
 - series: Die Schule der magischen Tiere
@@ -42,10 +42,10 @@ data:
   - Titellied „Willkommen in der Schule der magischen Tiere“
   ids:
   - audio-id: 1542108286
-    hash: A8EAA6F788CAE24FF8FE44281C73F9414ECCCACC
+    hash: a8eaa6f788cae24ff8fe44281c73f9414ecccacc
     size: 0
     tracks: 0
   - audio-id: 1605531741
-    hash: EE9951C7160AC377AAA732E3F93173AB892137F6
+    hash: ee9951c7160ac377aaa732e3f93173ab892137f6
     size: 0
     tracks: 0

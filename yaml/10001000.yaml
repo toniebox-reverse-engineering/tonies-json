@@ -1,5 +1,5 @@
 article: '10001000'
-last-update: 1698940512
+last-update: 1698946180
 lock-data: false
 data:
 - series: Volker Rosin
@@ -33,10 +33,10 @@ data:
   - Lasst uns heute Freunde sein (Volkers Version 2021)
   ids:
   - audio-id: 1645515636
-    hash: 0ED852D8DB12E384F6AB90752B05C8CD98072B4D
+    hash: 0ed852d8db12e384f6ab90752b05c8cd98072b4d
     size: 0
     tracks: 0
   - audio-id: 1649657912
-    hash: DD616E560E3B5C3B3BC8F68076EE9309EF797EA3
+    hash: dd616e560e3b5c3b3bc8f68076ee9309ef797ea3
     size: 0
     tracks: 0

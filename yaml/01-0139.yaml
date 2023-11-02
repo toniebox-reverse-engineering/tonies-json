@@ -1,5 +1,5 @@
 article: 01-0139
-last-update: 1698940511
+last-update: 1698946179
 lock-data: false
 data:
 - series: Der kleine Siebenschläfer
@@ -40,6 +40,6 @@ data:
   - Das Schlaflied der Tiere
   ids:
   - audio-id: 1597844784
-    hash: 6D721696277CF60E7293DC2758FA63D964BF57D0
+    hash: 6d721696277cf60e7293dc2758fa63d964bf57d0
     size: 0
     tracks: 0

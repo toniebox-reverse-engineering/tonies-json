@@ -1,5 +1,5 @@
 article: 01-0044
-last-update: 1698940510
+last-update: 1698946178
 lock-data: false
 data:
 - series: Der kleine Drache Kokosnuss
@@ -21,6 +21,6 @@ data:
   - Einmal und nie wieder
   ids:
   - audio-id: 1490108080
-    hash: 16CB3C60FE1B053700F07026FA858BC2562869E6
+    hash: 16cb3c60fe1b053700f07026fa858bc2562869e6
     size: 0
     tracks: 0

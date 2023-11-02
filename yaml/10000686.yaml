@@ -1,5 +1,5 @@
 article: '10000686'
-last-update: 1698940512
+last-update: 1698946180
 lock-data: false
 data:
 - series: Disney
@@ -23,6 +23,6 @@ data:
   - Rapunzel – Neu verföhnt
   ids:
   - audio-id: 1645008699
-    hash: 605FC2F25CF8633012BFC7448FA9BFC7CDC13616
+    hash: 605fc2f25cf8633012bfc7448fa9bfc7cdc13616
     size: 0
     tracks: 0

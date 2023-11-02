@@ -1,5 +1,5 @@
 article: '10000143'
-last-update: 1698936991
+last-update: 1698946173
 lock-data: false
 data:
 - series: Kinderliederzug
@@ -17,10 +17,10 @@ data:
   track-desc: []
   ids:
   - audio-id: 1565696659
-    hash: 85C3670C165E28DBEC49F2A7DE4C94B4B693E9F5
+    hash: 85c3670c165e28dbec49f2a7de4c94b4b693e9f5
     size: 0
     tracks: 0
   - audio-id: 1684759356
-    hash: DAA45DF1D1C4D17E43344AE275AB593FAD68BA4E
+    hash: daa45df1d1c4d17e43344ae275ab593fad68ba4e
     size: 0
     tracks: 0

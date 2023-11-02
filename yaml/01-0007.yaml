@@ -1,5 +1,5 @@
 article: 01-0007
-last-update: 1698940510
+last-update: 1698946178
 lock-data: false
 data:
 - series: Das Sams
@@ -19,6 +19,6 @@ data:
   - Von Mittwoch bis Samstag
   ids:
   - audio-id: 1490953058
-    hash: 750BF562670C513449974069A782C885F7F3D305
+    hash: 750bf562670c513449974069a782c885f7f3d305
     size: 0
     tracks: 0

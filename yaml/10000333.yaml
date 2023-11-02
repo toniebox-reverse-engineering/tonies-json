@@ -1,5 +1,5 @@
 article: '10000333'
-last-update: 1698940511
+last-update: 1698946179
 lock-data: false
 data:
 - series: Beethoven für Kids
@@ -28,6 +28,6 @@ data:
   - '5. Satz: „Allegretto“'
   ids:
   - audio-id: 1592471045
-    hash: 7FD5227A307737494EBEC4BEF94BBE0EFE04F0E2
+    hash: 7fd5227a307737494ebec4bef94bbe0efe04f0e2
     size: 0
     tracks: 0

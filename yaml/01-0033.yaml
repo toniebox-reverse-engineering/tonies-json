@@ -1,5 +1,5 @@
 article: 01-0033
-last-update: 1698936991
+last-update: 1698946172
 lock-data: false
 data:
 - series: Der Räuber Hotzenplotz
@@ -17,10 +17,10 @@ data:
   track-desc: []
   ids:
   - audio-id: 1486489725
-    hash: 193C3AE24BF8487BA2C6D0D8CF851B89EAB989CF
+    hash: 193c3ae24bf8487ba2c6d0d8cf851b89eab989cf
     size: 0
     tracks: 0
   - audio-id: 1505650651
-    hash: 9D4F1456D8E95DB03991E4DE8ECB43E5CD7F908B
+    hash: 9d4f1456d8e95db03991e4de8ecb43e5cd7f908b
     size: 0
     tracks: 0

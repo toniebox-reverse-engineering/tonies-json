@@ -1,5 +1,5 @@
 article: '10000527'
-last-update: 1698940511
+last-update: 1698946180
 lock-data: false
 data:
 - series: Affenzahn Utopia
@@ -42,6 +42,6 @@ data:
   - 'Kapitel 25: Die Abenteuer von Affenzahn'
   ids:
   - audio-id: 1615474093
-    hash: C7856682CF6785CCEB9B61E2F03DFE4B4B0174A7
+    hash: c7856682cf6785cceb9b61e2f03dfe4b4b0174a7
     size: 0
     tracks: 0

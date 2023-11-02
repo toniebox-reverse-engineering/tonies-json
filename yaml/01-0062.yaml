@@ -1,5 +1,5 @@
 article: 01-0062
-last-update: 1698940510
+last-update: 1698946179
 lock-data: false
 data:
 - series: Unser Sandmännchen
@@ -27,6 +27,6 @@ data:
   - Das Schlaflied aus dem Radio
   ids:
   - audio-id: 1527152598
-    hash: F22E73DE2EFC60FC313C27CCFBA87DAC0AC23F1E
+    hash: f22e73de2efc60fc313c27ccfba87dac0ac23f1e
     size: 0
     tracks: 0

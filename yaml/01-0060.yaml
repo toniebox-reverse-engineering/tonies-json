@@ -1,5 +1,5 @@
 article: 01-0060
-last-update: 1698940510
+last-update: 1698946178
 lock-data: false
 data:
 - series: Wickie
@@ -30,6 +30,6 @@ data:
   - Gorm muss verschwinden
   ids:
   - audio-id: 1503563886
-    hash: 2357B01BBB21A544917EB22C5D9E24C43D976487
+    hash: 2357b01bbb21a544917eb22c5d9e24c43d976487
     size: 0
     tracks: 0

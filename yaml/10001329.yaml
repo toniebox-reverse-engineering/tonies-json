@@ -1,5 +1,5 @@
 article: '10001329'
-last-update: 1698940509
+last-update: 1698946178
 lock-data: false
 data:
 - series: Schlummerbande
@@ -31,6 +31,6 @@ data:
   - Instrumental
   ids:
   - audio-id: 1669741999
-    hash: 4432DBA3382F5EB9A50DC68F9B876C4A4A4312F3
+    hash: 4432dba3382f5eb9a50dc68f9b876c4a4a4312f3
     size: 0
     tracks: 0

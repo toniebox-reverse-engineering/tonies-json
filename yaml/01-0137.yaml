@@ -1,5 +1,5 @@
 article: 01-0137
-last-update: 1698936991
+last-update: 1698946172
 lock-data: false
 data:
 - series: Stockmann
@@ -17,6 +17,6 @@ data:
   track-desc: []
   ids:
   - audio-id: 1516115039
-    hash: 71B071B6F06FDE25C2207D779C6D6EE2D6F6D610
+    hash: 71b071b6f06fde25c2207d779c6d6ee2d6f6d610
     size: 0
     tracks: 0

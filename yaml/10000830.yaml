@@ -1,5 +1,5 @@
 article: '10000830'
-last-update: 1698940330
+last-update: 1698946178
 lock-data: false
 data:
 - series: Lieblings-Kinderlieder
@@ -38,6 +38,6 @@ data:
   - Wer hat die schönsten Schäfchen
   ids:
   - audio-id: 1623662483
-    hash: 329B411BA117F4BB8E781AF022D96D04F44111D8
+    hash: 329b411ba117f4bb8e781af022d96d04f44111d8
     size: 0
     tracks: 0

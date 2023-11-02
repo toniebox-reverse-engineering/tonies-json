@@ -1,5 +1,5 @@
 article: 01-0009
-last-update: 1698940510
+last-update: 1698946178
 lock-data: false
 data:
 - series: Bobo Siebenschläfer
@@ -24,6 +24,6 @@ data:
   - Bobos Ausflug zum Spielplatz
   ids:
   - audio-id: 1490953780
-    hash: AF67D62142CF08D524DC4076F9547B80C3BA3371
+    hash: af67d62142cf08d524dc4076f9547b80c3ba3371
     size: 0
     tracks: 0

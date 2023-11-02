@@ -1,5 +1,5 @@
 article: '10000200'
-last-update: 1698940511
+last-update: 1698946179
 lock-data: false
 data:
 - series: Lieblings-Klassiker
@@ -22,6 +22,6 @@ data:
   - Tom Sawyer
   ids:
   - audio-id: 1579699189
-    hash: 23757D6C83C5DF54BCBF208D525FFE03AD6CACBB
+    hash: 23757d6c83c5df54bcbf208d525ffe03ad6cacbb
     size: 0
     tracks: 0

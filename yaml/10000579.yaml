@@ -1,5 +1,5 @@
 article: '10000579'
-last-update: 1698940512
+last-update: 1698946180
 lock-data: false
 data:
 - series: Hanni und Nanni
@@ -23,6 +23,6 @@ data:
   - Applaus!
   ids:
   - audio-id: 1623658942
-    hash: FD1AEB03D12B017C82B3F139192AD46F46866487
+    hash: fd1aeb03d12b017c82b3f139192ad46f46866487
     size: 0
     tracks: 0

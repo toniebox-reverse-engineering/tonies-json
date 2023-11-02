@@ -1,5 +1,5 @@
 article: 01-0200
-last-update: 1698940510
+last-update: 1698946179
 lock-data: false
 data:
 - series: Feuerwehrmann Sam
@@ -17,10 +17,10 @@ data:
   track-desc: []
   ids:
   - audio-id: 1539349655
-    hash: 147D4528EA01F49B0AEA106046F9562AE59931E1
+    hash: 147d4528ea01f49b0aea106046f9562ae59931e1
     size: 0
     tracks: 0
   - audio-id: 1642776958
-    hash: 8F706B3A20CBDF5BF26314C6873C6202E87174AB
+    hash: 8f706b3a20cbdf5bf26314c6873c6202e87174ab
     size: 0
     tracks: 0

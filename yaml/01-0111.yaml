@@ -1,5 +1,5 @@
 article: 01-0111
-last-update: 1698936991
+last-update: 1698946172
 lock-data: false
 data:
 - series: Bibi Blocksberg
@@ -17,6 +17,6 @@ data:
   track-desc: []
   ids:
   - audio-id: 1513704577
-    hash: 394225283CDDC2231769512C965C573201D2E359
+    hash: 394225283cddc2231769512c965c573201d2e359
     size: 0
     tracks: 0

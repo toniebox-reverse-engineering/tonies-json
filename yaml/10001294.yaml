@@ -1,5 +1,5 @@
 article: '10001294'
-last-update: 1698940512
+last-update: 1698946180
 lock-data: false
 data:
 - series: Steiff Soft Cuddly Friends
@@ -26,6 +26,6 @@ data:
   - Dino-Ball
   ids:
   - audio-id: 1632393133
-    hash: 5FF38836753E294B7A3FE71B08344B9AB687E986
+    hash: 5ff38836753e294b7a3fe71b08344b9ab687e986
     size: 0
     tracks: 0

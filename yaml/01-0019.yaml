@@ -1,5 +1,5 @@
 article: 01-0019
-last-update: 1698936991
+last-update: 1698946172
 lock-data: false
 data:
 - series: Der Grüffelo
@@ -17,6 +17,6 @@ data:
   track-desc: []
   ids:
   - audio-id: 1483546545
-    hash: CD1F1F3CF94F6AA6017C97107A929F74E662BE57
+    hash: cd1f1f3cf94f6aa6017c97107a929f74e662be57
     size: 0
     tracks: 0

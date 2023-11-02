@@ -1,5 +1,5 @@
 article: 01-0119
-last-update: 1698940511
+last-update: 1698946180
 lock-data: false
 data:
 - series: Elmer
@@ -22,6 +22,6 @@ data:
   - Elmar und der Teddybär
   ids:
   - audio-id: 1613995997
-    hash: 069CC60A7AA0A227C0ED791114879D7653516964
+    hash: 069cc60a7aa0a227c0ed791114879d7653516964
     size: 0
     tracks: 0

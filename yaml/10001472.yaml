@@ -1,5 +1,5 @@
 article: '10001472'
-last-update: 1698940513
+last-update: 1698946181
 lock-data: false
 data:
 - series: PAW Patrol
@@ -20,6 +20,6 @@ data:
   - Der Piratenschatz
   ids:
   - audio-id: 1666872595
-    hash: F9584E7F3F8B9E81FE9AA28CA13B5A4A28BC2970
+    hash: f9584e7f3f8b9e81fe9aa28ca13b5a4a28bc2970
     size: 0
     tracks: 0

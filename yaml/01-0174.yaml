@@ -1,5 +1,5 @@
 article: 01-0174
-last-update: 1698940510
+last-update: 1698946179
 lock-data: false
 data:
 - series: Bibi Blocksberg
@@ -26,6 +26,6 @@ data:
   - Zurück nach Hause
   ids:
   - audio-id: 1558437924
-    hash: EE40CB4895467A91E106135811FAE2414FE59747
+    hash: ee40cb4895467a91e106135811fae2414fe59747
     size: 0
     tracks: 0

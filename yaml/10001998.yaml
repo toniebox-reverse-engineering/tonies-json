@@ -1,5 +1,5 @@
 article: '10001998'
-last-update: 1698940514
+last-update: 1698946181
 lock-data: false
 data:
 - series: Bibi Blocksberg
@@ -18,6 +18,6 @@ data:
   - Die Junghexenbande
   ids:
   - audio-id: 1679410725
-    hash: E43D5063B936F55779CEFA5F3406A986ABE74BF9
+    hash: e43d5063b936f55779cefa5f3406a986abe74bf9
     size: 0
     tracks: 0

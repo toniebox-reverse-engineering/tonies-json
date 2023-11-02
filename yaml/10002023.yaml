@@ -1,5 +1,5 @@
 article: '10002023'
-last-update: 1698940513
+last-update: 1698946181
 lock-data: false
 data:
 - series: Secret Science Club
@@ -34,6 +34,6 @@ data:
   - 'Bonustrack: Interview mit zwei echten Forschenden'
   ids:
   - audio-id: 1666854957
-    hash: 5D3DF5D24D4AA5F28C3D507687C270EF78313C7E
+    hash: 5d3df5d24d4aa5f28c3d507687c270ef78313c7e
     size: 0
     tracks: 0

@@ -1,5 +1,5 @@
 article: '10001295'
-last-update: 1698940512
+last-update: 1698946180
 lock-data: false
 data:
 - series: Steiff Soft Cuddly Friends
@@ -26,6 +26,6 @@ data:
   - Der Meisterflitscher
   ids:
   - audio-id: 1632399239
-    hash: B9AF8845EA1D0F190045B83C28402EE97B2E3A62
+    hash: b9af8845ea1d0f190045b83c28402ee97b2e3a62
     size: 0
     tracks: 0

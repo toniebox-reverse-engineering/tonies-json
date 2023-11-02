@@ -1,5 +1,5 @@
 article: '10000994'
-last-update: 1698940514
+last-update: 1698946181
 lock-data: false
 data:
 - series: Lotta
@@ -27,6 +27,6 @@ data:
   - Bin ich nachts so ganz allein
   ids:
   - audio-id: 1676300856
-    hash: 47DFC05BEDD1FE3C0BB9582211A55F7825EF7364
+    hash: 47dfc05bedd1fe3c0bb9582211a55f7825ef7364
     size: 0
     tracks: 0

@@ -1,5 +1,5 @@
 article: '10001485'
-last-update: 1698940513
+last-update: 1698946181
 lock-data: false
 data:
 - series: Disney
@@ -22,6 +22,6 @@ data:
   - Ein schwerer Fall von Pikseritis
   ids:
   - audio-id: 1673429895
-    hash: 1254B3B7DC19D3DF616AFB171322D62C11E73F8B
+    hash: 1254b3b7dc19d3df616afb171322d62c11e73f8b
     size: 0
     tracks: 0

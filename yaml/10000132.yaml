@@ -1,5 +1,5 @@
 article: '10000132'
-last-update: 1698936991
+last-update: 1698946173
 lock-data: false
 data:
 - series: Fünf Freunde
@@ -17,6 +17,6 @@ data:
   track-desc: []
   ids:
   - audio-id: 1584722674
-    hash: D4AB8BD540E1CCE86986E338B7F966D83BF18B78
+    hash: d4ab8bd540e1cce86986e338b7f966d83bf18b78
     size: 0
     tracks: 0

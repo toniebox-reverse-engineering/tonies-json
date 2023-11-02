@@ -1,5 +1,5 @@
 article: '10000990'
-last-update: 1698940509
+last-update: 1698946178
 lock-data: false
 data:
 - series: Lieblings-Kinderlieder
@@ -40,10 +40,10 @@ data:
   - Das Jahreszeitenlied
   ids:
   - audio-id: 1646834315
-    hash: DD7837899555B206D13CAA2C320B7E924B77E37C
+    hash: dd7837899555b206d13caa2c320b7e924b77e37c
     size: 0
     tracks: 0
   - audio-id: 1649656803
-    hash: 67898C15E89350A1FCEE145A12C45B76A941E2E5
+    hash: 67898c15e89350a1fcee145a12c45b76a941e2e5
     size: 0
     tracks: 0

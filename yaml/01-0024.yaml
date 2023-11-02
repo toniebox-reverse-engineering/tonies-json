@@ -1,5 +1,5 @@
 article: 01-0024
-last-update: 1698940509
+last-update: 1698946178
 lock-data: false
 data:
 - series: Bobo Siebenschläfer
@@ -23,6 +23,6 @@ data:
   - Bobo im Freibad
   ids:
   - audio-id: 1490961165
-    hash: C9DC94F5FAA7FACD70C8A153B7C9C99C14F05ECF
+    hash: c9dc94f5faa7facd70c8a153b7c9c99c14f05ecf
     size: 0
     tracks: 0

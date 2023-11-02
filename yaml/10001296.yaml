@@ -1,5 +1,5 @@
 article: '10001296'
-last-update: 1698940512
+last-update: 1698946180
 lock-data: false
 data:
 - series: Steiff Soft Cuddly Friends
@@ -26,6 +26,6 @@ data:
   - Das große Scheunenfest
   ids:
   - audio-id: 1632399007
-    hash: EE966A6E5B6CF7134FA31C686A835C718EC0CF0F
+    hash: ee966a6e5b6cf7134fa31c686a835c718ec0cf0f
     size: 0
     tracks: 0

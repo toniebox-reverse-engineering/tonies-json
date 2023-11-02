@@ -1,5 +1,5 @@
 article: '10000911'
-last-update: 1698940513
+last-update: 1698946181
 lock-data: false
 data:
 - series: Willy Astor
@@ -59,6 +59,6 @@ data:
   - Ozeanische Klarinette (mit Mulo Francel)
   ids:
   - audio-id: 1650551002
-    hash: BEE399FC6B812A5EA7F6DEB8ADFE70DADFC54983
+    hash: bee399fc6b812a5ea7f6deb8adfe70dadfc54983
     size: 0
     tracks: 0

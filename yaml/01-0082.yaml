@@ -1,5 +1,5 @@
 article: 01-0082
-last-update: 1698940510
+last-update: 1698946178
 lock-data: false
 data:
 - series: Der kleine Prinz
@@ -44,6 +44,6 @@ data:
   - Das ist jetzt natürlich schon sechs Jahre her
   ids:
   - audio-id: 1506513728
-    hash: 161392572BEB9A55948089BF8FA6EC3528F48E84
+    hash: 161392572beb9a55948089bf8fa6ec3528f48e84
     size: 0
     tracks: 0

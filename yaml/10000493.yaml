@@ -1,5 +1,5 @@
 article: '10000493'
-last-update: 1698940512
+last-update: 1698946180
 lock-data: false
 data:
 - series: Bibi & Tina
@@ -40,6 +40,6 @@ data:
   - Mini-Hörspiel
   ids:
   - audio-id: 1633445007
-    hash: 75A7BE5A67F161E6F4852EF83A1511CC506EC378
+    hash: 75a7be5a67f161e6f4852ef83a1511cc506ec378
     size: 0
     tracks: 0

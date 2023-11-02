@@ -1,5 +1,5 @@
 article: '10000693'
-last-update: 1698940511
+last-update: 1698946180
 lock-data: false
 data:
 - series: Der Räuber Hotzenplotz
@@ -21,6 +21,6 @@ data:
   - Der Räuber im Käfig
   ids:
   - audio-id: 1611158308
-    hash: CA4C9EE5BC87E466FB7B7C40489E022F5AC196F0
+    hash: ca4c9ee5bc87e466fb7b7c40489e022f5ac196f0
     size: 0
     tracks: 0

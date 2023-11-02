@@ -1,5 +1,5 @@
 article: 01-0051
-last-update: 1698940510
+last-update: 1698946178
 lock-data: false
 data:
 - series: Kikaninchen
@@ -27,10 +27,10 @@ data:
   - Der Riese und die Maus
   ids:
   - audio-id: 1499761300
-    hash: 57AF01BF655803F39E063D0EE3F80984D93BB93A
+    hash: 57af01bf655803f39e063d0ee3f80984d93bb93a
     size: 0
     tracks: 0
   - audio-id: 1679323400
-    hash: 14DEF5A738FDCD872EA5987107CBC8E106A4ED7B
+    hash: 14def5a738fdcd872ea5987107cbc8e106a4ed7b
     size: 0
     tracks: 0

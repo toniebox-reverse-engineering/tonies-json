@@ -1,5 +1,5 @@
 article: 01-0110
-last-update: 1698936991
+last-update: 1698946172
 lock-data: false
 data:
 - series: Der kleine Rabe Socke
@@ -17,6 +17,6 @@ data:
   track-desc: []
   ids:
   - audio-id: 1506518482
-    hash: E2DDCB9E5B8B331F2A0CD9EC67F059201B813117
+    hash: e2ddcb9e5b8b331f2a0cd9ec67f059201b813117
     size: 0
     tracks: 0

@@ -1,5 +1,5 @@
 article: '10000320'
-last-update: 1698940511
+last-update: 1698946180
 lock-data: false
 data:
 - series: PAW Patrol
@@ -21,10 +21,10 @@ data:
   - Das Riesenbaby
   ids:
   - audio-id: 1625126376
-    hash: 938A1698332EED922168645A3FA95E86C732584B
+    hash: 938a1698332eed922168645a3fa95e86c732584b
     size: 0
     tracks: 0
   - audio-id: 1641108531
-    hash: B0385E1D0D3955659271316ECF7F98A075B6BB32
+    hash: b0385e1d0d3955659271316ecf7f98a075b6bb32
     size: 0
     tracks: 0

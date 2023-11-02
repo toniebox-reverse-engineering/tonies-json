@@ -1,5 +1,5 @@
 article: 10-0001
-last-update: 1698936991
+last-update: 1698946173
 lock-data: false
 data:
 - series: Minimusiker
@@ -17,10 +17,10 @@ data:
   track-desc: []
   ids:
   - audio-id: 1575064246
-    hash: 0513A5510AD394D5B6D65073F09862DF4A7AB437
+    hash: 0513a5510ad394d5b6d65073f09862df4a7ab437
     size: 0
     tracks: 0
   - audio-id: 1573742024
-    hash: E7783B4ECECEB0A03B4C8C25314434DFF13D2FCB
+    hash: e7783b4ececeb0a03b4c8c25314434dff13d2fcb
     size: 0
     tracks: 0

@@ -1,5 +1,5 @@
 article: '10000794'
-last-update: 1698940513
+last-update: 1698946181
 lock-data: false
 data:
 - series: Der magische Blumenladen
@@ -28,6 +28,6 @@ data:
   - Ein Geheimnis kommt selten allein
   ids:
   - audio-id: 1651050000
-    hash: 7BFED33E2B4BAA38BEEC9A48389CCBADE68805C0
+    hash: 7bfed33e2b4baa38beec9a48389ccbade68805c0
     size: 0
     tracks: 0

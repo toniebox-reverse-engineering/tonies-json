@@ -1,5 +1,5 @@
 article: '10000131'
-last-update: 1698940511
+last-update: 1698946179
 lock-data: false
 data:
 - series: Fünf Freunde
@@ -25,6 +25,6 @@ data:
   - Das kann nur Timmy!
   ids:
   - audio-id: 1584703650
-    hash: 0AAAE29675A2D1C4F60868C2EFBE86CD5D2A97D9
+    hash: 0aaae29675a2d1c4f60868c2efbe86cd5d2a97d9
     size: 0
     tracks: 0

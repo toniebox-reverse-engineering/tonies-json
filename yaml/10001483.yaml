@@ -1,5 +1,5 @@
 article: '10001483'
-last-update: 1698940514
+last-update: 1698946181
 lock-data: false
 data:
 - series: Gloria Glühwürmchen
@@ -36,6 +36,6 @@ data:
   - Gloria-Lied
   ids:
   - audio-id: 1676034089
-    hash: AC18A1A2EFCC3047B848E8990D646DB65ADF307E
+    hash: ac18a1a2efcc3047b848e8990d646db65adf307e
     size: 0
     tracks: 0

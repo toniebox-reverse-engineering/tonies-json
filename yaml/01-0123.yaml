@@ -1,5 +1,5 @@
 article: 01-0123
-last-update: 1698936991
+last-update: 1698946172
 lock-data: false
 data:
 - series: Rotz 'n' Roll Radio
@@ -17,6 +17,6 @@ data:
   track-desc: []
   ids:
   - audio-id: 1504025966
-    hash: 6C0B924F1B5D4E898A2F2A8F23DEEF96A1F32D95
+    hash: 6c0b924f1b5d4e898a2f2a8f23deef96a1f32d95
     size: 0
     tracks: 0

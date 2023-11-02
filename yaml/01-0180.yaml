@@ -1,5 +1,5 @@
 article: 01-0180
-last-update: 1698940511
+last-update: 1698946179
 lock-data: false
 data:
 - series: Disney
@@ -24,10 +24,10 @@ data:
   - Happy End/ In deiner Welt (Finale)
   ids:
   - audio-id: 1567169844
-    hash: 59BDC6D17969BE4FF168F1190B73C8765A780A7D
+    hash: 59bdc6d17969be4ff168f1190b73c8765a780a7d
     size: 0
     tracks: 0
   - audio-id: 1684838561
-    hash: 2A12E62B963E6587FB1BB039D39D4E139DBEEECF
+    hash: 2a12e62b963e6587fb1bb039d39d4e139dbeeecf
     size: 0
     tracks: 0

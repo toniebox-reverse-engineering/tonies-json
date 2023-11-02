@@ -1,5 +1,5 @@
 article: 01-0003
-last-update: 1698940510
+last-update: 1698946178
 lock-data: false
 data:
 - series: Die Olchis
@@ -25,6 +25,6 @@ data:
   - Olchi-Lied
   ids:
   - audio-id: 1490952874
-    hash: F609BA65B01FB1EAAF3201E0EB3387B75AADEA21
+    hash: f609ba65b01fb1eaaf3201e0eb3387b75aadea21
     size: 0
     tracks: 0

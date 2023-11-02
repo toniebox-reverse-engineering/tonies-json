@@ -1,5 +1,5 @@
 article: '10001106'
-last-update: 1698940513
+last-update: 1698946181
 lock-data: false
 data:
 - series: Lieblings-Kinderlieder
@@ -41,6 +41,6 @@ data:
   - Alle Leut
   ids:
   - audio-id: 1653373826
-    hash: 654A0321F0404439D966BD9EBDED570062C4F3C3
+    hash: 654a0321f0404439d966bd9ebded570062c4f3c3
     size: 0
     tracks: 0

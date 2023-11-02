@@ -1,5 +1,5 @@
 article: 01-0036
-last-update: 1698940510
+last-update: 1698946178
 lock-data: false
 data:
 - series: Bibi & Tina
@@ -26,10 +26,10 @@ data:
   - Heimkehr
   ids:
   - audio-id: 1486648850
-    hash: 98FA163BF48F71C08CDE709D50A539DD147DCBA9
+    hash: 98fa163bf48f71c08cde709d50a539dd147dcba9
     size: 0
     tracks: 0
   - audio-id: 1599063181
-    hash: 7C32BD51D1D686CE179B182014075CC6C9910C44
+    hash: 7c32bd51d1d686ce179b182014075cc6c9910c44
     size: 0
     tracks: 0

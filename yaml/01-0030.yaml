@@ -1,5 +1,5 @@
 article: 01-0030
-last-update: 1698940510
+last-update: 1698946178
 lock-data: false
 data:
 - series: Bibi Blocksberg
@@ -30,6 +30,6 @@ data:
   - Kapitel 13
   ids:
   - audio-id: 1486558877
-    hash: 25C613A357AF4A24447D0CAA437AC64A41081762
+    hash: 25c613a357af4a24447d0caa437ac64a41081762
     size: 0
     tracks: 0

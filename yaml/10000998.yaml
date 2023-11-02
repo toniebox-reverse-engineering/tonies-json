@@ -1,5 +1,5 @@
 article: '10000998'
-last-update: 1698940513
+last-update: 1698946181
 lock-data: false
 data:
 - series: Die kleine Hexe
@@ -30,6 +30,6 @@ data:
   - Kleine-Hexe-Titelmusik
   ids:
   - audio-id: 1656082085
-    hash: B5DD91E588B8B04BD1EBA892C40B46E7C3910936
+    hash: b5dd91e588b8b04bd1eba892c40b46e7c3910936
     size: 0
     tracks: 0

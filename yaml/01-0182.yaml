@@ -1,5 +1,5 @@
 article: 01-0182
-last-update: 1698936991
+last-update: 1698946173
 lock-data: false
 data:
 - series: TKKG Junior
@@ -17,6 +17,6 @@ data:
   track-desc: []
   ids:
   - audio-id: 1542991950
-    hash: B808F5868B33E4F431F2D77ADB05345F750DC4F3
+    hash: b808f5868b33e4f431f2d77adb05345f750dc4f3
     size: 0
     tracks: 0

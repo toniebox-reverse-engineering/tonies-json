@@ -1,5 +1,5 @@
 article: '10000371'
-last-update: 1698940511
+last-update: 1698946180
 lock-data: false
 data:
 - series: Kikaninchen
@@ -35,6 +35,6 @@ data:
   - Müde genug
   ids:
   - audio-id: 1610722877
-    hash: 982E3EA5B91CE0428910916F4D3F45922803A964
+    hash: 982e3ea5b91ce0428910916f4d3f45922803a964
     size: 0
     tracks: 0

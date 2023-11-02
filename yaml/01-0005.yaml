@@ -1,5 +1,5 @@
 article: 01-0005
-last-update: 1698940510
+last-update: 1698946178
 lock-data: false
 data:
 - series: Der kleine Rabe Socke
@@ -28,6 +28,6 @@ data:
   - Alles Urlaub? 5
   ids:
   - audio-id: 1490953718
-    hash: E4813D6B2C98D3BE0B5646EBC6B69C53A0AAB713
+    hash: e4813d6b2c98d3be0b5646ebc6b69c53a0aab713
     size: 0
     tracks: 0

@@ -1,5 +1,5 @@
 article: 01-0027
-last-update: 1698940510
+last-update: 1698946178
 lock-data: false
 data:
 - series: Ritter Rost
@@ -30,6 +30,6 @@ data:
   - Ein Bad In Der Lava (2)
   ids:
   - audio-id: 1486543535
-    hash: BF9374148A23770463CDAB0574F3E82BACCA281B
+    hash: bf9374148a23770463cdab0574f3e82bacca281b
     size: 0
     tracks: 0

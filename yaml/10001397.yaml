@@ -1,5 +1,5 @@
 article: '10001397'
-last-update: 1698940513
+last-update: 1698946181
 lock-data: false
 data:
 - series: Schlummerbande
@@ -33,6 +33,6 @@ data:
   - 'Johann Sebastian Bach: Arioso, Adagio (aus Kantate BWV 156)'
   ids:
   - audio-id: 1673445177
-    hash: 0568BFC0D638A529D26123673551D58436A3FFC9
+    hash: 0568bfc0d638a529d26123673551d58436a3ffc9
     size: 0
     tracks: 0

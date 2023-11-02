@@ -1,5 +1,5 @@
 article: 01-0184
-last-update: 1698940510
+last-update: 1698946179
 lock-data: false
 data:
 - series: Disney
@@ -21,10 +21,10 @@ data:
   - 'Kapitel 04: Cars'
   ids:
   - audio-id: 1567698840
-    hash: 24AB3FFC29605649811503965848C607AAF38E5E
+    hash: 24ab3ffc29605649811503965848c607aaf38e5e
     size: 0
     tracks: 0
   - audio-id: 1684838575
-    hash: BF7DE53AB340FC423E545D34C8E7939294193BEC
+    hash: bf7de53ab340fc423e545d34c8e7939294193bec
     size: 0
     tracks: 0

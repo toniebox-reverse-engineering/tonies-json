@@ -1,5 +1,5 @@
 article: 01-0186
-last-update: 1698936991
+last-update: 1698946173
 lock-data: false
 data:
 - series: Zogg
@@ -17,6 +17,6 @@ data:
   track-desc: []
   ids:
   - audio-id: 1550242130
-    hash: 55C9095A550D780D5F3C954EB6CAF420810E48F0
+    hash: 55c9095a550d780d5f3c954eb6caf420810e48f0
     size: 0
     tracks: 0

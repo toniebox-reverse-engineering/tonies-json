@@ -1,5 +1,5 @@
 article: '10000614'
-last-update: 1698940513
+last-update: 1698946181
 lock-data: false
 data:
 - series: Die unendliche Geschichte
@@ -27,6 +27,6 @@ data:
   - Bastian schließt das Buch
   ids:
   - audio-id: 1660900888
-    hash: 7FFE15C2B4ED7A1375F5A6852B46F9821D004C9D
+    hash: 7ffe15c2b4ed7a1375f5a6852b46f9821d004c9d
     size: 0
     tracks: 0

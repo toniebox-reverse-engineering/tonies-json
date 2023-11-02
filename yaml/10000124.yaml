@@ -1,5 +1,5 @@
 article: '10000124'
-last-update: 1698936991
+last-update: 1698946173
 lock-data: false
 data:
 - series: St. Pauli Rabauken
@@ -17,6 +17,6 @@ data:
   track-desc: []
   ids:
   - audio-id: 1582832845
-    hash: 366DC26D368B6696EA5BF15EC4B5C67263AD6A57
+    hash: 366dc26d368b6696ea5bf15ec4b5c67263ad6a57
     size: 0
     tracks: 0

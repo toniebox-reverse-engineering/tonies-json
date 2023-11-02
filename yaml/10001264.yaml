@@ -1,5 +1,5 @@
 article: '10001264'
-last-update: 1698940513
+last-update: 1698946181
 lock-data: false
 data:
 - series: Snöfrid aus dem Wiesental
@@ -18,6 +18,6 @@ data:
   - '1 – 18: Das wahrlich große Geheimnis von Appelgarden'
   ids:
   - audio-id: 1650637322
-    hash: A40CB1F5036C2DE96F740514514C58FD49612340
+    hash: a40cb1f5036c2de96f740514514c58fd49612340
     size: 0
     tracks: 0

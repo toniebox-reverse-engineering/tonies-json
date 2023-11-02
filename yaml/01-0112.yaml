@@ -1,5 +1,5 @@
 article: 01-0112
-last-update: 1698940510
+last-update: 1698946179
 lock-data: false
 data:
 - series: Anne Kaffeekanne
@@ -29,10 +29,10 @@ data:
   - Lioliola-Lied
   ids:
   - audio-id: 1505737657
-    hash: 4423859B12F029F8879A0B2DDC4F886EF568FFB8
+    hash: 4423859b12f029f8879a0b2ddc4f886ef568ffb8
     size: 0
     tracks: 0
   - audio-id: 1684759374
-    hash: DED749B166C64BBB24FD7827E357FD5164A0177D
+    hash: ded749b166c64bbb24fd7827e357fd5164a0177d
     size: 0
     tracks: 0

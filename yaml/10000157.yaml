@@ -1,5 +1,5 @@
 article: '10000157'
-last-update: 1698940511
+last-update: 1698946179
 lock-data: false
 data:
 - series: Wickie
@@ -32,11 +32,11 @@ data:
   - Tjure singt
   ids:
   - audio-id: 1583162697
-    hash: 56F98ACBF824BA9CBD8A7170C3030ED1CA6AE97C
+    hash: 56f98acbf824ba9cbd8a7170c3030ed1ca6ae97c
     size: 0
     tracks: 0
   - audio-id: 1632485931
-    hash: 9199B7D7910AFC2A6CBDEA3D0B3F4DB7F3EA6FCC
+    hash: 9199b7d7910afc2a6cbdea3d0b3f4db7f3ea6fcc
     size: 0
     tracks: 0
 - series: Wickie
@@ -54,6 +54,6 @@ data:
   track-desc: []
   ids:
   - audio-id: 1583162697
-    hash: 60A19A077A32F9FD7754BDB9729C87159E039056
+    hash: 60a19a077a32f9fd7754bdb9729c87159e039056
     size: 0
     tracks: 0

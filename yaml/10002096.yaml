@@ -1,5 +1,5 @@
 article: '10002096'
-last-update: 1698940514
+last-update: 1698946182
 lock-data: false
 data:
 - series: Yoga Geschichten
@@ -28,4 +28,8 @@ data:
   - Der Schmetterling
   - Der Adler mit dem durchdringenden Blick
   - Der Berg
-  ids: []
+  ids:
+  - audio-id: 1688474903
+    hash: 7b23030039707944302ecfcdd418464827e21dd0
+    size: 0
+    tracks: 0

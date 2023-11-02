@@ -1,5 +1,5 @@
 article: 01-0104
-last-update: 1698940510
+last-update: 1698946178
 lock-data: false
 data:
 - series: Eule findet den Beat
@@ -55,10 +55,10 @@ data:
   - Finde den Beat
   ids:
   - audio-id: 1505225683
-    hash: EE98EC1D9560965F3D0EF4C18FA54FBACD216357
+    hash: ee98ec1d9560965f3d0ef4c18fa54fbacd216357
     size: 0
     tracks: 0
   - audio-id: 1663574097
-    hash: 84E63A3DE4D36C0C8DC8A22FCA45D29ADBB69AF8
+    hash: 84e63a3de4d36c0c8dc8a22fca45d29adbb69af8
     size: 0
     tracks: 0

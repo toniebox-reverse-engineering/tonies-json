@@ -1,5 +1,5 @@
 article: '10000362'
-last-update: 1698940509
+last-update: 1698946178
 lock-data: false
 data:
 - series: Der kleine König
@@ -24,6 +24,6 @@ data:
   - Verabschiedung
   ids:
   - audio-id: 1644247935
-    hash: EEFAD5DCF9F5A9A2B0A26517843AAA68C6D2DE6B
+    hash: eefad5dcf9f5a9a2b0a26517843aaa68c6d2de6b
     size: 0
     tracks: 0

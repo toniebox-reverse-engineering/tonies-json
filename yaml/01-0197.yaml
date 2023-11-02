@@ -1,5 +1,5 @@
 article: 01-0197
-last-update: 1698940510
+last-update: 1698946179
 lock-data: false
 data:
 - series: Die Biene Maja
@@ -32,6 +32,6 @@ data:
   - Maja soll verbannt werden
   ids:
   - audio-id: 1558432319
-    hash: E8BC45A6FFC759867764D4A25640730EB0C51082
+    hash: e8bc45a6ffc759867764d4a25640730eb0c51082
     size: 0
     tracks: 0

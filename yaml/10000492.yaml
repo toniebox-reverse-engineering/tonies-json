@@ -1,5 +1,5 @@
 article: '10000492'
-last-update: 1698940511
+last-update: 1698946180
 lock-data: false
 data:
 - series: Lichterkinder
@@ -37,10 +37,10 @@ data:
   - Lichterkinder
   ids:
   - audio-id: 1613149310
-    hash: 5F15E51E64554B34346021C5C749FE8DB386C1F0
+    hash: 5f15e51e64554b34346021c5c749fe8db386c1f0
     size: 0
     tracks: 0
   - audio-id: 1679322877
-    hash: 32951D29411353D8C1F63FE2477F2ECC9BFF6634
+    hash: 32951d29411353d8c1f63fe2477f2ecc9bff6634
     size: 0
     tracks: 0

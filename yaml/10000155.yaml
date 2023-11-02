@@ -1,5 +1,5 @@
 article: '10000155'
-last-update: 1698940511
+last-update: 1698946179
 lock-data: false
 data:
 - series: Lieblings-Klassiker
@@ -22,6 +22,6 @@ data:
   - Die Reise zum Mittelpunkt der Erde
   ids:
   - audio-id: 1571392711
-    hash: 95337091AC44A718EB91E4EBD8AFF98F8D7CEB8D
+    hash: 95337091ac44a718eb91e4ebd8aff98f8d7ceb8d
     size: 0
     tracks: 0

@@ -1,5 +1,5 @@
 article: '10001367'
-last-update: 1698940513
+last-update: 1698946181
 lock-data: false
 data:
 - series: Der Grolltroll
@@ -30,6 +30,6 @@ data:
   - Gutenacht-Lied
   ids:
   - audio-id: 1673441034
-    hash: 60028B2555D49D7899E2BA3C535466D77F2FC38B
+    hash: 60028b2555d49d7899e2ba3c535466d77f2fc38b
     size: 0
     tracks: 0

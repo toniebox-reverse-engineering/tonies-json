@@ -1,5 +1,5 @@
 article: '10000146'
-last-update: 1698940510
+last-update: 1698946179
 lock-data: false
 data:
 - series: Minimusiker
@@ -34,6 +34,6 @@ data:
   - Augen zu
   ids:
   - audio-id: 1565696183
-    hash: 0E6D030E40AB272DBED5F7CB06C43EB2B9E1179D
+    hash: 0e6d030e40ab272dbed5f7cb06c43eb2b9e1179d
     size: 0
     tracks: 0

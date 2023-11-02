@@ -1,5 +1,5 @@
 article: '10000909'
-last-update: 1698940514
+last-update: 1698946182
 lock-data: false
 data:
 - series: Der kleine Elefant
@@ -23,6 +23,6 @@ data:
   - Der kleine Elefant, der so gerne einschlafen möchte (Kapitel 6)
   ids:
   - audio-id: 1691659153
-    hash: 87E064297F2D21FA6914D6B1C54224C2EAD46CC2
+    hash: 87e064297f2d21fa6914d6b1c54224c2ead46cc2
     size: 0
     tracks: 0

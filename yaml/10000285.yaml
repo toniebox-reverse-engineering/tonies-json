@@ -1,5 +1,5 @@
 article: '10000285'
-last-update: 1698940511
+last-update: 1698946179
 lock-data: false
 data:
 - series: Disney
@@ -23,6 +23,6 @@ data:
   - 'Kapitel 06: Die Monster AG'
   ids:
   - audio-id: 1603457557
-    hash: 0ED88036E887A367CCFABB0526723A490A45684F
+    hash: 0ed88036e887a367ccfabb0526723a490a45684f
     size: 0
     tracks: 0

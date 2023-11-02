@@ -1,5 +1,5 @@
 article: 01-0144
-last-update: 1698936991
+last-update: 1698946173
 lock-data: false
 data:
 - series: Die Fuchsbande
@@ -17,6 +17,6 @@ data:
   track-desc: []
   ids:
   - audio-id: 1542990413
-    hash: CEEF707AB0614E6D069CFDC40DF3B5E96922FDB7
+    hash: ceef707ab0614e6d069cfdc40df3b5e96922fdb7
     size: 0
     tracks: 0

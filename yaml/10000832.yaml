@@ -1,5 +1,5 @@
 article: '10000832'
-last-update: 1698940512
+last-update: 1698946180
 lock-data: false
 data:
 - series: Lieblings-Kinderlieder
@@ -41,6 +41,6 @@ data:
   - Stille Nacht, heilige Nacht
   ids:
   - audio-id: 1628520341
-    hash: 5E26979F73425E70AAC9AB4F099B6C734094A5DB
+    hash: 5e26979f73425e70aac9ab4f099b6c734094a5db
     size: 0
     tracks: 0

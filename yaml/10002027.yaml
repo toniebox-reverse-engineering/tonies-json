@@ -1,5 +1,5 @@
 article: '10002027'
-last-update: 1698940513
+last-update: 1698946181
 lock-data: false
 data:
 - series: Steiff Soft Cuddly Friends
@@ -26,6 +26,6 @@ data:
   - Der vermisste Fisch
   ids:
   - audio-id: 1661173254
-    hash: E7ED6DF7824D4050A68C5603CACC81B2138D93FB
+    hash: e7ed6df7824d4050a68c5603cacc81b2138d93fb
     size: 0
     tracks: 0

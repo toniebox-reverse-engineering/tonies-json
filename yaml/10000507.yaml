@@ -1,5 +1,5 @@
 article: '10000507'
-last-update: 1698940512
+last-update: 1698946180
 lock-data: false
 data:
 - series: Unter meinem Bett
@@ -33,6 +33,6 @@ data:
   - Eine schöne Melodie (Lambert)
   ids:
   - audio-id: 1623839089
-    hash: 0AF4FDBAE4DB14B01731CCC1B3C035A2DC789DB0
+    hash: 0af4fdbae4db14b01731ccc1b3c035a2dc789db0
     size: 0
     tracks: 0

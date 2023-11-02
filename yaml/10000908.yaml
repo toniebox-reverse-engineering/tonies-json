@@ -1,5 +1,5 @@
 article: '10000908'
-last-update: 1698940330
+last-update: 1698946178
 lock-data: false
 data:
 - series: Die kleine Raupe Nimmersatt
@@ -25,6 +25,6 @@ data:
   - Schlaf gut! Die kleine Raupe Nimmersatt
   ids:
   - audio-id: 1668785697
-    hash: 802E3667543AC87FEE9CC11A60865BE95CC0AAD8
+    hash: 802e3667543ac87fee9cc11a60865be95cc0aad8
     size: 0
     tracks: 0

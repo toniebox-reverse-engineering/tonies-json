@@ -1,5 +1,5 @@
 article: 01-0102
-last-update: 1698936991
+last-update: 1698946172
 lock-data: false
 data:
 - series: Die drei !!!
@@ -17,6 +17,6 @@ data:
   track-desc: []
   ids:
   - audio-id: 1584954252
-    hash: 126AFC63FBB6B33200D453639A7BE89ECA1195BE
+    hash: 126afc63fbb6b33200d453639a7be89eca1195be
     size: 0
     tracks: 0

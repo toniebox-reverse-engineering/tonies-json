@@ -1,5 +1,5 @@
 article: '10000256'
-last-update: 1698940511
+last-update: 1698946179
 lock-data: false
 data:
 - series: Greg's Tagebuch
@@ -34,6 +34,6 @@ data:
   - 'Kapitel 17: Von Idioten umzingelt'
   ids:
   - audio-id: 1611141443
-    hash: C97EBA52DE65B16F13B9F822BCC44253CB7A8B9A
+    hash: c97eba52de65b16f13b9f822bcc44253cb7a8b9a
     size: 0
     tracks: 0

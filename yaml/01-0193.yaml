@@ -1,5 +1,5 @@
 article: 01-0193
-last-update: 1698940511
+last-update: 1698946179
 lock-data: false
 data:
 - series: Pettersson und Findus
@@ -18,7 +18,7 @@ data:
   - .
   ids:
   - audio-id: 1579696839
-    hash: C9FEC899B41930D42E1AC49065C48C66A89799DC
+    hash: c9fec899b41930d42e1ac49065c48c66a89799dc
     size: 0
     tracks: 0
 - series: Pettersson und Findus
@@ -36,6 +36,6 @@ data:
   track-desc: []
   ids:
   - audio-id: 1631260569
-    hash: FF5194E065C7644216B4DE1FF7D5B6389A032EB5
+    hash: ff5194e065c7644216b4de1ff7d5b6389a032eb5
     size: 0
     tracks: 0

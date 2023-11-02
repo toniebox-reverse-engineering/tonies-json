@@ -1,5 +1,5 @@
 article: '10000478'
-last-update: 1698940513
+last-update: 1698946181
 lock-data: false
 data:
 - series: Die Schlümpfe
@@ -21,6 +21,6 @@ data:
   - Waffel-Mittwoch
   ids:
   - audio-id: 1673618152
-    hash: 3448130FC75431C07DEDE67F2688D8E928BC68DB
+    hash: 3448130fc75431c07dede67f2688d8e928bc68db
     size: 0
     tracks: 0

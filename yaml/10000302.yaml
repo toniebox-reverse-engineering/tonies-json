@@ -1,5 +1,5 @@
 article: '10000302'
-last-update: 1698940511
+last-update: 1698946180
 lock-data: false
 data:
 - series: Die drei Räuber
@@ -34,6 +34,6 @@ data:
   - Räuberlieder
   ids:
   - audio-id: 1613142717
-    hash: 399DB744A1BFB10EF5141A4C0F3B23321C9167C0
+    hash: 399db744a1bfb10ef5141a4c0f3b23321c9167c0
     size: 0
     tracks: 0

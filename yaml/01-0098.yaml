@@ -1,5 +1,5 @@
 article: 01-0098
-last-update: 1698940510
+last-update: 1698946178
 lock-data: false
 data:
 - series: Die Eule mit der Beule
@@ -28,10 +28,10 @@ data:
   - Der Kuss von Papa hat gefehlt
   ids:
   - audio-id: 1506516170
-    hash: D734CBD53079912F5097F08C2D9853510534D0A8
+    hash: d734cbd53079912f5097f08c2d9853510534d0a8
     size: 0
     tracks: 0
   - audio-id: 1679496135
-    hash: 4C07CA6BEC61D74C58A6F0891D2EC8C14D1556AF
+    hash: 4c07ca6bec61d74c58a6f0891d2ec8c14d1556af
     size: 0
     tracks: 0

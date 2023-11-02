@@ -1,5 +1,5 @@
 article: '10001684'
-last-update: 1698940514
+last-update: 1698946182
 lock-data: false
 data:
 - series: Zoés Zauberschrank
@@ -19,4 +19,8 @@ data:
   - Regenbogenrätsel
   - Schatz Ahoi!
   - Die Farbe Rosa
-  ids: []
+  ids:
+  - audio-id: 1682667763
+    hash: a2b1eb3bfeeef5cbc5b3031679c7dc155aa93e75
+    size: 0
+    tracks: 0

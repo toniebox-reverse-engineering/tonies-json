@@ -1,5 +1,5 @@
 article: 05-0004
-last-update: 1698940510
+last-update: 1698946179
 lock-data: false
 data:
 - series: Die Playmos
@@ -33,6 +33,6 @@ data:
   - 'Kapitel 16: Licht aus dem Drachenland'
   ids:
   - audio-id: 1565699026
-    hash: C773B456C0C9A186689FAD02EE939FD9E8E26140
+    hash: c773b456c0c9a186689fad02ee939fd9e8e26140
     size: 0
     tracks: 0

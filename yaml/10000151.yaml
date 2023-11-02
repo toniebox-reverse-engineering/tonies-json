@@ -1,5 +1,5 @@
 article: '10000151'
-last-update: 1698940511
+last-update: 1698946179
 lock-data: false
 data:
 - series: Wieso? Weshalb? Warum? junior
@@ -38,6 +38,6 @@ data:
   - Mein kleines Wieso? Weshalb? Warum?-Lied (Extro)
   ids:
   - audio-id: 1587460860
-    hash: EC8B9F05BA84328D04D64A7348969EB99AE1777F
+    hash: ec8b9f05ba84328d04d64a7348969eb99ae1777f
     size: 0
     tracks: 0

@@ -1,5 +1,5 @@
 article: 01-0037
-last-update: 1698940510
+last-update: 1698946178
 lock-data: false
 data:
 - series: Bibi & Tina
@@ -25,6 +25,6 @@ data:
   - Abschied am Bahnhof
   ids:
   - audio-id: 1486649279
-    hash: 5DFACFF8A97C808852EE7CE631E4EB8B4E3290E4
+    hash: 5dfacff8a97c808852ee7ce631e4eb8b4e3290e4
     size: 0
     tracks: 0

@@ -1,5 +1,5 @@
 article: 01-0031
-last-update: 1698940510
+last-update: 1698946178
 lock-data: false
 data:
 - series: Wickie
@@ -32,6 +32,6 @@ data:
   - Muttermut
   ids:
   - audio-id: 1486650326
-    hash: 4C986C747CECCB881B41A5181BA4D46272860633
+    hash: 4c986c747ceccb881b41a5181ba4d46272860633
     size: 0
     tracks: 0

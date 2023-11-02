@@ -1,5 +1,5 @@
 article: 01-0161
-last-update: 1698940510
+last-update: 1698946179
 lock-data: false
 data:
 - series: Maus
@@ -31,6 +31,6 @@ data:
   - Nachspann
   ids:
   - audio-id: 1553257247
-    hash: 6218E017381B9568DA112286CFF383A1AE648BED
+    hash: 6218e017381b9568da112286cff383a1ae648bed
     size: 0
     tracks: 0

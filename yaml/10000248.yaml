@@ -1,5 +1,5 @@
 article: '10000248'
-last-update: 1698940511
+last-update: 1698946179
 lock-data: false
 data:
 - series: Yakari
@@ -18,6 +18,6 @@ data:
   - '1'
   ids:
   - audio-id: 1589539605
-    hash: B331CFF7FEC1D61E2C3B16C18692E997DA873105
+    hash: b331cff7fec1d61e2c3b16c18692e997da873105
     size: 0
     tracks: 0

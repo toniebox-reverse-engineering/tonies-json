@@ -1,5 +1,5 @@
 article: 01-0105
-last-update: 1698940510
+last-update: 1698946179
 lock-data: false
 data:
 - series: Janosch
@@ -20,6 +20,6 @@ data:
   - Der Maulwurf und die Fiedelgrille
   ids:
   - audio-id: 1516197093
-    hash: 379317010AB4888A58C347542213AC0E3656C105
+    hash: 379317010ab4888a58c347542213ac0e3656c105
     size: 0
     tracks: 0

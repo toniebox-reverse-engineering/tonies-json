@@ -1,5 +1,5 @@
 article: '10000898'
-last-update: 1698940513
+last-update: 1698946181
 lock-data: false
 data:
 - series: Jan Tenner
@@ -30,6 +30,6 @@ data:
   - Ausblick in die Zukunft
   ids:
   - audio-id: 1656412723
-    hash: 036DD3579EDE773C22804E4E08B1499DB57BB927
+    hash: 036dd3579ede773c22804e4e08b1499db57bb927
     size: 0
     tracks: 0

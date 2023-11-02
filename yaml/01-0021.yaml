@@ -1,5 +1,5 @@
 article: 01-0021
-last-update: 1698940510
+last-update: 1698946178
 lock-data: false
 data:
 - series: Unter meinem Bett
@@ -30,6 +30,6 @@ data:
   - '"Unter meinem Bett" von Nils Koppruch'
   ids:
   - audio-id: 1490968382
-    hash: 5B07154A51AE4BCA8AC39E529421C86466E66CAB
+    hash: 5b07154a51ae4bca8ac39e529421c86466e66cab
     size: 0
     tracks: 0

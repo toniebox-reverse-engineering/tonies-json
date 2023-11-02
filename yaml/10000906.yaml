@@ -1,5 +1,5 @@
 article: '10000906'
-last-update: 1698940512
+last-update: 1698946180
 lock-data: false
 data:
 - series: Das kleine WIR
@@ -18,6 +18,6 @@ data:
   - '1 – 10: Das kleine WIR'
   ids:
   - audio-id: 1648810807
-    hash: 4196C73CEFD3E597E423FE4D56E3913E1360AAD0
+    hash: 4196c73cefd3e597e423fe4d56e3913e1360aad0
     size: 0
     tracks: 0

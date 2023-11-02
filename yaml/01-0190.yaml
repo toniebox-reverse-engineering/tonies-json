@@ -1,5 +1,5 @@
 article: 01-0190
-last-update: 1698940510
+last-update: 1698946179
 lock-data: false
 data:
 - series: Disney
@@ -22,10 +22,10 @@ data:
   - Der König der Löwen
   ids:
   - audio-id: 1561483318
-    hash: 47B3817F9AA6C36DE171BCFC61C20B8318D42383
+    hash: 47b3817f9aa6c36de171bcfc61c20b8318d42383
     size: 0
     tracks: 0
   - audio-id: 1679397986
-    hash: 556920D81EC00D7AE6F0329A32BCE8430C306318
+    hash: 556920d81ec00d7ae6f0329a32bce8430c306318
     size: 0
     tracks: 0

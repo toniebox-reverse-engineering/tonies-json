@@ -1,5 +1,5 @@
 article: '10000993'
-last-update: 1698940513
+last-update: 1698946181
 lock-data: false
 data:
 - series: PAW Patrol
@@ -21,6 +21,6 @@ data:
   - Der fliegende Frosch
   ids:
   - audio-id: 1649853319
-    hash: 969C0BB849CED552785769F0759E90A12A78F84F
+    hash: 969c0bb849ced552785769f0759e90a12a78f84f
     size: 0
     tracks: 0

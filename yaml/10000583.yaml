@@ -1,5 +1,5 @@
 article: '10000583'
-last-update: 1698940512
+last-update: 1698946180
 lock-data: false
 data:
 - series: Pittiplatsch
@@ -30,6 +30,6 @@ data:
   - Erschreckerstreit
   ids:
   - audio-id: 1642170832
-    hash: 30C8922D8FE3B24091387D2EFAA3F849D4ED3A3F
+    hash: 30c8922d8fe3b24091387d2efaa3f849d4ed3a3f
     size: 0
     tracks: 0

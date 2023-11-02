@@ -1,5 +1,5 @@
 article: '10001107'
-last-update: 1698940512
+last-update: 1698946180
 lock-data: false
 data:
 - series: Lieblings-Kinderlieder
@@ -42,6 +42,6 @@ data:
   - Twinkle Twinkle Little Star
   ids:
   - audio-id: 1645795231
-    hash: 7D2343A08FF14F6A0268301986252CA39EFE2BB6
+    hash: 7d2343a08ff14f6a0268301986252ca39efe2bb6
     size: 0
     tracks: 0

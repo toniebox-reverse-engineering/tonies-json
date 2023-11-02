@@ -1,5 +1,5 @@
 article: 01-0164
-last-update: 1698940510
+last-update: 1698946179
 lock-data: false
 data:
 - series: Volker Rosin
@@ -33,10 +33,10 @@ data:
   - Jeder Tag geht mal zu Ende
   ids:
   - audio-id: 1542990628
-    hash: 14EBFB2A6A73ECF95335F470502D2671D36E9561
+    hash: 14ebfb2a6a73ecf95335f470502d2671d36e9561
     size: 0
     tracks: 0
   - audio-id: 1679322067
-    hash: 04E44DAE80184D80DC40CDA407F3C598A048DAC2
+    hash: 04e44dae80184d80dc40cda407f3c598a048dac2
     size: 0
     tracks: 0

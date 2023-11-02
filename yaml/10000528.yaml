@@ -1,5 +1,5 @@
 article: '10000528'
-last-update: 1698940512
+last-update: 1698946180
 lock-data: false
 data:
 - series: Asterix
@@ -23,10 +23,10 @@ data:
   - Asterix der Gallier – Teil 6
   ids:
   - audio-id: 1636449199
-    hash: A2F8C8A0AA9647CB4D17C198AAA28AC776FA3024
+    hash: a2f8c8a0aa9647cb4d17c198aaa28ac776fa3024
     size: 0
     tracks: 0
   - audio-id: 1673797048
-    hash: 5210C49ED761E08CB3179E13E17377036E5D1093
+    hash: 5210c49ed761e08cb3179e13e17377036e5d1093
     size: 0
     tracks: 0

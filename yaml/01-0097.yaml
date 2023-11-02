@@ -1,5 +1,5 @@
 article: 01-0097
-last-update: 1698936991
+last-update: 1698946172
 lock-data: false
 data:
 - series: Die Sendung mit dem Elefanten
@@ -17,10 +17,10 @@ data:
   track-desc: []
   ids:
   - audio-id: 1506953861
-    hash: 18006BCAA0A9F1EF808968039994922BD6C59487
+    hash: 18006bcaa0a9f1ef808968039994922bd6c59487
     size: 0
     tracks: 0
   - audio-id: 1679477143
-    hash: 38C79A929BD1475481CCBE1E9EA0D46C64FE8ADA
+    hash: 38c79a929bd1475481ccbe1e9ea0d46c64fe8ada
     size: 0
     tracks: 0

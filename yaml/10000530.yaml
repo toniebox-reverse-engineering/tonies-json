@@ -1,5 +1,5 @@
 article: '10000530'
-last-update: 1698940512
+last-update: 1698946180
 lock-data: false
 data:
 - series: Ostwind
@@ -30,6 +30,6 @@ data:
   - Ostwind 13
   ids:
   - audio-id: 1623426891
-    hash: 7B5B52EBB06C9663DCB2ACAB2825E8451D5DEA55
+    hash: 7b5b52ebb06c9663dcb2acab2825e8451d5dea55
     size: 0
     tracks: 0

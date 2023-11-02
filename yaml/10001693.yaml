@@ -1,5 +1,5 @@
 article: '10001693'
-last-update: 1698940513
+last-update: 1698946181
 lock-data: false
 data:
 - series: Rolf Zuckowski
@@ -31,10 +31,10 @@ data:
   - Frohe Ostern
   ids:
   - audio-id: 1666797375
-    hash: 53ABD2020B225A2F5B9008580435535AB7B72A00
+    hash: 53abd2020b225a2f5b9008580435535ab7b72a00
     size: 0
     tracks: 0
   - audio-id: 1673362091
-    hash: DD799F3C5BA366F4A4A63C515A397071985581FF
+    hash: dd799f3c5ba366f4a4a63c515a397071985581ff
     size: 0
     tracks: 0

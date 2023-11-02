@@ -1,5 +1,5 @@
 article: 01-0199
-last-update: 1698936991
+last-update: 1698946173
 lock-data: false
 data:
 - series: Gorilla Club
@@ -17,6 +17,6 @@ data:
   track-desc: []
   ids:
   - audio-id: 1561468413
-    hash: 07C89090059A1C8EA81FA21ACAF2F8528CD51A65
+    hash: 07c89090059a1c8ea81fa21acaf2f8528cd51a65
     size: 0
     tracks: 0

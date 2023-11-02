@@ -1,5 +1,5 @@
 article: 01-0006
-last-update: 1698940510
+last-update: 1698946178
 lock-data: false
 data:
 - series: Maus
@@ -34,6 +34,6 @@ data:
   - Verabschiedung
   ids:
   - audio-id: 1490969759
-    hash: C21ABA646527DF630E93BB6053E4CC9FA736B00B
+    hash: c21aba646527df630e93bb6053e4cc9fa736b00b
     size: 0
     tracks: 0

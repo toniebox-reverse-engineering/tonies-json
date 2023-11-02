@@ -1,5 +1,5 @@
 article: 01-0095
-last-update: 1698940510
+last-update: 1698946179
 lock-data: false
 data:
 - series: Die Eule mit der Beule
@@ -27,6 +27,6 @@ data:
   - An Weihnachten wird gefeiert
   ids:
   - audio-id: 1542989851
-    hash: 7D1ABF09D437B2EE160FCFE98E2573AF32D5235E
+    hash: 7d1abf09d437b2ee160fcfe98e2573af32d5235e
     size: 0
     tracks: 0
