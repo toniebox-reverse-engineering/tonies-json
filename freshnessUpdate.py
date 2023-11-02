@@ -101,8 +101,13 @@ for filename in os.listdir(auth_dir):
         data = None
         base = None
         id = YamlStruct.get_id()
-        # Look for a corresponding .data.yaml file
-        if os.path.exists(fileData):
+
+        if not os.path.exists(fileData):
+            base = YamlStruct.get_base()
+            data = YamlStruct.get_data()
+            base["article"] = article
+            base["data"].append(data)
+        else:
             with open(fileData, 'r') as data_yaml_file:
                 tmp_base = yaml.safe_load(data_yaml_file)
                 if tmp_base is not None and tmp_base["article"] == article and len(tmp_base["data"]) > 0:
@@ -208,7 +213,6 @@ if fc_response_data is not None:
         elif updated:
             fileData = last_yaml_info["fileData"]
             base = last_yaml_info["base"]
-            print_data(last_yaml_info["id"])
 
             base["last-update"] = int(time.time())
             base["data"][0]["ids"].insert(0, last_yaml_info["id"])
@@ -216,4 +220,5 @@ if fc_response_data is not None:
             with open(fileData, "w") as yaml_file:
                 yaml.safe_dump(base, yaml_file, default_flow_style=False, sort_keys=False, allow_unicode=True)
                 print(f'Updated data for article {article} to {fileData}:')
+                print_data(last_yaml_info["id"])
 
