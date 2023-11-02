@@ -1,5 +1,5 @@
 article: '10001349'
-last-update: 1698936707
+last-update: 1698936993
 lock-data: false
 data:
 - series: Les Copains Du Dodo
@@ -7,8 +7,8 @@ data:
   release: 1665619200
   language: fr-fr
   category: music
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001349-50004169-b--ht0H8CMD.png
   sample: null
@@ -18,5 +18,5 @@ data:
   ids:
   - audio-id: 1664284580
     hash: 75DE0AA33CED69BB6A7509CAB3406DFF1D89C52F
-    size: null
-    tracks: null
+    size: 0
+    tracks: 0

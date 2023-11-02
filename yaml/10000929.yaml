@@ -1,5 +1,5 @@
 article: '10000929'
-last-update: 1698936707
+last-update: 1698936993
 lock-data: false
 data:
 - series: My Little Pony
@@ -7,8 +7,8 @@ data:
   release: 1670371200
   language: de-de
   category: audio-play
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000929-50003048-b-cZC_wGNq.png
   sample: null
@@ -18,5 +18,5 @@ data:
   ids:
   - audio-id: 1668784072
     hash: 7A8E65D1F92F554988C46F18A6432F6310A21BAB
-    size: null
-    tracks: null
+    size: 0
+    tracks: 0

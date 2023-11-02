@@ -1,5 +1,5 @@
 article: '10001021'
-last-update: 1698936707
+last-update: 1698936993
 lock-data: false
 data:
 - series: 'Language: French'
@@ -7,8 +7,8 @@ data:
   release: 1657238400
   language: en-gb
   category: languages
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001021-50003352-b-ApvXOeq7.png
   sample: null
@@ -21,8 +21,8 @@ data:
   release: 1650499200
   language: fr-fr
   category: music
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001021-50003352-b-ApvXOeq7.png
   sample: null

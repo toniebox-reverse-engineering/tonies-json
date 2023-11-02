@@ -1,5 +1,5 @@
 article: 01-0108
-last-update: 1698936705
+last-update: 1698936991
 lock-data: false
 data:
 - series: Unter meinem Bett
@@ -7,8 +7,8 @@ data:
   release: 1511222400
   language: de-de
   category: music
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0108-98-0331-b-md0ZW4iF.png
   sample: null
@@ -18,5 +18,5 @@ data:
   ids:
   - audio-id: 1506522101
     hash: FFB1C3856DAC652008BFF6DEBAB4033A2B2A9E54
-    size: null
-    tracks: null
+    size: 0
+    tracks: 0

@@ -1,5 +1,5 @@
 article: '10000933'
-last-update: 1698936707
+last-update: 1698936993
 lock-data: false
 data:
 - series: Paw Patrol
@@ -7,8 +7,8 @@ data:
   release: 1645574400
   language: de-de
   category: audio-play
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000933-50003063-b-MBfhYJnn.png
   sample: null
@@ -18,5 +18,5 @@ data:
   ids:
   - audio-id: 1643643834
     hash: 9889122EDCCCF11F1E7ED72E6CBFC176BC7CC4A6
-    size: null
-    tracks: null
+    size: 0
+    tracks: 0

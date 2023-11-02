@@ -1,5 +1,5 @@
 article: '10000755'
-last-update: 1698936707
+last-update: 1698936992
 lock-data: false
 data:
 - series: Nap Time
@@ -7,8 +7,8 @@ data:
   release: 1611014400
   language: en-us
   category: Tonie
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-NatureSounds-Transparent_e54a2f8c-0442-4150-a636-bfaa516d064e.png?v=1629749759
   sample: null
@@ -18,5 +18,5 @@ data:
   ids:
   - audio-id: 1610702237
     hash: 437ED370650281CF35610AD8E798F36A688A588F
-    size: null
-    tracks: null
+    size: 0
+    tracks: 0

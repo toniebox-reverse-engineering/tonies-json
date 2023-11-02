@@ -1,5 +1,5 @@
 article: '10000543'
-last-update: 1698936706
+last-update: 1698936992
 lock-data: false
 data:
 - series: Peppa Pig
@@ -7,8 +7,8 @@ data:
   release: 1621296000
   language: en-us
   category: Tonie
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-PeppaPig-Transparent.png?v=1620930667
   sample: null
@@ -18,5 +18,5 @@ data:
   ids:
   - audio-id: 1618492730
     hash: 89FE66253BFE64D1D1DF63AB6F9D49C23E90D863
-    size: null
-    tracks: null
+    size: 0
+    tracks: 0

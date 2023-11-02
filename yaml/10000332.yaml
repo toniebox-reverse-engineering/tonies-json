@@ -1,5 +1,5 @@
 article: '10000332'
-last-update: 1698936706
+last-update: 1698936992
 lock-data: false
 data:
 - series: Kreativ-Tonie
@@ -7,8 +7,8 @@ data:
   release: 1600214400
   language: de-de
   category: Kreativ-Tonies
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://cdn.tonies.de/thumbnails/c2642215530ba0f1b0fac637a8943cf62697c6df.png
   sample: null
@@ -18,5 +18,5 @@ data:
   ids:
   - audio-id: 1
     hash: 1C3C74C3300468E4BE6C4CF0D082C34E4A9EBF1E
-    size: null
-    tracks: null
+    size: 0
+    tracks: 0

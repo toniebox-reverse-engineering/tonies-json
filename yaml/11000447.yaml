@@ -1,5 +1,5 @@
 article: '11000447'
-last-update: 1698936708
+last-update: 1698936994
 lock-data: false
 data:
 - series: 'Planet Omar: Accidental Trouble Magnet'
@@ -7,8 +7,8 @@ data:
   release: 1674432000
   language: en-us
   category: Tonie
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-planetomar-transparent.png?v=1674248694
   sample: null

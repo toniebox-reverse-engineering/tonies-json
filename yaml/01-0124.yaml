@@ -1,5 +1,5 @@
 article: 01-0124
-last-update: 1698936705
+last-update: 1698936991
 lock-data: false
 data:
 - series: Lieblings-Kinderlieder
@@ -7,8 +7,8 @@ data:
   release: 1506384000
   language: de-de
   category: Musik
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://cdn.tonies.de/o/images/84c482628d8619e9f7310ad807ce77d3fcbdb546c120a66413be53c5/01-0124-98-0346-b-SobhWaFv.png
   sample: null
@@ -18,5 +18,5 @@ data:
   ids:
   - audio-id: 1505232981
     hash: 0B5277535FFC20350E0D3379D89B3D9A663835B6
-    size: null
-    tracks: null
+    size: 0
+    tracks: 0

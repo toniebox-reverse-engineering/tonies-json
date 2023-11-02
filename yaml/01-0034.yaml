@@ -1,5 +1,5 @@
 article: 01-0034
-last-update: 1698936705
+last-update: 1698936991
 lock-data: false
 data:
 - series: Griechische Sagen
@@ -7,8 +7,8 @@ data:
   release: 1490313600
   language: de-de
   category: Wissen
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://cdn.tonies.de/o/images/22c70a8789a27d730e1663756847703ac93a3b560a44ad5f9e652b90/01-0034-b-XtRo_RGK.png
   sample: null
@@ -18,5 +18,5 @@ data:
   ids:
   - audio-id: 1490357985
     hash: E0CA0638FFEC056F4EC5991C19523370B3EE4EB3
-    size: null
-    tracks: null
+    size: 0
+    tracks: 0

@@ -1,5 +1,5 @@
 article: '10000880'
-last-update: 1698936707
+last-update: 1698936992
 lock-data: false
 data:
 - series: Frederick
@@ -7,8 +7,8 @@ data:
   release: 0
   language: de-de
   category: audio-play
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000880-50002887-b-yLu1IQAU.png
   sample: null
@@ -18,5 +18,5 @@ data:
   ids:
   - audio-id: 1644477021
     hash: 777B603609746D158A4127EB2318189CBBC2BDE3
-    size: null
-    tracks: null
+    size: 0
+    tracks: 0

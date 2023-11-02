@@ -1,5 +1,5 @@
 article: 01-0105
-last-update: 1698936705
+last-update: 1698936991
 lock-data: false
 data:
 - series: Janosch
@@ -7,8 +7,8 @@ data:
   release: 1517443200
   language: de-de
   category: audio-play
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0105-98-0327-b-pZgpaHwe.png
   sample: null
@@ -18,5 +18,5 @@ data:
   ids:
   - audio-id: 1516197093
     hash: 379317010AB4888A58C347542213AC0E3656C105
-    size: null
-    tracks: null
+    size: 0
+    tracks: 0

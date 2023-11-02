@@ -1,5 +1,5 @@
 article: '10000624'
-last-update: 1698936706
+last-update: 1698936992
 lock-data: false
 data:
 - series: Masha and the Bear
@@ -7,8 +7,8 @@ data:
   release: 1632355200
   language: en-us
   category: Tonie
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-masha-transparent.png?v=1629301598
   sample: null

@@ -1,5 +1,5 @@
 article: '10001248'
-last-update: 1698936707
+last-update: 1698936993
 lock-data: false
 data:
 - series: L'Heure De La Sieste
@@ -7,8 +7,8 @@ data:
   release: 0
   language: fr-fr
   category: music
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001248-50003815-b-H41YgT8L.png
   sample: null

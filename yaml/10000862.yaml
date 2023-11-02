@@ -1,5 +1,5 @@
 article: '10000862'
-last-update: 1698936707
+last-update: 1698936992
 lock-data: false
 data:
 - series: Disney
@@ -7,8 +7,8 @@ data:
   release: 1650499200
   language: fr-fr
   category: audio-play
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000862-50002793-b-I_d109Ke.png
   sample: null
@@ -18,5 +18,5 @@ data:
   ids:
   - audio-id: 1642425121
     hash: 9C7D07C459FA2139927EC8692181268329A68BAB
-    size: null
-    tracks: null
+    size: 0
+    tracks: 0

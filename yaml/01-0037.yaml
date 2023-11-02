@@ -1,5 +1,5 @@
 article: 01-0037
-last-update: 1698936705
+last-update: 1698936991
 lock-data: false
 data:
 - series: Bibi & Tina
@@ -7,8 +7,8 @@ data:
   release: 1491523200
   language: de-de
   category: audio-play
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0037-98-0113-b-T-BqhtEY.png
   sample: null
@@ -18,5 +18,5 @@ data:
   ids:
   - audio-id: 1486649279
     hash: 5DFACFF8A97C808852EE7CE631E4EB8B4E3290E4
-    size: null
-    tracks: null
+    size: 0
+    tracks: 0

@@ -1,5 +1,5 @@
 article: 01-0020
-last-update: 1698936705
+last-update: 1698936991
 lock-data: false
 data:
 - series: Die Olchis
@@ -7,8 +7,8 @@ data:
   release: 1481155200
   language: de-de
   category: audio-play
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0020-98-0091-b-HVOj8kjL.png
   sample: null
@@ -18,5 +18,5 @@ data:
   ids:
   - audio-id: 1490961684
     hash: 3CFAC73F49FD96CA3E6D420C603480D9E2F98AAE
-    size: null
-    tracks: null
+    size: 0
+    tracks: 0

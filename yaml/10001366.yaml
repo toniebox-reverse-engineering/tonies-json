@@ -1,5 +1,5 @@
 article: '10001366'
-last-update: 1698936707
+last-update: 1698936993
 lock-data: false
 data:
 - series: GoNoodle x tonies® Mindfulness Tonie
@@ -7,8 +7,8 @@ data:
   release: 1619481600
   language: en-us
   category: Tonie
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-GoNoodle-Transparent.png?v=1619539126
   sample: null
@@ -18,5 +18,5 @@ data:
   ids:
   - audio-id: 1618228258
     hash: 31FC68590D790FD76CCAF3152627DD085508CA94
-    size: null
-    tracks: null
+    size: 0
+    tracks: 0

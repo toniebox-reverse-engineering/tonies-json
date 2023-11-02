@@ -1,14 +1,14 @@
 article: 09-0101
-last-update: 1698936706
+last-update: 1698936991
 lock-data: false
 data:
 - series: DEMO TONIE
   episode: DEMO TONIE
-  release: null
+  release: 0
   language: de-de
   category: DEMO TONIE
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: ''
   sample: null
@@ -18,5 +18,5 @@ data:
   ids:
   - audio-id: 1501087019
     hash: 26AD7A48B7D153D1CEDA753AF25E38833DB340DF
-    size: null
-    tracks: null
+    size: 0
+    tracks: 0

@@ -1,5 +1,5 @@
 article: 01-0031
-last-update: 1698936705
+last-update: 1698936991
 lock-data: false
 data:
 - series: Wickie
@@ -7,8 +7,8 @@ data:
   release: 1490313600
   language: de-de
   category: audio-play
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0031-98-0107-b-ahLQEvh7.png
   sample: null
@@ -18,5 +18,5 @@ data:
   ids:
   - audio-id: 1486650326
     hash: 4C986C747CECCB881B41A5181BA4D46272860633
-    size: null
-    tracks: null
+    size: 0
+    tracks: 0

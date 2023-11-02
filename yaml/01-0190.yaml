@@ -1,5 +1,5 @@
 article: 01-0190
-last-update: 1698936705
+last-update: 1698936991
 lock-data: false
 data:
 - series: Disney
@@ -7,8 +7,8 @@ data:
   release: 1565827200
   language: de-de
   category: audio-play-songs
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0190-98-0582-b-a0Vs2yGR.png
   sample: null
@@ -18,9 +18,9 @@ data:
   ids:
   - audio-id: 1561483318
     hash: 47B3817F9AA6C36DE171BCFC61C20B8318D42383
-    size: null
-    tracks: null
+    size: 0
+    tracks: 0
   - audio-id: 1679397986
     hash: 556920D81EC00D7AE6F0329A32BCE8430C306318
-    size: null
-    tracks: null
+    size: 0
+    tracks: 0

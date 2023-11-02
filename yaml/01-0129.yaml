@@ -1,5 +1,5 @@
 article: 01-0129
-last-update: 1698936705
+last-update: 1698936991
 lock-data: false
 data:
 - series: Lieblings-Kinderlieder
@@ -7,8 +7,8 @@ data:
   release: 1499731200
   language: de-de
   category: Musik
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://cdn.tonies.de/o/images/a8fc1e7aa0863541363dfaddaabfcc68cab03a451d8630cc2accfcc4/01-0048-b-qDvlQhqu.png
   sample: null
@@ -18,5 +18,5 @@ data:
   ids:
   - audio-id: 1497370173
     hash: D59E8614F9624BF54DF3384C4315E2EE8757B425
-    size: null
-    tracks: null
+    size: 0
+    tracks: 0

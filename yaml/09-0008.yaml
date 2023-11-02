@@ -1,5 +1,5 @@
 article: 09-0008
-last-update: 1698936706
+last-update: 1698936991
 lock-data: false
 data:
 - series: Creative-Tonie
@@ -7,8 +7,8 @@ data:
   release: 1600819200
   language: en-us
   category: Creative-Tonies
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://cdn.tonies.de/thumbnails/d25cb4078f2971e37507c35af79c9c28602f62a1.png
   sample: null
@@ -18,5 +18,5 @@ data:
   ids:
   - audio-id: 1597842449
     hash: 7D9FB2F587B6F4E262C78AC2ADEF30B9D7BC9F40
-    size: null
-    tracks: null
+    size: 0
+    tracks: 0

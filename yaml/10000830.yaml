@@ -1,5 +1,5 @@
 article: '10000830'
-last-update: 1698936707
+last-update: 1698936992
 lock-data: false
 data:
 - series: Lieblings-Kinderlieder
@@ -7,8 +7,8 @@ data:
   release: 1626307200
   language: de-de
   category: music
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000830-50002696-b--9flWR7Ik.png
   sample: null
@@ -18,5 +18,5 @@ data:
   ids:
   - audio-id: 1623662483
     hash: 329B411BA117F4BB8E781AF022D96D04F44111D8
-    size: null
-    tracks: null
+    size: 0
+    tracks: 0

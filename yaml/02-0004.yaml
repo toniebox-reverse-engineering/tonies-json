@@ -1,5 +1,5 @@
 article: 02-0004
-last-update: 1698936705
+last-update: 1698936991
 lock-data: false
 data:
 - series: ''
@@ -7,8 +7,8 @@ data:
   release: 0
   language: de-de
   category: Kreativ-Tonies
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/02-0004-a-F_l9JskM.png
   sample: null
@@ -18,5 +18,5 @@ data:
   ids:
   - audio-id: 1
     hash: 9F75EE2B6B389BE3DC76BFFA179CF24E569341B8
-    size: null
-    tracks: null
+    size: 0
+    tracks: 0

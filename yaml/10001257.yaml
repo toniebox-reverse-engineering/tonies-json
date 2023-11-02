@@ -1,5 +1,5 @@
 article: '10001257'
-last-update: 1698936707
+last-update: 1698936993
 lock-data: false
 data:
 - series: Christmas Tales
@@ -7,8 +7,8 @@ data:
   release: 1667433600
   language: en-us
   category: Tonie
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-christmastales-transparent.png?v=1666650250
   sample: null

@@ -1,5 +1,5 @@
 article: '10000650'
-last-update: 1698936706
+last-update: 1698936992
 lock-data: false
 data:
 - series: Curious George
@@ -7,8 +7,8 @@ data:
   release: 1673568000
   language: en-us
   category: Tonie
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-curiousgeorge-transparent.png?v=1673564837
   sample: null

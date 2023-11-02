@@ -1,5 +1,5 @@
 article: 05-0002
-last-update: 1698936706
+last-update: 1698936991
 lock-data: false
 data:
 - series: Die Playmos
@@ -7,8 +7,8 @@ data:
   release: 1567641600
   language: de-de
   category: audio-play
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/05-0002-99-0450-b-x7-9ykOd.png
   sample: null
@@ -18,5 +18,5 @@ data:
   ids:
   - audio-id: 1565699896
     hash: F5D1E590F40B4C3523E30BED5E8DF535882641B5
-    size: null
-    tracks: null
+    size: 0
+    tracks: 0

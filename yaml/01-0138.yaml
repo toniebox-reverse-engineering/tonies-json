@@ -1,5 +1,5 @@
 article: 01-0138
-last-update: 1698936705
+last-update: 1698936991
 lock-data: false
 data:
 - series: Lieblings-Kinderlieder
@@ -7,8 +7,8 @@ data:
   release: 1543449600
   language: de-de
   category: music
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0138-98-0417-b-hDcNOd6Z.png
   sample: null
@@ -18,9 +18,9 @@ data:
   ids:
   - audio-id: 1542990132
     hash: 584B4A4D2F0FA97B2D9279FB3BCAA1AE4E10CD75
-    size: null
-    tracks: null
+    size: 0
+    tracks: 0
   - audio-id: 1611240613
     hash: 8B1D3BF4186651BCC978691235AA5BD0284B0666
-    size: null
-    tracks: null
+    size: 0
+    tracks: 0

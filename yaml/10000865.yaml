@@ -1,5 +1,5 @@
 article: '10000865'
-last-update: 1698936707
+last-update: 1698936992
 lock-data: false
 data:
 - series: Disney
@@ -7,8 +7,8 @@ data:
   release: 0
   language: fr-fr
   category: audio-play-songs
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000865-50002799-b-A3-GemCu.png
   sample: null
@@ -18,5 +18,5 @@ data:
   ids:
   - audio-id: 1647968905
     hash: 4894476016591978C7BEB31F1C614299538D38A2
-    size: null
-    tracks: null
+    size: 0
+    tracks: 0

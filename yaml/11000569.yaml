@@ -1,5 +1,5 @@
 article: '11000569'
-last-update: 1698936708
+last-update: 1698936994
 lock-data: false
 data:
 - series: Mes Comptines Préférées
@@ -7,8 +7,8 @@ data:
   release: 1686787200
   language: fr-fr
   category: music
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/98-1437-Tonie_Shadow-VXK1ewOw.png
   sample: null

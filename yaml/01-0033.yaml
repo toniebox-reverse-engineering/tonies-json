@@ -1,5 +1,5 @@
 article: 01-0033
-last-update: 1698936705
+last-update: 1698936991
 lock-data: false
 data:
 - series: Der Räuber Hotzenplotz
@@ -7,8 +7,8 @@ data:
   release: 1487548800
   language: de-de
   category: Hörspiele & Hörbücher
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://cdn.tonies.de/o/images/f7726ecb1f3dcb6d69436163ef5cdc1665aa83a3bf3863b5e86e063a/01-0033-b-10hnQd0R.png
   sample: null
@@ -18,9 +18,9 @@ data:
   ids:
   - audio-id: 1486489725
     hash: 193C3AE24BF8487BA2C6D0D8CF851B89EAB989CF
-    size: null
-    tracks: null
+    size: 0
+    tracks: 0
   - audio-id: 1505650651
     hash: 9D4F1456D8E95DB03991E4DE8ECB43E5CD7F908B
-    size: null
-    tracks: null
+    size: 0
+    tracks: 0

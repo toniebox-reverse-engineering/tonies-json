@@ -1,5 +1,5 @@
 article: '10001061'
-last-update: 1698936707
+last-update: 1698936993
 lock-data: false
 data:
 - series: Creative-Tonie
@@ -7,8 +7,8 @@ data:
   release: 1631232000
   language: en-us
   category: Creative-Tonies
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-PurpleCTDark-transparent.png?v=1662494715
   sample: null

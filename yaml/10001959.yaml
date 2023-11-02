@@ -1,5 +1,5 @@
 article: '10001959'
-last-update: 1698936707
+last-update: 1698936993
 lock-data: false
 data:
 - series: Les Sisters
@@ -7,8 +7,8 @@ data:
   release: 1689206400
   language: fr-fr
   category: audio-play
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/50006124-Tonie_Shado-f0b3zUuR.png
   sample: null

@@ -1,5 +1,5 @@
 article: 01-0001
-last-update: 1698936705
+last-update: 1698936991
 lock-data: false
 data:
 - series: Janosch
@@ -7,8 +7,8 @@ data:
   release: 1474934400
   language: de-de
   category: audio-play
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0001-98-0053-b-turiiCTi.png
   sample: null
@@ -18,5 +18,5 @@ data:
   ids:
   - audio-id: 1490952835
     hash: 8DAF02437F070941B7DE1890A986A381B9F839EB
-    size: null
-    tracks: null
+    size: 0
+    tracks: 0

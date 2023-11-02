@@ -1,5 +1,5 @@
 article: '10000525'
-last-update: 1698936706
+last-update: 1698936992
 lock-data: false
 data:
 - series: Rund um die Welt mit Fuchs und Schaf
@@ -7,8 +7,8 @@ data:
   release: 1623283200
   language: de-de
   category: audio-play
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000525-50001659-b-WygaF6LM.png
   sample: null
@@ -18,5 +18,5 @@ data:
   ids:
   - audio-id: 1621932043
     hash: 9B87A589EAD58CAB36CEF507929902D5545B66F0
-    size: null
-    tracks: null
+    size: 0
+    tracks: 0

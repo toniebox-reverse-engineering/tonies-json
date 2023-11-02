@@ -1,5 +1,5 @@
 article: '10002570'
-last-update: 1698936708
+last-update: 1698936994
 lock-data: false
 data:
 - series: tonies® x Steiff Jimmy Bear
@@ -7,8 +7,8 @@ data:
   release: 1668556800
   language: en-us
   category: Accessory
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-jimmybear-transparent.png?v=1668614742
   sample: null

@@ -1,5 +1,5 @@
 article: '10000802'
-last-update: 1698936707
+last-update: 1698936992
 lock-data: false
 data:
 - series: Gabby's Dollhouse
@@ -7,8 +7,8 @@ data:
   release: 1663891200
   language: en-us
   category: Tonie
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-gabbysdollhouse-transparent.png?v=1666305524
   sample: null

@@ -1,5 +1,5 @@
 article: '10000642'
-last-update: 1698936706
+last-update: 1698936992
 lock-data: false
 data:
 - series: The Snowman and the Snow Dog
@@ -7,8 +7,8 @@ data:
   release: 1637193600
   language: en-us
   category: Tonie
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-snowman-transparent.png?v=1637098072
   sample: null

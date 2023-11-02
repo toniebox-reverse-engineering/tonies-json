@@ -1,5 +1,5 @@
 article: 01-0000
-last-update: 1698936705
+last-update: 1698936991
 lock-data: false
 data:
 - series: Geschichten vom Löwen
@@ -7,8 +7,8 @@ data:
   release: 1474934400
   language: de-de
   category: Hörspiele & Hörbücher
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://media.moluna.de/images/bilder/a529/536/4251192100030_5_03-0004-03.png
   sample: null
@@ -18,5 +18,5 @@ data:
   ids:
   - audio-id: 1490954965
     hash: 43B590E78F561BD167A75D698B19C07323F766D6
-    size: null
-    tracks: null
+    size: 0
+    tracks: 0

@@ -1,5 +1,5 @@
 article: 99-0001
-last-update: 1698936708
+last-update: 1698936994
 lock-data: false
 data:
 - series: Kreativ-Tonie
@@ -7,8 +7,8 @@ data:
   release: 1472688000
   language: de-de
   category: Kreativ-Tonies
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: http://gt-blog.de/JSON/Kreativ-Tonie%20-%20(Platzhalter).png
   sample: null
@@ -18,5 +18,5 @@ data:
   ids:
   - audio-id: 1
     hash: 9F75EE2B6B389BE3DC76BFFA179CF24E569341B8
-    size: null
-    tracks: null
+    size: 0
+    tracks: 0

@@ -1,5 +1,5 @@
 article: '10000241'
-last-update: 1698936706
+last-update: 1698936992
 lock-data: false
 data:
 - series: Thomas Müller
@@ -7,8 +7,8 @@ data:
   release: 1593648000
   language: de-de
   category: audio-book
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000241-50001219-b-vuKA-DYv.png
   sample: null
@@ -18,5 +18,5 @@ data:
   ids:
   - audio-id: 1589466629
     hash: 7167CDC018DD26875EF1C1A3C9753AF77F0DB92F
-    size: null
-    tracks: null
+    size: 0
+    tracks: 0

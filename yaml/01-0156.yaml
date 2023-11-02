@@ -1,5 +1,5 @@
 article: 01-0156
-last-update: 1698936705
+last-update: 1698936991
 lock-data: false
 data:
 - series: Lieblings-Kinderlieder
@@ -7,8 +7,8 @@ data:
   release: 1541548800
   language: de-de
   category: Musik
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://cdn.tonies.de/o/images/679e3db7e25bd231fa54d9723173acd422126e150cc9f5368cdb615e/01-0156-98-0498-b-8bYG3NyL.png
   sample: null
@@ -18,5 +18,5 @@ data:
   ids:
   - audio-id: 1539356873
     hash: 88CBA35D71CF11D8F526C2E469EF1B9F7B9EE782
-    size: null
-    tracks: null
+    size: 0
+    tracks: 0

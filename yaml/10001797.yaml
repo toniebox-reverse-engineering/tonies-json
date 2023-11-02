@@ -1,5 +1,5 @@
 article: '10001797'
-last-update: 1698936707
+last-update: 1698936993
 lock-data: false
 data:
 - series: Steiff Soft Cuddly Friends
@@ -7,8 +7,8 @@ data:
   release: 1634688000
   language: en-gb
   category: audio-play
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/080920-Hoppie_Hase-b-463zgk_F.png
   sample: null

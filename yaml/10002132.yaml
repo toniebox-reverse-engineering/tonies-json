@@ -1,5 +1,5 @@
 article: '10002132'
-last-update: 1698936708
+last-update: 1698936993
 lock-data: false
 data:
 - series: Lucie Petite Danseuse
@@ -7,8 +7,8 @@ data:
   release: 1686787200
   language: fr-fr
   category: audio-play
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/50006945-Tonie_Shado-Hi32-BN4.png
   sample: null

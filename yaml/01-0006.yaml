@@ -1,5 +1,5 @@
 article: 01-0006
-last-update: 1698936705
+last-update: 1698936991
 lock-data: false
 data:
 - series: Maus
@@ -7,8 +7,8 @@ data:
   release: 1474934400
   language: de-de
   category: music
-  runtime: null
-  age: null
+  runtime: 0
+  age: 99
   origin: stock
   picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0006-b-VBRoor9F.png
   sample: null
@@ -18,5 +18,5 @@ data:
   ids:
   - audio-id: 1490969759
     hash: C21ABA646527DF630E93BB6053E4CC9FA736B00B
-    size: null
-    tracks: null
+    size: 0
+    tracks: 0
