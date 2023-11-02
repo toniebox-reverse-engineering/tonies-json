@@ -90,16 +90,21 @@ for filename in os.listdir(content_yaml_folder):
            auths = yaml.safe_load(yaml_file)
         article = filename.replace('.auth.yaml', '')
 
+        data = {
+            'audio-id': 0,
+            'hash': '0000000000000000000000000000000000000000',
+            'length': 0,
+            'tracks': 0
+        }
         # Look for a corresponding .data.yaml file
         if os.path.exists(fileData):
             with open(fileData, 'r') as data_yaml_file:
-                data = yaml.safe_load(data_yaml_file)
-        else:
-            data = {
-                'audio-id': 0,
-                'hash': '0000000000000000000000000000000000000000',
-                'tracks': 0
-            }
+                tmp_data = yaml.safe_load(data_yaml_file)
+                if tmp_data is not None:
+                    for name in data:
+                        if name in tmp_data:
+                            data[name] = tmp_data[name]
+                    
 
         article_info = []
         for pair in auths:
@@ -156,4 +161,41 @@ if fc_response_data is not None:
         else:
             taf_header = taf_header_pb2.TonieboxAudioFileHeader()
             taf_header.ParseFromString(taf_header_raw[4:])
-            print("-", binascii.hexlify(taf_header.sha1_hash).decode("utf-8"),taf_header.num_bytes,taf_header.audio_id,taf_header.track_page_nums)
+
+            yaml_info["data"]["audio-id"] = taf_header.audio_id
+            yaml_info["data"]["hash"] = binascii.hexlify(taf_header.sha1_hash).decode('utf-8')
+            yaml_info["data"]["tracks"] = len(taf_header.track_page_nums)
+            yaml_info["data"]["length"] = taf_header.num_bytes
+            yaml_info["updated"] = True
+
+            print(f'-  Audio ID: {yaml_info["data"]["audio-id"]}')
+            print(f'   Hash: {yaml_info["data"]["hash"]}')
+            print(f'   Tracks: {yaml_info["data"]["tracks"]}')
+            print(f'   Length: {yaml_info["data"]["length"]}')
+    
+    for article, article_info in article_infos.items():
+        last_yaml_info = None
+        length = len(article_info)
+        error = False
+        updated = False
+        for yaml_info in article_info:
+            if last_yaml_info is None:
+                last_yaml_info = yaml_info
+            else:
+                if last_yaml_info["data"] != yaml_info["data"]:
+                    error = True
+            if last_yaml_info["updated"]:
+                updated = True
+        if error:
+            print(f'Different data for article {article}:')
+            for yaml_info in article_info:
+                print(f'   Audio ID: {yaml_info["data"]["audio-id"]}, Hash: {yaml_info["data"]["hash"]}, Tracks: {yaml_info["data"]["tracks"]}, Length: {yaml_info["data"]["length"]}')
+
+        elif updated:
+            fileData = last_yaml_info["fileData"]
+            print(f'Updated data for article {article} to {fileData}:')
+            print(f'   Audio ID: {last_yaml_info["data"]["audio-id"]}, Hash: {last_yaml_info["data"]["hash"]}, Tracks: {last_yaml_info["data"]["tracks"]}, Length: {last_yaml_info["data"]["length"]}')
+
+            with open(fileData, "w") as yaml_file:
+                yaml.safe_dump(last_yaml_info["data"], yaml_file)
+
