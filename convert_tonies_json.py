@@ -43,12 +43,14 @@ yaml_data_struct = {
     "language": None,
     "category": None,
     "picture": None,
-    "tracks": [],
+    "track-desc": [],
     "ids": []
 }
 yaml_ids_struct = {
     "audio-id": None,
-    "hash": None
+    "hash": None,
+    "size": None,
+    "tracks": None,
 }
 
 # Load JSON data from a file
@@ -84,7 +86,7 @@ for article, article_items in article_data.items():
         yaml_data["picture"] = item["pic"]
 
         for track in item["tracks"]:
-            yaml_data["tracks"].append(track)
+            yaml_data["track-desc"].append(track)
 
         for audio_id, hash_value in zip(item["audio_id"], item["hash"]):
             yaml_ids = copy.deepcopy(yaml_ids_struct)
