@@ -15,20 +15,19 @@ if not os.path.exists(yaml_dir):
     os.makedirs(yaml_dir)
 
 # Check if the JSON file exists
-if not os.path.isfile(tonies_json_file):
-    url = "https://gt-blog.de/JSON/tonies.json"
+url = "https://gt-blog.de/JSON/tonies.json"
 
-    # Send an HTTP GET request to the URL
-    response = requests.get(url)
+# Send an HTTP GET request to the URL
+response = requests.get(url)
 
-    # Check if the request was successful (status code 200)
-    if response.status_code == 200:
-        # Open the local file for writing and save the content of the response
-        with open(tonies_json_file, 'wb') as file:
-            file.write(response.content)
-        print(f"File '{tonies_json_file}' has been downloaded successfully.")
-    else:
-        print(f"Failed to download the file. Status code: {response.status_code}")
+# Check if the request was successful (status code 200)
+if response.status_code == 200:
+    # Open the local file for writing and save the content of the response
+    with open(tonies_json_file, 'wb') as file:
+        file.write(response.content)
+    print(f"File '{tonies_json_file}' has been downloaded successfully.")
+else:
+    print(f"Failed to download the file. Status code: {response.status_code}")
 
 
 [os.remove(os.path.join(yaml_dir, filename)) for filename in os.listdir(yaml_dir) if os.path.isfile(os.path.join(yaml_dir, filename))]
@@ -71,7 +70,7 @@ for article, article_items in article_data.items():
         for audio_id, hash_value in zip(item["audio_id"], item["hash"]):
             yaml_ids = YamlStruct.get_id()
             yaml_ids["audio-id"] = int(audio_id)
-            yaml_ids["hash"] = hash_value
+            yaml_ids["hash"] = hash_value.lower()
             yaml_data["ids"].append(yaml_ids)
 
         if yaml_data["language"] == 'de':
@@ -80,6 +79,8 @@ for article, article_items in article_data.items():
             yaml_data["language"] = 'en-gb'
         elif yaml_data["language"] == 'us':
             yaml_data["language"] = 'en-us'
+        elif yaml_data["language"] == 'fr':
+            yaml_data["language"] = 'fr-fr'
 
         # Check if language is one of the specified codes
         if yaml_data["language"] not in ["de-de", "en-gb", "en-us", "fr-fr"]:
