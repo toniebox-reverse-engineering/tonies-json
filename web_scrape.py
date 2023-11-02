@@ -13,9 +13,9 @@ from tonies_json_config import Config
 
 # URLs of the websites
 urls = [
-    "https://tonies.com/de-de/tonies/",
-    "https://tonies.com/en-gb/tonies/",
-    "https://tonies.com/fr-fr/tonies/"
+    {"lang": "de-de", "url": "https://tonies.com/de-de/tonies/"},
+    {"lang": "en-gb", "url": "https://tonies.com/en-gb/tonies/"},
+    {"lang": "fr-fr", "url": "https://tonies.com/fr-fr/tonies/"},
 ]
 
 # Regular expression pattern to match JSON content
@@ -24,8 +24,8 @@ pattern = re.compile(r'type="application/json">(.*?)</script></body></html>', re
 # Dictionary to store the JSON data
 json_data = {}
 
-for url in urls:
-    response = requests.get(url)
+for url_set in urls:
+    response = requests.get(url_set["url"])
     if response.status_code == 200:
         html_content = response.text
         match = pattern.search(html_content)
@@ -34,11 +34,35 @@ for url in urls:
             # print(json_str)
             # print("")
             data = json.loads(json_str)
-            json_data[url] = data
+            json_data[url_set["lang"]] = data
 # Now, json_data contains JSON data from the specified URLs
 # print(json_data)
 
-for url, data in json_data.items():
+def convert_to_int(value):
+    try:
+        return int(str(value)[:-3])
+    except (ValueError, TypeError):
+        if value is not None:
+            print(f"Invalid value for timestamp {value}")
+        return 0
+    
+def lang_cleanup(value):
+    lang = value.lower()
+    if lang == 'de' or lang == 'de-de':
+        return 'de-de'
+    elif lang == 'gb' or lang == 'en-gb':
+        return 'en-gb'
+    elif lang == 'us' or lang == 'en-us':
+        return 'en-us'
+    elif lang == 'fr' or lang == 'fr-fr':
+        return 'fr-fr'
+    else:
+        print(f"Unknown language code {lang}")
+        return lang
+
+
+    
+for lang, data in json_data.items():
     for product in data["props"]["pageProps"]["page"]["productList"]["normalizedProducts"]:
         article = product["salesId"]
         yaml_path = f'{Config.yaml_dir}{article}.yaml'
@@ -56,8 +80,8 @@ for url, data in json_data.items():
                 field_mapping = {
                     "series": ("series", "label"),
                     "episode": ("name",),
-                    "release": ("publicationDate", lambda x: str(x)[:-3]),  # Remove last 3 digits (ms to s)
-                    "language": ("lcCC", lambda x: x.lower()),  # Convert to lowercase
+                    "release": ("publicationDate", lambda x: convert_to_int(x)),  # Remove last 3 digits (ms to s)
+                    "language": ("lcCC", lambda x: lang_cleanup(x)),  # Convert to lowercase
                     "runtime": ("runTime",),
                     "age": ("ageMin",),
                     "origin": (None, "stock"),  # Fixed value
@@ -83,19 +107,32 @@ for url, data in json_data.items():
                         if value is not None:
                             yaml_data[field] = value
 
-                current_time = int(time.time())
-                if current_time > yaml_base["last-update"] + 60*60*24*0: # Only update if older than 24h
+                cache_path = f'{Config.cache_dir}{article}.tonies.{lang}.html'
+                file_mtime = 0
+                if os.path.exists(cache_path):
+                    file_mtime = os.path.getmtime(cache_path)
+
+                if time.time() > file_mtime + 60*60*24: # Only update if older than 24h
                     response = requests.get(yaml_data["web"])
                     if response.status_code == 200:
                         html_content = response.text
-                        match = pattern.search(html_content)
-                        if match:
-                            json_str = match.group(1)
-                            data = json.loads(json_str)
-                            try:
-                                yaml_data["track-desc"] = data["props"]["pageProps"]["product"]["tracks"]
-                            except (KeyError, TypeError):
-                                pass
+                        with open(cache_path, "w") as cache_file:
+                            cache_file.write(html_content)
+                else:
+                    with open(cache_path, "r") as cache_file:
+                        html_content = cache_file.read()
+
+                if yaml_data["language"] != lang: # skip duplicates that are in multiple shops
+                    continue
+
+                match = pattern.search(html_content)
+                if match:
+                    json_str = match.group(1)
+                    data = json.loads(json_str)
+                    try:
+                        yaml_data["track-desc"] = data["props"]["pageProps"]["product"]["tracks"]
+                    except (KeyError, TypeError):
+                        pass
                 
                 updated = False
                 for attr, data in yaml_data.items():
