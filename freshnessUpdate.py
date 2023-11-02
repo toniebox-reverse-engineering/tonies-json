@@ -2,11 +2,14 @@
 
 import yaml
 import os
+import copy
 import requests
+import binascii
 from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.poolmanager import PoolManager
 
 from proto.toniebox.pb.freshness_check import fc_request_pb2, fc_response_pb2
+from proto.toniebox.pb import taf_header_pb2
 
 class HostNameIgnoringAdapter(HTTPAdapter):
     def init_poolmanager(self, connections, maxsize, block=False):
@@ -19,7 +22,7 @@ def ruid_to_int_uid(hex_str):
     hex_bytes = bytes.fromhex(hex_str)
     return int.from_bytes(hex_bytes, byteorder='little')
 
-def get_server_data(endpoint_path, data=None, method='GET'):
+def get_server_data(endpoint_path, data=None, method='GET', auth=None, max_length=0):
     # Paths to your PEM files
     client_cert_file = 'work/certs/client.pem'
     private_key_file = 'work/certs/private.pem'
@@ -27,6 +30,10 @@ def get_server_data(endpoint_path, data=None, method='GET'):
 
     base_url = 'https://prod.de.tbs.toys'
     url = f'{base_url}/{endpoint_path}'
+
+    headers = {}
+    if auth:
+        headers['Authorization'] = auth
 
     # Create a session and configure it for client authentication
     session = requests.Session()
@@ -36,15 +43,24 @@ def get_server_data(endpoint_path, data=None, method='GET'):
 
     # Make the request with the specified method (GET or POST)
     if method == 'GET':
-        response = session.get(url)
+        response = session.get(url, headers=headers, stream=True)
     elif method == 'POST' and data is not None:
-        response = session.post(url, data=data)
+        response = session.post(url, data=data, headers=headers, stream=True)
     else:
         print("Invalid method or missing data for POST request")
         return None
 
     if response.status_code == 200:
-        return response.content
+        content = b''
+        for chunk in response.iter_content(chunk_size=1024):
+            content += chunk
+            if max_length and len(content) >= max_length:
+                break
+
+        if max_length and len(content) > max_length:
+            content = content[:max_length]  # Truncate content to max_length
+
+        return content
     else:
         print(f"Request failed with status code {response.status_code}: {response.text}")
         return None
@@ -62,49 +78,59 @@ content_yaml_folder = 'work/content/'
 
 fc_request = fc_request_pb2.TonieFreshnessCheckRequest()
 
-yaml_infos =  {}
+yaml_infos = {}
+article_infos = {}
 
 for filename in os.listdir(content_yaml_folder):
     if filename.endswith('.auth.yaml'):
-        yaml_info = {
-            'auth' : None,
-            'data' : None,
-            'updated': False
-        }
         # Read and parse the YAML file
-        with open(os.path.join(content_yaml_folder, filename), 'r') as yaml_file:
-           yaml_info["auth"] = yaml.safe_load(yaml_file)
+        fileAuth = os.path.join(content_yaml_folder, filename)
+        fileData = os.path.join(content_yaml_folder, filename.replace('.auth.yaml', '.data.yaml'))
+        with open(fileAuth, 'r') as yaml_file:
+           auths = yaml.safe_load(yaml_file)
+        article = filename.replace('.auth.yaml', '')
 
         # Look for a corresponding .data.yaml file
-        data_file_path = os.path.join(content_yaml_folder, filename.replace('.auth.yaml', '.data.yaml'))
-        if os.path.exists(data_file_path):
-            with open(data_file_path, 'r') as data_yaml_file:
-                yaml_info["data"] = yaml.safe_load(data_yaml_file)
+        if os.path.exists(fileData):
+            with open(fileData, 'r') as data_yaml_file:
+                data = yaml.safe_load(data_yaml_file)
         else:
-            yaml_info["data"] = {
+            data = {
                 'audio-id': 0,
                 'hash': '0000000000000000000000000000000000000000',
                 'tracks': 0
             }
 
+        article_info = []
+        for pair in auths:
+            yaml_info = {
+                'fileAuth' : fileAuth,
+                'fileData' : fileData,
+                'article': article,
+                'auth' : pair,
+                'data' : copy.deepcopy(data),
+                'article_info' : article_info,
+                'updated' : False
+            }
 
-        # Create a TonieFCInfo message and populate it with data from the YAML file
-        tonie_info = fc_request.tonie_infos.add()
-        tonie_info.uid = ruid_to_int_uid(yaml_info["auth"]["ruid"])  # Replace with the actual YAML field name
-        tonie_info.audio_id = int(yaml_info["data"]["audio-id"])
-        print(f"uid: {tonie_info.uid:016x}, audio_id: {tonie_info.audio_id}")
+            # Create a TonieFCInfo message and populate it with data from the YAML file
+            tonie_info = fc_request.tonie_infos.add()
+            tonie_info.uid = ruid_to_int_uid(pair["ruid"])  # Replace with the actual YAML field name
+            tonie_info.audio_id = int(data["audio-id"])
+            print(f"uid: {tonie_info.uid:016x}, audio_id: {tonie_info.audio_id}")
 
-        if tonie_info.uid in yaml_infos:
-            print(f"Warning: UID {tonie_info.uid} is already in the YAML data, skipping {filename}.")
-        else:
-            yaml_infos[tonie_info.uid] = yaml_info
+            if tonie_info.uid in yaml_infos:
+                print(f"Warning: UID {tonie_info.uid} is already in the YAML data, skipping {filename}.")
+            else:
+                yaml_infos[tonie_info.uid] = yaml_info
+                article_info.append(yaml_info)
+        article_infos[yaml_info["article"]] = article_info
 
 # Send a POST request with data
 endpoint_path_post = 'v1/freshness-check'
 fc_response_data = get_server_data(endpoint_path_post, data=fc_request.SerializeToString(), method='POST')
 
 if fc_response_data is not None:
-    print("Response (POST):", fc_response_data)
     fc_response = fc_response_pb2.TonieFreshnessCheckResponse()
     fc_response.ParseFromString(fc_response_data)
     print("Marked UIDs:")
@@ -112,4 +138,22 @@ if fc_response_data is not None:
         print(format(marked, '016x'))
         yaml_info = yaml_infos[marked]
 
-        # TODO download 4k, parse taf for audio_id, hash, tracks
+        endpoint = None
+        auth = None
+        if "auth" in yaml_info["auth"]:
+            auth = f'BD {yaml_info["auth"]["auth"]}'
+            endpoint = f'/v2/content/{yaml_info["auth"]["ruid"]}'
+        else:
+            endpoint = f'/v1/content/{yaml_info["auth"]["ruid"]}'
+
+        taf_header_raw = get_server_data(endpoint, method='GET', auth=auth, max_length=4096)
+
+        if taf_header_raw is None:
+            print("Could not download TAF-header")
+        elif taf_header_raw[:4] != b'\x00\x00\x0f\xfc':
+            print("Invalid TAF-header")
+            print(taf_header_raw)
+        else:
+            taf_header = taf_header_pb2.TonieboxAudioFileHeader()
+            taf_header.ParseFromString(taf_header_raw[4:])
+            print("-", binascii.hexlify(taf_header.sha1_hash).decode("utf-8"),taf_header.num_bytes,taf_header.audio_id,taf_header.track_page_nums)
