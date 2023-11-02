@@ -59,5 +59,15 @@ for url, data in json_data.items():
             yaml_data["picture"] = product["image"]["src"] # test url
             yaml_data["sample"] = product["audioSampleUrl"] # test url
             yaml_data["web"] = f'https://tonies.com{product["path"]}' # test url
+
+            response = requests.get(yaml_data["web"])
+            if response.status_code == 200:
+                html_content = response.text
+                match = pattern.search(html_content)
+                if match:
+                    json_str = match.group(1)
+                    data = json.loads(json_str)
+                    yaml_data["track-desc"] = data["props"]["pageProps"]["product"]["tracks"]
+
             print(yaml_data)
     pass
