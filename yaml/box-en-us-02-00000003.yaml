@@ -1,0 +1,22 @@
+article: box-en-us-02-00000003
+last-update: 1698959796
+lock-data: false
+data:
+- series: null
+  episode: null
+  release: 0
+  language: null
+  category: null
+  runtime: 0
+  age: 99
+  origin: stock
+  picture: null
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1580745051
+    hash: abaf469e7581c08249a44e4bdcb91e2491b9ebf7
+    size: 19938
+    tracks: 1

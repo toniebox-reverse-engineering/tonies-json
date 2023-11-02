@@ -1,0 +1,22 @@
+article: box-de-de-01-00000007
+last-update: 1698959796
+lock-data: false
+data:
+- series: null
+  episode: null
+  release: 0
+  language: null
+  category: null
+  runtime: 0
+  age: 99
+  origin: stock
+  picture: null
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1498637532
+    hash: 6adbbd9f4c1261132203c290bc2ee1d5496689ee
+    size: 39154
+    tracks: 1

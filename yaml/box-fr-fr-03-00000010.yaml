@@ -1,0 +1,22 @@
+article: box-fr-fr-03-00000010
+last-update: 1698959796
+lock-data: false
+data:
+- series: null
+  episode: null
+  release: 0
+  language: null
+  category: null
+  runtime: 0
+  age: 99
+  origin: stock
+  picture: null
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1617871170
+    hash: 7dfe65f0a1c30b0ae4e783f49bf40e16f7f985f2
+    size: 53106
+    tracks: 1
