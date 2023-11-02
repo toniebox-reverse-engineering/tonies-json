@@ -1,0 +1,22 @@
+article: '10002027'
+last-update: 1698936708
+lock-data: false
+data:
+- series: Steiff Soft Cuddly Friends mit Hörspiel
+  episode: Joshi T-Rex
+  release: 1663113600
+  language: de-de
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10002027-Joshi_Baby_-98A8KZld.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1661173254
+    hash: E7ED6DF7824D4050A68C5603CACC81B2138D93FB
+    size: null
+    tracks: null

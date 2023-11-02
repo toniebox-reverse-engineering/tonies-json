@@ -1,0 +1,22 @@
+article: '10000491'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Rico und Oskar
+  episode: Rico, Oskar und die Tieferschatten
+  release: 1634083200
+  language: de-de
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000491-50001547-b-yajOddiM.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1632496175
+    hash: 31EDC8FA096F7C5515C1863CAD057B155D5A04FC
+    size: null
+    tracks: null

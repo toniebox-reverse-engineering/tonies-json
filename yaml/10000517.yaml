@@ -1,0 +1,22 @@
+article: '10000517'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Disney
+  episode: Monsters Inc.
+  release: 1623628800
+  language: en-us
+  category: Tonie
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-MonstersInc-Transparent.png?v=1629749259
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1619191456
+    hash: 05823D1B07985E9F2529E0ED090ED14F149535BD
+    size: null
+    tracks: null

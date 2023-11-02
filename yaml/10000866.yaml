@@ -1,0 +1,22 @@
+article: '10000866'
+last-update: 1698936707
+lock-data: false
+data:
+- series: Disney
+  episode: Le Roi Lion
+  release: 0
+  language: fr-fr
+  category: audio-play-songs
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000866%5Bhero-2%5D-1jW61IV8.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1613996775
+    hash: FA6E17956D55E441D229B0D7B1ECA45FC34E9505
+    size: null
+    tracks: null

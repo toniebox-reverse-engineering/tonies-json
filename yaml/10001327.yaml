@@ -1,0 +1,22 @@
+article: '10001327'
+last-update: 1698936707
+lock-data: false
+data:
+- series: Ein Freund wie kein anderer
+  episode: Ein Freund wie kein Anderer
+  release: 1675814400
+  language: de-de
+  category: audio-book
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001327-50004076-b-znhUvRoi.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1673432617
+    hash: 7E583E33339E2BF8F4BFE9AC6A3EF1504C8E25D3
+    size: null
+    tracks: null

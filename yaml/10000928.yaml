@@ -1,0 +1,22 @@
+article: '10000928'
+last-update: 1698936707
+lock-data: false
+data:
+- series: PJ Masks
+  episode: Zeit ein Held zu sein
+  release: 1670371200
+  language: de-de
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000928-50003046-b-eGVrdHYp.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1669113581
+    hash: A2D79AE46A8FCDEF903FC7B840F167BF86F79747
+    size: null
+    tracks: null

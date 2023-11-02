@@ -1,0 +1,22 @@
+article: '10000273'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Peter Rabbit
+  episode: The Peter Rabbit Collection
+  release: 1613001600
+  language: en-gb
+  category: audio-book
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000273-50001635-b--3vVCvuHA.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1611154008
+    hash: EFE4DDEF42D7AD8D9673217633D77B712BEEE31D
+    size: null
+    tracks: null

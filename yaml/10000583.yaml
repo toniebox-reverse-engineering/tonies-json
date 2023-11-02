@@ -1,0 +1,22 @@
+article: '10000583'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Pittiplatsch
+  episode: Neue Abenteuer mit Pittiplatsch
+  release: 1646784000
+  language: de-de
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000583-50001835-b-ZLXT5hMV.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1642170832
+    hash: 30C8922D8FE3B24091387D2EFAA3F849D4ED3A3F
+    size: null
+    tracks: null

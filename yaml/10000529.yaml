@@ -1,0 +1,22 @@
+article: '10000529'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Die kleine Hummel Bommel
+  episode: Die kleine Hummel Bommel / Die kleine Hummel Bommel sucht das Glück
+  release: 1626307200
+  language: de-de
+  category: audio-play-songs
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000529-50001675-b-J5FCDkhE.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1623425833
+    hash: EC2EE59311A9AA5449E5B1DE7213A5B01839F79E
+    size: null
+    tracks: null

@@ -1,0 +1,22 @@
+article: '10000165'
+last-update: 1698936706
+lock-data: false
+data:
+- series: TKKG Junior
+  episode: Giftige Schokolade
+  release: 1570665600
+  language: de-de
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000165-50000551-b-SBfVn2m4.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1567785245
+    hash: C4A445F46DF2E7B7646ADAE01D9659AAA26AD822
+    size: null
+    tracks: null

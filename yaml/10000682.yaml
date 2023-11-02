@@ -1,0 +1,22 @@
+article: '10000682'
+last-update: 1698936707
+lock-data: false
+data:
+- series: Barbie
+  episode: Barbie Princess Adventure
+  release: 1638403200
+  language: en-gb
+  category: audio-play-songs
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000682-50002161-b-GWoz66io.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1636615777
+    hash: 89E486F1238605D85E31E7753DDACE8AEA7B6E76
+    size: null
+    tracks: null

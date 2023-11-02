@@ -1,0 +1,22 @@
+article: '10000124'
+last-update: 1698936706
+lock-data: false
+data:
+- series: St. Pauli Rabauken
+  episode: Entscheidung am Millerntor
+  release: 1583366400
+  language: de-de
+  category: audio-book
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000124-50000593-b-XlP5QAZa.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1582832845
+    hash: 366DC26D368B6696EA5BF15EC4B5C67263AD6A57
+    size: null
+    tracks: null

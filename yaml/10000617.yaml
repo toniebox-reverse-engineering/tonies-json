@@ -1,0 +1,22 @@
+article: '10000617'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Miraculous
+  episode: Miraculous - Aller Anfang ist schwer
+  release: 1657670400
+  language: de-de
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000617-50001953-b-1BQvSqSJ.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1654765288
+    hash: 254D44D121A7C1B9BC3CE82D9054FE51AE84F983
+    size: null
+    tracks: null

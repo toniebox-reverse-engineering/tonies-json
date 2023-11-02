@@ -1,0 +1,22 @@
+article: '10000012'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Favourite Children’s Songs
+  episode: Christmas Songs and Carols
+  release: 0
+  language: en-gb
+  category: music
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000012-50000052-b-5rd4qOb_.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1537356209
+    hash: EB51835B960D749D2A6A35105441517EDA34A37C
+    size: null
+    tracks: null

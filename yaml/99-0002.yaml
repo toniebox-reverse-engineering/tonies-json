@@ -1,0 +1,22 @@
+article: 99-0002
+last-update: 1698936708
+lock-data: false
+data:
+- series: Creativ-Tonie
+  episode: (DUMMY) - UK
+  release: 1472688000
+  language: en-gb
+  category: Creative-Tonies
+  runtime: null
+  age: null
+  origin: stock
+  picture: http://gt-blog.de/JSON/Kreativ-Tonie%20-%20(Platzhalter).png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1
+    hash: 3630A243E9F382968A2883A437DB9BC78A1ACF13
+    size: null
+    tracks: null

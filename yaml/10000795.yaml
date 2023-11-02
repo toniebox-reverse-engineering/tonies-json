@@ -1,0 +1,22 @@
+article: '10000795'
+last-update: 1698936707
+lock-data: false
+data:
+- series: National Geographic Kid
+  episode: Astronaut
+  release: 1637280000
+  language: en-us
+  category: Tonie
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-natgeo-astronaut-transparent.png?v=1635869621
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1634821743
+    hash: 205FD87ECAB2003FC6DBADBD766C2D6A1CEDB422
+    size: null
+    tracks: null

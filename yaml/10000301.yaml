@@ -1,0 +1,22 @@
+article: '10000301'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Lindbergh
+  episode: Die abenteuerliche Geschichte einer fliegenden Maus
+  release: 1615420800
+  language: de-de
+  category: audio-book
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000301-50001983-b-jLo14qFp.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1614020456
+    hash: BD3DB22F30F51355D1748762C35E2E36779648E6
+    size: null
+    tracks: null

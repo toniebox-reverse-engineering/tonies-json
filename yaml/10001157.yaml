@@ -1,0 +1,22 @@
+article: '10001157'
+last-update: 1698936707
+lock-data: false
+data:
+- series: Sesamstraße
+  episode: Elmos Mitmachmusik
+  release: 1663113600
+  language: de-de
+  category: audio-play-songs
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001157-50003709-b-__Nq3HxA.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1661434142
+    hash: 40FAA2149E37BEC726F0D14CC4F8347C9FD3D4D9
+    size: null
+    tracks: null

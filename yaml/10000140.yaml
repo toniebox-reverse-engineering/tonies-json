@@ -1,0 +1,22 @@
+article: '10000140'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Die Biene Maja
+  episode: Der Schmetterlingsball
+  release: 1583366400
+  language: de-de
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000140-98-1020-b-ljUt_pBN.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1583159825
+    hash: D7BFB561D2D6C63B965CCFD11F251B5F7A16FB8C
+    size: null
+    tracks: null

@@ -1,0 +1,22 @@
+article: '10000149'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Unser Sandmännchen
+  episode: Abends im Walde
+  release: 1572998400
+  language: de-de
+  category: audio-play-songs
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000149-50000859-b-k0ewEmNh.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1576855851
+    hash: 7A68D103DC474710B102E7F6ABEF2C403A0AB8A3
+    size: null
+    tracks: null

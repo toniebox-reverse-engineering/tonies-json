@@ -1,0 +1,22 @@
+article: '10001106'
+last-update: 1698936707
+lock-data: false
+data:
+- series: Lieblings-Kinderlieder
+  episode: Kindergartenlieder
+  release: 0
+  language: de-de
+  category: music
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001106-50003569-b--oqXF8g_-.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1653373826
+    hash: 654A0321F0404439D966BD9EBDED570062C4F3C3
+    size: null
+    tracks: null

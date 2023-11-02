@@ -1,0 +1,22 @@
+article: 01-0064
+last-update: 1698936705
+lock-data: false
+data:
+- series: Der Räuber Hotzenplotz
+  episode: Neues vom Räuber Hotzenplotz
+  release: 1541548800
+  language: de-de
+  category: Hörspiele & Hörbücher
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://cdn.tonies.de/o/images/8faed58bb71d0d60796eb478f2c2e8ee612696ab82c6fc66ffa9d63f/01-0064-98-0141-b-6r4_KSYE.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1539359525
+    hash: 26556087408216B14ED0DA5375DE059C6F613969
+    size: null
+    tracks: null

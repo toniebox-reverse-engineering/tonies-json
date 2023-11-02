@@ -1,0 +1,22 @@
+article: '10000666'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Disney
+  episode: Die Schöne und das Biest
+  release: 1631145600
+  language: de-de
+  category: audio-play-songs
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000666-50002119-b-dVTt5-PW.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1628524434
+    hash: 69C4A18A3888D4D1B378D9687E7729EFC1C29D7C
+    size: null
+    tracks: null

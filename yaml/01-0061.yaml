@@ -1,0 +1,22 @@
+article: 01-0061
+last-update: 1698936705
+lock-data: false
+data:
+- series: Heidi
+  episode: Freunde für immer
+  release: 1506384000
+  language: de-de
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0061-98-0138-b-_-xGEyHw.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1503565716
+    hash: E371321DCEDFAD777227A513FC990BDC4258FF31
+    size: null
+    tracks: null

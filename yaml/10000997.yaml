@@ -1,0 +1,22 @@
+article: '10000997'
+last-update: 1698936707
+lock-data: false
+data:
+- series: Peppa Pig
+  episode: Die schönsten Geschichten von Schorsch
+  release: 1675814400
+  language: de-de
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000997-50003255-b-2qlFT5GR.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1673424674
+    hash: A3DD48F33202B71F0C6C48A77B57D79841B21E0B
+    size: null
+    tracks: null

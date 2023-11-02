@@ -1,0 +1,22 @@
+article: '10001685'
+last-update: 1698936707
+lock-data: false
+data:
+- series: DIKKA
+  episode: Oh Yeah!
+  release: 1678233600
+  language: de-de
+  category: music
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001685-50005326-b-HvtMeNAM.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1675946651
+    hash: 8D97CACF0BF26FFC942FBBB1237798DFDE0214BD
+    size: null
+    tracks: null

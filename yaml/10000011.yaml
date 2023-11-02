@@ -1,0 +1,22 @@
+article: '10000011'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Favourite Children’s Songs
+  episode: Playtime and Action Songs
+  release: 0
+  language: en-gb
+  category: music
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000011-50000051-b-W0OFsDOf.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1537282975
+    hash: 4983F99F694CE02B003A3DA1FC7D36AE74E4B75D
+    size: null
+    tracks: null

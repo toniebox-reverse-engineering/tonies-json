@@ -1,0 +1,26 @@
+article: '10001693'
+last-update: 1698936707
+lock-data: false
+data:
+- series: Rolf Zuckowski
+  episode: Rolfs Hasengeschichte
+  release: 1675814400
+  language: de-de
+  category: audio-book-songs
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001693-50005358-b-wZV9k8ig.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1666797375
+    hash: 53ABD2020B225A2F5B9008580435535AB7B72A00
+    size: null
+    tracks: null
+  - audio-id: 1673362091
+    hash: DD799F3C5BA366F4A4A63C515A397071985581FF
+    size: null
+    tracks: null

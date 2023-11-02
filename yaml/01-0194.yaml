@@ -1,0 +1,22 @@
+article: 01-0194
+last-update: 1698936705
+lock-data: false
+data:
+- series: Lieblings-Kinderlieder
+  episode: Weihnachtslieder 2
+  release: 1570579200
+  language: de-de
+  category: Musik
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://cdn.tonies.de/o/images/1_65687b6e76df3b70c662eac79af0423c044c66c6c749f6fc1695aa5b/3_-mrr8Z5tcMkdmCZ2/weihnachtslieder_2_only_tonie_530x530.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1567768740
+    hash: 3F5E4F76BF8941B3A0E892C024F0BFA5880D32CF
+    size: null
+    tracks: null

@@ -1,0 +1,22 @@
+article: '10000794'
+last-update: 1698936707
+lock-data: false
+data:
+- series: Der magische Blumenladen
+  episode: Ein Geheimnis kommt selten allein
+  release: 0
+  language: de-de
+  category: audio-book
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000794-50002563-b-8yRu_a93.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1651050000
+    hash: 7BFED33E2B4BAA38BEEC9A48389CCBADE68805C0
+    size: null
+    tracks: null

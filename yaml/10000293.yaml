@@ -1,0 +1,22 @@
+article: '10000293'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Elmer
+  episode: Elmer and Friends Story Collection
+  release: 1605744000
+  language: en-gb
+  category: audio-book
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000249-50001242-b-hVynSgG9.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1605696937
+    hash: 0BC0BEBCD13D6954430FE631BE7692D1FBED7B6D
+    size: null
+    tracks: null

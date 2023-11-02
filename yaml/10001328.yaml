@@ -1,0 +1,22 @@
+article: '10001328'
+last-update: 1698936707
+lock-data: false
+data:
+- series: PJ Masks
+  episode: Ein mächtiges Mondproblem
+  release: 1670371200
+  language: de-de
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001328-50004078-b-6SE-pg1S.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1668782508
+    hash: FC6B5DE9704108CEC1126F655FE225E57C935A8C
+    size: null
+    tracks: null

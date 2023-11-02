@@ -1,0 +1,22 @@
+article: '10000126'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Der glückliche Löwe
+  episode: Der glückliche Löwe
+  release: 0
+  language: de-de
+  category: audio-book
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000126-50001104-b-cmMvC1Ah.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1584951702
+    hash: 0D51E6379A82635C7C1C1173F96B8E82F8E731CA
+    size: null
+    tracks: null

@@ -1,0 +1,22 @@
+article: '10000927'
+last-update: 1698936707
+lock-data: false
+data:
+- series: Minimusiker
+  episode: Lieder für dich 2
+  release: 1644364800
+  language: de-de
+  category: music
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000927-50003044-b-9ZVmUE-e.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1643791015
+    hash: 9B53B7EE07AF9057ED01376E942C95527DA2285F
+    size: null
+    tracks: null

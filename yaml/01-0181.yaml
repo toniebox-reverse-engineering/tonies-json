@@ -1,0 +1,22 @@
+article: 01-0181
+last-update: 1698936705
+lock-data: false
+data:
+- series: Der Räuber Hotzenplotz
+  episode: Hotzenplotz 3
+  release: 1559692800
+  language: de-de
+  category: Hörspiele & Hörbücher
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://cdn.tonies.de/o/images/1_c80b1c5f08a64fd6054ad471f83252c5460cbfc6c94df6039aeaccb6/3_Y5l4FN0h5J9YG4ST/hotzenplotz_3_only_tonie_530x530.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1558439191
+    hash: 430B229B31FD57846FFF850D771DFDCB9614C37F
+    size: null
+    tracks: null

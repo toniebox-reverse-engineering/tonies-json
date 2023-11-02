@@ -1,0 +1,26 @@
+article: '10000130'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Lieblings-Kinderlieder
+  episode: Zähllieder
+  release: 1567641600
+  language: de-de
+  category: music
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000130-50000800-b-C3DVDdZp.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1565695105
+    hash: B84647E2641E84104B022C4741BE11FBD62DF4C0
+    size: null
+    tracks: null
+  - audio-id: 1580918309
+    hash: F2723E4A9D1B502DB64099A3F7D91F77F2853C50
+    size: null
+    tracks: null

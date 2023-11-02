@@ -1,0 +1,26 @@
+article: '10001258'
+last-update: 1698936707
+lock-data: false
+data:
+- series: Lieblings-Kinderlieder
+  episode: Tierlieder
+  release: 1633996800
+  language: de-de
+  category: music
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001258-50003833-b--eXCs2PPc.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1632997351
+    hash: 9739CAC9DA1253D92072A9153760B6610A511985
+    size: null
+    tracks: null
+  - audio-id: 1679477095
+    hash: 46724AA09569DCF9B0EB56B7D526AC4775A1A198
+    size: null
+    tracks: null

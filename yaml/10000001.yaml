@@ -1,0 +1,22 @@
+article: '10000001'
+last-update: 1698936706
+lock-data: false
+data:
+- series: The Gruffalo
+  episode: The Gruffalo
+  release: 0
+  language: en-gb
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000001-50000041-b--719YHE0p.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1538986377
+    hash: 843D8B52F017A517EC15D457D83711B72D84601C
+    size: null
+    tracks: null

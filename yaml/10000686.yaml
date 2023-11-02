@@ -1,0 +1,22 @@
+article: '10000686'
+last-update: 1698936707
+lock-data: false
+data:
+- series: Disney
+  episode: Rapunzel – Neu verföhnt
+  release: 1645574400
+  language: de-de
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000686-50002173-b-_RawURwh.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1645008699
+    hash: 605FC2F25CF8633012BFC7448FA9BFC7CDC13616
+    size: null
+    tracks: null

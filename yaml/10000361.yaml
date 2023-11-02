@@ -1,0 +1,26 @@
+article: '10000361'
+last-update: 1698936706
+lock-data: false
+data:
+- series: LEA
+  episode: LEAs Welt
+  release: 1620604800
+  language: de-de
+  category: music
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000361-50001145-b-pEg2Z-qw.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1618929823
+    hash: 97AD5A2B7A96D163D8CA48DB85AF7D9BDEFDDC0C
+    size: null
+    tracks: null
+  - audio-id: 1632899421
+    hash: F0EF5341EAD0CB6CF46B2C9249679BEA9259AE0A
+    size: null
+    tracks: null

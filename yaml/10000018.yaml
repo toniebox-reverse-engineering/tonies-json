@@ -1,0 +1,22 @@
+article: '10000018'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Disney
+  episode: The Little Mermaid
+  release: 0
+  language: en-gb
+  category: audio-play-songs
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000018-50000058-b-4gaEAsLo.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1571390854
+    hash: 03415C09CE9FFA446A74F74C2392304A26C9C24B
+    size: null
+    tracks: null

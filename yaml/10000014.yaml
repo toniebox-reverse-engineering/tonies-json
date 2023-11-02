@@ -1,0 +1,22 @@
+article: '10000014'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Favourite Tales
+  episode: Little Red Riding Hood and other fairy tales
+  release: 0
+  language: en-gb
+  category: audio-book
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000014-50000054-b-QC6reK_n.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1537381053
+    hash: 17627E54850A416B6780CE64C739CFE2AAE933B0
+    size: null
+    tracks: null

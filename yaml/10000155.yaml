@@ -1,0 +1,22 @@
+article: '10000155'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Lieblings-Klassiker
+  episode: Eine Weihnachtsgeschichte und vier weitere Klassiker
+  release: 1572998400
+  language: de-de
+  category: audio-book
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000155-50000870-b-Cr_pvSBl.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1571392711
+    hash: 95337091AC44A718EB91E4EBD8AFF98F8D7CEB8D
+    size: null
+    tracks: null

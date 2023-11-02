@@ -1,0 +1,22 @@
+article: '10000493'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Bibi & Tina
+  episode: Das Waisenfohlen
+  release: 1634083200
+  language: de-de
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000493-50001555-b-J9oi6Ox0.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1633445007
+    hash: 75A7BE5A67F161E6F4852EF83A1511CC506EC378
+    size: null
+    tracks: null

@@ -1,0 +1,22 @@
+article: 01-0022
+last-update: 1698936705
+lock-data: false
+data:
+- series: Janosch
+  episode: Ich mach dich gesund, sagte der Bär
+  release: 1481155200
+  language: de-de
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0022-b-m5cXI77L.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1480012266
+    hash: CB6B622A16027B45F53FF3341E5F7C91829E1BBB
+    size: null
+    tracks: null

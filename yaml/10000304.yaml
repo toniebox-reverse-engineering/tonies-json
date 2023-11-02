@@ -1,0 +1,22 @@
+article: '10000304'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Rolf Zuckowski
+  episode: In der Weihnachtsbäckerei
+  release: 1605657600
+  language: de-de
+  category: Musik
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000304-50001965-b-KI7Nhc7o.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1603457195
+    hash: 9D2E864EE60DCBA93066B5C11B5D697F35C19A0C
+    size: null
+    tracks: null

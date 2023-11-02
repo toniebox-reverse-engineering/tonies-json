@@ -1,0 +1,22 @@
+article: '10000911'
+last-update: 1698936707
+lock-data: false
+data:
+- series: Willy Astor
+  episode: Kindischer Ozean
+  release: 0
+  language: de-de
+  category: audio-book-songs
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000911-50002987-b-HubKQGqm.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1650551002
+    hash: BEE399FC6B812A5EA7F6DEB8ADFE70DADFC54983
+    size: null
+    tracks: null

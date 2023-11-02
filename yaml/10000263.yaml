@@ -1,0 +1,22 @@
+article: '10000263'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Lieblings-Kinderlieder
+  episode: Europäische Kinderlieder
+  release: 1599696000
+  language: de-de
+  category: music
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000263-50001484-b-i45XYtf_.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1597845678
+    hash: 40E4F57E6D6C8AC039BB559F2F18A40C0EEF9911
+    size: null
+    tracks: null

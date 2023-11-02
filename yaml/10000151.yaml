@@ -1,0 +1,22 @@
+article: '10000151'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Wieso? Weshalb? Warum? junior
+  episode: Die Polizei
+  release: 1588809600
+  language: de-de
+  category: audio-play-songs
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000151-50000578-b-fUeKsbOt.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1587460860
+    hash: EC8B9F05BA84328D04D64A7348969EB99AE1777F
+    size: null
+    tracks: null

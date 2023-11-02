@@ -1,0 +1,22 @@
+article: '10000007'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Stick Man
+  episode: Stick Man
+  release: 0
+  language: en-gb
+  category: audio-book-songs
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000007-50000047-b--E1b1iT2M.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1537278651
+    hash: 6C477248718A4F541A75BFE9E7DE0FFC2231BA88
+    size: null
+    tracks: null

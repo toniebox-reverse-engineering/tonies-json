@@ -1,0 +1,22 @@
+article: '10000831'
+last-update: 1698936707
+lock-data: false
+data:
+- series: Lieblings-Kinderlieder
+  episode: Geburtstagslieder
+  release: 1628726400
+  language: de-de
+  category: music
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000831-50002699-b--LsJUyV9E.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1626272002
+    hash: 8E6935CAA11A2CFAD48265912084C45F4BFDEAC4
+    size: null
+    tracks: null

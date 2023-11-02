@@ -1,0 +1,22 @@
+article: '10000269'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Disney
+  episode: Finding Nemo
+  release: 1605744000
+  language: en-gb
+  category: audio-play-songs
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000269-50001238-b-y1gNEbAW.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1598255592
+    hash: 9D7F408A08BAB7EAC5F933D559D4DDE6256CD511
+    size: null
+    tracks: null

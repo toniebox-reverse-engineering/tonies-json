@@ -1,0 +1,22 @@
+article: '10000278'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Fredrik Vahle
+  episode: Zugabe
+  release: 1618444800
+  language: de-de
+  category: music
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000278-50001847-b-YhAXXYmr.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1615473211
+    hash: E4A00BCD6E9A368691A64B13B5F6439F8B3ECEC9
+    size: null
+    tracks: null

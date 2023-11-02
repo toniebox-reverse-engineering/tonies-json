@@ -1,0 +1,22 @@
+article: '10000818'
+last-update: 1698936707
+lock-data: false
+data:
+- series: Gute Nacht, Gorilla
+  episode: Gute Nacht, Gorilla und weitere Einschlafhörspiele
+  release: 1675814400
+  language: de-de
+  category: audio-play-songs
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000818-50002654-b-MRO-LMMU.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1673426865
+    hash: DDFA7F3CA7297B6D2BD9E92DE69460996F177F4F
+    size: null
+    tracks: null

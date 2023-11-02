@@ -1,0 +1,22 @@
+article: '10002000'
+last-update: 1698936708
+lock-data: false
+data:
+- series: Karmas Welt
+  episode: Karmas Welt
+  release: 1670371200
+  language: de-de
+  category: audio-play-songs
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10002000-50006244-b-DMVdOnuk.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1669892148
+    hash: 9B277A3AC84899606647B04995A3B7B3F2D1A065
+    size: null
+    tracks: null

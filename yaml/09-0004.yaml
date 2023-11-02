@@ -1,0 +1,22 @@
+article: 09-0004
+last-update: 1698936706
+lock-data: false
+data:
+- series: Kreativ-Tonie
+  episode: Blau mit Stern (Starterkit)
+  release: 1539129600
+  language: de-de
+  category: Kreativ-Tonies
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://cdn.tonies.de/thumbnails/50000081.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1
+    hash: 57F921FB03E089335C34CA1859247792D1A9D65B
+    size: null
+    tracks: null

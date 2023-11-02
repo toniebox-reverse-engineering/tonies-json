@@ -1,0 +1,44 @@
+article: '10000157'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Wickie
+  episode: Tanz mit dem Wolf und sechs weitere Episoden
+  release: 1583366400
+  language: de-de
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000157-50000831-b-St6GicV3.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1583162697
+    hash: 56F98ACBF824BA9CBD8A7170C3030ED1CA6AE97C
+    size: null
+    tracks: null
+  - audio-id: 1632485931
+    hash: 9199B7D7910AFC2A6CBDEA3D0B3F4DB7F3EA6FCC
+    size: null
+    tracks: null
+- series: Wickie
+  episode: Das Magische Schwert
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000157-50000831-b-St6GicV3.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1583162697
+    hash: 60A19A077A32F9FD7754BDB9729C87159E039056
+    size: null
+    tracks: null

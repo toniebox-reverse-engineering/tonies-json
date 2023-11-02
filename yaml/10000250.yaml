@@ -1,0 +1,22 @@
+article: '10000250'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Disney
+  episode: Cinderella
+  release: 1605744000
+  language: en-gb
+  category: audio-play-songs
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000250-50001236-b-GsWEjIii.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1598255985
+    hash: 6D96E7B223CFCE56E95D475C7575D1ACE414737F
+    size: null
+    tracks: null

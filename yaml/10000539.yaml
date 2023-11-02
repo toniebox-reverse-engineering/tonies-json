@@ -1,0 +1,22 @@
+article: '10000539'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Bedtime Songs
+  episode: ''
+  release: 1598486400
+  language: en-us
+  category: Tonie
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-BedtimeSongs-Transparent.png?v=1629748695
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1616768647
+    hash: F67F58DC1E056A410A1F5A0454E94E3D90BF078E
+    size: null
+    tracks: null

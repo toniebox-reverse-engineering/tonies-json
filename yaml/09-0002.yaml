@@ -1,0 +1,22 @@
+article: 09-0002
+last-update: 1698936706
+lock-data: false
+data:
+- series: Kreativ-Tonie
+  episode: Beere mit Stern (Starterkit)
+  release: 1539129600
+  language: de-de
+  category: Kreativ-Tonies
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://cdn.tonies.de/thumbnails/50000085.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1
+    hash: E846951CA68FBDECF84D6AFA09C65BC31A8D106A
+    size: null
+    tracks: null

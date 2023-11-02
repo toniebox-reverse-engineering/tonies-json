@@ -1,0 +1,22 @@
+article: '10000508'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Giraffenaffen
+  episode: Die Giraffenaffen Lieblingslieder
+  release: 1668038400
+  language: de-de
+  category: music
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000508-50001599-b-OshyuzM2.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1666852857
+    hash: CD64F10600A56E42853ED6C8AA7A33DA6F362AD5
+    size: null
+    tracks: null

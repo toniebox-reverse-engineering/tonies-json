@@ -1,0 +1,22 @@
+article: '10000131'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Fünf Freunde
+  episode: Fünf Freunde auf der Suche nach Timmy
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000131-50000869-b-YnN-HEIM.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1584703650
+    hash: 0AAAE29675A2D1C4F60868C2EFBE86CD5D2A97D9
+    size: null
+    tracks: null

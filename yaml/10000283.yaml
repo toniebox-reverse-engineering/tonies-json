@@ -1,0 +1,22 @@
+article: '10000283'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Kasperli
+  episode: Es hät en Dieb im Zoo! / D Insle vom Pirat Ohnibart
+  release: 1603324800
+  language: de-de
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000283-50001853-b-FY_pzlQh.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1603203813
+    hash: 6516548B7BBC7B900F56CECCB13E9CFCBF7D37BB
+    size: null
+    tracks: null

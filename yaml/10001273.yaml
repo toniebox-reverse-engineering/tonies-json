@@ -1,0 +1,22 @@
+article: '10001273'
+last-update: 1698936707
+lock-data: false
+data:
+- series: Astérix
+  episode: Le Tour De Gaule D'Astérix
+  release: 1667433600
+  language: fr-fr
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001273-50003897-b-iaVk1lY5.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1664204178
+    hash: C5B809E777D88B91B2570BF155A4D0853F674FE6
+    size: null
+    tracks: null

@@ -1,0 +1,22 @@
+article: 01-0110
+last-update: 1698936705
+lock-data: false
+data:
+- series: Der kleine Rabe Socke
+  episode: Alles Schule!
+  release: 1508198400
+  language: de-de
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0110-98-0334-b-XhHKt0b6.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1506518482
+    hash: E2DDCB9E5B8B331F2A0CD9EC67F059201B813117
+    size: null
+    tracks: null

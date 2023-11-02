@@ -1,0 +1,22 @@
+article: '10000300'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Lieblings-Meisterstücke
+  episode: Der Nussknacker
+  release: 1613001600
+  language: de-de
+  category: audio-play-songs
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000300-50001979-b-R6s6QVVz.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1611142297
+    hash: D6F795A4E775939BB5E33106D2E581132E4D1EF7
+    size: null
+    tracks: null

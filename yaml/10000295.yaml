@@ -1,0 +1,22 @@
+article: '10000295'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Favourite Children’s Songs
+  episode: Halloween & Spooky Songs
+  release: 1603324800
+  language: en-gb
+  category: music
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000295-50001860-b-IL1P1vCm.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1604075272
+    hash: 71E4CC5321C9CF6193F81C2DCBC586A792A3C5D8
+    size: null
+    tracks: null

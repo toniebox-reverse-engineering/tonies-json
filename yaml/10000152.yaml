@@ -1,0 +1,22 @@
+article: '10000152'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Disney
+  episode: Frozen
+  release: 1605744000
+  language: en-gb
+  category: audio-play-songs
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000152-50000857-b-qenIda8S.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1602774212
+    hash: BC26A93ED0D8F08EC40CCD1E6665B7A63D79AEA2
+    size: null
+    tracks: null

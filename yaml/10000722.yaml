@@ -1,0 +1,26 @@
+article: '10000722'
+last-update: 1698936707
+lock-data: false
+data:
+- series: Mia and me
+  episode: Ankunft in Centopia / Eine neue Hoffnung
+  release: 1620604800
+  language: de-de
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000722-50002339-b--T_KiZi27.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1618494143
+    hash: 28801200539431E823E80E72DFC779F5C41E29C3
+    size: null
+    tracks: null
+  - audio-id: 1644324746
+    hash: 5C44F7453271B561CF77C780D7A9485C76DE206C
+    size: null
+    tracks: null

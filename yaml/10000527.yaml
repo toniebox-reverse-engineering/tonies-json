@@ -1,0 +1,22 @@
+article: '10000527'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Affenzahn Utopia
+  episode: Die Abenteuer von Affenzahn
+  release: 1618444800
+  language: de-de
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000527-50001667-b-m8_zLILa.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1615474093
+    hash: C7856682CF6785CCEB9B61E2F03DFE4B4B0174A7
+    size: null
+    tracks: null

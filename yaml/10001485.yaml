@@ -1,0 +1,22 @@
+article: '10001485'
+last-update: 1698936707
+lock-data: false
+data:
+- series: Disney
+  episode: Buh machst du! & 3 weitere Geschichten
+  release: 1675814400
+  language: de-de
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001485-50004760-b-t5EplUH-.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1673429895
+    hash: 1254B3B7DC19D3DF616AFB171322D62C11E73F8B
+    size: null
+    tracks: null

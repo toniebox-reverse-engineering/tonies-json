@@ -1,0 +1,22 @@
+article: '10000710'
+last-update: 1698936707
+lock-data: false
+data:
+- series: PJ Masks
+  episode: Owlette
+  release: 1661472000
+  language: en-gb
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000710-50002259-b--FVYrNzds.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1658762474
+    hash: DEA8F8937A0DA12768AC4FB62C5855F18D221942
+    size: null
+    tracks: null

@@ -1,0 +1,22 @@
+article: '10000175'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Kosmo und Klax
+  episode: Freundschaftsgeschichten
+  release: 1567641600
+  language: de-de
+  category: audio-book-songs
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000175-50000591-b-rBOesc5M.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1567153050
+    hash: AA8E3321EFA6B25ABD54630A2BD0ACF8CBD5E31A
+    size: null
+    tracks: null

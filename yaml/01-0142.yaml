@@ -1,0 +1,22 @@
+article: 01-0142
+last-update: 1698936705
+lock-data: false
+data:
+- series: Der kleine Wassermann
+  episode: Der kleine Wassermann
+  release: 1528329600
+  language: de-de
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0142-98-0421-b-jTM27L6t.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1520614694
+    hash: 95B56A7ED78DDCCACADECA0D3B8E488A0FB49E66
+    size: null
+    tracks: null

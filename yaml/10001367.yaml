@@ -1,0 +1,22 @@
+article: '10001367'
+last-update: 1698936707
+lock-data: false
+data:
+- series: Der Grolltroll
+  episode: Der Grolltroll – Das Liederalbum
+  release: 1675814400
+  language: de-de
+  category: music
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001367-50004262-b-rV7vhfw0.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1673441034
+    hash: 60028B2555D49D7899E2BA3C535466D77F2FC38B
+    size: null
+    tracks: null

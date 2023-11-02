@@ -1,0 +1,22 @@
+article: 09-0101
+last-update: 1698936706
+lock-data: false
+data:
+- series: DEMO TONIE
+  episode: DEMO TONIE
+  release: null
+  language: de-de
+  category: DEMO TONIE
+  runtime: null
+  age: null
+  origin: stock
+  picture: ''
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1501087019
+    hash: 26AD7A48B7D153D1CEDA753AF25E38833DB340DF
+    size: null
+    tracks: null

@@ -1,0 +1,26 @@
+article: 10-0001
+last-update: 1698936706
+lock-data: false
+data:
+- series: Minimusiker
+  episode: Weihnachtslieder
+  release: 1575158400
+  language: de-de
+  category: Musik
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/02-0032-98-0517-b-sPki-aR6.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1575064246
+    hash: 0513A5510AD394D5B6D65073F09862DF4A7AB437
+    size: null
+    tracks: null
+  - audio-id: 1573742024
+    hash: E7783B4ECECEB0A03B4C8C25314434DFF13D2FCB
+    size: null
+    tracks: null

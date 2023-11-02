@@ -1,0 +1,32 @@
+article: '10001520'
+last-update: 1698936707
+lock-data: false
+data:
+- series: Favourite Children's Songs
+  episode: '[EN] Travelling Songs'
+  release: 0
+  language: de-de
+  category: music
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001520_travelling_-y5Rhf0Ot.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids: []
+- series: Favourite Children’s Songs
+  episode: Travelling Songs (relaunch)
+  release: 1677196800
+  language: en-gb
+  category: music
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001520_travelling_-y5Rhf0Ot.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids: []

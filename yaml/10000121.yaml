@@ -1,0 +1,22 @@
+article: '10000121'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Disney
+  episode: Dumbo
+  release: 1572998400
+  language: de-de
+  category: audio-play-songs
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000121-50000320-b-4RcJn6XY.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1571391804
+    hash: 41A81CA64D375560AAF4A55533ADE42F72A30BEF
+    size: null
+    tracks: null

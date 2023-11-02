@@ -1,0 +1,22 @@
+article: '10001264'
+last-update: 1698936707
+lock-data: false
+data:
+- series: Snöfrid aus dem Wiesental
+  episode: Das wahrlich große Geheimnis von Appelgarden
+  release: 0
+  language: de-de
+  category: audio-book
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001264-50003869-b-xkd5eaCQ.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1650637322
+    hash: A40CB1F5036C2DE96F740514514C58FD49612340
+    size: null
+    tracks: null

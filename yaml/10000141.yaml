@@ -1,0 +1,26 @@
+article: '10000141'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Disney
+  episode: Die Eiskönigin
+  release: 0
+  language: de-de
+  category: audio-play-songs
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000141-50000861-b-Lnlgh2mc.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1584719217
+    hash: 7F3303306E01A5DDD86EF0F12AA1BB070C35E4BC
+    size: null
+    tracks: null
+  - audio-id: 1612267806
+    hash: 7F3303306E01A5DDD86EF0F12AA1BB070C35E4BC
+    size: null
+    tracks: null

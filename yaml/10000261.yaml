@@ -1,0 +1,26 @@
+article: '10000261'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Eule findet den Beat
+  episode: Auf Europatour
+  release: 1613001600
+  language: de-de
+  category: audio-play-songs
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000261-50001480-b-cLLmbiSY.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1611151776
+    hash: 90692FFF7BCB10FBAB8F10A946EF3DF4547FA03B
+    size: null
+    tracks: null
+  - audio-id: 1679400689
+    hash: 83A2FEEEEF84C2BA84E10EC116B9943D9D9BEBBB
+    size: null
+    tracks: null

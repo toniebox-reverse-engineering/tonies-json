@@ -1,0 +1,22 @@
+article: '10001397'
+last-update: 1698936707
+lock-data: false
+data:
+- series: Schlummerbande
+  episode: Klassik zum Einschlafen - Träum schön, kleiner Schlummerhase
+  release: 1675814400
+  language: de-de
+  category: music
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001397-50004792-b-ND0m_DbY.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1673445177
+    hash: 0568BFC0D638A529D26123673551D58436A3FFC9
+    size: null
+    tracks: null

@@ -1,0 +1,22 @@
+article: '10000335'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Disney
+  episode: Winnie the Pooh
+  release: 1626307200
+  language: en-gb
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000335-50001024-b-9-kwCgCw.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1623757893
+    hash: FDFE716263EF7E90EE07F2C3CFAD2A5DE93317B8
+    size: null
+    tracks: null

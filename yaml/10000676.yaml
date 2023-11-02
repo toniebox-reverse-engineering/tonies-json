@@ -1,0 +1,22 @@
+article: '10000676'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Disney
+  episode: Beauty and the Beast
+  release: 1636502400
+  language: en-gb
+  category: audio-book-songs
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000676-50002149-b-eFVI6Tvh.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1633616185
+    hash: 80A70612E754900E25BCE05164CCA54F3996F7C7
+    size: null
+    tracks: null

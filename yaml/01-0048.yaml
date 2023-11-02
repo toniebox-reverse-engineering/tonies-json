@@ -1,0 +1,22 @@
+article: 01-0048
+last-update: 1698936705
+lock-data: false
+data:
+- series: Lieblings-Kinderlieder
+  episode: Schlaflieder
+  release: 1494892800
+  language: de-de
+  category: Musik
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://cdn.tonies.de/o/images/95e50928ad8528f54929492d825952a05918cbd01aef4356c115a2d7/01-0048-b-Nne5Ush0.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1490291885
+    hash: 574BB050383E37D08F99B1412212DDD52C4983E5
+    size: null
+    tracks: null

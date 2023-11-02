@@ -1,0 +1,22 @@
+article: 01-0178
+last-update: 1698936705
+lock-data: false
+data:
+- series: Lieblings-Kinderlieder
+  episode: Schlaflieder 2
+  release: 1543363200
+  language: de-de
+  category: Musik
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://cdn.tonies.de/o/images/1_888441cc4102acd783fb8b6a6c9d62525398151ff180f22a58e93ff0/3_bHgfJ4fn8bT5BLtD/peter_pan_und_4_weitere_klassiker_only_tonie_530x530.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1542992698
+    hash: FC7CF2CC4FFE8C68574A7DED1B5CAE5603B0E3B0
+    size: null
+    tracks: null

@@ -1,0 +1,22 @@
+article: '10000134'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Fünf Freunde
+  episode: Fünf Freunde und die doppelte Erfindung
+  release: 1583366400
+  language: de-de
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000134-50000867-b-ws0eZoLv.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1580986736
+    hash: 0359CE6D84668FA8BCB1918DC76BBF6E863C19F8
+    size: null
+    tracks: null

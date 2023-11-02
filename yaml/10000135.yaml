@@ -1,0 +1,22 @@
+article: '10000135'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Lieblings-Märchen
+  episode: Der gestiefelte Kater und vier weitere Märchen
+  release: 1591228800
+  language: de-de
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000135-50001285-b-5rvLEGAy.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1589466321
+    hash: 70E8AC620EF6EE8FB4C853FF37D6BDD3273753E0
+    size: null
+    tracks: null

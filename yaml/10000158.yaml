@@ -1,0 +1,76 @@
+article: '10000158'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Die drei ???
+  episode: Der Super-Papagei
+  release: 1604880000
+  language: de-de
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000158-50001310-b-Ov0GFH4k.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1602579939
+    hash: BAF7A9FEF8B948B9EFB38593778804D191D3269F
+    size: null
+    tracks: null
+- series: Die drei ???
+  episode: Das Hexen Handy
+  release: 1604880000
+  language: de-de
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000158-50001310-b-Ov0GFH4k.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1641978889
+    hash: B58AE4E6EB0B8BC6A136DA559CEDD1A45B4745C4
+    size: null
+    tracks: null
+- series: Die drei ???
+  episode: Höhenangst
+  release: 1604880000
+  language: de-de
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000158-50001310-b-Ov0GFH4k.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1641978893
+    hash: 7F4CB38F5F16C60876597FB905DFFE3C329C13DE
+    size: null
+    tracks: null
+- series: Die drei ???
+  episode: Die Musikpiraten
+  release: 1604880000
+  language: de-de
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000158-50001310-b-Ov0GFH4k.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1626080403
+    hash: 64EE06AA8E3EEBC737B492BA64A9C2846717899A
+    size: null
+    tracks: null

@@ -1,0 +1,22 @@
+article: '10001334'
+last-update: 1698936707
+lock-data: false
+data:
+- series: Lieblings-Kinderlieder
+  episode: Weihnachtslieder 2 (Neuauflage 2022)
+  release: 1663113600
+  language: de-de
+  category: music
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001334-50004100-b--CuPtjnzs.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1660920435
+    hash: 33C30A66A0D203571613F45626CC2B24E1AFE4F5
+    size: null
+    tracks: null

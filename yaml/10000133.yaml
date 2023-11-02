@@ -1,0 +1,22 @@
+article: '10000133'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Fünf Freunde
+  episode: Fünf Freunde und der Großalarm in Kirrin
+  release: 1583366400
+  language: de-de
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000133-50000866-b-0mPcGSsb.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1580993072
+    hash: 056DE0700D6DBF6509A52A5328303615893BF2D4
+    size: null
+    tracks: null

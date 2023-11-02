@@ -1,0 +1,22 @@
+article: '10000125'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Tilda Apfelkern
+  episode: Das geheime Kuchenrezept
+  release: 1580947200
+  language: de-de
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000125-50000598-b-5y8oPndQ.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1565945151
+    hash: 728E59FBFE91A7013D3077E7254295D76AEFC8A6
+    size: null
+    tracks: null

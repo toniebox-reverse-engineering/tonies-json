@@ -1,0 +1,22 @@
+article: '10000906'
+last-update: 1698936707
+lock-data: false
+data:
+- series: Das kleine WIR
+  episode: Das kleine WIR
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000906-50002969-b-CfEuwLeO.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1648810807
+    hash: 4196C73CEFD3E597E423FE4D56E3913E1360AAD0
+    size: null
+    tracks: null

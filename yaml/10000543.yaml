@@ -1,0 +1,22 @@
+article: '10000543'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Peppa Pig
+  episode: ''
+  release: 1621296000
+  language: en-us
+  category: Tonie
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-PeppaPig-Transparent.png?v=1620930667
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1618492730
+    hash: 89FE66253BFE64D1D1DF63AB6F9D49C23E90D863
+    size: null
+    tracks: null

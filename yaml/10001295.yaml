@@ -1,0 +1,22 @@
+article: '10001295'
+last-update: 1698936707
+lock-data: false
+data:
+- series: Steiff Soft Cuddly Friends mit Hörspiel
+  episode: Jimmy Bär
+  release: 1623283200
+  language: de-de
+  category: audio-play-songs
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/113888-Jimmy_Baer-b-Iikv8dks.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1632399239
+    hash: B9AF8845EA1D0F190045B83C28402EE97B2E3A62
+    size: null
+    tracks: null

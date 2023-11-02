@@ -1,0 +1,26 @@
+article: '10000254'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Benjamin Blümchen
+  episode: Das Original-Hörspiel zum Kinofilm und Songs
+  release: 1593648000
+  language: de-de
+  category: audio-play-songs
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000254-50001472-b-BD0glhj4.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1593184372
+    hash: D8294A166B9BCC3621816719A998CF37740FE269
+    size: null
+    tracks: null
+  - audio-id: 1599140047
+    hash: 1D868D4504B2228348F1306583930F109CE5E16B
+    size: null
+    tracks: null

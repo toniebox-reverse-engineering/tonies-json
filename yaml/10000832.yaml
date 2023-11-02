@@ -1,0 +1,22 @@
+article: '10000832'
+last-update: 1698936707
+lock-data: false
+data:
+- series: Lieblings-Kinderlieder
+  episode: Weihnachtslieder
+  release: 1631145600
+  language: de-de
+  category: music
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000832-50002702-b--53LpBw4c.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1628520341
+    hash: 5E26979F73425E70AAC9AB4F099B6C734094A5DB
+    size: null
+    tracks: null

@@ -1,0 +1,22 @@
+article: '10001483'
+last-update: 1698936707
+lock-data: false
+data:
+- series: Gloria Glühwürmchen
+  episode: Bezaubernde Gutenachtgeschichten
+  release: 1678233600
+  language: de-de
+  category: audio-book
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001483-50004756-b-UkvPZFOr.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1676034089
+    hash: AC18A1A2EFCC3047B848E8990D646DB65ADF307E
+    size: null
+    tracks: null

@@ -1,0 +1,22 @@
+article: '10000571'
+last-update: 1698936706
+lock-data: false
+data:
+- series: PAW Patrol
+  episode: Chase
+  release: 1634601600
+  language: en-us
+  category: Tonie
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-PawPatrol-Chase-Transparent.png?v=1632256667
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1629457432
+    hash: E5F816A06677591331DE87A9FB6968B153D3352F
+    size: null
+    tracks: null

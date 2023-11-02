@@ -1,0 +1,22 @@
+article: 01-0139
+last-update: 1698936705
+lock-data: false
+data:
+- series: Der kleine Siebenschläfer
+  episode: Die Geschichte vom kleinen Siebenschläfer, der nicht einschlafen konnte
+  release: 1599696000
+  language: de-de
+  category: audio-play-songs
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0139-50001491-b-sa1ZxbvZ.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1597844784
+    hash: 6D721696277CF60E7293DC2758FA63D964BF57D0
+    size: null
+    tracks: null

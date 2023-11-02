@@ -1,0 +1,22 @@
+article: 01-0054
+last-update: 1698936705
+lock-data: false
+data:
+- series: Mia and me
+  episode: Mia und die Elfen
+  release: 1506384000
+  language: de-de
+  category: Hörspiele & Hörbücher
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://cdn.tonies.de/o/images/82c3da5a969cb4c8e2aaffa66ff350d653ceae74dae93302eb36d5e6/01-0054-b-tB1g6UpN.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1509029455
+    hash: FE66BD616ED713B071EB5FAA59513A5A801EB75F
+    size: null
+    tracks: null

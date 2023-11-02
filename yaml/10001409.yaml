@@ -1,0 +1,22 @@
+article: '10001409'
+last-update: 1698936707
+lock-data: false
+data:
+- series: Käpt'n Blaubär
+  episode: Seemannsgarn
+  release: 1678233600
+  language: de-de
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001409-50004888-b-lFs2YNLv.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1676022957
+    hash: 7422458447DB2866B0EBDE644376E95882F1F87A
+    size: null
+    tracks: null

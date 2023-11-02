@@ -1,0 +1,22 @@
+article: '10000303'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Peppa Pig
+  episode: Die Ritterburg und 7 weitere Geschichten
+  release: 1605744000
+  language: de-de
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000303-50001268-b-MMwcmSQ5.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1603281123
+    hash: 9D5EDE86C919617B949BC0B8F69B3FB8BF67CA42
+    size: null
+    tracks: null

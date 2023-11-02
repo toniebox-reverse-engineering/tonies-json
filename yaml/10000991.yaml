@@ -1,0 +1,22 @@
+article: '10000991'
+last-update: 1698936707
+lock-data: false
+data:
+- series: Disney
+  episode: Toy Story 2
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000991-50003233-b-Vh9GpEnz.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1651664260
+    hash: DE0AC754ADFE70755689F1F252849A49E672CD3B
+    size: null
+    tracks: null

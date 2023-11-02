@@ -1,0 +1,22 @@
+article: '10000908'
+last-update: 1698936707
+lock-data: false
+data:
+- series: Die kleine Raupe Nimmersatt
+  episode: Schlaf gut! Die kleine Raupe Nimmersatt und weitere Geschichten
+  release: 1670371200
+  language: de-de
+  category: audio-book
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000908-50002975-b-zPLNtEEh.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1668785697
+    hash: 802E3667543AC87FEE9CC11A60865BE95CC0AAD8
+    size: null
+    tracks: null

@@ -1,0 +1,22 @@
+article: '10000855'
+last-update: 1698936707
+lock-data: false
+data:
+- series: Mes Comptines Préférées
+  episode: De La Maternelle
+  release: 0
+  language: fr-fr
+  category: music
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000855-50002777-b-BLI50xUV.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1621604842
+    hash: 658FDD725562CEC6721132328B4EE10E3C4B7F2E
+    size: null
+    tracks: null

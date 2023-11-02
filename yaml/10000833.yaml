@@ -1,0 +1,22 @@
+article: '10000833'
+last-update: 1698936707
+lock-data: false
+data:
+- series: Griechische Sagen
+  episode: Griechische Sagen
+  release: 1620604800
+  language: de-de
+  category: audio-book
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000833-50002705-b--hncQ3mlz.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1618495778
+    hash: 600359A081A4FB4B794830CA355FBB2216F19842
+    size: null
+    tracks: null

@@ -1,0 +1,22 @@
+article: '10000137'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Lieblings-Märchen
+  episode: Sterntaler und 4 weitere Märchen
+  release: 1562198400
+  language: de-de
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000137-50000691-b-Tje2BW-j.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1561467219
+    hash: D20A6EDEB83B866CE86B9278B73B888D1CCB9BCB
+    size: null
+    tracks: null

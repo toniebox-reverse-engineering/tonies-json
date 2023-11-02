@@ -1,0 +1,22 @@
+article: '10001826'
+last-update: 1698936707
+lock-data: false
+data:
+- series: LeVar Burton Tonie
+  episode: ''
+  release: 1628467200
+  language: en-us
+  category: Tonie
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-LeVar-transparent.png?v=1628179778
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1629876957
+    hash: 127C09AEBF9D36DACC54C726EEB3ABE7388DC56A
+    size: null
+    tracks: null

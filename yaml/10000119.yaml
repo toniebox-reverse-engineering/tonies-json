@@ -1,0 +1,22 @@
+article: '10000119'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Disney
+  episode: Aladdin
+  release: 1572998400
+  language: de-de
+  category: audio-play-songs
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000119-50000315-b-0XapXGS4.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1571647953
+    hash: AAA64D3F3B3181826B47E2DBF22AF3225B300113
+    size: null
+    tracks: null

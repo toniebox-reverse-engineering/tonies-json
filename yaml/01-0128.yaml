@@ -1,0 +1,22 @@
+article: 01-0128
+last-update: 1698936705
+lock-data: false
+data:
+- series: Lieblings-Kinderlieder
+  episode: Weihnachtslieder
+  release: 1510012800
+  language: de-de
+  category: Musik
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://cdn.tonies.de/o/images/59021c11e18f9a552fac7d729869e7742577dca72e4c1fbc26398fa8/01-0128-b-Wkk0E5Dx.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1506519950
+    hash: 3BE2F4C9D08353C27F2B2BAE91A9A22601EDA9D9
+    size: null
+    tracks: null

@@ -1,0 +1,22 @@
+article: '10001677'
+last-update: 1698936707
+lock-data: false
+data:
+- series: Die Schlümpfe
+  episode: Ein unwiderschlumpfliches Lächeln & 3 weitere schlumpfige Abenteuer
+  release: 1677024000
+  language: de-de
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001677-50003915-b-C3OJyjcN.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1673875899
+    hash: F0EB1CA3E579FDD309F01AEC1EE6F33F1D209525
+    size: null
+    tracks: null

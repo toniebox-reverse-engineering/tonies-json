@@ -1,0 +1,22 @@
+article: '10000998'
+last-update: 1698936707
+lock-data: false
+data:
+- series: Die neugierige kleine Hexe
+  episode: Die neugierige kleine Hexe / Die kleine Hexe hat Geburtstag
+  release: 1663113600
+  language: de-de
+  category: audio-play-songs
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000998-50003259-b-ZI_o1F01.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1656082085
+    hash: B5DD91E588B8B04BD1EBA892C40B46E7C3910936
+    size: null
+    tracks: null

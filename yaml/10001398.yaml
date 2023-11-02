@@ -1,0 +1,22 @@
+article: '10001398'
+last-update: 1698936707
+lock-data: false
+data:
+- series: Super Wings
+  episode: Feuer im Wald
+  release: 1678233600
+  language: de-de
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001398-50004796-b-vpr1i_hI.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1675947987
+    hash: 100929D48F18D63B21F7A5ACA3F8960822469B74
+    size: null
+    tracks: null

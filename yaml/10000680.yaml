@@ -1,0 +1,22 @@
+article: '10000680'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Miraculous
+  episode: Miraculous - Ladybug
+  release: 1653004800
+  language: en-gb
+  category: audio-play
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000680-50002157-b-lGHrrwRs.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1651044662
+    hash: BF5B74812C4DC0EEDEA29253EF7ADEF5CFD2A8A2
+    size: null
+    tracks: null

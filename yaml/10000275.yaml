@@ -1,0 +1,22 @@
+article: '10000275'
+last-update: 1698936706
+lock-data: false
+data:
+- series: Bakabu
+  episode: Beste Freunde
+  release: 1615420800
+  language: de-de
+  category: music
+  runtime: null
+  age: null
+  origin: stock
+  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000275-50001839-b-fccLgkxG.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1614016237
+    hash: 98EE30F7C0997C013077CE12935F203451F79A04
+    size: null
+    tracks: null

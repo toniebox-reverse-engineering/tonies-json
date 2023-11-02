@@ -1,0 +1,22 @@
+article: 09-0010
+last-update: 1698936706
+lock-data: false
+data:
+- series: Creative-Tonie
+  episode: Purple Brown with Star (Starter Set)
+  release: 1600819200
+  language: en-us
+  category: Creative-Tonies
+  runtime: null
+  age: null
+  origin: stock
+  picture: ''
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1
+    hash: 6077D3FE350568A984573538E79F000A6D2780E2
+    size: null
+    tracks: null
