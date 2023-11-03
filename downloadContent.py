@@ -108,7 +108,7 @@ for filename in os.listdir(auth_download_dir):
                     endpoint = f'/v1/content/{pair["ruid"]}'
 
                 print(f"Start download for {filename} with {endpoint} {auth}")
-                taf = get_server_data(endpoint, method='GET', auth=auth)
+                taf = get_server_data(endpoint, method='GET', auth=auth, max_length=1024*1024*5)
                 if taf is not None:
                     with open(taf_file, "wb") as file:
                         file.write(taf)
