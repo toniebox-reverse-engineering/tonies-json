@@ -22,7 +22,7 @@ class YamlStruct:
             "runtime": 0,
             "age": 99,
             "origin": "stock",
-            "picture": None,
+            "image": None,
             "sample": None,
             "web": None,
             "shop-id": None,

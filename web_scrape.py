@@ -86,7 +86,7 @@ for lang, data in json_data.items():
                     "age": ("ageMin",),
                     "origin": (None, "stock"),  # Fixed value
                     "category": ("genre", "key"),
-                    "picture": ("image", "src"),
+                    "image": ("image", "src"),
                     "sample": ("audioSampleUrl",),
                     "web": ("path", lambda x: f'https://tonies.com{x}'),
                     "shop-id": ("id",),

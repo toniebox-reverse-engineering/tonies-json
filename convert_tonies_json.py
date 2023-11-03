@@ -62,7 +62,7 @@ for article, article_items in article_data.items():
             yaml_data["release"] = int(item["release"])
         yaml_data["language"] = item["language"].lower()
         yaml_data["category"] = item["category"]
-        yaml_data["picture"] = item["pic"]
+        yaml_data["image"] = item["pic"]
 
         for track in item["tracks"]:
             yaml_data["track-desc"].append(track)

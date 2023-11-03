@@ -41,7 +41,7 @@ for filename in sorted(os.listdir(yaml_dir)):
                 "release": str(item["release"]),
                 "language": item["language"],
                 "category": item["category"],
-                "pic": item["picture"]
+                "pic": item["image"]
             }
             tonies_json.append(tonies_element)
 
@@ -54,7 +54,7 @@ for filename in sorted(os.listdir(yaml_dir)):
                 "runtime": item["runtime"],
                 "age": item["age"],
                 "origin": item["origin"],
-                "picture": item["picture"],
+                "image": item["image"],
                 "sample": item["sample"],
                 "web": item["web"],
                 "shop-id": item["shop-id"],
