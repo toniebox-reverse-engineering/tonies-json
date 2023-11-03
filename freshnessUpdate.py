@@ -88,6 +88,7 @@ fc_request = fc_request_pb2.TonieFreshnessCheckRequest()
 
 yaml_infos = {}
 article_infos = {}
+tonie_info_data = []
 
 for filename in os.listdir(auth_dir):
     if filename.endswith('.auth.yaml'):
@@ -132,18 +133,21 @@ for filename in os.listdir(auth_dir):
                 'updated' : False
             }
 
-            # Create a TonieFCInfo message and populate it with data from the YAML file
-            tonie_info = fc_request.tonie_infos.add()
-            tonie_info.uid = ruid_to_int_uid(pair["ruid"])  # Replace with the actual YAML field name
-            tonie_info.audio_id = int(id["audio-id"])
-            print(f"uid: {tonie_info.uid:016x}, audio_id: {tonie_info.audio_id}")
+            uid = ruid_to_int_uid(pair["ruid"])
+            tonie_info_data.append({"ruid": pair["ruid"], "uid": uid, "audio-id": int(id["audio-id"])})
 
-            if tonie_info.uid in yaml_infos:
-                print(f"Warning: UID {tonie_info.uid} is already in the YAML data, skipping {filename}.")
+            if uid in yaml_infos:
+                print(f"Warning: UID {uid} is already in the YAML data, skipping {filename}.")
             else:
-                yaml_infos[tonie_info.uid] = yaml_info
+                yaml_infos[uid] = yaml_info
                 article_info.append(yaml_info)
         article_infos[yaml_info["article"]] = article_info
+
+for pair in sorted(tonie_info_data, key=lambda x: x["ruid"]):
+    tonie_info = fc_request.tonie_infos.add()
+    tonie_info.uid = pair["uid"]
+    tonie_info.audio_id = pair["audio-id"]
+    print(f"uid: {tonie_info.uid:016x}, audio_id: {tonie_info.audio_id}")
 
 # Send a POST request with data
 endpoint_path_post = 'v1/freshness-check'
