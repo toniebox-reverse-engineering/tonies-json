@@ -1,3 +1,5 @@
 work/
 **/*.pyc
 scrape.json
+tonies.json
+toniesV2.json
