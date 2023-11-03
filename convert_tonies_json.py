@@ -31,7 +31,6 @@ else:
 
 
 # Don't delete
-# TODO Update instead of skipping
 # [os.remove(os.path.join(yaml_dir, filename)) for filename in os.listdir(yaml_dir) if os.path.isfile(os.path.join(yaml_dir, filename))]
 
 # Load JSON data from a file
