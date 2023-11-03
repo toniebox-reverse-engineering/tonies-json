@@ -10,7 +10,7 @@ data:
   runtime: 60
   age: 4
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000260-50001234-b-A-Z2g-Qk.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000260-50001234-b-A-Z2g-Qk.png
   sample: https://cdn.tonies.de/o/audio_samples/527e99e18ea7f434dea0aefdfcd22901d5ac953d0b36bd893e63f9d1/hoerprobe_disney_findet_nemo_ext.mp3
   web: https://tonies.com/de-de/tonies/disney/findet-nemo/
   shop-id: 38a17126-3f7a-4224-85c6-0fd313085fa7

@@ -10,7 +10,7 @@ data:
   runtime: 0
   age: 99
   origin: stock
-  picture: https://cdn.tonies.de/o/images/1_c80b1c5f08a64fd6054ad471f83252c5460cbfc6c94df6039aeaccb6/3_Y5l4FN0h5J9YG4ST/hotzenplotz_3_only_tonie_530x530.png
+  image: https://cdn.tonies.de/o/images/1_c80b1c5f08a64fd6054ad471f83252c5460cbfc6c94df6039aeaccb6/3_Y5l4FN0h5J9YG4ST/hotzenplotz_3_only_tonie_530x530.png
   sample: null
   web: null
   shop-id: null

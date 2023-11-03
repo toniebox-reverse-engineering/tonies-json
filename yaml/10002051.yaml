@@ -10,7 +10,7 @@ data:
   runtime: 43
   age: 3
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10002051%202-C9J-Q3tK.png
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10002051%202-C9J-Q3tK.png
   sample: https://cdn.tonies.de/o/audio_samples/c75f61c1e4cdf8a718b5fe124c098184bbbaba3c18812f12ffc0c27c/10002051_disney_tigger.wav
   web: https://tonies.com/en-gb/tonies/disney/tigger/
   shop-id: 8a62751e-615d-4519-8f88-d437e40cde7e

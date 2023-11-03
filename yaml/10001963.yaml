@@ -10,7 +10,7 @@ data:
   runtime: 101
   age: 6
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10001963%202-Z6cvgmGu.png
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10001963%202-Z6cvgmGu.png
   sample: https://cdn.tonies.de/o/audio_samples/df8177901baf82d5151832b0573e1fb280c4d8a46388a55b865353ab/10001963_the_enormous_crocodile_sample.wav
   web: https://tonies.com/en-gb/tonies/roald-dahl/enormous-crocodile/
   shop-id: 911b75fc-1fef-492c-bd11-46509afad820

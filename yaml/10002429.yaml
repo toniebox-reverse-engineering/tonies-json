@@ -10,7 +10,7 @@ data:
   runtime: 0
   age: 99
   origin: stock
-  picture: https://res.cloudinary.com/tonies/image/fetch/f_auto,q_auto,c_fill,w_480,h_360/https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/oster_bundle_02-bzH4KU1s.png
+  image: https://res.cloudinary.com/tonies/image/fetch/f_auto,q_auto,c_fill,w_480,h_360/https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/oster_bundle_02-bzH4KU1s.png
   sample: null
   web: null
   shop-id: null

@@ -10,7 +10,7 @@ data:
   runtime: 50
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001000-50003267-b-lHloX8vZ.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001000-50003267-b-lHloX8vZ.png
   sample: https://cdn.tonies.de/o/audio_samples/2f25f0d1916c374ceb28f27b43416ef4b0546beaeae7736ee0840fd5/hoerprobe_10001000_volker_rosin_das_singende_kanguru.mp3
   web: https://tonies.com/de-de/tonies/volker-rosin/das-singende-kaenguru/
   shop-id: 8b4b73a4-aaa5-4179-ba29-b30386a10571

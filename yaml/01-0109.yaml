@@ -10,7 +10,7 @@ data:
   runtime: 28
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0109-98-0332-b-yc5xb9lc.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0109-98-0332-b-yc5xb9lc.png
   sample: https://cdn.tonies.de/o/audio_samples/5640c68c89c23e9343737a37e6a3cd6f02d29dc9b037818c82b2cecc/hoerprobe_drbrumm_steckt_fest.mp3
   web: https://tonies.com/de-de/tonies/dr-brumm/dr-brumm-steckt-fest-geht-baden/
   shop-id: 5bd64931-8abd-44d7-a80c-225f80f903f0

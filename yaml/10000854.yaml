@@ -10,7 +10,7 @@ data:
   runtime: 35
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000854-50002779-b-OOThPjhi.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000854-50002779-b-OOThPjhi.png
   sample: https://cdn.tonies.de/o/audio_samples/ca82df1399220c09d46072f4a2ecbce361a15569580705d427d36e5d/sample_tonie_mcomp_sommeil.mp3
   web: https://tonies.com/fr-fr/tonies/mes-comptines-preferees/pour-sendormir/
   shop-id: 9bf6ee1e-0274-4281-9430-6c6f46d75e59

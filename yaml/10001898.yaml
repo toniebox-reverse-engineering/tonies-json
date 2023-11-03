@@ -10,7 +10,7 @@ data:
   runtime: 60
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001898-50004934-b-1Q6Gcikl.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001898-50004934-b-1Q6Gcikl.png
   sample: https://cdn.tonies.de/o/audio_samples/b90fcf7f11d7da60b480dbd963475f8fd680ee4c0619321dab2cb2ca/hoerprobe_10001898_lkl_reiselieder_neuauflage2023.mp3
   web: https://tonies.com/de-de/tonies/lieblings-kinderlieder/reiselieder-neuauflage-2023/
   shop-id: 8449c928-c879-4ac3-b320-aa1c258cc607

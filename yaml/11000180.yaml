@@ -10,7 +10,7 @@ data:
   runtime: 167
   age: 5
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/11000180%202-ZnRbpILt.png
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/11000180%202-ZnRbpILt.png
   sample: https://cdn.tonies.de/o/audio_samples/a25e9b26bff4efba631936d6ed3cc1f5dc6fc97c418d61a79c472f7d/11000180_claude_sample_1.wav
   web: https://tonies.com/en-gb/tonies/claude/the-claude-collection/
   shop-id: b49dfa77-8f14-42fe-bd88-52b5e5d3a412

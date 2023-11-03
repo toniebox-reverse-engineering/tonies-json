@@ -10,7 +10,7 @@ data:
   runtime: 78
   age: 10
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000256-50001476-b-eiCDwljn.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000256-50001476-b-eiCDwljn.png
   sample: https://cdn.tonies.de/o/audio_samples/93751d7d6cc285013ab13f209914560762c6a084f926c88c63619077/hoerprobe_gregs_tagebuch.mp3
   web: https://tonies.com/de-de/tonies/greg-s-tagebuch/von-idioten-umzingelt/
   shop-id: 98ad6834-e5be-4c8b-95e4-204613ffa537

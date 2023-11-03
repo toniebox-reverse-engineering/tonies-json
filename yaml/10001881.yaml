@@ -10,7 +10,7 @@ data:
   runtime: 0
   age: 3
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/animal_songs-UOzCXphB.png
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/animal_songs-UOzCXphB.png
   sample: https://cdn.tonies.de/o/audio_samples/8518cdec3464e3ef99d47091279c72f82d7cf9d2e98b5b91cfb77ea2/animal_songs_relaunch_audio_sample.wav
   web: https://tonies.com/en-gb/tonies/favourite-children-s-songs/animal-songs-relaunch/
   shop-id: c1759a33-c3f2-4da4-bd1e-729f08a49249

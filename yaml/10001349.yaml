@@ -10,7 +10,7 @@ data:
   runtime: 140
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001349-50004169-b--ht0H8CMD.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001349-50004169-b--ht0H8CMD.png
   sample: https://cdn.tonies.de/o/audio_samples/1329e1ecfea1d0a6db1384252b30dca53ad20f59681129f3421f16fc/sample_tonie_mouton.mp3
   web: https://tonies.com/fr-fr/tonies/les-copains-du-dodo/doudou-mouton/
   shop-id: ce11f0b3-a483-4c3f-8117-2cf11d231b74

@@ -10,7 +10,7 @@ data:
   runtime: 39
   age: 6
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001272-50003893-b-RomQNzzA.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001272-50003893-b-RomQNzzA.png
   sample: https://cdn.tonies.de/o/audio_samples/471c9fd96f2556695f4321fd40a2c4c081934b952a76ee8e0ba41dbc/sample_tonie_obelix.mp3
   web: https://tonies.com/fr-fr/tonies/asterix/asterix-et-la-serpe-d-or/
   shop-id: f57fea92-4b7c-4e02-9713-9ab452d30374

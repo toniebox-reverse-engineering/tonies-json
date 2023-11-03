@@ -10,7 +10,7 @@ data:
   runtime: 60
   age: 5
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10001316-50004029-b-IfJpkLh3.png
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10001316-50004029-b-IfJpkLh3.png
   sample: https://cdn.tonies.de/o/audio_samples/bef9f0125b88efe418880e9e5528ff0a06edc1fda649789fedd52f36/1dino_intro.wav
   web: https://tonies.com/en-gb/tonies/national-geographic-kids/dinosaur/
   shop-id: 4b0e863e-49f1-4d3e-ab61-0bf13ac045fb

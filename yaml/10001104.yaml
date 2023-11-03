@@ -10,7 +10,7 @@ data:
   runtime: 42
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001104-50003563-b-j6GOEtEp.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001104-50003563-b-j6GOEtEp.png
   sample: https://cdn.tonies.de/o/audio_samples/f7fdfae96df2849daab637cb2a749798388da342824d7f7bf07e2884/sample_tonie_disney_cendrillon.mp3
   web: https://tonies.com/fr-fr/tonies/disney/cendrillon/
   shop-id: 843fc10b-e16e-4ee2-a8e1-1a187a2dd895

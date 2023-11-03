@@ -10,7 +10,7 @@ data:
   runtime: 40
   age: 6
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001014-50003337-b-FfnEjhli.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001014-50003337-b-FfnEjhli.png
   sample: https://cdn.tonies.de/o/audio_samples/4f7d2583bc73d34f8d38d70e6305fa2349f81c6cf8b38925c5773043/sample_tonie_asterix.mp3
   web: https://tonies.com/fr-fr/tonies/asterix/asterix-le-gaulois/
   shop-id: a542033a-7c62-485a-96a7-3ade5246aeb1

@@ -10,7 +10,7 @@ data:
   runtime: 61
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000331-50001008-b-ztePf54Z.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000331-50001008-b-ztePf54Z.png
   sample: https://cdn.tonies.de/o/audio_samples/47c71dd9d3868fba7e23103f23e0a7c373fd0704f0dc126a916f5eec/horprobe_miffy_ext_v2.mp3
   web: https://tonies.com/de-de/tonies/miffy/miffy/
   shop-id: fe4f8dff-c33c-4650-b6ba-ee1298a6c4dc

@@ -10,7 +10,7 @@ data:
   runtime: 60
   age: 8
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000361-50001145-b-pEg2Z-qw.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000361-50001145-b-pEg2Z-qw.png
   sample: https://cdn.tonies.de/o/audio_samples/83a497ed4b466848a9c3e5009e1775f9c96779c915f658069f223cbe/hoerprobe_lea_leas_welt_ext.mp3
   web: https://tonies.com/de-de/tonies/lea/leas-welt/
   shop-id: b43bc447-6bab-43ce-844c-d802635e51bf

@@ -10,7 +10,7 @@ data:
   runtime: 42
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001367-50004262-b-rV7vhfw0.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001367-50004262-b-rV7vhfw0.png
   sample: https://cdn.tonies.de/o/audio_samples/a1be4d72c48fd34273639d98014534eb271564349f43b157487aa24d/hoerprobe_10001367_der_grolltroll_das_liederalbum.mp3
   web: https://tonies.com/de-de/tonies/der-grolltroll/der-grolltroll/
   shop-id: 1ef7015c-4d81-4760-984b-7feed57a2478

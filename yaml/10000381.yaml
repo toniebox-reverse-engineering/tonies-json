@@ -10,7 +10,7 @@ data:
   runtime: 157
   age: 5
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000381-50001306-b-IOqxFBcw.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000381-50001306-b-IOqxFBcw.png
   sample: https://cdn.tonies.de/o/audio_samples/c5b02ca7dcd0d47f64889760ee1b6d31d1bb5f9cd114cbf05aebc72c/hoerprobe_10000381_paddington_bar_geschichten_von_paddington.mp3
   web: https://tonies.com/de-de/tonies/paddington/geschichten-von-paddington/
   shop-id: 9efac991-a993-475d-a467-fff52dcb526c

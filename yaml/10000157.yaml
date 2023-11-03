@@ -10,7 +10,7 @@ data:
   runtime: 69
   age: 5
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000157-50000831-b-St6GicV3.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000157-50000831-b-St6GicV3.png
   sample: https://cdn.tonies.de/o/audio_samples/b044c9d5ef4b1f322537165d2deaa898d811901e3cc551714ac6c566/hoerprobe_wickie_tanz_mit_dem_wolf_ext.mp3
   web: https://tonies.com/de-de/tonies/wickie/tanz-mit-dem-wolf-und-sechs-weitere-episoden/
   shop-id: 4deb87fa-9827-44ec-a47f-37ec82a020c6
@@ -47,7 +47,7 @@ data:
   runtime: 0
   age: 99
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000157-50000831-b-St6GicV3.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000157-50000831-b-St6GicV3.png
   sample: null
   web: null
   shop-id: null

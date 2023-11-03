@@ -10,7 +10,7 @@ data:
   runtime: 45
   age: 5
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0183-98-0557-b-XDLX3NB2.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0183-98-0557-b-XDLX3NB2.png
   sample: https://cdn.tonies.de/o/audio_samples/d2a40fccc0c44d74dce21206d22c217c6e8d446232c81152c1a1bf9f/hoerprobe_01_0183_tkkg_junior_auf_frischer_tat_ertappt_ext.mp3
   web: https://tonies.com/de-de/tonies/tkkg-junior/auf-frischer-tat-ertappt/
   shop-id: fe29fd46-5ab6-4c43-b1b2-fa97a3e88089

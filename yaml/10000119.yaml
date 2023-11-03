@@ -10,7 +10,7 @@ data:
   runtime: 60
   age: 4
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000119-50000315-b-0XapXGS4.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000119-50000315-b-0XapXGS4.png
   sample: https://cdn.tonies.de/o/audio_samples/d3b15bb2e5c3e4eaeacc2067a9ea135fa48fb271798eca958cff2509/hoerprobe_disney_aladdin_ext_v2.mp3
   web: https://tonies.com/de-de/tonies/disney/aladdin/
   shop-id: 6dd72d92-b865-4bed-b49a-4537138876a5

@@ -10,7 +10,7 @@ data:
   runtime: 42
   age: 4
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0174-98-0519-b-KM4m_yll.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0174-98-0519-b-KM4m_yll.png
   sample: https://cdn.tonies.de/o/audio_samples/394027cd86fa675fce1a6df6281ae1a91485307622450caa84f57ccb/hoerprobe_bibi_blocksberg_prinzessinnen_thunderstorm.mp3
   web: https://tonies.com/de-de/tonies/bibi-blocksberg/die-prinzessinnen-von-thunderstorm/
   shop-id: ff34f5c4-bf80-4df4-a4dd-546805d2f028

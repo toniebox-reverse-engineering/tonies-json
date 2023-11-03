@@ -10,7 +10,7 @@ data:
   runtime: 40
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/BOX10002022_1_a-Zh1y8OUG.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/BOX10002022_1_a-Zh1y8OUG.png
   sample: https://cdn.tonies.de/o/audio_samples/41c9ebd66f83536e24f6a41f2f48cb27c9000bbf980acd9902d50a5b/hoerprobe_conni_backt_pizza.mp3
   web: https://tonies.com/de-de/tonies/conni/conni-backt-pizza-conni-lernt-rad-fahren/
   shop-id: bf2b0a26-c326-43c0-ad60-1d476e3cfb69

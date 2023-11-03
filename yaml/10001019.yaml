@@ -10,7 +10,7 @@ data:
   runtime: 40
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001019-50003348-b-lvPFWvbL.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001019-50003348-b-lvPFWvbL.png
   sample: https://cdn.tonies.de/o/audio_samples/b5f4d5bf9572c8c3c0ac6b2b3af9f54f09fb59b1c5ad0e07b37d892a/sample_tonie_mcomp_mimer.mp3
   web: https://tonies.com/fr-fr/tonies/mes-comptines-preferees/mimer/
   shop-id: 24d9c453-5a60-4c36-8942-30e9ace867ac

@@ -10,7 +10,7 @@ data:
   runtime: 41
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001269-50003883-b-fSNPnwHP.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001269-50003883-b-fSNPnwHP.png
   sample: https://cdn.tonies.de/o/audio_samples/fe0f72fdf005fe753ef24a3a525a04e5c717e1ea3ef7b49561eaea02/sample_tonie_mcomp_pour_voyager.mp3
   web: https://tonies.com/fr-fr/tonies/mes-comptines-preferees/pour-voyager/
   shop-id: 8965d694-8ef4-4720-8996-ab2e3079f095

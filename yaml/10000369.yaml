@@ -10,7 +10,7 @@ data:
   runtime: 33
   age: 6
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000369-50001166-b-i7Y1DVdZ.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000369-50001166-b-i7Y1DVdZ.png
   sample: https://cdn.tonies.de/o/audio_samples/312fbf8633410e9d193cd1a0878cbf3b100169f21a6f0088ac64df86/hoerprobe_10000369_pixi_wissen_planeten_und_sterne.mp3
   web: https://tonies.com/de-de/tonies/pixi-wissen/planeten-und-sterne/
   shop-id: 4f240806-b91b-4fe7-b611-fa7119986f98

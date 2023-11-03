@@ -10,7 +10,7 @@ data:
   runtime: 24
   age: 4
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000867-50002803-b-DgFhMN-g.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000867-50002803-b-DgFhMN-g.png
   sample: https://cdn.tonies.de/o/audio_samples/d30824cf380f5d0bd3bd0f40815486dc5e5da1ba7fdd7dba70c4d226/sample_tonie_disney_woody.mp3
   web: https://tonies.com/fr-fr/tonies/disney/toy-story/
   shop-id: ba229e52-2211-4057-a853-7ec1a3038246

@@ -10,7 +10,7 @@ data:
   runtime: 43
   age: 4
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000291-50001843-b-tQqIdmu_.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000291-50001843-b-tQqIdmu_.png
   sample: https://cdn.tonies.de/o/audio_samples/e2aaa0b81af2f8ee32797d1be5316c8301e95ff1965965e166cb5481/hoerprobe_was_ist_was_junior_bauernhof_ext.mp3
   web: https://tonies.com/de-de/tonies/was-ist-was-junior/bauernhof/
   shop-id: da90bbbd-fd0c-4c4c-bcb8-7c2c4f9afd15

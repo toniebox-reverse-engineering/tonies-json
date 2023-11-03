@@ -10,7 +10,7 @@ data:
   runtime: 50
   age: 5
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/05-0001-99-0443-b-Q5QayTN7.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/05-0001-99-0443-b-Q5QayTN7.png
   sample: https://cdn.tonies.de/o/audio_samples/8e1951f0112f454b13710c05373b924df49cbba93f947dca0519bf6b/hoerprobe_playmo_1_der_schatz_der_teufelsinsel.mp3
   web: https://tonies.com/de-de/tonies/die-playmos/der-schatz-der-teufelsinsel/
   shop-id: f06fe243-7428-4c09-9ae7-a3eb61c8513a

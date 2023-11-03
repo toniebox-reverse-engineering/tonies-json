@@ -10,7 +10,7 @@ data:
   runtime: 43
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/50005848-FR-Tonie_Sh-zcYSqV06.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/50005848-FR-Tonie_Sh-zcYSqV06.png
   sample: https://cdn.tonies.de/o/audio_samples/16c73fe7ac6bb2d22e2110a5c045b8017e24d51cfa6d8c9e53ced089/sample_tonie_pat_patrouille_everest.mp3
   web: https://tonies.com/fr-fr/tonies/la-pat-patrouille/everest/
   shop-id: 3a22b5c6-5b2a-4709-b04b-8e2ad82b90ec

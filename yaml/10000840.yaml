@@ -10,7 +10,7 @@ data:
   runtime: 54
   age: 3
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/Image%202-_pbF_tF5.png
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/Image%202-_pbF_tF5.png
   sample: https://cdn.tonies.de/o/audio_samples/d2b078f786a7ec10c26f69de6ae750eecdc6439e086b1ae4d53f17d4/10000840_elf_on_the_shelf_sample.wav
   web: https://tonies.com/en-gb/tonies/the-elf-on-the-shelf/the-elf-on-the-shelf/
   shop-id: c4d1b66d-4955-4f25-b24d-30bf7908a6f9

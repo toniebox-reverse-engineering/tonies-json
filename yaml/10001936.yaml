@@ -10,7 +10,7 @@ data:
   runtime: 53
   age: 3
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/Image%202-kRmrySqv.png
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/Image%202-kRmrySqv.png
   sample: https://cdn.tonies.de/o/audio_samples/d8a62daf6795be6bc33353fb08fde8394daa469a81b02f80846dce74/10001936_tinkerbell_sample.wav
   web: https://tonies.com/en-gb/tonies/disney/tinkerbell/
   shop-id: 4eb447f9-452b-4e71-9234-c299768bc430

@@ -10,7 +10,7 @@ data:
   runtime: 63
   age: 4
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000728-50002356-b-yDBdHPIA.png
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000728-50002356-b-yDBdHPIA.png
   sample: https://cdn.tonies.de/o/audio_samples/4bbb7c363645b16b9701cb69a233b6de527062026cf7ef805186296e/pjmasks_gekko_audiosample.wav
   web: https://tonies.com/en-gb/tonies/pj-masks/gekko/
   shop-id: 319804c0-453f-480e-a48d-3a81f06f5979

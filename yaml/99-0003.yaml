@@ -10,7 +10,7 @@ data:
   runtime: 0
   age: 99
   origin: stock
-  picture: http://gt-blog.de/JSON/Kreativ-Tonie%20-%20(Platzhalter).png
+  image: http://gt-blog.de/JSON/Kreativ-Tonie%20-%20(Platzhalter).png
   sample: null
   web: null
   shop-id: null

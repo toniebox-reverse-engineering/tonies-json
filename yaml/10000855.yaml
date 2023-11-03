@@ -10,7 +10,7 @@ data:
   runtime: 40
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000855-50002777-b-BLI50xUV.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000855-50002777-b-BLI50xUV.png
   sample: https://cdn.tonies.de/o/audio_samples/e1899209ba57a9810668fab0acce52e0c503cde25dececf0f6e4c23e/sample_tonie_mcomp_maternelle.mp3
   web: https://tonies.com/fr-fr/tonies/mes-comptines-preferees/de-la-maternelle/
   shop-id: ad3cbc3c-e047-49ac-a45a-20dbf09fa373

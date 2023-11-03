@@ -10,7 +10,7 @@ data:
   runtime: 0
   age: 99
   origin: stock
-  picture: https://cdn.tonies.de/o/images/1_65687b6e76df3b70c662eac79af0423c044c66c6c749f6fc1695aa5b/3_-mrr8Z5tcMkdmCZ2/weihnachtslieder_2_only_tonie_530x530.png
+  image: https://cdn.tonies.de/o/images/1_65687b6e76df3b70c662eac79af0423c044c66c6c749f6fc1695aa5b/3_-mrr8Z5tcMkdmCZ2/weihnachtslieder_2_only_tonie_530x530.png
   sample: null
   web: null
   shop-id: null

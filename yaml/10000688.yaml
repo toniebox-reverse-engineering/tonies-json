@@ -10,7 +10,7 @@ data:
   runtime: 31
   age: 4
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000688-50002179-b-dGH3vQFZ.png
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000688-50002179-b-dGH3vQFZ.png
   sample: https://cdn.tonies.de/o/audio_samples/16515530bd92a699dee58c9d6a464f01043b19abbdc3256177255041/princess_the_frog.mp3
   web: https://tonies.com/en-gb/tonies/disney/the-princess-and-the-frog/
   shop-id: c14bced7-de8e-4192-a51b-792747a3ea80

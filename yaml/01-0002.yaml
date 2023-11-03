@@ -10,7 +10,7 @@ data:
   runtime: 33
   age: 5
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0002-98-0054-b-jCKXRduL.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0002-98-0054-b-jCKXRduL.png
   sample: https://cdn.tonies.de/o/audio_samples/7a3cfbd34acda1cea434c955202dd05e55c0089ef752843f9d915a6f/hoerprobe_die_olchis_auf_geburtstagsreise3_128_kbps.mp3
   web: https://tonies.com/de-de/tonies/die-olchis/die-olchis-auf-geburtstagsreise/
   shop-id: 0e8d4e89-5225-41c1-a9ae-b86ba791c950

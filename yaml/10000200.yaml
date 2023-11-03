@@ -10,7 +10,7 @@ data:
   runtime: 80
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000200-50000811-b-jyo8_fHO.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000200-50000811-b-jyo8_fHO.png
   sample: https://cdn.tonies.de/o/audio_samples/6ec551e11d7ec084fae8d01419181fdca1a31d0f02cd58fbfa359242/hoerprobe_lieblings_klassiker_robinson_crusoe_ext.mp3
   web: https://tonies.com/de-de/tonies/lieblings-klassiker/robinson-crusoe-und-vier-weitere-klassiker/
   shop-id: ff41d5f5-36fe-40b7-890c-2c7cbfbfc782

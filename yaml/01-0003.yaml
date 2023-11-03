@@ -10,7 +10,7 @@ data:
   runtime: 34
   age: 5
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0003-98-0055-b-460I-xsI.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0003-98-0055-b-460I-xsI.png
   sample: https://cdn.tonies.de/o/audio_samples/2c7973f02b43db882978a7a34993f14f876437347f936f33ce0c2a6f/hoeprobe_die_olchis_und_der_schwarze_pirat_3_128_kbps.mp3
   web: https://tonies.com/de-de/tonies/die-olchis/die-olchis-und-der-schwarze-pirat/
   shop-id: 55e5b220-aa7c-4ca7-b070-5dce7fbce71d

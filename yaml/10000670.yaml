@@ -10,7 +10,7 @@ data:
   runtime: 52
   age: 3
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000670-50002135-b-v3t7mjH1.png
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000670-50002135-b-v3t7mjH1.png
   sample: https://cdn.tonies.de/o/audio_samples/10ad042c531dc7a6e73d134c45f55d6463db7beb97c4f5b9a582bc0f/bing_sample.wav
   web: https://tonies.com/en-gb/tonies/bing/bing/
   shop-id: 665b61f6-abf6-4e3f-9565-c152d524743f

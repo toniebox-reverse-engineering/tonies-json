@@ -10,7 +10,7 @@ data:
   runtime: 35
   age: 3
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000599-50001901-b-q6XiCyOo.png
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000599-50001901-b-q6XiCyOo.png
   sample: https://cdn.tonies.de/o/audio_samples/66df3f1414d4684794bd60593f00dee4f5719a37f059df2ce21fd719/audio_sample_oi_frog_oi_frog_and_friends_ext.mp3
   web: https://tonies.com/en-gb/tonies/oi-frog/oi-frog-and-friends/
   shop-id: 300f01d0-6452-4c1b-94e5-dbc323bbd217

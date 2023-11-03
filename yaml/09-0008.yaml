@@ -10,7 +10,7 @@ data:
   runtime: 0
   age: 99
   origin: stock
-  picture: https://cdn.tonies.de/thumbnails/d25cb4078f2971e37507c35af79c9c28602f62a1.png
+  image: https://cdn.tonies.de/thumbnails/d25cb4078f2971e37507c35af79c9c28602f62a1.png
   sample: null
   web: null
   shop-id: null

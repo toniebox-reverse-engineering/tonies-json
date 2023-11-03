@@ -10,7 +10,7 @@ data:
   runtime: 33
   age: 3
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000294-50001252-b-yEX7Uz3k.png
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000294-50001252-b-yEX7Uz3k.png
   sample: https://cdn.tonies.de/o/audio_samples/f473bba8500923344bf59556413fcbd3b5211124013c5c9cb6f08ae3/audio_sample_disney_monsters_ext.mp3
   web: https://tonies.com/en-gb/tonies/disney/monsters/
   shop-id: f58f0b13-7db5-40c5-aa07-1c72f683d4c9

@@ -10,7 +10,7 @@ data:
   runtime: 57
   age: 4
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000686-50002173-b-_RawURwh.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000686-50002173-b-_RawURwh.png
   sample: https://cdn.tonies.de/o/audio_samples/fe60be0f15ab2756b04ab06317bd0f621be4a5d592f60b360d356bb6/hoerprobe_10000686_disney_rapunzel.mp3
   web: https://tonies.com/de-de/tonies/disney/rapunzel/
   shop-id: c3cb8810-56aa-42ee-8dbb-8ec61bf5bc9a

@@ -10,7 +10,7 @@ data:
   runtime: 45
   age: 5
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000271-50001629-b-AAMSP8r5.png
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000271-50001629-b-AAMSP8r5.png
   sample: https://cdn.tonies.de/o/audio_samples/50c5e92cf2a88ddb11409c71591633b0abaac55af6582bf0e92abeb0/1_50c5e92cf2a88ddb11409c71591633b0abaac55af6582bf0e92abeb0_audio_sample_hansel_gretel.mp3
   web: https://tonies.com/en-gb/tonies/favourite-masterpieces/hansel-and-gretel/
   shop-id: 8fd0afbd-0c3c-4c29-b0e1-8573d88a2ca3

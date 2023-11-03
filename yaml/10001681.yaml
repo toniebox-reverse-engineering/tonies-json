@@ -10,7 +10,7 @@ data:
   runtime: 40
   age: 4
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/eyJwYXRoIjoiYm94aW5l-NqZoVbbq.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/eyJwYXRoIjoiYm94aW5l-NqZoVbbq.png
   sample: https://cdn.tonies.de/o/audio_samples/b6df543b45ba41051c6fad3e455b0b8dc5e137d085afdc98bfc8b1a6/hoerprobe_10001681_mama_muh_mama_muh_und_die_krahe.mp3
   web: https://tonies.com/de-de/tonies/mama-muh/mama-muh-und-die-krhe/
   shop-id: bd9514fe-ff6c-44d5-b6db-cec1f855560e

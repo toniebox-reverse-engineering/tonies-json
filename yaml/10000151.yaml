@@ -10,7 +10,7 @@ data:
   runtime: 32
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000151-50000578-b-fUeKsbOt.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000151-50000578-b-fUeKsbOt.png
   sample: https://cdn.tonies.de/o/audio_samples/36db52b381dbc02d00901b7b4d271bbe5e92d1cd8b9cf32916f00227/hoerprobe_wwwjunior_die_polizei_ext.mp3
   web: https://tonies.com/de-de/tonies/wieso-weshalb-warum-junior-2/die-polizei/
   shop-id: 070ab276-f6fc-4952-9720-004b9c2ff8bd

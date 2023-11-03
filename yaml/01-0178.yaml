@@ -10,7 +10,7 @@ data:
   runtime: 0
   age: 99
   origin: stock
-  picture: https://cdn.tonies.de/o/images/1_888441cc4102acd783fb8b6a6c9d62525398151ff180f22a58e93ff0/3_bHgfJ4fn8bT5BLtD/peter_pan_und_4_weitere_klassiker_only_tonie_530x530.png
+  image: https://cdn.tonies.de/o/images/1_888441cc4102acd783fb8b6a6c9d62525398151ff180f22a58e93ff0/3_bHgfJ4fn8bT5BLtD/peter_pan_und_4_weitere_klassiker_only_tonie_530x530.png
   sample: null
   web: null
   shop-id: null

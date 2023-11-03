@@ -10,7 +10,7 @@ data:
   runtime: 65
   age: 4
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0051-b-JkqDkha0.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0051-b-JkqDkha0.png
   sample: https://cdn.tonies.de/o/audio_samples/1e8aa633bea365e573b3b084a12a25e77ff8b13ff2dd321160e3e7da/hoerprobe_kikaninchen_geschichtenkissen.mp3
   web: https://tonies.com/de-de/tonies/kikaninchen/mein-geschichtenkissen/
   shop-id: 05bd7f24-3fc3-444f-983c-a5767995893a

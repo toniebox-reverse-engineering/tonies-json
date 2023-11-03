@@ -10,7 +10,7 @@ data:
   runtime: 0
   age: 5
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001686-50005328-b-3yjj2SnY.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001686-50005328-b-3yjj2SnY.png
   sample: https://cdn.tonies.de/o/audio_samples/99874fb173d9212f4cd961b44079cc40ffaaaf8948f140dc554da824/hoerprobe_10001686_asterix_asterix_die_goldene_sichel.mp3
   web: https://tonies.com/de-de/tonies/asterix/die-goldene-sichel/
   shop-id: c5075d5c-9596-4f19-99be-3aeb123695ab

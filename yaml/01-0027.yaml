@@ -10,7 +10,7 @@ data:
   runtime: 40
   age: 4
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0027-98-0102-b-uwKLIYwp.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0027-98-0102-b-uwKLIYwp.png
   sample: https://cdn.tonies.de/o/audio_samples/1de9728a0717de613d201d59325a46b340f632f16ff883a5d1956d9b/hoerprobe_ritter_rost_128kbs.mp3
   web: https://tonies.com/de-de/tonies/ritter-rost/die-zauberinsel/
   shop-id: 13744457-00e2-4f92-a0ed-99a44c992fb0

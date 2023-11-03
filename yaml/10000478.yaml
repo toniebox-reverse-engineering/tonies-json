@@ -10,7 +10,7 @@ data:
   runtime: 50
   age: 5
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000478-50003911-b-iiVCaKHC.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000478-50003911-b-iiVCaKHC.png
   sample: https://cdn.tonies.de/o/audio_samples/2894a504e77a8580ea227598b90c430f61021daf844f7cae7e28ad0e/hoerprobe_10000478_die_schlumpfe_ein_tollpatschiger_held_3_weitere_schlumpfige_abenteuer.mp3
   web: https://tonies.com/de-de/tonies/die-schluempfe/ein-tollpatschiger-held-3-weitere-schlumpfige-abenteuer/
   shop-id: dfd42158-2c68-4e33-85c8-0238c04c64be

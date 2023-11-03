@@ -10,7 +10,7 @@ data:
   runtime: 55
   age: 4
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0125-98-0347-b-fFy5FDPN.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0125-98-0347-b-fFy5FDPN.png
   sample: https://cdn.tonies.de/o/audio_samples/aeb1a23e12de35fddd1e5ee73ed81bffa1ed32b4abbbb7c39e50acc6/hoerprobe_deine_freunde_gelbe_von_drei.mp3
   web: https://tonies.com/de-de/tonies/deine-freunde/das-gelbe-von-drei/
   shop-id: a50251c2-c96c-4b2c-b995-9d5f522b585b

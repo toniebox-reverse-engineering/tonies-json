@@ -10,7 +10,7 @@ data:
   runtime: 50
   age: 3
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/50005848-Tonie_Shado--NYFjglo.png
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/50005848-Tonie_Shado--NYFjglo.png
   sample: https://cdn.tonies.de/o/audio_samples/170be8d6521d0e89bd5cb86644091c7cd57c45b1da2ef3a816069fec/10002081_everest_sample.wav
   web: https://tonies.com/en-gb/tonies/paw-patrol/everest/
   shop-id: b0b9c565-d84e-4087-ae5b-2d11082779d8

@@ -10,7 +10,7 @@ data:
   runtime: 56
   age: 4
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000373-50001180-b-6foxdYcD.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000373-50001180-b-6foxdYcD.png
   sample: https://cdn.tonies.de/o/audio_samples/187fb915a5c8a919847e7ba3a38312f022298e199f2497bfb83e7deb/hoerprobe_disney_101_dalmatiner_ext.mp3
   web: https://tonies.com/de-de/tonies/disney/101-dalmatiner/
   shop-id: 78f61664-4bde-471f-bd52-cddfddd80b76

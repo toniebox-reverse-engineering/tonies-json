@@ -10,7 +10,7 @@ data:
   runtime: 60
   age: 3
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000481-50001509-b-PONj5Idz.png
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000481-50001509-b-PONj5Idz.png
   sample: https://cdn.tonies.de/o/audio_samples/c7142921b230b302aec4c6d74347f115b14c9d9596761d3740bce0d8/mlp_sunny_audio_sample.wav
   web: https://tonies.com/en-gb/tonies/my-little-pony/sunny/
   shop-id: 9e913a3d-6f9d-4ded-8b4f-34665dfd6bbb

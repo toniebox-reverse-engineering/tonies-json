@@ -10,7 +10,7 @@ data:
   runtime: 50
   age: 5
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10002000-50006244-b-DMVdOnuk.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10002000-50006244-b-DMVdOnuk.png
   sample: https://cdn.tonies.de/o/audio_samples/0b73de3de8c4a4f68e44a5352012f373de840d6a5c910ef8225e6f11/10002000_karmas_welt_hoerprobe.mp3
   web: https://tonies.com/de-de/tonies/karmas-welt/karmas-welt/
   shop-id: f86cfd35-5809-4af6-800e-64fb0c3db67c

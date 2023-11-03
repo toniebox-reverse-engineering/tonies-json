@@ -10,7 +10,7 @@ data:
   runtime: 30
   age: 4
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/98-1342-Tonie_Shadow-stduIU3A.png
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/98-1342-Tonie_Shadow-stduIU3A.png
   sample: https://cdn.tonies.de/o/audio_samples/e7c0082681198967d3954387b8597150339591146c58880876b676d8/brave_sample.mp3
   web: https://tonies.com/en-gb/tonies/disney/brave/
   shop-id: ac24dc84-db96-4309-b78c-4fd71d0a562f

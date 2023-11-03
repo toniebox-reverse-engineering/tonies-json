@@ -10,7 +10,7 @@ data:
   runtime: 45
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001268-50003881-b--W4V0iIS9.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001268-50003881-b--W4V0iIS9.png
   sample: https://cdn.tonies.de/o/audio_samples/b3149966361125a657fba4d702bf1d2ed26c017503c427afd03e5888/sample_tonie_peppa_pig_george.mp3
   web: https://tonies.com/fr-fr/tonies/peppa-pig/george/
   shop-id: c635652d-7763-4d14-a3fc-737c6f73e066

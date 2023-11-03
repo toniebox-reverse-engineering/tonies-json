@@ -10,7 +10,7 @@ data:
   runtime: 60
   age: 5
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0032-98-0108-b-Sdcz5OyY.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0032-98-0108-b-Sdcz5OyY.png
   sample: https://cdn.tonies.de/o/audio_samples/41af3ed57fad918416224f5c79b00e360255480e6b387619c6ffd8a6/hoerprobe_heidi_reise_zum_grossvater.mp3
   web: https://tonies.com/de-de/tonies/heidi/die-reise-zum-grossvater/
   shop-id: 19c25a43-91da-4de3-98ae-4b1b96fd0020

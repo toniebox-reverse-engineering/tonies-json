@@ -10,7 +10,7 @@ data:
   runtime: 77
   age: 4
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0030-98-0105-b-RdNqqFbV.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0030-98-0105-b-RdNqqFbV.png
   sample: https://cdn.tonies.de/o/audio_samples/bb74f319b9c6b8cac8b2b3e599e0066d008dcea846cff1c5d88b6909/hoerprobe_bibi_blocksberg_die_grosse_hexenparty_128kbs.mp3
   web: https://tonies.com/de-de/tonies/bibi-blocksberg/die-grosse-hexenparty/
   shop-id: f317e975-aa6d-4176-8da8-853ab6630589

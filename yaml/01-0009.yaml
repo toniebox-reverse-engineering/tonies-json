@@ -10,7 +10,7 @@ data:
   runtime: 40
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0009-98-0061-b-l0kNc0lG.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0009-98-0061-b-l0kNc0lG.png
   sample: https://cdn.tonies.de/o/audio_samples/a351d13e76764cc9d824caf239821f66fe2dfb885b0c59634a65cb78/hoerprobe_bobo_siebenschlaefer1_128_kbps.mp3
   web: https://tonies.com/de-de/tonies/bobo-siebenschlaefer/bobos-ausflug-zum-spielplatz/
   shop-id: 82cdeab9-b995-4e52-a555-032c216d4c48

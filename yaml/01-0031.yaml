@@ -10,7 +10,7 @@ data:
   runtime: 65
   age: 5
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0031-98-0107-b-ahLQEvh7.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0031-98-0107-b-ahLQEvh7.png
   sample: https://cdn.tonies.de/o/audio_samples/da9529bbbfaa3a6ffab8605901a49fa7138e8c8b7935f68e6f686358/hoerprobe_wickie_wasser_auf_die_muehlen.mp3
   web: https://tonies.com/de-de/tonies/wickie/wasser-auf-die-muehlen/
   shop-id: 64f4f6b3-577e-41cb-a309-02b70ad52092

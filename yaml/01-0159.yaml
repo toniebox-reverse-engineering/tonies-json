@@ -10,7 +10,7 @@ data:
   runtime: 42
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0159-50001544-b-brz3eX7Y.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0159-50001544-b-brz3eX7Y.png
   sample: https://cdn.tonies.de/o/audio_samples/ca7483b82c93937bc5d3c2c8fa73523da8a306d8dd73eb62e9276efc/hoerprobe_erdbeerinchen_erdbeerfee_ext.mp3
   web: https://tonies.com/de-de/tonies/erdbeerinchen-erdbeerfee/zauberhafte-geschichten-aus-dem-erdbeergarten/
   shop-id: eba5e0ce-6281-484c-9fbf-fc47bec95098

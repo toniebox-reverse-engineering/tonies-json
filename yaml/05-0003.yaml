@@ -10,7 +10,7 @@ data:
   runtime: 60
   age: 5
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/05-0003-99-0444-g-_lt54OMM.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/05-0003-99-0444-g-_lt54OMM.png
   sample: https://cdn.tonies.de/o/audio_samples/e8a3bb8a56929c9acf8c3ff1207ae5069546c9194b31f2a23ee01160/hoerprobe_playmo_34_der_ball_im_prinzessinnenschloss.mp3
   web: https://tonies.com/de-de/tonies/die-playmos/der-ball-im-prinzessinnen-schloss/
   shop-id: 029df098-bb7f-4683-b10f-4cdbefe3885b

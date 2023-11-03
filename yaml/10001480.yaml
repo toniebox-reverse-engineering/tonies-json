@@ -10,7 +10,7 @@ data:
   runtime: 35
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001480-50004744-b-FYPAgn0f.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001480-50004744-b-FYPAgn0f.png
   sample: https://cdn.tonies.de/o/audio_samples/51ecae3c09c81af541187c58ceeb65357d95e8f1795323013ca144d1/sample_tonie_mcomp_apprendre.mp3
   web: https://tonies.com/fr-fr/tonies/mes-comptines-preferees/pour-apprendre/
   shop-id: afd9c52b-e6fc-4626-99a6-6d39c35b5d06

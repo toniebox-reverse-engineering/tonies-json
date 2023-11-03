@@ -10,7 +10,7 @@ data:
   runtime: 40
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001157-50003709-b-__Nq3HxA.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001157-50003709-b-__Nq3HxA.png
   sample: https://cdn.tonies.de/o/audio_samples/cc0e5a07b61d3026fa7556e9d1e2e151672179cf0c79b5e15e7bf7de/hoerprobe_10001157_sesamstrae_elmo.mp3
   web: https://tonies.com/de-de/tonies/sesamstrasse/elmos-mitmachmusik/
   shop-id: 3f479b62-9bc1-47b6-9167-4587ab9a91f7

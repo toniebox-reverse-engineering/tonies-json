@@ -10,7 +10,7 @@ data:
   runtime: 50
   age: 3
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/50006768-Tonie_Shado-hTFz0_iR.png
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/50006768-Tonie_Shado-hTFz0_iR.png
   sample: https://cdn.tonies.de/o/audio_samples/f8ab14c6ebdd772c6d9ca325be253a44faa31bc0e4aad90fa6e6fe75/11000224_rocky_sample.wav
   web: https://tonies.com/en-gb/tonies/paw-patrol/rocky/
   shop-id: 4974cfd8-9943-41b0-bb38-0f8f30cfead3

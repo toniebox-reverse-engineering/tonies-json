@@ -10,7 +10,7 @@ data:
   runtime: 0
   age: 99
   origin: stock
-  picture: https://cdn.tonies.de/o/images/22c70a8789a27d730e1663756847703ac93a3b560a44ad5f9e652b90/01-0034-b-XtRo_RGK.png
+  image: https://cdn.tonies.de/o/images/22c70a8789a27d730e1663756847703ac93a3b560a44ad5f9e652b90/01-0034-b-XtRo_RGK.png
   sample: null
   web: null
   shop-id: null

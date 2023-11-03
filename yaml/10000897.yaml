@@ -10,7 +10,7 @@ data:
   runtime: 37
   age: 4
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000897-50002949-b-qhUAFqjq.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000897-50002949-b-qhUAFqjq.png
   sample: https://cdn.tonies.de/o/audio_samples/148c2a5bd11b1cb2ae7a6c07f9dc8aa7d412c0871eaa7c4b1e018924/01_der_tag_an_dem_michel_besonders_nett_sein_wollte.mp3
   web: https://tonies.com/de-de/tonies/michel-aus-loenneberga/der-tag-an-dem-michel-besonders-nett-sein-wollte/
   shop-id: e280c834-fe41-4794-b0d6-7735cf2d722a

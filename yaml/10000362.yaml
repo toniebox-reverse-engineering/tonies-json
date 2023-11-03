@@ -10,7 +10,7 @@ data:
   runtime: 40
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000362-50001149-b-qEV5i4x7.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000362-50001149-b-qEV5i4x7.png
   sample: https://cdn.tonies.de/o/audio_samples/17e4745e68b3d2f09d854e55b8512ac3a88c07e9d62cc51e58a7196d/hoerprobe_10000362_der_kleine_konig_der_kleine_konig_sagt_22gute_nacht22.mp3
   web: https://tonies.com/de-de/tonies/der-kleine-koenig/der-kleine-koenig-sagt-gute-nacht/
   shop-id: a01968ab-6d58-469b-ab39-fe9172343c9d

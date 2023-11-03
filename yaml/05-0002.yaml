@@ -10,7 +10,7 @@ data:
   runtime: 59
   age: 5
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/05-0002-99-0450-b-x7-9ykOd.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/05-0002-99-0450-b-x7-9ykOd.png
   sample: https://cdn.tonies.de/o/audio_samples/bad28c6a659dfafc6da0cdab6c3377114bfa43dfa1bd297e0c69c09b/hoerprobe_05_0002_das_turnier_auf_der_koenigsritterburg.mp3
   web: https://tonies.com/de-de/tonies/die-playmos/das-turnier-auf-der-koenigsritterburg/
   shop-id: 5b52d2c7-0a25-4167-bf93-7eb57470fd6d

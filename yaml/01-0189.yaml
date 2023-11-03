@@ -10,7 +10,7 @@ data:
   runtime: 50
   age: 4
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0189-98-0581-b-tn5ktQcz.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0189-98-0581-b-tn5ktQcz.png
   sample: https://cdn.tonies.de/o/audio_samples/a709fd450eab7a400fe4595d8ac09038497695da44e8258fd0003172/hoerprobe_01_0189_disney_bambi.mp3
   web: https://tonies.com/de-de/tonies/disney/bambi/
   shop-id: 444abdcd-d5f1-4756-a384-7f0790784f6a

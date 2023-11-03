@@ -10,7 +10,7 @@ data:
   runtime: 50
   age: 4
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001409-50004888-b-lFs2YNLv.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001409-50004888-b-lFs2YNLv.png
   sample: https://cdn.tonies.de/o/audio_samples/c1176763ac0624382a92e3e19c5e9fadd0af72f7ed4950800321f14c/hoerprobe_10001409_kapt_n_blaubar_seemannsgarn.mp3
   web: https://tonies.com/de-de/tonies/kaept-n-blaubaer/seemannsgarn/
   shop-id: 01e07128-8638-462b-899c-e91ffc9de2fb

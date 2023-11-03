@@ -10,7 +10,7 @@ data:
   runtime: 0
   age: 99
   origin: stock
-  picture: null
+  image: null
   sample: null
   web: null
   shop-id: null

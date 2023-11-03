@@ -10,7 +10,7 @@ data:
   runtime: 64
   age: 5
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0146-98-0425-b-sIJ33VEE.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0146-98-0425-b-sIJ33VEE.png
   sample: https://cdn.tonies.de/o/audio_samples/c2a84574ce57cf2ce06e859aa684e78c35fe76cf09a000349969fdb9/hoerprobe_heidi_ein_wolf_im_doerfli.mp3
   web: https://tonies.com/de-de/tonies/heidi/heidi-ein-wolf-im-doerfli/
   shop-id: 777fa7e2-e633-48ed-bd81-6b268c57b225

@@ -10,7 +10,7 @@ data:
   runtime: 30
   age: 4
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0081-98-0128-b-vIi7BJNN.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0081-98-0128-b-vIi7BJNN.png
   sample: https://cdn.tonies.de/o/audio_samples/aab2c523d4ef30d9f5f2c6d81de9fcd1f2c56306568cbfbf3b9a2a0e/pettersson.mp3
   web: https://tonies.com/de-de/tonies/pettersson-und-findus/wie-findus-zu-pettersson-kam/
   shop-id: 1b65277a-0f33-4ea4-a56b-e7495eb292ae

@@ -10,7 +10,7 @@ data:
   runtime: 58
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000125-50000598-b-5y8oPndQ.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000125-50000598-b-5y8oPndQ.png
   sample: https://cdn.tonies.de/o/audio_samples/7cc5062e8c9298d0664aa71c0564a7b7abb01ce5a8b5ba5c71559c45/hoerprobe_tilda_apfelkern_das_geheime_kuchenrezept_und_weitere_geschichten.mp3
   web: https://tonies.com/de-de/tonies/tilda-apfelkern/das-geheime-kuchenrezept/
   shop-id: 67494c28-fad3-4028-a224-d5c275d4258c

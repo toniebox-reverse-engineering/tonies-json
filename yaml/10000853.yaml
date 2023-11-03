@@ -10,7 +10,7 @@ data:
   runtime: 45
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000853-50002775-b-opJgc5sb.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000853-50002775-b-opJgc5sb.png
   sample: https://cdn.tonies.de/o/audio_samples/45ea7bff3739bdae8cd2bb1986b6d6c8349c30884c6f5c75e6a9f1fa/sample_tonie_mcomp_noel.mp3
   web: https://tonies.com/fr-fr/tonies/mes-comptines-preferees/de-noel/
   shop-id: ae04bc05-87f3-4212-88ac-5a66ace6138f

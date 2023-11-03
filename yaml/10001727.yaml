@@ -10,7 +10,7 @@ data:
   runtime: 60
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001727-50005517-b-L9GGVFmg.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001727-50005517-b-L9GGVFmg.png
   sample: https://cdn.tonies.de/o/audio_samples/d0808e9af3d51035314281402099037bdd1ac58a1e8576b17a999854/sample_tonie_mclap_peter_pan.mp3
   web: https://tonies.com/fr-fr/tonies/mes-classiques-preferes/peter-pan-et-2-autres-classiques/
   shop-id: d8f7f86b-7b0f-47c6-81c0-de7290a2faf2

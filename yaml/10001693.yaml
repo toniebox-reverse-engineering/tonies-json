@@ -10,7 +10,7 @@ data:
   runtime: 40
   age: 4
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001693-50005358-b-wZV9k8ig.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001693-50005358-b-wZV9k8ig.png
   sample: https://cdn.tonies.de/o/audio_samples/d5b64cf68f874f79383cc4014da5d1bbc0493e6bab01492da2f95ade/hoerprobe_10001693_rolf_zuckowski_rolfs_hasengeschichte.mp3
   web: https://tonies.com/de-de/tonies/rolf-zuckowski/rolfs-hasengeschichte/
   shop-id: 60f9f424-d22f-438c-9b30-2cc87f3a71e7

@@ -10,7 +10,7 @@ data:
   runtime: 60
   age: 5
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10001249-50003817-b-aIU4lfw6.png
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10001249-50003817-b-aIU4lfw6.png
   sample: https://cdn.tonies.de/o/audio_samples/7bf7cf909b2d14cef8e8ae692ccc328c220811a1093e0505551e416e/1penguins_intro.wav
   web: https://tonies.com/en-gb/tonies/national-geographic-kids/penguin/
   shop-id: 2a839c5f-4d24-4e01-bfbc-59c00554151b

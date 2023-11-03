@@ -10,7 +10,7 @@ data:
   runtime: 41
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000244-50001283-b-zcJK3kJA.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000244-50001283-b-zcJK3kJA.png
   sample: https://cdn.tonies.de/o/audio_samples/7e50efddeee3da214e61b7c8a9bfc5db71abc76bdef7155ae0045646/hoerprobe_eule_mit_der_beule_und_ihre_freunde_liederalbum_ext.mp3
   web: https://tonies.com/de-de/tonies/die-eule-mit-der-beule/liederalbum/
   shop-id: ebf0ce65-b60a-468f-92ce-45501713a736

@@ -10,7 +10,7 @@ data:
   runtime: 60
   age: 5
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001335-50004104-b-Vu4KpbqP.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001335-50004104-b-Vu4KpbqP.png
   sample: https://cdn.tonies.de/o/audio_samples/9e3e615d1fce42fed9fb0a46810731a5bb3cbac7b84bdf6c02659c8d/hoerprobe_10001335_glubschis_miss_crayon_auf_heier_spur.mp3
   web: https://tonies.com/de-de/tonies/die-glubschis/miss-crayon-auf-heier-spur/
   shop-id: 437c920e-7184-4fe8-8adb-8fbb4a76af0d

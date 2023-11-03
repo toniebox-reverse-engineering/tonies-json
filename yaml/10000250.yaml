@@ -10,7 +10,7 @@ data:
   runtime: 21
   age: 3
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000250-50001236-b-GsWEjIii.png
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000250-50001236-b-GsWEjIii.png
   sample: https://cdn.tonies.de/o/audio_samples/d5aecc319e23f1f7af7f08ce5a139dad31350c7b3dd240b12d6189ca/audio_sample_disney_cinderella_ext.mp3
   web: https://tonies.com/en-gb/tonies/disney/cinderella/
   shop-id: 72199863-f304-4999-819a-327207686eb5

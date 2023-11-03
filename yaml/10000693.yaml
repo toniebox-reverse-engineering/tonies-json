@@ -10,7 +10,7 @@ data:
   runtime: 111
   age: 5
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000693-50002218-b--F9idIUue.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000693-50002218-b--F9idIUue.png
   sample: https://cdn.tonies.de/o/audio_samples/45e00cb1bdd4d8a26bc2749e827128606b94b587f86c7a001a501bea/hoerprobe_raeuber_hotzenplotz_neuauflage.mp3
   web: https://tonies.com/de-de/tonies/der-raeuber-hotzenplotz/der-raeuber-hotzenplotz-2021/
   shop-id: 7f952475-ba42-4720-ad52-840a18d77d41

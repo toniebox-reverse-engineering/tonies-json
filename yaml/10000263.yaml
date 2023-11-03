@@ -10,7 +10,7 @@ data:
   runtime: 50
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000263-50001484-b-i45XYtf_.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000263-50001484-b-i45XYtf_.png
   sample: https://cdn.tonies.de/o/audio_samples/39feb36f6144555d55abc9c91596ed3cf58c096a2ae33fb4ac179806/hoerprobe_lieblings_kinderlieder_europaeische_kinderlieder_ext.mp3
   web: https://tonies.com/de-de/tonies/lieblings-kinderlieder/europaeische-kinderlieder/
   shop-id: d41e70e5-218c-4a50-aa30-b46cf1e15bef

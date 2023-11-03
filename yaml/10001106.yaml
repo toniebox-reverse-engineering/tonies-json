@@ -10,7 +10,7 @@ data:
   runtime: 50
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001106-50003569-b--oqXF8g_-.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001106-50003569-b--oqXF8g_-.png
   sample: https://cdn.tonies.de/o/audio_samples/8aae1f0f3d574f02ff8234e4a85f76271bdb400d1b81bcc7f57ea089/hoeprrobe_10001106_kindergartenlieder.mp3
   web: https://tonies.com/de-de/tonies/lieblings-kinderlieder/kindergartenlieder-neuauflage-2022/
   shop-id: 96c17f7f-7521-4af3-b22f-ab9faa080e68

@@ -10,7 +10,7 @@ data:
   runtime: 35
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001021-50003352-b-ApvXOeq7.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001021-50003352-b-ApvXOeq7.png
   sample: https://cdn.tonies.de/o/audio_samples/4b451347cfd8571a0d338405d6cfc87506089650714021876cce2feb/sample_tonie_mcomp_fete.mp3
   web: https://tonies.com/fr-fr/tonies/mes-comptines-preferees/pour-faire-la-fete/
   shop-id: c7975780-dae2-4496-ae1c-beaea567a53b
@@ -45,7 +45,7 @@ data:
   runtime: 0
   age: 99
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001021-50003352-b-ApvXOeq7.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001021-50003352-b-ApvXOeq7.png
   sample: null
   web: null
   shop-id: null

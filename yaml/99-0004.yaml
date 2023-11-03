@@ -10,7 +10,7 @@ data:
   runtime: 0
   age: 99
   origin: stock
-  picture: https://www.drk-heidelberg.de/drk_heidelberg/images/extras/kreuz_falsch.jpg
+  image: https://www.drk-heidelberg.de/drk_heidelberg/images/extras/kreuz_falsch.jpg
   sample: null
   web: null
   shop-id: null

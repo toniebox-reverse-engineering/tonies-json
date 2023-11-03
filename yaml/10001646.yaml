@@ -10,7 +10,7 @@ data:
   runtime: 50
   age: 3
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10001646%202-G4aKzYhE.png
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10001646%202-G4aKzYhE.png
   sample: https://cdn.tonies.de/o/audio_samples/4d6f357428f718ee12e6a400030c46607b427611ee0bba01a8836b93/10001646_sing_a_long_songs_sample_2.wav
   web: https://tonies.com/en-gb/tonies/favourite-children-s-songs/sing-a-long-songs-relaunch/
   shop-id: 626b04ee-a2ad-48c0-bc7c-fc142e9de05f

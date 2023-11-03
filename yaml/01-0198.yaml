@@ -10,7 +10,7 @@ data:
   runtime: 70
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0198-50001280-b-How-ETcK.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0198-50001280-b-How-ETcK.png
   sample: https://cdn.tonies.de/o/audio_samples/930b92eb6ad69eec6a2abddba9da7ecbc830d1aba545878c8e0920c7/hoerprobe_der_kleine_hui_buh_der_blubbernde_brotteig_ext.mp3
   web: https://tonies.com/de-de/tonies/der-kleine-hui-buh/der-blubbernde-brotteig/
   shop-id: b2fef832-3016-4cc0-8258-3f66e3f20eac

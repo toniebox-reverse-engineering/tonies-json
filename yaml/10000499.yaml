@@ -10,7 +10,7 @@ data:
   runtime: 40
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000499-50001573-b-JvL-ywWC.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000499-50001573-b-JvL-ywWC.png
   sample: https://cdn.tonies.de/o/audio_samples/8dc338bb14c46a8acefec4c76a31d3bd2430b4be8875b0fa935aaf3d/hoerprobe_s10000499_sesamstrae_krumelmonsters_mitmampfspa.mp3
   web: https://tonies.com/de-de/tonies/sesamstrasse/kruemelmonsters-mitmampfspass/
   shop-id: 80f5e588-f233-43d1-8f26-c1b71239f4f2

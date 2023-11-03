@@ -10,7 +10,7 @@ data:
   runtime: 67
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/eyJwYXRoIjoiYm94aW5l-ZIefHFWa.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/eyJwYXRoIjoiYm94aW5l-ZIefHFWa.png
   sample: https://cdn.tonies.de/o/audio_samples/ca55223c5a2b7be267ed5a4a40878d78e549c84c30d69bf49fa8b1bf/hoerprobe_10001691_caillou_sternschnuppen_und_weitere_geschichten.mp3
   web: https://tonies.com/de-de/tonies/caillou/sternschnuppen-und-weitere-geschichten/
   shop-id: 821d2e7c-7df6-4d70-96ef-09f2cdc2d189

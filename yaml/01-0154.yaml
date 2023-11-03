@@ -10,7 +10,7 @@ data:
   runtime: 121
   age: 8
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0154-98-0464-b-w14AntYG.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0154-98-0464-b-w14AntYG.png
   sample: https://cdn.tonies.de/o/audio_samples/acb43e44f7cbfe41de27b01880a0d215a33260578c3ce7a7d9495ea0/hoerprobe_01_0154_die_haferhorde_volle_maehne.mp3
   web: https://tonies.com/de-de/tonies/die-haferhorde/volle-maehne/
   shop-id: 99e73f63-d533-40c1-969c-a6a2c3e85b03

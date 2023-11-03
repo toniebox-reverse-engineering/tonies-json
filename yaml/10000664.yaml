@@ -10,7 +10,7 @@ data:
   runtime: 20
   age: 5
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000664-50002115-b--NJDwPtK.png
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000664-50002115-b--NJDwPtK.png
   sample: https://cdn.tonies.de/o/audio_samples/2e67496ce49739b7f3bacb32e4fa3e43d4ca5b920fbfd93757829d44/1_2e67496ce49739b7f3bacb32e4fa3e43d4ca5b920fbfd93757829d44_audio_sample_minnie_mouse.mp3
   web: https://tonies.com/en-gb/tonies/disney/minnie-mouse/
   shop-id: 995bb377-fe72-4ca1-9d0a-bc296538d4d7

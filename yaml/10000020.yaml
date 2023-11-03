@@ -10,7 +10,7 @@ data:
   runtime: 30
   age: 3
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000020-50000060-b--TjY0sqFh.png
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000020-50000060-b--TjY0sqFh.png
   sample: https://cdn.tonies.de/o/audio_samples/1a7d13f6f1390a2bfb66a023077fcd79eaa821f73f570b8169aeea87/audio_sample_10000020_disney_lion_king_1min.mp3
   web: https://tonies.com/en-gb/tonies/disney/the-lion-king/
   shop-id: a28f7907-a83b-499e-8e34-189f271609f4

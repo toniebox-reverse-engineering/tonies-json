@@ -10,7 +10,7 @@ data:
   runtime: 17
   age: 4
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000372-50001178-b-258FBcJC.png
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000372-50001178-b-258FBcJC.png
   sample: https://cdn.tonies.de/o/audio_samples/5749c71c30f9df537f9fbb1434c1c8bbfaafba15c1371c51ea511c9b/101_dalmatians_audio_sample.mp3
   web: https://tonies.com/en-gb/tonies/disney/disney-101-dalmatians/
   shop-id: 884cebdd-8c3b-4150-a47a-1a37fb4ece0f

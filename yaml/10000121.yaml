@@ -10,7 +10,7 @@ data:
   runtime: 51
   age: 4
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000121-50000320-b-4RcJn6XY.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000121-50000320-b-4RcJn6XY.png
   sample: https://cdn.tonies.de/o/audio_samples/7c3864b1cf36fde9ae9f678ff800279ca280a548026450a7500a2c91/hoerprobe_disney_dumbo_ext_v2.mp3
   web: https://tonies.com/de-de/tonies/disney/dumbo/
   shop-id: d56f879a-80ee-49f1-8069-205bd1319989

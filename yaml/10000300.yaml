@@ -10,7 +10,7 @@ data:
   runtime: 49
   age: 5
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000300-50001979-b-R6s6QVVz.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000300-50001979-b-R6s6QVVz.png
   sample: https://cdn.tonies.de/o/audio_samples/5460ba8667df5bb135c77ffc459c43a5937882901eb15787c76282fa/horprobe_lieblings_meisterstuecke_der_nussknacker_ext.mp3
   web: https://tonies.com/de-de/tonies/lieblings-meisterstuecke/der-nussknacker/
   shop-id: 65abe1ad-19a0-4dec-9860-cf3fbb744994

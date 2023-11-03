@@ -10,7 +10,7 @@ data:
   runtime: 50
   age: 4
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000927-50003044-b-9ZVmUE-e.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000927-50003044-b-9ZVmUE-e.png
   sample: https://cdn.tonies.de/o/audio_samples/3474447c7663b38686fbfd418df8d008533cca4b02fd284226a093d9/lieder_fur_dich_2_snippet.wav
   web: https://tonies.com/de-de/tonies/minimusiker/lieder-fuer-dich-2/
   shop-id: 53209d2e-c40c-4b01-8e81-019c32ca8285

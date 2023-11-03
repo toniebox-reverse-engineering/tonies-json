@@ -10,7 +10,7 @@ data:
   runtime: 55
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000998-50003259-b-ZI_o1F01.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000998-50003259-b-ZI_o1F01.png
   sample: https://cdn.tonies.de/o/audio_samples/7985e012495b66254149784b50d8ec45db8dcc2ed9c1fcc518c16ce4/hoerprobe_10000998_die_kleine_hexe_die_neugierige_kleine_hexe___die_kleine_hexe_hat_geburtstag.mp3
   web: https://tonies.com/de-de/tonies/die-kleine-hexe/die-neugierige-kleine-hexe-die-kleine-hexe-hat-geburtstag/
   shop-id: 7ffde882-bd73-4c57-97ea-82bf775088c6

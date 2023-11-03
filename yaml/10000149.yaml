@@ -10,7 +10,7 @@ data:
   runtime: 53
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000149-50000859-b-k0ewEmNh.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000149-50000859-b-k0ewEmNh.png
   sample: https://cdn.tonies.de/o/audio_samples/dbb28d15df7279d305360b95c3ae234f0a15416f449a742ec486cf2c/hoerprobe_unser_sandmaennchen_abends_im_walde_ext.mp3
   web: https://tonies.com/de-de/tonies/unser-sandmaennchen/abends-im-walde/
   shop-id: 45826563-3309-4f93-b436-1996f5d0c54d

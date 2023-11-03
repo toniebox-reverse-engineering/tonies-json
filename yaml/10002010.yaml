@@ -10,7 +10,7 @@ data:
   runtime: 50
   age: 4
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/BOX10002010_1_a-YLK3wc9m.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/BOX10002010_1_a-YLK3wc9m.png
   sample: https://cdn.tonies.de/o/audio_samples/e86cb4f111707a7d11ae014a17661cb712a61dcf0355831a5e77d66a/hoerprobe_10002010_lassie_freunde_furs_leben.mp3
   web: https://tonies.com/de-de/tonies/lassie/lassie-freunde-furs-leben/
   shop-id: 99d572a8-a52f-49e4-bd3c-48ca8d16c86b

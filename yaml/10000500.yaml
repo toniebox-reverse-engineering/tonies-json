@@ -10,7 +10,7 @@ data:
   runtime: 40
   age: 3
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000500-50001575-b-A4rI6vzE.png
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000500-50001575-b-A4rI6vzE.png
   sample: https://cdn.tonies.de/o/audio_samples/475afefd4ff65a689ce0b22a130214fc920184931c19c3de47debf94/1_475afefd4ff65a689ce0b22a130214fc920184931c19c3de47debf94_audio_sample_10000500_sesame_street_cookie_monster.mp3
   web: https://tonies.com/en-gb/tonies/sesame-street/cookie-monster/
   shop-id: 54f81df3-2841-467d-b097-99bc669f10cc

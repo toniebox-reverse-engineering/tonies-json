@@ -10,7 +10,7 @@ data:
   runtime: 60
   age: 5
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000495-50001563-b-RiUSAGR6.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000495-50001563-b-RiUSAGR6.png
   sample: https://cdn.tonies.de/o/audio_samples/f73f503945b27e35e1acc446dcf8426820b9885d77c9801811eccf2d/hoerprobe_trolls_finde_dein_glueck_ext.mp3
   web: https://tonies.com/de-de/tonies/trolls/finde-dein-glueck/
   shop-id: d92ef698-b2f2-4ce5-9d61-9cf0b903d2db

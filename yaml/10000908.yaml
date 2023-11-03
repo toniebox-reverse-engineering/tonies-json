@@ -10,7 +10,7 @@ data:
   runtime: 44
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000908-50002975-b-zPLNtEEh.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000908-50002975-b-zPLNtEEh.png
   sample: https://cdn.tonies.de/o/audio_samples/3a75928c7257470c9f39fd6fe813ccd11d72f45a4d1fd7001f502f3f/hoerprobe_10000908_die_kleine_raupe_nimmersatt_schlaf_gut_die_kleine_raupe_nimmersatt_und_weitere_ges.mp3
   web: https://tonies.com/de-de/tonies/die-kleine-raupe-nimmersatt/schlaf-gut-die-kleine-raupe-nimmersatt-und-weitere-geschichten/
   shop-id: 6a136a9c-bfd7-4434-aa5b-fb87f48fec05

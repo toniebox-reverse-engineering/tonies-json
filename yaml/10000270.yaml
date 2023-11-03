@@ -10,7 +10,7 @@ data:
   runtime: 50
   age: 3
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000270-50001627-b-bCu5Jkld.png
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000270-50001627-b-bCu5Jkld.png
   sample: https://cdn.tonies.de/o/audio_samples/75e4b5ed9ba57be94f0e90c067e0d6ab03c24b68547cc433fefe054f/audio_sample_fcs_european_childrens_songs_ext.mp3
   web: https://tonies.com/en-gb/tonies/favourite-children-s-songs/european-childrens-songs/
   shop-id: f89ef566-e3de-4f1a-aca4-93c9a53e0c65

@@ -10,7 +10,7 @@ data:
   runtime: 90
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001397-50004792-b-ND0m_DbY.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001397-50004792-b-ND0m_DbY.png
   sample: https://cdn.tonies.de/o/audio_samples/f1a525f9ef6df46522a6b87edb590e5dc69b3fb65de6398d837f9e25/hoerprobe_10001397_schlummerbande_klassik_zum_einschlafen_traum_schon_kleiner_schlummerhase.mp3
   web: https://tonies.com/de-de/tonies/schlummerbande/klassik-zum-einschlafen-trum-schn-kleiner-schlummerhase/
   shop-id: c8225280-653e-4fa8-904c-566735f77a39

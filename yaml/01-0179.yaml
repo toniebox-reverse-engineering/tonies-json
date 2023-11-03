@@ -10,7 +10,7 @@ data:
   runtime: 59
   age: 4
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0179-98-0552-b-EUbtzkIN.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0179-98-0552-b-EUbtzkIN.png
   sample: https://cdn.tonies.de/o/audio_samples/2cfed7b413010bb47c7d2fa8823b1b9a36474ca87b57fec9ca5ff1dc/hoerprobe_01_0179_disney_das_dschungelbuch.mp3
   web: https://tonies.com/de-de/tonies/disney/das-dschungelbuch/
   shop-id: 80b739d3-b06e-4f0c-8e81-80d95ca9a991

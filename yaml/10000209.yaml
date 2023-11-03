@@ -10,7 +10,7 @@ data:
   runtime: 55
   age: 4
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000209-50001246-b-0YUpPvI3.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000209-50001246-b-0YUpPvI3.png
   sample: https://cdn.tonies.de/o/audio_samples/83427d97411c761efc167d33da69df8dbeada620d084fe9533e180e3/hoerprobe_disney_mulan_ext.mp3
   web: https://tonies.com/de-de/tonies/disney/mulan/
   shop-id: 936418a2-dc36-461d-81ac-d4e5d650b82e

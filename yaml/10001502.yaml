@@ -10,7 +10,7 @@ data:
   runtime: 54
   age: 4
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/98-1103-Tonie_Shadow-w4RItYE_.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/98-1103-Tonie_Shadow-w4RItYE_.png
   sample: https://cdn.tonies.de/o/audio_samples/a0739c5294d750bb82ab538d617cf85d2c4da92e9fe3c046358cf73a/sample_tonie_disney_mulan.mp3
   web: https://tonies.com/fr-fr/tonies/disney/mulan/
   shop-id: 1736ecb5-2f5d-4ef3-bc8e-4b4ae7760da3

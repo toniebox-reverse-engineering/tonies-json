@@ -10,7 +10,7 @@ data:
   runtime: 80
   age: 8
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000530-50001679-b-pFdy9Rif.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000530-50001679-b-pFdy9Rif.png
   sample: https://cdn.tonies.de/o/audio_samples/30bc3367b2cac45f88b02450b36c71ff8c8bd59ba5687d9906968f95/hoerprobe_ostwind.mp3
   web: https://tonies.com/de-de/tonies/ostwind/zusammen-sind-wir-frei/
   shop-id: 27b51f2b-4286-42ba-86d9-5efaec8832bb

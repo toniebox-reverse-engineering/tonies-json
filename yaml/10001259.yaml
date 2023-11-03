@@ -10,7 +10,7 @@ data:
   runtime: 60
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001259-50003837-b--Hepch5uS.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001259-50003837-b--Hepch5uS.png
   sample: https://cdn.tonies.de/o/audio_samples/0ee7bdc736358f8850feac2fec21e99758c16509d88a4396a6ba14f0/hoerprobe_10001259_lieblings_kinderlieder_schlaflieder_2.mp3
   web: https://tonies.com/de-de/tonies/lieblings-kinderlieder/schlaflieder-2-2021/
   shop-id: be76f9ef-9f0c-478a-98d1-641c74d8eb35

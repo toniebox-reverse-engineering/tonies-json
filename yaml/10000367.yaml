@@ -10,7 +10,7 @@ data:
   runtime: 70
   age: 6
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/BOX10000367_1_a-pBuRcwgp.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/BOX10000367_1_a-pBuRcwgp.png
   sample: https://cdn.tonies.de/o/audio_samples/cf10775b94394879a2c24e3d572b1d93ecd14a61098440087435967b/hoerprobe_10000367_shaun_das_schaf_badetag_und_drei_weitere_schafsinnige_geschichten.mp3
   web: https://tonies.com/de-de/tonies/shaun-das-schaf/badetag-und-drei-weitere-schafsinnige-geschichten/
   shop-id: a56ec5de-aca2-4ee8-93f5-ecd8064858bd

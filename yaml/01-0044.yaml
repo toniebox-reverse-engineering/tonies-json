@@ -10,7 +10,7 @@ data:
   runtime: 60
   age: 5
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0044-98-0120-b-NYnKqZrH.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0044-98-0120-b-NYnKqZrH.png
   sample: https://cdn.tonies.de/o/audio_samples/f7966d6dfd26a6b14ecbd6c58a912ddebf74fceb8f3a0bd175a46d27/hoerprobe_drache_kokosnuss_2.mp3
   web: https://tonies.com/de-de/tonies/der-kleine-drache-kokosnuss/hoerspiel-zur-tv-serie-02/
   shop-id: 19706eda-1aa5-4239-b2da-8ed5e687b32e

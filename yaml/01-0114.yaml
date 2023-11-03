@@ -10,7 +10,7 @@ data:
   runtime: 40
   age: 6
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0114-98-0338-b-fM8SKAgm.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0114-98-0338-b-fM8SKAgm.png
   sample: https://cdn.tonies.de/o/audio_samples/2d3fe0e9d39860f91b59c4c5975ad659530fc549408f1d21719cbf24/die_waschbaeren.mp3
   web: https://tonies.com/de-de/tonies/bibi-tina/die-waschbaeren-sind-los/
   shop-id: 12cef1e0-2972-40b5-b9c7-df586ad99a8b

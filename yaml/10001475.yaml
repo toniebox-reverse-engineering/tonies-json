@@ -10,7 +10,7 @@ data:
   runtime: 28
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001475-50004728-b-tPt54tQR.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001475-50004728-b-tPt54tQR.png
   sample: https://cdn.tonies.de/o/audio_samples/abcf5be5de7f3310bd53ed99c107ac08ce67ee0b73dbaa28411ca844/sample_tonie_disney_winnie.mp3
   web: https://tonies.com/fr-fr/tonies/disney/winnie-l-ourson/
   shop-id: 799ac6f2-89f7-4b5b-b60a-014ae758f218

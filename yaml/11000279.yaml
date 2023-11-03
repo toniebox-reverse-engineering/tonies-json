@@ -10,7 +10,7 @@ data:
   runtime: 50
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/BOX11000279_1_a-TE_EIasM.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/BOX11000279_1_a-TE_EIasM.png
   sample: https://cdn.tonies.de/o/audio_samples/53d3935c78ab696040cc8c02e5f1b0ed0cc3be9eb5b7bb41c7c58a1f/hoerprobe_11000279_drachen_weinen_nicht_mondsuchtig.mp3
   web: https://tonies.com/de-de/tonies/tabaluga/drachen-weinen-nicht-mondschtig/
   shop-id: d63d2e6c-3839-4d11-87b1-78e5de9f15ee

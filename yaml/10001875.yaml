@@ -10,7 +10,7 @@ data:
   runtime: 0
   age: 3
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10001875-50005871-b-Z4Vh-E8b.png
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10001875-50005871-b-Z4Vh-E8b.png
   sample: https://cdn.tonies.de/o/audio_samples/71bde97c8b460328bd221e09b218f3d4223a6947b9284e4e16b33991/sleeping_beauty_audio_sample.wav
   web: https://tonies.com/en-gb/tonies/disney/sleeping-beauty/
   shop-id: 4ebac6dc-cb0d-4a63-8117-f4dcdb5f1555

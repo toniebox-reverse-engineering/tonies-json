@@ -10,7 +10,7 @@ data:
   runtime: 41
   age: 3
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10001386-50004542-b-YpuXzqSJ.png
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10001386-50004542-b-YpuXzqSJ.png
   sample: https://cdn.tonies.de/o/audio_samples/ec3c855ff47dcf9ce2503b23d2fe12559d46f8627964e038e0af2b1f/jemima_puddleduck_sample_fb.wav
   web: https://tonies.com/en-gb/tonies/peter-rabbit/jemima-puddleduck/
   shop-id: 0b111820-d33f-49b2-aae1-f7cd0f479caa

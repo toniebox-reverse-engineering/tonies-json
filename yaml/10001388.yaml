@@ -10,7 +10,7 @@ data:
   runtime: 65
   age: 3
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10001388-50004550-b-MjYKvS-B.png
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10001388-50004550-b-MjYKvS-B.png
   sample: https://cdn.tonies.de/o/audio_samples/fd5ee6bdd31715d451cd41df7e1297e6cb4e7c46250b4c8fb4f49d17/cocomelon_audiosample.wav
   web: https://tonies.com/en-gb/tonies/cocomelon/cocomelon/
   shop-id: f1ddb020-6f2f-4215-852d-40eb20096b1f

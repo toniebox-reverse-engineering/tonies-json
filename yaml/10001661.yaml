@@ -10,7 +10,7 @@ data:
   runtime: 45
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001661-50005239-b-V-cA1Itx.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001661-50005239-b-V-cA1Itx.png
   sample: https://cdn.tonies.de/o/audio_samples/b968c4de8313328162f7dd0fe8202349c24e16ee3f68bc594ffc6471/sample_tonie_pat_patrouille_ruben.mp3
   web: https://tonies.com/fr-fr/tonies/la-pat-patrouille/ruben/
   shop-id: 21e72def-75cd-42cd-bc9d-f02e4b5d9dbf

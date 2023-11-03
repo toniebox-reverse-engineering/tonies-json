@@ -10,7 +10,7 @@ data:
   runtime: 43
   age: 5
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000301-50001983-b-jLo14qFp.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000301-50001983-b-jLo14qFp.png
   sample: https://cdn.tonies.de/o/audio_samples/49f4675f4864b446e3edf1f34607e7e1026d2340edc9b1be389a8f5a/horprobe_lindbergh_die_abenteuerliche_geschichte_einer_fliegenden_maus_ext_2.mp3
   web: https://tonies.com/de-de/tonies/lindbergh/die-abenteuerliche-geschichte-einer-fliegenden-maus/
   shop-id: 91fbd969-034b-406c-a0df-f80d7bc10a4a

@@ -10,7 +10,7 @@ data:
   runtime: 200
   age: 4
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/BOX11000173_1_a-hOMCbBP2.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/BOX11000173_1_a-hOMCbBP2.png
   sample: https://cdn.tonies.de/o/audio_samples/4c323c53499fde06ec7a9bf053926d85b434c7301b69cef6da092a04/hoerprobe_11000173_wunsch_dir_was_kleines_rentier_adventskalender_weihnachtshorspiel.mp3
   web: https://tonies.com/de-de/tonies/adventskalender/wuensch-dir-was-kleines-rentier-adventskalender-weihnachtshrspiel/
   shop-id: c0361b0e-7333-4651-b052-ed50e23ad5e5

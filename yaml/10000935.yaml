@@ -10,7 +10,7 @@ data:
   runtime: 39
   age: 3
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000935-50003069-b-xGhxuk0I.png
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000935-50003069-b-xGhxuk0I.png
   sample: https://cdn.tonies.de/o/audio_samples/5dae21f587b486c316f5e789352b2a1d2a908078d75050543fe83ed2/audio_sample_10000935_disney_fantasia.mp3
   web: https://tonies.com/en-gb/tonies/disney/fantasia/
   shop-id: 04299db4-54e4-40f2-a36b-405651bf3e84

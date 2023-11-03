@@ -10,7 +10,7 @@ data:
   runtime: 68
   age: 5
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001270-50003887-b-nxEC1M5l.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001270-50003887-b-nxEC1M5l.png
   sample: https://cdn.tonies.de/o/audio_samples/e414ede49ecfe2ab9d7f68ecb338d55e3673bd34bebf2dffeda1d6da/sample_tonie_le_petit_nicolas.mp3
   web: https://tonies.com/fr-fr/tonies/le-petit-nicolas/le-petit-nicolas/
   shop-id: 07a3ebb6-155b-4817-91fe-b6a523350413

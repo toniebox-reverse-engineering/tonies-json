@@ -10,7 +10,7 @@ data:
   runtime: 45
   age: 5
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000648-50002056-b-4EY_qUh-.png
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000648-50002056-b-4EY_qUh-.png
   sample: https://cdn.tonies.de/o/audio_samples/0fc6adfeeb65b623a07d3f4edc3b2c3055ed34ad8caf76a872e9c334/fmp_swan_lake_sample_1.wav
   web: https://tonies.com/en-gb/tonies/favourite-masterpieces/swan-lake/
   shop-id: d59fed98-fc84-444a-a159-c41076608112

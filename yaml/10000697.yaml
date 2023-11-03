@@ -10,7 +10,7 @@ data:
   runtime: 116
   age: 5
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000697-50002226-b--7tEKYUYk.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000697-50002226-b--7tEKYUYk.png
   sample: https://cdn.tonies.de/o/audio_samples/d6d05e01e562185f0bfd386f5ffd83265ed7daaefaf0c8d47e1f3650/hoerprobe_10000697_die_kleine_hexe_relaunch.wav
   web: https://tonies.com/de-de/tonies/die-kleine-hexe/die-kleine-hexe-neuauflage-2022/
   shop-id: 7c4d86aa-2d76-4e81-8220-3950219464a3

@@ -10,7 +10,7 @@ data:
   runtime: 60
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/BOX11000290_1_a-gFVLNK5w.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/BOX11000290_1_a-gFVLNK5w.png
   sample: https://cdn.tonies.de/o/audio_samples/2cd096bea45d6c7a08f4d8ac8a96ca1c6a90e368924c2dd488da0e9d/hoerpobe_11000290_sing_kinderlieder_bagger_mats_seine_freunde_die_schonsten_fahrzeuglieder.mp3
   web: https://tonies.com/de-de/tonies/sing-kinderlieder/bagger-mats-seine-freunde-die-schonsten-fahrzeuglieder/
   shop-id: b0b62e23-f0d7-46ff-ba88-3f52c59513d2

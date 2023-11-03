@@ -10,7 +10,7 @@ data:
   runtime: 60
   age: 4
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000683-50002163-b-6nAgF5Gp.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000683-50002163-b-6nAgF5Gp.png
   sample: https://cdn.tonies.de/o/audio_samples/6b7125a31638b1d1a7a8bdd6c86ca0844d4fab4e4f41f3684edbf8da/hoerprobe_disney_micky_total_verrucktes_fussballspiel_ext.mp3
   web: https://tonies.com/de-de/tonies/disney/mickys-total-verruecktes-fussballspiel/
   shop-id: 20e5d9e4-840b-4ef9-84d0-93754e67075a

@@ -10,7 +10,7 @@ data:
   runtime: 120
   age: 3
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000826-50002680-b--sr0lyoTy.png
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000826-50002680-b--sr0lyoTy.png
   sample: https://cdn.tonies.de/o/audio_samples/f601e222aca50212244cc9606a0a64a8bfe2af3913cb0a86135a48ed/audiosample_nap_time_white_noise_ext.mp3
   web: https://tonies.com/en-gb/tonies/nap-time/white-noise/
   shop-id: 0efb88a8-ffb9-4772-a880-3e3af0d5fd60

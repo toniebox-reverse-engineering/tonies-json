@@ -10,7 +10,7 @@ data:
   runtime: 45
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001479-50004738-b-EvhT5zsC.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001479-50004738-b-EvhT5zsC.png
   sample: https://cdn.tonies.de/o/audio_samples/93a456db0d62e950c46016da97e392d27219fa6b0d88da1233c243c0/sample_tonie_masha.mp3
   web: https://tonies.com/fr-fr/tonies/masha-et-michka/masha/
   shop-id: d1b4b1df-462f-480b-8b51-0e51dd40d037

@@ -10,7 +10,7 @@ data:
   runtime: 21
   age: 4
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000862-50002793-b-I_d109Ke.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000862-50002793-b-I_d109Ke.png
   sample: https://cdn.tonies.de/o/audio_samples/58fa635fe468b08cd311122f16ffa6bf1666bd30c589c96610a1dfb2/sample_tonie_disney_cars.mp3
   web: https://tonies.com/fr-fr/tonies/disney/cars/
   shop-id: 51f37e39-b99e-49f8-b5e9-c6b8d56f27e9

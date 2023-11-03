@@ -10,7 +10,7 @@ data:
   runtime: 50
   age: 5
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001491-50004822-b-MXxSmpwU.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001491-50004822-b-MXxSmpwU.png
   sample: https://cdn.tonies.de/o/audio_samples/6e287bdff71f6d55acf4d30341593339e6347919e0e9b0f2c1f4ea86/sample_tonie_mozart.mp3
   web: https://tonies.com/fr-fr/tonies/didier-jeunesse/monsieur-mozart/
   shop-id: eb6959ab-a1b4-4b6d-aedd-ff348d187bb8

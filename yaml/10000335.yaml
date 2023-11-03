@@ -10,7 +10,7 @@ data:
   runtime: 32
   age: 3
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000335-50001024-b-P92RQqDd.png
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000335-50001024-b-P92RQqDd.png
   sample: https://cdn.tonies.de/o/audio_samples/5701be3b9d6aa3c2220aeaccb81f5b5adb74314b7545d8d5af027986/audio_sample_winnie_the_pooh.mp3
   web: https://tonies.com/en-gb/tonies/disney/winnie-the-pooh/
   shop-id: 53257ccb-f419-4861-a037-028f49d8046f

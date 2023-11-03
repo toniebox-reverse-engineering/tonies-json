@@ -10,7 +10,7 @@ data:
   runtime: 45
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001260-50003859-b-ZYLav8nn.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001260-50003859-b-ZYLav8nn.png
   sample: https://cdn.tonies.de/o/audio_samples/1b66b169c948b6aacca2c67b7165652d5bdc2cc3b3b840e2e946fb85/sample_tonie_pat_patrouille_marcus.mp3
   web: https://tonies.com/fr-fr/tonies/la-pat-patrouille/marcus/
   shop-id: 6f152f87-3936-4c00-99d3-24160147dc0d

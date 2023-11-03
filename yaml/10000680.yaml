@@ -10,7 +10,7 @@ data:
   runtime: 42
   age: 6
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000680-50002157-b-lGHrrwRs.png
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000680-50002157-b-lGHrrwRs.png
   sample: https://cdn.tonies.de/o/audio_samples/33509238ed7fece88620d05565d86a35ccb43d72e513290c9145bbc9/miraculous_sample.wav
   web: https://tonies.com/en-gb/tonies/miraculous/miraculous-ladybug/
   shop-id: 43e720f5-91dd-40dd-becd-8154d5cc7fcf

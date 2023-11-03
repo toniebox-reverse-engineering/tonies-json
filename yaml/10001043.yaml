@@ -10,7 +10,7 @@ data:
   runtime: 60
   age: 5
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001043-50003380-b-aIV05NEI.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001043-50003380-b-aIV05NEI.png
   sample: https://cdn.tonies.de/o/audio_samples/7255ba3b2db082a63286e028c099f4f19ac25ed0b1015cb8d20ed273/sample_tonie_heidi.mp3
   web: https://tonies.com/fr-fr/tonies/heidi/heidi/
   shop-id: a2fbe823-ac77-40a5-8d08-3242793c7ae9

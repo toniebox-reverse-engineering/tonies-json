@@ -10,7 +10,7 @@ data:
   runtime: 33
   age: 4
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0012-98-0064-b-LyJLOsk6.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0012-98-0064-b-LyJLOsk6.png
   sample: https://cdn.tonies.de/o/audio_samples/fe9b6a4820b32762934fb29bf5da0ff0d7ba38c95fe1943d56fdc59d/03_hoerprobe_bibi_hexen_gibt_es_doch_2_128_kbps.mp3
   web: https://tonies.com/de-de/tonies/bibi-blocksberg/hexen-gibt-es-doch/
   shop-id: 605e7271-1678-45d8-954f-92e31e5368db

@@ -10,7 +10,7 @@ data:
   runtime: 35
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000223-50001097-b-AHryA9aA.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000223-50001097-b-AHryA9aA.png
   sample: https://cdn.tonies.de/o/audio_samples/cea5c3f14758c5eff906202a16e23391d1460ea89be948ce03279ca6/hoerprobe_weisst_du_eigentlich_wie_lieb_ich_dich_hab_ext.mp3
   web: https://tonies.com/de-de/tonies/weisst-du-eigentlich-wie-lieb-ich-dich-hab/weisst-du-eigentlich-wie-lieb-ich-dich-hab/
   shop-id: afe9a3eb-e3a1-4124-b78c-271695458cc5

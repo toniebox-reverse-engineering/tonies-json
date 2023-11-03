@@ -10,7 +10,7 @@ data:
   runtime: 50
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/BOX11000291_1_a-s6lYsBHo.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/BOX11000291_1_a-s6lYsBHo.png
   sample: https://cdn.tonies.de/o/audio_samples/c926ab95eff5e0546672a6dad707952127467267c4009b4f180dd1d4/leos_tag_3_hoerprobe_300823.wav
   web: https://tonies.com/de-de/tonies/leos-tag/windel-topfchen-klo-das-geht-so/
   shop-id: d8665bc7-22e4-4247-8b43-8db25dbf15b5

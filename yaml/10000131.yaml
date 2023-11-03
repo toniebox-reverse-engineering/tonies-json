@@ -10,7 +10,7 @@ data:
   runtime: 55
   age: 5
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000131-50000869-b-YnN-HEIM.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000131-50000869-b-YnN-HEIM.png
   sample: https://cdn.tonies.de/o/audio_samples/7e802d44905878810bd0ede2b25d001e9469abfef06c59c364f9b9ff/hoerprobe_fuenf_freunde_auf_der_suche_nach_timmy_ext.mp3
   web: https://tonies.com/de-de/tonies/fuenf-freunde/fuenf-freunde-auf-der-suche-nach-timmy/
   shop-id: fc1ef49a-334b-44c2-ab90-52d520a24c1c

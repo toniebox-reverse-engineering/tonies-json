@@ -10,7 +10,7 @@ data:
   runtime: 44
   age: 5
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000309-50001891-b-loYQp8sA.png
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000309-50001891-b-loYQp8sA.png
   sample: https://cdn.tonies.de/o/audio_samples/62f8e2537b94da1e0a5f792a1dabc70561fc4724bee1ce4df126206a/1_62f8e2537b94da1e0a5f792a1dabc70561fc4724bee1ce4df126206a_audio_sample_the_magic_flute.mp3
   web: https://tonies.com/en-gb/tonies/favourite-masterpieces/the-magic-flute/
   shop-id: 7fba6edf-4e63-40ae-8d0d-68a0051c8dba

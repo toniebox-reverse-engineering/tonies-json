@@ -10,7 +10,7 @@ data:
   runtime: 31
   age: 4
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001012-50003325-b-zeKFkFZF.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001012-50003325-b-zeKFkFZF.png
   sample: https://cdn.tonies.de/o/audio_samples/ac94e1e26301e43efee20bd17898b36fa3f6a885ea81f601ac210335/sample_tonie_disney_tiana.mp3
   web: https://tonies.com/fr-fr/tonies/disney/la-princesse-et-la-grenouille/
   shop-id: ce8463ff-9a07-427f-9076-817b96e99eaf

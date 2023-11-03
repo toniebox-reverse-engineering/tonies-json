@@ -10,7 +10,7 @@ data:
   runtime: 50
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/50005848_Tonie_Shado-3qbFGXEo.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/50005848_Tonie_Shado-3qbFGXEo.png
   sample: https://cdn.tonies.de/o/audio_samples/6308ee120e35b84c1d59a6901038530c1deb6ad23dc5024eb53c09a2/hoerprobe_10002136_paw_patrol_ein_neuer_fellfreund.mp3
   web: https://tonies.com/de-de/tonies/paw-patrol/ein-neuer-fellfreund/
   shop-id: 2c3495cc-0c5e-43f7-8ce9-2f6909951664

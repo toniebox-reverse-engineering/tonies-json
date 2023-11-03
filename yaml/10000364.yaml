@@ -10,7 +10,7 @@ data:
   runtime: 53
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000364-50001151-b-F-28_KRN.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000364-50001151-b-F-28_KRN.png
   sample: https://cdn.tonies.de/o/audio_samples/f6ce8ebae416249f01f8f3a11cb2a81fb6287e060f580ab537ae796f/hoerprobe_bob_der_baumeister_bob_der_kuechenmeister_ext.mp3
   web: https://tonies.com/de-de/tonies/bob-der-baumeister/bob-der-kuechenmeister/
   shop-id: d11c1223-6039-43c6-967f-a98ea797578f

@@ -10,7 +10,7 @@ data:
   runtime: 50
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0157-98-0499-b-2I-P8TJExeT.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0157-98-0499-b-2I-P8TJExeT.png
   sample: https://cdn.tonies.de/o/audio_samples/25a3bd649f21afa8a42ffbdc20a704a8669b17cb1fa0932c72659c1b/hoerprobe_leo_lausemaus.mp3
   web: https://tonies.com/de-de/tonies/leo-lausemaus/das-original-hoerspiel-zu-den-buechern-2/
   shop-id: dadc57aa-87b5-429e-8aaf-e01302a8949a

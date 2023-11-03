@@ -10,7 +10,7 @@ data:
   runtime: 64
   age: 4
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000725-50002349-b-zFqIsgCG.png
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000725-50002349-b-zFqIsgCG.png
   sample: https://cdn.tonies.de/o/audio_samples/face233b18cf4d693e3f1f0cd08fd0433cdc9dbfbeb11640352a4019/pjmasks_catboy_audiosample.wav
   web: https://tonies.com/en-gb/tonies/pj-masks/catboy/
   shop-id: 906093f0-f2e0-4505-a98d-0e620e6100cb

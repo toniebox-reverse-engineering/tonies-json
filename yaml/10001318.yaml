@@ -10,7 +10,7 @@ data:
   runtime: 60
   age: 5
   origin: stock
-  picture: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10001318-50004035-b-vMYjUo_G.png
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10001318-50004035-b-vMYjUo_G.png
   sample: https://cdn.tonies.de/o/audio_samples/077a5559814fb5437ce9b2796aca8a2e67324c18b63599b00307c8e0/1astro_intro.wav
   web: https://tonies.com/en-gb/tonies/national-geographic-kids/astronaut/
   shop-id: a7fdfa72-a9c0-4429-91c2-52e85a2739da

@@ -10,7 +10,7 @@ data:
   runtime: 45
   age: 3
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001288-50003952-b--u79b8kZC.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001288-50003952-b--u79b8kZC.png
   sample: https://cdn.tonies.de/o/audio_samples/c0974376bc3d1ef3012fe80172067b28d2aa24f44ffd97387192ab07/sample_tonie_didou.mp3
   web: https://tonies.com/fr-fr/tonies/didou/didou/
   shop-id: 38c5638a-f03f-4576-b154-c0c2a5833f24

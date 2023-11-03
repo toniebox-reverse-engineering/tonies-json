@@ -10,7 +10,7 @@ data:
   runtime: 33
   age: 4
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0193-98-0588-b-ddpRQ61P.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0193-98-0588-b-ddpRQ61P.png
   sample: https://cdn.tonies.de/o/audio_samples/c973a1d9795413faba6462c40443ddac2481e3d360771ebe27dfc8f3/hoerprobe_pettersson_und_findus_findus_zieht_um_ext.mp3
   web: https://tonies.com/de-de/tonies/pettersson-und-findus/findus-zieht-um/
   shop-id: 754f84fa-d607-4059-be7f-f03a25ca73bf
@@ -29,7 +29,7 @@ data:
   runtime: 0
   age: 99
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0193-98-0588-b-ddpRQ61P.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0193-98-0588-b-ddpRQ61P.png
   sample: null
   web: null
   shop-id: null

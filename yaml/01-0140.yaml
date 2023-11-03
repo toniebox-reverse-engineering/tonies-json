@@ -10,7 +10,7 @@ data:
   runtime: 70
   age: 6
   origin: stock
-  picture: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0140-b-lTY7WnkE.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0140-b-lTY7WnkE.png
   sample: https://cdn.tonies.de/o/audio_samples/80d23c4d088bb7698d9fd3797f4d5f2364c0e31369da8c67699862d8/hoerprobe_was_ist_was_raumfahrt.mp3
   web: https://tonies.com/de-de/tonies/was-ist-was/raumfahrt-mond/
   shop-id: 4dbab95f-26ad-42b7-9c09-441938cfb796
