@@ -154,7 +154,6 @@ for lang, data in json_data.items():
                 if track_desc_len != track_len and track_len > 0:
                     print(f'Article {article} track count different ({track_desc_len}/{track_len}), skipping.')
                 else:
-                    yaml_base["last-update"] = int(time.time())
                     with open(yaml_path, "w") as yaml_file:
                         print(f'Updated {article}...')
                         yaml.safe_dump(yaml_base, yaml_file, default_flow_style=False, sort_keys=False, allow_unicode=True)

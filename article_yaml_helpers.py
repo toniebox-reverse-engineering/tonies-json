@@ -7,7 +7,6 @@ class YamlStruct:
     def get_base():
         return {
             "article": None,
-            "last-update": int(time.time()),
             "lock-data": False,
             "data": []
         }

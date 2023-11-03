@@ -218,7 +218,6 @@ if fc_response_data is not None:
             fileData = last_yaml_info["fileData"]
             base = last_yaml_info["base"]
 
-            base["last-update"] = int(time.time())
             base["data"][0]["ids"].insert(0, last_yaml_info["id"])
 
             with open(fileData, "w") as yaml_file:
