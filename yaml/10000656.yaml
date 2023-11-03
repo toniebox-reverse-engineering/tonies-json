@@ -2,8 +2,8 @@ article: '10000656'
 lock-data: false
 data:
 - series: Disney
-  episode: Beauty and the Beast
-  release: 1634169600
+  episode: Beauty & the Beast
+  release: 1634210223
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-beautyandthebeast-transparent.png?v=1634142198
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7219028885655'
   track-desc: []
   ids: []

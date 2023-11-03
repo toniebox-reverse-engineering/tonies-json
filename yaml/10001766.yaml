@@ -2,8 +2,8 @@ article: '10001766'
 lock-data: false
 data:
 - series: Halloween & Spooky Songs
-  episode: ''
-  release: 1663027200
+  episode: null
+  release: 1663081094
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-spookysongs-transparent.png?v=1662748488
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7772295594135'
   track-desc: []
   ids: []

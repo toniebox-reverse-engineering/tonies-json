@@ -2,8 +2,8 @@ article: '10000557'
 lock-data: false
 data:
 - series: Animal Songs
-  episode: ''
-  release: 1632182400
+  episode: null
+  release: 1632224704
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-AnimalSongs-Transparent.png?v=1629748632
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7099440169111'
   track-desc: []
   ids: []

@@ -1,9 +1,9 @@
 article: '10000776'
 lock-data: false
 data:
-- series: Blaze and the Monster Machines
-  episode: ''
-  release: 1667779200
+- series: Blaze & the Monster Machines
+  episode: null
+  release: 1667855483
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-blaze-transparent.png?v=1667855173
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7806504337559'
   track-desc: []
   ids: []

@@ -1,9 +1,9 @@
 article: '10001133'
 lock-data: false
 data:
-- series: 'Disney Frozen: Olaf'
-  episode: ''
-  release: 1667433600
+- series: Disney
+  episode: 'Frozen: Olaf'
+  release: 1667486418
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-olaf-transparent.png?v=1667252530
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7801040011415'
   track-desc: []
   ids: []

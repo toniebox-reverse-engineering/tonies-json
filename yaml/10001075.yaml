@@ -2,8 +2,8 @@ article: '10001075'
 lock-data: false
 data:
 - series: Arthur
-  episode: ''
-  release: 1650240000
+  episode: null
+  release: 1650288213
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-Arthur-transparent.png?v=1650287692
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7531730993303'
   track-desc: []
   ids: []

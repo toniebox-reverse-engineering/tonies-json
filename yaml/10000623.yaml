@@ -3,7 +3,7 @@ lock-data: false
 data:
 - series: Disney
   episode: Moana
-  release: 1635379200
+  release: 1635421114
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-Moana-transparent.png?v=1632762166
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7168607551639'
   track-desc: []
   ids: []

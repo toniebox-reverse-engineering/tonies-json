@@ -3,7 +3,7 @@ lock-data: false
 data:
 - series: Sesame Street
   episode: Elmo
-  release: 1630281600
+  release: 1630352998
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,7 +12,7 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-Elmo-Transparent.png?v=1629227625
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7099209973911'
   track-desc: []
   ids:
   - audio-id: 1624282221

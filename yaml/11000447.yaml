@@ -1,9 +1,9 @@
 article: '11000447'
 lock-data: false
 data:
-- series: 'Planet Omar: Accidental Trouble Magnet'
-  episode: ''
-  release: 1674432000
+- series: Planet Omar
+  episode: Accidental Trouble Magnet
+  release: 1674494473
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-planetomar-transparent.png?v=1674248694
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7907850649751'
   track-desc: []
   ids: []

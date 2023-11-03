@@ -1,9 +1,9 @@
 article: '10000501'
 lock-data: false
 data:
-- series: Disney and Pixar
-  episode: Cars
-  release: 1600387200
+- series: Disney & Pixar
+  episode: 'Cars: Lightning McQueen'
+  release: 1600464210
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-Car-Transparent.png?v=1629749161
   sample: null
   web: null
-  shop-id: null
+  shop-id: '5519190294679'
   track-desc: []
   ids: []

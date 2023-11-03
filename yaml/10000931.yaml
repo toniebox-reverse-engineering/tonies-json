@@ -1,9 +1,9 @@
 article: '10000931'
 lock-data: false
 data:
-- series: 'National Geographic Kids: Horse'
-  episode: ''
-  release: 1666915200
+- series: National Geographic Kids
+  episode: Horse
+  release: 1666985226
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-natgeohorse-transparent.png?v=1666816661
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7806559486103'
   track-desc: []
   ids: []

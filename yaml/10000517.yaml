@@ -1,18 +1,18 @@
 article: '10000517'
 lock-data: false
 data:
-- series: Disney
-  episode: Monsters Inc.
-  release: 1623628800
+- series: Disney & Pixar
+  episode: Monsters, Inc.
+  release: 1623723431
   language: en-us
   category: Tonie
   runtime: 0
   age: 99
   origin: stock
-  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-MonstersInc-Transparent.png?v=1629749259
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-MonstersInc-Transparent.png?v=1698781606
   sample: null
   web: null
-  shop-id: null
+  shop-id: '6807592665239'
   track-desc: []
   ids:
   - audio-id: 1619191456

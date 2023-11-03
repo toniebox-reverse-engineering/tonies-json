@@ -2,8 +2,8 @@ article: '10001083'
 lock-data: false
 data:
 - series: Daniel Tiger's Neighborhood
-  episode: ''
-  release: 1649721600
+  episode: null
+  release: 1649764739
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,7 +12,7 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-Daniel-Tiger-transparent.png?v=1649185029
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7371506385047'
   track-desc: []
   ids:
   - audio-id: 1648793677

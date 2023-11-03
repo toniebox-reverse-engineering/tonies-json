@@ -1,9 +1,9 @@
 article: '10000569'
 lock-data: false
 data:
-- series: Favorite Classics - Puss in Boots
-  episode: ''
-  release: 1667779200
+- series: Favorite Classics
+  episode: Puss in Boots
+  release: 1667855468
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-pussinboots-transparent.png?v=1667855375
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7806510694551'
   track-desc: []
   ids: []

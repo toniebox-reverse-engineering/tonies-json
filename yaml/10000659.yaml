@@ -3,15 +3,15 @@ lock-data: false
 data:
 - series: Creative-Tonie
   episode: Singer
-  release: 1641168000
+  release: 1641214001
   language: en-us
-  category: Creative-Tonies
+  category: Creative Tonie
   runtime: 0
   age: 99
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-Singer-transparent.png?v=1662492714
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7274254827671'
   track-desc: []
   ids: []

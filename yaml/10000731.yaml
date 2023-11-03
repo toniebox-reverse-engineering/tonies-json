@@ -3,7 +3,7 @@ lock-data: false
 data:
 - series: PAW Patrol
   episode: Marshall
-  release: 1634601600
+  release: 1634643581
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,7 +12,7 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-PawPatrol-Marshall-transparent.png?v=1632256990
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7173595562135'
   track-desc: []
   ids:
   - audio-id: 1631704349

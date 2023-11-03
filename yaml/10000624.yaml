@@ -1,9 +1,9 @@
 article: '10000624'
 lock-data: false
 data:
-- series: Masha and the Bear
-  episode: ''
-  release: 1632355200
+- series: Masha & the Bear
+  episode: null
+  release: 1632397552
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-masha-transparent.png?v=1629301598
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7099443478679'
   track-desc: []
   ids: []

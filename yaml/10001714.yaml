@@ -1,9 +1,9 @@
 article: '10001714'
 lock-data: false
 data:
-- series: 'PAW Patrol: Rubble'
-  episode: ''
-  release: 1668902400
+- series: PAW Patrol
+  episode: Rubble
+  release: 1668994108
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-rubble-transparent.png?v=1668728402
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7806540546199'
   track-desc: []
   ids: []

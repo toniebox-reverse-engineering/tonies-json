@@ -1,9 +1,9 @@
 article: '10000513'
 lock-data: false
 data:
-- series: Disney and Pixar
+- series: Disney & Pixar
   episode: Finding Nemo
-  release: 1597276800
+  release: 1597337219
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-Nemo-Transparent.png?v=1598469564
   sample: null
   web: null
-  shop-id: null
+  shop-id: '5519143960727'
   track-desc: []
   ids: []

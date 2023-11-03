@@ -2,8 +2,8 @@ article: '10000504'
 lock-data: false
 data:
 - series: Despicable Me
-  episode: ''
-  release: 1605052800
+  episode: null
+  release: 1605116264
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-DespicableMe-Transparent.png?v=1629749026
   sample: null
   web: null
-  shop-id: null
+  shop-id: '5519699443863'
   track-desc: []
   ids: []

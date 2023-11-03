@@ -2,8 +2,8 @@ article: '10001243'
 lock-data: false
 data:
 - series: CoComelon
-  episode: ''
-  release: 1662508800
+  episode: null
+  release: 1662562750
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-cocomelon-transparent.png?v=1661874594
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7750244991127'
   track-desc: []
   ids: []

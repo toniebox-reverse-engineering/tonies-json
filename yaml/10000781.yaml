@@ -2,8 +2,8 @@ article: '10000781'
 lock-data: false
 data:
 - series: Corduroy
-  episode: ''
-  release: 1646697600
+  episode: null
+  release: 1646744139
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-corduroy-transparent.png?v=1646245299
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7453184393367'
   track-desc: []
   ids: []

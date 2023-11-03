@@ -3,7 +3,7 @@ lock-data: false
 data:
 - series: Nap Time
   episode: White Noise
-  release: 1611014400
+  release: 1611089590
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,7 +12,7 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-WhiteNoise-Transparent_9cedf745-48a2-4d74-8be5-9935a8187805.png?v=1629749741
   sample: null
   web: null
-  shop-id: null
+  shop-id: '6220652150935'
   track-desc: []
   ids:
   - audio-id: 1609250613

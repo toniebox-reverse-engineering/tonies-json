@@ -3,7 +3,7 @@ lock-data: false
 data:
 - series: Wild Kratts
   episode: Martin
-  release: 1647907200
+  release: 1647954935
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-wild-kratts-martin-transparent.png?v=1647534578
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7395889021079'
   track-desc: []
   ids: []

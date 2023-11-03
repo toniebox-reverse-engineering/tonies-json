@@ -1,9 +1,9 @@
 article: '10000506'
 lock-data: false
 data:
-- series: Red Riding Hood and Other Fairy Tales
-  episode: ''
-  release: 1632182400
+- series: Red Riding Hood & Other Fairy Tales
+  episode: null
+  release: 1632224734
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-FavoriteTales-transparent.png?v=1629301521
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7099444756631'
   track-desc: []
   ids: []

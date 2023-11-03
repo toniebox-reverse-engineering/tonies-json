@@ -3,15 +3,15 @@ lock-data: false
 data:
 - series: Creative-Tonie
   episode: Light Blue/Medium
-  release: 1631232000
+  release: 1631308883
   language: en-us
-  category: Creative-Tonies
+  category: Creative Tonie
   runtime: 0
   age: 99
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-BlueCTMedium-transparent.png?v=1662495152
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7154498011287'
   track-desc: []
   ids: []

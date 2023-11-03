@@ -1,9 +1,9 @@
 article: '10002001'
 lock-data: false
 data:
-- series: 'Worldwide Tales: West African Tales'
-  episode: ''
-  release: 1674432000
+- series: Worldwide Tales
+  episode: West African Tales
+  release: 1674495158
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-westafricantales-transparent.png?v=1674248860
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7907849568407'
   track-desc: []
   ids: []

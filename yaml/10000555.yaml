@@ -1,9 +1,9 @@
 article: '10000555'
 lock-data: false
 data:
-- series: Elmer and Friends Story Collection
-  episode: ''
-  release: 1614124800
+- series: Elmer & Friends Story Collection
+  episode: null
+  release: 1614184156
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-Elmer-Transparent.png?v=1629749382
   sample: null
   web: null
-  shop-id: null
+  shop-id: '6220876841111'
   track-desc: []
   ids: []

@@ -1,9 +1,9 @@
 article: '10000888'
 lock-data: false
 data:
-- series: Tee and Mo
-  episode: ''
-  release: 1670371200
+- series: Tee & Mo
+  episode: null
+  release: 1670427140
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-teeandmo-transparent.png?v=1670268529
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7806564925591'
   track-desc: []
   ids: []

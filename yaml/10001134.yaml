@@ -1,9 +1,9 @@
 article: '10001134'
 lock-data: false
 data:
-- series: Disney Sleeping Beauty
-  episode: ''
-  release: 1666915200
+- series: Disney
+  episode: Sleeping Beauty
+  release: 1666985173
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-sleepingbeauty-transparent.png?v=1666816749
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7806514233495'
   track-desc: []
   ids: []

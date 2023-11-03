@@ -2,8 +2,8 @@ article: '10000771'
 lock-data: false
 data:
 - series: Dora the Explorer
-  episode: ''
-  release: 1653609600
+  episode: null
+  release: 1653653111
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-dora-transparent.png?v=1653423732
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7604694548631'
   track-desc: []
   ids: []

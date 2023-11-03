@@ -3,15 +3,15 @@ lock-data: false
 data:
 - series: Creative-Tonie
   episode: Pirate
-  release: 1606953600
+  release: 1607017913
   language: en-us
-  category: Creative-Tonies
+  category: Creative Tonie
   runtime: 0
   age: 99
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-Pirate-Transparent.png?v=1629749661
   sample: null
   web: null
-  shop-id: null
+  shop-id: '5519049130135'
   track-desc: []
   ids: []

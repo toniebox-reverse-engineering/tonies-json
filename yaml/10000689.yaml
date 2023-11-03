@@ -2,8 +2,8 @@ article: '10000689'
 lock-data: false
 data:
 - series: Disney
-  episode: The Princess and The Frog
-  release: 1646092800
+  episode: The Princess & The Frog
+  release: 1646138880
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-PATF-transparent.png?v=1646138911
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7371505664151'
   track-desc: []
   ids: []

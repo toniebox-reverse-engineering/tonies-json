@@ -3,7 +3,7 @@ lock-data: false
 data:
 - series: Sesame Street
   episode: Cookie Monster
-  release: 1630281600
+  release: 1630353002
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/cookiemonster-transparent.png?v=1653492301
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7099212398743'
   track-desc: []
   ids: []

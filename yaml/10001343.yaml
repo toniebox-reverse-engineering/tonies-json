@@ -2,8 +2,8 @@ article: '10001343'
 lock-data: false
 data:
 - series: Giraffes Can't Dance
-  episode: ''
-  release: 1670371200
+  episode: null
+  release: 1670427149
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-giraffescan_tdance-transparent.png?v=1670268647
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7806566563991'
   track-desc: []
   ids: []

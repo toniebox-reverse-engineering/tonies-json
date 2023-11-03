@@ -1,17 +1,17 @@
 article: '10000554'
 lock-data: false
 data:
-- series: A Christmas Carol and Tales
-  episode: ''
-  release: 1617753600
+- series: A Christmas Carol & Tales
+  episode: null
+  release: 1617812573
   language: en-us
   category: Tonie
   runtime: 0
   age: 99
   origin: stock
-  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-ChristmasCarol-Transparent.png?v=1629748395
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-ChristmasCarol-Transparent.png?v=1698780935
   sample: null
   web: null
-  shop-id: null
+  shop-id: '5519710683287'
   track-desc: []
   ids: []

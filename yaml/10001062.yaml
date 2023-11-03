@@ -3,15 +3,15 @@ lock-data: false
 data:
 - series: Creative-Tonie
   episode: Red/Dark
-  release: 1631232000
+  release: 1631309171
   language: en-us
-  category: Creative-Tonies
+  category: Creative Tonie
   runtime: 0
   age: 99
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-RedCTDark-transparent.png?v=1662493070
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7154569216151'
   track-desc: []
   ids: []

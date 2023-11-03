@@ -2,8 +2,8 @@ article: '10000777'
 lock-data: false
 data:
 - series: Blue's Clues & You
-  episode: ''
-  release: 1652745600
+  episode: null
+  release: 1692894276
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-BluesClues-transparent.png?v=1652387927
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7565380911255'
   track-desc: []
   ids: []

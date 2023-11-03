@@ -3,15 +3,15 @@ lock-data: false
 data:
 - series: Creative-Tonie
   episode: Vampire
-  release: 1597190400
+  release: 1597265129
   language: en-us
-  category: Creative-Tonies
+  category: Creative Tonie
   runtime: 0
   age: 99
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-Vampire-Transparent.png?v=1662492821
   sample: null
   web: null
-  shop-id: null
+  shop-id: '5515352014999'
   track-desc: []
   ids: []

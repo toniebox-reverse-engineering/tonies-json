@@ -3,7 +3,7 @@ lock-data: false
 data:
 - series: National Geographic Kids
   episode: Penguin
-  release: 1642464000
+  release: 1642510389
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-NatGeo-penguin-transparent.png?v=1641573427
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7326666096791'
   track-desc: []
   ids: []

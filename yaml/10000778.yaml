@@ -1,9 +1,9 @@
 article: '10000778'
 lock-data: false
 data:
-- series: Disney and Pixar
+- series: Disney & Pixar
   episode: 'Cars: Mater'
-  release: 1658448000
+  release: 1658500552
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-mater-transparent.png?v=1658500453
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7654007537815'
   track-desc: []
   ids: []

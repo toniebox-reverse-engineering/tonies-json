@@ -3,7 +3,7 @@ lock-data: false
 data:
 - series: Disney
   episode: Mulan
-  release: 1629072000
+  release: 1629169265
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-Mulan-Transparent.png?v=1628083717
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7011184312471'
   track-desc: []
   ids: []

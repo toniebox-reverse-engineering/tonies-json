@@ -1,9 +1,9 @@
 article: '10000685'
 lock-data: false
 data:
-- series: Disney and Pixar
+- series: Disney & Pixar
   episode: 'Toy Story 2: Buzz Lightyear'
-  release: 1638921600
+  release: 1638968259
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-buzz-transparent.png?v=1635524284
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7223047848087'
   track-desc: []
   ids: []

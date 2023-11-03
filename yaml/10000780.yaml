@@ -2,8 +2,8 @@ article: '10000780'
 lock-data: false
 data:
 - series: Pete the Cat
-  episode: ''
-  release: 1645488000
+  episode: null
+  release: 1645534014
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-Pete-the-Cat-transparent.png?v=1645203110
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7395920740503'
   track-desc: []
   ids: []

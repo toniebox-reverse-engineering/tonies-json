@@ -2,8 +2,8 @@ article: '10000542'
 lock-data: false
 data:
 - series: Peter Rabbit
-  episode: ''
-  release: 1615766400
+  episode: null
+  release: 1615824686
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-PeterRabbit-Transparent.png?v=1629749704
   sample: null
   web: null
-  shop-id: null
+  shop-id: '6462410752151'
   track-desc: []
   ids: []

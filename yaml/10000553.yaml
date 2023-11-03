@@ -1,9 +1,9 @@
 article: '10000553'
 lock-data: false
 data:
-- series: Rapunzel and Other Fairy Tales
-  episode: ''
-  release: 1597276800
+- series: Rapunzel & Other Fairy Tales
+  episode: null
+  release: 1597344591
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-Rapunzel-Transparent.png?v=1629749890
   sample: null
   web: null
-  shop-id: null
+  shop-id: '5519419768983'
   track-desc: []
   ids: []

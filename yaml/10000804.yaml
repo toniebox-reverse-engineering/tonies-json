@@ -2,8 +2,8 @@ article: '10000804'
 lock-data: false
 data:
 - series: Dragons Love Tacos
-  episode: ''
-  release: 1674432000
+  episode: null
+  release: 1674494444
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-dragonslovetacos-transparent.png?v=1674242723
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7907851600023'
   track-desc: []
   ids: []

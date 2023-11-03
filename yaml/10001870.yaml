@@ -1,9 +1,9 @@
 article: '10001870'
 lock-data: false
 data:
-- series: 'Pete the Cat: Rock On!'
-  episode: ''
-  release: 1669334400
+- series: Pete the Cat
+  episode: Rock On!
+  release: 1669390826
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-petethecat2-transparent.png?v=1669148341
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7806556897431'
   track-desc: []
   ids: []

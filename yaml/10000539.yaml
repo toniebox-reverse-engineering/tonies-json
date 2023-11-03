@@ -1,9 +1,9 @@
 article: '10000539'
 lock-data: false
 data:
-- series: Bedtime Songs
-  episode: ''
-  release: 1598486400
+- series: Bedtime Songs & Lullabies
+  episode: null
+  release: 1598550136
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,7 +12,7 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-BedtimeSongs-Transparent.png?v=1629748695
   sample: null
   web: null
-  shop-id: null
+  shop-id: '5519468626071'
   track-desc: []
   ids:
   - audio-id: 1616768647

@@ -1,9 +1,9 @@
 article: '10001826'
 lock-data: false
 data:
-- series: LeVar Burton Tonie
-  episode: ''
-  release: 1628467200
+- series: LeVar Burton
+  episode: null
+  release: 1628545545
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,7 +12,7 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-LeVar-transparent.png?v=1628179778
   sample: null
   web: null
-  shop-id: null
+  shop-id: '6978548727959'
   track-desc: []
   ids:
   - audio-id: 1629876957

@@ -1,9 +1,9 @@
 article: '10001135'
 lock-data: false
 data:
-- series: Brown Bear and Friends
-  episode: ''
-  release: 1674604800
+- series: Brown Bear & Friends
+  episode: null
+  release: 1674670391
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-brownbear-transparent.png?v=1674509110
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7888456188055'
   track-desc: []
   ids: []

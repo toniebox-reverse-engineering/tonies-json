@@ -2,8 +2,8 @@ article: '10001079'
 lock-data: false
 data:
 - series: Let's Go Luna
-  episode: ''
-  release: 1663632000
+  episode: null
+  release: 1663692935
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-letsgoluna-transparent.png?v=1663610744
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7774607343767'
   track-desc: []
   ids: []

@@ -2,8 +2,8 @@ article: '10000790'
 lock-data: false
 data:
 - series: Clark the Shark
-  episode: ''
-  release: 1667779200
+  episode: null
+  release: 1667855476
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-clarktheshark-transparent.png?v=1667855290
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7806501912727'
   track-desc: []
   ids: []

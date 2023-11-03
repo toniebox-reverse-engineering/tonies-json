@@ -2,8 +2,8 @@ article: '10000629'
 lock-data: false
 data:
 - series: Octonauts
-  episode: ''
-  release: 1643068800
+  episode: null
+  release: 1643113988
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-octonauts-transparent.png?v=1641488232
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7325111025815'
   track-desc: []
   ids: []

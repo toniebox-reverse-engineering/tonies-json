@@ -3,7 +3,7 @@ lock-data: false
 data:
 - series: Nap Time
   episode: Nature Sounds
-  release: 1611014400
+  release: 1611089581
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,7 +12,7 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-NatureSounds-Transparent_e54a2f8c-0442-4150-a636-bfaa516d064e.png?v=1629749759
   sample: null
   web: null
-  shop-id: null
+  shop-id: '6220646252695'
   track-desc: []
   ids:
   - audio-id: 1610702237

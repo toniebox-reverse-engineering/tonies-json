@@ -1,9 +1,9 @@
 article: '10000652'
 lock-data: false
 data:
-- series: Disney and Pixar Coco
-  episode: ''
-  release: 1666656000
+- series: Disney & Pixar
+  episode: Coco
+  release: 1666711163
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-coco-transparent.png?v=1666373466
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7789751500951'
   track-desc: []
   ids: []

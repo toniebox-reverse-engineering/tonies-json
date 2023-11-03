@@ -3,7 +3,7 @@ lock-data: false
 data:
 - series: Disney
   episode: Doc McStuffins
-  release: 1664841600
+  release: 1664894457
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-docmcstuffins-transparent.png?v=1664751528
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7789732528279'
   track-desc: []
   ids: []

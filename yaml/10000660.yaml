@@ -2,8 +2,8 @@ article: '10000660'
 lock-data: false
 data:
 - series: Holiday Songs
-  episode: ''
-  release: 1637193600
+  episode: null
+  release: 1637238664
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-holiday-songs-transparent.png?v=1637098225
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7255819845783'
   track-desc: []
   ids: []

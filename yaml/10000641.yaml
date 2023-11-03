@@ -2,8 +2,8 @@ article: '10000641'
 lock-data: false
 data:
 - series: Miraculous
-  episode: Tales of Ladybug and Cat Noir
-  release: 1652140800
+  episode: Tales of Ladybug & Cat Noir
+  release: 1652186226
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-miraculous-transparent.png?v=1652186104
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7565339787415'
   track-desc: []
   ids: []

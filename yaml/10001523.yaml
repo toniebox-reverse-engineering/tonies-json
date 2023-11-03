@@ -3,7 +3,7 @@ lock-data: false
 data:
 - series: Peppa Pig
   episode: George
-  release: 1655769600
+  release: 1655822411
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-george-transparent.png?v=1662132238
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7629784252567'
   track-desc: []
   ids: []

@@ -1,9 +1,9 @@
 article: '10000793'
 lock-data: false
 data:
-- series: Horton Hears a Who!
-  episode: ''
-  release: 1660003200
+- series: Dr. Seuss
+  episode: Horton Hears a Who!
+  release: 1660056633
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-horton-transparent.png?v=1662132202
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7695092908183'
   track-desc: []
   ids: []

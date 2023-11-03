@@ -1,9 +1,9 @@
 article: '10000561'
 lock-data: false
 data:
-- series: Highway Rat
-  episode: ''
-  release: 1620691200
+- series: Julia Donaldson
+  episode: Highway Rat
+  release: 1620737135
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-HighwayRat-Transparent.png?v=1629749601
   sample: null
   web: null
-  shop-id: null
+  shop-id: '6807571431575'
   track-desc: []
   ids: []

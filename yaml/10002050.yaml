@@ -1,0 +1,17 @@
+article: null
+lock-data: false
+data:
+- series: PAW Patrol
+  episode: Zuma
+  release: 1687362109
+  language: en-us
+  category: Tonie
+  runtime: 0
+  age: 99
+  origin: stock
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tonies-PDP-Assets-zuma-transparent.png?v=1687276552
+  sample: null
+  web: null
+  shop-id: '8016774693015'
+  track-desc: []
+  ids: []

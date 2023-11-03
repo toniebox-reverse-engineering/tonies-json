@@ -2,8 +2,8 @@ article: '10000650'
 lock-data: false
 data:
 - series: Curious George
-  episode: ''
-  release: 1673568000
+  episode: null
+  release: 1673643454
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-curiousgeorge-transparent.png?v=1673564837
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7868717367447'
   track-desc: []
   ids: []

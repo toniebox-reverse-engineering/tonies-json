@@ -1,9 +1,9 @@
 article: '10001366'
 lock-data: false
 data:
-- series: GoNoodle x tonies® Mindfulness Tonie
-  episode: ''
-  release: 1619481600
+- series: GoNoodle x tonies® Mindfulness
+  episode: null
+  release: 1619534230
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,7 +12,7 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-GoNoodle-Transparent.png?v=1619539126
   sample: null
   web: null
-  shop-id: null
+  shop-id: '6664641773719'
   track-desc: []
   ids:
   - audio-id: 1618228258

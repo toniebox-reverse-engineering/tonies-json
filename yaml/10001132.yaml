@@ -1,9 +1,9 @@
 article: '10001132'
 lock-data: false
 data:
-- series: Disney Holiday Mickey
-  episode: ''
-  release: 1666224000
+- series: Disney
+  episode: Holiday Mickey
+  release: 1666282273
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-holidaymickey-transparent.png?v=1666305800
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7801059999895'
   track-desc: []
   ids: []

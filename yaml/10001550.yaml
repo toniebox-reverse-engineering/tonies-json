@@ -1,0 +1,17 @@
+article: null
+lock-data: false
+data:
+- series: Dr. Seuss
+  episode: Green Eggs & Ham
+  release: 1691013729
+  language: en-us
+  category: Tonie
+  runtime: 0
+  age: 99
+  origin: stock
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tonies-PDP-Assets-greeneggsandham-transparent.png?v=1690930327
+  sample: null
+  web: null
+  shop-id: '8040230879383'
+  track-desc: []
+  ids: []

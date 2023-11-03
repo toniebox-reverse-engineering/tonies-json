@@ -2,8 +2,8 @@ article: '10000800'
 lock-data: false
 data:
 - series: Eloise
-  episode: ''
-  release: 1665446400
+  episode: null
+  release: 1665499659
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-eloise-transparent.png?v=1665073126
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7789733904535'
   track-desc: []
   ids: []

@@ -2,8 +2,8 @@ article: '10000926'
 lock-data: false
 data:
 - series: Chicka Chicka Boom Boom
-  episode: ''
-  release: 1647216000
+  episode: null
+  release: 1647287089
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-CBB-transparent.png?v=1647016566
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7465440411799'
   track-desc: []
   ids: []

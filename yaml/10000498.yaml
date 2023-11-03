@@ -3,7 +3,7 @@ lock-data: false
 data:
 - series: Disney
   episode: The Lion King
-  release: 1597276800
+  release: 1597339817
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-LionKing-Transparent.png?v=1629749327
   sample: null
   web: null
-  shop-id: null
+  shop-id: '5519213559959'
   track-desc: []
   ids: []

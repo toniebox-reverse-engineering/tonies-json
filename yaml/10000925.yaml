@@ -2,8 +2,8 @@ article: '10000925'
 lock-data: false
 data:
 - series: LMNO Peas
-  episode: ''
-  release: 1661212800
+  episode: null
+  release: 1661265665
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-lmnopeas-transparent.png?v=1662131977
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7727258665111'
   track-desc: []
   ids: []

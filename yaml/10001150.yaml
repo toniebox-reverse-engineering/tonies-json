@@ -2,8 +2,8 @@ article: '10001150'
 lock-data: false
 data:
 - series: Pride
-  episode: ''
-  release: 1654041600
+  episode: null
+  release: 1654088539
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-pride-transparent.png?v=1653518594
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7604877262999'
   track-desc: []
   ids: []

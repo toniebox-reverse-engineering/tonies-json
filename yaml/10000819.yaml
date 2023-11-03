@@ -2,8 +2,8 @@ article: '10000819'
 lock-data: false
 data:
 - series: Laurie Berkner
-  episode: ''
-  release: 1671494400
+  episode: null
+  release: 1671575124
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-laurieberkner-transparent.png?v=1671487165
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7815911571607'
   track-desc: []
   ids: []

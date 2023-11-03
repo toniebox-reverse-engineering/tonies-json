@@ -2,8 +2,8 @@ article: '10000802'
 lock-data: false
 data:
 - series: Gabby's Dollhouse
-  episode: ''
-  release: 1663891200
+  episode: null
+  release: 1663956475
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-gabbysdollhouse-transparent.png?v=1666305524
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7789658374295'
   track-desc: []
   ids: []

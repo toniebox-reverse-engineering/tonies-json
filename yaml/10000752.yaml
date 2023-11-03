@@ -1,9 +1,9 @@
 article: '10000752'
 lock-data: false
 data:
-- series: Matilda
-  episode: ''
-  release: 1658793600
+- series: Roald Dahl
+  episode: Matilda
+  release: 1658846681
   language: en-us
   category: Tonie
   runtime: 0
@@ -12,6 +12,6 @@ data:
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-matilda-transparent.png?v=1658780831
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7685476876439'
   track-desc: []
   ids: []
