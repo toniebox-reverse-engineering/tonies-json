@@ -113,6 +113,8 @@ for filename in os.listdir(auth_dir):
                 tmp_base = yaml.safe_load(data_yaml_file)
                 if tmp_base is not None and tmp_base["article"] == article and len(tmp_base["data"]) > 0:
                     base = tmp_base
+                    for data in base["data"]:
+                        data["ids"].sort(key=lambda x: x["audio-id"], reverse=True)
                     data = base["data"][0]
                     id = data["ids"][0]
                     
