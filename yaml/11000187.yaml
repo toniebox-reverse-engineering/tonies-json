@@ -1,0 +1,18 @@
+article: null
+lock-data: false
+data:
+- series: Toto the Ninja Cat
+  episode: Toto the Ninja Cat and the Great Snake Escape
+  release: 1700438400
+  language: en-gb
+  category: audio-book
+  runtime: 85
+  age: 5
+  origin: stock
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/Image%202-1hvdsj-2.png
+  sample: https://cdn.tonies.de/o/audio_samples/099959d8f0ffe1f896752d0d7708952c8d1e88360403d924c8bd9d5a/11000187_toto_the_ninja_cat_sample.wav
+  web: https://tonies.com/en-gb/tonies/toto-the-ninja-cat/toto-the-ninja-cat-toto/
+  shop-id: 22173d9b-da47-4e03-92c3-6fc4f01417d2
+  track-desc:
+  - Toto the Ninja Cat
+  ids: []

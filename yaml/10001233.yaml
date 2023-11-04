@@ -1,0 +1,47 @@
+article: null
+lock-data: false
+data:
+- series: Roald Dahl
+  episode: Charlie and the Chocolate Factory
+  release: 1700092800
+  language: en-gb
+  category: audio-book
+  runtime: 197
+  age: 6
+  origin: stock
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/Image%202-yo-t7bzB.png
+  sample: https://cdn.tonies.de/o/audio_samples/a9752297258492d1d816bbf9f0ae04d02afe2285816ff08e13a2c704/charlie_and_the_chocolate_factory_sample.wav
+  web: https://tonies.com/en-gb/tonies/roald-dahl/charlie-and-the-chocolate-factory/
+  shop-id: 8f126ee9-900c-447f-8517-5d317f59844b
+  track-desc:
+  - Here Comes Charlie
+  - Mr Willy Wonka's Factory
+  - Mr Wonka and the Indian Prince
+  - The Secret Workers
+  - The Golden Tickets
+  - The First Two Finders
+  - Charlie's Birthday
+  - Two More Golden Tickets Found
+  - Grandpa Joe Takes A Gamble
+  - The Family Begins To Starve
+  - The Miracle
+  - What It Said On The Golden Ticket
+  - The Big Day Arrives
+  - Mr Willy Wonka
+  - The Chocolate Room
+  - The Oompa-Loompas
+  - Augustus Gloop Goes Up The Pipe
+  - Down The Chocolate River
+  - The Inventing Room Everlasting Gobstoppers And Hair Toffee
+  - The Great Gum Machine
+  - Good-Bye Violet
+  - Along The Corridor
+  - Square Sweets That Look Round
+  - Veruca In The Nut Room
+  - The Great Glass Lift
+  - The Television Chocolate Room
+  - Mike Teavee Is Sent By Television
+  - Only Charlie Left
+  - The Other Children Go Home
+  - Charlie's Chocolate Factory
+  ids: []

@@ -1,0 +1,28 @@
+article: null
+lock-data: false
+data:
+- series: Disney
+  episode: Soul
+  release: 1700438400
+  language: en-gb
+  category: audio-play-songs
+  runtime: 30
+  age: 6
+  origin: stock
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/Image%202-7kDlW-Cl.png
+  sample: https://cdn.tonies.de/o/audio_samples/ab57e08e6460d130c21aa7805d32eb3336b7bfb3ea47a3e0a0fa642f/10002053_soul_sample.wav
+  web: https://tonies.com/en-gb/tonies/disney/soul/
+  shop-id: d6d8941e-7dd4-45d3-9586-0c1033486354
+  track-desc:
+  - STORY - Soul
+  - Born to Play
+  - Bigger Than Us
+  - The Great Before / U Seminar
+  - Jump to Earth
+  - Joe's lowdown Blues
+  - Terry Time
+  - Looking at Life
+  - Pursuit/Terry's World
+  - Spiritual Connection
+  - Just Us
+  ids: []
