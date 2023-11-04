@@ -15,14 +15,11 @@ data:
   shop-id: null
   track-desc: []
   ids:
-  - audio-id: 1641978893
-    hash: 7f4cb38f5f16c60876597fb905dffe3c329c13de
-    size: 56615272
-    tracks: 42
   - audio-id: 1602579939
     hash: baf7a9fef8b948b9efb38593778804d191d3269f
     size: 0
     tracks: 0
+    confidence: 0
 - series: Die drei ???
   episode: Das Hexen Handy
   release: 1604880000
@@ -41,6 +38,7 @@ data:
     hash: b58ae4e6eb0b8bc6a136da559cedd1a45b4745c4
     size: 0
     tracks: 0
+    confidence: 0
 - series: Die drei ???
   episode: Höhenangst
   release: 1604880000
@@ -59,6 +57,7 @@ data:
     hash: 7f4cb38f5f16c60876597fb905dffe3c329c13de
     size: 0
     tracks: 0
+    confidence: 0
 - series: Die drei ???
   episode: Die Musikpiraten
   release: 1604880000
@@ -77,3 +76,4 @@ data:
     hash: 64ee06aa8e3eebc737b492ba64a9c2846717899a
     size: 0
     tracks: 0
+    confidence: 0

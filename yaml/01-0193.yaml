@@ -20,6 +20,7 @@ data:
     hash: c9fec899b41930d42e1ac49065c48c66a89799dc
     size: 0
     tracks: 0
+    confidence: 0
 - series: Pettersson und Findus
   episode: Aufruhr im Gemüsebeet
   release: 0
@@ -38,3 +39,4 @@ data:
     hash: ff5194e065c7644216b4de1ff7d5b6389a032eb5
     size: 0
     tracks: 0
+    confidence: 0

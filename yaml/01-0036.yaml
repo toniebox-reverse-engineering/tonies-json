@@ -28,7 +28,9 @@ data:
     hash: 98fa163bf48f71c08cde709d50a539dd147dcba9
     size: 0
     tracks: 0
+    confidence: 0
   - audio-id: 1599063181
     hash: 7c32bd51d1d686ce179b182014075cc6c9910c44
     size: 0
     tracks: 0
+    confidence: 0

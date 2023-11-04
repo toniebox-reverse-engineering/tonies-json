@@ -57,7 +57,9 @@ data:
     hash: ee98ec1d9560965f3d0ef4c18fa54fbacd216357
     size: 0
     tracks: 0
+    confidence: 0
   - audio-id: 1663574097
     hash: 84e63a3de4d36c0c8dc8a22fca45d29adbb69af8
     size: 0
     tracks: 0
+    confidence: 0
