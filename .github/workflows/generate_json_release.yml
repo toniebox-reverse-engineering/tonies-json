@@ -27,11 +27,10 @@ jobs:
           repository: toniebox-reverse-engineering/tonies-json
           ref: release
           path: tonies-json-release
-          
-      - name: Delete old artifacts tonies-json
-        run: |
-          cd tonies-json
-          rm -f tonies.json toniesV2.json 
+      - uses: actions/checkout@v4
+        with:
+          repository: toniebox-reverse-engineering/tonies-json-tools
+          path: tonies-json-tools
           
       - name: Delete old artifacts tonies-json-release
         run: |
@@ -40,10 +39,8 @@ jobs:
           
       - name: Run yaml2tonies-json.py
         run: |
-          cd tonies-json
+          cd tonies-json-tools
           ./yaml2tonies-json.py
-          mv tonies.json ../tonies-json-release/
-          mv toniesV2.json ../tonies-json-release/
 
       - name: Check if files exist
         run: |
