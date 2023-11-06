@@ -17,9 +17,9 @@ data:
   ids:
   - audio-id: 1602579939
     hash: baf7a9fef8b948b9efb38593778804d191d3269f
-    size: 0
-    tracks: 0
-    confidence: 0
+    size: 42621145
+    tracks: 8
+    confidence: 2
 - series: Die drei ???
   episode: Das Hexen Handy
   release: 1604880000
