@@ -31,13 +31,13 @@ data:
   - Siggi Säge
   - Jeder Tag geht mal zu Ende
   ids:
-  - audio-id: 1542990628
-    hash: 14ebfb2a6a73ecf95335f470502d2671d36e9561
-    size: 0
-    tracks: 0
-    confidence: 0
   - audio-id: 1679322067
     hash: 04e44dae80184d80dc40cda407f3c598a048dac2
+    size: 38636803
+    tracks: 16
+    confidence: 2
+  - audio-id: 1542990628
+    hash: 14ebfb2a6a73ecf95335f470502d2671d36e9561
     size: 0
     tracks: 0
     confidence: 0

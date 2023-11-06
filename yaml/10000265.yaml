@@ -40,6 +40,6 @@ data:
   ids:
   - audio-id: 1597845307
     hash: acd5d5acd6991fd6ad2953d679326962a0c6ebf2
-    size: 0
-    tracks: 0
-    confidence: 0
+    size: 38672511
+    tracks: 23
+    confidence: 1

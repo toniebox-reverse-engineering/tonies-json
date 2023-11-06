@@ -1,0 +1,22 @@
+article: '10001352'
+lock-data: false
+data:
+- series: null
+  episode: null
+  release: 0
+  language: null
+  category: null
+  runtime: 0
+  age: 99
+  origin: stock
+  image: null
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1668761859
+    hash: 01a8e5997fb6ffc99de19ce021aebebc9ec87813
+    size: 64198763
+    tracks: 30
+    confidence: 1

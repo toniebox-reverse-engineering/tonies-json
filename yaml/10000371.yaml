@@ -33,6 +33,11 @@ data:
   - KiKANiNCHEN-Freundelied - Tschüs!
   - Müde genug
   ids:
+  - audio-id: 1685696522
+    hash: a699679dd5ff587394d9f5491ebd5dcc0d8a095b
+    size: 35763776
+    tracks: 18
+    confidence: 1
   - audio-id: 1610722877
     hash: 982e3ea5b91ce0428910916f4d3f45922803a964
     size: 0

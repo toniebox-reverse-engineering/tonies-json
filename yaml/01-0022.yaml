@@ -20,6 +20,6 @@ data:
   ids:
   - audio-id: 1480012266
     hash: cb6b622a16027b45f53ff3341e5f7c91829e1bbb
-    size: 0
-    tracks: 0
-    confidence: 0
+    size: 38397214
+    tracks: 3
+    confidence: 2

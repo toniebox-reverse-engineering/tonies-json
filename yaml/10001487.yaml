@@ -40,4 +40,9 @@ data:
   - Das war vielleicht ein Jubel …
   - „Aber vorher will ich mich noch …“
   - „Und jetzt muss ich euch jemanden vorstellen!“
-  ids: []
+  ids:
+  - audio-id: 1681214413
+    hash: 4cee1fb1a36575f5e9aaadcbcb7346acdf936acd
+    size: 80219415
+    tracks: 26
+    confidence: 1

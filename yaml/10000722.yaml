@@ -55,13 +55,13 @@ data:
   - 'Kapitel 17: Eine neue Hoffnung'
   - 'Kapitel 18: Eine neue Hoffnung'
   ids:
-  - audio-id: 1618494143
-    hash: 28801200539431e823e80e72dfc779f5c41e29c3
-    size: 0
-    tracks: 0
-    confidence: 0
   - audio-id: 1644324746
     hash: 5c44f7453271b561cf77c780d7a9485c76de206c
+    size: 34007820
+    tracks: 40
+    confidence: 1
+  - audio-id: 1618494143
+    hash: 28801200539431e823e80e72dfc779f5c41e29c3
     size: 0
     tracks: 0
     confidence: 0

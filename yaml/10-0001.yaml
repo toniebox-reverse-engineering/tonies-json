@@ -22,6 +22,6 @@ data:
     confidence: 0
   - audio-id: 1573742024
     hash: e7783b4ececeb0a03b4c8c25314434dff13d2fcb
-    size: 0
-    tracks: 0
-    confidence: 0
+    size: 34290786
+    tracks: 25
+    confidence: 1

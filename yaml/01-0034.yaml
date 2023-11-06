@@ -17,6 +17,6 @@ data:
   ids:
   - audio-id: 1490357985
     hash: e0ca0638ffec056f4ec5991c19523370b3ee4eb3
-    size: 0
-    tracks: 0
-    confidence: 0
+    size: 58711582
+    tracks: 10
+    confidence: 1
