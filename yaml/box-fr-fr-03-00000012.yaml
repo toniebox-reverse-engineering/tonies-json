@@ -2,6 +2,7 @@ article: box-fr-fr-03-00000012
 lock-data: false
 data:
 - series: null
+  series-id: null
   episode: null
   release: 0
   language: null
