@@ -2,6 +2,7 @@ article: '10000256'
 lock-data: false
 data:
 - series: Greg's Tagebuch
+  series-id: greg-s-tagebuch
   episode: Von Idioten umzingelt
   release: 1613001600
   language: de-de

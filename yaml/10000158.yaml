@@ -2,6 +2,7 @@ article: '10000158'
 lock-data: false
 data:
 - series: Die drei ???
+  series-id: null
   episode: Der Super-Papagei
   release: 1604880000
   language: de-de
@@ -15,12 +16,18 @@ data:
   shop-id: null
   track-desc: []
   ids:
+  - audio-id: 1699259452
+    hash: 944299ce18fec5e0777bcf67971cac49f269af29
+    size: 51584410
+    tracks: 4
+    confidence: 1
   - audio-id: 1602579939
     hash: baf7a9fef8b948b9efb38593778804d191d3269f
     size: 42621145
     tracks: 8
-    confidence: 2
+    confidence: 1
 - series: Die drei ???
+  series-id: null
   episode: Das Hexen Handy
   release: 1604880000
   language: de-de
@@ -40,6 +47,7 @@ data:
     tracks: 0
     confidence: 0
 - series: Die drei ???
+  series-id: null
   episode: Höhenangst
   release: 1604880000
   language: de-de
@@ -59,6 +67,7 @@ data:
     tracks: 0
     confidence: 0
 - series: Die drei ???
+  series-id: null
   episode: Die Musikpiraten
   release: 1604880000
   language: de-de

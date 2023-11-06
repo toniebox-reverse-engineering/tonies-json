@@ -2,6 +2,7 @@ article: '10000898'
 lock-data: false
 data:
 - series: Jan Tenner
+  series-id: jan-tenner
   episode: Jan Tenner - Planet der 1000 Wunder
   release: 1657670400
   language: de-de

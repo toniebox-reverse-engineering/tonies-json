@@ -2,6 +2,7 @@ article: '10000771'
 lock-data: false
 data:
 - series: Dora the Explorer
+  series-id: null
   episode: null
   release: 1653653111
   language: en-us

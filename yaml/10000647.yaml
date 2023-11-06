@@ -2,6 +2,7 @@ article: '10000647'
 lock-data: false
 data:
 - series: Das magische Baumhaus
+  series-id: das-magische-baumhaus
   episode: Im Tal der Dinosaurier
   release: 0
   language: de-de

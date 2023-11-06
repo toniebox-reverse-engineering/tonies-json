@@ -2,6 +2,7 @@ article: '10002021'
 lock-data: false
 data:
 - series: Conni
+  series-id: conni
   episode: Conni auf dem Bauernhof / Conni und das neue Baby (Neuauflage 2023)
   release: 1675814400
   language: de-de

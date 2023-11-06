@@ -2,6 +2,7 @@ article: '10001543'
 lock-data: false
 data:
 - series: ''
+  series-id: null
   episode: Sängerin (Neuauflage 2022)
   release: 0
   language: de-de

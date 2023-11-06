@@ -2,6 +2,7 @@ article: '10002023'
 lock-data: false
 data:
 - series: Secret Science Club
+  series-id: secret-science-club
   episode: 'Secret Science Club: Abwehrstark - Rund um Viren, Abwehrkräfte und Immunhelfer!
     mit Özlem & Ugur'
   release: 0

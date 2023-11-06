@@ -2,6 +2,7 @@ article: '10001270'
 lock-data: false
 data:
 - series: Le Petit Nicolas
+  series-id: le-petit-nicolas
   episode: Le Petit Nicolas
   release: 1661990400
   language: fr-fr

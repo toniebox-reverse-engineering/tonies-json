@@ -2,6 +2,7 @@ article: 01-0051
 lock-data: false
 data:
 - series: Kikaninchen
+  series-id: kikaninchen
   episode: Mein Geschichtenkissen
   release: 1506384000
   language: de-de
@@ -25,13 +26,13 @@ data:
   - Der fliegende Pinguin
   - Der Riese und die Maus
   ids:
-  - audio-id: 1499761300
-    hash: 57af01bf655803f39e063d0ee3f80984d93bb93a
+  - audio-id: 1679323400
+    hash: 14def5a738fdcd872ea5987107cbc8e106a4ed7b
     size: 0
     tracks: 0
     confidence: 0
-  - audio-id: 1679323400
-    hash: 14def5a738fdcd872ea5987107cbc8e106a4ed7b
+  - audio-id: 1499761300
+    hash: 57af01bf655803f39e063d0ee3f80984d93bb93a
     size: 0
     tracks: 0
     confidence: 0

@@ -2,6 +2,7 @@ article: '10000891'
 lock-data: false
 data:
 - series: Lauras Stern
+  series-id: lauras-stern
   episode: Die allererste Bilderbuch Geschichte & Glitzernde Gutenacht-Geschichten
   release: 1644364800
   language: de-de

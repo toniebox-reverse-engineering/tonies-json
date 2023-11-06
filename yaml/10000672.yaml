@@ -2,6 +2,7 @@ article: '10000672'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: Coco
   release: 0
   language: de-de

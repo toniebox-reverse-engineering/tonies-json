@@ -2,6 +2,7 @@ article: '10000527'
 lock-data: false
 data:
 - series: Affenzahn Utopia
+  series-id: affenzahn-utopia
   episode: Die Abenteuer von Affenzahn
   release: 1618444800
   language: de-de

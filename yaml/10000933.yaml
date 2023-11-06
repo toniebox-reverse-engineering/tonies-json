@@ -2,6 +2,7 @@ article: '10000933'
 lock-data: false
 data:
 - series: PAW Patrol
+  series-id: paw-patrol
   episode: Schneller als die Feuerwehr
   release: 1645574400
   language: de-de

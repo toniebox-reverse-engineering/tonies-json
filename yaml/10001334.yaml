@@ -2,6 +2,7 @@ article: '10001334'
 lock-data: false
 data:
 - series: Lieblings-Kinderlieder
+  series-id: lieblings-kinderlieder
   episode: Weihnachtslieder 2 (Neuauflage 2022)
   release: 1663113600
   language: de-de

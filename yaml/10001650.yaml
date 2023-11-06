@@ -2,6 +2,7 @@ article: '10001650'
 lock-data: false
 data:
 - series: Angelina Ballerina
+  series-id: angelina-ballerina
   episode: Angelina Ballerina
   release: 1687392000
   language: en-gb

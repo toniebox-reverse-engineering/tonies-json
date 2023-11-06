@@ -2,6 +2,7 @@ article: '10000826'
 lock-data: false
 data:
 - series: Nap Time
+  series-id: nap-time
   episode: White Noise
   release: 1615420800
   language: en-gb

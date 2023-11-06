@@ -2,6 +2,7 @@ article: '10000858'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: La Reine Des Neiges
   release: 0
   language: fr-fr

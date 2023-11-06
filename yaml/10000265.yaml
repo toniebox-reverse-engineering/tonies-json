@@ -2,6 +2,7 @@ article: '10000265'
 lock-data: false
 data:
 - series: WAS IST WAS
+  series-id: was-ist-was
   episode: Pinguine/Tiere im Zoo
   release: 1599696000
   language: de-de

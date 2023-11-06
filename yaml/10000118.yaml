@@ -2,6 +2,7 @@ article: '10000118'
 lock-data: false
 data:
 - series: ''
+  series-id: null
   episode: Kreativ-Tonie Vampir
   release: 0
   language: de-de

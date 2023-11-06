@@ -2,6 +2,7 @@ article: 02-0020
 lock-data: false
 data:
 - series: ''
+  series-id: null
   episode: Kreativ-Tonie Spooky
   release: 0
   language: de-de

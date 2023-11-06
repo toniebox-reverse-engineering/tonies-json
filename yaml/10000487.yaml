@@ -2,6 +2,7 @@ article: '10000487'
 lock-data: false
 data:
 - series: Ralph Ruthe
+  series-id: ralph-ruthe
   episode: Das Klo
   release: 1618444800
   language: de-de

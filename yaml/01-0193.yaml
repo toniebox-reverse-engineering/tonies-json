@@ -2,6 +2,7 @@ article: 01-0193
 lock-data: false
 data:
 - series: Pettersson und Findus
+  series-id: pettersson-und-findus
   episode: Findus zieht um
   release: 1580947200
   language: de-de
@@ -20,13 +21,14 @@ data:
     hash: 1f0591616e22caabba58fd5ad33ce5e050b59325
     size: 23759316
     tracks: 9
-    confidence: 3
+    confidence: 1
   - audio-id: 1579696839
     hash: c9fec899b41930d42e1ac49065c48c66a89799dc
-    size: 0
-    tracks: 0
-    confidence: 0
+    size: 24534243
+    tracks: 8
+    confidence: 2
 - series: Pettersson und Findus
+  series-id: null
   episode: Aufruhr im Gemüsebeet
   release: 0
   language: de-de

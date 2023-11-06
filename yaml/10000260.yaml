@@ -2,6 +2,7 @@ article: '10000260'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: Findet Nemo
   release: 1603324800
   language: de-de

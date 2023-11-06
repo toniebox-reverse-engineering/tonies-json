@@ -2,6 +2,7 @@ article: '10000143'
 lock-data: false
 data:
 - series: Kinderliederzug
+  series-id: null
   episode: Bitte alle einsteigen!
   release: 1567641600
   language: de-de

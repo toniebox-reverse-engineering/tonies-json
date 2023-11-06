@@ -2,6 +2,7 @@ article: 01-0109
 lock-data: false
 data:
 - series: Dr. Brumm
+  series-id: dr-brumm
   episode: Dr. Brumm steckt fest/Dr. Brumm geht baden
   release: 1528329600
   language: de-de

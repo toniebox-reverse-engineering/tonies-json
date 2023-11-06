@@ -2,6 +2,7 @@ article: '10001491'
 lock-data: false
 data:
 - series: Didier Jeunesse
+  series-id: didier-jeunesse
   episode: Monsieur Mozart
   release: 1668643200
   language: fr-fr

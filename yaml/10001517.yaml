@@ -2,6 +2,7 @@ article: '10001517'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: Lilo & Stitch
   release: 1675209600
   language: en-gb

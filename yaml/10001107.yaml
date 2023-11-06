@@ -2,6 +2,7 @@ article: '10001107'
 lock-data: false
 data:
 - series: Lieblings-Kinderlieder
+  series-id: lieblings-kinderlieder
   episode: Englische Kinderlieder (Neuauflage 2022)
   release: 1646784000
   language: de-de

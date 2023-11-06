@@ -2,6 +2,7 @@ article: 02-0027
 lock-data: false
 data:
 - series: ''
+  series-id: null
   episode: Kreativ-Tonie Bauarbeiter
   release: 0
   language: de-de

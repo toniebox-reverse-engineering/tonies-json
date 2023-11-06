@@ -2,6 +2,7 @@ article: '10000270'
 lock-data: false
 data:
 - series: Favourite Children's Songs
+  series-id: favourite-children-s-songs
   episode: European Children's Songs
   release: 1599696000
   language: en-gb

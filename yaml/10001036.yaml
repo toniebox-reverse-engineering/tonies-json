@@ -2,6 +2,7 @@ article: '10001036'
 lock-data: false
 data:
 - series: Favourite Classics
+  series-id: favourite-classics
   episode: Pinocchio (relaunch)
   release: 1659052800
   language: en-gb

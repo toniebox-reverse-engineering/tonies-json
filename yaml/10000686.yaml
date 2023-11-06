@@ -2,6 +2,7 @@ article: '10000686'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: Rapunzel – Neu verföhnt
   release: 1645574400
   language: de-de

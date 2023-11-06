@@ -2,6 +2,7 @@ article: 01-0042
 lock-data: false
 data:
 - series: Die drei ??? Kids
+  series-id: null
   episode: Radio Rocky Beach
   release: 1498521600
   language: de-de

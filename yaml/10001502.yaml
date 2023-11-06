@@ -2,6 +2,7 @@ article: '10001502'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: Mulan
   release: 1678320000
   language: fr-fr

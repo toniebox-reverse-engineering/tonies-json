@@ -2,6 +2,7 @@ article: 01-0159
 lock-data: false
 data:
 - series: Erdbeerinchen Erdbeerfee
+  series-id: erdbeerinchen-erdbeerfee
   episode: Zauberhafte Geschichten aus dem Erdbeergarten
   release: 1628726400
   language: de-de

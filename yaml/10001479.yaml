@@ -2,6 +2,7 @@ article: '10001479'
 lock-data: false
 data:
 - series: Masha Et Michka
+  series-id: masha-et-michka
   episode: Masha
   release: 1667433600
   language: fr-fr

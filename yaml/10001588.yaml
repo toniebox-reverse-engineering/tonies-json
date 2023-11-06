@@ -2,6 +2,7 @@ article: '10001588'
 lock-data: false
 data:
 - series: Les Copains Du Dodo
+  series-id: les-copains-du-dodo
   episode: Doudou Nounours
   release: 1676505600
   language: fr-fr

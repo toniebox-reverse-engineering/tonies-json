@@ -2,6 +2,7 @@ article: 01-0032
 lock-data: false
 data:
 - series: Heidi
+  series-id: heidi
   episode: Die Reise zum Großvater
   release: 1490313600
   language: de-de

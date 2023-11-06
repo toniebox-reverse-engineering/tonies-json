@@ -2,6 +2,7 @@ article: '10001878'
 lock-data: false
 data:
 - series: Conservation Crew
+  series-id: conservation-crew
   episode: Land Rescues with Nina the Red Panda
   release: 1684713600
   language: en-gb

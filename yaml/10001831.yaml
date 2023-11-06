@@ -2,6 +2,7 @@ article: '10001831'
 lock-data: false
 data:
 - series: Les Schtroumpfs
+  series-id: les-schtroumpfs
   episode: L'Apprenti Schtroumpf Et 2 Autres Histoires
   release: 1687392000
   language: fr-fr

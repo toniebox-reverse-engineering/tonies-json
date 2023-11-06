@@ -2,6 +2,7 @@ article: '10000907'
 lock-data: false
 data:
 - series: Der kleine Nick
+  series-id: der-kleine-nick
   episode: Der kleine Nick ist der Beste
   release: 1689120000
   language: de-de

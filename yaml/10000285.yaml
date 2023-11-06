@@ -2,6 +2,7 @@ article: '10000285'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: Die Monster AG
   release: 1605744000
   language: de-de

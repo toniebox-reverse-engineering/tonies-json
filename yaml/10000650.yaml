@@ -2,6 +2,7 @@ article: '10000650'
 lock-data: false
 data:
 - series: Curious George
+  series-id: null
   episode: null
   release: 1673643454
   language: en-us

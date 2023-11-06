@@ -2,6 +2,7 @@ article: '10000665'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: Minnie Maus - Helfen macht Spaß
   release: 0
   language: de-de

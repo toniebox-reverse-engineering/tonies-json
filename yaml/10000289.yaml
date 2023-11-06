@@ -2,6 +2,7 @@ article: '10000289'
 lock-data: false
 data:
 - series: Lieblings-Kinderlieder
+  series-id: lieblings-kinderlieder
   episode: Halloween & Spuk
   release: 1603324800
   language: de-de

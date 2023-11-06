@@ -2,6 +2,7 @@ article: '10000024'
 lock-data: false
 data:
 - series: The Gnats
+  series-id: null
   episode: Here come the Gnats!
   release: 1559692800
   language: en-gb

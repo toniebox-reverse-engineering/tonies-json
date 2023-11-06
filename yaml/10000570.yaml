@@ -2,6 +2,7 @@ article: '10000570'
 lock-data: false
 data:
 - series: How to Train Your Dragon
+  series-id: null
   episode: null
   release: 1627965210
   language: en-us

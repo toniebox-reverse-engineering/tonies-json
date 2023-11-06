@@ -2,6 +2,7 @@ article: '10002099'
 lock-data: false
 data:
 - series: Les Contes De Hoofs
+  series-id: les-contes-de-hoofs
   episode: Maxoof
   release: 1692748800
   language: fr-fr

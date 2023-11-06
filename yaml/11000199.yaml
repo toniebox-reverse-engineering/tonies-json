@@ -2,6 +2,7 @@ article: '11000199'
 lock-data: false
 data:
 - series: Leos Tag
+  series-id: leos-tag
   episode: 1, 2, 3, sei beim Aufräumen dabei!
   release: 1691539200
   language: de-de

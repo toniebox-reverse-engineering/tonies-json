@@ -2,6 +2,7 @@ article: 09-0101
 lock-data: false
 data:
 - series: DEMO TONIE
+  series-id: null
   episode: DEMO TONIE
   release: 0
   language: de-de

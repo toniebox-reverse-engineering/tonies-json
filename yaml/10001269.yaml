@@ -2,6 +2,7 @@ article: '10001269'
 lock-data: false
 data:
 - series: Mes Comptines Préférées
+  series-id: mes-comptines-preferees
   episode: Pour Voyager
   release: 1655942400
   language: fr-fr

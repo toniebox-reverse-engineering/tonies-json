@@ -2,6 +2,7 @@ article: '10001311'
 lock-data: false
 data:
 - series: Sleepy Friends
+  series-id: sleepy-friends
   episode: Lullaby Melodies with Sleepy Sheep
   release: 1676678400
   language: en-gb

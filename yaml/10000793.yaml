@@ -2,6 +2,7 @@ article: '10000793'
 lock-data: false
 data:
 - series: Dr. Seuss
+  series-id: null
   episode: Horton Hears a Who!
   release: 1660056633
   language: en-us

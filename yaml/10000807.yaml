@@ -2,6 +2,7 @@ article: '10000807'
 lock-data: false
 data:
 - series: The Wishing Chair
+  series-id: the-wishing-chair
   episode: The Wishing Chair
   release: 1695600000
   language: en-gb

@@ -2,6 +2,7 @@ article: '10001318'
 lock-data: false
 data:
 - series: National Geographic Kids
+  series-id: national-geographic-kids
   episode: Astronaut
   release: 1650844800
   language: en-gb

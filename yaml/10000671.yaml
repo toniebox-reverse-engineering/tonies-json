@@ -2,6 +2,7 @@ article: '10000671'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: Die Eiskönigin 2
   release: 1635292800
   language: de-de

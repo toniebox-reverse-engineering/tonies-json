@@ -2,6 +2,7 @@ article: '10000252'
 lock-data: false
 data:
 - series: Favourite Tales
+  series-id: favourite-tales
   episode: Puss in Boots and other fairy tales
   release: 1599696000
   language: en-gb

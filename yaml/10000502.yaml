@@ -2,6 +2,7 @@ article: '10000502'
 lock-data: false
 data:
 - series: Beethoven for Kids
+  series-id: beethoven-for-kids
   episode: Beethoven for Kids - Presented by Daniel Hope
   release: 1599696000
   language: en-gb

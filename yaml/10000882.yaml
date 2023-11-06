@@ -2,6 +2,7 @@ article: '10000882'
 lock-data: false
 data:
 - series: Wild Kratts
+  series-id: null
   episode: Chris
   release: 1647954928
   language: en-us

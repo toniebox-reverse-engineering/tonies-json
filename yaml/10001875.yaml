@@ -2,6 +2,7 @@ article: '10001875'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: Sleeping Beauty
   release: 1669161600
   language: en-gb

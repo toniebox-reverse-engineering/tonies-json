@@ -2,6 +2,7 @@ article: '10000142'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: Toy Story
   release: 1583366400
   language: de-de

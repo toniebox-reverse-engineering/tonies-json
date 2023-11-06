@@ -2,6 +2,7 @@ article: '10002170'
 lock-data: false
 data:
 - series: Tonies Collection Bundle
+  series-id: null
   episode: TV Favourites Tonies Collection
   release: 0
   language: en-gb

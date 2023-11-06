@@ -2,6 +2,7 @@ article: '10000367'
 lock-data: false
 data:
 - series: Shaun das Schaf
+  series-id: shaun-das-schaf
   episode: Badetag und drei weitere schafsinnige Geschichten
   release: 1683676800
   language: de-de

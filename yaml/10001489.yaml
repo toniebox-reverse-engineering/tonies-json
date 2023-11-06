@@ -2,6 +2,7 @@ article: '10001489'
 lock-data: false
 data:
 - series: Die Eule mit der Beule
+  series-id: die-eule-mit-der-beule
   episode: Gute Nacht, kleine Eule
   release: 1680134400
   language: de-de

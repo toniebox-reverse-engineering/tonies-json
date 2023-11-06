@@ -2,6 +2,7 @@ article: '10001022'
 lock-data: false
 data:
 - series: The Little Prince
+  series-id: the-little-prince
   episode: The Little Prince (relaunch)
   release: 1650585600
   language: en-gb

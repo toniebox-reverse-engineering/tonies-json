@@ -2,6 +2,7 @@ article: '10000016'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: The Jungle Book
   release: 0
   language: en-gb

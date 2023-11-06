@@ -2,6 +2,7 @@ article: '10000581'
 lock-data: false
 data:
 - series: 100% Wolf
+  series-id: 100-wolf
   episode: 100% Wolf - Das Original-Hörspiel zum Kinofilm
   release: 1644364800
   language: de-de

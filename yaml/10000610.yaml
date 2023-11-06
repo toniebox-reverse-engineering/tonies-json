@@ -2,6 +2,7 @@ article: '10000610'
 lock-data: false
 data:
 - series: Mia and me
+  series-id: mia-and-me
   episode: Das goldene Einhorn / Onchao und das Paradies
   release: 0
   language: de-de

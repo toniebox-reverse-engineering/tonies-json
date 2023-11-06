@@ -2,6 +2,7 @@ article: '10000483'
 lock-data: false
 data:
 - series: Thomas the Tank Engine
+  series-id: thomas-the-tank-engine
   episode: 'Thomas & Friends: The Adventure Begins'
   release: 1638403200
   language: en-gb

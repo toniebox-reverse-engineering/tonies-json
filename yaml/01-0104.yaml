@@ -2,6 +2,7 @@ article: 01-0104
 lock-data: false
 data:
 - series: Eule findet den Beat
+  series-id: eule-findet-den-beat
   episode: Ein Entdeckerflug durch die Musikwelt
   release: 1506384000
   language: de-de

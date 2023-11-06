@@ -2,6 +2,7 @@ article: 01-0116
 lock-data: false
 data:
 - series: Alea Aquarius
+  series-id: alea-aquarius
   episode: Die Magie der Nixen
   release: 1618444800
   language: de-de

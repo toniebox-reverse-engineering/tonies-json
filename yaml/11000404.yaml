@@ -2,6 +2,7 @@ article: '11000404'
 lock-data: false
 data:
 - series: Calm
+  series-id: calm
   episode: Cap'n Dreambeard
   release: 1679270400
   language: en-gb

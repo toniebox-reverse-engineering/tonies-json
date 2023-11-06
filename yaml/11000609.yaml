@@ -2,6 +2,7 @@ article: '11000609'
 lock-data: false
 data:
 - series: Spidey Et Ses Amis Extraordinaires
+  series-id: spidey-et-ses-amis-extraordinaires
   episode: Miles Morales
   release: 1697673600
   language: fr-fr

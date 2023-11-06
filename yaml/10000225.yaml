@@ -2,6 +2,7 @@ article: '10000225'
 lock-data: false
 data:
 - series: Guess How Much I Love You
+  series-id: guess-how-much-i-love-you
   episode: Guess How Much I Love You
   release: 0
   language: en-gb

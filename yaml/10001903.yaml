@@ -2,6 +2,7 @@ article: '10001903'
 lock-data: false
 data:
 - series: Mes Mythes Préférés
+  series-id: mes-mythes-preferes
   episode: La Mythologie Grecque
   release: 1684972800
   language: fr-fr

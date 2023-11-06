@@ -2,6 +2,7 @@ article: '10000304'
 lock-data: false
 data:
 - series: Rolf Zuckowski
+  series-id: rolf-zuckowski
   episode: In der Weihnachtsbäckerei
   release: 1605744000
   language: de-de

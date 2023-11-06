@@ -2,6 +2,7 @@ article: '10001273'
 lock-data: false
 data:
 - series: Astérix
+  series-id: asterix
   episode: Le Tour De Gaule D'Astérix
   release: 1667433600
   language: fr-fr

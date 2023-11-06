@@ -2,6 +2,7 @@ article: '10000669'
 lock-data: false
 data:
 - series: Roald Dahl
+  series-id: roald-dahl
   episode: Revolting Rhymes and Dirty Beasts
   release: 1694563200
   language: en-gb

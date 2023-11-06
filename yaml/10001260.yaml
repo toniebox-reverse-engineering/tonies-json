@@ -2,6 +2,7 @@ article: '10001260'
 lock-data: false
 data:
 - series: La Pat' Patrouille
+  series-id: la-pat-patrouille
   episode: Marcus
   release: 1646870400
   language: fr-fr

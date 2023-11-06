@@ -2,6 +2,7 @@ article: '10001683'
 lock-data: false
 data:
 - series: Woozle Goozle
+  series-id: woozle-goozle
   episode: Luft & Elektrizität
   release: 1683676800
   language: de-de

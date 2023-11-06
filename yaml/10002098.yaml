@@ -2,6 +2,7 @@ article: '10002098'
 lock-data: false
 data:
 - series: La Pat' Patrouille
+  series-id: la-pat-patrouille
   episode: Everest
   release: 1678320000
   language: fr-fr

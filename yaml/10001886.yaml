@@ -2,6 +2,7 @@ article: '10001886'
 lock-data: false
 data:
 - series: ''
+  series-id: null
   episode: Superhero Blue (dark-brown)
   release: 0
   language: en-gb

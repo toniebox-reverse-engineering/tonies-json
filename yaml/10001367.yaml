@@ -2,6 +2,7 @@ article: '10001367'
 lock-data: false
 data:
 - series: Der Grolltroll
+  series-id: der-grolltroll
   episode: Der Grolltroll – Das Liederalbum
   release: 1675814400
   language: de-de

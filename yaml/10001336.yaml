@@ -2,6 +2,7 @@ article: '10001336'
 lock-data: false
 data:
 - series: Planet Omar
+  series-id: planet-omar
   episode: Planet Omar
   release: 1663113600
   language: de-de

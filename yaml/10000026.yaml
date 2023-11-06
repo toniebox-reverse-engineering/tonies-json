@@ -2,6 +2,7 @@ article: '10000026'
 lock-data: false
 data:
 - series: TKKG Junior
+  series-id: null
   episode: Scary Sleepover
   release: 0
   language: en-gb

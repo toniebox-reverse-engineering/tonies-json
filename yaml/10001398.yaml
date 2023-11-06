@@ -2,6 +2,7 @@ article: '10001398'
 lock-data: false
 data:
 - series: Super Wings
+  series-id: super-wings
   episode: Feuer im Wald
   release: 1678233600
   language: de-de

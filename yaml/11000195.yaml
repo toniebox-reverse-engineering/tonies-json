@@ -2,6 +2,7 @@ article: '11000195'
 lock-data: false
 data:
 - series: Paw Patrol
+  series-id: paw-patrol
   episode: Zuma
   release: 1687219200
   language: en-gb

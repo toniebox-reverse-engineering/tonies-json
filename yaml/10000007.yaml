@@ -2,6 +2,7 @@ article: '10000007'
 lock-data: false
 data:
 - series: Stick Man
+  series-id: stick-man
   episode: Stick Man
   release: 0
   language: en-gb

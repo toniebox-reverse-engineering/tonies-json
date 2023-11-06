@@ -2,6 +2,7 @@ article: '10002008'
 lock-data: false
 data:
 - series: Billie, der Regenbogentiger
+  series-id: billie-der-regenbogentiger
   episode: Billie, der Regenbogentiger
   release: 1685491200
   language: de-de

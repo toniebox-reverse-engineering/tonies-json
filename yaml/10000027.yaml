@@ -2,6 +2,7 @@ article: '10000027'
 lock-data: false
 data:
 - series: Die drei ??? Kids Englisch
+  series-id: null
   episode: Soccer Mania (Englische Version)
   release: 1568851200
   language: de-de

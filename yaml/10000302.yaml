@@ -2,6 +2,7 @@ article: '10000302'
 lock-data: false
 data:
 - series: Die drei Räuber
+  series-id: die-drei-raeuber
   episode: Die drei Räuber
   release: 1615420800
   language: de-de

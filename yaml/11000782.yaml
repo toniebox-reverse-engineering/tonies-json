@@ -2,6 +2,7 @@ article: '11000782'
 lock-data: false
 data:
 - series: Today with tonies
+  series-id: today-with-tonies
   episode: Today with tonies
   release: 1699228800
   language: en-gb

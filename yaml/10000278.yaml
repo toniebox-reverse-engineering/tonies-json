@@ -2,6 +2,7 @@ article: '10000278'
 lock-data: false
 data:
 - series: Fredrik Vahle
+  series-id: fredrik-vahle
   episode: Zugabe
   release: 1618444800
   language: de-de

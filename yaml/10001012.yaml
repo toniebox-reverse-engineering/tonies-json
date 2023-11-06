@@ -2,6 +2,7 @@ article: '10001012'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: La Princesse Et La Grenouille
   release: 1670457600
   language: fr-fr

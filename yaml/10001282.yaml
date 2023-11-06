@@ -2,6 +2,7 @@ article: '10001282'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: La Reine Des Neiges 2
   release: 1657756800
   language: fr-fr

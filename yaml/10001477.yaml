@@ -2,6 +2,7 @@ article: '10001477'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: Vaiana
   release: 1652918400
   language: fr-fr

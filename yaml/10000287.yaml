@@ -2,6 +2,7 @@ article: '10000287'
 lock-data: false
 data:
 - series: Kai Lüftners Kürbiskopp
+  series-id: null
   episode: Ein musikalisches Roadmovie
   release: 1603324800
   language: de-de

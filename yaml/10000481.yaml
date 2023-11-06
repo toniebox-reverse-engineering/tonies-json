@@ -2,6 +2,7 @@ article: '10000481'
 lock-data: false
 data:
 - series: My Little Pony
+  series-id: my-little-pony
   episode: Sunny
   release: 1666396800
   language: en-gb

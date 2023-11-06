@@ -2,6 +2,7 @@ article: '10000997'
 lock-data: false
 data:
 - series: Peppa Pig
+  series-id: peppa-pig
   episode: Die schönsten Geschichten von Schorsch
   release: 1675814400
   language: de-de

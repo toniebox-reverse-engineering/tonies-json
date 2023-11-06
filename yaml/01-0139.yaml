@@ -2,6 +2,7 @@ article: 01-0139
 lock-data: false
 data:
 - series: Der kleine Siebenschläfer
+  series-id: der-kleine-siebenschlaefer
   episode: Die Geschichte vom kleinen Siebenschläfer, der nicht einschlafen konnte
   release: 1599696000
   language: de-de

@@ -2,6 +2,7 @@ article: 01-0064
 lock-data: false
 data:
 - series: Der Räuber Hotzenplotz
+  series-id: null
   episode: Neues vom Räuber Hotzenplotz
   release: 1541548800
   language: de-de

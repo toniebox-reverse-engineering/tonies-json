@@ -2,6 +2,7 @@ article: '10001589'
 lock-data: false
 data:
 - series: Ma Pause Zen
+  series-id: ma-pause-zen
   episode: Séances Méditatives De Max Larelax
   release: 1673481600
   language: fr-fr

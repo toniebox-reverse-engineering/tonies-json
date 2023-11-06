@@ -2,6 +2,7 @@ article: '10000381'
 lock-data: false
 data:
 - series: Paddington
+  series-id: paddington
   episode: Geschichten von Paddington
   release: 1638316800
   language: de-de

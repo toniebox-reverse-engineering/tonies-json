@@ -2,6 +2,7 @@ article: '10002016'
 lock-data: false
 data:
 - series: Steiff Soft Cuddly Friends
+  series-id: steiff-soft-cuddly-friends
   episode: Bodo Schimpanse
   release: 1648771200
   language: de-de

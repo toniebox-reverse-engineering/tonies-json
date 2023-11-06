@@ -2,6 +2,7 @@ article: 01-0105
 lock-data: false
 data:
 - series: Janosch
+  series-id: janosch
   episode: Post für den Tiger
   release: 1517443200
   language: de-de

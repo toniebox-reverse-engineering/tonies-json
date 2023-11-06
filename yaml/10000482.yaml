@@ -2,6 +2,7 @@ article: '10000482'
 lock-data: false
 data:
 - series: Thomas & seine Freunde
+  series-id: thomas-seine-freunde
   episode: Große Welt! Große Abenteuer!
   release: 1657670400
   language: de-de

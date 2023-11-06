@@ -2,6 +2,7 @@ article: '10000320'
 lock-data: false
 data:
 - series: PAW Patrol
+  series-id: paw-patrol
   episode: Die Rettung der Meeresschildkröten
   release: 1620864000
   language: de-de
@@ -19,8 +20,18 @@ data:
   - Die Rettung der Meeresschildkröten
   - Das Riesenbaby
   ids:
+  - audio-id: 1689608468
+    hash: 0971adcc70ef55e92b47f4ac5c64bcd8beb4a2a0
+    size: 40081102
+    tracks: 18
+    confidence: 1
+  - audio-id: 1641108531
+    hash: b0385e1d0d3955659271316ecf7f98a075b6bb32
+    size: 0
+    tracks: 0
+    confidence: 0
   - audio-id: 1625126376
     hash: 938a1698332eed922168645a3fa95e86c732584b
     size: 38161563
     tracks: 16
-    confidence: 2
+    confidence: 1

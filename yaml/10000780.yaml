@@ -2,6 +2,7 @@ article: '10000780'
 lock-data: false
 data:
 - series: Pete the Cat
+  series-id: null
   episode: null
   release: 1645534014
   language: en-us

@@ -2,6 +2,7 @@ article: 01-0043
 lock-data: false
 data:
 - series: Die drei ??? Kids
+  series-id: die-drei-kids
   episode: Invasion der Fliegen
   release: 1498521600
   language: de-de

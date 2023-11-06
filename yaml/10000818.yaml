@@ -2,6 +2,7 @@ article: '10000818'
 lock-data: false
 data:
 - series: Gute Nacht, Gorilla
+  series-id: gute-nacht-gorilla
   episode: Gute Nacht, Gorilla und weitere Einschlafhörspiele
   release: 1675814400
   language: de-de

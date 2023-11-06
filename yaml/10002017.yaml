@@ -2,6 +2,7 @@ article: '10002017'
 lock-data: false
 data:
 - series: Steiff Soft Cuddly Friends
+  series-id: steiff-soft-cuddly-friends
   episode: Dinkie Esel
   release: 1648771200
   language: de-de

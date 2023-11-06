@@ -2,6 +2,7 @@ article: '10000617'
 lock-data: false
 data:
 - series: Miraculous
+  series-id: miraculous
   episode: Miraculous - Aller Anfang ist schwer
   release: 1657670400
   language: de-de

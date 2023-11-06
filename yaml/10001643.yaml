@@ -2,6 +2,7 @@ article: '10001643'
 lock-data: false
 data:
 - series: Favourite Children's Songs
+  series-id: favourite-children-s-songs
   episode: Counting Songs (relaunch)
   release: 1684713600
   language: en-gb

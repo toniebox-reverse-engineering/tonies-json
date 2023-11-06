@@ -2,6 +2,7 @@ article: '11000177'
 lock-data: false
 data:
 - series: Cocomelon
+  series-id: cocomelon
   episode: Outdoor Adventures with JJ
   release: 0
   language: en-gb

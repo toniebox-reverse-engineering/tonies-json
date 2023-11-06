@@ -2,6 +2,7 @@ article: '10000499'
 lock-data: false
 data:
 - series: Sesamstraße
+  series-id: sesamstrasse
   episode: Krümelmonsters Mitmampfspaß
   release: 1644364800
   language: de-de

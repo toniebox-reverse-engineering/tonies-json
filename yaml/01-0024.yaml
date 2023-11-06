@@ -2,6 +2,7 @@ article: 01-0024
 lock-data: false
 data:
 - series: Bobo Siebenschläfer
+  series-id: bobo-siebenschlaefer
   episode: Bobo feiert Kindergeburtstag
   release: 1481155200
   language: de-de

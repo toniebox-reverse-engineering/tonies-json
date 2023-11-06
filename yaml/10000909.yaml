@@ -2,6 +2,7 @@ article: '10000909'
 lock-data: false
 data:
 - series: Der kleine Elefant
+  series-id: der-kleine-elefant
   episode: Der kleine Elefant, der so gerne einschlafen möchte
   release: 1694563200
   language: de-de

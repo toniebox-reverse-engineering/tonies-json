@@ -2,6 +2,7 @@ article: 01-0082
 lock-data: false
 data:
 - series: Der kleine Prinz
+  series-id: der-kleine-prinz
   episode: Der Kleine Prinz
   release: 1508198400
   language: de-de

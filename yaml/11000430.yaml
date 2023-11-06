@@ -2,6 +2,7 @@ article: '11000430'
 lock-data: false
 data:
 - series: Dino Ranch
+  series-id: dino-ranch
   episode: Mächtig Ärger für Jon & 3 weitere Abenteuer
   release: 1701216000
   language: de-de

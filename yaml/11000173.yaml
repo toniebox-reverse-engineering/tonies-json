@@ -2,6 +2,7 @@ article: '11000173'
 lock-data: false
 data:
 - series: Adventskalender
+  series-id: adventskalender
   episode: Wünsch dir was, kleines Rentier - Adventskalender-Weihnachtshörspiel
   release: 1693353600
   language: de-de

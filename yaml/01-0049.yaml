@@ -2,6 +2,7 @@ article: 01-0049
 lock-data: false
 data:
 - series: Ella
+  series-id: ella
   episode: Ella in der Schule
   release: 1499731200
   language: de-de

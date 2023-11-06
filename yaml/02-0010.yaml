@@ -2,6 +2,7 @@ article: 02-0010
 lock-data: false
 data:
 - series: ''
+  series-id: null
   episode: Kreativ-Tonie Gitarrist
   release: 0
   language: de-de

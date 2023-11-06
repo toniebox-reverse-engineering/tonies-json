@@ -2,6 +2,7 @@ article: '10000812'
 lock-data: false
 data:
 - series: Julia Donaldson
+  series-id: julia-donaldson
   episode: The Snail and the Whale & The Smartest Giant in Town
   release: 1664150400
   language: en-gb

@@ -2,6 +2,7 @@ article: '11000304'
 lock-data: false
 data:
 - series: Le Journal De Gurty
+  series-id: le-journal-de-gurty
   episode: Vacances En Provence
   release: 1698278400
   language: fr-fr

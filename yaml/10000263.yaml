@@ -2,6 +2,7 @@ article: '10000263'
 lock-data: false
 data:
 - series: Lieblings-Kinderlieder
+  series-id: lieblings-kinderlieder
   episode: Europäische Kinderlieder
   release: 1599696000
   language: de-de

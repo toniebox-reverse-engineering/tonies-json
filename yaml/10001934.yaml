@@ -2,6 +2,7 @@ article: '10001934'
 lock-data: false
 data:
 - series: Little Princess
+  series-id: little-princess
   episode: Little Princess Collection
   release: 1684713600
   language: en-gb

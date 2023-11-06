@@ -2,6 +2,7 @@ article: '10000273'
 lock-data: false
 data:
 - series: Peter Rabbit
+  series-id: peter-rabbit
   episode: The Peter Rabbit Collection
   release: 1613001600
   language: en-gb

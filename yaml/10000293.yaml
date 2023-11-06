@@ -2,6 +2,7 @@ article: '10000293'
 lock-data: false
 data:
 - series: Elmer
+  series-id: elmer
   episode: Elmer and Friends Story Collection
   release: 1605744000
   language: en-gb

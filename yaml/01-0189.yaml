@@ -2,6 +2,7 @@ article: 01-0189
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: Bambi
   release: 1565827200
   language: de-de

@@ -2,6 +2,7 @@ article: '10000382'
 lock-data: false
 data:
 - series: In the Night Garden
+  series-id: in-the-night-garden
   episode: Igglepiggle
   release: 1615420800
   language: en-gb

@@ -2,6 +2,7 @@ article: 01-0150
 lock-data: false
 data:
 - series: Pettersson und Findus
+  series-id: pettersson-und-findus
   episode: Findus und der Hahn im Korb
   release: 1553126400
   language: de-de

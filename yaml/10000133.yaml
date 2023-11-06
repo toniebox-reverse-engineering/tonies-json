@@ -2,6 +2,7 @@ article: '10000133'
 lock-data: false
 data:
 - series: Fünf Freunde
+  series-id: null
   episode: Fünf Freunde und der Großalarm in Kirrin
   release: 1583366400
   language: de-de

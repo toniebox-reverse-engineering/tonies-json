@@ -2,6 +2,7 @@ article: '10002096'
 lock-data: false
 data:
 - series: Yoga Geschichten
+  series-id: yoga-geschichten
   episode: Mit leichten Übungen zum Entspannen
   release: 1691539200
   language: de-de

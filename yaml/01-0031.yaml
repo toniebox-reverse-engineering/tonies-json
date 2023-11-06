@@ -2,6 +2,7 @@ article: 01-0031
 lock-data: false
 data:
 - series: Wickie
+  series-id: wickie
   episode: Wasser auf die Mühlen
   release: 1490313600
   language: de-de

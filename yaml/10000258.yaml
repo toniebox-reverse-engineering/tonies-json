@@ -2,6 +2,7 @@ article: '10000258'
 lock-data: false
 data:
 - series: Lieblings-Meisterstücke
+  series-id: lieblings-meisterstuecke
   episode: Hänsel und Gretel
   release: 1593648000
   language: de-de

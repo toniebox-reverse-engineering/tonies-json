@@ -2,6 +2,7 @@ article: 01-0058
 lock-data: false
 data:
 - series: Prinzessin Lillifee
+  series-id: prinzessin-lillifee
   episode: Prinzessin Lillifee
   release: 1506384000
   language: de-de

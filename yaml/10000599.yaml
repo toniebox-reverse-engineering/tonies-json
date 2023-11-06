@@ -2,6 +2,7 @@ article: '10000599'
 lock-data: false
 data:
 - series: Oi Frog
+  series-id: oi-frog
   episode: Oi Frog and Friends
   release: 1623283200
   language: en-gb

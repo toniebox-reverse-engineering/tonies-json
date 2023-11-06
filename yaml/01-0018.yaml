@@ -2,6 +2,7 @@ article: 01-0018
 lock-data: false
 data:
 - series: Kleiner Eisbär
+  series-id: null
   episode: Lars, lass mich nicht allein! / Lars und der Angsthase
   release: 1481155200
   language: de-de

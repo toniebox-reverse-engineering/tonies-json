@@ -2,6 +2,7 @@ article: '10000274'
 lock-data: false
 data:
 - series: Fun with Spot
+  series-id: fun-with-spot
   episode: Spot's Fun with Friends
   release: 1605744000
   language: en-gb

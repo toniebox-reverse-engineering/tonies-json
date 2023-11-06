@@ -2,6 +2,7 @@ article: '10000990'
 lock-data: false
 data:
 - series: Lieblings-Kinderlieder
+  series-id: lieblings-kinderlieder
   episode: Jahreszeitenlieder
   release: 1646784000
   language: de-de

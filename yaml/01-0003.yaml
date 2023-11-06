@@ -2,6 +2,7 @@ article: 01-0003
 lock-data: false
 data:
 - series: Die Olchis
+  series-id: die-olchis
   episode: Die Olchis und der schwarze Pirat
   release: 1474934400
   language: de-de

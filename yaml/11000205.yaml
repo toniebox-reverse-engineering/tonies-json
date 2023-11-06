@@ -2,6 +2,7 @@ article: '11000205'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: Encanto
   release: 1685664000
   language: en-gb

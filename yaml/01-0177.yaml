@@ -2,6 +2,7 @@ article: 01-0177
 lock-data: false
 data:
 - series: Lieblings-Klassiker
+  series-id: null
   episode: Peter Pan und 4 weitere Klassiker
   release: 1543449600
   language: de-de

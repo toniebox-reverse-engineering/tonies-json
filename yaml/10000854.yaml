@@ -2,6 +2,7 @@ article: '10000854'
 lock-data: false
 data:
 - series: Mes Comptines Préférées
+  series-id: mes-comptines-preferees
   episode: Pour S'Endormir
   release: 0
   language: fr-fr

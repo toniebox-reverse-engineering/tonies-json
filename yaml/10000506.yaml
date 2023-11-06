@@ -2,6 +2,7 @@ article: '10000506'
 lock-data: false
 data:
 - series: Red Riding Hood & Other Fairy Tales
+  series-id: null
   episode: null
   release: 1632224734
   language: en-us

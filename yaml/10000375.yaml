@@ -2,6 +2,7 @@ article: '10000375'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: Brave
   release: 1675036800
   language: en-gb

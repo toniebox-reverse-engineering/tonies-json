@@ -2,6 +2,7 @@ article: '10000698'
 lock-data: false
 data:
 - series: Das kleine Gespenst
+  series-id: das-kleine-gespenst
   episode: Das kleine Gespenst (Neuauflage 2022)
   release: 1668038400
   language: de-de

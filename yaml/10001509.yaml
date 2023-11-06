@@ -2,6 +2,7 @@ article: '10001509'
 lock-data: false
 data:
 - series: Simon
+  series-id: simon
   episode: Superlapin
   release: 1676505600
   language: fr-fr

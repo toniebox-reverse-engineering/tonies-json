@@ -2,6 +2,7 @@ article: 01-0188
 lock-data: false
 data:
 - series: Safiras
+  series-id: safiras
   episode: Nanami und das traumhafte Tuch/Ninazu und das grüne Zauberbonbon
   release: 1570665600
   language: de-de

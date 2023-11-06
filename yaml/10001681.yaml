@@ -2,6 +2,7 @@ article: '10001681'
 lock-data: false
 data:
 - series: Mama Muh
+  series-id: mama-muh
   episode: Mama Muh und die Krähe
   release: 1689120000
   language: de-de

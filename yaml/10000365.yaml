@@ -2,6 +2,7 @@ article: '10000365'
 lock-data: false
 data:
 - series: Shrek
+  series-id: shrek
   episode: Der Tollkühne Held
   release: 1620604800
   language: de-de

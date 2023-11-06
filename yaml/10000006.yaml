@@ -2,6 +2,7 @@ article: '10000006'
 lock-data: false
 data:
 - series: Zog
+  series-id: zog
   episode: Zog
   release: 0
   language: en-gb

@@ -2,6 +2,7 @@ article: '10000266'
 lock-data: false
 data:
 - series: Wieso? Weshalb? Warum? junior
+  series-id: wieso-weshalb-warum-junior-2
   episode: Der Wald
   release: 1620604800
   language: de-de

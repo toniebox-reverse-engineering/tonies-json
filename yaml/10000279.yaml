@@ -2,6 +2,7 @@ article: '10000279'
 lock-data: false
 data:
 - series: Janosch
+  series-id: janosch
   episode: Als Tiger und Bär beinahe das Beste verpassten
   release: 1620604800
   language: de-de

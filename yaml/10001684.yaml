@@ -2,6 +2,7 @@ article: '10001684'
 lock-data: false
 data:
 - series: Zoés Zauberschrank
+  series-id: zoes-zauberschrank
   episode: Eule / Regenbogenrätsel / Schatz Ahoi / Farbe Rosa
   release: 1686009600
   language: de-de

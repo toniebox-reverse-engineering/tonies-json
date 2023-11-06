@@ -2,6 +2,7 @@ article: '10000732'
 lock-data: false
 data:
 - series: Pippi Langstrumpf
+  series-id: pippi-langstrumpf
   episode: Pippi Langstrumpf
   release: 1634083200
   language: de-de

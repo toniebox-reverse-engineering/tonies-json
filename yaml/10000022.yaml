@@ -2,6 +2,7 @@ article: '10000022'
 lock-data: false
 data:
 - series: Hully Boo Spook'n Spell
+  series-id: null
   episode: Treasure hunt in the Museum / The Magic Championships
   release: 1580947200
   language: en-gb

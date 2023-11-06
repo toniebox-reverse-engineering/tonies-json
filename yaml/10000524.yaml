@@ -2,6 +2,7 @@ article: '10000524'
 lock-data: false
 data:
 - series: Feuerwehrmann Sam
+  series-id: feuerwehrmann-sam
   episode: Eine Insel voller Abenteuer
   release: 1615420800
   language: de-de

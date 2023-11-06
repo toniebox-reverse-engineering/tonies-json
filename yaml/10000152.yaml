@@ -2,6 +2,7 @@ article: '10000152'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: Frozen
   release: 1605744000
   language: en-gb

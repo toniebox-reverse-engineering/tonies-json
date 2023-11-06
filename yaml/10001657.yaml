@@ -2,6 +2,7 @@ article: '10001657'
 lock-data: false
 data:
 - series: Les Copains Du Dodo
+  series-id: les-copains-du-dodo
   episode: Doudou Lapinou
   release: 1675900800
   language: fr-fr

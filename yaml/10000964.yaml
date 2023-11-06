@@ -2,6 +2,7 @@ article: '10000964'
 lock-data: false
 data:
 - series: ''
+  series-id: null
   episode: Kreativ-Tonie Blau (Hellbraun)
   release: 0
   language: de-de

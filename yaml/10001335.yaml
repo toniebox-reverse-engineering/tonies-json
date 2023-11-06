@@ -2,6 +2,7 @@ article: '10001335'
 lock-data: false
 data:
 - series: Die Glubschis
+  series-id: die-glubschis
   episode: Miss Crayon auf heißer Spur
   release: 1663113600
   language: de-de

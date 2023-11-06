@@ -2,6 +2,7 @@ article: '10002083'
 lock-data: false
 data:
 - series: Steiff Soft Cuddly Friends
+  series-id: steiff-soft-cuddly-friends
   episode: Ben Teddybär Hörspiel
   release: 1657670400
   language: de-de

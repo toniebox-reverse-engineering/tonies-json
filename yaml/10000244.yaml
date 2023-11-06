@@ -2,6 +2,7 @@ article: '10000244'
 lock-data: false
 data:
 - series: Die Eule mit der Beule
+  series-id: die-eule-mit-der-beule
   episode: Liederalbum
   release: 1591228800
   language: de-de

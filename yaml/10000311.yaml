@@ -2,6 +2,7 @@ article: '10000311'
 lock-data: false
 data:
 - series: Peppa Pig
+  series-id: peppa-pig
   episode: On the Road with Peppa Pig
   release: 1603324800
   language: en-gb

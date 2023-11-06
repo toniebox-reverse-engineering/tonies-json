@@ -2,6 +2,7 @@ article: 05-0005
 lock-data: false
 data:
 - series: Die Playmos
+  series-id: die-playmos
   episode: Großbrand in der Feuerwache
   release: 1564617600
   language: de-de

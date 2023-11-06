@@ -2,6 +2,7 @@ article: '10002028'
 lock-data: false
 data:
 - series: Steiff Soft Cuddly Friends
+  series-id: steiff-soft-cuddly-friends
   episode: Unica Einhorn
   release: 1663113600
   language: de-de

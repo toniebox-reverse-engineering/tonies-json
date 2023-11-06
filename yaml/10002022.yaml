@@ -2,6 +2,7 @@ article: '10002022'
 lock-data: false
 data:
 - series: Conni
+  series-id: conni
   episode: Conni backt Pizza / Conni lernt Rad fahren
   release: 0
   language: de-de

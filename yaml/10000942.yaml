@@ -2,6 +2,7 @@ article: '10000942'
 lock-data: false
 data:
 - series: DC
+  series-id: dc
   episode: Batman
   release: 1689811200
   language: en-gb

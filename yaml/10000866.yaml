@@ -2,6 +2,7 @@ article: '10000866'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: Le Roi Lion
   release: 0
   language: fr-fr

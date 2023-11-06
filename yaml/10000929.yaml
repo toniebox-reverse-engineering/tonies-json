@@ -2,6 +2,7 @@ article: '10000929'
 lock-data: false
 data:
 - series: My Little Pony
+  series-id: my-little-pony
   episode: My Little Pony - Das Original-Hörspiel zum Film
   release: 1670371200
   language: de-de

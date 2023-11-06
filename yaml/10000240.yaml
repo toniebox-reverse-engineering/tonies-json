@@ -2,6 +2,7 @@ article: '10000240'
 lock-data: false
 data:
 - series: Rolf Zuckowski
+  series-id: rolf-zuckowski
   episode: Rolfs neue Vogelhochzeit
   release: 1588809600
   language: de-de

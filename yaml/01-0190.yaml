@@ -2,6 +2,7 @@ article: 01-0190
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: Der König der Löwen
   release: 1565827200
   language: de-de

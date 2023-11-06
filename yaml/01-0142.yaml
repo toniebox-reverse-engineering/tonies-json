@@ -2,6 +2,7 @@ article: 01-0142
 lock-data: false
 data:
 - series: Der kleine Wassermann
+  series-id: null
   episode: Der kleine Wassermann
   release: 1528329600
   language: de-de

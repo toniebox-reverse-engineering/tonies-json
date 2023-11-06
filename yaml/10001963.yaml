@@ -2,6 +2,7 @@ article: '10001963'
 lock-data: false
 data:
 - series: Roald Dahl
+  series-id: roald-dahl
   episode: The Enormous Crocodile
   release: 1690156800
   language: en-gb

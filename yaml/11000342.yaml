@@ -2,6 +2,7 @@ article: '11000342'
 lock-data: false
 data:
 - series: La Pat' Patrouille
+  series-id: la-pat-patrouille
   episode: Rocky
   release: 1692748800
   language: fr-fr

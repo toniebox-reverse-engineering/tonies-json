@@ -2,6 +2,7 @@ article: '10002269'
 lock-data: false
 data:
 - series: Les Copains Du Dodo
+  series-id: les-copains-du-dodo
   episode: Tonie-Veilleuse - Doudou Mouton
   release: 1693440000
   language: fr-fr

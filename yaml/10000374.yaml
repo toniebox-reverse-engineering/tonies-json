@@ -2,6 +2,7 @@ article: '10000374'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: Merida - Legende der Highlands
   release: 1691539200
   language: de-de

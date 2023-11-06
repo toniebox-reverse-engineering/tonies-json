@@ -2,6 +2,7 @@ article: '10000910'
 lock-data: false
 data:
 - series: Leo Lausemaus
+  series-id: leo-lausemaus
   episode: Das Original-Hörspiel zu den Büchern 3
   release: 1668038400
   language: de-de

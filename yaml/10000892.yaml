@@ -2,6 +2,7 @@ article: '10000892'
 lock-data: false
 data:
 - series: Hasenkind
+  series-id: hasenkind
   episode: Nur noch kurz die Ohren kraulen? Hasenkinds Mitmach-Geschichten
   release: 1646784000
   language: de-de

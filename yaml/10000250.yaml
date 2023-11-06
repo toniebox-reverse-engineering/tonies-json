@@ -2,6 +2,7 @@ article: '10000250'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: Cinderella
   release: 1605744000
   language: en-gb

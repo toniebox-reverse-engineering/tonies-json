@@ -2,6 +2,7 @@ article: 01-0118
 lock-data: false
 data:
 - series: Mascha und der Bär
+  series-id: mascha-und-der-baer
   episode: Ein neuer Freund für Mascha
   release: 1631145600
   language: de-de

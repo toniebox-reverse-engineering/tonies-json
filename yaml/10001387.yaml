@@ -2,6 +2,7 @@ article: '10001387'
 lock-data: false
 data:
 - series: Horrible Histories
+  series-id: horrible-histories
   episode: Terrible Tudors
   release: 1677024000
   language: en-gb

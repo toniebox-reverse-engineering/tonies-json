@@ -2,6 +2,7 @@ article: '10000020'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: The Lion King
   release: 0
   language: en-gb

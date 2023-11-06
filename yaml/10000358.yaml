@@ -2,6 +2,7 @@ article: '10000358'
 lock-data: false
 data:
 - series: Bob the Builder
+  series-id: bob-the-builder
   episode: Bob the Builder 1
   release: 1618963200
   language: en-gb

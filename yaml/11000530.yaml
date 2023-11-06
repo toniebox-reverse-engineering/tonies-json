@@ -2,6 +2,7 @@ article: '11000530'
 lock-data: false
 data:
 - series: PAW Patrol
+  series-id: paw-patrol
   episode: Liberty findet einen neuen Freund
   release: 1696982400
   language: de-de

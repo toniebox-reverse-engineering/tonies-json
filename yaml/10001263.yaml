@@ -2,6 +2,7 @@ article: '10001263'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: La Belle Et La Bête
   release: 1657756800
   language: fr-fr

@@ -2,6 +2,7 @@ article: 01-0040
 lock-data: false
 data:
 - series: Unter meinem Bett
+  series-id: null
   episode: Unter meinem Bett 2
   release: 1490313600
   language: de-de
@@ -17,6 +18,6 @@ data:
   ids:
   - audio-id: 1489080791
     hash: 5915eecec17f04b47122e8c454c695e4a8f9f425
-    size: 0
-    tracks: 0
-    confidence: 0
+    size: 34056783
+    tracks: 14
+    confidence: 1

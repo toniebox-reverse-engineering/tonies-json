@@ -2,6 +2,7 @@ article: '10001037'
 lock-data: false
 data:
 - series: Favourite Children's Songs
+  series-id: favourite-children-s-songs
   episode: Playtime & Action (relaunch)
   release: 0
   language: en-gb

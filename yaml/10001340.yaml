@@ -2,6 +2,7 @@ article: '10001340'
 lock-data: false
 data:
 - series: Sleepy Friends
+  series-id: sleepy-friends
   episode: Bedtime Stories with Sleepy Bear
   release: 1676678400
   language: en-gb

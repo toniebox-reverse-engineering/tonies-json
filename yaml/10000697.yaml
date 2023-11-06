@@ -2,6 +2,7 @@ article: '10000697'
 lock-data: false
 data:
 - series: Die kleine Hexe
+  series-id: die-kleine-hexe
   episode: Die kleine Hexe
   release: 0
   language: de-de

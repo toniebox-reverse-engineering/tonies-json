@@ -2,6 +2,7 @@ article: '10001313'
 lock-data: false
 data:
 - series: Marvel
+  series-id: marvel
   episode: 'Spidey & His Amazing Friends: Spidey'
   release: 1695168000
   language: en-gb

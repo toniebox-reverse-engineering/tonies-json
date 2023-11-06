@@ -2,6 +2,7 @@ article: 01-0165
 lock-data: false
 data:
 - series: Tabaluga
+  series-id: tabaluga
   episode: Das große Ereignis/Freunde fürs Leben
   release: 1541635200
   language: de-de

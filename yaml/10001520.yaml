@@ -2,6 +2,7 @@ article: '10001520'
 lock-data: false
 data:
 - series: Favourite Children's Songs
+  series-id: favourite-children-s-songs
   episode: Travelling Songs (relaunch)
   release: 1677196800
   language: en-gb
@@ -30,6 +31,7 @@ data:
   - Home on the Range
   ids: []
 - series: Favourite Children’s Songs
+  series-id: null
   episode: Travelling Songs (relaunch)
   release: 1677196800
   language: en-gb

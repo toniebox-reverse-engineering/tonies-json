@@ -2,6 +2,7 @@ article: 01-0200
 lock-data: false
 data:
 - series: Feuerwehrmann Sam
+  series-id: feuerwehrmann-sam
   episode: In Pontypandy ist was los
   release: 1549497600
   language: de-de

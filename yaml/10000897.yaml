@@ -2,6 +2,7 @@ article: '10000897'
 lock-data: false
 data:
 - series: Michel aus Lönneberga
+  series-id: michel-aus-loenneberga
   episode: Der Tag, an dem Michel besonders nett sein wollte
   release: 0
   language: de-de

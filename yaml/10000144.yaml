@@ -2,6 +2,7 @@ article: '10000144'
 lock-data: false
 data:
 - series: ''
+  series-id: null
   episode: Kreativ-Tonie Yeti
   release: 0
   language: de-de

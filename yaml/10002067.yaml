@@ -2,6 +2,7 @@ article: '10002067'
 lock-data: false
 data:
 - series: Le Monde De Karma
+  series-id: le-monde-de-karma
   episode: Karma
   release: 1686787200
   language: fr-fr

@@ -2,6 +2,7 @@ article: '10000827'
 lock-data: false
 data:
 - series: Nap Time
+  series-id: nap-time
   episode: Nature Sounds
   release: 1615420800
   language: en-gb

@@ -2,6 +2,7 @@ article: '10000830'
 lock-data: false
 data:
 - series: Lieblings-Kinderlieder
+  series-id: lieblings-kinderlieder
   episode: Schlaflieder
   release: 1626307200
   language: de-de

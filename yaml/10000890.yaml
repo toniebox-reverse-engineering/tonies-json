@@ -2,6 +2,7 @@ article: '10000890'
 lock-data: false
 data:
 - series: Das NEINhorn
+  series-id: das-neinhorn
   episode: Das NEINhorn & Das NEINhorn und die SchLANGEWEILE
   release: 0
   language: de-de

@@ -2,6 +2,7 @@ article: '10000330'
 lock-data: false
 data:
 - series: ''
+  series-id: null
   episode: Kreativ-Tonie Borussia Dortmund
   release: 0
   language: de-de

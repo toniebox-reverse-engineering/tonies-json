@@ -2,6 +2,7 @@ article: '10000134'
 lock-data: false
 data:
 - series: Fünf Freunde
+  series-id: null
   episode: Fünf Freunde und die doppelte Erfindung
   release: 1583366400
   language: de-de

@@ -2,6 +2,7 @@ article: '10000606'
 lock-data: false
 data:
 - series: Peter Wohlleben
+  series-id: peter-wohlleben
   episode: Hörst du wie die Bäume sprechen?
   release: 1631145600
   language: de-de

@@ -2,6 +2,7 @@ article: '10000386'
 lock-data: false
 data:
 - series: Mia and me
+  series-id: mia-and-me
   episode: Centopia’s hope / Talking to unicorns
   release: 0
   language: en-gb

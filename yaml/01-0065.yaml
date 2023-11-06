@@ -2,6 +2,7 @@ article: 01-0065
 lock-data: false
 data:
 - series: Die kleine Hexe
+  series-id: null
   episode: Die kleine Hexe
   release: 1508198400
   language: de-de

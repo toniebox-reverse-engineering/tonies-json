@@ -2,6 +2,7 @@ article: '10000486'
 lock-data: false
 data:
 - series: Die Biene Maja
+  series-id: die-biene-maja
   episode: Der Bienentanz
   release: 1618444800
   language: de-de

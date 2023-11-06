@@ -2,6 +2,7 @@ article: '10000025'
 lock-data: false
 data:
 - series: TKKG Junior
+  series-id: null
   episode: Beware of the Beast
   release: 0
   language: en-gb

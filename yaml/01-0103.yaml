@@ -2,6 +2,7 @@ article: 01-0103
 lock-data: false
 data:
 - series: Die drei !!!
+  series-id: die-drei-ausrufezeichen
   episode: Das rote Phantom
   release: 1593648000
   language: de-de

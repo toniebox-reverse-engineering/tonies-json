@@ -2,6 +2,7 @@ article: '10001798'
 lock-data: false
 data:
 - series: Steiff Soft Cuddly Friends mit Hörspiel
+  series-id: steiff-soft-cuddly-friends-mit-hoerspiel
   episode: Jimmy Bear
   release: 1634688000
   language: en-gb

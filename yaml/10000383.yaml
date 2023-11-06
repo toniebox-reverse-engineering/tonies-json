@@ -2,6 +2,7 @@ article: '10000383'
 lock-data: false
 data:
 - series: Die kleine Schnecke Monika Häuschen
+  series-id: die-kleine-schnecke-monika-haeuschen
   episode: Warum stolpern Tausendfüßler nicht?
   release: 1615420800
   language: de-de

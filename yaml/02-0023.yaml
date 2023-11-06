@@ -2,6 +2,7 @@ article: 02-0023
 lock-data: false
 data:
 - series: ''
+  series-id: null
   episode: Kreativ-Tonie Rot (Beige)
   release: 0
   language: de-de

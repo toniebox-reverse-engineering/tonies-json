@@ -2,6 +2,7 @@ article: 01-0012
 lock-data: false
 data:
 - series: Bibi Blocksberg
+  series-id: bibi-blocksberg
   episode: Hexen gibt es doch
   release: 1474934400
   language: de-de

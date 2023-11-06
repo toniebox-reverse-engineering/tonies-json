@@ -2,6 +2,7 @@ article: '10000298'
 lock-data: false
 data:
 - series: Drachenzähmen leicht gemacht
+  series-id: drachenzaehmen-leicht-gemacht
   episode: Drachenzähmen leicht gemacht 1
   release: 1605744000
   language: de-de

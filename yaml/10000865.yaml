@@ -2,6 +2,7 @@ article: '10000865'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: Le Livre De La Jungle
   release: 0
   language: fr-fr

@@ -2,6 +2,7 @@ article: '10001651'
 lock-data: false
 data:
 - series: Paw Patrol
+  series-id: paw-patrol
   episode: Rubble
   release: 1674777600
   language: en-gb

@@ -2,6 +2,7 @@ article: '10001645'
 lock-data: false
 data:
 - series: Planet Omar
+  series-id: planet-omar
   episode: Accidental Trouble Magnet
   release: 1679270400
   language: en-gb

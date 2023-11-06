@@ -2,6 +2,7 @@ article: '10001495'
 lock-data: false
 data:
 - series: Babar
+  series-id: babar
   episode: Les Chasses Au Trésor De Babar
   release: 1669852800
   language: fr-fr

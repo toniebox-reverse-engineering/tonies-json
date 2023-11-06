@@ -2,6 +2,7 @@ article: '10000275'
 lock-data: false
 data:
 - series: Bakabu
+  series-id: bakabu
   episode: Beste Freunde
   release: 1615420800
   language: de-de

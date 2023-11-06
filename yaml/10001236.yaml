@@ -2,6 +2,7 @@ article: '10001236'
 lock-data: false
 data:
 - series: Rachel Bright Series
+  series-id: rachel-bright-series
   episode: The Lion Inside
   release: 1681948800
   language: en-gb

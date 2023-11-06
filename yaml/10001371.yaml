@@ -2,6 +2,7 @@ article: '10001371'
 lock-data: false
 data:
 - series: Cultural Tales
+  series-id: cultural-tales
   episode: Black British Tales
   release: 1695600000
   language: en-gb

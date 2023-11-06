@@ -2,6 +2,7 @@ article: 01-0039
 lock-data: false
 data:
 - series: WAS IST WAS
+  series-id: was-ist-was
   episode: Wunderbare Pferde/Reitervolk Mongolen
   release: 1517443200
   language: de-de

@@ -2,6 +2,7 @@ article: '10000998'
 lock-data: false
 data:
 - series: Die kleine Hexe
+  series-id: die-kleine-hexe
   episode: Die neugierige kleine Hexe / Die kleine Hexe hat Geburtstag
   release: 1663113600
   language: de-de

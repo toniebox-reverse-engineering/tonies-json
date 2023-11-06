@@ -2,6 +2,7 @@ article: 01-0163
 lock-data: false
 data:
 - series: Kleiner Eisbär
+  series-id: null
   episode: Lars, hilf mir fliegen!/ Lars rettet die Rentiere
   release: 1553126400
   language: de-de

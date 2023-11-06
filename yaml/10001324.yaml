@@ -2,6 +2,7 @@ article: '10001324'
 lock-data: false
 data:
 - series: Ben and Holly's Little Kingdom
+  series-id: ben-and-holly-s-little-kingdom
   episode: Holly
   release: 1675382400
   language: en-gb

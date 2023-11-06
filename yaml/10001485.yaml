@@ -2,6 +2,7 @@ article: '10001485'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: Buh machst du! & 3 weitere Geschichten
   release: 1675814400
   language: de-de

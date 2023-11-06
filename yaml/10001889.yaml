@@ -2,6 +2,7 @@ article: '10001889'
 lock-data: false
 data:
 - series: ''
+  series-id: null
   episode: Blank (relaunch)
   release: 0
   language: en-gb

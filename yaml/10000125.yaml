@@ -2,6 +2,7 @@ article: '10000125'
 lock-data: false
 data:
 - series: Tilda Apfelkern
+  series-id: tilda-apfelkern
   episode: Das geheime Kuchenrezept
   release: 1580947200
   language: de-de

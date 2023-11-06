@@ -2,6 +2,7 @@ article: '10001325'
 lock-data: false
 data:
 - series: Monty & Co
+  series-id: monty-co
   episode: Monty & Co
   release: 0
   language: en-gb

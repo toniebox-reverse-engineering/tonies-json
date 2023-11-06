@@ -2,6 +2,7 @@ article: '10000370'
 lock-data: false
 data:
 - series: Der Sternenmann
+  series-id: der-sternenmann
   episode: Lieder und Hörspiel zur guten Nacht
   release: 1615420800
   language: de-de

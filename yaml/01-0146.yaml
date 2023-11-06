@@ -2,6 +2,7 @@ article: 01-0146
 lock-data: false
 data:
 - series: Heidi
+  series-id: heidi
   episode: Ein Wolf im Dörfli
   release: 1517443200
   language: de-de

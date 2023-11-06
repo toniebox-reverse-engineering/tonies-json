@@ -2,6 +2,7 @@ article: '10000528'
 lock-data: false
 data:
 - series: Asterix
+  series-id: asterix
   episode: Asterix, der Gallier
   release: 1638316800
   language: de-de
@@ -21,6 +22,11 @@ data:
   - Asterix der Gallier – Teil 5
   - Asterix der Gallier – Teil 6
   ids:
+  - audio-id: 1673797048
+    hash: 5210c49ed761e08cb3179e13e17377036e5d1093
+    size: 0
+    tracks: 0
+    confidence: 0
   - audio-id: 1636449199
     hash: a2f8c8a0aa9647cb4d17c198aaa28ac776fa3024
     size: 31968423

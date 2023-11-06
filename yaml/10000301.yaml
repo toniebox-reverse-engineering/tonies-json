@@ -2,6 +2,7 @@ article: '10000301'
 lock-data: false
 data:
 - series: Lindbergh
+  series-id: lindbergh
   episode: Die abenteuerliche Geschichte einer fliegenden Maus
   release: 1615420800
   language: de-de

@@ -2,6 +2,7 @@ article: '10000364'
 lock-data: false
 data:
 - series: Bob der Baumeister
+  series-id: bob-der-baumeister
   episode: Bob der Küchenmeister
   release: 1620604800
   language: de-de

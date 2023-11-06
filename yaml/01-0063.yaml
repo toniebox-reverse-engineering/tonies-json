@@ -2,6 +2,7 @@ article: 01-0063
 lock-data: false
 data:
 - series: Benjamin Blümchen
+  series-id: benjamin-bluemchen
   episode: Ein Törööö für alle Fälle
   release: 1511222400
   language: de-de

@@ -2,6 +2,7 @@ article: '10001021'
 lock-data: false
 data:
 - series: Mes Comptines Préférées
+  series-id: mes-comptines-preferees
   episode: Pour Faire la Fête
   release: 1650499200
   language: fr-fr
@@ -37,6 +38,7 @@ data:
   - Dans ma maison il y a...
   ids: []
 - series: Mes Comptines Préférées
+  series-id: null
   episode: Pour Faire la Fête
   release: 1650499200
   language: fr-fr

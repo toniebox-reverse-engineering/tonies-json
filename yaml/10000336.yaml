@@ -2,6 +2,7 @@ article: '10000336'
 lock-data: false
 data:
 - series: Miffy
+  series-id: miffy
   episode: Miffy’s Adventures
   release: 1613001600
   language: en-gb

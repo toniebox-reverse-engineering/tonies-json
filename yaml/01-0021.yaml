@@ -2,6 +2,7 @@ article: 01-0021
 lock-data: false
 data:
 - series: Unter meinem Bett
+  series-id: unter-meinem-bett
   episode: Unter meinem Bett 1
   release: 1481155200
   language: de-de

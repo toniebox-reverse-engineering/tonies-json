@@ -2,6 +2,7 @@ article: '10001959'
 lock-data: false
 data:
 - series: Les Sisters
+  series-id: les-sisters
   episode: Marine
   release: 1689206400
   language: fr-fr

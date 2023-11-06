@@ -2,6 +2,7 @@ article: '11000290'
 lock-data: false
 data:
 - series: Sing Kinderlieder
+  series-id: sing-kinderlieder
   episode: 'Bagger Mats & seine Freunde: Die schönsten Fahrzeuglieder'
   release: 1699401600
   language: de-de

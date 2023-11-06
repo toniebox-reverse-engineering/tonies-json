@@ -2,6 +2,7 @@ article: '10000887'
 lock-data: false
 data:
 - series: Mr Men & Little Miss
+  series-id: mr-men-little-miss
   episode: Mr Tickle
   release: 1650326400
   language: en-gb

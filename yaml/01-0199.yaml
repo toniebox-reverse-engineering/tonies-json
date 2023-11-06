@@ -2,6 +2,7 @@ article: 01-0199
 lock-data: false
 data:
 - series: Gorilla Club
+  series-id: null
   episode: 1-2-3-4!
   release: 1562198400
   language: de-de

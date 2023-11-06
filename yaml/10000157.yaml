@@ -2,6 +2,7 @@ article: '10000157'
 lock-data: false
 data:
 - series: Wickie
+  series-id: wickie
   episode: Tanz mit dem Wolf und sechs weitere Episoden
   release: 1583366400
   language: de-de
@@ -46,6 +47,7 @@ data:
     tracks: 0
     confidence: 0
 - series: Wickie
+  series-id: null
   episode: Das Magische Schwert
   release: 0
   language: de-de

@@ -2,6 +2,7 @@ article: 01-0143
 lock-data: false
 data:
 - series: Heule Eule
+  series-id: null
   episode: Heule Eule und andere Geschichten – Die Hörspiele
   release: 1540425600
   language: de-de

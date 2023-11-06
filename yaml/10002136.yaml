@@ -2,6 +2,7 @@ article: '10002136'
 lock-data: false
 data:
 - series: PAW Patrol
+  series-id: paw-patrol
   episode: Ein neuer Fellfreund
   release: 1694563200
   language: de-de

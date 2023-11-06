@@ -2,6 +2,7 @@ article: '10001018'
 lock-data: false
 data:
 - series: Mes Classiques Préférés
+  series-id: mes-classiques-preferes
   episode: Pinocchio Et 2 Autres Classiques
   release: 0
   language: fr-fr

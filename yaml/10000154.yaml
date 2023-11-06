@@ -2,6 +2,7 @@ article: '10000154'
 lock-data: false
 data:
 - series: Lieblings-Kinderlieder
+  series-id: null
   episode: Reiselieder
   release: 1562198400
   language: de-de

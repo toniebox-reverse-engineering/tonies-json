@@ -2,6 +2,7 @@ article: 01-0035
 lock-data: false
 data:
 - series: Der kleine Rabe Socke
+  series-id: der-kleine-rabe-socke
   episode: Alles vermurkst!
   release: 1487548800
   language: de-de

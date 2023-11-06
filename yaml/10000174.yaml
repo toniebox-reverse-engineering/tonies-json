@@ -2,6 +2,7 @@ article: '10000174'
 lock-data: false
 data:
 - series: Maya the Bee
+  series-id: maya-the-bee
   episode: The birth of Maya
   release: 0
   language: en-gb

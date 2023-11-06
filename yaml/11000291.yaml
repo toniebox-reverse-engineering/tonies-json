@@ -2,6 +2,7 @@ article: '11000291'
 lock-data: false
 data:
 - series: Leos Tag
+  series-id: leos-tag
   episode: Windel, Töpfchen, Klo - das geht so!
   release: 1696982400
   language: de-de

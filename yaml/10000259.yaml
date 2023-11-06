@@ -2,6 +2,7 @@ article: '10000259'
 lock-data: false
 data:
 - series: Lieblings-Meisterstücke
+  series-id: null
   episode: Die Zauberflöte
   release: 1593648000
   language: de-de

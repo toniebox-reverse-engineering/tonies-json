@@ -2,6 +2,7 @@ article: '10001488'
 lock-data: false
 data:
 - series: Nasreddin Hodscha
+  series-id: nasreddin-hodscha
   episode: Seine ersten Abenteuer
   release: 1680134400
   language: de-de

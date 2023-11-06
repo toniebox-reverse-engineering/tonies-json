@@ -2,6 +2,7 @@ article: '10001296'
 lock-data: false
 data:
 - series: Steiff Soft Cuddly Friends
+  series-id: steiff-soft-cuddly-friends
   episode: Lita Lamm
   release: 1623283200
   language: de-de

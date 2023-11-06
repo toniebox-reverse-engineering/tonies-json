@@ -2,6 +2,7 @@ article: '11000424'
 lock-data: false
 data:
 - series: Sleepy Friends
+  series-id: sleepy-friends
   episode: Classical Music with Sleepy Rabbit
   release: 1684540800
   language: en-gb

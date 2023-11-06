@@ -2,6 +2,7 @@ article: '11000279'
 lock-data: false
 data:
 - series: Tabaluga
+  series-id: tabaluga
   episode: Drachen weinen nicht & Mondsüchtig
   release: 1696982400
   language: de-de

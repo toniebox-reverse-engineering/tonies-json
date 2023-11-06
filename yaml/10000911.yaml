@@ -2,6 +2,7 @@ article: '10000911'
 lock-data: false
 data:
 - series: Willy Astor
+  series-id: willy-astor
   episode: Kindischer Ozean
   release: 0
   language: de-de

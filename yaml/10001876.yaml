@@ -2,6 +2,7 @@ article: '10001876'
 lock-data: false
 data:
 - series: Worldwide Tales
+  series-id: worldwide-tales
   episode: West African Tales
   release: 1677196800
   language: en-gb

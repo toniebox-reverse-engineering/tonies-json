@@ -2,6 +2,7 @@ article: '10000321'
 lock-data: false
 data:
 - series: Paw Patrol
+  series-id: paw-patrol
   episode: Chase
   release: 1620604800
   language: en-gb

@@ -2,6 +2,7 @@ article: '10001041'
 lock-data: false
 data:
 - series: Maya L'Abeille
+  series-id: maya-l-abeille
   episode: Maya L'Abeille
   release: 0
   language: fr-fr

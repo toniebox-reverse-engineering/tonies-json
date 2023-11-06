@@ -2,6 +2,7 @@ article: '11000251'
 lock-data: false
 data:
 - series: Lichterkinder
+  series-id: lichterkinder
   episode: Laternen- und Herbstlieder
   release: 1694563200
   language: de-de

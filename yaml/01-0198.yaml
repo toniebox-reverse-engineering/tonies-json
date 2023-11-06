@@ -2,6 +2,7 @@ article: 01-0198
 lock-data: false
 data:
 - series: Der kleine Hui Buh
+  series-id: der-kleine-hui-buh
   episode: Der blubbernde Brotteig/Alarm in der Geheimzentrale
   release: 1588809600
   language: de-de

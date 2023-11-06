@@ -2,6 +2,7 @@ article: '10000140'
 lock-data: false
 data:
 - series: Die Biene Maja
+  series-id: die-biene-maja
   episode: Der Schmetterlingsball
   release: 1583366400
   language: de-de

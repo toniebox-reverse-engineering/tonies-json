@@ -2,6 +2,7 @@ article: 01-0173
 lock-data: false
 data:
 - series: Benjamin Blümchen
+  series-id: benjamin-bluemchen
   episode: Benjamin Blümchen als Ritter
   release: 1557360000
   language: de-de

@@ -2,6 +2,7 @@ article: '10001212'
 lock-data: false
 data:
 - series: Bitte nicht öffnen
+  series-id: bitte-nicht-oeffnen
   episode: Bissig!
   release: 0
   language: de-de

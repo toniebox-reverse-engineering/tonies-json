@@ -2,6 +2,7 @@ article: '10001106'
 lock-data: false
 data:
 - series: Lieblings-Kinderlieder
+  series-id: lieblings-kinderlieder
   episode: Kindergartenlieder
   release: 0
   language: de-de

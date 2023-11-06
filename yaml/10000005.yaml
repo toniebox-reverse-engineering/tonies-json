@@ -2,6 +2,7 @@ article: '10000005'
 lock-data: false
 data:
 - series: Highway Rat
+  series-id: highway-rat
   episode: Highway Rat
   release: 0
   language: en-gb

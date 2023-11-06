@@ -2,6 +2,7 @@ article: 05-0004
 lock-data: false
 data:
 - series: Die Playmos
+  series-id: die-playmos
   episode: Licht aus dem Drachenland
   release: 1567641600
   language: de-de

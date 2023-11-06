@@ -2,6 +2,7 @@ article: 01-0114
 lock-data: false
 data:
 - series: Bibi & Tina
+  series-id: bibi-tina
   episode: Die Waschbären sind los
   release: 1511222400
   language: de-de

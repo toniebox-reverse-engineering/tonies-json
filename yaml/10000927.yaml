@@ -2,6 +2,7 @@ article: '10000927'
 lock-data: false
 data:
 - series: Minimusiker
+  series-id: minimusiker
   episode: Lieder für dich 2
   release: 1644364800
   language: de-de

@@ -2,6 +2,7 @@ article: '11000402'
 lock-data: false
 data:
 - series: Marvel
+  series-id: marvel
   episode: 'Spidey & His Amazing Friends: Ghost-Spider'
   release: 1695168000
   language: en-gb

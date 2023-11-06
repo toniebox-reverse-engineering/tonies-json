@@ -2,6 +2,7 @@ article: '10000147'
 lock-data: false
 data:
 - series: Nola Note
+  series-id: null
   episode: Nola Note auf musikalischer Weltreise 1
   release: 1564617600
   language: de-de

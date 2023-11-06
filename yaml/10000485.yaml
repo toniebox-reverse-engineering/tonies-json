@@ -2,6 +2,7 @@ article: '10000485'
 lock-data: false
 data:
 - series: Dreamworks
+  series-id: dreamworks
   episode: Spirit - Untamed
   release: 1651536000
   language: en-gb

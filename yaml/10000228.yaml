@@ -2,6 +2,7 @@ article: '10000228'
 lock-data: false
 data:
 - series: Despicable Me
+  series-id: despicable-me
   episode: The Junior Novel
   release: 0
   language: en-gb

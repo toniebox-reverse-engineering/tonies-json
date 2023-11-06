@@ -2,6 +2,7 @@ article: '10000710'
 lock-data: false
 data:
 - series: PJ Masks
+  series-id: pj-masks
   episode: Owlette
   release: 1661472000
   language: en-gb

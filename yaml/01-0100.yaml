@@ -2,6 +2,7 @@ article: 01-0100
 lock-data: false
 data:
 - series: Die Schule der magischen Tiere
+  series-id: die-schule-der-magischen-tiere
   episode: Die Schule der magischen Tiere
   release: 1541635200
   language: de-de

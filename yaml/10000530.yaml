@@ -2,6 +2,7 @@ article: '10000530'
 lock-data: false
 data:
 - series: Ostwind
+  series-id: ostwind
   episode: Zusammen sind wir frei
   release: 1626307200
   language: de-de

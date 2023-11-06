@@ -2,6 +2,7 @@ article: '10000792'
 lock-data: false
 data:
 - series: Dr. Seuss
+  series-id: null
   episode: The Cat in the Hat
   release: 1657037920
   language: en-us

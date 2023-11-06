@@ -2,6 +2,7 @@ article: null
 lock-data: false
 data:
 - series: DC
+  series-id: null
   episode: Batman
   release: 1689702752
   language: en-us

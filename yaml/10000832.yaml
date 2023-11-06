@@ -2,6 +2,7 @@ article: '10000832'
 lock-data: false
 data:
 - series: Lieblings-Kinderlieder
+  series-id: lieblings-kinderlieder
   episode: Weihnachtslieder
   release: 1631145600
   language: de-de

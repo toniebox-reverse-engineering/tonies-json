@@ -2,6 +2,7 @@ article: 01-0000
 lock-data: false
 data:
 - series: Geschichten vom Löwen
+  series-id: null
   episode: Die Geschichte vom Löwen, der nicht schreiben konnte
   release: 1474934400
   language: de-de

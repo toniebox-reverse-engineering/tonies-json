@@ -2,6 +2,7 @@ article: '10001290'
 lock-data: false
 data:
 - series: Marlène Jobert Raconte
+  series-id: marlene-jobert-raconte
   episode: Les Sorcières De La Rue Des Tempêtes Et 2 Autres Contes
   release: 1671408000
   language: fr-fr

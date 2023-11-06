@@ -2,6 +2,7 @@ article: '10000331'
 lock-data: false
 data:
 - series: Miffy
+  series-id: miffy
   episode: Miffy
   release: 1615420800
   language: de-de

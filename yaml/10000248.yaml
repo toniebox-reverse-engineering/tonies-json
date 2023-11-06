@@ -2,6 +2,7 @@ article: '10000248'
 lock-data: false
 data:
 - series: Yakari
+  series-id: yakari
   episode: Best of Kleiner Donner
   release: 1593648000
   language: de-de

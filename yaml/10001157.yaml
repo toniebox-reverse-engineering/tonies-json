@@ -2,6 +2,7 @@ article: '10001157'
 lock-data: false
 data:
 - series: Sesamstraße
+  series-id: sesamstrasse
   episode: Elmos Mitmachmusik
   release: 1663113600
   language: de-de

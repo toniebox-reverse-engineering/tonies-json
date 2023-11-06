@@ -2,6 +2,7 @@ article: '10002020'
 lock-data: false
 data:
 - series: Conni
+  series-id: conni
   episode: Conni kommt in den Kindergarten/ Conni geht aufs Töpfchen
   release: 1668038400
   language: de-de

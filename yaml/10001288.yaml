@@ -2,6 +2,7 @@ article: '10001288'
 lock-data: false
 data:
 - series: Didou
+  series-id: didou
   episode: Didou
   release: 1665619200
   language: fr-fr

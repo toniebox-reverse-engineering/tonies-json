@@ -2,6 +2,7 @@ article: '10000492'
 lock-data: false
 data:
 - series: Lichterkinder
+  series-id: lichterkinder
   episode: Die besten Spiel- und Bewegungslieder
   release: 1615420800
   language: de-de

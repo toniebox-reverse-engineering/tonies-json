@@ -2,6 +2,7 @@ article: 01-0156
 lock-data: false
 data:
 - series: Lieblings-Kinderlieder
+  series-id: null
   episode: Tierlieder
   release: 1541548800
   language: de-de

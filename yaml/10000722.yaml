@@ -2,6 +2,7 @@ article: '10000722'
 lock-data: false
 data:
 - series: Mia and me
+  series-id: mia-and-me
   episode: Ankunft in Centopia / Eine neue Hoffnung
   release: 1620604800
   language: de-de

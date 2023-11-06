@@ -2,6 +2,7 @@ article: '11000300'
 lock-data: false
 data:
 - series: Gigantosaurus
+  series-id: gigantosaurus
   episode: Tiny
   release: 1698278400
   language: fr-fr

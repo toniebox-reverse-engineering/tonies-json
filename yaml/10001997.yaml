@@ -2,6 +2,7 @@ article: '10001997'
 lock-data: false
 data:
 - series: Bibi Blocksberg
+  series-id: bibi-blocksberg
   episode: Mami spielt verrückt
   release: 1686009600
   language: de-de

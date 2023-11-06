@@ -2,6 +2,7 @@ article: '10000408'
 lock-data: false
 data:
 - series: Super Wings
+  series-id: super-wings
   episode: A World of Adventure
   release: 1628726400
   language: en-gb

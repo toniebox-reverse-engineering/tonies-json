@@ -2,6 +2,7 @@ article: '10000616'
 lock-data: false
 data:
 - series: Lieblings-Meisterstücke
+  series-id: lieblings-meisterstuecke
   episode: Schwanensee
   release: 1644364800
   language: de-de

@@ -2,6 +2,7 @@ article: 01-0197
 lock-data: false
 data:
 - series: Die Biene Maja
+  series-id: die-biene-maja
   episode: Majas Geburt
   release: 1559779200
   language: de-de

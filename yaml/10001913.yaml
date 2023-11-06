@@ -2,6 +2,7 @@ article: '10001913'
 lock-data: false
 data:
 - series: Les Schtroumpfs
+  series-id: les-schtroumpfs
   episode: Les Schtroumpfs Et Le Livre Qui Dit Tout
   release: 1687392000
   language: fr-fr

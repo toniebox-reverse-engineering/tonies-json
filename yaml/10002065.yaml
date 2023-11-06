@@ -2,6 +2,7 @@ article: '10002065'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: Pocahontas
   release: 1663718400
   language: en-gb

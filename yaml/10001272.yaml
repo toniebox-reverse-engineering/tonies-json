@@ -2,6 +2,7 @@ article: '10001272'
 lock-data: false
 data:
 - series: Astérix
+  series-id: asterix
   episode: Astérix Et La Serpe D'Or
   release: 1667433600
   language: fr-fr

@@ -2,6 +2,7 @@ article: 09-0005
 lock-data: false
 data:
 - series: Kreativ-Tonie
+  series-id: null
   episode: Pink mit Stern (Starterkit)
   release: 1539129600
   language: de-de

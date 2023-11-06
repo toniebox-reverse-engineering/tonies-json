@@ -2,6 +2,7 @@ article: 01-0140
 lock-data: false
 data:
 - series: WAS IST WAS
+  series-id: was-ist-was
   episode: Raumfahrt/Der Mond
   release: 1528329600
   language: de-de

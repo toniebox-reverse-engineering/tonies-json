@@ -2,6 +2,7 @@ article: '10000667'
 lock-data: false
 data:
 - series: Clangers
+  series-id: clangers
   episode: Clangers Radio
   release: 1628726400
   language: en-gb

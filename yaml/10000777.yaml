@@ -2,6 +2,7 @@ article: '10000777'
 lock-data: false
 data:
 - series: Blue's Clues & You
+  series-id: null
   episode: null
   release: 1692894276
   language: en-us

@@ -2,6 +2,7 @@ article: '10001011'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: Bambi
   release: 0
   language: fr-fr

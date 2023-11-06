@@ -2,6 +2,7 @@ article: '10000372'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: 101 Dalmatians
   release: 1644364800
   language: en-gb

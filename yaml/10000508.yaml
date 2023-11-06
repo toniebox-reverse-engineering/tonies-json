@@ -2,6 +2,7 @@ article: '10000508'
 lock-data: false
 data:
 - series: Giraffenaffen
+  series-id: giraffenaffen
   episode: Die Giraffenaffen Lieblingslieder
   release: 1668038400
   language: de-de

@@ -2,6 +2,7 @@ article: '10000676'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: Beauty and the Beast
   release: 1636502400
   language: en-gb

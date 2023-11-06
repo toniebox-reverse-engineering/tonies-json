@@ -2,6 +2,7 @@ article: '10001307'
 lock-data: false
 data:
 - series: National Geographic Kids
+  series-id: national-geographic-kids
   episode: Whale
   release: 1650844800
   language: en-gb

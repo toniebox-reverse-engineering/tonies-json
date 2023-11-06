@@ -2,6 +2,7 @@ article: '11000224'
 lock-data: false
 data:
 - series: Paw Patrol
+  series-id: paw-patrol
   episode: Rocky
   release: 1681948800
   language: en-gb

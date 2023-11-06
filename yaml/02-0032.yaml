@@ -2,6 +2,7 @@ article: 02-0032
 lock-data: false
 data:
 - series: ''
+  series-id: null
   episode: Kreativ-Tonie Weihnachtsmann
   release: 0
   language: de-de

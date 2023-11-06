@@ -2,6 +2,7 @@ article: '10000202'
 lock-data: false
 data:
 - series: Benjamin Blümchen
+  series-id: benjamin-bluemchen
   episode: Die Märchennacht im Zoo
   release: 1580947200
   language: de-de

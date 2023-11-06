@@ -2,6 +2,7 @@ article: '10000361'
 lock-data: false
 data:
 - series: LEA
+  series-id: lea
   episode: LEAs Welt
   release: 1620604800
   language: de-de

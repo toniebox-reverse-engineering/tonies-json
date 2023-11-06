@@ -2,6 +2,7 @@ article: '10000496'
 lock-data: false
 data:
 - series: Trolls
+  series-id: trolls
   episode: Trolls
   release: 1628726400
   language: en-gb

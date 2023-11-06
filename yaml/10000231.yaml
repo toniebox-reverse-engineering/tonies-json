@@ -2,6 +2,7 @@ article: '10000231'
 lock-data: false
 data:
 - series: Petzi
+  series-id: petzi
   episode: Drei Landratten bauen ein Schiff
   release: 1593648000
   language: de-de

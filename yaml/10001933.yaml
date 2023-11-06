@@ -2,6 +2,7 @@ article: '10001933'
 lock-data: false
 data:
 - series: Yakka Dee
+  series-id: yakka-dee
   episode: Yakka Dee
   release: 1692316800
   language: en-gb

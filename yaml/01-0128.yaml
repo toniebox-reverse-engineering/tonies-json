@@ -2,6 +2,7 @@ article: 01-0128
 lock-data: false
 data:
 - series: Lieblings-Kinderlieder
+  series-id: null
   episode: Weihnachtslieder
   release: 1510012800
   language: de-de

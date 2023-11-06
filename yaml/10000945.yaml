@@ -2,6 +2,7 @@ article: '10000945'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: Disney Baby Lullabies
   release: 1648684800
   language: en-gb

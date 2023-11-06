@@ -2,6 +2,7 @@ article: '10000664'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: Minnie - When we grow up
   release: 1634083200
   language: en-gb

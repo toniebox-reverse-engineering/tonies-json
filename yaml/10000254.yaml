@@ -2,6 +2,7 @@ article: '10000254'
 lock-data: false
 data:
 - series: Benjamin Blümchen
+  series-id: null
   episode: Das Original-Hörspiel zum Kinofilm und Songs
   release: 1593648000
   language: de-de

@@ -2,6 +2,7 @@ article: '10000670'
 lock-data: false
 data:
 - series: Bing
+  series-id: bing
   episode: Bing Bunny
   release: 0
   language: en-gb

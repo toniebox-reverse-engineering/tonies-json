@@ -2,6 +2,7 @@ article: 05-0002
 lock-data: false
 data:
 - series: Die Playmos
+  series-id: die-playmos
   episode: Das Turnier auf der Königsritterburg
   release: 1567641600
   language: de-de

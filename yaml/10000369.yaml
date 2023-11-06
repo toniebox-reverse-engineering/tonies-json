@@ -2,6 +2,7 @@ article: '10000369'
 lock-data: false
 data:
 - series: Pixi Wissen
+  series-id: pixi-wissen
   episode: Planeten und Sterne
   release: 0
   language: de-de

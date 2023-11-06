@@ -2,6 +2,7 @@ article: '11000349'
 lock-data: false
 data:
 - series: Calendrier De L'Avent
+  series-id: calendrier-de-l-avent
   episode: Le Petit Renne Qui Rêvait D'Avoir Des Ailes
   release: 1696118400
   language: fr-fr

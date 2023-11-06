@@ -2,6 +2,7 @@ article: '10001406'
 lock-data: false
 data:
 - series: Mouk
+  series-id: mouk
   episode: Découvre Le Monde Avec Mouk
   release: 1669852800
   language: fr-fr

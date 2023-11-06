@@ -2,6 +2,7 @@ article: '10001481'
 lock-data: false
 data:
 - series: Pirata Et Capitano
+  series-id: pirata-et-capitano
   episode: Pirata
   release: 1669852800
   language: fr-fr

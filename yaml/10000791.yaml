@@ -2,6 +2,7 @@ article: '10000791'
 lock-data: false
 data:
 - series: Dr. Seuss
+  series-id: null
   episode: How The Grinch Stole Christmas!
   release: 1667486438
   language: en-us

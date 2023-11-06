@@ -2,6 +2,7 @@ article: 01-0030
 lock-data: false
 data:
 - series: Bibi Blocksberg
+  series-id: bibi-blocksberg
   episode: Die große Hexenparty
   release: 1487548800
   language: de-de

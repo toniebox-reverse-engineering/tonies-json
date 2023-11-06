@@ -2,6 +2,7 @@ article: '10001388'
 lock-data: false
 data:
 - series: Cocomelon
+  series-id: cocomelon
   episode: CoComelon
   release: 1660867200
   language: en-gb

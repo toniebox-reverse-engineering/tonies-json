@@ -2,6 +2,7 @@ article: 01-0145
 lock-data: false
 data:
 - series: Jim Knopf
+  series-id: null
   episode: 'Teil 1: Von Lummerland bis China'
   release: 1553126400
   language: de-de

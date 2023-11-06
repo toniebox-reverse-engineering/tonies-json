@@ -2,6 +2,7 @@ article: '10000357'
 lock-data: false
 data:
 - series: Shrek
+  series-id: shrek
   episode: Shrek
   release: 1634083200
   language: en-gb

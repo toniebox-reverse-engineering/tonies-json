@@ -2,6 +2,7 @@ article: '10001315'
 lock-data: false
 data:
 - series: Giraffes Can't Dance
+  series-id: giraffes-can-t-dance
   episode: Giraffes Can't Dance
   release: 0
   language: en-gb

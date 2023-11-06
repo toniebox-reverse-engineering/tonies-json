@@ -2,6 +2,7 @@ article: '10000284'
 lock-data: false
 data:
 - series: ''
+  series-id: null
   episode: Kreativ-Tonie Detektiv
   release: 0
   language: de-de

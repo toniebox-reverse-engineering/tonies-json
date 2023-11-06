@@ -2,6 +2,7 @@ article: '11000307'
 lock-data: false
 data:
 - series: Les As De La Jungle
+  series-id: les-as-de-la-jungle
   episode: Miguel
   release: 1692748800
   language: fr-fr

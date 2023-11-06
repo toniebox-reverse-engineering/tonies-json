@@ -2,6 +2,7 @@ article: '10001691'
 lock-data: false
 data:
 - series: Caillou
+  series-id: caillou
   episode: Sternschnuppen und weitere Geschichten
   release: 1689120000
   language: de-de

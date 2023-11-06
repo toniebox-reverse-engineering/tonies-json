@@ -2,6 +2,7 @@ article: '11000631'
 lock-data: false
 data:
 - series: Advent calendar
+  series-id: advent-calendar
   episode: The Little Reindeer's Christmas Wish
   release: 1697760000
   language: en-gb

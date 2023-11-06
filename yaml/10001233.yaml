@@ -2,6 +2,7 @@ article: null
 lock-data: false
 data:
 - series: Roald Dahl
+  series-id: roald-dahl
   episode: Charlie and the Chocolate Factory
   release: 1700092800
   language: en-gb

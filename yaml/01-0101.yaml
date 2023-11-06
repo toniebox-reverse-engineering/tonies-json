@@ -2,6 +2,7 @@ article: 01-0101
 lock-data: false
 data:
 - series: Die drei !!!
+  series-id: die-drei-ausrufezeichen
   episode: Das Geheimnis der alten Villa
   release: 1572998400
   language: de-de

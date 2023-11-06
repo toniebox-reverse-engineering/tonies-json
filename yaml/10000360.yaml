@@ -2,6 +2,7 @@ article: '10000360'
 lock-data: false
 data:
 - series: Wir sind nachher wieder da, wir müssen kurz nach Afrika
+  series-id: wir-sind-nachher-wieder-da-wir-muessen-kurz-nach-afrika
   episode: Wir sind nachher wieder da, wir müssen kurz nach Afrika
   release: 1634083200
   language: de-de

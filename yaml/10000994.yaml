@@ -2,6 +2,7 @@ article: '10000994'
 lock-data: false
 data:
 - series: Lotta
+  series-id: lotta
   episode: Na klar, Lotta kann Radfahren / Lotta zieht um
   release: 1678233600
   language: de-de

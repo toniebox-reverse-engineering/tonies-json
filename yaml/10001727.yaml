@@ -2,6 +2,7 @@ article: '10001727'
 lock-data: false
 data:
 - series: Mes Classiques Préférés
+  series-id: mes-classiques-preferes
   episode: Peter Pan Et 2 Autres Classiques
   release: 1646870400
   language: fr-fr

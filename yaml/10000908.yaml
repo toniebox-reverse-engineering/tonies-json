@@ -2,6 +2,7 @@ article: '10000908'
 lock-data: false
 data:
 - series: Die kleine Raupe Nimmersatt
+  series-id: die-kleine-raupe-nimmersatt
   episode: Schlaf gut! Die kleine Raupe Nimmersatt und weitere Geschichten
   release: 1670371200
   language: de-de

@@ -2,6 +2,7 @@ article: 01-0050
 lock-data: false
 data:
 - series: Käpt'n Sharky
+  series-id: kaept-n-sharky
   episode: Käpt’n Sharky und das Geheimnis der Schatzinsel
   release: 1499731200
   language: de-de

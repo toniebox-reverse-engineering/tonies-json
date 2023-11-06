@@ -2,6 +2,7 @@ article: '10001281'
 lock-data: false
 data:
 - series: Petit Ours Brun
+  series-id: petit-ours-brun
   episode: Petit Ours Brun
   release: 1687392000
   language: fr-fr

@@ -2,6 +2,7 @@ article: '10001674'
 lock-data: false
 data:
 - series: Spidey Et Ses Amis Extraordinaires
+  series-id: spidey-et-ses-amis-extraordinaires
   episode: Spidey
   release: 1697673600
   language: fr-fr

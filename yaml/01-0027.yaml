@@ -2,6 +2,7 @@ article: 01-0027
 lock-data: false
 data:
 - series: Ritter Rost
+  series-id: ritter-rost
   episode: Die Zauberinsel
   release: 1487548800
   language: de-de

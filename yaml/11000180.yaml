@@ -2,6 +2,7 @@ article: '11000180'
 lock-data: false
 data:
 - series: Claude
+  series-id: claude
   episode: The Claude Collection
   release: 1692316800
   language: en-gb

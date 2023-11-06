@@ -2,6 +2,7 @@ article: '10001654'
 lock-data: false
 data:
 - series: Percy the Park keeper
+  series-id: percy-the-park-keeper
   episode: Percy
   release: 1687392000
   language: en-gb

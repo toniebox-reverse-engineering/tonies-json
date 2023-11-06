@@ -2,6 +2,7 @@ article: '10000682'
 lock-data: false
 data:
 - series: Barbie
+  series-id: barbie
   episode: Barbie Princess Adventure
   release: 1638403200
   language: en-gb

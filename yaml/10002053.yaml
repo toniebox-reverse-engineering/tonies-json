@@ -2,6 +2,7 @@ article: null
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: Soul
   release: 1700438400
   language: en-gb

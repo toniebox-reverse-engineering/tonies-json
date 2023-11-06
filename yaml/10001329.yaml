@@ -2,6 +2,7 @@ article: '10001329'
 lock-data: false
 data:
 - series: Schlummerbande
+  series-id: schlummerbande
   episode: Gutenachtgeschichten - Schlaf schön, kleiner Schlummerbär
   release: 0
   language: de-de

@@ -2,6 +2,7 @@ article: '11000296'
 lock-data: false
 data:
 - series: Petit Malabar
+  series-id: petit-malabar
   episode: Science+Fiction=Aventure
   release: 1692748800
   language: fr-fr

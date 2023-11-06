@@ -2,6 +2,7 @@ article: '10000687'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: Küss den Frosch
   release: 1646784000
   language: de-de

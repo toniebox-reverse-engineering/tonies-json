@@ -2,6 +2,7 @@ article: '10001262'
 lock-data: false
 data:
 - series: C'Est Toujours Pas Sorcier
+  series-id: c-est-toujours-pas-sorcier
   episode: Les Secrets De L'Espace
   release: 1650499200
   language: fr-fr

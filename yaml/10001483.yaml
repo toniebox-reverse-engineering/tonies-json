@@ -2,6 +2,7 @@ article: '10001483'
 lock-data: false
 data:
 - series: Gloria Glühwürmchen
+  series-id: gloria-gluehwuermchen
   episode: Bezaubernde Gutenachtgeschichten
   release: 1678233600
   language: de-de

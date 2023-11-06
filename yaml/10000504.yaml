@@ -2,6 +2,7 @@ article: '10000504'
 lock-data: false
 data:
 - series: Despicable Me
+  series-id: null
   episode: null
   release: 1605116264
   language: en-us

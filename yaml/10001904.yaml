@@ -2,6 +2,7 @@ article: '10001904'
 lock-data: false
 data:
 - series: Mes Mythes Préférés
+  series-id: mes-mythes-preferes
   episode: La Mythologie Égyptienne
   release: 1684972800
   language: fr-fr

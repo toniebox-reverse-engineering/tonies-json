@@ -2,6 +2,7 @@ article: 01-0098
 lock-data: false
 data:
 - series: Die Eule mit der Beule
+  series-id: die-eule-mit-der-beule
   episode: Die Eule mit der Beule
   release: 1508198400
   language: de-de

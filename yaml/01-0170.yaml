@@ -2,6 +2,7 @@ article: 01-0170
 lock-data: false
 data:
 - series: Unter meinem Bett
+  series-id: null
   episode: Unter meinem Bett 4
   release: 1572998400
   language: de-de

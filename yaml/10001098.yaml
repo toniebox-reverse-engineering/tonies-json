@@ -2,6 +2,7 @@ article: '10001098'
 lock-data: false
 data:
 - series: Octonauts
+  series-id: octonauts
   episode: Kwazii
   release: 1684713600
   language: en-gb

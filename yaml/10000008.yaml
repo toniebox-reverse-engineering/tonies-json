@@ -2,6 +2,7 @@ article: '10000008'
 lock-data: false
 data:
 - series: HOW AND WHY
+  series-id: null
   episode: The Age of Dinosaurs / Prehistoric Animals
   release: 0
   language: en-gb

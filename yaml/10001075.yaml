@@ -2,6 +2,7 @@ article: '10001075'
 lock-data: false
 data:
 - series: Arthur
+  series-id: null
   episode: null
   release: 1650288213
   language: en-us

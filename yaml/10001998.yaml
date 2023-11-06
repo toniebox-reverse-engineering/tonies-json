@@ -2,6 +2,7 @@ article: '10001998'
 lock-data: false
 data:
 - series: Bibi Blocksberg
+  series-id: bibi-blocksberg
   episode: Die Junghexenbande
   release: 1680134400
   language: de-de

@@ -2,6 +2,7 @@ article: '10001658'
 lock-data: false
 data:
 - series: Astérix
+  series-id: asterix
   episode: Astérix Légionnaire
   release: 1680134400
   language: fr-fr

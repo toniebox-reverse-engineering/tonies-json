@@ -2,6 +2,7 @@ article: 01-0081
 lock-data: false
 data:
 - series: Pettersson und Findus
+  series-id: pettersson-und-findus
   episode: Wie Findus zu Pettersson kam
   release: 1511222400
   language: de-de

@@ -2,6 +2,7 @@ article: 01-0125
 lock-data: false
 data:
 - series: Deine Freunde
+  series-id: deine-freunde
   episode: Das Gelbe von Drei
   release: 1559779200
   language: de-de

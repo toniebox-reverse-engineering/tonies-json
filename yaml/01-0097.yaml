@@ -2,6 +2,7 @@ article: 01-0097
 lock-data: false
 data:
 - series: Die Sendung mit dem Elefanten
+  series-id: null
   episode: Schlaf schön!
   release: 1511222400
   language: de-de

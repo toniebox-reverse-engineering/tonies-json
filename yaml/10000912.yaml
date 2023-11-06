@@ -2,6 +2,7 @@ article: '10000912'
 lock-data: false
 data:
 - series: Prinzessin Lillifee
+  series-id: prinzessin-lillifee
   episode: Gute-Nacht-Geschichten - Die verzauberten Seerosen/Die goldene Perle
   release: 0
   language: de-de

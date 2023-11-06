@@ -2,6 +2,7 @@ article: '11000466'
 lock-data: false
 data:
 - series: MARVEL Spidey and His Amazing Friends
+  series-id: marvel-spidey-and-his-amazing-friends
   episode: Spidey und seine Super-Freunde - Kobzilla & 3 weitere spannende Abenteuer
   release: 1701216000
   language: de-de

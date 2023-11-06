@@ -2,6 +2,7 @@ article: null
 lock-data: false
 data:
 - series: Dr. Seuss
+  series-id: null
   episode: Green Eggs & Ham
   release: 1691013729
   language: en-us

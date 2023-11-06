@@ -2,6 +2,7 @@ article: '10001331'
 lock-data: false
 data:
 - series: Lieblings-Kinderlieder
+  series-id: lieblings-kinderlieder
   episode: Spiel- und Bewegungslieder 2 (Neuauflage 2023)
   release: 1678233600
   language: de-de

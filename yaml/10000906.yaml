@@ -2,6 +2,7 @@ article: '10000906'
 lock-data: false
 data:
 - series: Das kleine WIR
+  series-id: das-kleine-wir
   episode: Das kleine WIR
   release: 0
   language: de-de

@@ -2,6 +2,7 @@ article: '10001506'
 lock-data: false
 data:
 - series: Miraculous
+  series-id: miraculous
   episode: Chat Noir
   release: 1684368000
   language: fr-fr

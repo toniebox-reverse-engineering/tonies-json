@@ -2,6 +2,7 @@ article: '10002135'
 lock-data: false
 data:
 - series: Pummel & Friends
+  series-id: pummel-friends
   episode: 'Das Pummeleinhorn: Der Herr der Donuts & Alles versalzen'
   release: 1683676800
   language: de-de

@@ -2,6 +2,7 @@ article: '10000368'
 lock-data: false
 data:
 - series: Shaun the Sheep
+  series-id: shaun-the-sheep
   episode: The Farmer's Llamas
   release: 1661212800
   language: en-gb

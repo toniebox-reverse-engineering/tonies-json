@@ -2,6 +2,7 @@ article: '10000495'
 lock-data: false
 data:
 - series: Trolls
+  series-id: trolls
   episode: Finde dein Glück
   release: 1623283200
   language: de-de

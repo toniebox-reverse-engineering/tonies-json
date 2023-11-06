@@ -2,6 +2,7 @@ article: '10000300'
 lock-data: false
 data:
 - series: Lieblings-Meisterstücke
+  series-id: lieblings-meisterstuecke
   episode: Der Nussknacker
   release: 1613001600
   language: de-de

@@ -2,6 +2,7 @@ article: '10001268'
 lock-data: false
 data:
 - series: Peppa Pig
+  series-id: peppa-pig
   episode: George
   release: 1661990400
   language: fr-fr

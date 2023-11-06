@@ -2,6 +2,7 @@ article: '10001501'
 lock-data: false
 data:
 - series: Mes Classiques Préférés
+  series-id: mes-classiques-preferes
   episode: Le Roman De Renart
   release: 1681344000
   language: fr-fr

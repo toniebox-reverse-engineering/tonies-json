@@ -2,6 +2,7 @@ article: 01-0127
 lock-data: false
 data:
 - series: Lieselotte
+  series-id: lieselotte
   episode: Ein Geburtstagsfest für Lieselotte und andere Geschichten
   release: 0
   language: de-de

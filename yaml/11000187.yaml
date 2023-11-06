@@ -2,6 +2,7 @@ article: null
 lock-data: false
 data:
 - series: Toto the Ninja Cat
+  series-id: toto-the-ninja-cat
   episode: Toto the Ninja Cat and the Great Snake Escape
   release: 1700438400
   language: en-gb

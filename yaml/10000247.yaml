@@ -2,6 +2,7 @@ article: '10000247'
 lock-data: false
 data:
 - series: Pumuckl
+  series-id: pumuckl
   episode: Spuk in der Werkstatt/Das verkaufte Bett
   release: 1599696000
   language: de-de

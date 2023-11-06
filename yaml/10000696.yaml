@@ -2,6 +2,7 @@ article: '10000696'
 lock-data: false
 data:
 - series: Der kleine Wassermann
+  series-id: der-kleine-wassermann
   episode: Der kleine Wassermann (Neuauflage 2022)
   release: 1668038400
   language: de-de

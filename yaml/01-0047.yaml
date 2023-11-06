@@ -2,6 +2,7 @@ article: 01-0047
 lock-data: false
 data:
 - series: Die Olchi-Detektive
+  series-id: null
   episode: Ritter der Popelrunde
   release: 1489622400
   language: de-de

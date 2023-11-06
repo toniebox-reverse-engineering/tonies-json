@@ -2,6 +2,7 @@ article: '10000145'
 lock-data: false
 data:
 - series: Mein Lotta-Leben
+  series-id: null
   episode: Alles voller Kaninchen
   release: 1588809600
   language: de-de

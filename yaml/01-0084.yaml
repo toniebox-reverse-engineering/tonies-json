@@ -2,6 +2,7 @@ article: 01-0084
 lock-data: false
 data:
 - series: Yakari
+  series-id: yakari
   episode: Best of Yakari
   release: 1543449600
   language: de-de

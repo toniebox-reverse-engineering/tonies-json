@@ -2,6 +2,7 @@ article: '10000872'
 lock-data: false
 data:
 - series: Peppa Pig
+  series-id: peppa-pig
   episode: Sur La Route Avec Peppa
   release: 0
   language: fr-fr

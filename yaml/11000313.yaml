@@ -2,6 +2,7 @@ article: '11000313'
 lock-data: false
 data:
 - series: Ernest & Célestine
+  series-id: ernest-celestine
   episode: Mon Amie Célestine
   release: 1695254400
   language: fr-fr

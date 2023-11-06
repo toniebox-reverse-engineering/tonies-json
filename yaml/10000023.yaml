@@ -2,6 +2,7 @@ article: '10000023'
 lock-data: false
 data:
 - series: The Fox Pack
+  series-id: null
   episode: Mystery in the Garden/Tracks of a Giant
   release: 0
   language: en-gb

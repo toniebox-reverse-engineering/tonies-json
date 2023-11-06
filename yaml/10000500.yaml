@@ -2,6 +2,7 @@ article: '10000500'
 lock-data: false
 data:
 - series: Sesame Street
+  series-id: sesame-street
   episode: Cookie Monster
   release: 1636502400
   language: en-gb

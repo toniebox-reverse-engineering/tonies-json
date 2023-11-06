@@ -2,6 +2,7 @@ article: '10001386'
 lock-data: false
 data:
 - series: Peter Rabbit
+  series-id: peter-rabbit
   episode: Jemima Puddleduck
   release: 1664496000
   language: en-gb

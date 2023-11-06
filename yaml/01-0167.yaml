@@ -2,6 +2,7 @@ article: 01-0167
 lock-data: false
 data:
 - series: Bobo Siebenschläfer
+  series-id: bobo-siebenschlaefer
   episode: Bobo beim Kinderarzt und weitere Folgen
   release: 1541635200
   language: de-de

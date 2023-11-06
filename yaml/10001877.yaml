@@ -2,6 +2,7 @@ article: '10001877'
 lock-data: false
 data:
 - series: Conservation Crew
+  series-id: conservation-crew
   episode: Rescues at Sea with Bobby the Sea Turtle
   release: 1684713600
   language: en-gb

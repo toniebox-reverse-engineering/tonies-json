@@ -2,6 +2,7 @@ article: '10000333'
 lock-data: false
 data:
 - series: Beethoven für Kids
+  series-id: beethoven-fuer-kids
   episode: Beethoven für Kids - Gelesen von Daniel Hope
   release: 1593648000
   language: de-de

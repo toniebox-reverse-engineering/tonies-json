@@ -2,6 +2,7 @@ article: '11000360'
 lock-data: false
 data:
 - series: Octonauts
+  series-id: octonauts
   episode: Peso
   release: 1692576000
   language: en-gb

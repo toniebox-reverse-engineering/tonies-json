@@ -2,6 +2,7 @@ article: 01-0011
 lock-data: false
 data:
 - series: Conni
+  series-id: null
   episode: Conni auf dem Bauernhof / Conni und das neue Baby
   release: 1474934400
   language: de-de

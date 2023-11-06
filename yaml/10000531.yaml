@@ -2,6 +2,7 @@ article: '10000531'
 lock-data: false
 data:
 - series: Kids Classical Music
+  series-id: kids-classical-music
   episode: Peter & the Wolf / Carnival of the Animals
   release: 1623283200
   language: en-gb

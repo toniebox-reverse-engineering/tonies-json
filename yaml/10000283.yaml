@@ -2,6 +2,7 @@ article: '10000283'
 lock-data: false
 data:
 - series: Kasperli
+  series-id: kasperli
   episode: Es hät en Dieb im Zoo! / D Insle vom Pirat Ohnibart
   release: 1603324800
   language: de-de

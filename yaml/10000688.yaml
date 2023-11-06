@@ -2,6 +2,7 @@ article: '10000688'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: The Princess and the Frog
   release: 1648425600
   language: en-gb

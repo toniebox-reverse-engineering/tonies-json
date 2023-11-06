@@ -2,6 +2,7 @@ article: '10001490'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: Tinker Bell
   release: 1670371200
   language: de-de

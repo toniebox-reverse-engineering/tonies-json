@@ -2,6 +2,7 @@ article: '11000477'
 lock-data: false
 data:
 - series: Dino Ranch
+  series-id: dino-ranch
   episode: Dino Ranch
   release: 1698019200
   language: en-gb

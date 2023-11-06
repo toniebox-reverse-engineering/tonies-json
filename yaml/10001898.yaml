@@ -2,6 +2,7 @@ article: '10001898'
 lock-data: false
 data:
 - series: Lieblings-Kinderlieder
+  series-id: lieblings-kinderlieder
   episode: Reiselieder (Neuauflage 2023)
   release: 1680048000
   language: de-de

@@ -2,6 +2,7 @@ article: '10001310'
 lock-data: false
 data:
 - series: National Geographic Kids
+  series-id: national-geographic-kids
   episode: Horse
   release: 1669507200
   language: en-gb

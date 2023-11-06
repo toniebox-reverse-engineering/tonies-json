@@ -2,6 +2,7 @@ article: 01-0061
 lock-data: false
 data:
 - series: Heidi
+  series-id: null
   episode: Freunde für immer
   release: 1506384000
   language: de-de

@@ -2,6 +2,7 @@ article: '10000129'
 lock-data: false
 data:
 - series: Super Wings
+  series-id: super-wings
   episode: Schwimmende Schweinchen
   release: 1618444800
   language: de-de

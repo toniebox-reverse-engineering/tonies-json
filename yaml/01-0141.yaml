@@ -2,6 +2,7 @@ article: 01-0141
 lock-data: false
 data:
 - series: Das kleine Gespenst
+  series-id: null
   episode: Das kleine Gespenst
   release: 1517443200
   language: de-de

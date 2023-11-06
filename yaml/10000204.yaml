@@ -2,6 +2,7 @@ article: '10000204'
 lock-data: false
 data:
 - series: Kreativ-Tonie
+  series-id: null
   episode: Lufthansa
   release: 1861920000
   language: de-de

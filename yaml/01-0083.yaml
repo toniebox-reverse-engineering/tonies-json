@@ -2,6 +2,7 @@ article: 01-0083
 lock-data: false
 data:
 - series: Leo Lausemaus
+  series-id: leo-lausemaus
   episode: Das Original-Hörspiel zu den Büchern 1
   release: 1517443200
   language: de-de

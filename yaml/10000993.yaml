@@ -2,6 +2,7 @@ article: '10000993'
 lock-data: false
 data:
 - series: PAW Patrol
+  series-id: paw-patrol
   episode: Der Delfin-Freund
   release: 0
   language: de-de

@@ -2,6 +2,7 @@ article: '10000124'
 lock-data: false
 data:
 - series: St. Pauli Rabauken
+  series-id: null
   episode: Entscheidung am Millerntor
   release: 1583366400
   language: de-de

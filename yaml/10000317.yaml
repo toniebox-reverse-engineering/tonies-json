@@ -2,6 +2,7 @@ article: '10000317'
 lock-data: false
 data:
 - series: Diary of a Wimpy Kid
+  series-id: diary-of-a-wimpy-kid
   episode: Diary of a Wimpy Kid
   release: 1620604800
   language: en-gb

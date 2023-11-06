@@ -2,6 +2,7 @@ article: '10000165'
 lock-data: false
 data:
 - series: TKKG Junior
+  series-id: null
   episode: Giftige Schokolade
   release: 1570665600
   language: de-de

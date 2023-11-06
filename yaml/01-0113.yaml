@@ -2,6 +2,7 @@ article: 01-0113
 lock-data: false
 data:
 - series: Bibi & Tina
+  series-id: bibi-tina
   episode: Der verschwundene Pokal
   release: 1511222400
   language: de-de

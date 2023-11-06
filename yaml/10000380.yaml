@@ -2,6 +2,7 @@ article: '10000380'
 lock-data: false
 data:
 - series: Paddington Bear
+  series-id: paddington-bear
   episode: A bear called Paddington
   release: 1638403200
   language: en-gb

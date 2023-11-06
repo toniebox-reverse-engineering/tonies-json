@@ -2,6 +2,7 @@ article: '10001693'
 lock-data: false
 data:
 - series: Rolf Zuckowski
+  series-id: rolf-zuckowski
   episode: Rolfs Hasengeschichte
   release: 1675814400
   language: de-de

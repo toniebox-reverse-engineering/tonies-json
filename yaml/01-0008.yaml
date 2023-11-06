@@ -2,6 +2,7 @@ article: 01-0008
 lock-data: false
 data:
 - series: Das Sams
+  series-id: null
   episode: Am Samstag kam das Sams zurück
   release: 0
   language: de-de

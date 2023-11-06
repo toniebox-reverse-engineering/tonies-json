@@ -2,6 +2,7 @@ article: 01-0169
 lock-data: false
 data:
 - series: Der kleine Hui Buh
+  series-id: null
   episode: Schatzjagd im Museum/Magische Meisterschaft
   release: 1557360000
   language: de-de

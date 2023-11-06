@@ -2,6 +2,7 @@ article: '10000705'
 lock-data: false
 data:
 - series: Sesame Street
+  series-id: sesame-street
   episode: Elmo
   release: 1636502400
   language: en-gb

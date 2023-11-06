@@ -2,6 +2,7 @@ article: 01-0191
 lock-data: false
 data:
 - series: Für Hund und Katz ist auch noch Platz
+  series-id: null
   episode: Für Hund und Katz ist auch noch Platz/Wo ist Mami?
   release: 1553126400
   language: de-de

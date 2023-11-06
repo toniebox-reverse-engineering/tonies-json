@@ -2,6 +2,7 @@ article: 01-0053
 lock-data: false
 data:
 - series: Der kleine Drache Kokosnuss
+  series-id: der-kleine-drache-kokosnuss
   episode: Hörspiel zur TV-Serie 03
   release: 1499731200
   language: de-de

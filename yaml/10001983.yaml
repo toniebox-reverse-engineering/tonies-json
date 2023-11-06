@@ -2,6 +2,7 @@ article: '10001983'
 lock-data: false
 data:
 - series: Ronja Räubertochter
+  series-id: ronja-raeubertochter
   episode: Ronja Räubertochter
   release: 1701216000
   language: de-de

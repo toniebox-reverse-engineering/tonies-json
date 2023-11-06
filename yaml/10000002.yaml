@@ -2,6 +2,7 @@ article: '10000002'
 lock-data: false
 data:
 - series: The Gruffalo
+  series-id: the-gruffalo
   episode: The Gruffalo's Child
   release: 0
   language: en-gb

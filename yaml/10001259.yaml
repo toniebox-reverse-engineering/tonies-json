@@ -2,6 +2,7 @@ article: '10001259'
 lock-data: false
 data:
 - series: Lieblings-Kinderlieder
+  series-id: lieblings-kinderlieder
   episode: Schlaflieder 2
   release: 0
   language: de-de

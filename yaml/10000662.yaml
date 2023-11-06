@@ -2,6 +2,7 @@ article: '10000662'
 lock-data: false
 data:
 - series: Magic Faraway Tree
+  series-id: magic-faraway-tree
   episode: Magic Faraway Tree - The Enchanted Wood
   release: 1650585600
   language: en-gb

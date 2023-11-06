@@ -2,6 +2,7 @@ article: '10001016'
 lock-data: false
 data:
 - series: C'Est Toujours Pas Sorcier
+  series-id: c-est-toujours-pas-sorcier
   episode: Sur Les Traces Des Dinosaures
   release: 1650499200
   language: fr-fr

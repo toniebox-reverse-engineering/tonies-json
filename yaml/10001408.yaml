@@ -2,6 +2,7 @@ article: '10001408'
 lock-data: false
 data:
 - series: Contes Du Monde
+  series-id: contes-du-monde
   episode: Afrique De L'Ouest
   release: 1688601600
   language: fr-fr

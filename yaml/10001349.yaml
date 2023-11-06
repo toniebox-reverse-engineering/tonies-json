@@ -2,6 +2,7 @@ article: '10001349'
 lock-data: false
 data:
 - series: Les Copains Du Dodo
+  series-id: les-copains-du-dodo
   episode: Doudou Mouton
   release: 1665619200
   language: fr-fr

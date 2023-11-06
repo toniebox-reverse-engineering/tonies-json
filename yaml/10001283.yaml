@@ -2,6 +2,7 @@ article: '10001283'
 lock-data: false
 data:
 - series: Molang
+  series-id: molang
   episode: Molang
   release: 1665619200
   language: fr-fr

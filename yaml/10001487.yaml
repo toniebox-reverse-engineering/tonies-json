@@ -2,6 +2,7 @@ article: '10001487'
 lock-data: false
 data:
 - series: Vom Fuchs, der ein Reh sein wollte
+  series-id: vom-fuchs-der-ein-reh-sein-wollte
   episode: Vom Fuchs, der ein Reh sein wollte
   release: 1683676800
   language: de-de

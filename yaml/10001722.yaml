@@ -2,6 +2,7 @@ article: '10001722'
 lock-data: false
 data:
 - series: Miraculous
+  series-id: miraculous
   episode: Der Betrüger / Der Valentinstag
   release: 1686009600
   language: de-de

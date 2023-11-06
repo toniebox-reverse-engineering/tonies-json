@@ -2,6 +2,7 @@ article: 01-0124
 lock-data: false
 data:
 - series: Lieblings-Kinderlieder
+  series-id: null
   episode: Spiel- und Bewegungslieder
   release: 1506384000
   language: de-de

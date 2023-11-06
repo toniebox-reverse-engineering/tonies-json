@@ -2,6 +2,7 @@ article: 01-0022
 lock-data: false
 data:
 - series: Janosch
+  series-id: janosch
   episode: Ich mach dich gesund, sagte der Bär
   release: 1481155200
   language: de-de

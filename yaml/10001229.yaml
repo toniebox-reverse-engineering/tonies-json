@@ -2,6 +2,7 @@ article: '10001229'
 lock-data: false
 data:
 - series: Miraculous
+  series-id: miraculous
   episode: Ladybug
   release: 1655942400
   language: fr-fr

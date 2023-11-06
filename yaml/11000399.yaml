@@ -2,6 +2,7 @@ article: null
 lock-data: false
 data:
 - series: Spookley the Square Pumpkin
+  series-id: null
   episode: null
   release: 1694107924
   language: en-us

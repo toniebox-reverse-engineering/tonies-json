@@ -2,6 +2,7 @@ article: '10000880'
 lock-data: false
 data:
 - series: Frederick
+  series-id: frederick
   episode: Frederick und seine Mäusefreunde
   release: 0
   language: de-de

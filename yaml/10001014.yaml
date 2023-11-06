@@ -2,6 +2,7 @@ article: '10001014'
 lock-data: false
 data:
 - series: Astérix
+  series-id: asterix
   episode: Astérix Le Gaulois
   release: 0
   language: fr-fr

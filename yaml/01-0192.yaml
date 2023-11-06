@@ -2,6 +2,7 @@ article: 01-0192
 lock-data: false
 data:
 - series: Der Räuber Hotzenplotz
+  series-id: null
   episode: Und die Mondrakete
   release: 1572998400
   language: de-de

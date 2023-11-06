@@ -2,6 +2,7 @@ article: '10000013'
 lock-data: false
 data:
 - series: Favourite Classics
+  series-id: null
   episode: Pinocchio and other classic stories
   release: 0
   language: en-gb
@@ -17,6 +18,6 @@ data:
   ids:
   - audio-id: 1537281089
     hash: a836cf1106bd0ac5c328a507afcf6d605c246d21
-    size: 0
-    tracks: 0
-    confidence: 0
+    size: 70144793
+    tracks: 5
+    confidence: 1

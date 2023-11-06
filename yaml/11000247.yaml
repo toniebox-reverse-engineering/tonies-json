@@ -2,6 +2,7 @@ article: '11000247'
 lock-data: false
 data:
 - series: PAW Patrol
+  series-id: paw-patrol
   episode: Die Hundeschau
   release: 1689120000
   language: de-de

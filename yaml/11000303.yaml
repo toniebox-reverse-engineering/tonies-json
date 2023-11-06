@@ -2,6 +2,7 @@ article: '11000303'
 lock-data: false
 data:
 - series: Alix Pix
+  series-id: alix-pix-1
   episode: Du Rififi Au Royaume Des Contes
   release: 0
   language: fr-fr

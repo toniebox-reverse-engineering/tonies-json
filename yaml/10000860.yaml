@@ -2,6 +2,7 @@ article: '10000860'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: Le Monde de Nemo
   release: 1684972800
   language: fr-fr

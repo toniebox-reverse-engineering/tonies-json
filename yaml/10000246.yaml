@@ -2,6 +2,7 @@ article: '10000246'
 lock-data: false
 data:
 - series: Heavysaurus
+  series-id: heavysaurus
   episode: Rock'n Rarrr Music
   release: 1591228800
   language: de-de

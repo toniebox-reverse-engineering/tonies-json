@@ -2,6 +2,7 @@ article: '10001775'
 lock-data: false
 data:
 - series: Mes Classiques Préférés
+  series-id: mes-classiques-preferes
   episode: Les Trois Mousquetaires
   release: 1673481600
   language: fr-fr

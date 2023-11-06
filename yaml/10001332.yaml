@@ -2,6 +2,7 @@ article: '10001332'
 lock-data: false
 data:
 - series: PJ Masks
+  series-id: pj-masks
   episode: Los geht’s Pyjamahelden
   release: 1670371200
   language: de-de

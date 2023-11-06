@@ -2,6 +2,7 @@ article: '10000261'
 lock-data: false
 data:
 - series: Eule findet den Beat
+  series-id: eule-findet-den-beat
   episode: Auf Europatour
   release: 1613001600
   language: de-de

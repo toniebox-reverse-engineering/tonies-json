@@ -2,6 +2,7 @@ article: '11000608'
 lock-data: false
 data:
 - series: Spidey Et Ses Amis Extraordinaires
+  series-id: spidey-et-ses-amis-extraordinaires
   episode: Ghost-Spider
   release: 1697673600
   language: fr-fr

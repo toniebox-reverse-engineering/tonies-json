@@ -2,6 +2,7 @@ article: '10001232'
 lock-data: false
 data:
 - series: Roald Dahl
+  series-id: roald-dahl
   episode: The Witches
   release: 1658275200
   language: en-gb

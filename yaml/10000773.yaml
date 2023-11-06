@@ -2,6 +2,7 @@ article: '10000773'
 lock-data: false
 data:
 - series: Wild Kratts
+  series-id: null
   episode: Martin
   release: 1647954935
   language: en-us

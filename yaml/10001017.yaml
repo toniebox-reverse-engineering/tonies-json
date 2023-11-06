@@ -2,6 +2,7 @@ article: '10001017'
 lock-data: false
 data:
 - series: Mes Contes Préférés
+  series-id: mes-contes-preferes
   episode: Le Petit Chaperon Rouge Et 3 Autres Contes
   release: 0
   language: fr-fr

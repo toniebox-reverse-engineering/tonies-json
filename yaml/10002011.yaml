@@ -2,6 +2,7 @@ article: '10002011'
 lock-data: false
 data:
 - series: Das kleine Böse Buch
+  series-id: das-kleine-boese-buch
   episode: Das kleine Böse Buch
   release: 1694563200
   language: de-de

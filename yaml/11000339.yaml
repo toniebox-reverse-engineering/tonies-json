@@ -2,6 +2,7 @@ article: '11000339'
 lock-data: false
 data:
 - series: Mumfie
+  series-id: mumfie
   episode: Histoires Douces Pour Rêver
   release: 1698278400
   language: fr-fr

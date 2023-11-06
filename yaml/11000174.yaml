@@ -2,6 +2,7 @@ article: '11000174'
 lock-data: false
 data:
 - series: Cocomelon
+  series-id: cocomelon
   episode: Getting Ready with JJ
   release: 1679270400
   language: en-gb

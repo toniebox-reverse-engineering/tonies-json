@@ -2,6 +2,7 @@ article: '10001396'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: Woohoo! / Die Suche nach Atlantis
   release: 1680134400
   language: de-de

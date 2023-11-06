@@ -2,6 +2,7 @@ article: 01-0181
 lock-data: false
 data:
 - series: Der Räuber Hotzenplotz
+  series-id: null
   episode: Hotzenplotz 3
   release: 1559692800
   language: de-de

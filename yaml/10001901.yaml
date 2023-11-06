@@ -2,6 +2,7 @@ article: '10001901'
 lock-data: false
 data:
 - series: Séléna Sans Chichis Ni Tralala
+  series-id: selena-sans-chichis-ni-tralala
   episode: Plongée Insolite Dans Moby Dick
   release: 1681344000
   language: fr-fr

@@ -2,6 +2,7 @@ article: 01-0013
 lock-data: false
 data:
 - series: Benjamin Blümchen
+  series-id: benjamin-bluemchen
   episode: Der Zoo-Kindergarten
   release: 1474934400
   language: de-de

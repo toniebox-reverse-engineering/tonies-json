@@ -2,6 +2,7 @@ article: '11000495'
 lock-data: false
 data:
 - series: Paw Patrol
+  series-id: paw-patrol
   episode: Liberty
   release: 1697414400
   language: en-gb

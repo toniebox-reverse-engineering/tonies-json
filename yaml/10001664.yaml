@@ -2,6 +2,7 @@ article: '10001664'
 lock-data: false
 data:
 - series: Clem & Pathie
+  series-id: clem-pathie
   episode: Les Super-Sensibles
   release: 1684454400
   language: fr-fr

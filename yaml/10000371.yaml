@@ -2,6 +2,7 @@ article: '10000371'
 lock-data: false
 data:
 - series: Kikaninchen
+  series-id: kikaninchen
   episode: Die Mischung macht’s!
   release: 1613001600
   language: de-de

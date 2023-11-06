@@ -2,6 +2,7 @@ article: '10001352'
 lock-data: false
 data:
 - series: null
+  series-id: null
   episode: null
   release: 0
   language: null

@@ -2,6 +2,7 @@ article: '10001685'
 lock-data: false
 data:
 - series: DIKKA
+  series-id: dikka
   episode: Oh Yeah!
   release: 1678233600
   language: de-de

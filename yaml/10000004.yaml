@@ -2,6 +2,7 @@ article: '10000004'
 lock-data: false
 data:
 - series: The Snowman
+  series-id: the-snowman
   episode: The Snowman/The Snowman and the Snowdog
   release: 0
   language: en-gb

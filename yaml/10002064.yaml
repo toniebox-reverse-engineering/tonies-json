@@ -2,6 +2,7 @@ article: '10002064'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: Doc McStuffins
   release: 1660953600
   language: en-gb

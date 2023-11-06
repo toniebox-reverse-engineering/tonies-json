@@ -2,6 +2,7 @@ article: 01-0130
 lock-data: false
 data:
 - series: Maus
+  series-id: maus
   episode: Schlaf schön!
   release: 1508198400
   language: de-de

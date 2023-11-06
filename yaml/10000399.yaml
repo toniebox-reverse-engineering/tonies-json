@@ -2,6 +2,7 @@ article: '10000399'
 lock-data: false
 data:
 - series: Sternenschweif
+  series-id: sternenschweif
   episode: Geheimnisvolle Verwandlung
   release: 1615420800
   language: de-de

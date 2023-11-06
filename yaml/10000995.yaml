@@ -2,6 +2,7 @@ article: '10000995'
 lock-data: false
 data:
 - series: Unter meinem Bett
+  series-id: unter-meinem-bett
   episode: Unter meinem Bett 6
   release: 1663113600
   language: de-de

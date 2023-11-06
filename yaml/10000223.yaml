@@ -2,6 +2,7 @@ article: '10000223'
 lock-data: false
 data:
 - series: Weißt du eigentlich, wie lieb ich dich hab
+  series-id: weisst-du-eigentlich-wie-lieb-ich-dich-hab
   episode: Weißt du eigentlich, wie lieb ich dich hab?
   release: 0
   language: de-de

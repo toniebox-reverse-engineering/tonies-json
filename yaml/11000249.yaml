@@ -2,6 +2,7 @@ article: '11000249'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: Tiggers großes Abenteuer
   release: 1699401600
   language: de-de

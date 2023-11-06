@@ -2,6 +2,7 @@ article: 01-0148
 lock-data: false
 data:
 - series: Lieblings-Märchen
+  series-id: null
   episode: Rapunzel und 4 weitere Märchen
   release: 1528329600
   language: de-de

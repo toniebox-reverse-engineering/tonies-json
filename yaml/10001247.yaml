@@ -2,6 +2,7 @@ article: '10001247'
 lock-data: false
 data:
 - series: L'Heure De La Sieste
+  series-id: l-heure-de-la-sieste
   episode: Bruit Blanc
   release: 0
   language: fr-fr

@@ -2,6 +2,7 @@ article: '10000611'
 lock-data: false
 data:
 - series: Petronella Apfelmus
+  series-id: petronella-apfelmus
   episode: Verhext und festgeklebt
   release: 1631145600
   language: de-de

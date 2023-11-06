@@ -2,6 +2,7 @@ article: '10000859'
 lock-data: false
 data:
 - series: Elmer
+  series-id: elmer
   episode: Elmer Et Ses Amis
   release: 0
   language: fr-fr

@@ -2,6 +2,7 @@ article: 01-0123
 lock-data: false
 data:
 - series: Rotz 'n' Roll Radio
+  series-id: null
   episode: Jubel, Trubel, Heiserkeit
   release: 1511222400
   language: de-de

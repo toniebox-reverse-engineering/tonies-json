@@ -2,6 +2,7 @@ article: '10000001'
 lock-data: false
 data:
 - series: The Gruffalo
+  series-id: the-gruffalo
   episode: The Gruffalo
   release: 0
   language: en-gb

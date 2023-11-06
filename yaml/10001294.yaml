@@ -2,6 +2,7 @@ article: '10001294'
 lock-data: false
 data:
 - series: Steiff Soft Cuddly Friends
+  series-id: steiff-soft-cuddly-friends
   episode: Hoppie Hase
   release: 1623283200
   language: de-de

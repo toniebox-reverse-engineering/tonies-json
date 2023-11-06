@@ -2,6 +2,7 @@ article: '10000488'
 lock-data: false
 data:
 - series: The Famous Five
+  series-id: the-famous-five
   episode: 'The Famous Five: A Short Story Collection'
   release: 1620604800
   language: en-gb

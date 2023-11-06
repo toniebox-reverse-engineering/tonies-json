@@ -2,6 +2,7 @@ article: '10000021'
 lock-data: false
 data:
 - series: Hully Boo Spook'n Spell
+  series-id: null
   episode: How Hully Boo got his rattling chain / Halloween at Palace Primary
   release: 0
   language: en-gb

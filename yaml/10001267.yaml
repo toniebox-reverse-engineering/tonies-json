@@ -2,6 +2,7 @@ article: '10001267'
 lock-data: false
 data:
 - series: Mes Classiques Préférés
+  series-id: mes-classiques-preferes
   episode: Les Fables De La Fontaine
   release: 1661990400
   language: fr-fr

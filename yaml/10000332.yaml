@@ -2,6 +2,7 @@ article: '10000332'
 lock-data: false
 data:
 - series: Kreativ-Tonie
+  series-id: null
   episode: Fortuna Düsseldorf
   release: 1600214400
   language: de-de

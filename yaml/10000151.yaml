@@ -2,6 +2,7 @@ article: '10000151'
 lock-data: false
 data:
 - series: Wieso? Weshalb? Warum? junior
+  series-id: wieso-weshalb-warum-junior-2
   episode: Die Polizei
   release: 1588809600
   language: de-de

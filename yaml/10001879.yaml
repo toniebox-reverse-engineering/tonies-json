@@ -2,6 +2,7 @@ article: '10001879'
 lock-data: false
 data:
 - series: Peppa Pig
+  series-id: peppa-pig
   episode: Peppa's Bedtime Stories
   release: 1684713600
   language: en-gb

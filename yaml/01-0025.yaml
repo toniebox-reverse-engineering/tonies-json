@@ -2,6 +2,7 @@ article: 01-0025
 lock-data: false
 data:
 - series: Teufelskicker
+  series-id: teufelskicker
   episode: Moritz macht das Spiel!
   release: 1490313600
   language: de-de

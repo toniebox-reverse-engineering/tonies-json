@@ -2,6 +2,7 @@ article: '10000148'
 lock-data: false
 data:
 - series: Der Traumzauberbaum
+  series-id: der-traumzauberbaum
   episode: Geschichtenlieder
   release: 1572998400
   language: de-de

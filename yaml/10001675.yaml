@@ -2,6 +2,7 @@ article: '10001675'
 lock-data: false
 data:
 - series: Furzipups, der Knatterdrache
+  series-id: furzipups-der-knatterdrache
   episode: Furzipups - 3 Geschichten und 6 Songs
   release: 1680048000
   language: de-de

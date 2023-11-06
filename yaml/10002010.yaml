@@ -2,6 +2,7 @@ article: '10002010'
 lock-data: false
 data:
 - series: Lassie
+  series-id: lassie
   episode: Freunde fürs Leben
   release: 1699401600
   language: de-de

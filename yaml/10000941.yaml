@@ -2,6 +2,7 @@ article: '10000941'
 lock-data: false
 data:
 - series: Horrible Histories
+  series-id: horrible-histories
   episode: Rotten Romans
   release: 1658188800
   language: en-gb

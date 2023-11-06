@@ -2,6 +2,7 @@ article: '10000889'
 lock-data: false
 data:
 - series: Tee and Mo
+  series-id: tee-and-mo
   episode: Tee and Mo
   release: 1655683200
   language: en-gb

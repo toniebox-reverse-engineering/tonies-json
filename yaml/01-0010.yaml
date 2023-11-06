@@ -2,6 +2,7 @@ article: 01-0010
 lock-data: false
 data:
 - series: Conni
+  series-id: null
   episode: Conni kommt in den Kindergarten / Conni macht das Seepferdchen
   release: 1474934400
   language: de-de

@@ -2,6 +2,7 @@ article: '10000666'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: Die Schöne und das Biest
   release: 1631145600
   language: de-de

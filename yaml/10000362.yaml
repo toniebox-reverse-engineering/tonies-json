@@ -2,6 +2,7 @@ article: '10000362'
 lock-data: false
 data:
 - series: Der kleine König
+  series-id: der-kleine-koenig
   episode: Der kleine König sagt "Gute Nacht"
   release: 1646784000
   language: de-de

@@ -2,6 +2,7 @@ article: '10000663'
 lock-data: false
 data:
 - series: 'Mr Bean '
+  series-id: null
   episode: Mr Bean
   release: 1631145600
   language: en-gb

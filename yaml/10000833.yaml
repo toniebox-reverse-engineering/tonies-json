@@ -2,6 +2,7 @@ article: '10000833'
 lock-data: false
 data:
 - series: Griechische Sagen
+  series-id: griechische-sagen
   episode: Griechische Sagen
   release: 1620604800
   language: de-de

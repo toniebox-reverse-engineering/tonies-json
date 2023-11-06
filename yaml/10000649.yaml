@@ -2,6 +2,7 @@ article: '10000649'
 lock-data: false
 data:
 - series: Mog the Forgetful Cat
+  series-id: mog-the-forgetful-cat
   episode: Mog
   release: 1679270400
   language: en-gb

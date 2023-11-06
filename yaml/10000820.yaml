@@ -2,6 +2,7 @@ article: null
 lock-data: false
 data:
 - series: The Elf on the Shelf
+  series-id: null
   episode: null
   release: 1698085197
   language: en-us

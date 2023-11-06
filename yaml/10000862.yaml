@@ -2,6 +2,7 @@ article: '10000862'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: Cars
   release: 1650499200
   language: fr-fr

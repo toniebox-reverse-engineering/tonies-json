@@ -2,6 +2,7 @@ article: 01-0162
 lock-data: false
 data:
 - series: Die Punkies
+  series-id: null
   episode: Bühne frei für die Punkies
   release: 1540425600
   language: de-de

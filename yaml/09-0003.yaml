@@ -2,6 +2,7 @@ article: 09-0003
 lock-data: false
 data:
 - series: Kreativ-Tonie
+  series-id: null
   episode: Grün mit Stern (Starterkit)
   release: 1539129600
   language: de-de

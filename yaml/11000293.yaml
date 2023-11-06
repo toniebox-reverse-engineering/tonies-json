@@ -2,6 +2,7 @@ article: '11000293'
 lock-data: false
 data:
 - series: Contes Du Monde
+  series-id: contes-du-monde
   episode: Corée
   release: 1688601600
   language: fr-fr

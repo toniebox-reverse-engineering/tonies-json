@@ -2,6 +2,7 @@ article: '10001799'
 lock-data: false
 data:
 - series: Steiff Soft Cuddly Friends mit Hörspiel
+  series-id: steiff-soft-cuddly-friends-mit-hoerspiel
   episode: Lita Lamb
   release: 1634688000
   language: en-gb

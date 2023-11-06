@@ -2,6 +2,7 @@ article: '10001328'
 lock-data: false
 data:
 - series: PJ Masks
+  series-id: pj-masks
   episode: Ein mächtiges Mondproblem
   release: 1670371200
   language: de-de

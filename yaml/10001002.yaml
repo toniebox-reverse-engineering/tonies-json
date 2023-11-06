@@ -2,6 +2,7 @@ article: '10001002'
 lock-data: false
 data:
 - series: Xavier Riddle
+  series-id: null
   episode: null
   release: 1663692960
   language: en-us

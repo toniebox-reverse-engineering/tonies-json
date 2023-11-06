@@ -2,6 +2,7 @@ article: 01-0120
 lock-data: false
 data:
 - series: Lieblings-Klassiker
+  series-id: null
   episode: Pinocchio und 4 weitere Klassiker
   release: 1540425600
   language: de-de

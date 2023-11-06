@@ -2,6 +2,7 @@ article: '10000940'
 lock-data: false
 data:
 - series: Roald Dahl
+  series-id: roald-dahl
   episode: James and the Giant Peach
   release: 1666656000
   language: en-gb

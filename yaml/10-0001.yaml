@@ -2,6 +2,7 @@ article: 10-0001
 lock-data: false
 data:
 - series: Minimusiker
+  series-id: null
   episode: Weihnachtslieder
   release: 1575158400
   language: de-de

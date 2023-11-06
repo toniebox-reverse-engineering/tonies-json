@@ -2,6 +2,7 @@ article: '10001277'
 lock-data: false
 data:
 - series: Les Schtroumpfs
+  series-id: les-schtroumpfs
   episode: L'Aéroschtroumpf
   release: 1668643200
   language: fr-fr

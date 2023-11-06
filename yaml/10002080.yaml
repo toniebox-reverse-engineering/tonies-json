@@ -2,6 +2,7 @@ article: '10002080'
 lock-data: false
 data:
 - series: Love Monster
+  series-id: love-monster
   episode: Love Monster
   release: 1695600000
   language: en-gb

@@ -2,6 +2,7 @@ article: '11000301'
 lock-data: false
 data:
 - series: Tara Duncan
+  series-id: tara-duncan
   episode: Que Ta Magie Illumine !
   release: 1698278400
   language: fr-fr

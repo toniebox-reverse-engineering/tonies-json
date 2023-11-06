@@ -2,6 +2,7 @@ article: 01-0161
 lock-data: false
 data:
 - series: Maus
+  series-id: maus
   episode: Mit der Maus die Welt entdecken
   release: 1553126400
   language: de-de

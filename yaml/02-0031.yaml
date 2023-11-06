@@ -2,6 +2,7 @@ article: 02-0031
 lock-data: false
 data:
 - series: ''
+  series-id: null
   episode: Kreativ-Tonie Ärztin
   release: 0
   language: de-de

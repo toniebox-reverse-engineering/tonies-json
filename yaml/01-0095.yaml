@@ -2,6 +2,7 @@ article: 01-0095
 lock-data: false
 data:
 - series: Die Eule mit der Beule
+  series-id: die-eule-mit-der-beule
   episode: Die kleine Eule feiert Weihnachten
   release: 1543449600
   language: de-de

@@ -2,6 +2,7 @@ article: 01-0119
 lock-data: false
 data:
 - series: Elmer
+  series-id: elmer
   episode: Kunterbunte Geschichten
   release: 1615420800
   language: de-de

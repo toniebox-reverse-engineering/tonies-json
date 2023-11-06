@@ -2,6 +2,7 @@ article: '10001357'
 lock-data: false
 data:
 - series: Didier Jeunesse
+  series-id: didier-jeunesse
   episode: Écoute Et Devine Les Instruments
   release: 0
   language: fr-fr

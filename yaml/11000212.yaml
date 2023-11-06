@@ -2,6 +2,7 @@ article: null
 lock-data: false
 data:
 - series: Favorite Myths
+  series-id: null
   episode: Egyptian Mythology
   release: 1691789188
   language: en-us

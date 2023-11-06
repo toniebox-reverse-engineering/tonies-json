@@ -2,6 +2,7 @@ article: '10000601'
 lock-data: false
 data:
 - series: Fantasiereisen mit Faultier Mo
+  series-id: fantasiereisen-mit-faultier-mo
   episode: 8 besondere Orte zum Entspannen
   release: 1678233600
   language: de-de

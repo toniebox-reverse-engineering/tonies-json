@@ -2,6 +2,7 @@ article: '10001314'
 lock-data: false
 data:
 - series: Roald Dahl
+  series-id: roald-dahl
   episode: Matilda
   release: 1663632000
   language: en-gb

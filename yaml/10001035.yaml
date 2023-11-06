@@ -2,6 +2,7 @@ article: '10001035'
 lock-data: false
 data:
 - series: Favourite Tales
+  series-id: favourite-tales
   episode: Little Red Riding Hood (relaunch)
   release: 1650585600
   language: en-gb

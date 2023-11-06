@@ -2,6 +2,7 @@ article: '10001264'
 lock-data: false
 data:
 - series: Snöfrid aus dem Wiesental
+  series-id: snoefrid-aus-dem-wiesental
   episode: Das wahrlich große Geheimnis von Appelgarden
   release: 0
   language: de-de

@@ -2,6 +2,7 @@ article: '10000491'
 lock-data: false
 data:
 - series: Rico und Oskar
+  series-id: rico-und-oskar
   episode: Rico, Oskar und die Tieferschatten
   release: 1634083200
   language: de-de

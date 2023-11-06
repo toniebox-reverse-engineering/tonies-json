@@ -2,6 +2,7 @@ article: 01-0154
 lock-data: false
 data:
 - series: Die Haferhorde
+  series-id: die-haferhorde
   episode: Volle Mähne!
   release: 1562198400
   language: de-de

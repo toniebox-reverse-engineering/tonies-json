@@ -2,6 +2,7 @@ article: '10000137'
 lock-data: false
 data:
 - series: Lieblings-Märchen
+  series-id: null
   episode: Sterntaler und 4 weitere Märchen
   release: 1562198400
   language: de-de

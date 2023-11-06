@@ -2,6 +2,7 @@ article: '10001653'
 lock-data: false
 data:
 - series: Malory Towers
+  series-id: malory-towers
   episode: First Term at Malory Towers
   release: 1692316800
   language: en-gb

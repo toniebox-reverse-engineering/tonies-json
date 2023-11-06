@@ -2,6 +2,7 @@ article: 01-0060
 lock-data: false
 data:
 - series: Wickie
+  series-id: wickie
   episode: Die Königin der Winde
   release: 1506384000
   language: de-de

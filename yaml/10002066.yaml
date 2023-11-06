@@ -2,6 +2,7 @@ article: '10002066'
 lock-data: false
 data:
 - series: Karma's World
+  series-id: karma-s-world
   episode: Karma's World
   release: 1672185600
   language: en-gb

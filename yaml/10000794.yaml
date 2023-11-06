@@ -2,6 +2,7 @@ article: '10000794'
 lock-data: false
 data:
 - series: Der magische Blumenladen
+  series-id: der-magische-blumenladen
   episode: Ein Geheimnis kommt selten allein
   release: 0
   language: de-de

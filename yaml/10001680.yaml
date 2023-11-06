@@ -2,6 +2,7 @@ article: '10001680'
 lock-data: false
 data:
 - series: Disney
+  series-id: disney
   episode: Dornröschen
   release: 1683676800
   language: de-de
