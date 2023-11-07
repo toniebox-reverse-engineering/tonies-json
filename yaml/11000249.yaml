@@ -11,7 +11,7 @@ data:
   age: 3
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/BOX11000249_1_a-Jbs4_IwE.png
-  sample: null
+  sample: '"https://cdn.tonies.de/o/audio_samples/b79b76238dbcf5d69ec7fc6cbcfff531c3a1f9d3fe07663cff22ce13/hoeprobe_11000249_disney_tigger_tiggers_groes_abenteuer.mp3'
   web: https://tonies.com/de-de/tonies/disney/disney-tigger-tiggers-groes-abenteuer/
   shop-id: af4b11b7-0713-4f58-b1b5-25e134092b6b
   track-desc:
