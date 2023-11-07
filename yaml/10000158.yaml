@@ -2,19 +2,27 @@ article: '10000158'
 lock-data: false
 data:
 - series: Die drei ???
-  series-id: null
+  series-id: die-drei-fragezeichen
   episode: Der Super-Papagei
   release: 1604880000
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 50
+  age: 8
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000158-50001310-b-Ov0GFH4k.png
   sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  web: https://tonies.com/de-de/tonies/die-drei-fragezeichen/der-super-papagei/
+  shop-id: 659caea6-36b9-43c1-a38e-525d12383798
+  track-desc:
+  - Ein Hilferuf
+  - Ein Papagei spricht Latein
+  - Schneewittchen ist verschwunden
+  - Ein unverhoffter Besuch
+  - Blackbeard, der Pirat
+  - Die rätselhafte Botschaft
+  - Von Steinen und Gebeinen
+  - Blackbeard hat das letzte Wort
   ids:
   - audio-id: 1699259452
     hash: 944299ce18fec5e0777bcf67971cac49f269af29
