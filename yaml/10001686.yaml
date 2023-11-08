@@ -23,4 +23,9 @@ data:
   - Asterix - Die goldene Sichel Teil 06
   - Asterix - Die goldene Sichel Teil 07
   - Asterix - Die goldene Sichel Teil 08
-  ids: []
+  ids:
+  - audio-id: 1673359944
+    hash: a2b8d2b70ea3477ddffa47174ad749b4923c581a
+    size: 28763988
+    tracks: 8
+    confidence: 1
