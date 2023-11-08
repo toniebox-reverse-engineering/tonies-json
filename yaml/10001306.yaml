@@ -3,14 +3,14 @@ lock-data: false
 data:
 - series: WAS IST WAS
   series-id: was-ist-was
-  episode: Bären - Eine Reise um die Welt
+  episode: Bären - Eine Reise um die Welt (Haribo)
   release: 0
   language: de-de
   category: Hörspiele & Hörbücher
   runtime: 6
   age: 45
   origin: stock
-  image: https://i.ebayimg.com/images/g/gP8AAOSwNLRjPz8D/s-l1600.png
+  image: https://cdn.tonies.de/o/images/1_bde51867f19baa3f8e9541985b5fd403ef848f2e25b7c23c6354705e/3_KKDtxjYx4cm~kyZB/baren_eine_reise_um_die_welt_only_tonie_530x530.png
   sample: null
   web: null
   shop-id: null
