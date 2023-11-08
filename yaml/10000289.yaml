@@ -36,6 +36,11 @@ data:
   - Die alte Moorhexe
   - Monster Boogie Woogie
   ids:
+  - audio-id: 1679323046
+    hash: 471c3370a9350e6f2f5139f9faaa996a39f0a301
+    size: 45056346
+    tracks: 20
+    confidence: 1
   - audio-id: 1603187188
     hash: 3975179176cfaa082229a2cf7848bea4395730e2
     size: 0
