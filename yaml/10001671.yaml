@@ -1,0 +1,30 @@
+article: '10001671'
+lock-data: false
+data:
+- series: Secrets D'Aventure
+  series-id: secrets-daventure
+  episode: Jules Verne
+  release: 1699488000
+  language: fr-fr
+  category: audio-play
+  runtime: 65
+  age: 6
+  origin: stock
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/50005273-Tonie_Shado-8pLw_e7X.png
+  sample: https://cdn.tonies.de/o/audio_samples/f80c1880cb3d5f2538bc4661fd610b5d63e745f6fa8f1d4e43040339/10001671_secrets_d_aventures_julesverne_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/secrets-daventure/jules-verne/
+  shop-id: d5963458-46a7-41c8-a9d4-b182018d66e8
+  track-desc:
+  - Secrets d'aventure - Générique
+  - Chapitre 1 - Un livre bien mystérieux
+  - Chapitre 2 - L’énigme de Saknussemm
+  - Chapitre 3 - En route pour l’Islande !
+  - Chapitre 4 - Une mauvaise surprise
+  - Chapitre 5 - À l’assaut du volcan
+  - Chapitre 6 - Au centre de la Terre
+  - Chapitre 7 - La traversée
+  - Chapitre 8 - Le combat des titans
+  - Chapitre 9 - Une rencontre inattendue
+  - Chapitre 10 - Direction, la sortie !
+  - Chapitre 11 - Tout est bien qui finit bien
+  ids: []
