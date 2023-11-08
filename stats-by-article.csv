@@ -1085,6 +1085,7 @@ article,series,series-id,episode,language,category,shop-id,web,data-sets,id-sets
 11000292,Disney,disney,Encanto,de-de,audio-play,4f891311-7cbc-4d7b-a5ef-e6b1f4c5d14b,https://tonies.com/de-de/tonies/disney/encanto/,1,1,1,1
 11000293,Contes Du Monde,contes-du-monde,Corée,fr-fr,audio-book,4259ea21-46c9-4c18-98cd-29d453db5908,https://tonies.com/fr-fr/tonies/contes-du-monde/coree/,1,0,0,0
 11000296,Petit Malabar,petit-malabar,Science+Fiction=Aventure,fr-fr,audio-play,ec75815f-d034-4566-90b5-8e3ac34c2be1,https://tonies.com/fr-fr/tonies/petit-malabar/science-fiction-aventure/,1,0,0,0
+11000297,Oggy Oggy,oggy-oggy,"1, 2, 3, Prêts ? Partez !",fr-fr,audio-play,cd43f1f7-1d30-4d25-b111-774972316fcf,https://tonies.com/fr-fr/tonies/oggy-oggy/1-2-3-prets-partez/,1,0,0,0
 11000299,Gigantosaurus,gigantosaurus,Rocky,fr-fr,audio-play,a2a4af44-431d-4c36-849f-c71235adbc0c,https://tonies.com/fr-fr/tonies/gigantosaurus/rocky-2/,1,0,0,0
 11000300,Gigantosaurus,gigantosaurus,Tiny,fr-fr,audio-play,8012c414-32d0-4123-b434-152503caeb33,https://tonies.com/fr-fr/tonies/gigantosaurus/tiny/,1,0,0,0
 11000301,Tara Duncan,tara-duncan,Que Ta Magie Illumine !,fr-fr,audio-play,ee1e39e5-21ad-439a-81fa-fa47bb7dad4d,https://tonies.com/fr-fr/tonies/tara-duncan/que-ta-magie-illumine/,1,0,0,0
@@ -1127,10 +1128,10 @@ article,series,series-id,episode,language,category,shop-id,web,data-sets,id-sets
 11000709,Clever Tonies Set,,Kid Comedy,en-us,Tonie,8076776112279,,1,0,0,0
 11000710,Clever Tonies Set,,Inventions and Innovation,en-us,Tonie,8076775555223,,1,0,0,0
 11000712,Clever Tonies Set,,Gentle Giant Dinosaurs,en-us,Tonie,8076776341655,,1,0,0,0
-11000782,Today with tonies,today-with-tonies,Today with tonies,en-gb,audio-play,a742a774-63b0-450f-8303-6552b3c99bc9,https://tonies.com/en-gb/tonies/today-with-tonies/today-with-tonies/,1,0,0,0
+11000782,Today with tonies,today-with-tonies,tonies® Podcast,en-gb,audio-play,a742a774-63b0-450f-8303-6552b3c99bc9,https://tonies.com/en-gb/tonies/today-with-tonies/today-with-tonies/,1,0,0,0
 99-0001,Kreativ-Tonie,,(Platzhalter) - DE,de-de,Kreativ-Tonies,,,1,1,0,0
-99-0002,Creativ-Tonie,,(DUMMY) - UK,en-gb,Creative-Tonies,,,1,1,0,0
-99-0003,Creativ-Tonie,,(DUMMY) - US,en-gb,Creative-Tonies,,,1,1,0,0
+99-0002,Creative-Tonie,,Creativ-Tonie (DUMMY) - UK,en-gb,Creative-Tonies,,,1,1,0,0
+99-0003,Creative-Tonie,,Creativ-Tonie (DUMMY) - US,en-gb,Creative-Tonies,,,1,1,0,0
 99-0004,Kreativ-Tonie,,GESPERRT in einem anderen Haushalt,de-de,Kreativ-Tonies,,,1,0,0,0
 box-de-de-01-00000000,,,,,,,,1,1,1,1
 box-de-de-01-00000007,,,,,,,,1,1,1,1
