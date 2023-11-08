@@ -1,0 +1,23 @@
+article: '10001306'
+lock-data: false
+data:
+- series: WAS IST WAS
+  series-id: was-ist-was
+  episode: Bären - Eine Reise um die Welt
+  release: 0
+  language: de-de
+  category: Hörspiele & Hörbücher
+  runtime: 6
+  age: 45
+  origin: stock
+  image: https://i.ebayimg.com/images/g/gP8AAOSwNLRjPz8D/s-l1600.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1658754159
+    hash: 11a6e36befb8db653fd58e83d9a93bf321c848f6
+    size: 44198233
+    tracks: 12
+    confidence: 1
