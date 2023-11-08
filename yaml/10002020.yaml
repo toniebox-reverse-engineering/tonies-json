@@ -24,4 +24,9 @@ data:
   - Das neue gelbe Töpfchen
   - Prinzessin auf dem Klothron
   - Titellied „Meine beste Freundin Conni“
-  ids: []
+  ids:
+  - audio-id: 1666874511
+    hash: 92e058ce46e28deeb71ba20d62c7dc9d39618a38
+    size: 28118441
+    tracks: 9
+    confidence: 1
