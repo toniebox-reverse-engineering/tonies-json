@@ -111,7 +111,7 @@ article,series,series-id,episode,language,category,shop-id,web,data-sets,id-sets
 01-0156,Lieblings-Kinderlieder,,Tierlieder,de-de,Musik,,,1,2,1,1
 01-0157,Leo Lausemaus,leo-lausemaus,Das Original-Hörspiel zu den Büchern 2,de-de,audio-play,dadc57aa-87b5-429e-8aaf-e01302a8949a,https://tonies.com/de-de/tonies/leo-lausemaus/das-original-hoerspiel-zu-den-buechern-2/,1,1,1,2
 01-0159,Erdbeerinchen Erdbeerfee,erdbeerinchen-erdbeerfee,Zauberhafte Geschichten aus dem Erdbeergarten,de-de,audio-book,eba5e0ce-6281-484c-9fbf-fc47bec95098,https://tonies.com/de-de/tonies/erdbeerinchen-erdbeerfee/zauberhafte-geschichten-aus-dem-erdbeergarten/,1,1,1,1
-01-0160,WAS IST WAS,,Wale & Delfine / Geheimnis Tiefsee,de-de,audio-play-educational,,,1,1,0,1
+01-0160,WAS IST WAS,,Wale & Delfine / Geheimnis Tiefsee,de-de,audio-play-educational,,,1,1,1,1
 01-0161,Maus,maus,Mit der Maus die Welt entdecken,de-de,audio-play-songs,a5336d6c-402d-4fc8-8538-c8cbaef38635,https://tonies.com/de-de/tonies/maus/mit-der-maus-die-welt-entdecken/,1,1,1,3
 01-0162,Die Punkies,,Bühne frei für die Punkies,de-de,audio-play,,,1,1,1,1
 01-0163,Kleiner Eisbär,,"Lars, hilf mir fliegen!/ Lars rettet die Rentiere",de-de,audio-play,,,1,1,1,2
@@ -132,7 +132,7 @@ article,series,series-id,episode,language,category,shop-id,web,data-sets,id-sets
 01-0181,Der Räuber Hotzenplotz,,Hotzenplotz 3,de-de,Hörspiele & Hörbücher,,,1,1,1,1
 01-0182,TKKG Junior,,Vorsicht: bissig!,de-de,audio-play,,,1,1,1,3
 01-0183,TKKG Junior,tkkg-junior,Auf frischer Tat ertappt,de-de,audio-play,fe29fd46-5ab6-4c43-b1b2-fa97a3e88089,https://tonies.com/de-de/tonies/tkkg-junior/auf-frischer-tat-ertappt/,1,1,1,3
-01-0184,Disney,disney,Cars,de-de,audio-play,303266df-8422-46ac-a681-93480b344693,https://tonies.com/de-de/tonies/disney/cars/,1,2,0,1
+01-0184,Disney,disney,Cars,de-de,audio-play,303266df-8422-46ac-a681-93480b344693,https://tonies.com/de-de/tonies/disney/cars/,1,2,1,1
 01-0186,Zogg,,Zogg/Tommi Tatze,de-de,audio-play-songs,,,1,1,1,2
 01-0187,Räuber Ratte,,Räuber Ratte/Superwurm,de-de,audio-play-songs,,,1,1,1,2
 01-0188,Safiras,safiras,Nanami und das traumhafte Tuch/Ninazu und das grüne Zauberbonbon,de-de,audio-play,2c4363d8-bdd6-4d7a-93f7-e2cdc6a23f9c,https://tonies.com/de-de/tonies/safiras/nanami-und-das-traumhafte-tuch/,1,1,1,2
@@ -272,7 +272,7 @@ article,series,series-id,episode,language,category,shop-id,web,data-sets,id-sets
 10000155,Lieblings-Klassiker,lieblings-klassiker,Eine Weihnachtsgeschichte und vier weitere Klassiker,de-de,audio-book,3d90a3b8-74c3-4d81-85f0-dd46e5ebbd85,https://tonies.com/de-de/tonies/lieblings-klassiker/eine-weihnachtsgeschichte-und-vier-weitere-klassiker/,1,1,1,2
 10000156,TKKG Junior,,Der rote Retter,de-de,audio-play,,,1,1,1,1
 10000157,Wickie,wickie,Tanz mit dem Wolf und sechs weitere Episoden,de-de,audio-play,4deb87fa-9827-44ec-a47f-37ec82a020c6,https://tonies.com/de-de/tonies/wickie/tanz-mit-dem-wolf-und-sechs-weitere-episoden/,2,4,1,1
-10000158,Die drei ???,die-drei-fragezeichen,Der Super-Papagei,de-de,audio-play,659caea6-36b9-43c1-a38e-525d12383798,https://tonies.com/de-de/tonies/die-drei-fragezeichen/der-super-papagei/,4,7,3,2
+10000158,Die drei ???,die-drei-fragezeichen,Der Super-Papagei,de-de,audio-play,659caea6-36b9-43c1-a38e-525d12383798,https://tonies.com/de-de/tonies/die-drei-fragezeichen/der-super-papagei/,4,6,3,2
 10000159,Creative-Tonie,,Builder,en-gb,Creative-Tonies,,,1,0,0,0
 10000160,Favourite Children’s Songs,,Animal Songs,en-gb,audio-play,,,1,1,1,2
 10000161,Favourite Classics,,Peter Pan and other classic stories,en-gb,audio-play,,,1,0,0,0
@@ -435,7 +435,7 @@ article,series,series-id,episode,language,category,shop-id,web,data-sets,id-sets
 10000513,Disney & Pixar,,Finding Nemo,en-us,Tonie,5519143960727,,1,0,0,0
 10000515,Disney,,Mulan,en-us,Tonie,7011184312471,,1,0,0,0
 10000517,Disney & Pixar,,"Monsters, Inc.",en-us,Tonie,6807592665239,,1,1,1,1
-10000524,Feuerwehrmann Sam,feuerwehrmann-sam,Eine Insel voller Abenteuer,de-de,audio-play,da613d17-78e1-4083-b01b-b26b87598bb3,https://tonies.com/de-de/tonies/feuerwehrmann-sam/eine-insel-voller-abenteuer/,1,1,0,1
+10000524,Feuerwehrmann Sam,feuerwehrmann-sam,Eine Insel voller Abenteuer,de-de,audio-play,da613d17-78e1-4083-b01b-b26b87598bb3,https://tonies.com/de-de/tonies/feuerwehrmann-sam/eine-insel-voller-abenteuer/,1,1,1,1
 10000525,Rund um die Welt mit Fuchs und Schaf,rund-um-die-welt-mit-fuchs-und-schaf,Osaka & Serengeti,de-de,audio-play,0da6d5b5-0ccb-4c58-bbff-fe1ff80952aa,https://tonies.com/de-de/tonies/rund-um-die-welt-mit-fuchs-und-schaf/rund-um-die-welt-mit-fuchs-und-schaf/,1,2,2,2
 10000526,Disney,disney,Vaiana,de-de,audio-play-songs,0b68e480-1da3-4d32-ac0f-0e4ea3f4d312,https://tonies.com/de-de/tonies/disney/vaiana/,1,1,1,2
 10000527,Affenzahn Utopia,affenzahn-utopia,Die Abenteuer von Affenzahn,de-de,audio-play,5c95a316-38c5-4038-b52a-c7ca736e3084,https://tonies.com/de-de/tonies/affenzahn-utopia/die-abenteuer-von-affenzahn/,1,1,1,2
@@ -445,7 +445,7 @@ article,series,series-id,episode,language,category,shop-id,web,data-sets,id-sets
 10000531,Kids Classical Music,kids-classical-music,Peter & the Wolf / Carnival of the Animals,en-gb,audio-book-songs,a8d9ab25-f5cf-43bb-94ae-4341cf9045c4,https://tonies.com/en-gb/tonies/kids-classical-music/peter-the-wolf-carnival-of-the-animals/,1,0,0,0
 10000534,Creative-Tonie,,Pirate,en-us,Creative Tonie,5519049130135,,1,0,0,0
 10000537,Creative-Tonie,,Superhero - Blue/Red,en-us,Creative Tonie,6220672303255,,1,0,0,0
-10000538,Playtime Songs,,,en-us,Tonie,5519401975959,,1,1,0,1
+10000538,Playtime Songs,,,en-us,Tonie,5519401975959,,1,1,1,1
 10000539,Bedtime Songs & Lullabies,,,en-us,Tonie,5519468626071,,1,1,1,1
 10000540,Celebration Songs,,,en-us,Tonie,5519481045143,,1,0,0,0
 10000541,Julia Donaldson,,The Gruffalo,en-us,Tonie,5458365776023,,1,0,0,0
@@ -524,7 +524,7 @@ article,series,series-id,episode,language,category,shop-id,web,data-sets,id-sets
 10000669,Roald Dahl,roald-dahl,Revolting Rhymes and Dirty Beasts,en-gb,audio-book,34d9f738-e578-4fb2-8239-8b72da313cef,https://tonies.com/en-gb/tonies/roald-dahl/revolting-rhymes/,1,0,0,0
 10000670,Bing,bing,Bing Bunny,en-gb,audio-play,665b61f6-abf6-4e3f-9565-c152d524743f,https://tonies.com/en-gb/tonies/bing/bing/,1,0,0,0
 10000671,Disney,disney,Die Eiskönigin 2,de-de,audio-play-songs,2fe74d1e-2e0a-4a13-b813-beb6c3c7bb33,https://tonies.com/de-de/tonies/disney/die-eiskoenigin-2/,1,2,1,1
-10000672,Disney,disney,Coco,de-de,audio-play-songs,35783b5f-eae6-4837-90be-492d47251556,https://tonies.com/de-de/tonies/disney/coco/,1,1,0,1
+10000672,Disney,disney,Coco,de-de,audio-play-songs,35783b5f-eae6-4837-90be-492d47251556,https://tonies.com/de-de/tonies/disney/coco/,1,1,1,1
 10000674,Disney,disney,Frozen 2,en-gb,audio-play-songs,39bbbc2b-23d3-4c00-a453-c13c9480b861,https://tonies.com/en-gb/tonies/disney/frozen-2/,1,0,0,0
 10000675,Disney,disney,Bambi,en-gb,audio-play-songs,140747e8-c61d-464a-a50e-a1ae45929ecc,https://tonies.com/en-gb/tonies/disney/bambi/,1,0,0,0
 10000676,Disney,disney,Beauty and the Beast,en-gb,audio-book-songs,579360f6-840b-47f3-95ea-85bc7eda9a74,https://tonies.com/en-gb/tonies/disney/the-beauty-and-the-beast/,1,1,0,0
@@ -928,7 +928,7 @@ article,series,series-id,episode,language,category,shop-id,web,data-sets,id-sets
 10001683,Woozle Goozle,woozle-goozle,Luft & Elektrizität,de-de,audio-play,6aae74fc-1456-42a0-9f5b-4995fe99cc90,https://tonies.com/de-de/tonies/woozle-goozle/luft-elektrizitt/,1,1,0,0
 10001684,Zoés Zauberschrank,zoes-zauberschrank,Eule / Regenbogenrätsel / Schatz Ahoi / Farbe Rosa,de-de,audio-play,0aff8f77-8e0f-4231-af87-a5b2458d7cb4,https://tonies.com/de-de/tonies/zoes-zauberschrank/eule-regenbogenrtsel-schatz-ahoi-farbe-rosa/,1,1,1,1
 10001685,DIKKA,dikka,Oh Yeah!,de-de,music,45360f19-f88d-43d1-ac82-4646436d91cc,https://tonies.com/de-de/tonies/dikka/oh-yeah/,1,1,1,1
-10001686,Asterix,asterix,Die goldene Sichel,de-de,audio-play,c5075d5c-9596-4f19-99be-3aeb123695ab,https://tonies.com/de-de/tonies/asterix/die-goldene-sichel/,1,0,0,1
+10001686,Asterix,asterix,Die goldene Sichel,de-de,audio-play,c5075d5c-9596-4f19-99be-3aeb123695ab,https://tonies.com/de-de/tonies/asterix/die-goldene-sichel/,1,1,1,1
 10001690,Peppa Pig,peppa-pig,Gute-Nacht Geschichten mit Peppa,de-de,audio-play,da3eeda1-394f-4dec-b23a-f6f0e14e8dd0,https://tonies.com/de-de/tonies/peppa-pig/gute-nacht-geschichten-mit-peppa/,1,1,0,0
 10001691,Caillou,caillou,Sternschnuppen und weitere Geschichten,de-de,audio-play,821d2e7c-7df6-4d70-96ef-09f2cdc2d189,https://tonies.com/de-de/tonies/caillou/sternschnuppen-und-weitere-geschichten/,1,0,0,0
 10001693,Rolf Zuckowski,rolf-zuckowski,Rolfs Hasengeschichte,de-de,audio-book-songs,60f9f424-d22f-438c-9b30-2cc87f3a71e7,https://tonies.com/de-de/tonies/rolf-zuckowski/rolfs-hasengeschichte/,1,2,1,1
@@ -1034,7 +1034,7 @@ article,series,series-id,episode,language,category,shop-id,web,data-sets,id-sets
 10002136,PAW Patrol,paw-patrol,Ein neuer Fellfreund,de-de,audio-play,2c3495cc-0c5e-43f7-8ce9-2f6909951664,https://tonies.com/de-de/tonies/paw-patrol/ein-neuer-fellfreund/,1,1,1,1
 10002137,Jan Brett Collection,,,en-us,Tonie,7953348198551,,1,0,0,0
 10002140,Leo's Day,,Routines,en-us,Tonie,8020002308247,,1,0,0,0
-10002145,Disney,disney,Das ist ja zum Flattern & drei weitere Geschichten,de-de,audio-play,366ad0a2-b551-4453-bca6-edf757446c36,https://tonies.com/de-de/tonies/disney/vampirina-das-ist-ja-zum-flattern-drei-weitere-geschichten/,1,0,0,1
+10002145,Disney,disney,Das ist ja zum Flattern & drei weitere Geschichten,de-de,audio-play,366ad0a2-b551-4453-bca6-edf757446c36,https://tonies.com/de-de/tonies/disney/vampirina-das-ist-ja-zum-flattern-drei-weitere-geschichten/,1,1,1,1
 10002150,Tonies Collection Bundle,,Disney Adventure Tonie Collection,en-gb,audio-play,,,1,0,0,0
 10002164,Tonies Collection Bundle,,Disney Little Explorers Tonies Collection,en-gb,audio-play,,,1,0,0,0
 10002165,Tonies Collection Bundle,,Preschool Classics Tonie Collection,en-gb,audio-play,,,1,0,0,0
