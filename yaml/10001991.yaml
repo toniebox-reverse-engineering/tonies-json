@@ -14,5 +14,10 @@ data:
   sample: https://cdn.tonies.de/o/audio_samples/3905af9e80e66ea7f8be4da14976077815048e3f45a0ee4427fb909d/hoerprobe_10001991_feuerwehrmann_sam_wettlauf_gegen_die_zeit.mp3
   web: https://tonies.com/de-de/tonies/feuerwehrmann-sam/fs-wettlauf-gegen-die-zeit/
   shop-id: 038bed75-e2fd-4770-bb9a-0eb28b8bb34c
-  track-desc: []
+  track-desc:
+  - Der Weltraumzug
+  - Verschollen Im Schneesturm
+  - Tom Lässt Sich Treiben
+  - Der Doppelte Elvis
+  - Der Rekordbär
   ids: []

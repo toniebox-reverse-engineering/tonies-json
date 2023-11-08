@@ -14,7 +14,12 @@ data:
   sample: https://cdn.tonies.de/o/audio_samples/2b6ee35f739b67e8073ede0c03269ddd971af9f7d9a28956858b1f51/horprobe_feuerwehrmann_sam_eine_insel_voller_abenteuer_ext.mp3
   web: https://tonies.com/de-de/tonies/feuerwehrmann-sam/eine-insel-voller-abenteuer/
   shop-id: da613d17-78e1-4083-b01b-b26b87598bb3
-  track-desc: []
+  track-desc:
+  - Fußball gegen Wissenschaft
+  - SOS auf Pontypandy Eiland
+  - Balance auf dem Baumhaus
+  - Gefangen in der Schlucht
+  - Ameisenalarm
   ids:
   - audio-id: 1614018035
     hash: 4e0bcb589462786c497457bfc3a05d24c8d813ec
