@@ -12,8 +12,8 @@ data:
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/02-0002-98-0068-ST1--dDoXAGvv.png
   sample: null
-  web: null
-  shop-id: null
+  web: https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-beere/
+  shop-id: 7f7234e7-44ae-49f0-99f3-2fe02a2c03f6
   track-desc: []
   ids:
   - audio-id: 1

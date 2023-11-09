@@ -12,8 +12,8 @@ data:
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000238-50001203-b-tkhdzZU2.png
   sample: null
-  web: null
-  shop-id: null
+  web: https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-fee/
+  shop-id: 03d1968b-2b1e-4fad-97f7-dfef526809a5
   track-desc: []
   ids:
   - audio-id: 1

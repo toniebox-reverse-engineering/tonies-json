@@ -12,8 +12,8 @@ data:
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/02-0007-a-mbMUqEJy.png
   sample: null
-  web: null
-  shop-id: null
+  web: https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-pirat/
+  shop-id: a00b39e6-c3b8-497c-9aa8-16f0bc936261
   track-desc: []
   ids:
   - audio-id: 1

@@ -12,7 +12,7 @@ data:
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000964-50003167-ST-fTx5N0I5.png
   sample: null
-  web: null
-  shop-id: null
+  web: https://tonies.com/de-de/kreativ-tonies/kt-blau-hellbraun/
+  shop-id: ad28b5a1-92ae-4be8-922f-ba7fe4abbe8d
   track-desc: []
   ids: []

@@ -12,7 +12,7 @@ data:
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000613-50001937-b-nO-fkmsg.png
   sample: null
-  web: null
-  shop-id: null
+  web: https://tonies.com/de-de/kreativ-tonies/zauberer/
+  shop-id: 4730b17b-0938-44fe-a4c0-40f70b881a0a
   track-desc: []
   ids: []

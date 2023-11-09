@@ -12,8 +12,8 @@ data:
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/02-0026-b-BIrvDJkO.png
   sample: null
-  web: null
-  shop-id: null
+  web: https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-einhorn/
+  shop-id: 78fb7f62-739b-42fa-96b5-b70c9dc4f577
   track-desc: []
   ids:
   - audio-id: 1

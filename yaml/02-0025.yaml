@@ -12,8 +12,8 @@ data:
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/02-0025-98-0375-b-Ug3JQD3r.png
   sample: null
-  web: null
-  shop-id: null
+  web: https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-opa/
+  shop-id: a45877a3-1a1f-43d5-ac63-aabdecbcf5f2
   track-desc: []
   ids:
   - audio-id: 1

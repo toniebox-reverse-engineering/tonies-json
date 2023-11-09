@@ -12,8 +12,8 @@ data:
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/02-0034-98-0579-b-ztctglzo.png
   sample: null
-  web: null
-  shop-id: null
+  web: https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-superheld-maedchen/
+  shop-id: 4da40a50-dbb4-4683-bda3-ad023f7825bb
   track-desc: []
   ids:
   - audio-id: 1

@@ -12,8 +12,8 @@ data:
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/02-0032-98-0517-b-sPki-aR6.png
   sample: null
-  web: null
-  shop-id: null
+  web: https://tonies.com/de-de/kreativ-tonies/weihnachtsmann/
+  shop-id: 48128eb1-1962-4019-b82d-57de6c2079b9
   track-desc: []
   ids:
   - audio-id: 1

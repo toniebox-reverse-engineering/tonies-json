@@ -12,8 +12,8 @@ data:
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/02-0028-98-0426-b-WZM8scyZ.png
   sample: null
-  web: null
-  shop-id: null
+  web: https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-skater/
+  shop-id: 762519c1-e92b-4597-8c4d-3495395172d0
   track-desc: []
   ids:
   - audio-id: 1

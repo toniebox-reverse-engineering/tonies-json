@@ -12,8 +12,8 @@ data:
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000164-50000544-ST-jG0YQTOM.png
   sample: null
-  web: null
-  shop-id: null
+  web: https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-anthrazit/
+  shop-id: 02cf740a-4bac-4f80-82db-3bbeb9c9d6e9
   track-desc: []
   ids:
   - audio-id: 1

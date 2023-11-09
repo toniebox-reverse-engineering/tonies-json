@@ -12,8 +12,8 @@ data:
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000097-98-1003-b-QW4KAnWE.png
   sample: null
-  web: null
-  shop-id: null
+  web: https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-osterhase/
+  shop-id: d5850a60-be2f-4b38-9367-b19de4b6d776
   track-desc: []
   ids:
   - audio-id: 1

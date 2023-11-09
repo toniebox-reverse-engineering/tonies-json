@@ -12,8 +12,8 @@ data:
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/02-0003-98-0069-ST1--pqfYTcIy.png
   sample: null
-  web: null
-  shop-id: null
+  web: https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-blau/
+  shop-id: 5da2e523-f9ce-4600-a61e-16972d643282
   track-desc: []
   ids:
   - audio-id: 1

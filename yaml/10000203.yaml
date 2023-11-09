@@ -12,8 +12,8 @@ data:
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000203-50000823-b-VheHKzQz.png
   sample: null
-  web: null
-  shop-id: null
+  web: https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-dirigent/
+  shop-id: 52305f10-e880-4856-b65d-4b2e2250b303
   track-desc: []
   ids:
   - audio-id: 1

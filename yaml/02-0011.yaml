@@ -12,8 +12,8 @@ data:
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/02-0011-98-0121-b-gyLxpr2U.png
   sample: null
-  web: null
-  shop-id: null
+  web: https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-prinzessin/
+  shop-id: 4d944ea2-d6d2-4825-b0c3-26f0cbe5fd5b
   track-desc: []
   ids:
   - audio-id: 1

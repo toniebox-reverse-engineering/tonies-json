@@ -12,7 +12,7 @@ data:
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000280-50001649-b-pLbsE7do.png
   sample: null
-  web: null
-  shop-id: null
+  web: https://tonies.com/de-de/kreativ-tonies/kt-monster/
+  shop-id: 39dfd3a7-3d25-4a7b-bf7b-1149fa273f0b
   track-desc: []
   ids: []

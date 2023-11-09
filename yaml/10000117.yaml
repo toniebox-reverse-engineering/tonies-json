@@ -12,8 +12,8 @@ data:
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000117-98-1050-b-CX31szTQ.png
   sample: null
-  web: null
-  shop-id: null
+  web: https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-clown/
+  shop-id: 251bf3a7-5e59-4941-8257-6041c3240aea
   track-desc: []
   ids:
   - audio-id: 1

@@ -12,8 +12,8 @@ data:
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/02-0027-98-0413-b-XHuXmDUl.png
   sample: null
-  web: null
-  shop-id: null
+  web: https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-bauarbeiter/
+  shop-id: 15a11da3-fba2-4663-90a5-32ac88ee5ed8
   track-desc: []
   ids:
   - audio-id: 1
