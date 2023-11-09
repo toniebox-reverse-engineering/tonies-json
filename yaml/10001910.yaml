@@ -1,9 +1,9 @@
 article: '10001910'
 lock-data: false
 data:
-- series: null
+- series: Arsène Lupin
   series-id: null
-  episode: Arsène Lupin
+  episode: null
   release: 1701907200
   language: fr-fr
   category: audio-play
