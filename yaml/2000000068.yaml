@@ -1,0 +1,18 @@
+article: '2000000068'
+lock-data: false
+data:
+- series: Benjamin Blümchen
+  series-id: benjamin-bluemchen
+  episode: Der kleine Ausreißer
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_ef8052dc1c359138f5b1c63ca2b0f19a37f3994666ba0520f564cc9f/3_kBtcY~6skQjhLJjh/benjamin_blumchen_084_der_kleine_ausreier_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/der-kleine-ausreier/
+  shop-id: ee33bf52-a9a6-4eee-98a8-7a18f7d03b04
+  track-desc: []
+  ids: []

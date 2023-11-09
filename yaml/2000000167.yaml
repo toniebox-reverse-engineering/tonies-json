@@ -1,0 +1,18 @@
+article: '2000000167'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Der Brieffreund
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_afed9aba7420d2378f04240c28e4d7a30c999199fb79c4d0442c819d/3_V73mrq-kkMl7bbCJ/bibi_blocksberg_074_der_brieffreund_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/der-brieffreund/
+  shop-id: 5d54f6c7-fb3b-4603-b80a-f457e4ede6ca
+  track-desc: []
+  ids: []

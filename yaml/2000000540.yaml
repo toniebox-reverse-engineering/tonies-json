@@ -1,0 +1,22 @@
+article: '2000000540'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Die sieben Tore
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_f62c0a690fff0fb750e45b0f12a471ed97d13f7fe550ed6dbd6eaddb/3_LpMS9y_h.zv-R_tc/the_three_108_die_sieben_tore_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/die-sieben-tore/
+  shop-id: 239f6a9a-04d6-4ac9-8d48-1a4c7a8d2167
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

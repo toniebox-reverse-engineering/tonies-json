@@ -1,0 +1,22 @@
+article: '2000000718'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Vampir im Internet
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_ee6ca0fed7fe37f093273e85b05d4b1e52567085d298bbca4f9ebd8e/3_PjGz3y619y.wG~~~/the_three_088_vampir_im_internet_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/vampir-im-internet/
+  shop-id: 3626ce67-4f57-4cc9-804d-6959c69f690e
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

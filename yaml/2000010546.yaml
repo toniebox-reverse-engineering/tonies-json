@@ -1,0 +1,18 @@
+article: '2000010546'
+lock-data: false
+data:
+- series: PJ Masks
+  series-id: pj-masks
+  episode: 'Folgen 59-62: Die Nacht der Katze'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/e80f9a3c7e37a7d725d6bde235a64d5bcf48a934250ededd6694eebe/3_~zJNGgLNTYYZMy-s/pj_masks_059_folgen_59_62__die_nacht_der_katze_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/pj-masks/folgen-59-62-die-nacht-der-katze/
+  shop-id: 1cfbee96-c12f-41f4-916e-5661bf054d59
+  track-desc: []
+  ids: []

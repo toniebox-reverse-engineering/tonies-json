@@ -1,0 +1,18 @@
+article: '2000000341'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Ein Pferd für Tante Paula
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_b6949dbf9e0abe66fe620000d2cca8166172210a0bca687e01712d00/3_vwvQGtGmF24vwwsW/bibi_tina_023_ein_pferd_fur_tante_paula_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/ein-pferd-fur-tante-paula/
+  shop-id: bebbce4a-d0db-4250-9cb0-dae4ef6d98a3
+  track-desc: []
+  ids: []

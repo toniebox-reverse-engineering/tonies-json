@@ -1,0 +1,22 @@
+article: '2000000667'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und der riskante Ritt
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_9781293ee5b2a010d659106cf2d1f9219be07d7130d4be83bba2b116/3_8ByMF7Z_8pxxJdZs/die_drei_051_und_der_riskante_ritt_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-der-riskante-ritt/
+  shop-id: f8f2118b-3108-4917-a9cb-6622616688b4
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

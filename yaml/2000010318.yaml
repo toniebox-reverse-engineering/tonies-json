@@ -1,0 +1,18 @@
+article: '2000010318'
+lock-data: false
+data:
+- series: PJ Masks
+  series-id: pj-masks
+  episode: PJ Masks - Cuentos para dormir de tres minutos
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/616e725e83aa3ab1ac60928a69b4687f37edb2e95be78a76dbb1f714/3_b840LCrmZw0wzbWK/pj_masks_pj_masks_cuentos_para_dormir_de_tres__530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/pj-masks/pj-masks-cuentos-para-dormir-de-tres-minutos/
+  shop-id: 78c1b874-6f82-4413-9f17-0371cb2e1d37
+  track-desc: []
+  ids: []

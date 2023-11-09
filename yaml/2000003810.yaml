@@ -1,0 +1,30 @@
+article: '2000003810'
+lock-data: false
+data:
+- series: 100% Wolf
+  series-id: 100-wolf
+  episode: 'Folge 22: Findet Ivan!'
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/d0aba7dd71ba83da194db7c19a3bf712528b3505697bd3ec2d697316/3_B6SG2lj8VhXgVg6b/100_wolf_horspiel_zur_tv_serie_022_folge_22_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/100-wolf/100-wolf-folge-22-findet-ivan/
+  shop-id: 428e2872-f089-4749-b5ea-33cf9a7b5f3a
+  track-desc:
+  - 22 - Findet Ivan! (Inhaltsangabe)
+  - 100% Wolf Titelmusik
+  - 22 - Findet Ivan! (Teil 01)
+  - 22 - Findet Ivan! (Teil 02)
+  - 22 - Findet Ivan! (Teil 03)
+  - 22 - Findet Ivan! (Teil 04)
+  - 22 - Findet Ivan! (Teil 05)
+  - 22 - Findet Ivan! (Teil 06)
+  - 22 - Findet Ivan! (Teil 07)
+  - 22 - Findet Ivan! (Teil 08)
+  - 22 - Findet Ivan! (Teil 09)
+  - 22 - Findet Ivan! (Outro)
+  ids: []

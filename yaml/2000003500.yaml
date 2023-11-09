@@ -1,0 +1,18 @@
+article: '2000003500'
+lock-data: false
+data:
+- series: Die Playmos
+  series-id: die-playmos
+  episode: Dem Betrüger auf der Spur
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_5aad95ca294683c567682025c7b57a771c0f0126a9b55bd935ae6631/3_vXy.BMzTH37b.NGR/die_playmos_075_dem_betruger_auf_der_spur_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-playmos/die-playmos-das-original-playmobil-horspiel-folge/
+  shop-id: 5dc3bcf5-805f-46b2-93e8-7e3214962897
+  track-desc: []
+  ids: []

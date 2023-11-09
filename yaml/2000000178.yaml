@@ -1,0 +1,18 @@
+article: '2000000178'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Der neue Hexenbesen
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_d2018c080bae3f91ff9a29a602db680da8d2454b31052f88db3781ca/3_Z8g.yB0F_jDjmMxr/bibi_blocksberg_029_der_neue_hexenbesen_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/der-neue-hexenbesen/
+  shop-id: 0b026f47-f668-42b8-81a8-298738f73ecc
+  track-desc: []
+  ids: []

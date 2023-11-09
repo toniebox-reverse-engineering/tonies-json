@@ -1,0 +1,18 @@
+article: '2000000157'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Das Sportfest
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_456544ec6f9a43018fdac838cda1e071542464a9f5b71e2fc3722212/3_3~K79_DwrjQjw3Hc/bibi_blocksberg_019_das_sportfest_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/das-sportfest/
+  shop-id: 5b4ebf59-3c6e-4b6d-b91d-19b934b1683d
+  track-desc: []
+  ids: []

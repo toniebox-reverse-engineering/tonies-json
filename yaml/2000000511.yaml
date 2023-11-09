@@ -1,0 +1,22 @@
+article: '2000000511'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Das leere Grab
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_f5c130e54add5d02153499d6f3e08ae9feeeffde062ab8a15bd5ee26/3_ZPZy8B_n6LNZHSht/the_three_078_das_leere_grab_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/das-leere-grab/
+  shop-id: 943e2c5c-5777-444b-9452-256c34f5c45e
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

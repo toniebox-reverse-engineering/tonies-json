@@ -1,0 +1,18 @@
+article: '2000000214'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Die vertauschte Hexenkugel
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_6b260233256c7e64967156e24085ec5a7b1a16c6c38206044e76e947/3_mXnNQ~K7R8Hk.qcn/bibi_blocksberg_087_die_vertauschte_hexenkugel_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/die-vertauschte-hexenkugel/
+  shop-id: 12e3a3ef-1e5e-4a10-a36b-171d79028bc5
+  track-desc: []
+  ids: []

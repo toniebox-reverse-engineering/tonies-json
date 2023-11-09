@@ -1,0 +1,36 @@
+article: '2000002921'
+lock-data: false
+data:
+- series: 100% Wolf
+  series-id: 100-wolf
+  episode: 'Folge 11: Cherry'
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_de60182ee91cd5ff3eae2bb72f8e571fd9065f2fa279fea0465bc708/3_jR7R_V-rD0qXPGHy/100_wolf_horspiel_zur_tv_serie_011_folge_11_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/100-wolf/100-wolf-folge-11-cherry/
+  shop-id: 5ca4997f-3c7c-4e45-a631-3d4f40ff71d7
+  track-desc:
+  - 11 - Cherry (Inhaltsangabe)
+  - 100% Wolf Titelmusik
+  - 11 - Cherry (Teil 01)
+  - 11 - Cherry (Teil 02)
+  - 11 - Cherry (Teil 03)
+  - 11 - Cherry (Teil 04)
+  - 11 - Cherry (Teil 05)
+  - 11 - Cherry (Teil 06)
+  - 11 - Cherry (Teil 07)
+  - 11 - Cherry (Teil 08)
+  - 11 - Cherry (Teil 09)
+  - 11 - Cherry (Teil 10)
+  - 11 - Cherry (Teil 11)
+  - 11 - Cherry (Teil 12)
+  - 11 - Cherry (Teil 13)
+  - 11 - Cherry (Teil 14)
+  - 11 - Cherry (Teil 15)
+  - 11 - Cherry (Outro)
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000003211'
+lock-data: false
+data:
+- series: Schleich Dinosaurs
+  series-id: schleich-dinosaurs
+  episode: 'Folgen 03-04: In der Klemme'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_5e0978920cb5ecb21b5b5bedf25269cdfda5850c1203e78d279684d3/3_T530hYCSCnbHrVR6/schleich_dinosaurs_003_folgen_03_04__in_der_kl_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/schleich-dinosaurs/folgen-03-04-in-der-klemme/
+  shop-id: f478b225-9a99-40ce-ab9e-aac7c4951350
+  track-desc: []
+  ids: []

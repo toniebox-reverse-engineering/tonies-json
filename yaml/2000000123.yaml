@@ -1,0 +1,18 @@
+article: '2000000123'
+lock-data: false
+data:
+- series: Benjamin Blümchen
+  series-id: benjamin-bluemchen
+  episode: und der Delfin
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_e5331011f4fcb8c1dc2c262be5fbd547b91599041571d3fb4a30ea88/3_ghHM8JBQk8bZXGb8/benjamin_blumchen_114_und_der_delfin_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/und-der-delfin/
+  shop-id: 5fa0f72a-a6c1-4eb7-a7d6-975aa3ccd745
+  track-desc: []
+  ids: []

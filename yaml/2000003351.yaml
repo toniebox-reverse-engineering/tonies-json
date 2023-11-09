@@ -1,0 +1,18 @@
+article: '2000003351'
+lock-data: false
+data:
+- series: LEGO City
+  series-id: lego-city
+  episode: Folge 20 - Bergpolizei - Am Abgrund
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 7
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_08f19c7b2976d514c5a77d19fc223adf0f2076a1c41aea1fd91223f6/3_cSbBJBxL4vf0f_Fl/lego_city_020_folge_20_bergpolizei_am_abgr_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-city/lego-city-folge-20-bergpolizei-am-abgrund/
+  shop-id: 828b512d-db2d-4d05-98e9-fa980a5979cb
+  track-desc: []
+  ids: []

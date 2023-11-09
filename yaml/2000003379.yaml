@@ -1,0 +1,18 @@
+article: '2000003379'
+lock-data: false
+data:
+- series: LEGO Ninjago
+  series-id: lego-ninjago
+  episode: 'Folgen 25-26: Garmadons neue Maschine'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_a6ffe7cf9a8db5e4e9745bb8fa60a7e90e765f107373a73d8cc45e37/3_6H16F_Srrftv8yS0/lego_ninjago_025_folgen_25_26__garmadons_neue__530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-25-26-garmadons-neue-maschine/
+  shop-id: 16b0ef80-40de-4fad-a424-c2159dc448c7
+  track-desc: []
+  ids: []

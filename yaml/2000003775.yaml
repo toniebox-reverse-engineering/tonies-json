@@ -1,0 +1,18 @@
+article: '2000003775'
+lock-data: false
+data:
+- series: Der junge Sherlock Holmes
+  series-id: der-junge-sherlock-holmes
+  episode: Die Zeitmaschine
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 11
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/bf3c0f0c809855e2d8cda436387231b2add284db0f75f16c1b3dfc85/3_~xxFW9cB85n3-png/der_junge_sherlock_holmes_011_die_zeitmaschine_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/der-junge-sherlock-holmes/der-junge-sherlock-holmes-folge-11-die-zeitmaschin/
+  shop-id: 3c52bafb-0e2d-4ffa-a627-56692a3a0f7d
+  track-desc: []
+  ids: []

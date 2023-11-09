@@ -1,0 +1,22 @@
+article: '2000000699'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und die flüsternden Puppen
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_1b4721dcf657c8b8d6ab18d9df9c8b9b9cd4e4ff3a646e54bbe16e7b/3_wbkvbqlFLwvYCHPm/die_drei_180_und_die_flusternden_puppen_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-die-flusternden-puppen/
+  shop-id: cd196b04-7d2a-4c2d-9ca9-4e7ccc415860
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

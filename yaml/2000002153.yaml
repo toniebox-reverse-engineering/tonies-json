@@ -1,0 +1,18 @@
+article: '2000002153'
+lock-data: false
+data:
+- series: Conni
+  series-id: conni
+  episode: Conni und die verflixte 13
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_6ef67edb34283629a8234a21315fcf3a2067a7e1884e6c1c3b61e514/3_mHfsk1wtDqXZSM~B/conni_conni_und_die_verflixte_13_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/conni/conni-und-die-verflixte-13/
+  shop-id: a2f7c698-31df-43fe-8d94-4703d132db9a
+  track-desc: []
+  ids: []

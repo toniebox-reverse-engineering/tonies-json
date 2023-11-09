@@ -1,0 +1,18 @@
+article: '2000003041'
+lock-data: false
+data:
+- series: PAW Patrol
+  series-id: paw-patrol
+  episode: 'Folgen 195-198: Die Halloween-Party'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/31c28911f1157dca09a587a78e68221e11d3b72169d06328418b7426/3_~6-FCpS.t.kx0~Gg/paw_patrol_195_folgen_195_198__die_halloween_p_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-195-198-die-halloween-party/
+  shop-id: 77a6bb7f-c071-44f0-a0c1-d85fdf0221c6
+  track-desc: []
+  ids: []

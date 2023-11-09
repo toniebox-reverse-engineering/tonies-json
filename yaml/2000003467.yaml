@@ -1,0 +1,18 @@
+article: '2000003467'
+lock-data: false
+data:
+- series: LEGO Friends
+  series-id: lego-friends
+  episode: 'Folgen 72-76: Ferien im Dschungel'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_19792e27ddfdfe8a2bd7208795ffc6b37bd2372de30ab05f216e2b43/3_bfLxPVkqyvBGHdxx/lego_friends_072_folgen_72_76__ferien_im_dschu_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-friends/folgen-72-76-ferien-im-dschungel/
+  shop-id: ff9da68c-305b-4a6e-805b-49a3b384c700
+  track-desc: []
+  ids: []

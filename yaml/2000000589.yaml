@@ -1,0 +1,22 @@
+article: '2000000589'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Musik des Teufels
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_8ecc5972a78dfbcbce37d84a3d2fcb64ff3a4d5f1025362d516f2982/3_PwdPyGbzB1grR_5J/the_three_084_musik_des_teufels_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/musik-des-teufels/
+  shop-id: c51e5c7b-bf2c-4c05-9103-01b72f4c7fa8
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

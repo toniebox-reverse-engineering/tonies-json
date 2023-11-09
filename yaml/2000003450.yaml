@@ -1,0 +1,18 @@
+article: '2000003450'
+lock-data: false
+data:
+- series: LEGO Friends
+  series-id: lego-friends
+  episode: 'Folge 18: Mias Snowboardrennen'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_4a496bd1bdee66fe8b2a9febdf6857dba41e1e867bf8d04649f188c3/3_xzVmxXpz36gMzqds/lego_friends_018_folge_18__mias_snowboardrenne_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-friends/lego-friends-folge-18-mias-snowboardrennen/
+  shop-id: f5bbbcb8-0a00-4f24-8222-4c27380809b1
+  track-desc: []
+  ids: []

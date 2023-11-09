@@ -1,0 +1,22 @@
+article: '2000000684'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und der unsichtbare Passagier
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_e88d1896152c720eaff779f453f5a0fb862bfcac40d7d48e42111d1b/3_Xzr5TQZZ-y66mYXz/the_three_189_und_der_unsichtbare_passagie_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-der-unsichtbare-passagier/
+  shop-id: 7c100e34-f7cc-4850-ab63-cd9be30b9306
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

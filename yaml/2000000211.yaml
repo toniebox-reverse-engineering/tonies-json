@@ -1,0 +1,18 @@
+article: '2000000211'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Die verbotene Hexeninsel
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_f41834b40a924abb46dc15e0318b1eeb47c0698a2bfd3af29f163da3/3_nfS0ssksmsxHFcL1/bibi_blocksberg_095_die_verbotene_hexeninsel_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/die-verbotene-hexeninsel/
+  shop-id: eab71505-6b3b-4756-a2b5-0f607ede3634
+  track-desc: []
+  ids: []

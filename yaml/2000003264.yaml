@@ -1,0 +1,18 @@
+article: '2000003264'
+lock-data: false
+data:
+- series: Pumuckl
+  series-id: pumuckl
+  episode: 'Folge 19: Pumuckl im Zoo'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_3fc95c50331edc96fbf24770220a9520c08384b27459037d4dd5fb47/3_kH8_4WDQ177l~m7G/pumuckl_019_folge_19__pumuckl_im_zoo_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-im-zoo-das-original-aus-dem-fernsehen/
+  shop-id: fbfef66b-9aa7-472a-806f-d8f4b1fbea69
+  track-desc: []
+  ids: []

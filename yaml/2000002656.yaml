@@ -1,0 +1,63 @@
+article: '2000002656'
+lock-data: false
+data:
+- series: Bob der Baumeister
+  series-id: bob-der-baumeister
+  episode: Klar Schiff
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_1bdfdcf496f550f5257c4b0f40a2d2b58cb82de1b197011b0a29ab23/3_JWc6--ZZdxv-5Hv5/bob_der_baumeister_020_klar_schiff_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bob-der-baumeister/bob-der-baumeister-klar-schiff/
+  shop-id: c9c25a7b-7e3f-495c-a76e-3d0aca6c32bf
+  track-desc:
+  - Klar Schiff (Intro)
+  - Klar Schiff (Teil 01)
+  - Klar Schiff (Teil 02)
+  - Klar Schiff (Teil 03)
+  - Klar Schiff (Teil 04)
+  - Klar Schiff (Teil 05)
+  - Klar Schiff (Teil 06)
+  - Klar Schiff (Teil 07)
+  - Klar Schiff (Teil 08)
+  - Klar Schiff (Teil 09)
+  - Klar Schiff (Teil 10)
+  - Kapitän Brauer (Intro)
+  - Kapitän Brauer (Teil 01)
+  - Kapitän Brauer (Teil 02)
+  - Kapitän Brauer (Teil 03)
+  - Kapitän Brauer (Teil 04)
+  - Kapitän Brauer (Teil 05)
+  - Kapitän Brauer (Teil 06)
+  - Kapitän Brauer (Teil 07)
+  - Kapitän Brauer (Teil 08)
+  - Kapitän Brauer (Teil 09)
+  - Kapitän Brauer (Teil 10)
+  - Das Container-Chaos (Intro)
+  - Das Container-Chaos (Teil 01)
+  - Das Container-Chaos (Teil 02)
+  - Das Container-Chaos (Teil 03)
+  - Das Container-Chaos (Teil 04)
+  - Das Container-Chaos (Teil 05)
+  - Das Container-Chaos (Teil 06)
+  - Das Container-Chaos (Teil 07)
+  - Das Container-Chaos (Teil 08)
+  - Das Container-Chaos (Teil 09)
+  - Das Container-Chaos (Teil 10)
+  - Baggi kommt vom Weg ab (Intro)
+  - Baggi kommt vom Weg ab (Teil 01)
+  - Baggi kommt vom Weg ab (Teil 02)
+  - Baggi kommt vom Weg ab (Teil 03)
+  - Baggi kommt vom Weg ab (Teil 04)
+  - Baggi kommt vom Weg ab (Teil 05)
+  - Baggi kommt vom Weg ab (Teil 06)
+  - Baggi kommt vom Weg ab (Teil 07)
+  - Baggi kommt vom Weg ab (Teil 08)
+  - Baggi kommt vom Weg ab (Teil 09)
+  - Baggi kommt vom Weg ab (Teil 10)
+  - Baggi kommt vom Weg ab (Outro)
+  ids: []

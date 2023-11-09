@@ -1,0 +1,18 @@
+article: '2000003207'
+lock-data: false
+data:
+- series: Schleich Dinosaurs
+  series-id: schleich-dinosaurs
+  episode: 'Folgen 07-08: Unterwegs im Dschungel'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_f3c147f4786ca96fcdc9b2370c398978748ac98cd940717a14d0574e/3_H_M-7QGVmWJbDR.p/schleich_dinosaurs_007_folgen_07_08__unterwegs_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/schleich-dinosaurs/folgen-07-08-unterwegs-im-dschungel/
+  shop-id: fcab3cd9-0fe9-4323-a1e0-8b143b33f5ce
+  track-desc: []
+  ids: []

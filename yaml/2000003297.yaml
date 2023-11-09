@@ -1,0 +1,18 @@
+article: '2000003297'
+lock-data: false
+data:
+- series: Pumuckl
+  series-id: pumuckl
+  episode: 'Folge 52: Pumuckl und die Tauben'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_59897f90a8a6b3c3535f1237de3f0eb02ab2603d6ed671bf9dc0bd6b/3_FjTcMHgrWFK8pxHd/pumuckl_052_folge_52__pumuckl_und_die_tauben_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-und-die-tauben-das-original-aus-dem-fernse/
+  shop-id: d817ad2c-ef45-4b82-88bd-408cfc4a4a7e
+  track-desc: []
+  ids: []

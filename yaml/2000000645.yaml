@@ -1,0 +1,22 @@
+article: '2000000645'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und der Eisenmann
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_897122fcaf79ff00fc805941d943c72333ad17f737d8c8ab92a637b4/3_qTRG.gNSHt2myMK2/the_three_172_und_der_eisenmann_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-der-eisenmann/
+  shop-id: cc29c690-743b-4f9b-91c0-1ae52f6aeeef
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

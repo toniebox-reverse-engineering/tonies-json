@@ -1,0 +1,18 @@
+article: '2000000071'
+lock-data: false
+data:
+- series: Benjamin Blümchen
+  series-id: benjamin-bluemchen
+  episode: Der Streichelzoo
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_96c65bba1109476bc75811e71f2b4b34b341d8637fc1e70da0c3a133/3_PpW8nzvNTv890srz/benjamin_blumchen_094_der_streichelzoo_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/der-streichelzoo/
+  shop-id: eee01219-598c-406c-a6c0-cc07253f44f8
+  track-desc: []
+  ids: []

@@ -1,0 +1,45 @@
+article: '2000010007'
+lock-data: false
+data:
+- series: Die drei ??? Kids
+  series-id: die-drei-kids
+  episode: 'Folge 89: Im Geistergarten'
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/2a01b545c5b9841328cdc84149ae8fc48b2f7759e1edd8593a0485dd/3_bsDYkzhhm72h.MYc/die_drei_kids_089_folge_89__im_geistergart_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-kids/die-drei-kids-folge-89-im-geistergarten/
+  shop-id: cb458043-9323-4c03-a347-8449790b2054
+  track-desc:
+  - Inhaltsangabe
+  - Die drei ??? Kids Titelsong
+  - Teil 01
+  - Teil 02
+  - Teil 03
+  - Teil 04
+  - Teil 05
+  - Teil 06
+  - Teil 07
+  - Teil 08
+  - Teil 09
+  - Teil 10
+  - Teil 11
+  - Teil 12
+  - Teil 13
+  - Teil 14
+  - Teil 15
+  - Teil 16
+  - Teil 17
+  - Teil 18
+  - Teil 19
+  - Teil 20
+  - Teil 21
+  - Teil 22
+  - Teil 23
+  - Die drei ??? Kids Schlußsong
+  - Outro
+  ids: []

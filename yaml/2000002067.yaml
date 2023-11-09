@@ -1,0 +1,18 @@
+article: '2000002067'
+lock-data: false
+data:
+- series: Die Playmos
+  series-id: die-playmos
+  episode: Gefahr im Weltall
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_28fa4558c748f6e257e2d06aece86c4f137f80a049c2585d6c61cec3/3_WGb3xsDBmr-fgsr~/die_playmos_025_gefahr_im_weltall_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-playmos/gefahr-im-weltall/
+  shop-id: 3f2c845c-a13f-4f41-97ef-67b3cf4f1b36
+  track-desc: []
+  ids: []

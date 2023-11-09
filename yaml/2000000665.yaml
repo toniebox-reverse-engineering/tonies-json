@@ -1,0 +1,22 @@
+article: '2000000665'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und der Phantomsee
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_4f7bb45370ffcd4f61e4571d7ed20279f6d959a4f869a9a244e2e879/3_hVyP.snvrqK~s2rz/the_three_002_und_der_phantomsee_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-der-phantomsee/
+  shop-id: 19e96e87-ca56-4a7c-ba1f-807fc2813c08
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

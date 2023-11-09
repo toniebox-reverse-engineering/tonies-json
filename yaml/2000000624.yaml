@@ -1,0 +1,22 @@
+article: '2000000624'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und das Aztekenschwert
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_d8ef8d2f473ca754dd5e58df6d1d8886803369eff136bff7e19856b9/3_hyHjZg0nR7HbyYkW/the_three_023_und_das_aztekenschwert_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-das-aztekenschwert/
+  shop-id: b80f55f5-094f-4b57-b04d-87651c801792
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil4
+  ids: []

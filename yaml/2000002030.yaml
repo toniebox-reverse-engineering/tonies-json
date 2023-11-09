@@ -1,0 +1,18 @@
+article: '2000002030'
+lock-data: false
+data:
+- series: Die Playmos
+  series-id: die-playmos
+  episode: Alarm im Hafen
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_ca3702af78b0fa64f01f1fc738e577436762968c56fabb35c7bb751d/3_DFcMND1hlS.72Wlg/die_playmos_011_alarm_im_hafen_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-playmos/alarm-im-hafen/
+  shop-id: 23a32108-85ae-4db8-b9ec-6eaa754cd12d
+  track-desc: []
+  ids: []

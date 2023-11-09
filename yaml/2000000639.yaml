@@ -1,0 +1,22 @@
+article: '2000000639'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und das versunkene Dorf
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_0f2d075009562a874d83fccf36de13b803b62fc41ef15d14e1a85bc7/3_Z_CrMDw8W92Qll6y/the_three_136_und_das_versunkene_dorf_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-das-versunkene-dorf/
+  shop-id: bea1af32-a372-4932-834f-fb198d662b4b
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

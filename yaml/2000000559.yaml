@@ -1,0 +1,22 @@
+article: '2000000559'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Geheimnis des Bauchredners
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_843c036c56815714af30b0bc5cad223763da6f80e715e7404b16ce17/3_1YH38~y7y32qm7bt/the_three_196_geheimnis_des_bauchredners_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/geheimnis-des-bauchredners/
+  shop-id: 76862170-bca4-4f54-bf83-3255af6a6e63
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

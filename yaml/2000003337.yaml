@@ -1,0 +1,18 @@
+article: '2000003337'
+lock-data: false
+data:
+- series: LEGO City
+  series-id: lego-city
+  episode: Folge 6 - Polizei - Die geheimnisvolle Höhle
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 7
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_2d3aea59cede3017bb9b009b11ef7e22a296add420b072cc5867d2e0/3_09x~zPVSlJmG-CG6/lego_city_006_folge_6_polizei_die_geheimni_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-city/lego-city-folge-6-polizei-die-geheimnisvolle-hohle/
+  shop-id: a6342252-0ac5-43c4-94e6-9501cb8fba71
+  track-desc: []
+  ids: []

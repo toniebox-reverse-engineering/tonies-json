@@ -1,0 +1,18 @@
+article: '2000003437'
+lock-data: false
+data:
+- series: LEGO Friends
+  series-id: lego-friends
+  episode: 'Folge 05: Der Festwagen-Wettbewerb'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_1c4ae0cc19d25d5f6e928ebdc353819dfdefb29d986ba2576eb203fd/3_NCxvBSszmWdksH7r/lego_friends_005_folge_05__der_festwagen_wettb_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-friends/lego-friends-folge-05-der-festwagen-wettbewerb/
+  shop-id: c9eb4243-577f-422d-bdb8-c1810a8a5c0a
+  track-desc: []
+  ids: []

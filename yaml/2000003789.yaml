@@ -1,0 +1,18 @@
+article: '2000003789'
+lock-data: false
+data:
+- series: Tschechische Märchen
+  series-id: tschechische-maerchen
+  episode: Die kleine Fee Farina
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/e40d8d24c3cbe48d820df464e9ceaa2123d96c08037d766709ba6cea/3_kVkfyfHxpj8hLH3r/tschechische_marchen_001_die_kleine_fee_farina_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/tschechische-maerchen/tschechische-marchen-die-kleine-fee-farina/
+  shop-id: df38f210-5781-4a1c-9173-60fcdb824f4a
+  track-desc: []
+  ids: []

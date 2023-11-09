@@ -1,0 +1,18 @@
+article: '2000003446'
+lock-data: false
+data:
+- series: LEGO Friends
+  series-id: lego-friends
+  episode: 'Folge 14: Der Backwettberwerb'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_b10f41b02813b4c7b0233307fcf78a98cce901bd84354ce51a9d1fdc/3_W~GtsPjDPD74V7.n/lego_friends_014_folge_14__der_backwettberwerb_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-friends/lego-friends-folge-14-der-backwettberwerb/
+  shop-id: 7563980b-38c1-4d3e-871d-f2361da1bcc5
+  track-desc: []
+  ids: []

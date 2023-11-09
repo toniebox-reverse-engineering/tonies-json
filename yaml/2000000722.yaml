@@ -1,0 +1,22 @@
+article: '2000000722'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Zwillinge der Finsternis
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_f5340a938599c93e084ad7e0ec34c839ef00e030a6556d0e43124af0/3_B~hPYr~62STMgZC0/die_drei_144_zwillinge_der_finsternis_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/zwillinge-der-finsternis/
+  shop-id: d4b708cc-deb8-4498-b8f7-6e59f28d68bc
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

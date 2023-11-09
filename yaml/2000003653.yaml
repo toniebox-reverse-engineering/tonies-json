@@ -1,0 +1,29 @@
+article: '2000003653'
+lock-data: false
+data:
+- series: 100% Wolf
+  series-id: 100-wolf
+  episode: 'Folge 20: Scarlet soll bleiben!'
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/ab39fc6d165a16924a73b399ca6a796dd5e2d878f3e12ef142b467c0/3_qVG-57yc_C7~bYLQ/100_wolf_horspiel_zur_tv_serie_020_folge_20_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/100-wolf/100-wolf-folge-20-scarlet-soll-bleiben/
+  shop-id: b577a911-8028-43d4-bce0-76703b766bea
+  track-desc:
+  - 20 - Scarlet soll bleiben! (Inhaltsangabe)
+  - 100% Wolf Titelmusik
+  - 20 - Scarlet soll bleiben! (Teil 01)
+  - 20 - Scarlet soll bleiben! (Teil 02)
+  - 20 - Scarlet soll bleiben! (Teil 03)
+  - 20 - Scarlet soll bleiben! (Teil 04)
+  - 20 - Scarlet soll bleiben! (Teil 05)
+  - 20 - Scarlet soll bleiben! (Teil 06)
+  - 20 - Scarlet soll bleiben! (Teil 07)
+  - 20 - Scarlet soll bleiben! (Teil 08)
+  - 20 - Scarlet soll bleiben! (Outro)
+  ids: []

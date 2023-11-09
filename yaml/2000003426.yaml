@@ -1,0 +1,18 @@
+article: '2000003426'
+lock-data: false
+data:
+- series: LEGO Ninjago - Hörbücher
+  series-id: lego-ninjago-hoerbuecher
+  episode: Morros Geister (Band 02)
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_5b87e9cd6dc035401844df445eff170d7695efcc4f203ae53c227ddb/3_92nkT_k1TlTLRwtl/lego_ninjago_horbucher_002_morros_geister_b_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-ninjago-hoerbuecher/morros-geister-band-02/
+  shop-id: 2dd655bc-5fe2-4fb3-9d95-d17e6d6b183e
+  track-desc: []
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000003383'
+lock-data: false
+data:
+- series: LEGO Ninjago
+  series-id: lego-ninjago
+  episode: 'Folgen 35-36: Die Einladung'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_74cad9b663ddd0742ce22aba54c01f1bc15fba25bf914c4fb5607917/3_0jlp9b.nTFp97b5M/lego_ninjago_035_folgen_35_36__die_einladung_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-35-36-die-einladung/
+  shop-id: 876a1ac8-7e06-4051-ac77-3c17917dafd8
+  track-desc: []
+  ids: []

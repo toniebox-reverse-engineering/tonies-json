@@ -1,0 +1,18 @@
+article: '2000003230'
+lock-data: false
+data:
+- series: Schleich Horse Club
+  series-id: schleich-horse-club
+  episode: 'Folge 08: Das verborgene Zimmer'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_15e0c75677a4514175d9eb60c1bbe9bf1e8058d45fa2a209bcb2efda/3_vB.dFmg--0v7JrnW/schleich_horse_club_008_folge_08__das_verborge_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/schleich-horse-club/folge-08-das-verborgene-zimmer/
+  shop-id: b0c3cf59-7b71-4221-938e-1b9dd9b72145
+  track-desc: []
+  ids: []

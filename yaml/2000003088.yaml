@@ -1,0 +1,18 @@
+article: '2000003088'
+lock-data: false
+data:
+- series: Sternenschweif
+  series-id: sternenschweif
+  episode: 'Teil 37: Zirkus der Träume'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_fa7256068b0082678a3a664eec81d39feacdb2ee8d593c5b1bd8dc2b/3_Fh~LBz8gw3tP~0R-/sternenschweif_037_teil_37__zirkus_der_traume_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/sternenschweif/teil-37-zirkus-der-traume/
+  shop-id: c8fce182-e276-4e79-84da-93214452ed71
+  track-desc: []
+  ids: []

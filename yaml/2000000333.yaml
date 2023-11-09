@@ -1,0 +1,18 @@
+article: '2000000333'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Die Schnitzeljagd-Falle
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_18cf0c3318bd293046ce44396bd5f338e76dc11ef9c3e73cec15cb1a/3_gg3KmBpyDd8NMN5C/bibi_tina_047_die_schnitzeljagd_falle_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/die-schnitzeljagd-falle/
+  shop-id: defae996-f48a-45a4-a7ab-e1d3b3c957b1
+  track-desc: []
+  ids: []

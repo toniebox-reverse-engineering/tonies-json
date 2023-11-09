@@ -1,0 +1,18 @@
+article: '2000003883'
+lock-data: false
+data:
+- series: PAW Patrol
+  series-id: paw-patrol
+  episode: 'Folgen 282-285: Der Robosaurus'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_39e360e5fdbd20f8f3bdf7cc78140577a90c61377b254a1e92e6c79c/3_z_Q--BRmxhNzm_HJ/paw_patrol_282_folgen_282_285__der_robosaurus_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-282-285-der-robosaurus/
+  shop-id: c5ab8947-b783-4892-8124-de0b421bd8ba
+  track-desc: []
+  ids: []

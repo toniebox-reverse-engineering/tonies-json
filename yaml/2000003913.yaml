@@ -1,0 +1,18 @@
+article: '2000003913'
+lock-data: false
+data:
+- series: LEGO Ninjago
+  series-id: lego-ninjago
+  episode: 'Folgen 191-195: Der fünfte Schurke'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/0d41f3625adaa21cd50292f4c59580e7c069a8ed2f0f0e01b2575bf3/3_yV~dgmnfqk~bK56c/lego_ninjago_191_folgen_191_195__der_funfte_sc_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-191-195-der-funfte-schurke/
+  shop-id: f8695140-b63c-4c66-b83d-f993a3bae5d9
+  track-desc: []
+  ids: []

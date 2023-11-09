@@ -1,0 +1,18 @@
+article: '2000003219'
+lock-data: false
+data:
+- series: Schleich Eldrador Creatures
+  series-id: schleich-eldrador-creatures
+  episode: 'Folge 02: Eis gegen Dschungel'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_f590430ee6ccc76aa7b8cfbb74358b56926513dbc06c135ff5cefb03/3_jvvLfT3v8fX1VHB6/schleich_eldrador_creatures_002_folge_02__eis__530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/schleich-eldrador-creatures/folge-02-eis-gegen-dschungel/
+  shop-id: 74a7c10f-85db-4381-bfae-bb17bcbff5dd
+  track-desc: []
+  ids: []

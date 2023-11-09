@@ -1,0 +1,18 @@
+article: '2000010241'
+lock-data: false
+data:
+- series: Schleich Dinosaurs
+  series-id: schleich-dinosaurs
+  episode: 'Folgen 21 - 22: Ein aufregender Flug'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/d3281c3f042866c5dadd72b8b8b0946fe15416329ad830d5281daf28/3_~t_xSSX5VhmqxTzs/schleich_dinosaurs_021_folgen_21_22__ein_auf_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/schleich-dinosaurs/folgen-21-22-ein-aufregender-flug/
+  shop-id: af2b3b33-b1cb-45d8-9d6b-209df39eb294
+  track-desc: []
+  ids: []

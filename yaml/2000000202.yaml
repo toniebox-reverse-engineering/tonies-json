@@ -1,0 +1,18 @@
+article: '2000000202'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Die Klassenreise
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_adb6414fd7a66067c21b8a892d017761733b718d0e339af93ec7c0d5/3_HsjD69gd_ZGdkjN0/bibi_blocksberg_083_die_klassenreise_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/die-klassenreise/
+  shop-id: 89d51abb-b338-447f-acdc-f461c0ea5c77
+  track-desc: []
+  ids: []

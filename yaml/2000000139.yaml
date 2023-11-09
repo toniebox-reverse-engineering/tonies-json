@@ -1,0 +1,18 @@
+article: '2000000139'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: 3x schwarzer Kater
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_23f2e02ed09479cc27155f88f2fceb6708b692a5fe1f114afbe3656d/3_-VTS6HRG9wn_Bqbh/bibi_blocksberg_022_3x_schwarzer_kater_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/3x-schwarzer-kater/
+  shop-id: 694d194c-4dcc-4190-9275-d6da5e73aede
+  track-desc: []
+  ids: []

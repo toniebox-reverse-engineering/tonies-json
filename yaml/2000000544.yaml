@@ -1,0 +1,22 @@
+article: '2000000544'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Die Villa der Toten
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_6f9c857201c7e8a53decd5fe1bcfef3957c9e86ec781dfc83024d400/3_VhWRXxwtcw-.txDV/the_three_114_die_villa_der_toten_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/die-villa-der-toten/
+  shop-id: aeb98292-94e8-4661-8d67-6b18bfe04a55
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

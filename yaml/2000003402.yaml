@@ -1,0 +1,18 @@
+article: '2000003402'
+lock-data: false
+data:
+- series: LEGO Ninjago
+  series-id: lego-ninjago
+  episode: 'Folgen 82-84: Die Zeremonie'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_a84ab83458503648a24a6560ad021da5bf456bdb0ada714ad2f967e7/3_7XmxQrhg~bBxnPcS/lego_ninjago_082_folgen_82_84__die_zeremonie_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-82-84-die-zeremonie/
+  shop-id: 9fdb8648-18c2-4a2f-9312-2f60fd8a64a4
+  track-desc: []
+  ids: []

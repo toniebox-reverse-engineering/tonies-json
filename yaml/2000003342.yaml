@@ -1,0 +1,18 @@
+article: '2000003342'
+lock-data: false
+data:
+- series: LEGO City
+  series-id: lego-city
+  episode: Folge 11 - Flughafen - SOS über den Wolken
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 7
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_02ff5a3f992cbcf89a4ce82f2c078dde456d5a38b6076747f19495cd/3_q.~xfYCmvphhqlCq/lego_city_011_folge_11_flughafen_sos_uber__530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-city/lego-city-folge-11-flughafen-sos-uber-den-wolken/
+  shop-id: 3fe8e9f6-0373-40ea-9a38-e753dfe6399e
+  track-desc: []
+  ids: []

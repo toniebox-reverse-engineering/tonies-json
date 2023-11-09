@@ -1,0 +1,18 @@
+article: '2000000338'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Die Voltigier-Show
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_6b3db09afb89c05efcad347b2acdae81572272dfc85f6918c92ca0ee/3_6.26zdHgFh0SvqH~/bibi_tina_076_die_voltigier_show_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/die-voltigier-show/
+  shop-id: 67bc3b88-12b3-4935-b123-39564def739b
+  track-desc: []
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000010118'
+lock-data: false
+data:
+- series: PAW Patrol
+  series-id: paw-patrol
+  episode: 'Folge 131: Die Entführung der Königs-Kätzchen'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/3a97d9b82f810431e3fb7ca82b3369e076f8539b2bf22444a8dd1ed6/3_kxDHl2YL3PG8XGgg/paw_patrol_131_folge_131__die_entfuhrung_der_k_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/paw-patrol/folge-131-die-entfuhrung-der-konigs-katzchen/
+  shop-id: a7e3bd58-02ac-4f78-a085-be31a2a25f3e
+  track-desc: []
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000002148'
+lock-data: false
+data:
+- series: Conni
+  series-id: conni
+  episode: Conni und die Katzenliebe
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_7ac737c634771e0b4986f0f36c7b15956c73378b37b5340d088ab5b3/3_rCKnwgF3NSBxhbrj/conni_conni_und_die_katzenliebe_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/conni/conni-und-die-katzenliebe/
+  shop-id: 0bb3a852-b444-489b-b905-e223d639a3d6
+  track-desc: []
+  ids: []

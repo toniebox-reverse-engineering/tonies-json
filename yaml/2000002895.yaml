@@ -1,0 +1,18 @@
+article: '2000002895'
+lock-data: false
+data:
+- series: Feuerwehrmann Sam
+  series-id: feuerwehrmann-sam
+  episode: Helden auf dem Wasser
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_e16bb38b33169e00196faf479df59da508e3b9757ef8d1118139868a/3_xv4Rjqq~wGwdqb8w/feuerwehrmann_sam_012_helden_auf_dem_wasser_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/feuerwehrmann-sam/helden-auf-dem-wasser/
+  shop-id: ed78f34b-6ef4-4053-9335-14ea8e1641ba
+  track-desc: []
+  ids: []

@@ -1,0 +1,37 @@
+article: '2000001834'
+lock-data: false
+data:
+- series: Peppa Pig
+  series-id: peppa-pig
+  episode: Das Feuerwehrauto (und 5 weitere Geschichten)
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_f06bcd5ccd558569c2b78cb7816e371c4e6ca83a42ff4183dff59fd9/3_Z~k3xm0kgHBfpq1y/peppa_pig_008_das_feuerwehrauto_und_5_weitere_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/peppa-pig/peppa-pig-das-feuerwehrauto-und-5-weitere-geschich/
+  shop-id: 2a7547f2-1cdd-4516-af16-8be4f06c098d
+  track-desc:
+  - Das Feuerwehrauto (Inhaltsangabe)
+  - Das Feuerwehrauto (Teil 01)
+  - Das Feuerwehrauto (Teil 02)
+  - Das Feuerwehrauto (Teil 03)
+  - Der Komposthaufen (Teil 01)
+  - Der Komposthaufen (Teil 02)
+  - Der Komposthaufen (Teil 03)
+  - Linus Löffel kommt zum Spielen (Teil 01)
+  - Linus Löffel kommt zum Spielen (Teil 02)
+  - Linus Löffel kommt zum Spielen (Teil 03)
+  - Der Spendenlauf (Teil 01)
+  - Der Spendenlauf (Teil 02)
+  - Der Spendenlauf (Teil 03)
+  - Wäsche waschen (Teil 01)
+  - Wäsche waschen (Teil 02)
+  - Wäsche waschen (Teil 03)
+  - Boot fahren mit Polly Piepmatz (Teil 01)
+  - Boot fahren mit Polly Piepmatz (Teil 02)
+  - Boot fahren mit Polly Piepmatz (Teil 03)
+  ids: []

@@ -1,0 +1,22 @@
+article: '2000000686'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und der verschollene Pilot
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_0d4cc160dc3620279adf32d98684bafc0bdc29ec34148eddc0e620d0/3_JDSqxrqrMc65Dmfk/die_drei_163_und_der_verschollene_pilot_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-der-verschollene-pilot/
+  shop-id: d48330f5-cd9c-4aee-a825-705355cc27f4
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

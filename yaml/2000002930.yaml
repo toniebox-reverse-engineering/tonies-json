@@ -1,0 +1,39 @@
+article: '2000002930'
+lock-data: false
+data:
+- series: 100% Wolf
+  series-id: 100-wolf
+  episode: 'Folge 8: Das Rock-Konzert'
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_9d04c53ea592eefb5337fc0929edf081ea0388659277659f6eb7f3fa/3__2BlFJ3dWmx0w66D/100_wolf_horspiel_zur_tv_serie_008_folge_8__530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/100-wolf/100-wolf-folge-8-das-rock-konzert/
+  shop-id: 6683ec45-1d86-476d-9e22-dd3258d13a07
+  track-desc:
+  - 08 - Das Rock-Konzert (Inhaltsangabe)
+  - 100% Wolf Titelmusik
+  - 08 - Das Rock-Konzert (Teil 01)
+  - 08 - Das Rock-Konzert (Teil 02)
+  - 08 - Das Rock-Konzert (Teil 03)
+  - 08 - Das Rock-Konzert (Teil 04)
+  - 08 - Das Rock-Konzert (Teil 05)
+  - 08 - Das Rock-Konzert (Teil 06)
+  - 08 - Das Rock-Konzert (Teil 07)
+  - 08 - Das Rock-Konzert (Teil 08)
+  - 08 - Das Rock-Konzert (Teil 09)
+  - 08 - Das Rock-Konzert (Teil 10)
+  - 08 - Das Rock-Konzert (Teil 11)
+  - 08 - Das Rock-Konzert (Teil 12)
+  - 08 - Das Rock-Konzert (Teil 13)
+  - 08 - Das Rock-Konzert (Teil 14)
+  - 08 - Das Rock-Konzert (Teil 15)
+  - 08 - Das Rock-Konzert (Teil 16)
+  - 08 - Das Rock-Konzert (Teil 17)
+  - 08 - Das Rock-Konzert (Teil 18)
+  - 08 - Das Rock-Konzert (Outro)
+  ids: []

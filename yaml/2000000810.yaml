@@ -1,0 +1,43 @@
+article: '2000000810'
+lock-data: false
+data:
+- series: Die Biene Maja - Klassiker
+  series-id: die-biene-maja-klassiker
+  episode: Die Fahrt in der Limonadenflasche
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_b7931c056b183cffc1c81d66543f95399f2f915a09ea888399b2b682/3_tZWFb5zGyMpzDSwb/die_biene_maja_klassiker_005_die_fahrt_in_de_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-biene-maja-klassiker/die-biene-maja-die-fahrt-in-der-limonadenflasche/
+  shop-id: 61194fb7-4b16-4899-bf27-4c38738082f9
+  track-desc:
+  - Die Biene Maja
+  - Wie die Grille befreit wurde (Teil 1)
+  - Wie die Grille befreit wurde (Teil 2)
+  - Wie die Grille befreit wurde (Teil 3)
+  - Wie die Grille befreit wurde (Teil 4)
+  - Wie die Grille befreit wurde (Teil 5)
+  - Wie die Grille befreit wurde (Teil 6)
+  - Max wird operiert (Teil 1)
+  - Max wird operiert (Teil 2)
+  - Max wird operiert (Teil 3)
+  - Max wird operiert (Teil 4)
+  - Max wird operiert (Teil 5)
+  - Max wird operiert (Teil 6)
+  - Maja und die kleine Raupe (Teil 1)
+  - Maja und die kleine Raupe (Teil 2)
+  - Maja und die kleine Raupe (Teil 3)
+  - Maja und die kleine Raupe (Teil 4)
+  - Maja und die kleine Raupe (Teil 5)
+  - Maja und die kleine Raupe (Teil 6)
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  - Teil 5
+  - Teil 6
+  ids: []

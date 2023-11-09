@@ -1,0 +1,18 @@
+article: '2000010158'
+lock-data: false
+data:
+- series: Titania Special
+  series-id: titania-special
+  episode: 'Märchenklassiker: Däumelinchen'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/3792e4aaf2efb4204116241208e7a8c4fb5f24908328916c0a526c18/3_1K2tfns3wFVDgDDm/titania_special_014_marchenklassiker__daumelin_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/titania-special/titania-special-marchenklassiker-folge-14-daumelin/
+  shop-id: dd1d57ac-e5c6-42bd-98ad-e3b34f3770a1
+  track-desc: []
+  ids: []

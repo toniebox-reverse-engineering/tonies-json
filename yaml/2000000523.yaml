@@ -1,0 +1,22 @@
+article: '2000000523'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Der geheime Schlüssel
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_542f1e83fccf5718b76ea9625498a8614032ae8ded7fcd5beee5df3c/3_Yj9jNtnKV_gWHYTP/die_drei_119_der_geheime_schlussel_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/der-geheime-schlussel/
+  shop-id: 77d764a9-b4a4-4340-9b1f-a1ffae7f1508
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

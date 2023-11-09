@@ -1,0 +1,18 @@
+article: '2000002081'
+lock-data: false
+data:
+- series: Die Playmos
+  series-id: die-playmos
+  episode: Rettet den Dinopark!
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_5419938a80a364f1e2698e22bfc7d272c444a9fa180b4c95a4f85ff3/3_8zCvvFPKCjdTJB-h/die_playmos_017_rettet_den_dinopark_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-playmos/rettet-den-dinopark/
+  shop-id: de470d43-cf5a-4b96-a345-3157d7c36132
+  track-desc: []
+  ids: []

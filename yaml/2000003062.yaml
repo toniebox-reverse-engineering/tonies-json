@@ -1,0 +1,18 @@
+article: '2000003062'
+lock-data: false
+data:
+- series: Sternenschweif
+  series-id: sternenschweif
+  episode: 'Teil 11: Spuren im Zauberwald'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_8d1750544a0ce2ea63b8caf67c54059b7c36e0ca575fe220ca40f8b6/3_gCYRDvjtr~Jl_sYx/sternenschweif_011_teil_11__spuren_im_zauberwa_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/sternenschweif/teil-11-spuren-im-zauberwald/
+  shop-id: 7c72952e-fa2c-43fc-8cf2-3090ec7aacca
+  track-desc: []
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000000344'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Falsches Spiel mit Alex
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_d27b8dff3d3fe5a7e27b8180bc3e6f0f41a4389fae7be8644ba4bd63/3_xSLpV8_k_M0C.yCl/bibi_tina_071_falsches_spiel_mit_alex_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/falsches-spiel-mit-alex/
+  shop-id: 74dac181-1897-4308-845c-d4f3166b20c7
+  track-desc: []
+  ids: []

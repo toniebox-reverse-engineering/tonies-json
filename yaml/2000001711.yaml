@@ -1,0 +1,55 @@
+article: '2000001711'
+lock-data: false
+data:
+- series: Wickie
+  series-id: wickie
+  episode: Das Drachenbootrennen  (CGI)
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_607384c894e5c7bb7d436ea58ef15a1d2d7008cc3dbcd2497e7771bd/3_WFmLj.zy.PWc7ZSM/wickie_006_das_drachenbootrennen_cgi_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/wickie/wickie-das-drachenbootrennen-cgi/
+  shop-id: c44955b3-dc6e-4999-b893-c383dc752dae
+  track-desc:
+  - Hey hey Wickie (Titelsong)
+  - Auf dem Goldacker (Teil 1)
+  - Auf dem Goldacker (Teil 2)
+  - Auf dem Goldacker (Teil 3)
+  - Auf dem Goldacker (Teil 4)
+  - Auf dem Goldacker (Teil 5)
+  - Auf dem Goldacker (Teil 6)
+  - Das Drachenbootrennen (Teil 1)
+  - Das Drachenbootrennen (Teil 2)
+  - Das Drachenbootrennen (Teil 3)
+  - Das Drachenbootrennen (Teil 4)
+  - Das Drachenbootrennen (Teil 5)
+  - Das Drachenbootrennen (Teil 6)
+  - Kapitän Ente (Teil 1)
+  - Kapitän Ente (Teil 2)
+  - Kapitän Ente (Teil 3)
+  - Kapitän Ente (Teil 4)
+  - Kapitän Ente (Teil 5)
+  - Kapitän Ente (Teil 6)
+  - Der Springteufel (Teil 1)
+  - Der Springteufel (Teil 2)
+  - Der Springteufel (Teil 3)
+  - Der Springteufel (Teil 4)
+  - Der Springteufel (Teil 5)
+  - Der Springteufel (Teil 6)
+  - Bärenalarm (Teil 1)
+  - Bärenalarm (Teil 2)
+  - Bärenalarm (Teil 3)
+  - Bärenalarm (Teil 4)
+  - Bärenalarm (Teil 5)
+  - Bärenalarm (Teil 6)
+  - Weihnachten in Flake (Teil 1)
+  - Weihnachten in Flake (Teil 2)
+  - Weihnachten in Flake (Teil 3)
+  - Weihnachten in Flake (Teil 4)
+  - Weihnachten in Flake (Teil 5)
+  - Weihnachten in Flake (Teil 6)
+  ids: []

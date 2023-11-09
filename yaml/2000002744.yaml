@@ -1,0 +1,18 @@
+article: '2000002744'
+lock-data: false
+data:
+- series: PAW Patrol
+  series-id: paw-patrol
+  episode: 'Folgen 172-174: Mars oder Antarktis?'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/a949594377b63f26e145aa3671420e318a416f01abb13cb03cf02b3c/3_T29WbCgw9HYpGbJ3/paw_patrol_172_folgen_172_174__mars_oder_antar_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-172-174-mars-oder-antarktis/
+  shop-id: e1bd3a9b-0780-48cf-868c-0e00b6fac81f
+  track-desc: []
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000003911'
+lock-data: false
+data:
+- series: LEGO Ninjago - Hörbücher
+  series-id: lego-ninjago-hoerbuecher
+  episode: Meister der Spiele (Band 12)
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/883539d25ee630112a9307831109221cc8e9297412ba148067b94433/3_.ywmtglCB9tDxFHJ/lego_ninjago_horbucher_012_meister_der_spiel_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-ninjago-hoerbuecher/meister-der-spiele-band-12/
+  shop-id: fccf5531-d51b-4317-9bcf-9918d3d99d43
+  track-desc: []
+  ids: []

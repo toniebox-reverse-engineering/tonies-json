@@ -1,0 +1,18 @@
+article: '2000003625'
+lock-data: false
+data:
+- series: Der kleine König
+  series-id: der-kleine-koenig
+  episode: Wie in alten Zeiten
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_3dd5f44950a7343db133fea64441f0b0b6aaee4ae06d9feeea83fba6/3_Q0.7vr51cDm3b_yD/der_kleine_konig_008_wie_in_alten_zeiten_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/der-kleine-koenig/der-kleine-konig-wie-in-alten-zeiten/
+  shop-id: 51e8bb34-7b32-496e-90dc-4c619a239f8f
+  track-desc: []
+  ids: []

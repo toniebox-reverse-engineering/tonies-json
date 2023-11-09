@@ -1,0 +1,18 @@
+article: '2000003410'
+lock-data: false
+data:
+- series: LEGO Ninjago
+  series-id: lego-ninjago
+  episode: 'Folgen 104-108: Der mutige Zeitungsjunge'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_b046279a5d921e4b8e7a99499370f5006d12fc94a8d90c37494951d5/3_P7dWQy1SyRwMZhYS/lego_ninjago_104_folgen_104_108__der_mutige_ze_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-104-108-der-mutige-zeitungsjunge/
+  shop-id: db0ddbf5-2023-4dc0-829d-92e79deaf4f4
+  track-desc: []
+  ids: []

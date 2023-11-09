@@ -1,0 +1,18 @@
+article: '2000002971'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Das Pflegepferd
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_3ea056b6ac286075289710bccc8bff54fcdb46265b52fb0e633f9683/3_2kWMHKBbPT_t8Yqg/bibi_tina_104_das_pflegepferd_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/das-pflegepferd/
+  shop-id: 022814c3-df5d-4884-a34f-3ae76cf76327
+  track-desc: []
+  ids: []

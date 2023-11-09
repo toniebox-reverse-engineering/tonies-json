@@ -1,0 +1,22 @@
+article: '2000000620'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Todesflug
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_c2f99cb18f9c97938e624e0a05fd8b60113e0d08d39ffb264da0b28b/3_W3rT8LX5kyRtpc8-/the_three_092_todesflug_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/todesflug/
+  shop-id: 1509f87a-2d93-4a0b-9339-c92a513f97cb
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

@@ -1,0 +1,22 @@
+article: '2000000690'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und der Zauberspiegel
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_e49e6596079af1e37eccd5fed7e2ffc6697aa1bdfbb06cf385394b93/3_2XZ1mtwH3BLbHk4-/the_three_016_und_der_zauberspiegel_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-der-zauberspiegel/
+  shop-id: dd787696-ccc1-4b82-84ad-341847dfa8dc
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

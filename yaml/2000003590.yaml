@@ -1,0 +1,46 @@
+article: '2000003590'
+lock-data: false
+data:
+- series: Der kleine Hui Buh
+  series-id: der-kleine-hui-buh
+  episode: Der müffelnde Mief/Geteiltes Heimweh
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_1231f708612c46109c586ef6ae27f42e947365c83f5413adb275ad33/3_6264KRgzmCPG4lHw/der_kleine_hui_buh_026_der_muffelnde_mief_gete_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/der-kleine-hui-buh/der-kleine-hui-buh-folge-26-der-muffelnde-miefgete/
+  shop-id: 48efa1e9-ebc7-4a51-90f0-e21c22b72f6f
+  track-desc:
+  - Der müffelnde Mief (Inhaltsangabe)
+  - Der müffelnde Mief (Titelsong)
+  - Der müffelnde Mief (Teil 01)
+  - Der müffelnde Mief (Teil 02)
+  - Der müffelnde Mief (Teil 03)
+  - Der müffelnde Mief (Teil 04)
+  - Der müffelnde Mief (Teil 05)
+  - Der müffelnde Mief (Teil 06)
+  - Der müffelnde Mief (Teil 07)
+  - Der müffelnde Mief (Teil 08)
+  - Der müffelnde Mief (Teil 09)
+  - Der müffelnde Mief (Teil 10)
+  - Der müffelnde Mief (Teil 11)
+  - Der müffelnde Mief (Teil 12)
+  - Geteiltes Heimweh (Inhaltsangabe)
+  - Geteiltes Heimweh (Titelsong)
+  - Geteiltes Heimweh (Teil 01)
+  - Geteiltes Heimweh (Teil 02)
+  - Geteiltes Heimweh (Teil 03)
+  - Geteiltes Heimweh (Teil 04)
+  - Geteiltes Heimweh (Teil 05)
+  - Geteiltes Heimweh (Teil 06)
+  - Geteiltes Heimweh (Teil 07)
+  - Geteiltes Heimweh (Teil 08)
+  - Geteiltes Heimweh (Teil 09)
+  - Geteiltes Heimweh (Teil 10)
+  - Geteiltes Heimweh (Teil 11)
+  - Geteiltes Heimweh (Outro)
+  ids: []

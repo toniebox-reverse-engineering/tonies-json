@@ -1,0 +1,58 @@
+article: '2000002627'
+lock-data: false
+data:
+- series: Bob der Baumeister
+  series-id: bob-der-baumeister
+  episode: Ein Riesenrad für Hochhausen
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_1eee3ec13f5d9007d2359d2a23cc5c7909697c575e4a2d1946625b51/3_Mdbhj4zfgjLvv6lT/bob_the_builder_004_ein_riesenrad_fur_hochhaus_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bob-der-baumeister/bob-der-baumeister-ein-riesenrad-fur-hochhausen/
+  shop-id: b5952dab-2ca3-416b-b5a8-8d47782672a3
+  track-desc:
+  - Bob und der Maskierte Superfahrer (Teil 01)
+  - Bob und der Maskierte Superfahrer (Teil 02)
+  - Bob und der Maskierte Superfahrer (Teil 03)
+  - Bob und der Maskierte Superfahrer (Teil 04)
+  - Bob und der Maskierte Superfahrer (Teil 05)
+  - Bob und der Maskierte Superfahrer (Teil 06)
+  - Bob und der Maskierte Superfahrer (Teil 07)
+  - Bob und der Maskierte Superfahrer (Teil 08)
+  - Bob und der Maskierte Superfahrer (Teil 09)
+  - Bob und der Maskierte Superfahrer (Teil 10)
+  - Ein Riesenrad für Hochhausen (Teil 01)
+  - Ein Riesenrad für Hochhausen (Teil 02)
+  - Ein Riesenrad für Hochhausen (Teil 03)
+  - Ein Riesenrad für Hochhausen (Teil 04)
+  - Ein Riesenrad für Hochhausen (Teil 05)
+  - Ein Riesenrad für Hochhausen (Teil 06)
+  - Ein Riesenrad für Hochhausen (Teil 07)
+  - Ein Riesenrad für Hochhausen (Teil 08)
+  - Ein Riesenrad für Hochhausen (Teil 09)
+  - Ein Riesenrad für Hochhausen (Teil 10)
+  - Wind und Sonne (Teil 01)
+  - Wind und Sonne (Teil 02)
+  - Wind und Sonne (Teil 03)
+  - Wind und Sonne (Teil 04)
+  - Wind und Sonne (Teil 05)
+  - Wind und Sonne (Teil 06)
+  - Wind und Sonne (Teil 07)
+  - Wind und Sonne (Teil 08)
+  - Wind und Sonne (Teil 09)
+  - Wind und Sonne (Teil 10)
+  - Der verschwundene Karton (Teil 01)
+  - Der verschwundene Karton (Teil 02)
+  - Der verschwundene Karton (Teil 03)
+  - Der verschwundene Karton (Teil 04)
+  - Der verschwundene Karton (Teil 05)
+  - Der verschwundene Karton (Teil 06)
+  - Der verschwundene Karton (Teil 07)
+  - Der verschwundene Karton (Teil 08)
+  - Der verschwundene Karton (Teil 09)
+  - Der verschwundene Karton (Teil 10)
+  ids: []

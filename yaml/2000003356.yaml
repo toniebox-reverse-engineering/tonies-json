@@ -1,0 +1,18 @@
+article: '2000003356'
+lock-data: false
+data:
+- series: LEGO City
+  series-id: lego-city
+  episode: 'Folge 25: Dem Mega-Oktopus auf der Spur'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 7
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_7fc74569c79b345254e2d755222c24596669a1cd948b0204d7b74335/3_-4r6HRf3fm0mrW3d/lego_city_025_folge_25__dem_mega_oktopus_auf_d_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-city/folge-25-dem-mega-oktopus-auf-der-spur/
+  shop-id: 8d6efbbe-cad1-41a2-b8bd-e2c2d0f2ab82
+  track-desc: []
+  ids: []

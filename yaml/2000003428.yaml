@@ -1,0 +1,18 @@
+article: '2000003428'
+lock-data: false
+data:
+- series: LEGO Ninjago - Hörbücher
+  series-id: lego-ninjago-hoerbuecher
+  episode: Im Bann des Dschinns (Band 04)
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_5d54fc30a8e00ba53ddaa841b713a2d0b96a0373cd8dfe0353049c83/3_2VfvBGfcbYCWZCvk/lego_ninjago_horbucher_004_im_bann_des_dschi_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-ninjago-hoerbuecher/im-bann-des-dschinns-band-04/
+  shop-id: 9cab0a07-dcf4-4335-b68f-4669786ad638
+  track-desc: []
+  ids: []

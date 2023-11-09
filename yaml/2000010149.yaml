@@ -1,0 +1,18 @@
+article: '2000010149'
+lock-data: false
+data:
+- series: Titania Special
+  series-id: titania-special
+  episode: 'Märchenklassiker: Die Schöne und das Biest'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/7df6ea3aac42c1e4ceeaf77b89141d102ecce1056b829575523268bc/3_DrJzcZbR2F1MT845/titania_special_015_marchenklassiker__die_scho_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/titania-special/titania-special-marchenklassiker-folge-15-die-scho/
+  shop-id: a7fdb6da-1c37-42b0-b825-eba9a14276a2
+  track-desc: []
+  ids: []

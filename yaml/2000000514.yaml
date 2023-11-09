@@ -1,0 +1,22 @@
+article: '2000000514'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Das schwarze Monster
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_185351cdd1fd22cfec5fa9fa1c6db9466e8a525285d5a237f297ffa2/3_cpwmTJ_6-MC1lrhn/the_three_094_das_schwarze_monster_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/das-schwarze-monster/
+  shop-id: 6ebf87ff-4b57-4423-abce-a680d9d660db
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

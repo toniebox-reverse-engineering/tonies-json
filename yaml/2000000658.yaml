@@ -1,0 +1,22 @@
+article: '2000000658'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und der Karpatenhund
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_269710dee47b70b1a3dd913bd6cf4c60454a28f9b009d30a961e0f46/3_922RCymR2j7SY9V5/the_three_003_und_der_karpatenhund_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-der-karpatenhund/
+  shop-id: c0a5ab8e-616a-4e7d-8bf0-cf3df4dac1ad
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000003092'
+lock-data: false
+data:
+- series: Sternenschweif
+  series-id: sternenschweif
+  episode: 'Teil 41: Verzauberte Herzen'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_ecc9757d1e58498e10ecf5ccc03c7572b954236302ee1a4cb64ccb75/3_PCYp_tWz9JSk2qsD/sternenschweif_041_teil_41__verzauberte_herzen_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/sternenschweif/teil-41-verzauberte-herzen/
+  shop-id: e0091988-9966-4069-902f-97d6403733af
+  track-desc: []
+  ids: []

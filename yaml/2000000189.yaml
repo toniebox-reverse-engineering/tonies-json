@@ -1,0 +1,18 @@
+article: '2000000189'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Der weiße Kakadu
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_4e921ed0ad3ee234248d2e34ab7b74a4ac3bdcc52961d1643d893e51/3_x5CP-y_.rrrlmvJb/bibi_blocksberg_067_der_weie_kakadu_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/der-weie-kakadu/
+  shop-id: cbd1c563-f993-478d-97a4-c575e82f1c9b
+  track-desc: []
+  ids: []

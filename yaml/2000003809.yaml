@@ -1,0 +1,30 @@
+article: '2000003809'
+lock-data: false
+data:
+- series: 100% Wolf
+  series-id: 100-wolf
+  episode: 'Folge 21: Ivan, das Monster'
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/d7da3a16bd6b5d3be501956816729b3c3d3b738bbb0f1b38a1c06a82/3_g3csl-9fT3ZbKzJt/100_wolf_horspiel_zur_tv_serie_021_folge_21_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/100-wolf/100-wolf-folge-21-ivan-das-monster/
+  shop-id: 2d409c00-79ab-4810-94b4-853eec585695
+  track-desc:
+  - 21 - Ivan, das Monster (Inhaltsangabe)
+  - 100% Wolf Titelmusik
+  - 21 - Ivan, das Monster (Teil 01)
+  - 21 - Ivan, das Monster (Teil 02)
+  - 21 - Ivan, das Monster (Teil 03)
+  - 21 - Ivan, das Monster (Teil 04)
+  - 21 - Ivan, das Monster (Teil 05)
+  - 21 - Ivan, das Monster (Teil 06)
+  - 21 - Ivan, das Monster (Teil 07)
+  - 21 - Ivan, das Monster (Teil 08)
+  - 21 - Ivan, das Monster (Teil 09)
+  - 21 - Ivan, das Monster (Outro)
+  ids: []

@@ -1,0 +1,22 @@
+article: '2000000707'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und die Perlenvögel
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_5b3f2882f4c0a119c98d3013979a96b9badb68bef28f9a442cb8638d/3_pKS8hH.qFjS2wbj5/the_three_039_und_die_perlenvogel_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-die-perlenvogel/
+  shop-id: 84df0826-482c-4fe1-ae01-026aaee6cf8f
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

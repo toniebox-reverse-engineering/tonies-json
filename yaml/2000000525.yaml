@@ -1,0 +1,22 @@
+article: '2000000525'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Der Mann ohne Kopf
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_86b71d985ee8110755d4f03bfe6fc5c617a006ebfb1272b78c220867/3_fB5HsJz_K7BgC_~3/die_drei_106_der_mann_ohne_kopf_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/der-mann-ohne-kopf/
+  shop-id: 054f3273-87c1-4586-b551-9ce4a4ea4a88
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

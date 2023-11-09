@@ -1,0 +1,43 @@
+article: '2000000819'
+lock-data: false
+data:
+- series: Die Biene Maja - Klassiker
+  series-id: die-biene-maja-klassiker
+  episode: Maja kommt nach Hause
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_11ffb9f3a304d2402fa56065fed7d3e8ed9b90c6b1db02dc7f1a148b/3_Rk~_BmYr0F87Ktb-/die_biene_maja_klassiker_013_maja_kommt_nach_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-biene-maja-klassiker/die-biene-maja-maja-kommt-nach-hause/
+  shop-id: 3b8f029d-adca-411c-a504-f6747f73774a
+  track-desc:
+  - Die Biene Maja
+  - Die Ameise, die nicht mitspielen wollte (Teil 1)
+  - Die Ameise, die nicht mitspielen wollte (Teil 2)
+  - Die Ameise, die nicht mitspielen wollte (Teil 3)
+  - Die Ameise, die nicht mitspielen wollte (Teil 4)
+  - Die Ameise, die nicht mitspielen wollte (Teil 5)
+  - Die Ameise, die nicht mitspielen wollte (Teil 6)
+  - Ungebetene Gäste (Teil 1)
+  - Ungebetene Gäste (Teil 2)
+  - Ungebetene Gäste (Teil 3)
+  - Ungebetene Gäste (Teil 4)
+  - Ungebetene Gäste (Teil 5)
+  - Ungebetene Gäste (Teil 6)
+  - Gefangen (Teil 1)
+  - Gefangen (Teil 2)
+  - Gefangen (Teil 3)
+  - Gefangen (Teil 4)
+  - Gefangen (Teil 5)
+  - Gefangen (Teil 6)
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  - Teil 5
+  - Teil 6
+  ids: []

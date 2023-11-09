@@ -1,0 +1,18 @@
+article: '2000003326'
+lock-data: false
+data:
+- series: PAW Patrol
+  series-id: paw-patrol
+  episode: 'Folgen 225-227: Der erste Einsatz der Moto Patrol'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/e82848e06855d0a09ce2cd53aa943969ab9b1dd76354bf867ccd894f/3_6Bzq13VYY92X4J~z/paw_patrol_225_folgen_225_227__der_erste_einsa_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-225-227-der-erste-einsatz-der-moto-patrol/
+  shop-id: 26c64696-8011-46fb-8f68-b0062e719695
+  track-desc: []
+  ids: []

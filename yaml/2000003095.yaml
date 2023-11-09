@@ -1,0 +1,18 @@
+article: '2000003095'
+lock-data: false
+data:
+- series: Sternenschweif
+  series-id: sternenschweif
+  episode: 'Teil 44: Zauber der Mondblumen'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_d3abb263b3d8e68c1fe99ecee14803ca61eeb11562ee40fb50b4327e/3_7DpsCJJzxywbKx~j/sternenschweif_044_teil_44__zauber_der_mondblu_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/sternenschweif/teil-44-zauber-der-mondblumen/
+  shop-id: 0458e08b-16df-4358-9fb0-1b05168b4ca3
+  track-desc: []
+  ids: []

@@ -1,0 +1,30 @@
+article: '2000000561'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Geisterbucht
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_9e1e69dca653181a222631f8241c8439f6ed235316f9cd72733c6d9b/3_zCsQrFnNpsYdR29B/the_three_150_geisterbucht_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/geisterbucht/
+  shop-id: 34b0a38f-d105-419a-b019-3eca6ff350f0
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

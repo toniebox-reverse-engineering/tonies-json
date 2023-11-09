@@ -1,0 +1,18 @@
+article: '2000000265'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: wird entführt
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_6836894c3927635ef21297f0773d2cc33980d8e5f9d5deff993f4202/3_C9DpR76w_c65T4wJ/bibi_blocksberg_051_wird_entfuhrt_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/wird-entfuhrt/
+  shop-id: 26eddb6b-d7db-4562-abc4-c927ace66031
+  track-desc: []
+  ids: []

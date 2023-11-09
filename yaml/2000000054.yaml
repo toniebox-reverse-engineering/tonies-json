@@ -1,0 +1,18 @@
+article: '2000000054'
+lock-data: false
+data:
+- series: Benjamin Blümchen
+  series-id: benjamin-bluemchen
+  episode: Das Pinguin-Ei
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_1ff1a5f022d74232d335ce5b002d12e66fddd86dc21e3f5a3d6d6d15/3_v_tZ8Zsnz8sS7k48/benjamin_blumchen_102_das_pinguin_ei_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/das-pinguin-ei/
+  shop-id: d113ebb7-fd9f-40db-95f3-adc4295301e0
+  track-desc: []
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000000316'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Der Pferdedieb
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_4fc62d76c4131f1112c62a471a948a9c735cddee1a9840ae7917072d/3_wK2tq8ZDcpzp2Kxy/bibi_tina_045_der_pferdedieb_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/der-pferdedieb/
+  shop-id: 8f20be65-a885-4553-bb5c-94c8f3bd660d
+  track-desc: []
+  ids: []

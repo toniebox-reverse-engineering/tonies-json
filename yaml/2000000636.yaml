@@ -1,0 +1,22 @@
+article: '2000000636'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und das Riff der Haie
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_32206440d4107ec9e921ff96e563e0c68ebe93f582f902ba6d2b37a6/3_4dKRR1Gf-cGb45gL/the_three_030_und_das_riff_der_haie_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-das-riff-der-haie/
+  shop-id: bb936b5a-9170-4bbc-a254-e53274f60a42
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

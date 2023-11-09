@@ -1,0 +1,18 @@
+article: '2000010234'
+lock-data: false
+data:
+- series: Schleich Horse Club
+  series-id: schleich-horse-club
+  episode: 'Folge 23: Ein heimlicher Gast'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/af1a9c8f790a081601efef5833e0d0a85ee6c1f8563b36c7bf85479f/3_yjsKXF0WZR2zXq-4/schleich_horse_club_023_folge_23__ein_heimlich_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/schleich-horse-club/folge-23-ein-heimlicher-gast/
+  shop-id: 5c085d46-c24a-4440-9f24-1070237d706c
+  track-desc: []
+  ids: []

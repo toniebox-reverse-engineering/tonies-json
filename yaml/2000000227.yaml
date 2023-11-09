@@ -1,0 +1,18 @@
+article: '2000000227'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Hexspruch mit Folgen
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_5726cddbf4b31d9995d9e7c258531c2b0bf6b6dcafb994a890715ff1/3_Q19Kjsl6M~wG4Fl7/bibi_blocksberg_082_hexspruch_mit_folgen_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/hexspruch-mit-folgen/
+  shop-id: 9f2c84c7-5b25-4544-b1f9-46d87dd22baa
+  track-desc: []
+  ids: []

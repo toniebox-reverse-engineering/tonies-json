@@ -1,0 +1,18 @@
+article: '2000003254'
+lock-data: false
+data:
+- series: Pumuckl
+  series-id: pumuckl
+  episode: 'Folge 9: Pumuckl und der Pudding'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_3b1f997faa2962327bb7e74d6e2f7fbc8b0f06fd908a85560cd9b7a0/3_Y-897jZjhkVFF8-b/pumuckl_009_folge_9__pumuckl_und_der_pudding_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-und-der-pudding-das-original-aus-dem-ferns/
+  shop-id: 2830b43e-2a08-4a0a-aa8c-e37f8a24752d
+  track-desc: []
+  ids: []

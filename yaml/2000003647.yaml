@@ -1,0 +1,30 @@
+article: '2000003647'
+lock-data: false
+data:
+- series: 100% Wolf
+  series-id: 100-wolf
+  episode: 'Folge 14: Der neue Rektor'
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/5c0749a742e9a723d28935955801e8387d2fb9abfcdef7d0a2c61698/3_t.W.nFNdGlJvsQjb/100_wolf_horspiel_zur_tv_serie_014_folge_14_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/100-wolf/100-wolf-folge-14-der-neue-rektor/
+  shop-id: 3e94c369-9c7e-4b4a-bb17-d9c91bd053ae
+  track-desc:
+  - 14 - Der neue Rektor (Inhaltsangabe)
+  - 14 - 100% Wolf Titelmusik
+  - 14 - Der neue Rektor (Teil 01)
+  - 14 - Der neue Rektor (Teil 02)
+  - 14 - Der neue Rektor (Teil 03)
+  - 14 - Der neue Rektor (Teil 04)
+  - 14 - Der neue Rektor (Teil 05)
+  - 14 - Der neue Rektor (Teil 06)
+  - 14 - Der neue Rektor (Teil 07)
+  - 14 - Der neue Rektor (Teil 08)
+  - 14 - Der neue Rektor (Teil 09)
+  - 14 - Der neue Rektor (Outro)
+  ids: []

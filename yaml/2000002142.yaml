@@ -1,0 +1,18 @@
+article: '2000002142'
+lock-data: false
+data:
+- series: Conni
+  series-id: conni
+  episode: Conni und der Osterhase / Conni spielt Fußball
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_3e73c9b9e5c028011ab84d56551b022d94abc77054f0d91014f1e61b/3__jT3yGppt9bt_-qd/conni_conni_und_der_osterhase___conni_spielt_fu_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/conni/conni-und-der-osterhase-conni-spielt-fuball/
+  shop-id: fec0cb18-41aa-46d7-ac2b-b76699c46ef8
+  track-desc: []
+  ids: []

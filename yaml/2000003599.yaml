@@ -1,0 +1,32 @@
+article: '2000003599'
+lock-data: false
+data:
+- series: Super Wings
+  series-id: super-wings
+  episode: Der Schimpansen-Express
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/c5a3457d104f40a200d4776cf23c9b9897792ec0f6b429ffb3412e1b/3_8.6BtcfXkLB3tLVy/super_wings_037_der_schimpansen_express_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/super-wings/super-wings-folge-37-der-schimpansen-express/
+  shop-id: e6b56f59-1d3f-427a-94ef-a71ae78f2bc0
+  track-desc:
+  - Der Schimpansen-Express (Inhaltsangabe)
+  - Kunterbunte Alpakas (Teil 01)
+  - Kunterbunte Alpakas (Teil 02)
+  - Kunterbunte Alpakas (Teil 03)
+  - Das Licht-Festival (Teil 01)
+  - Das Licht-Festival (Teil 02)
+  - Das Licht-Festival (Teil 03)
+  - Der fabrikneue Flammenflitzer (Teil 01)
+  - Der fabrikneue Flammenflitzer (Teil 02)
+  - Der fabrikneue Flammenflitzer (Teil 03)
+  - Der Schimpansen-Express (Teil 01)
+  - Der Schimpansen-Express (Teil 02)
+  - Der Schimpansen-Express (Teil 03)
+  - Der Schimpansen-Express (Outro)
+  ids: []

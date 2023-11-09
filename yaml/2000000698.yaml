@@ -1,0 +1,22 @@
+article: '2000000698'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und die flüsternde Mumie
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_331ac8cd15683dc6dee41492e4068c006463f1358f8553508e411b62/3_38B98D9bSHypZXNG/the_three_010_und_die_flusternde_mumie_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-die-flusternde-mumie/
+  shop-id: 1052a00d-cf7c-47f9-93d8-dfdafacd4077
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

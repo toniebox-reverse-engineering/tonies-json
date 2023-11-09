@@ -1,0 +1,18 @@
+article: '2000010242'
+lock-data: false
+data:
+- series: Schleich Dinosaurs
+  series-id: schleich-dinosaurs
+  episode: 'Folgen 23-24: Alarm im Dschungel'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/92bb6d235bd2e3a49bde5821858b9b7a13801bfd72df64d43d0a8311/3_Mwy7NSPvwtZ.RQSl/schleich_dinosaurs_023_folgen_23_24__alarm_im__530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/schleich-dinosaurs/folgen-23-24-alarm-im-dschungel/
+  shop-id: efe0d5a2-e62f-4176-a053-175a37f4cc50
+  track-desc: []
+  ids: []

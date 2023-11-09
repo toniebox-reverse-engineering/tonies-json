@@ -1,0 +1,18 @@
+article: '2000003111'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: UFOs über Neustadt
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_13af1e10657bff6bd38dbdf24ab367708a70ec80420093e631bc5fb0/3_LV3sdg6D4mBkYWMj/bibi_blocksberg_142_ufos_uber_neustadt_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/ufos-uber-neustadt/
+  shop-id: 39ef442a-760f-4320-a9a8-2ae8c39b2f19
+  track-desc: []
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000002411'
+lock-data: false
+data:
+- series: PAW Patrol
+  series-id: paw-patrol
+  episode: 'Folgen 9-12: Die Ballon-Wettfahrt'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/b6ba60a38808025432d6e4461f4c5df0b97b625db9319552dd786eee/3_zrX.4w-S.sQ2~DVH/paw_patrol_009_folgen_9_12__die_ballon_wettfah_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-9-12-die-ballon-wettfahrt/
+  shop-id: b6d653a7-299c-4d11-916d-eb1b00324275
+  track-desc: []
+  ids: []

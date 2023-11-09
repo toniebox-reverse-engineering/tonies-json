@@ -1,0 +1,18 @@
+article: '2000002550'
+lock-data: false
+data:
+- series: WAS IST WAS
+  series-id: was-ist-was
+  episode: Die Sonne / Energie
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_29b5c34fac2cf480685500fd96d2e2358b8584aeafdd0c330942bb37/3_~6gWxb2Zc2r0d24w/was_ist_was_022_die_sonne___energie_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/was-ist-was/die-sonne-energie/
+  shop-id: efba9faa-308e-4562-aadd-3759f8d779ce
+  track-desc: []
+  ids: []

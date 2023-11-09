@@ -1,0 +1,18 @@
+article: '2000003070'
+lock-data: false
+data:
+- series: Sternenschweif
+  series-id: sternenschweif
+  episode: 'Teil 19: Zauberhafte Freundschaft'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_4d59b5aafc133775308118a6e73a9b3269513922d327bd230e132c3b/3_jvYFHJ7vcrTvcS-h/sternenschweif_019_teil_19__zauberhafte_freund_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/sternenschweif/teil-19-zauberhafte-freundschaft/
+  shop-id: d74a0f8c-8c39-4cae-8da9-d7c1e35c5461
+  track-desc: []
+  ids: []

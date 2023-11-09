@@ -1,0 +1,18 @@
+article: '2000003466'
+lock-data: false
+data:
+- series: LEGO Friends
+  series-id: lego-friends
+  episode: 'Folgen 67-71: Volltreffer'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_ec12220c95bda8c5eda0beb864359d619540bb3817e2af61039f5469/3_Jg3TjwwqvKHP9Qp4/lego_friends_067_folgen_67_71__volltreffer_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-friends/folgen-67-71-volltreffer/
+  shop-id: ed6f34be-b968-4d1a-957f-5ce421951eb8
+  track-desc: []
+  ids: []

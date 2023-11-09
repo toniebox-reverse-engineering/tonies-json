@@ -1,0 +1,21 @@
+article: '2000000854'
+lock-data: false
+data:
+- series: Die drei !!!
+  series-id: die-drei-ausrufezeichen
+  episode: Freundinnen in Gefahr
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 7
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_0bba1b2d59ebe1217f98948521f9b10b81d6f7e3fbe8279b0bedbfcb/3_Pgc2Bjqh~YpjNYJ2/die_drei_050_freundinnen_in_gefahr_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-ausrufezeichen/die-drei-freundinnen-in-gefahr/
+  shop-id: d8e0a370-847f-4f78-9d1f-158f48f6e6f0
+  track-desc:
+  - I. Verlorenes Herz
+  - II. Spuren der Vergangenheit
+  - III. Falsche Freunde
+  ids: []

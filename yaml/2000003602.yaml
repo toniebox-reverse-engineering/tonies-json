@@ -1,0 +1,35 @@
+article: '2000003602'
+lock-data: false
+data:
+- series: Super Wings
+  series-id: super-wings
+  episode: Die Super-Fußball-Wings
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/d26e6bc53090a6d887e955b21e31b102e097df49dcb454da74fd73b8/3_N4QxqX6kFLRgn8ZP/super_wings_040_die_super_fuball_wings_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/super-wings/super-wings-folge-40-die-super-fuball-wings/
+  shop-id: 991a6127-2608-403d-9eb8-3768c412fd4c
+  track-desc:
+  - Die Super Fußball Wings (Inhaltsangabe)
+  - Eine Maus im Puppenhaus (Teil 01)
+  - Eine Maus im Puppenhaus (Teil 02)
+  - Eine Maus im Puppenhaus (Teil 03)
+  - Eine Maus im Puppenhaus (Teil 04)
+  - Die steinernen Statuen (Teil 01)
+  - Die steinernen Statuen (Teil 02)
+  - Die steinernen Statuen (Teil 03)
+  - Die Super Fußball Wings (Teil 01)
+  - Die Super Fußball Wings (Teil 02)
+  - Die Super Fußball Wings (Teil 03)
+  - Die Super Fußball Wings (Teil 04)
+  - Putzplan für den Pazifik (Teil 01)
+  - Putzplan für den Pazifik (Teil 02)
+  - Putzplan für den Pazifik (Teil 03)
+  - Putzplan für den Pazifik (Teil 04)
+  - Die Super Fußball Wings (Outro)
+  ids: []

@@ -1,0 +1,63 @@
+article: '2000002660'
+lock-data: false
+data:
+- series: Bob der Baumeister
+  series-id: bob-der-baumeister
+  episode: Eine Garage für Philip
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_87cee63263e241ca7f6827e0264de1e745d09788936113433082f5f3/3_ZP6TLVg1t66cSvqj/bob_the_builder_022_eine_garage_fur_philip_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bob-der-baumeister/bob-der-baumeister-eine-garage-fur-philip/
+  shop-id: cacd98a7-5904-4132-97c8-ff90b7df3886
+  track-desc:
+  - Eine Garage für Philipp (Intro)
+  - Eine Garage für Philipp (Teil 01)
+  - Eine Garage für Philipp (Teil 02)
+  - Eine Garage für Philipp (Teil 03)
+  - Eine Garage für Philipp (Teil 04)
+  - Eine Garage für Philipp (Teil 05)
+  - Eine Garage für Philipp (Teil 06)
+  - Eine Garage für Philipp (Teil 07)
+  - Eine Garage für Philipp (Teil 08)
+  - Eine Garage für Philipp (Teil 09)
+  - Eine Garage für Philipp (Teil 10)
+  - Spuk im Rathaus (Intro)
+  - Spuk im Rathaus (Teil 01)
+  - Spuk im Rathaus (Teil 02)
+  - Spuk im Rathaus (Teil 03)
+  - Spuk im Rathaus (Teil 04)
+  - Spuk im Rathaus (Teil 05)
+  - Spuk im Rathaus (Teil 06)
+  - Spuk im Rathaus (Teil 07)
+  - Spuk im Rathaus (Teil 08)
+  - Spuk im Rathaus (Teil 09)
+  - Spuk im Rathaus (Teil 10)
+  - Zu viel zu tun (Intro)
+  - Zu viel zu tun (Teil 01)
+  - Zu viel zu tun (Teil 02)
+  - Zu viel zu tun (Teil 03)
+  - Zu viel zu tun (Teil 04)
+  - Zu viel zu tun (Teil 05)
+  - Zu viel zu tun (Teil 06)
+  - Zu viel zu tun (Teil 07)
+  - Zu viel zu tun (Teil 08)
+  - Zu viel zu tun (Teil 09)
+  - Zu viel zu tun (Teil 10)
+  - Überall Äpfel (Intro)
+  - Überall Äpfel (Teil 01)
+  - Überall Äpfel (Teil 02)
+  - Überall Äpfel (Teil 03)
+  - Überall Äpfel (Teil 04)
+  - Überall Äpfel (Teil 05)
+  - Überall Äpfel (Teil 06)
+  - Überall Äpfel (Teil 07)
+  - Überall Äpfel (Teil 08)
+  - Überall Äpfel (Teil 09)
+  - Überall Äpfel (Teil 10)
+  - Überall Äpfel (Outro)
+  ids: []

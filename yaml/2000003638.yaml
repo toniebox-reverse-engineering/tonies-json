@@ -1,0 +1,18 @@
+article: '2000003638'
+lock-data: false
+data:
+- series: Der kleine König
+  series-id: der-kleine-koenig
+  episode: Alles Gute zum Geburtstag
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_e9fd73d547aa8566a71998af701dd217820f165e815122b397e2052f/3_xx1rP6HbzMV--GFd/der_kleine_konig_013_alles_gute_zum_geburtstag_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/der-kleine-koenig/der-kleine-konig-alles-gute-zum-geburtstag/
+  shop-id: 802c4388-f8bd-4dd8-9a22-594868b3fd70
+  track-desc: []
+  ids: []

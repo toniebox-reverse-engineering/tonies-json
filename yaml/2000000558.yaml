@@ -1,0 +1,22 @@
+article: '2000000558'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Geheimakte Ufo
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_679d215d37becff7d3e8f4ba1deac0e8057f1d1d069315f10e61f437/3_2nvP.zp~hq80D795/the_three_080_geheimakte_ufo_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/geheimakte-ufo/
+  shop-id: 5e52dd72-5067-4013-afa5-3387bf64ec86
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

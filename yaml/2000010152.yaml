@@ -1,0 +1,18 @@
+article: '2000010152'
+lock-data: false
+data:
+- series: Titania Special
+  series-id: titania-special
+  episode: 'Märchenklassiker: Nils Holgersson'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 12
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/0980de06992ba0cc807e3a41015335aa37a485df7f2d9b850203bbbc/3_fM4DXRCpRh-g0rG./titania_special_007_marchenklassiker__nils_hol_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/titania-special/titania-special-marchenklassiker-folge-7-nils-holg/
+  shop-id: 25e2c81d-6ec8-48a4-bdbe-b153c6df774f
+  track-desc: []
+  ids: []

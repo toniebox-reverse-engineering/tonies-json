@@ -1,0 +1,18 @@
+article: '2000002957'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Mit Papi allein zu Haus
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_698f4c0e7d6f61415aa439a7ed57664c11e77dc3a7737a33afd1be8a/3_0L-c2nhg~tnr9gdv/bibi_blocksberg_141_mit_papi_allein_zu_haus_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/mit-papi-allein-zu-haus/
+  shop-id: e52cddcd-b5e2-416c-8e8d-2d4ef47a76d9
+  track-desc: []
+  ids: []

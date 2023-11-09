@@ -1,0 +1,18 @@
+article: '2000000317'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Der Pferdefasching
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_e71f938272b4e11c14924e1cf5ae27ca06471acde0b68a76a920b525/3_Bxx2B0lrzv9VH9BD/bibi_tina_041_der_pferdefasching_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/der-pferdefasching/
+  shop-id: d5ceeff6-a374-4b08-8eba-13f5dfef914c
+  track-desc: []
+  ids: []

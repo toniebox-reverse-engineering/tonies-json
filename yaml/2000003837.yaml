@@ -1,0 +1,18 @@
+article: '2000003837'
+lock-data: false
+data:
+- series: Der kleine König
+  series-id: der-kleine-koenig
+  episode: Im Kuschelbett
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_b6025017f55bbfa03fe2057dc76a92600c5d622ccffeb325c1cdf9d4/3_pdbQVYQCFj~57l5R/der_kleine_konig_038_im_kuschelbett_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/der-kleine-koenig/der-kleine-konig-im-kuschelbett/
+  shop-id: 757a3adc-90ec-4099-8cbb-f61e421c132e
+  track-desc: []
+  ids: []

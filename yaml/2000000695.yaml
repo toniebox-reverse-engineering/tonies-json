@@ -1,0 +1,22 @@
+article: '2000000695'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und die Comic-Diebe
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_c4f78967f0997b5a0ca059ae3e33bbf060ed5ed743ff52d4e1aabd2e/3_hytBZc2zvclryM6./the_three_049_und_die_comic_diebe_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-die-comic-diebe/
+  shop-id: 345a00f6-7dcf-45a9-a5c2-6a52df6509af
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

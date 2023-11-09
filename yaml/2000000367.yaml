@@ -1,0 +1,18 @@
+article: '2000000367'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Wölfe in der Puszta
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_b166bebebd50018a7a7d150a0cff1f05b255b6c1cad524416a3d8d39/3_8tW9dMf.hk0nGMkb/bibi_tina_060_wolfe_in_der_puszta_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/wolfe-in-der-puszta/
+  shop-id: 6d1165e0-2efc-4bab-a75b-504071197a2b
+  track-desc: []
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000000166'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Der Blaue Brief
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_d763416a4b3be78556858681a684c53be04f4fe7de5eda5bf892f95e/3_LG4gztjm_FTF-qKM/bibi_blocksberg_057_der_blaue_brief_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/der-blaue-brief/
+  shop-id: 7282180f-82e7-4c5d-aff2-6154a82d075f
+  track-desc: []
+  ids: []

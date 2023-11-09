@@ -1,0 +1,18 @@
+article: '2000003427'
+lock-data: false
+data:
+- series: LEGO Ninjago - Hörbücher
+  series-id: lego-ninjago-hoerbuecher
+  episode: Nadakhan und die Luftpiraten (Band 03)
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_1132bea80c2ac5546cc072c2875edd8d2036640964776b091478b7c9/3_TpYMZvzMF0YWcFn1/lego_ninjago_horbucher_003_nadakhan_und_die__530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-ninjago-hoerbuecher/nadakhan-und-die-luftpiraten-band-03/
+  shop-id: 68a4399d-6e18-4fcf-a12d-7d2d4afaf539
+  track-desc: []
+  ids: []

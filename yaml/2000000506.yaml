@@ -1,0 +1,22 @@
+article: '2000000506'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Das Auge des Drachen
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_b6cbe800c6c1e05676da6877de322a305af6a5398b8ac56580f56c0b/3_9FpLk74H2~pfPg6c/die_drei_113_das_auge_des_drachen_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/das-auge-des-drachen/
+  shop-id: b62ab6d8-f610-4795-8026-397ecdbf426f
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

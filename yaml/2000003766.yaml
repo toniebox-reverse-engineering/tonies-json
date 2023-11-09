@@ -1,0 +1,18 @@
+article: '2000003766'
+lock-data: false
+data:
+- series: Der junge Sherlock Holmes
+  series-id: der-junge-sherlock-holmes
+  episode: Die Königin der Ratten
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 11
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/793c313ca7d0985deaff9d49fd7327619e176a7c2f35a7b8a7a3e98a/3_PQ64sLxsFq_jn5-M/der_junge_sherlock_holmes_002_die_konigin_der__530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/der-junge-sherlock-holmes/die-konigin-der-ratten/
+  shop-id: b54a3ef9-d0ab-4072-aae9-a35c3542d682
+  track-desc: []
+  ids: []

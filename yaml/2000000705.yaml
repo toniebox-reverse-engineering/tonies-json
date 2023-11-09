@@ -1,0 +1,22 @@
+article: '2000000705'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und die Kammer der Rätsel
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_bc4f960778fed88148d604ea0be7eea3a652fadab8cc5d7da49f4863/3_zXbZNRt_TrZfbGjG/die_drei_190_und_die_kammer_der_ratsel_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-die-kammer-der-ratsel/
+  shop-id: ef41702a-bc4f-4316-9324-5d75d39e3987
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

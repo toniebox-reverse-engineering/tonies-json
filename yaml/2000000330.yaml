@@ -1,0 +1,18 @@
+article: '2000000330'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Die Pferdeprinzessin
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_198c640ed021f9ab0c5a7cd95743da089a55c4e72590b97ccc0cdbfd/3_gCb4kqrflqByqnLs/bibi_tina_049_die_pferdeprinzessin_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/die-pferdeprinzessin/
+  shop-id: e111046f-55f5-4378-93eb-31a5c57bcaac
+  track-desc: []
+  ids: []

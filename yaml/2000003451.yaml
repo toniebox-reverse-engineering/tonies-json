@@ -1,0 +1,18 @@
+article: '2000003451'
+lock-data: false
+data:
+- series: LEGO Friends
+  series-id: lego-friends
+  episode: 'Folge 19: Vergangenheit - Gegenwart - Zukunft'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_bed6153eda41e466276f5852862f967155dc5d0a32f2bc8ddf619cce/3_dLps~6BgPClK693G/lego_friends_019_folge_19__vergangenheit_geg_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-friends/lego-friends-folge-19-vergangenheit-gegenwart-zuku/
+  shop-id: 3baf3b9b-5dfc-4ee1-99a5-8bf0d1fd662a
+  track-desc: []
+  ids: []

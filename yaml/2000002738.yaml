@@ -1,0 +1,18 @@
+article: '2000002738'
+lock-data: false
+data:
+- series: Conni
+  series-id: conni
+  episode: Conni und die Ponyspiele
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_bd4706ddf7cd39abf113e3c3368193a8dc0e988ebd49cccd5556f521/3_XvRtMD0mM.ZhFNZr/conni_conni_und_die_ponyspiele_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/conni/conni-und-die-ponyspiele/
+  shop-id: b6dfebb7-06b9-43a1-964e-52aeb3257bd9
+  track-desc: []
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000003282'
+lock-data: false
+data:
+- series: Pumuckl
+  series-id: pumuckl
+  episode: 'Folge 37: Ein föhniger Tag'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_72708343c1b91c674b40b35e7dd4d28e1241f64339975cad59bd6ca6/3_BqbZ~JPy5g.Hq56m/pumuckl_037_folge_37__ein_fohniger_tag_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/pumuckl/ein-fohniger-tag-das-original-aus-dem-fernsehen/
+  shop-id: 1dae0fc4-e884-4b02-8cba-31a3c6fec200
+  track-desc: []
+  ids: []

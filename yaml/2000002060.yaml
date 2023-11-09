@@ -1,0 +1,18 @@
+article: '2000002060'
+lock-data: false
+data:
+- series: Die Playmos
+  series-id: die-playmos
+  episode: Die Würfel sind gefallen
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_7ea3db1e5298888ae98ed619197425b81fb9a5b6269942a333becdc0/3_CqgYmPN2rc3W.M16/die_playmos_070_die_wurfel_sind_gefallen_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-playmos/die-wurfel-sind-gefallen-das-original-playmobil-ho/
+  shop-id: c35e97cf-7774-4996-9114-3b6706e89b6d
+  track-desc: []
+  ids: []

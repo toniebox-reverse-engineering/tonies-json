@@ -1,0 +1,48 @@
+article: '2000002667'
+lock-data: false
+data:
+- series: Bob der Baumeister (Die Klassiker)
+  series-id: bob-der-baumeister-die-klassiker
+  episode: Buddels Lehmhütte
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_1c5780ab6ffc8bc01a53c800a7a2499e555b7813186892c2c6422498/3_RgK~G66G9ZdwRmfc/klassiker_026_buddels_lehmhutte_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bob-der-baumeister-die-klassiker/bob-der-baumeister-buddels-lehmhutte/
+  shop-id: d02e5327-c34f-4595-90b4-e95527122fb3
+  track-desc:
+  - 26 - Marietta (Teil 01)
+  - 26 - Marietta (Teil 02)
+  - 26 - Marietta (Teil 03)
+  - 26 - Marietta (Teil 04)
+  - 26 - Marietta (Teil 05)
+  - 26 - Marietta (Teil 06)
+  - 26 - Marietta (Teil 07)
+  - 26 - Marietta (Teil 08)
+  - 26 - Marietta (Teil 09)
+  - 26 - Marietta (Teil 10)
+  - 26 - Marietta (Teil 11)
+  - 26 - Marietta (Teil 12)
+  - 26 - Marietta (Teil 13)
+  - 26 - Marietta (Teil 14)
+  - 26 - Marietta (Teil 15)
+  - Teil 01
+  - Teil 02
+  - Teil 03
+  - Teil 04
+  - Teil 05
+  - Teil 06
+  - Teil 07
+  - Teil 08
+  - Teil 09
+  - Teil 10
+  - Teil 11
+  - Teil 12
+  - Teil 13
+  - Teil 14
+  - Teil 15
+  ids: []

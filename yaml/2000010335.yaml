@@ -1,0 +1,18 @@
+article: '2000010335'
+lock-data: false
+data:
+- series: Thomas & seine Freunde
+  series-id: thomas-seine-freunde
+  episode: En Thomas i els seus amics - Les històries preferides d’en Thomas
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/75d570605c677e068ad71ed76537607e6cc261bfb78194c1db2968ca/3_DyKMmTc5CRdsm96./thomas_the_tank_engine_en_thomas_i_els_seus_amic_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/thomas-seine-freunde/en-thomas-i-els-seus-amics-les-histories-preferide/
+  shop-id: ba26b090-5d64-4a11-a51f-d427da33c430
+  track-desc: []
+  ids: []

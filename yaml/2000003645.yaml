@@ -1,0 +1,18 @@
+article: '2000003645'
+lock-data: false
+data:
+- series: Der kleine König
+  series-id: der-kleine-koenig
+  episode: Mein liebster Teddy
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_72b0bbf8af3067d17e1288ec525ab6d2f301946721370732f1ec4f89/3_z~6z5c-1~gw9~dRx/der_kleine_konig_019_mein_liebster_teddy_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/der-kleine-koenig/der-kleine-konig-mein-liebster-teddy/
+  shop-id: 98428699-1d86-482b-81a8-655831ed2399
+  track-desc: []
+  ids: []

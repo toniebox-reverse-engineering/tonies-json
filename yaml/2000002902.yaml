@@ -1,0 +1,18 @@
+article: '2000002902'
+lock-data: false
+data:
+- series: Feuerwehrmann Sam
+  series-id: feuerwehrmann-sam
+  episode: Norman außer Rand und Band
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_f60568873eb8336b0858bed7923062b34cc105bed656e5e5599f35f6/3_c4smTD6Ck7h~hnQb/feuerwehrmann_sam_019_norman_auer_rand_und_ba_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/feuerwehrmann-sam/norman-ausser-rand-und-band/
+  shop-id: c7dfe70d-7f64-4518-b9a7-79a0a85a0488
+  track-desc: []
+  ids: []

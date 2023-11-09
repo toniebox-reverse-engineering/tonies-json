@@ -1,0 +1,18 @@
+article: '2000003313'
+lock-data: false
+data:
+- series: Pumuckl
+  series-id: pumuckl
+  episode: 'Folge 68: Hilfe - Eine Aushilfe'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_314bcd7705abe20d94e2ad9c74f7508770857dfb04a4b60d365aabd2/3_B5qtd4vP0pyDQ~6k/pumuckl_068_folge_68__hilfe_eine_aushilfe_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/pumuckl/hilfe-eine-aushilfe-das-original-aus-dem-fernsehen/
+  shop-id: 862bffc7-21c3-4eea-9388-ed8bee848461
+  track-desc: []
+  ids: []

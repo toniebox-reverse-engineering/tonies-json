@@ -1,0 +1,18 @@
+article: '2000003090'
+lock-data: false
+data:
+- series: Sternenschweif
+  series-id: sternenschweif
+  episode: 'Teil 39: Funkelnder Wasserzauber'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_3de179c55cee98fdbf2dba75275cdec15e675ab125c32d4b2f4ae270/3_MFMdHcr8rpGr-_2D/sternenschweif_039_teil_39__funkelnder_wasserz_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/sternenschweif/teil-39-funkelnder-wasserzauber/
+  shop-id: 6a5e7455-2685-458b-a3f0-d2e2d935b144
+  track-desc: []
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000000275'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Abschied von Amadeus
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_967d7c78dab0c029fb6450f46a2a47364e654a550abc1d04d5ab9378/3__McDyTnGS8FwT6Wl/bibi_tina_065_abschied_von_amadeus_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/abschied-von-amadeus/
+  shop-id: 84110e43-b35b-4620-acad-cb7b143c84aa
+  track-desc: []
+  ids: []

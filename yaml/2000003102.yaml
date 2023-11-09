@@ -1,0 +1,18 @@
+article: '2000003102'
+lock-data: false
+data:
+- series: Sternenschweif
+  series-id: sternenschweif
+  episode: 'Teil 51: Goldener Winterzauber'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_990b9e9331364fc528cde51c591ea65ecfdd206e06cb24bccc3fbb8a/3_7htkdhlVZMYXBVbc/sternenschweif_051_teil_51__goldener_winterzau_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/sternenschweif/teil-51-goldener-winterzauber/
+  shop-id: b360a6f1-96cc-4033-911d-bbcd37a0d751
+  track-desc: []
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000003643'
+lock-data: false
+data:
+- series: Der kleine König
+  series-id: der-kleine-koenig
+  episode: Ich lad' euch alle ein
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_8153d1eea27e210c77e8491b66ee930707eb067f19f9c8a58c562bca/3_W2K5B6gtSbbZqfQl/der_kleine_konig_020_ich_lad__euch_alle_ein_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/der-kleine-koenig/der-kleine-konig-ich-lad-euch-alle-ein/
+  shop-id: cc654737-177a-4b2b-90e3-c14d3e60fdc0
+  track-desc: []
+  ids: []

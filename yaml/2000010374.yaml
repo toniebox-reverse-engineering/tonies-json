@@ -1,0 +1,18 @@
+article: '2000010374'
+lock-data: false
+data:
+- series: Mumins
+  series-id: mumins
+  episode: Les Aventures de Moumine 2
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/3d44525fe5e75a00c27f13730d05d3e7675fd07a116a0ee848e48750/3_bc0w~RnhS-3V6.DX/moomins_002_les_aventures_de_moumine_2_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/mumins/les-aventures-de-moumine-2/
+  shop-id: ff0f17f0-9e1e-4203-8694-a9f13a7e4dc5
+  track-desc: []
+  ids: []

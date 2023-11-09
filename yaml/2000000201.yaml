@@ -1,0 +1,31 @@
+article: '2000000201'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Die Junghexenbande
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_992d6dedaed32e373ad4fcc0d4594c502cc055def8c8f825b4aaa228/3_Q6t2y1YFHslwgGF./bibi_blocksberg_089_die_junghexenbande_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/die-junghexenbande/
+  shop-id: c8ba2929-ed13-425f-a7b7-79f8d4183b56
+  track-desc:
+  - Titelsong
+  - Schlechte Neuigkeiten
+  - Die Junghexen-Bande
+  - Der Bürgermeister bleibt stur
+  - In Pichlers Büro
+  - Hexerei im Bauhof
+  - Neue Streckenführung
+  - Der Hexenring
+  - Konfrontation
+  - Barbara greift ein
+  - Die Natur schützt sich selbst
+  - Einsicht und Veränderung
+  - Friede, Freude, Lagerfeuer!
+  ids: []

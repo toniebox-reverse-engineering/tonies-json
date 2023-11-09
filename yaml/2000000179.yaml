@@ -1,0 +1,18 @@
+article: '2000000179'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Der neue Schulgarten
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_f052f9a648b3ddca7079e0d15fe1db6ff4553ce3a0aa89d7cb40826e/3_x0YdH2d8pf08Wx8G/bibi_blocksberg_121_der_neue_schulgarten_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/der-neue-schulgarten/
+  shop-id: 1d6d80bb-7dcb-4852-8e28-a9d47a262ab0
+  track-desc: []
+  ids: []

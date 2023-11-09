@@ -1,0 +1,18 @@
+article: '2000000412'
+lock-data: false
+data:
+- series: Der kleine Rabe Socke
+  series-id: der-kleine-rabe-socke
+  episode: Alles Freunde!, Alles wieder gut!
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_90e9714de96c2e85d01ef5634ad861075fee12f0338d436da889ffc9/3__lrv15G30PV4L~sv/der_kleine_rabe_socke_alles_freunde_alles_wied_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/der-kleine-rabe-socke/alles-freunde-alles-wieder-gut/
+  shop-id: 719a507e-93f4-497c-820e-5bcddc7c223c
+  track-desc: []
+  ids: []

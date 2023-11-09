@@ -1,0 +1,18 @@
+article: '2000002099'
+lock-data: false
+data:
+- series: Conni & Co
+  series-id: conni-co
+  episode: Conni & Co 2 - Das Geheimnis des T-Rex - Das Original-Hörspiel zum Kinofilm
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_29ddbe9f74beb14fd6ccb6a976bf1ea75f934cc2676c6ff5d50bef26/3_.-2ng~7yj-.V~rtr/conni_co_conni_co_2_das_geheimnis_des_t_re_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/conni-co/conni-co-2-das-geheimnis-des-t-rex-das-original-ho/
+  shop-id: 3deca8bf-d001-446f-b881-e5c77a805854
+  track-desc: []
+  ids: []

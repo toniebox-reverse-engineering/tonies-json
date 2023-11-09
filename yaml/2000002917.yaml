@@ -1,0 +1,30 @@
+article: '2000002917'
+lock-data: false
+data:
+- series: Peppa Pig
+  series-id: peppa-pig
+  episode: Matschepampe!
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_c51e03ddada88c245792ccaed4261a65591cae24f19b608b19cc5131/3_0pSHMqBbCdslYGr6/peppa_pig_022_matschepampe_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/peppa-pig/peppa-pig-folge-22-matschepampe/
+  shop-id: e195cd75-5516-4074-9436-9839687e98d7
+  track-desc:
+  - Matschepampe! (Teil 01)
+  - Matschepampe! (Teil 02)
+  - Schnee (Teil 01)
+  - Schnee (Teil 02)
+  - Gewitter (Teil 01)
+  - Gewitter (Teil 02)
+  - Ein sehr heißer Tag (Teil 01)
+  - Ein sehr heißer Tag (Teil 02)
+  - Autowaschtag (Teil 01)
+  - Autowaschtag (Teil 02)
+  - Herr Spaghettibein (Teil 01)
+  - Herr Spaghettibein (Teil 02)
+  ids: []

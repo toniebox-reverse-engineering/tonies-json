@@ -1,0 +1,18 @@
+article: '2000002041'
+lock-data: false
+data:
+- series: Die Playmos
+  series-id: die-playmos
+  episode: Der Schatz der Pyramide
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_65aa1209793b7de65d26575c51f857ca813df6cbc5ea4c694bf6aea4/3_ddRRs8.HgF5NxFpt/die_playmos_052_der_schatz_der_pyramide_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-playmos/der-schatz-der-pyramide/
+  shop-id: 63d779ee-a5b4-45ed-afa9-3252cf924a6e
+  track-desc: []
+  ids: []

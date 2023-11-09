@@ -1,0 +1,22 @@
+article: '2000000715'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und die silberne Spinne
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_95ff07af470c923d788aa1d7e6b2edaf9dfc48e5374eda4c73c9a7b0/3_-JhwG_Zy.FD81HfS/the_three_024_und_die_silberne_spinne_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-die-silberne-spinne/
+  shop-id: 609e4c66-dd18-415e-b994-1d715d1d3bde
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

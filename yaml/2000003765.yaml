@@ -1,0 +1,18 @@
+article: '2000003765'
+lock-data: false
+data:
+- series: Der junge Sherlock Holmes
+  series-id: der-junge-sherlock-holmes
+  episode: Der Maskierte vom East End
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 11
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/6a44d47ffacc8dab658af451e0dec0cc45628d24b9135c41ccfb4f81/3_~v2cnCT~bx8Dr7Wx/der_junge_sherlock_holmes_001_der_maskierte_vo_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/der-junge-sherlock-holmes/der-maskierte-vom-east-end/
+  shop-id: cd688a6b-112e-4dfc-b568-4e2de568c3b2
+  track-desc: []
+  ids: []

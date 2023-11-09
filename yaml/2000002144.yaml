@@ -1,0 +1,18 @@
+article: '2000002144'
+lock-data: false
+data:
+- series: Conni
+  series-id: conni
+  episode: Conni und die Burg der Vampire
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_1a15057ea7cf53bbe668ea12c7b9a7907fa4a7954e371cfa5a8100f6/3_8hthHnwDf~Nsdnsk/conni_conni_und_die_burg_der_vampire_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/conni/conni-und-die-burg-der-vampire/
+  shop-id: 5422516f-3a10-44bd-ac73-9a90e461e57e
+  track-desc: []
+  ids: []

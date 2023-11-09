@@ -1,0 +1,22 @@
+article: '2000000503'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: 'Codename: Cobra'
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_947167e0de99a2f41f447ea87adc4ec5251a4af453e379057e5e05e6/3_8bVmR7-TZQPJTX.g/die_drei_116_codename__cobra_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/codename-cobra/
+  shop-id: f7ad5422-f119-455f-87c7-a4a8e0743aac
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

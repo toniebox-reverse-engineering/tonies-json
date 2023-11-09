@@ -1,0 +1,18 @@
+article: '2000000047'
+lock-data: false
+data:
+- series: Benjamin Blümchen
+  series-id: benjamin-bluemchen
+  episode: Das besondere Osterei
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_6fc869befc282fca86fb1ec781a6a6ce8d17010d90572b750fbf7793/3_DvWS-rQFlJ5V-KkQ/benjamin_blumchen_142_das_besondere_osterei_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/das-besondere-osterei/
+  shop-id: c228873c-aeb6-41a6-ad74-93b762284038
+  track-desc: []
+  ids: []

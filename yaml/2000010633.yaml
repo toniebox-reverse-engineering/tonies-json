@@ -1,0 +1,26 @@
+article: '2000010633'
+lock-data: false
+data:
+- series: Peppa Pig
+  series-id: peppa-pig
+  episode: Der vergrabene Schatz
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/67c54870c5ddead59bbab53f6a36e5bb57b4a5a379da566f24ce3ca4/3_xSW3vvgbcDlLfvG2/peppa_pig_046_der_vergrabene_schatz_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/peppa-pig/peppa-pig-folge-46-der-vergrabene-schatz/
+  shop-id: 095d80f6-6bb3-4965-ba60-a75e7b41879b
+  track-desc:
+  - Der vergrabene Schatz (Inhaltsangabe)
+  - Der vergrabene Schatz
+  - Kinder-Festival
+  - Erdbeeren
+  - Der Geburtstag von Opa Wutz
+  - Pizza! Pizza!
+  - Römertag
+  - Der vergrabene Schatz (Outro)
+  ids: []

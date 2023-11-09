@@ -1,0 +1,18 @@
+article: '2000003250'
+lock-data: false
+data:
+- series: Pumuckl
+  series-id: pumuckl
+  episode: 'Folge 6: Pumuckl und die Schule'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_1977fdf5d089ffd55344b2a638cfd87d94361d2b2e3c5fe60f2bdc38/3_H53JR.dDN8K1lbS./pumuckl_006_folge_6__pumuckl_und_die_schule_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-und-die-schule-das-original-aus-dem-fernse/
+  shop-id: daabb760-3216-4080-9e8d-c32d3bf923dc
+  track-desc: []
+  ids: []

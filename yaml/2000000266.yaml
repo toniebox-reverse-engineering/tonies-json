@@ -1,0 +1,18 @@
+article: '2000000266'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Wo ist Kartoffelbrei?
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_fe9c9cad58f35174bd0dae8f690db235bdac45a1b8e588266ae88b10/3_T5v.mkrGtCYVNWbG/bibi_blocksberg_052_wo_ist_kartoffelbrei_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/wo-ist-kartoffelbrei/
+  shop-id: 516d443c-77a0-40a9-9a70-17c8dfd55477
+  track-desc: []
+  ids: []

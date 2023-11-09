@@ -1,0 +1,41 @@
+article: '2000003597'
+lock-data: false
+data:
+- series: Super Wings
+  series-id: super-wings
+  episode: Abenteuer im Schnee
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/7456cc7605c7b5c27acd82f0972a6859692a96bd30595eefc1e71821/3_V~TWcP6rd_YNS_t_/super_wings_035_abenteuer_im_schnee_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/super-wings/super-wings-folge-35-abenteuer-im-schnee/
+  shop-id: 0498296b-cccf-43e5-9cfb-5297f9f0f700
+  track-desc:
+  - Abenteuer im Schnee (Inhaltsangabe)
+  - Abenteuer im Schnee (Teil 01)
+  - Abenteuer im Schnee (Teil 02)
+  - Abenteuer im Schnee (Teil 03)
+  - Abenteuer im Schnee (Teil 04)
+  - Abenteuer im Schnee (Teil 05)
+  - Helfer für die Helfer (Teil 01)
+  - Helfer für die Helfer (Teil 02)
+  - Helfer für die Helfer (Teil 03)
+  - Helfer für die Helfer (Teil 04)
+  - Helfer für die Helfer (Teil 05)
+  - Helfer für die Helfer (Teil 06)
+  - Hochzeit unter Wasser (Teil 01)
+  - Hochzeit unter Wasser (Teil 02)
+  - Hochzeit unter Wasser (Teil 03)
+  - Hochzeit unter Wasser (Teil 04)
+  - Hochzeit unter Wasser (Teil 05)
+  - Klebriges Chaos in Kanada (Teil 01)
+  - Klebriges Chaos in Kanada (Teil 02)
+  - Klebriges Chaos in Kanada (Teil 03)
+  - Klebriges Chaos in Kanada (Teil 04)
+  - Klebriges Chaos in Kanada (Teil 05)
+  - Klebriges Chaos in Kanada (Outro)
+  ids: []

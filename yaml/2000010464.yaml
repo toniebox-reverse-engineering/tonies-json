@@ -1,0 +1,18 @@
+article: '2000010464'
+lock-data: false
+data:
+- series: Peppa Pig
+  series-id: peppa-pig
+  episode: Lekker varen en andere verhaaltjes
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/45a2b5c18ae189094b8e1ea9ae068ab8cd554ed1e8ec6260efb5b2a0/3_4x358KzWRyXmp22M/peppa_pig_005_lekker_varen_en_andere_verhaaltj_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/peppa-pig/peppa-pig-lekker-varen-en-andere-verhaaltjes/
+  shop-id: 50e3e3dd-6c8d-4082-bd4b-25859086b2f5
+  track-desc: []
+  ids: []

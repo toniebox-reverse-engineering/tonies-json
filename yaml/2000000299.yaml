@@ -1,0 +1,18 @@
+article: '2000000299'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Das Schmusepony
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_da0e7c5799656b25af5febe82df45d0a7b8ed5064e35c920ef750d54/3_RHchH50rPWQqPRB~/bibi_tina_032_das_schmusepony_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/das-schmusepony/
+  shop-id: d9bb8318-18dc-4bb2-98ef-a7ee4fae0ea3
+  track-desc: []
+  ids: []

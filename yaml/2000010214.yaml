@@ -1,0 +1,18 @@
+article: '2000010214'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Die Heu-Krise
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_e9c8e86e5348e4cd551ae8ac6b523f6b33d749ef6d013642e63265cc/3_QjH-gpJlV-_N_29j/bibi_tina_109_die_heu_krise_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/die-heu-krise/
+  shop-id: 8f5206cf-d19e-4d1d-a44a-ff54f2b300b9
+  track-desc: []
+  ids: []

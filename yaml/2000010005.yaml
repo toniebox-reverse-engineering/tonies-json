@@ -1,0 +1,35 @@
+article: '2000010005'
+lock-data: false
+data:
+- series: Super Wings
+  series-id: super-wings
+  episode: 'Folge 43: Das Delfin-Dilemma'
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/5aab83848f75caf3f70a5fb40a941a1dbdc833980eb6361276c6ebd8/3__3FCCR~yf~62GyCv/super_wings_043_folge_43__das_delfin_dilemma_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/super-wings/super-wings-folge-43-das-delfin-dilemma/
+  shop-id: 82e64185-8a51-493b-9209-7e75036f63f9
+  track-desc:
+  - Das Delfin-Dilemma (Inhaltsangabe)
+  - Ein Zug voller Ballons (Teil 01)
+  - Ein Zug voller Ballons (Teil 02)
+  - Ein Zug voller Ballons (Teil 03)
+  - Das Delfin-Dilemma (Teil 01)
+  - Das Delfin-Dilemma (Teil 02)
+  - Das Delfin-Dilemma (Teil 03)
+  - Ein Zug voller Ballons (Teil 04)
+  - Donnie Kürbiskopf (Teil 01)
+  - Donnie Kürbiskopf (Teil 02)
+  - Donnie Kürbiskopf (Teil 03)
+  - Donnie Kürbiskopf (Teil 04)
+  - Alarm im alten Ägypten (Teil 01)
+  - Alarm im alten Ägypten (Teil 02)
+  - Alarm im alten Ägypten (Teil 03)
+  - Alarm im alten Ägypten (Teil 04)
+  - Das Delfin-Dilemma (Outro)
+  ids: []

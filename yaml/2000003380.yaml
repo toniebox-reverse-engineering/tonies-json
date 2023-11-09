@@ -1,0 +1,18 @@
+article: '2000003380'
+lock-data: false
+data:
+- series: LEGO Ninjago
+  series-id: lego-ninjago
+  episode: 'Folgen 27-28: Das neue Ninjago'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_f51cfce706403e815e09518b79a8a8d2a80c207a1d3538d8f572f7d8/3_GFsfTq8L5x5ywlwN/lego_ninjago_027_folgen_27_28__das_neue_ninjag_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-27-28-das-neue-ninjago/
+  shop-id: 10234d66-98bc-40ec-a6bc-bacf2fc74a48
+  track-desc: []
+  ids: []

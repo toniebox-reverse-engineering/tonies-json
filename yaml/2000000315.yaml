@@ -1,0 +1,18 @@
+article: '2000000315'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Der neue Reiterhof
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_22c537deb9faf8b16fd7166660b750e4a1db0063f828d3a904827645/3_G3KFsr_nCr3fxFJL/bibi_tina_090_der_neue_reiterhof_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/der-neue-reiterhof/
+  shop-id: 2ca35ccc-f8c8-40f3-9a95-e5111fbe4a50
+  track-desc: []
+  ids: []

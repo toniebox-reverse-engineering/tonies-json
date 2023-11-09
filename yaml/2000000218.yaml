@@ -1,0 +1,18 @@
+article: '2000000218'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Die Zauberlimonade
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_1ebec96ac01bb7dadd196dc81672261df7049f5c874583ae8dcbacd0/3_st~8-D5GM3YSG_0N/bibi_blocksberg_003_die_zauberlimonade_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/die-zauberlimonade/
+  shop-id: 79cf7019-a6cd-4f64-a9bd-18adfbf40032
+  track-desc: []
+  ids: []

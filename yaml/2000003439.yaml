@@ -1,0 +1,18 @@
+article: '2000003439'
+lock-data: false
+data:
+- series: LEGO Friends
+  series-id: lego-friends
+  episode: 'Folge 07: Die Talentshow'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_3d44c674bc8ea3e7c7f8d5912d8f887abc2858d024b488f6e5081059/3_2N~tPCLkfhxp5nLy/lego_friends_007_folge_07__die_talentshow_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-friends/lego-friends-folge-07-die-talentshow/
+  shop-id: 4a9bbd04-56cc-4bd0-8ff2-41aa6b06bc26
+  track-desc: []
+  ids: []

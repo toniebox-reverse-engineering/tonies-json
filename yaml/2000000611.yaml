@@ -1,0 +1,22 @@
+article: '2000000611'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Spuk im Netz
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_b689612c7cdf637164e59efdb234e21fed538f29f29acf5eded44fa1/3_XPFklFzghHHKLfXm/the_three_132_spuk_im_netz_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/spuk-im-netz/
+  shop-id: 479b1802-a8be-4175-ba91-566e0d80b812
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

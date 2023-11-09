@@ -1,0 +1,22 @@
+article: '2000000500'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Botschaft aus der Unterwelt
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_f354e2e0f25ac4189126239e7433328e30f72a159b6989fbc6628b9d/3_67Kg_HSsZ4fhd7n6/the_three_154_botschaft_aus_der_unterwelt_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/botschaft-aus-der-unterwelt/
+  shop-id: 0c3e5657-b0a6-49f0-bab9-7098a7fa1fba
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

@@ -1,0 +1,24 @@
+article: '2000003634'
+lock-data: false
+data:
+- series: Peppa Pig
+  series-id: peppa-pig
+  episode: Käpt'n Papa Wutz
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/8ff8adba5d2d62ec974f6c8ec359556b6ccd1e40f9b102bd13dc2f6f/3_JlK4Fzg.3zZ9-cTt/peppa_pig_029_kapt_n_papa_wutz_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/peppa-pig/peppa-pig-folge-29-kaptn-papa-wutz/
+  shop-id: a62a7c3b-e5a7-46e7-aa0a-df7cf77e8595
+  track-desc:
+  - Käpt'n Papa Wutz
+  - Im Büro von Papa Wutz
+  - Papa Wutz' Geburtstag
+  - Malen
+  - Schwimmen
+  - Zoe Zebra
+  ids: []

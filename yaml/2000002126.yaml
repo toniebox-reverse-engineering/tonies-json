@@ -1,0 +1,18 @@
+article: '2000002126'
+lock-data: false
+data:
+- series: Conni
+  series-id: conni
+  episode: Conni übernachtet bei Julia / Conni geht nicht mit Fremden mit
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_9d78e93ec78e21a5cd6d313febef1f277b0376fda2d6c529fe586c23/3_0Hlkc~y7w6QKLj58/conni_conni_ubernachtet_bei_julia___conni_geht_n_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/conni/conni-ubernachtet-bei-julia-geht-nicht-fremden/
+  shop-id: 4618fdbb-3d62-48b8-8b1a-42b85cdc862d
+  track-desc: []
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000000450'
+lock-data: false
+data:
+- series: Pettersson und Findus
+  series-id: pettersson-und-findus
+  episode: Pettersson kriegt Weihnachtsbesuch
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_55b8250080895866d001178e5e68ac53b0755638caf88b1b62aeaef7/3_Jptbvdts4wJHt44M/pettersson_und_findus_pettersson_kriegt_weihnach_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/pettersson-und-findus/pettersson-kriegt-weihnachtsbesuch/
+  shop-id: 4cd0c097-5400-4ea2-81cb-643fb6c86e75
+  track-desc: []
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000003501'
+lock-data: false
+data:
+- series: Die Playmos
+  series-id: die-playmos
+  episode: Auf Einsatz mit der Galaxy Police
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_4b974fb93662825066909fbd18d6ede3fb86d739cb2ec72676b1b588/3_Yptg-4-.PryMmdg./die_playmos_076_auf_einsatz_mit_der_galaxy_pol_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-playmos/die-playmos-das-original-playmobil-horspiel-folg-2/
+  shop-id: b00c51f8-b794-4682-bfb8-9f7ae7aaeb68
+  track-desc: []
+  ids: []

@@ -1,0 +1,60 @@
+article: '2000001707'
+lock-data: false
+data:
+- series: Unser Sandmännchen
+  series-id: unser-sandmaennchen
+  episode: Zauberhafte Nacht!
+  release: 0
+  language: de-de
+  category: audio-book-songs
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_a721d3bca799eb895b21e3d8e2db13c3326a2f99d5cf7be15f4774e5/3_fx~cJklxCGvWzV57/unser_sandmannchen_012_zauberhafte_nacht_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/unser-sandmaennchen/zauberhafte-nacht/
+  shop-id: acba7ff1-a7b1-4ef8-9782-0d457f61f659
+  track-desc:
+  - Anfangsmusik
+  - Teil 01
+  - Teil 02
+  - Teil 03
+  - Teil 04
+  - Teil 05
+  - Teil 06
+  - Teil 07
+  - Teil 08
+  - Liebe Zahnfee
+  - Teil 01
+  - Teil 02
+  - Teil 03
+  - Teil 04
+  - Teil 05
+  - Teil 06
+  - Teil 07
+  - Wenn ich Zauberer wär'
+  - Teil 01
+  - Teil 02
+  - Teil 03
+  - Teil 04
+  - Teil 05
+  - Teil 06
+  - Teil 07
+  - Feentanz
+  - Teil 01
+  - Teil 02
+  - Teil 03
+  - Teil 04
+  - Teil 05
+  - Teil 06
+  - Teil 07
+  - Der Zauberer der nicht einschlafen kann
+  - Teil 01
+  - Teil 02
+  - Teil 03
+  - Teil 04
+  - Teil 05
+  - Teil 06
+  - Zauberhafter Traum
+  - Endmusik
+  ids: []

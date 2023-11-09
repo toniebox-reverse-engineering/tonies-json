@@ -1,0 +1,18 @@
+article: '2000000335'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Die Tierärztin
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_f6f2e2a396c898ef9c817f9dcb817c8212042b248dafd691b757dab5/3_2_dHKG24PJtKBWcb/bibi_tina_031_die_tierarztin_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/die-tierarztin/
+  shop-id: 2140dfe7-3780-4fb4-9b15-5f722e76c24f
+  track-desc: []
+  ids: []

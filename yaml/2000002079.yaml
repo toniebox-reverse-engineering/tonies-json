@@ -1,0 +1,18 @@
+article: '2000002079'
+lock-data: false
+data:
+- series: Die Playmos
+  series-id: die-playmos
+  episode: Raketenstart ins All
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_990122cabdf89edbae5245b332808df5140ae74b0f16d5011895ac59/3_5Trrggvw~YRSKrdh/die_playmos_048_raketenstart_ins_all_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-playmos/raketenstart-ins-all/
+  shop-id: e0888c55-dd5c-49cc-a5d1-b6cab31ce35c
+  track-desc: []
+  ids: []

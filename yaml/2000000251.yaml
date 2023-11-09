@@ -1,0 +1,18 @@
+article: '2000000251'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: und das Dino-Ei
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_beed7c3d9ada2ccb8b79681d994e19e96baf8aaa7400e45714a01c86/3_txGFx86JktHW1FhC/bibi_blocksberg_058_und_das_dino_ei_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/und-das-dino-ei/
+  shop-id: 6d049283-631c-4519-8e4f-f7c09754fcdb
+  track-desc: []
+  ids: []

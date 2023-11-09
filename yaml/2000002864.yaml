@@ -1,0 +1,40 @@
+article: '2000002864'
+lock-data: false
+data:
+- series: Super Wings
+  series-id: super-wings
+  episode: Rauf und runter
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_a03229e1400f0bb980993c072664e7a01b78d4aaed8fa9d90fce4e72/3_7D.-KdhXJzzRQ_nt/super_wings_029_rauf_und_runter_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/super-wings/super-wings-folge-29-rauf-und-runter/
+  shop-id: acfd502e-55a1-4e83-aa4c-0f3b4fa70b25
+  track-desc:
+  - Rauf und runter (Inhaltsangabe)
+  - Rauf und runter (Teil 01)
+  - Rauf und runter (Teil 02)
+  - Rauf und runter (Teil 03)
+  - Rauf und runter (Teil 04)
+  - Rauf und runter (Teil 05)
+  - Die Entenpolizei (Teil 01)
+  - Die Entenpolizei (Teil 02)
+  - Die Entenpolizei (Teil 03)
+  - Die Entenpolizei (Teil 04)
+  - Die Entenpolizei (Teil 05)
+  - Basketball im All (Teil 01)
+  - Basketball im All (Teil 02)
+  - Basketball im All (Teil 03)
+  - Basketball im All (Teil 04)
+  - Basketball im All (Teil 05)
+  - Trubel in Thailand (Teil 01)
+  - Trubel in Thailand (Teil 02)
+  - Trubel in Thailand (Teil 03)
+  - Trubel in Thailand (Teil 04)
+  - Trubel in Thailand (Teil 05)
+  - Trubel in Thailand (Outro)
+  ids: []

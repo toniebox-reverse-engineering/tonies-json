@@ -1,0 +1,39 @@
+article: '2000002926'
+lock-data: false
+data:
+- series: 100% Wolf
+  series-id: 100-wolf
+  episode: 'Folge 4: Der neue Lehrer'
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_f5450532848340a5c961311724710d5cf5be207741e67ca9f77a4796/3_FKFZ5wGDqXKttyJj/100_wolf_horspiel_zur_tv_serie_004_folge_4__530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/100-wolf/100-wolf-folge-4-der-neue-lehrer/
+  shop-id: 25f24fba-8cc9-4e08-a32a-3c27525eac74
+  track-desc:
+  - 04 - Der neue Lehrer (Inhaltsangabe)
+  - 100% Wolf Titelmusik
+  - 04 - Der neue Lehrer (Teil 01)
+  - 04 - Der neue Lehrer (Teil 02)
+  - 04 - Der neue Lehrer (Teil 03)
+  - 04 - Der neue Lehrer (Teil 04)
+  - 04 - Der neue Lehrer (Teil 05)
+  - 04 - Der neue Lehrer (Teil 06)
+  - 04 - Der neue Lehrer (Teil 07)
+  - 04 - Der neue Lehrer (Teil 08)
+  - 04 - Der neue Lehrer (Teil 09)
+  - 04 - Der neue Lehrer (Teil 10)
+  - 04 - Der neue Lehrer (Teil 11)
+  - 04 - Der neue Lehrer (Teil 12)
+  - 04 - Der neue Lehrer (Teil 13)
+  - 04 - Der neue Lehrer (Teil 14)
+  - 04 - Der neue Lehrer (Teil 15)
+  - 04 - Der neue Lehrer (Teil 16)
+  - 04 - Der neue Lehrer (Teil 17)
+  - 04 - Der neue Lehrer (Teil 18)
+  - 04 - Der neue Lehrer (Outro)
+  ids: []

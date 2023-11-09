@@ -1,0 +1,18 @@
+article: '2000003372'
+lock-data: false
+data:
+- series: LEGO Ninjago
+  series-id: lego-ninjago
+  episode: 'Folgen 4-6: Traue niemals einer Schlange'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_5cb659f5cf9401a3318d978fa59e2a349344fd2c2c128f4a3d3e5bfa/3_r0d0nMpwh2n.cPLB/lego_ninjago_004_folgen_4_6__traue_niemals_ein_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-4-6-traue-niemals-einer-schlange/
+  shop-id: dc7ee5a6-f3ef-4445-9f5b-5c1e507df92a
+  track-desc: []
+  ids: []

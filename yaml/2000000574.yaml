@@ -1,0 +1,22 @@
+article: '2000000574'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Im Bann des Voodoo
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_4460ebee8d707378863c52c9d0cb84ac224a5d1066708e0e51a076b7/3_ySgv7x53GqSYtKxK/the_three_079_im_bann_des_voodoo_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/im-bann-des-voodoo/
+  shop-id: 7f9c1753-750f-4637-affc-b4e816a11ebf
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

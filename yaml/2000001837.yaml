@@ -1,0 +1,36 @@
+article: '2000001837'
+lock-data: false
+data:
+- series: Peppa Pig
+  series-id: peppa-pig
+  episode: Der Rettungswagen (und 5 weitere Geschichten)
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_3361a26e300b5670f867337850375312ee7d5b21ec12cd2147f9ec32/3_SljMMc990Wbk41BJ/peppa_pig_006_der_rettungswagen_und_5_weitere_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/peppa-pig/peppa-pig-der-rettungswagen-und-5-weitere-geschich/
+  shop-id: b26e3c90-07ca-4aa3-9566-edbe18336e20
+  track-desc:
+  - Der Rettungswagen (Teil 01)
+  - Der Rettungswagen (Teil 02)
+  - Der Rettungswagen (Teil 03)
+  - Die Doktoren (Teil 01)
+  - Die Doktoren (Teil 02)
+  - Die Doktoren (Teil 03)
+  - Die Super-Kartoffel (Teil 01)
+  - Die Super-Kartoffel (Teil 02)
+  - Die Super-Kartoffel (Teil 03)
+  - Opi Mummels Schwebefahrzeug (Teil 01)
+  - Opi Mummels Schwebefahrzeug (Teil 02)
+  - Opi Mummels Schwebefahrzeug (Teil 03)
+  - Der Spielgruppenstern (Teil 01)
+  - Der Spielgruppenstern (Teil 02)
+  - Der Spielgruppenstern (Teil 03)
+  - Die neue Straße von Herrn Bulle (Teil 01)
+  - Die neue Straße von Herrn Bulle (Teil 02)
+  - Die neue Straße von Herrn Bulle (Teil 03)
+  ids: []

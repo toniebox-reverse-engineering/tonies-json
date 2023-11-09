@@ -1,0 +1,35 @@
+article: '2000002922'
+lock-data: false
+data:
+- series: 100% Wolf
+  series-id: 100-wolf
+  episode: 'Folge 12: Die Falle'
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_099ee1b4fc10494b1b8f9d96b5aac078e4b4fe941a0f4ad793dc0462/3_mXy6V55RX_fQVK~_/100_wolf_horspiel_zur_tv_serie_012_folge_12_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/100-wolf/100-wolf-folge-12-die-falle/
+  shop-id: ab213778-2ef1-4fd4-b466-2807213b3884
+  track-desc:
+  - 12 - Die Falle (Inhaltsangabe)
+  - 100% Wolf Titelmusik
+  - 12 - Die Falle (Teil 01)
+  - 12 - Die Falle (Teil 02)
+  - 12 - Die Falle (Teil 03)
+  - 12 - Die Falle (Teil 04)
+  - 12 - Die Falle (Teil 05)
+  - 12 - Die Falle (Teil 06)
+  - 12 - Die Falle (Teil 07)
+  - 12 - Die Falle (Teil 08)
+  - 12 - Die Falle (Teil 09)
+  - 12 - Die Falle (Teil 10)
+  - 12 - Die Falle (Teil 11)
+  - 12 - Die Falle (Teil 12)
+  - 12 - Die Falle (Teil 13)
+  - 12 - Die Falle (Teil 14)
+  - 12 - Die Falle (Outro)
+  ids: []

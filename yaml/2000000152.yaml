@@ -1,0 +1,18 @@
+article: '2000000152'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Das Hexenhoroskop
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_5caca699bc4cefb277befa24465587c73ec74612a37b6478372cfc62/3_f0FWX7-Rgw-PvRXF/bibi_blocksberg_084_das_hexenhoroskop_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/das-hexenhoroskop/
+  shop-id: 2fa2d5df-8bba-4db0-8785-0980d1e44ab5
+  track-desc: []
+  ids: []

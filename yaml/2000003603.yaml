@@ -1,0 +1,18 @@
+article: '2000003603'
+lock-data: false
+data:
+- series: Schleich Dinosaurs
+  series-id: schleich-dinosaurs
+  episode: 'Folgen 15-16: Auf Spurensuche'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 99
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/2d7e9837b40cd8a1d4ae298ccf874f1af7c6c1580b800f14e7405e38/3_DB~mLGz9LF.VpT9J/schleich_dinosaurs_015_folgen_15_16__auf_spure_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/schleich-dinosaurs/folgen-15-16-auf-spurensuche/
+  shop-id: 54660575-ec63-4dd7-93be-05adf54230f4
+  track-desc: []
+  ids: []

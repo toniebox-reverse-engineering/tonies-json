@@ -1,0 +1,26 @@
+article: '2000010637'
+lock-data: false
+data:
+- series: Peppa Pig
+  series-id: peppa-pig
+  episode: Die Feuerwehr-Übung
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/aa696b41e5c6cfc6488239cf268f1da8f2cd6ef5734b01031ffce542/3_dJmvqT2s4_tkSkDM/peppa_pig_048_die_feuerwehr_ubung_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/peppa-pig/peppa-pig-folge-48-die-feuerwehr-ubung/
+  shop-id: a402bd47-07be-4149-8d73-19417a049200
+  track-desc:
+  - Die Feuerwehr-Übung (Inhaltsangabe)
+  - Die Feuerwehr-Übung
+  - Der Frühstücks-Club
+  - Opi Mümmels Düsenantrieb
+  - Steinzeit-Oma
+  - Im Wissenschaftsmuseum
+  - Windräder
+  - Die Feuerwehr-Übung (Outro)
+  ids: []

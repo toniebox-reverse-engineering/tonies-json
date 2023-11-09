@@ -1,0 +1,18 @@
+article: '2000003301'
+lock-data: false
+data:
+- series: Pumuckl
+  series-id: pumuckl
+  episode: 'Folge 56: Das Missverständnis'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_6576a6f08c501a583fc8fb8d5aef8d1b8e163e08c80015d35787e146/3_t4VC4R_z0Ds~djqw/pumuckl_056_folge_56__das_missverstandnis_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/pumuckl/das-missverstandnis-das-original-aus-dem-fernsehen/
+  shop-id: 62e7b37d-7bbe-4b5a-8389-9f56397cfa07
+  track-desc: []
+  ids: []

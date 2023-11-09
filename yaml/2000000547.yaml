@@ -1,0 +1,22 @@
+article: '2000000547'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Dreckiger Deal
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_291845a5a53c8fa7cf97f60bd8314d1def0a52b715f45db628f10b53/3_zvf1237RPXxlstKc/the_three_072_dreckiger_deal_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/dreckiger-deal/
+  shop-id: 5da802af-538e-4a34-8984-42488a37d8e6
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

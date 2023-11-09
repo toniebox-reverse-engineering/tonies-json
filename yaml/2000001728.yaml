@@ -1,0 +1,42 @@
+article: '2000001728'
+lock-data: false
+data:
+- series: Wickie
+  series-id: wickie
+  episode: Sturm auf die Festung
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_d6030c5b0b77d3ca12335ea42736c0a65dcc858470809bef3efb6ca9/3_ZSHm8CYnvDxz3lF8/wickie_004_sturm_auf_die_festung_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/wickie/wickie-sturm-auf-die-festung/
+  shop-id: a0b8c43d-5114-4409-afd5-f20ab2fc781e
+  track-desc:
+  - Sturm auf die Festung (Teil 1)
+  - Sturm auf die Festung (Teil 2)
+  - Sturm auf die Festung (Teil 3)
+  - Sturm auf die Festung (Teil 4)
+  - Sturm auf die Festung (Teil 5)
+  - Sturm auf die Festung (Teil 6)
+  - Sturm auf die Festung (Teil 7)
+  - Sturm auf die Festung (Teil 8)
+  - Sturm auf die Festung (Teil 9)
+  - Sturm auf die Festung (Teil 10)
+  - Sturm auf die Festung (Teil 11)
+  - Sturm auf die Festung (Teil 12)
+  - Nochmal davongekommen (Teil 1)
+  - Nochmal davongekommen (Teil 2)
+  - Nochmal davongekommen (Teil 3)
+  - Nochmal davongekommen (Teil 4)
+  - Nochmal davongekommen (Teil 5)
+  - Nochmal davongekommen (Teil 6)
+  - Nochmal davongekommen (Teil 7)
+  - Nochmal davongekommen (Teil 8)
+  - Nochmal davongekommen (Teil 9)
+  - Nochmal davongekommen (Teil 10)
+  - Nochmal davongekommen (Teil 11)
+  - Nochmal davongekommen (Teil 12)
+  ids: []

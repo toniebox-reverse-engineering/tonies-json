@@ -1,0 +1,18 @@
+article: '2000000348'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Gefahr für Falkenstein
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_c26015f233ddcecb73bef26be7fa2f796402d4c62716e53c7e4f0ba6/3_s~bR-Kmg_6mM~vfk/bibi_tina_040_gefahr_fur_falkenstein_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/gefahr-fur-falkenstein/
+  shop-id: 9d777628-da3a-44cf-b776-9b21f93b24db
+  track-desc: []
+  ids: []

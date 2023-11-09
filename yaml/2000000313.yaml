@@ -1,0 +1,18 @@
+article: '2000000313'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Der Liebesbrief
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_ca4a16e104af2d3362d5505d0bd560e26b1c79229d089d172d72d765/3_fl_q19NQbhQKqgCD/bibi_tina_012_der_liebesbrief_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/der-liebesbrief/
+  shop-id: 6810490c-0ae9-453b-a691-748195a37571
+  track-desc: []
+  ids: []

@@ -1,0 +1,22 @@
+article: '2000000537'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Die Legende der Gaukler
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_0991e1e58b0ac69a85f00a6475db06579267fa9a4cebe111b5579e86/3_fclDx_LVt3b2nv87/die_drei_198_die_legende_der_gaukler_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/die-legende-der-gaukler/
+  shop-id: d9074348-7f14-4222-b025-0bb1f6cfd284
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

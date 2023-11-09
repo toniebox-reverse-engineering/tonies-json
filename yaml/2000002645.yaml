@@ -1,0 +1,58 @@
+article: '2000002645'
+lock-data: false
+data:
+- series: Bob der Baumeister
+  series-id: bob-der-baumeister
+  episode: Das Buddel-Kuddel-Muddel
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_bddae4c5d913f60e53a74ba6a092502a2469a2b2c424642b5cb647c3/3_xx-lXvQ05B9s056v/bob_the_builder_015_das_buddel_kuddel_muddel_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bob-der-baumeister/bob-der-baumeister-das-buddel-kuddel-muddel/
+  shop-id: 2e8d4e69-1075-48a6-988e-bd56b98b3716
+  track-desc:
+  - Das Buddel-Kuddel-Muddel (Teil 01)
+  - Das Buddel-Kuddel-Muddel (Teil 02)
+  - Das Buddel-Kuddel-Muddel (Teil 03)
+  - Das Buddel-Kuddel-Muddel (Teil 04)
+  - Das Buddel-Kuddel-Muddel (Teil 05)
+  - Das Buddel-Kuddel-Muddel (Teil 06)
+  - Das Buddel-Kuddel-Muddel (Teil 07)
+  - Das Buddel-Kuddel-Muddel (Teil 08)
+  - Das Buddel-Kuddel-Muddel (Teil 09)
+  - Das Buddel-Kuddel-Muddel (Teil 10)
+  - Buddel und Bella (Teil 01)
+  - Buddel und Bella (Teil 02)
+  - Buddel und Bella (Teil 03)
+  - Buddel und Bella (Teil 04)
+  - Buddel und Bella (Teil 05)
+  - Buddel und Bella (Teil 06)
+  - Buddel und Bella (Teil 07)
+  - Buddel und Bella (Teil 08)
+  - Buddel und Bella (Teil 09)
+  - Buddel und Bella (Teil 10)
+  - Buddel, der Chauffeur (Teil 01)
+  - Buddel, der Chauffeur (Teil 02)
+  - Buddel, der Chauffeur (Teil 03)
+  - Buddel, der Chauffeur (Teil 04)
+  - Buddel, der Chauffeur (Teil 05)
+  - Buddel, der Chauffeur (Teil 06)
+  - Buddel, der Chauffeur (Teil 07)
+  - Buddel, der Chauffeur (Teil 08)
+  - Buddel, der Chauffeur (Teil 09)
+  - Buddel, der Chauffeur (Teil 10)
+  - Eine müffelige Mission (Teil 01)
+  - Eine müffelige Mission (Teil 02)
+  - Eine müffelige Mission (Teil 03)
+  - Eine müffelige Mission (Teil 04)
+  - Eine müffelige Mission (Teil 05)
+  - Eine müffelige Mission (Teil 06)
+  - Eine müffelige Mission (Teil 07)
+  - Eine müffelige Mission (Teil 08)
+  - Eine müffelige Mission (Teil 09)
+  - Eine müffelige Mission (Teil 10)
+  ids: []

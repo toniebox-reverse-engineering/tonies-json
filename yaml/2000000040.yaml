@@ -1,0 +1,18 @@
+article: '2000000040'
+lock-data: false
+data:
+- series: Benjamin Blümchen
+  series-id: benjamin-bluemchen
+  episode: auf dem Mond
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_bca93aa487c8a1da733d2ed0df4f4b20362e549c6bf032d4ab9c6c1a/3_fj09_lTd5JSBdSRr/benjamin_blumchen_011_auf_dem_mond_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/auf-dem-mond/
+  shop-id: a1db310b-78ee-489d-9a6c-a88094764729
+  track-desc: []
+  ids: []

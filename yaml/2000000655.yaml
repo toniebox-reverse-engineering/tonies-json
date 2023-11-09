@@ -1,0 +1,22 @@
+article: '2000000655'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und der Hexengarten
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_f295f476b4fc861713e5fa9c9c58def36cc8c475f8a24c7d5fa4057f/3_KTC.VJhlQ4HsC8v6/the_three_184_und_der_hexengarten_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-der-hexengarten/
+  shop-id: 3f05c9b6-2b61-402e-b7a2-489bdccd97b7
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

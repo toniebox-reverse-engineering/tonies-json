@@ -1,0 +1,18 @@
+article: '2000000125'
+lock-data: false
+data:
+- series: Benjamin Blümchen
+  series-id: benjamin-bluemchen
+  episode: und der sprechende Papagei
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_2c544ffee65d3ae6943cf93a83459101610aa049926f655798a3dba1/3_xm36D79R37rcl_wt/benjamin_blumchen_130_und_der_sprechende_papag_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/und-der-sprechende-papagei/
+  shop-id: c07a3177-c496-46af-b734-e1a9e1f13086
+  track-desc: []
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000003464'
+lock-data: false
+data:
+- series: LEGO Friends
+  series-id: lego-friends
+  episode: 'Folgen 58-61: Die Wahrheit'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_6202620ab7729cefa5915c5f09696b285bd4d5b6bf92e0d5eb730107/3_bttgsnL8QnZxxcLY/lego_friends_058_folgen_58_61__die_wahrheit_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-friends/lego-friends-folgen-58-61-die-wahrheit/
+  shop-id: f666cf7b-37f7-4cf3-bec9-61c2d4223cc8
+  track-desc: []
+  ids: []

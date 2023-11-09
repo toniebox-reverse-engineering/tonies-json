@@ -1,0 +1,18 @@
+article: '2000000141'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: als Prinzessin
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_1257a74bc5ee9ff13f2918cf03765ce8e52b1ad1d618f7f7d36865bd/3_pLsG48wJvkvQx89R/bibi_blocksberg_032_als_prinzessin_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/als-prinzessin/
+  shop-id: 6b4d9a4f-f0b6-44b2-a43b-2c74c985461b
+  track-desc: []
+  ids: []

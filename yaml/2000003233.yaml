@@ -1,0 +1,18 @@
+article: '2000003233'
+lock-data: false
+data:
+- series: Schleich Horse Club
+  series-id: schleich-horse-club
+  episode: 'Folge 01: Die geheimnisvolle Truhe'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_b135110d15cf7f257889d3350f520a37cb53fa3faf74b645157c2299/3_G4z_drHQ7GWc-B8J/schleich_horse_club_001_folge_01__die_geheimni_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/schleich-horse-club/folge-01-die-geheimnisvolle-truhe/
+  shop-id: 1a989a31-1f3f-406f-8fa1-29be73b055e7
+  track-desc: []
+  ids: []

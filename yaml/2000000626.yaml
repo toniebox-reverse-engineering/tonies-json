@@ -1,0 +1,22 @@
+article: '2000000626'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und das blaue Biest
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_6553cc47649ed68f2a53eb005242afeb1d3f6b7ec6f5ace88297ec98/3_C.02NyR~rRJ8vyGd/die_drei_167_und_das_blaue_biest_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-das-blaue-biest/
+  shop-id: 5ff7c617-466e-4d8a-b119-8b099abbfc2e
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

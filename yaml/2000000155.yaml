@@ -1,0 +1,18 @@
+article: '2000000155'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Das Schmusekätzchen
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_a9d90ef04ac9e77f580fb07e0d40659abc026e6826e709e7295d2d79/3_W-tFFnN-sV_jd.zX/bibi_blocksberg_080_das_schmusekatzchen_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/das-schmusekatzchen/
+  shop-id: b1c5b78d-fdbd-4b07-a816-b6396ae7a854
+  track-desc: []
+  ids: []

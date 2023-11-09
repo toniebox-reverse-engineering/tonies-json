@@ -1,0 +1,18 @@
+article: '2000000368'
+lock-data: false
+data:
+- series: Das Sams
+  series-id: das-sams
+  episode: Ein Sams für Martin Taschenbier
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_cb1ae59108aa7301a125103b9dbcb09c11afba67dba7e88969f01ece/3_8zGT37lnW-Bkqgl~/das_sams_004_ein_sams_fur_martin_taschenbier_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/das-sams/ein-sams-fur-martin-taschenbier/
+  shop-id: 833c849c-b25f-4d60-b807-e64c83709f80
+  track-desc: []
+  ids: []

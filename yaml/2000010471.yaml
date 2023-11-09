@@ -1,0 +1,27 @@
+article: '2000010471'
+lock-data: false
+data:
+- series: Peppa Pig
+  series-id: peppa-pig
+  episode: Der Piratenschatz
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/813ef29e14745ae57f45d903a39a646f21a961b6d6b4a277211da763/3_-6kyjWm0~qH4jgYQ/peppa_pig_042_der_piratenschatz_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/peppa-pig/peppa-pig-folge-42-der-piratenschatz/
+  shop-id: be3b7aae-dc37-48bb-96cf-c99a274ac3a9
+  track-desc:
+  - Der Piratenschatz (Inhaltsangabe)
+  - Der Piratenschatz
+  - Die Wüsteninsel
+  - Das kleine Boot (Teil 1)
+  - Das kleine Boot (Teil 2)
+  - Die Königin
+  - Pedro kommt zu spät
+  - 8. Herr Bulle im Porzellanladen
+  - Der Piratenschatz (Outro)
+  ids: []

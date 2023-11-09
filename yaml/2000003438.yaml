@@ -1,0 +1,18 @@
+article: '2000003438'
+lock-data: false
+data:
+- series: LEGO Friends
+  series-id: lego-friends
+  episode: 'Folge 06: Das Dschungel-Abenteuer'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_a704e5a57bce1bef98c7898e96deebdb18bee30d8dcc3c8db28184ee/3_c4r7G5nffZl_FKCJ/lego_friends_006_folge_06__das_dschungel_abent_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-friends/lego-friends-folge-06-das-dschungel-abenteuer/
+  shop-id: 0945a50c-2044-486b-9bff-7c7e96ada217
+  track-desc: []
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000003255'
+lock-data: false
+data:
+- series: Pumuckl
+  series-id: pumuckl
+  episode: 'Folge 10: Der rätselhafte Hund'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_c34e1e1fa010bc68ebb4a57f9faa57a1a4486775089d27813d0f85f5/3_kFy3NmP2hT2dp.d3/pumuckl_010_folge_10__der_ratselhafte_hund_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/pumuckl/der-ratselhafte-hund-das-original-aus-dem-fernsehe/
+  shop-id: 142474da-876a-48c3-b77e-4066feba712a
+  track-desc: []
+  ids: []

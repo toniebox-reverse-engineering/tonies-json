@@ -1,0 +1,22 @@
+article: '2000000716'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und die singende Schlange
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_13f207493b9f7e635deef0508a399acb7cfc68b86c55e2579542802d/3_2MpwtZj_SGhT6GwK/die_drei_025_und_die_singende_schlange_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-die-singende-schlange/
+  shop-id: d81296a8-507a-4de1-bd8f-b7edc4d9d8ea
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

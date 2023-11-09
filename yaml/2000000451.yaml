@@ -1,0 +1,18 @@
+article: '2000000451'
+lock-data: false
+data:
+- series: Pettersson und Findus
+  series-id: pettersson-und-findus
+  episode: Pettersson zeltet
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_7bd2c56820550e908fb78c93a261c6b35619e21552f16e5183944ab9/3_BplCYJhwQ5xWp__h/pettersson_und_findus_pettersson_zeltet_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/pettersson-und-findus/pettersson-zeltet/
+  shop-id: 9a517721-0050-4e0a-918b-251c5bad29c8
+  track-desc: []
+  ids: []

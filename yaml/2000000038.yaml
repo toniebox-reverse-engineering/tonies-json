@@ -1,0 +1,18 @@
+article: '2000000038'
+lock-data: false
+data:
+- series: Benjamin Blümchen
+  series-id: benjamin-bluemchen
+  episode: auf dem Baum
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_9a91c5a412cd13725414b29389910b712a7bf8c2d64d42b9d9bda763/3_5L5HxRDKhX4Bhq3s/benjamin_blumchen_008_auf_dem_baum_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/auf-dem-baum/
+  shop-id: 20803ef9-d229-448b-a0b0-f53fa83f5987
+  track-desc: []
+  ids: []

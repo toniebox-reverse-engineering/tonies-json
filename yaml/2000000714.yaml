@@ -1,0 +1,22 @@
+article: '2000000714'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und die Silbermine
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_8e5cd16eb11ce25b1d3a6abde66906f38cfc1a72465e3b05c062e563/3_0vZzGdl_HdTzByKz/the_three_026_und_die_silbermine_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-die-silbermine/
+  shop-id: ebdfebd6-ae3e-4f14-904d-931c6ad2874b
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

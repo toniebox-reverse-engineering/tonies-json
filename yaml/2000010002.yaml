@@ -1,0 +1,36 @@
+article: '2000010002'
+lock-data: false
+data:
+- series: Super Wings
+  series-id: super-wings
+  episode: 'Folge 42: Das Mega-Märchenfest'
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/f7eaf8905a1c6cb6026c0d9d332a6555af6c5ff07679b8eebfeaae41/3_rXVwbkmf45gwG5dY/super_wings_042_folge_42__das_mega_marchenfest_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/super-wings/super-wings-folge-42-das-mega-marchenfest/
+  shop-id: de2f4d09-7b5f-4d03-80b3-bbb47271f148
+  track-desc:
+  - Das Mega-Märchenfest (Inhaltsangabe)
+  - Wunderbare Wandmalerei (Teil 01)
+  - Wunderbare Wandmalerei (Teil 02)
+  - Wunderbare Wandmalerei (Teil 03)
+  - Wunderbare Wandmalerei (Teil 04)
+  - Das Mega-Märchenfest (Teil 01)
+  - Das Mega-Märchenfest (Teil 02)
+  - Das Mega-Märchenfest (Teil 03)
+  - Das Mega-Märchenfest (Teil 04)
+  - Der Held der Bücherwelt (Teil 01)
+  - Der Held der Bücherwelt (Teil 02)
+  - Der Held der Bücherwelt (Teil 03)
+  - Der Held der Bücherwelt (Teil 04)
+  - Aufruhr in der Turmuhr (Teil 01)
+  - Aufruhr in der Turmuhr (Teil 02)
+  - Aufruhr in der Turmuhr (Teil 03)
+  - Aufruhr in der Turmuhr (Teil 04)
+  - Das Mega-Märchenfest (Outro)
+  ids: []

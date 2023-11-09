@@ -1,0 +1,22 @@
+article: '2000000661'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und der magische Kreis
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_c2e6abe6fd6adc1390e484e01c4d315206b0a1acbf42fa0dfebc970b/3_YZb2NrJSlWV_Vxs5/the_three_027_und_der_magische_kreis_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-der-magische-kreis/
+  shop-id: 6d3783dd-cdc2-4931-952b-45a9fd1375e7
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

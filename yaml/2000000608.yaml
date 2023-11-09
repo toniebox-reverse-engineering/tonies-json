@@ -1,0 +1,22 @@
+article: '2000000608'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: SMS aus dem Grab
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_0b323b8b079293434c9b6334a7704031fb4aa01b9497399fd0512b61/3_1KfQGtzY8jxfCfcP/the_three_129_sms_aus_dem_grab_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/sms-aus-dem-grab/
+  shop-id: 78d10233-2c8e-4a2f-8c24-b9e126eaf61f
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

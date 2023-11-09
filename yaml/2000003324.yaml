@@ -1,0 +1,18 @@
+article: '2000003324'
+lock-data: false
+data:
+- series: Pumuckl
+  series-id: pumuckl
+  episode: 'Folge 79: Pumuckl sieht alles'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_70b88de835342041f45e73ed05610fc1b817ce30991f5a390ddac3e9/3_Db~jSfBGd77LD9yS/pumuckl_079_folge_79__pumuckl_sieht_alles_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-sieht-alles-das-original-aus-dem-fernsehen/
+  shop-id: b8dda9e8-62e2-4427-a803-537024505ec3
+  track-desc: []
+  ids: []

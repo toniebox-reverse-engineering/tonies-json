@@ -1,0 +1,18 @@
+article: '2000003878'
+lock-data: false
+data:
+- series: PAW Patrol
+  series-id: paw-patrol
+  episode: 'Folgen 255-258: Die Fellfreunde retten ein Wal-Baby'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_530348c129bf73755a919e91fe3858efc87c1a0a4fa93872d06369d6/3_KP~__GXFY8yzsDWT/paw_patrol_255_folgen_255_258__die_fellfreunde_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-255-258-die-fellfreunde-retten-ein-wal-baby/
+  shop-id: f67685c8-259d-4854-876c-41ca26d91e9d
+  track-desc: []
+  ids: []

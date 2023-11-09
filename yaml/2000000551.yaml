@@ -1,0 +1,34 @@
+article: '2000000551'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Feuriges Auge
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_ea6e8b4ebf2c6485afff6b3022e90b1c8371349f6108fc271082d69a/3_R88pCR0xs_7~V~wH/the_three_200_feuriges_auge_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/feuriges-auge/
+  shop-id: 787601b3-0bdc-4676-81b3-1350a5613dcf
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  - Teil 5
+  - Teil 6
+  - Teil 7
+  - Teil 8
+  - Teil 9
+  - Teil 10
+  - Teil 11
+  - Teil 12
+  - Teil 13
+  - Teil 14
+  - Teil 15
+  - Teil 16
+  ids: []

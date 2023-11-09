@@ -1,0 +1,18 @@
+article: '2000010102'
+lock-data: false
+data:
+- series: Alex de rappende papegaai
+  series-id: alex-de-rappende-papegaai
+  episode: Alex de rappende papegaai (1-2)
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_af430894291008aecce37c7de8c048ebd3e4e3455ed8a7b45b246231/3_9CwF4.BcJG1mfzCp/alex_de_rappende_papegaai_001_alex_de_rappende_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/alex-de-rappende-papegaai/alex-de-rappende-papegaai-1-2/
+  shop-id: 61480c2f-b517-441f-99e6-dfc9c3c07f5c
+  track-desc: []
+  ids: []

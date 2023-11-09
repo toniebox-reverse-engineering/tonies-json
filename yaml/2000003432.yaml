@@ -1,0 +1,18 @@
+article: '2000003432'
+lock-data: false
+data:
+- series: LEGO Ninjago
+  series-id: lego-ninjago
+  episode: Das Hörspiel zum TV-Special
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_b5f605d34a585f41a0d360e52c355bf6b3762246d81f62ab4a0e3e2d/3_pm-.FNLL53fTHLm-/lego_ninjago_000_das_horspiel_zum_tv_special_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-ninjago/das-horspiel-zum-tv-special/
+  shop-id: ae137bdc-94bd-4406-a36d-c270c566477b
+  track-desc: []
+  ids: []

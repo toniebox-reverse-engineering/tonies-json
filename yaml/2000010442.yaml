@@ -1,0 +1,18 @@
+article: '2000010442'
+lock-data: false
+data:
+- series: Hello Kitty
+  series-id: hello-kitty
+  episode: Hello Kitty - Gwiazda telewizyjna
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/befb34ac68e258a59acad0759a5e30bcb25efa5dcf08130c318e4cd1/3_HMGxv4x-vFLgsW~h/hello_kitty_hello_kitty_gwiazda_telewizyjna_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/hello-kitty/hello-kitty-gwiazda-telewizyjna/
+  shop-id: 77e0fb21-1784-4335-899c-a837c0bf79ca
+  track-desc: []
+  ids: []

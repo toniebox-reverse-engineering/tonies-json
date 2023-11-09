@@ -1,0 +1,18 @@
+article: '2000010291'
+lock-data: false
+data:
+- series: Peppa Pig
+  series-id: peppa-pig
+  episode: Pipsa Possu - Ukkijänis avaruudessa ja muita tarinoita
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/c30ccc57c90711a3bddfa985aca78d9be3dfbe08e8ea3cc20a88c48f/3_6BQy74HJcYzNMv_z/peppa_pig_002_pipsa_possu_ukkijanis_avaruude_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/peppa-pig/pipsa-possu-ukkijanis-avaruudessa-ja-muita-tarinoi/
+  shop-id: 0ddd189b-0a90-4266-9a71-3956cdfac96a
+  track-desc: []
+  ids: []

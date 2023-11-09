@@ -1,0 +1,18 @@
+article: '2000003098'
+lock-data: false
+data:
+- series: Sternenschweif
+  series-id: sternenschweif
+  episode: 'Teil 47: Traum der Sterne'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_aadda4848787bc3671f065328a42f4384658431b8a1eedb7f30384b4/3_bRwH~vR7j~Xz~q-7/sternenschweif_047_teil_47__traum_der_sterne_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/sternenschweif/teil-47-traum-der-sterne/
+  shop-id: eccad3c2-5870-48f0-b9ca-57c61ec5225f
+  track-desc: []
+  ids: []

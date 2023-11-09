@@ -1,0 +1,18 @@
+article: '2000002047'
+lock-data: false
+data:
+- series: Die Playmos
+  series-id: die-playmos
+  episode: Die Dinos kommen
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_bee80a865600be283ca77ddcac503424fa34f55f5722beefde3ced47/3_FQ-01RljK3VvCFbm/die_playmos_003_die_dinos_kommen_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-playmos/die-dinos-kommen/
+  shop-id: 772642be-a4e3-494b-bc2f-2c262a8a3a26
+  track-desc: []
+  ids: []

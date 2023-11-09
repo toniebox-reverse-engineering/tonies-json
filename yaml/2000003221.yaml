@@ -1,0 +1,18 @@
+article: '2000003221'
+lock-data: false
+data:
+- series: Schleich Eldrador Creatures
+  series-id: schleich-eldrador-creatures
+  episode: 'Folge 06: Roboter-Attacke'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_b2f9c290f0e3b2f325248139f82121cba3372e718ab2a72a1bfe8b8f/3_GMny-LGlrRsc_1td/schleich_eldrador_creatures_006_folge_06__robo_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/schleich-eldrador-creatures/folge-06-roboter-attacke/
+  shop-id: 1f33f777-2963-498d-b359-795e9ab77f80
+  track-desc: []
+  ids: []

@@ -1,0 +1,43 @@
+article: '2000002867'
+lock-data: false
+data:
+- series: Super Wings
+  series-id: super-wings
+  episode: Jett, der Surfer
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_31a9dbfafa15b14dc81d0b6c94f6ab0229494380e7c237d14742bedf/3_bR72dRlHqwvgBKgW/super_wings_032_jett_der_surfer_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/super-wings/super-wings-folge-32-jett-der-surfer/
+  shop-id: b2c3a3e7-f7bd-4350-8094-8d76dd6696bd
+  track-desc:
+  - Jett, der Surfer (Inhaltsangabe)
+  - Moskaus Metro (Teil 01)
+  - Moskaus Metro (Teil 02)
+  - Moskaus Metro (Teil 03)
+  - Moskaus Metro (Teil 04)
+  - Moskaus Metro (Teil 05)
+  - Chaos am Imbisswagen (Teil 01)
+  - Chaos am Imbisswagen (Teil 02)
+  - Chaos am Imbisswagen (Teil 03)
+  - Chaos am Imbisswagen (Teil 04)
+  - Chaos am Imbisswagen (Teil 05)
+  - Chaos am Imbisswagen (Teil 06)
+  - Jett, der Surfer (Teil 01)
+  - Jett, der Surfer (Teil 02)
+  - Jett, der Surfer (Teil 03)
+  - Jett, der Surfer (Teil 04)
+  - Jett, der Surfer (Teil 05)
+  - Jett, der Surfer (Teil 06)
+  - Mutig wie ein Löwe (Teil 01)
+  - Mutig wie ein Löwe (Teil 02)
+  - Mutig wie ein Löwe (Teil 03)
+  - Mutig wie ein Löwe (Teil 04)
+  - Mutig wie ein Löwe (Teil 05)
+  - Mutig wie ein Löwe (Teil 06)
+  - Mutig wie ein Löwe (Outro)
+  ids: []

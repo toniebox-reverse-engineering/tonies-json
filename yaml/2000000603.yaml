@@ -1,0 +1,22 @@
+article: '2000000603'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Schüsse aus dem Dunkel
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_3200b3383ca7a700c831e9c64e45b74ca1bf3ff31131417ad49aeb99/3_qlKDJVm52S.5Mv-s/die_drei_070_schusse_aus_dem_dunkel_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/schusse-aus-dem-dunkel/
+  shop-id: 2c8b7365-ad3d-4354-a08e-db53c24d1461
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

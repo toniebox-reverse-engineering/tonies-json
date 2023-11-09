@@ -1,0 +1,18 @@
+article: '2000003300'
+lock-data: false
+data:
+- series: Pumuckl
+  series-id: pumuckl
+  episode: 'Folge 55: Pumuckl spielt mit dem Feuer'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_face15bb66973c92a3d4e074d85cf2375f781c40c22be478666fb57d/3_lpMdnqs9lm_5Rdcv/pumuckl_055_folge_55__pumuckl_spielt_mit_dem_f_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-spielt-mit-dem-feuer-das-original-aus-dem/
+  shop-id: 4fbf446e-4dd5-4016-88db-6ecde98f64af
+  track-desc: []
+  ids: []

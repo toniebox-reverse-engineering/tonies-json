@@ -1,0 +1,18 @@
+article: '2000003355'
+lock-data: false
+data:
+- series: LEGO City
+  series-id: lego-city
+  episode: 'Folge 24: Das Monster-Rennen'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 7
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_a3d55479251bdcae3d3329137554edd0e5ff246f23a081b4e50c9313/3_7T-D9Ntdcjb4~.4D/lego_city_024_folge_24__das_monster_rennen_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-city/folge-24-das-monster-rennen/
+  shop-id: ae098bc8-4260-4861-917a-be0cec2de54b
+  track-desc: []
+  ids: []

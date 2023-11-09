@@ -1,0 +1,18 @@
+article: '2000000168'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Der Familienausflug
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_0f021ac5217a885d11ecafed0dbf71b493a7860fa75509a7e1da7794/3_Lf83XWw76BwZ8XZ-/bibi_blocksberg_108_der_familienausflug_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/der-familienausflug/
+  shop-id: c964f53f-2200-4d72-a535-a32cf46a9064
+  track-desc: []
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000000366'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Wo ist Felix?
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_d70c7a42a0cbdc2d755a2f35c9fa5f03eb7787026bea5ef1ec3b7db1/3_20~lyNkvRG4nKrkD/bibi_tina_075_wo_ist_felix_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/wo-ist-felix/
+  shop-id: a39be54c-377f-4c6e-98d2-20f29755cf15
+  track-desc: []
+  ids: []

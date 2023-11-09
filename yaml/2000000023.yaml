@@ -1,0 +1,18 @@
+article: '2000000023'
+lock-data: false
+data:
+- series: Benjamin Blümchen
+  series-id: benjamin-bluemchen
+  episode: als Müllmann
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_858b541e0bff214d17e340b45ee141c7bea8aa1679088e6181d427c7/3_MyXsQCw.M08-.FP_/benjamin_blumchen_049_als_mullmann_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/als-mullmann/
+  shop-id: 3b55feb3-1bfa-48e8-9089-1d70f88bfbc9
+  track-desc: []
+  ids: []

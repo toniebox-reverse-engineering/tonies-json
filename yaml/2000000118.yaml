@@ -1,0 +1,18 @@
+article: '2000000118'
+lock-data: false
+data:
+- series: Benjamin Blümchen
+  series-id: benjamin-bluemchen
+  episode: träumt
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_3199380e7279a1c44722974ef6c83e5df7e26b9bd5ce2a508270cfe3/3_CkCgJ1H0sh63wv~2/benjamin_blumchen_016_traumt_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/traumt/
+  shop-id: f5dc80de-423d-4064-9ebe-df0730ac073e
+  track-desc: []
+  ids: []

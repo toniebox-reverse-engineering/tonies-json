@@ -1,0 +1,18 @@
+article: '2000003384'
+lock-data: false
+data:
+- series: LEGO Ninjago
+  series-id: lego-ninjago
+  episode: 'Folgen 37-38: Kenne deine Feinde'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_ff899f56fef6e8f05aef99d234ae7a53ca06abbe3a50af715830cc76/3_nRrylx6n1dxh.lkq/lego_ninjago_037_folgen_37_38__kenne_deine_fei_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-37-38-kenne-deine-feinde/
+  shop-id: 174da973-67dd-4843-b89d-f28a1eb50c10
+  track-desc: []
+  ids: []

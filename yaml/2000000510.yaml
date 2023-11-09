@@ -1,0 +1,22 @@
+article: '2000000510'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Das Kabinett des Zauberers
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_63fd4960e4488ed161b77645428ec5f2deea5d5a66f0dd5c7fd7f525/3_44C2fbHhPSqqhr86/the_three_181_das_kabinett_des_zauberers_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/das-kabinett-des-zauberers/
+  shop-id: d699ee43-63a6-41fb-b7b2-4b82e162899e
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

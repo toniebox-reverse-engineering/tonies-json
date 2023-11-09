@@ -1,0 +1,22 @@
+article: '2000000507'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Das Erbe des Meisterdiebes
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_727e95fae6fbfb1cd63fd70d43fda6c221b3711426c05cab449eb63b/3_3HFPFvtHWW_dv2NS/the_three_103_das_erbe_des_meisterdiebes_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/das-erbe-des-meisterdiebes/
+  shop-id: 88530fa4-2119-4779-97c9-1a661259408c
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

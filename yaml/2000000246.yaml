@@ -1,0 +1,18 @@
+article: '2000000246'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Papis Geburtstag
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_fcfc05891ec7fb35369478d97eb635c86116e45182852cd49aeafa2b/3_wT9lsTk4890pf1gC/bibi_blocksberg_079_papis_geburtstag_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/papis-geburtstag/
+  shop-id: 2f798452-ce7d-4000-b4ce-a4ad7c62a976
+  track-desc: []
+  ids: []

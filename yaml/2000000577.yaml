@@ -1,0 +1,22 @@
+article: '2000000577'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Im Reich der Ungeheuer
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_158b5f144278aa02e01266d0291560f2a40456bdd71a32c8fe8f0446/3_474RBh3LVGW7x5TC/the_three_195_im_reich_der_ungeheuer_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/im-reich-der-ungeheuer/
+  shop-id: 5d8d5cb8-c60f-41b3-a751-a4466942824f
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

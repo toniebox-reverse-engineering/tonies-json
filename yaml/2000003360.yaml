@@ -1,0 +1,18 @@
+article: '2000003360'
+lock-data: false
+data:
+- series: LEGO City Abenteuer
+  series-id: lego-city-abenteuer
+  episode: 'Folgen 6-10: Harl Hubbs hilft'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 7
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_ccc9f041e559b97f42a64147f32ae013bb94764b2dc73f4186c16e93/3_QFdj7lCB4rq3zwbc/lego_city_abenteuer_002_folgen_6_10__harl_hubb_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-city-abenteuer/lego-city-tv-serie-folgen-6-10-harl-hubbs-hilft/
+  shop-id: 50e7cd78-506b-484a-87c0-5efa38774c9d
+  track-desc: []
+  ids: []

@@ -1,0 +1,22 @@
+article: '2000000719'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Verbrechen im Nichts
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_c75ca56cb7b98e1cb2b8aac34c02ba617b1387ae049e3f95551a9ed2/3_n6znJDdvFtlCF.xl/the_three_191_verbrechen_im_nichts_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/verbrechen-im-nichts/
+  shop-id: f7571aec-4884-4626-a9aa-0b5d3fb4d82d
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

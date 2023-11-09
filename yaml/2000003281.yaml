@@ -1,0 +1,18 @@
+article: '2000003281'
+lock-data: false
+data:
+- series: Pumuckl
+  series-id: pumuckl
+  episode: 'Folge 36: Der silberne Kegel'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_33dce98202cf7c384f5d68bec6503a30ad7fc33be80cdea9fa081b9f/3_BfFmzx2pM3hf_8bg/pumuckl_036_folge_36__der_silberne_kegel_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/pumuckl/der-silberne-kegel-das-original-aus-dem-fernsehen/
+  shop-id: aff34d82-0bf3-4f61-83bd-1e0eca96b854
+  track-desc: []
+  ids: []

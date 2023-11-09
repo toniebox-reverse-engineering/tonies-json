@@ -1,0 +1,36 @@
+article: '2000001833'
+lock-data: false
+data:
+- series: Peppa Pig
+  series-id: peppa-pig
+  episode: Auf dem Weihnachtsmarkt (und 5 weitere Geschichten)
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_fbe710a6c82d23b3e0b1fd8e8558ac02d43e0dba704c98bdbacb3365/3__v2yV3HdP1yV3VlQ/peppa_pig_010_auf_dem_weihnachtsmarkt_und_5_w_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/peppa-pig/peppa-pig-auf-dem-weihnachtsmarkt-und-5-weitere-ge/
+  shop-id: 59e8ee20-5ca4-4438-bf8b-ecc157573bc4
+  track-desc:
+  - Auf dem Weihnachtsmarkt (Teil 01)
+  - Auf dem Weihnachtsmarkt (Teil 02)
+  - Auf dem Weihnachtsmarkt (Teil 03)
+  - Besuch vom Weihnachtsmann (Teil 01)
+  - Besuch vom Weihnachtsmann (Teil 02)
+  - Besuch vom Weihnachtsmann (Teil 03)
+  - Freddie Fuchs (Teil 01)
+  - Freddie Fuchs (Teil 02)
+  - Freddie Fuchs (Teil 03)
+  - Pfeifen (Teil 01)
+  - Pfeifen (Teil 02)
+  - Pfeifen (Teil 03)
+  - Dr. Hamsters Schildkröte (Teil 01)
+  - Dr. Hamsters Schildkröte (Teil 02)
+  - Dr. Hamsters Schildkröte (Teil 03)
+  - Der Computer von Opa Wutz (Teil 01)
+  - Der Computer von Opa Wutz (Teil 02)
+  - Der Computer von Opa Wutz (Teil 03)
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000000290'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Das große Unwetter
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_e0ace628e6a148d20eed03aea3545e9064a84c1f68b832ba82c98438/3_RRM~S5nFY__7_GyS/bibi_tina_087_das_groe_unwetter_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/das-groe-unwetter/
+  shop-id: 9188e9a8-8245-4c1f-b69e-85d2b537647b
+  track-desc: []
+  ids: []

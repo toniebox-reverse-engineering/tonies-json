@@ -1,0 +1,18 @@
+article: '2000003318'
+lock-data: false
+data:
+- series: Pumuckl
+  series-id: pumuckl
+  episode: 'Folge 73: Der verstauchte Daumen'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_526aeb08264ec41f81a649930c1c976aabdc004f3ca9afb88c04aa8e/3_FNF57JG3P3bBBLSK/pumuckl_073_folge_73__der_verstauchte_daumen_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/pumuckl/der-verstauchte-daumen-das-original-aus-dem-fernse/
+  shop-id: 0b653eed-1187-4720-bc13-623d866eb2d3
+  track-desc: []
+  ids: []

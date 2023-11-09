@@ -1,0 +1,22 @@
+article: '2000000576'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Im Netz des Drachen
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_8a93c670b89a87720248160d06b4c27fef033b45e3caf6597932be08/3_xX3mmTZl60p2xn4c/the_three_156_im_netz_des_drachen_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/im-netz-des-drachen/
+  shop-id: 9908356e-1e97-4dd3-b954-5e2ccbb078c1
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

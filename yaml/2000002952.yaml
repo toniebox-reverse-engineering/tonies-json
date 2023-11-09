@@ -1,0 +1,18 @@
+article: '2000002952'
+lock-data: false
+data:
+- series: Pixi Wissen
+  series-id: pixi-wissen
+  episode: Das Meer
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_2d7f28e088c22d44e0e58490a4fafbcbb1bb7035f730ca5dca2dbdfa/3__1VfSnQX4h7wKxrB/pixi_wissen_das_meer_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/pixi-wissen/das-meer/
+  shop-id: e0da9536-1b23-4a98-9ec6-eb72e68861d3
+  track-desc: []
+  ids: []

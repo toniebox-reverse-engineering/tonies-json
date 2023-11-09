@@ -1,0 +1,42 @@
+article: '2000001719'
+lock-data: false
+data:
+- series: Wickie
+  series-id: wickie
+  episode: Der Zirkus kommt
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_31968a7490595bed484caf618d1979983fbacd8f003a88db8fa0661c/3_YVzv-ySTB._g5Ksp/wickie_011_der_zirkus_kommt_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/wickie/wickie-der-zirkus-kommt/
+  shop-id: 619353f1-0f43-4145-809e-7297a704de9d
+  track-desc:
+  - Der Zirkus kommt (Teil 1)
+  - Der Zirkus kommt (Teil 2)
+  - Der Zirkus kommt (Teil 3)
+  - Der Zirkus kommt (Teil 4)
+  - Der Zirkus kommt (Teil 5)
+  - Der Zirkus kommt (Teil 6)
+  - Der Zirkus kommt (Teil 7)
+  - Der Zirkus kommt (Teil 8)
+  - Halvar gewinnt einen Krieg (Teil 1)
+  - Halvar gewinnt einen Krieg (Teil 2)
+  - Halvar gewinnt einen Krieg (Teil 3)
+  - Halvar gewinnt einen Krieg (Teil 4)
+  - Halvar gewinnt einen Krieg (Teil 5)
+  - Halvar gewinnt einen Krieg (Teil 6)
+  - Halvar gewinnt einen Krieg (Teil 7)
+  - Halvar gewinnt einen Krieg (Teil 8)
+  - Die Schatzgräber (Teil 1)
+  - Die Schatzgräber (Teil 2)
+  - Die Schatzgräber (Teil 3)
+  - Die Schatzgräber (Teil 4)
+  - Die Schatzgräber (Teil 5)
+  - Die Schatzgräber (Teil 6)
+  - Die Schatzgräber (Teil 7)
+  - Die Schatzgräber (Teil 8)
+  ids: []

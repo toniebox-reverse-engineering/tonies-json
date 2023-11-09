@@ -1,0 +1,22 @@
+article: '2000000643'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und der Doppelgänger
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_f8de8a0747901039d1bc31108aa5231f731e553269a193ad3395cb39/3_263fsxV0~7_fzx.M/the_three_028_und_der_doppelganger_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-der-doppelganger/
+  shop-id: 83584aad-86cd-4a68-9f6a-356509a723ef
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

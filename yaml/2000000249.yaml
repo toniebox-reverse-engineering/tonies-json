@@ -1,0 +1,18 @@
+article: '2000000249'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Superpudel Puck
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_fa47636cc81c3ec1c92feede815db99ea85cd6c7a67663a996c534da/3_zS6fQHQXMVbLklbJ/bibi_blocksberg_088_superpudel_puck_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/superpudel-puck/
+  shop-id: 6177b173-a871-432b-9f66-9bad818ec1ac
+  track-desc: []
+  ids: []

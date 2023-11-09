@@ -1,0 +1,18 @@
+article: '2000000144'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Ausgehext!
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_54aebb4b19afce04b3785a503a1ab5cf96231b92ca1f73c0584970b0/3_SJLM8vhmTkxlFRd~/bibi_blocksberg_128_ausgehext_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/ausgehext/
+  shop-id: f39f4621-dc53-4a28-b96b-44ca339f53ca
+  track-desc: []
+  ids: []

@@ -1,0 +1,43 @@
+article: '2000000827'
+lock-data: false
+data:
+- series: Die Biene Maja - Klassiker
+  series-id: die-biene-maja-klassiker
+  episode: Wie die Fliege gefoppt wird
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_e4dcff4a669c29028e171703210aee4d54173ca6d0d1eab3c2ff9b67/3_vxhdP-cZW-SC~Cwf/die_biene_maja_klassiker_012_wie_die_fliege__530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-biene-maja-klassiker/die-biene-maja-wie-die-fliege-gefoppt-wird/
+  shop-id: 8069563a-6bc4-48d5-a0a0-89661c688bdb
+  track-desc:
+  - Die Biene Maja
+  - Die Raupe bekommt ein Haus (Teil 1)
+  - Die Raupe bekommt ein Haus (Teil 2)
+  - Die Raupe bekommt ein Haus (Teil 3)
+  - Die Raupe bekommt ein Haus (Teil 4)
+  - Die Raupe bekommt ein Haus (Teil 5)
+  - Die Raupe bekommt ein Haus (Teil 6)
+  - Maja und Iffi im Regen (Teil 1)
+  - Maja und Iffi im Regen (Teil 2)
+  - Maja und Iffi im Regen (Teil 3)
+  - Maja und Iffi im Regen (Teil 4)
+  - Maja und Iffi im Regen (Teil 5)
+  - Maja und Iffi im Regen (Teil 6)
+  - Maja und die Heuschrecke (Teil 1)
+  - Maja und die Heuschrecke (Teil 2)
+  - Maja und die Heuschrecke (Teil 3)
+  - Maja und die Heuschrecke (Teil 4)
+  - Maja und die Heuschrecke (Teil 5)
+  - Maja und die Heuschrecke (Teil 6)
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  - Teil 5
+  - Teil 6
+  ids: []

@@ -1,0 +1,22 @@
+article: '2000000497'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Auf tödlichem Kurs
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_7879a9d858f7e88d774bdd9d0c92ba1ea3466ee0af912daaa5b5a91e/3_.PlY1dM5CWDdxsZL/die_drei_115_auf_todlichem_kurs_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/auf-todlichem-kurs/
+  shop-id: 7b8460e6-58f8-42e2-a0f0-91b3ca7f38d5
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

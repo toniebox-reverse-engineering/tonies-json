@@ -1,0 +1,43 @@
+article: '2000000816'
+lock-data: false
+data:
+- series: Die Biene Maja - Klassiker
+  series-id: die-biene-maja-klassiker
+  episode: Flip sitzt in der Falle
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_feb5edfcd6de6c556c62b5853485f79a127a209dff8edde7c76a3575/3_lcx291Mt.F-Z1fLp/die_biene_maja_klassiker_004_flip_sitzt_in_d_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-biene-maja-klassiker/die-biene-maja-flip-sitzt-in-der-falle/
+  shop-id: b62eaee6-de1d-460b-ab68-41c1fcea4bc8
+  track-desc:
+  - Die Biene Maja
+  - Thekla hat sich verrechnet (Teil 1)
+  - Thekla hat sich verrechnet (Teil 2)
+  - Thekla hat sich verrechnet (Teil 3)
+  - Thekla hat sich verrechnet (Teil 4)
+  - Thekla hat sich verrechnet (Teil 5)
+  - Thekla hat sich verrechnet (Teil 6)
+  - Hilfe, die Heuschrecken kommen (Teil 1)
+  - Hilfe, die Heuschrecken kommen (Teil 2)
+  - Hilfe, die Heuschrecken kommen (Teil 3)
+  - Hilfe, die Heuschrecken kommen (Teil 4)
+  - Hilfe, die Heuschrecken kommen (Teil 5)
+  - Hilfe, die Heuschrecken kommen (Teil 6)
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  - Teil 5
+  - Teil 6
+  - Maja und der Tausendfüssler Hironimus (Teil 1)
+  - Maja und der Tausendfüssler Hironimus (Teil 2)
+  - Maja und der Tausendfüssler Hironimus (Teil 3)
+  - Maja und der Tausendfüssler Hironimus (Teil 4)
+  - Maja und der Tausendfüssler Hironimus (Teil 5)
+  - Maja und der Tausendfüssler Hironimus (Teil 6)
+  ids: []

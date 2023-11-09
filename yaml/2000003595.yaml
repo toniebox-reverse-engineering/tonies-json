@@ -1,0 +1,18 @@
+article: '2000003595'
+lock-data: false
+data:
+- series: Jan Tenner
+  series-id: jan-tenner
+  episode: Der Stein der Macht
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 10
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_f103de5915de78e09c3b91258fb7a8988a5131e450829982a8bc0bb0/3_nCfcxXxL7QTGNWpq/jan_tenner_023_der_stein_der_macht_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/jan-tenner/der-stein-der-macht/
+  shop-id: 454f9e51-fcfd-46d5-af8c-62309b6af319
+  track-desc: []
+  ids: []

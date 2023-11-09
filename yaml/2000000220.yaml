@@ -1,0 +1,18 @@
+article: '2000000220'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Ein verhexter Sonntag
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_e13dadd089ca038a79f346c05439e817e9c9e39576a7e31d07f885b5/3_gXBy~q_6MLCfKR.z/bibi_blocksberg_013_ein_verhexter_sonntag_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/ein-verhexter-sonntag/
+  shop-id: d5624ca6-bc74-4b10-aaaa-90906a807f8d
+  track-desc: []
+  ids: []

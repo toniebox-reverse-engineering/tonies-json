@@ -1,0 +1,18 @@
+article: '2000000452'
+lock-data: false
+data:
+- series: Pettersson und Findus
+  series-id: pettersson-und-findus
+  episode: Schau mal, was ich kann, Pettersson!
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_fa8a777b1b621f66e447898f6e573c6f61c172db38e3ef4764d32c72/3_nFyNlJsP95.7J9n8/pettersson_und_findus_schau_mal_was_ich_kann_p_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/pettersson-und-findus/schau-mal-was-ich-kann-pettersson/
+  shop-id: 28e16833-acf2-4170-be3d-ece761578f14
+  track-desc: []
+  ids: []

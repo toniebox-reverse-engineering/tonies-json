@@ -1,0 +1,18 @@
+article: '2000010207'
+lock-data: false
+data:
+- series: Der junge Sherlock Holmes
+  series-id: der-junge-sherlock-holmes
+  episode: Der verschwundene Kadett
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 10
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/28a60299caaa497c6bc5b2b4f29aecb47db1bab3db0417c1f644dc34/3_2F5V~hzh_bwc.vLl/der_junge_sherlock_holmes_013_der_verschwunden_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/der-junge-sherlock-holmes/der-junge-sherlock-holmes-folge-13-der-verschwunde/
+  shop-id: ec378d1f-6e6c-41b1-a163-ed5b1ffed790
+  track-desc: []
+  ids: []

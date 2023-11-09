@@ -1,0 +1,18 @@
+article: '2000000263'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Verhexte Weihnachten
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_331fc0d4a9bde039cc90bb0f39a765df76ee90a7d71540007cc71e26/3_3rt~H~YW6G7dllKW/bibi_blocksberg_069_verhexte_weihnachten_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/verhexte-weihnachten/
+  shop-id: 2292749e-1e41-4808-926e-10647222b2b7
+  track-desc: []
+  ids: []

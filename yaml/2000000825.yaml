@@ -1,0 +1,43 @@
+article: '2000000825'
+lock-data: false
+data:
+- series: Die Biene Maja - Klassiker
+  series-id: die-biene-maja-klassiker
+  episode: Maja und der Regenwurm Max
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_21011eeac2857acbc499ce5e93ce5068442b7285961b565526bb60ef/3_-Hwtpn-VJdqD~vRh/die_biene_maja_klassiker_003_maja_und_der_re_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-biene-maja-klassiker/die-biene-maja-maja-und-der-regenwurm-max/
+  shop-id: 6e70a495-5697-427f-ad79-f5b261dad668
+  track-desc:
+  - Die Biene Maja
+  - Maja und der Frosch (Teil 1)
+  - Maja und der Frosch (Teil 2)
+  - Maja und der Frosch (Teil 3)
+  - Maja und der Frosch (Teil 4)
+  - Maja und der Frosch (Teil 5)
+  - Maja und der Frosch (Teil 6)
+  - Maja und der Regenwurm (Teil 1)
+  - Maja und der Regenwurm (Teil 2)
+  - Maja und der Regenwurm (Teil 3)
+  - Maja und der Regenwurm (Teil 4)
+  - Maja und der Regenwurm (Teil 5)
+  - Maja und der Regenwurm (Teil 6)
+  - Maja, das Glühwürmchen und die Maulwurfsgrille (Teil 1)
+  - Maja, das Glühwürmchen und die Maulwurfsgrille (Teil 2)
+  - Maja, das Glühwürmchen und die Maulwurfsgrille (Teil 3)
+  - Maja, das Glühwürmchen und die Maulwurfsgrille (Teil 4)
+  - Maja, das Glühwürmchen und die Maulwurfsgrille (Teil 5)
+  - Maja, das Glühwürmchen und die Maulwurfsgrille (Teil 6)
+  - Das Wettspringen (Teil 1)
+  - Das Wettspringen (Teil 2)
+  - Das Wettspringen (Teil 3)
+  - Das Wettspringen (Teil 4)
+  - Das Wettspringen (Teil 5)
+  - Das Wettspringen (Teil 6)
+  ids: []

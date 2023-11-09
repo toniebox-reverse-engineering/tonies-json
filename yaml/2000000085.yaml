@@ -1,0 +1,18 @@
+article: '2000000085'
+lock-data: false
+data:
+- series: Benjamin Blümchen
+  series-id: benjamin-bluemchen
+  episode: Die Wunderblume
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_cf14682c5c176192e859f9324a2eaf01712df00d89704ba90f14a92d/3_JRkJHVS0zx~dC8g8/benjamin_blumchen_095_die_wunderblume_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/die-wunderblume/
+  shop-id: 4ee1cc01-215b-41fd-8391-d246062641b4
+  track-desc: []
+  ids: []

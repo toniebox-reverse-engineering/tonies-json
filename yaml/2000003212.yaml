@@ -1,0 +1,18 @@
+article: '2000003212'
+lock-data: false
+data:
+- series: Schleich Dinosaurs
+  series-id: schleich-dinosaurs
+  episode: 'Folgen 13-14: Der geheimnisvolle See'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_313a20b0d11aa2cc07caaca10c25377aebfc4aea48552537183835f8/3_Rt6sKYZn-b2sgNTL/schleich_dinosaurs_013_folgen_13_14__der_gehei_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/schleich-dinosaurs/folgen-13-14-der-geheimnisvolle-see/
+  shop-id: e74e269c-8410-4ae0-8edc-1018a581ce7f
+  track-desc: []
+  ids: []

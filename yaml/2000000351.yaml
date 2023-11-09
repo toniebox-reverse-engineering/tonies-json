@@ -1,0 +1,18 @@
+article: '2000000351'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Holgers Versprechen
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_1466d3f4a8d88ceb7cc448bf13d56cacfaa8e1d1802303b3a342136b/3_5Qgq218sG6HtvYw_/bibi_tina_062_holgers_versprechen_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/holgers-versprechen/
+  shop-id: e11f0bac-17d4-4a0d-baeb-62afa4ead070
+  track-desc: []
+  ids: []

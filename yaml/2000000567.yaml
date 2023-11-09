@@ -1,0 +1,22 @@
+article: '2000000567'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Grusel auf Campbell Castle
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_e2e0d29b2120870c1bd5a989539ef8d7f4d0a47d932bd7652a9ab9f8/3_-QQCWwwyN8Fv-.T0/die_drei_147_grusel_auf_campbell_castle_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/grusel-auf-campbell-castle/
+  shop-id: 2ba3b833-2eb3-45fa-a096-fff36144fe76
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

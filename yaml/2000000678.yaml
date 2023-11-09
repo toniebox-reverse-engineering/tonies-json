@@ -1,0 +1,22 @@
+article: '2000000678'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und der Super-Wal
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_5a510fc0d2a766c01b05247dd6644b947d1b9aaa88d338b0740b9ad1/3_kvZWMBN5rcxWHZND/die_drei_036_und_der_super_wal_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-der-super-wal/
+  shop-id: 2f75e08b-17c3-467a-ab87-5763635f3c25
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

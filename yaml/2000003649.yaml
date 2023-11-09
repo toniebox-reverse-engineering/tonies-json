@@ -1,0 +1,31 @@
+article: '2000003649'
+lock-data: false
+data:
+- series: 100% Wolf
+  series-id: 100-wolf
+  episode: 'Folge 16: Die geheime Grabkammer'
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/38c2971b3aa9efdb31da109883ea265dde358d3210ce8545338c63ea/3_~14RGYdl2BrDtcPG/100_wolf_horspiel_zur_tv_serie_016_folge_16_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/100-wolf/100-wolf-folge-16-die-geheime-grabkammer/
+  shop-id: 18a3fd1f-fd73-4cc2-b6ad-8234039c4302
+  track-desc:
+  - 16 - Die geheime Grabkammer (Inhaltsangabe)
+  - 100% Wolf Titelmusik
+  - 16 - Die geheime Grabkammer (Teil 01)
+  - 16 - Die geheime Grabkammer (Teil 02)
+  - 16 - Die geheime Grabkammer (Teil 03)
+  - 16 - Die geheime Grabkammer (Teil 04)
+  - 16 - Die geheime Grabkammer (Teil 05)
+  - 16 - Die geheime Grabkammer (Teil 06)
+  - 16 - Die geheime Grabkammer (Teil 07)
+  - 16 - Die geheime Grabkammer (Teil 08)
+  - 16 - Die geheime Grabkammer (Teil 09)
+  - 16 - Die geheime Grabkammer (Teil 10)
+  - 16 - Die geheime Grabkammer (Outro)
+  ids: []

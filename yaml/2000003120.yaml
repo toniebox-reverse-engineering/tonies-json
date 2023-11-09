@@ -1,0 +1,18 @@
+article: '2000003120'
+lock-data: false
+data:
+- series: Mein Lotta-Leben
+  series-id: mein-lotta-leben
+  episode: Ich glaub, meine Kröte pfeift!
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 99
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_1267dcfe206113a44d83e82bf0660b059f5033a8a351675e83b0eee0/3_SS16g76xdvFM77wP/mein_lotta_leben_005_ich_glaub_meine_krote_pf_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/mein-lotta-leben/ich-glaub-meine-krote-pfeift/
+  shop-id: 8512c65e-5780-4353-9c7b-af07d4c25d19
+  track-desc: []
+  ids: []

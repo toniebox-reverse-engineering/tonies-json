@@ -1,0 +1,18 @@
+article: '2000000329'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Die Osterferien
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_7f3842c06bd7010435c10ec7c7a65736a652f564e0c5bd2b3577852d/3_thtcbYHcP-sR_Bz2/bibi_tina_026_die_osterferien_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/die-osterferien/
+  shop-id: 9059903e-8afa-4f9d-bae4-519194ca2530
+  track-desc: []
+  ids: []

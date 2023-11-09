@@ -1,0 +1,18 @@
+article: '2000003348'
+lock-data: false
+data:
+- series: LEGO City
+  series-id: lego-city
+  episode: Folge 17 - Vulkan - Am feuerspeienden Berg
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 7
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_9314b08719ea0fc5dd012efd68b745fb180545fcf5a6eae71ab5eb14/3_t~8Q2KDtHk_Q9X1V/lego_city_017_folge_17_vulkan_am_feuerspei_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-city/lego-city-folge-17-vulkan-am-feuerspeienden-berg/
+  shop-id: abb151d5-fd97-4c23-9ad3-462dffd3552a
+  track-desc: []
+  ids: []

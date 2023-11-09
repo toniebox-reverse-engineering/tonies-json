@@ -1,0 +1,22 @@
+article: '2000000701'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und die gefährliche Erbschaft
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_e83624d4475017aa6fdf2a65296c60320926c0c94d11380294214dd7/3_fqCJS3xpHQ1fnjl9/the_three_017_und_die_gefahrliche_erbschaf_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-die-gefahrliche-erbschaft/
+  shop-id: f9c18d4e-2f97-4a4b-85e4-4a1b0fe61056
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000003457'
+lock-data: false
+data:
+- series: LEGO Friends
+  series-id: lego-friends
+  episode: 'Folgen 36-38: Das Theaterstück'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_ad4e7af1b2d801fb0b463e56f04c9832528746fc42f95db5aa8c0709/3_N07411q3_znM8Js1/lego_friends_036_folgen_36_38__das_theaterstuc_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-friends/lego-friends-folgen-36-38-das-theaterstuck/
+  shop-id: 3001ab58-81b3-410f-99cc-798e314e2a78
+  track-desc: []
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000010216'
+lock-data: false
+data:
+- series: Ralph Ruthe
+  series-id: ralph-ruthe
+  episode: Flossen
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 7
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_07ef4f1c98ec926e3b6b49d4b179529fa6e44f9da0264c210d3dde64/3_H~HqkWWwGsB0yq_N/ralph_ruthe_flossen_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/ralph-ruthe/ruthe-flossen/
+  shop-id: b7b4a9ad-6e43-4352-ba44-e70cddffab70
+  track-desc: []
+  ids: []

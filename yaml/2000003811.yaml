@@ -1,0 +1,30 @@
+article: '2000003811'
+lock-data: false
+data:
+- series: 100% Wolf
+  series-id: 100-wolf
+  episode: 'Folge 23: Stein der Verdammnis'
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/b6102b571b50f7a272b2dd8708c63413486b4a820828c4fd50313a32/3_HGwxn9w7sPJwp1QY/100_wolf_horspiel_zur_tv_serie_023_folge_23_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/100-wolf/100-wolf-folge-23-stein-der-verdammnis/
+  shop-id: 1c4ec72f-3eb0-4503-9c89-606e656af614
+  track-desc:
+  - 23 - Stein der Verdammnis (Inhaltsangabe)
+  - 100% Wolf Titelmusik
+  - 23 - Stein der Verdammnis (Teil 01)
+  - 23 - Stein der Verdammnis (Teil 02)
+  - 23 - Stein der Verdammnis (Teil 03)
+  - 23 - Stein der Verdammnis (Teil 04)
+  - 23 - Stein der Verdammnis (Teil 05)
+  - 23 - Stein der Verdammnis (Teil 06)
+  - 23 - Stein der Verdammnis (Teil 07)
+  - 23 - Stein der Verdammnis (Teil 08)
+  - 23 - Stein der Verdammnis (Teil 09)
+  - 23 - Stein der Verdammnis (Outro)
+  ids: []

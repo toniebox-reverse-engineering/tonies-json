@@ -1,0 +1,18 @@
+article: '2000000284'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Das Findel-Fohlen
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_824aa7e22d42361eaedac45b37b04539ac67827d9da1b97606ba29b2/3_l-TNTk~H~bYw9K.M/bibi_tina_039_das_findel_fohlen_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/das-findel-fohlen/
+  shop-id: 61b3abb3-fad7-43b5-ad3f-14ec666b505c
+  track-desc: []
+  ids: []

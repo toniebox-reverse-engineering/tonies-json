@@ -1,0 +1,22 @@
+article: '2000000557'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Gefährliches Quiz
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_2d263f5f05c8ad891eaf74b44d2cdb7a00eeff00ee0228b7fe4398a9/3_y~8gMhx7DKPBSWYj/die_drei_109_gefahrliches_quiz_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/gefahrliches-quiz/
+  shop-id: da46ac43-7b21-467b-91f3-fe9cf2020938
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

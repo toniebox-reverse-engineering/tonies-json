@@ -1,0 +1,22 @@
+article: '2000000550'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Feuerturm
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_f1e8fded22385837e36ca5678aa21ec20f48f7960d51344173e9c515/3_QC0nJrWR1~kVLDt9/the_three_085_feuerturm_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/feuerturm/
+  shop-id: 3f58ba5f-8220-4930-8b6d-65a4218e07f2
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

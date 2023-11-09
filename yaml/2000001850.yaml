@@ -1,0 +1,51 @@
+article: '2000001850'
+lock-data: false
+data:
+- series: Prinzessin Lillifee
+  series-id: prinzessin-lillifee
+  episode: 'Gute-Nacht-Geschichten Folge 03+04: Tanz der Einhörner / Das verlorene
+    Ei'
+  release: 0
+  language: de-de
+  category: audio-book-songs
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_6fa8aeb7060b0fac61f9d437e106613e1e03e0d66f88663865057724/3_BrB~YWPfkJBq1G_v/princess_lillifee_002_gute_nacht_geschichten_f_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/prinzessin-lillifee/prinzessin-lillifee-gute-nacht-geschichten-folge-3/
+  shop-id: 4b0db39d-99c4-45fc-9d7a-37a282cde29a
+  track-desc:
+  - Geschichten von mir (Titelsong)
+  - Tanz der Einhörner (Teil 1)
+  - 'Tanz der Einhörner (Teil 2: Eine super Idee)'
+  - 'Tanz der Einhörner (Teil 3: Im Zauberwald)'
+  - 'Tanz der Einhörner (Teil 4: Laurin, der Elf)'
+  - 'Tanz der Einhörner (Teil 5: Hallo Pollie!)'
+  - 'Tanz der Einhörner (Teil 6: Vollmondwasser)'
+  - 'Tanz der Einhörner (Teil 7: Guten Flug!)'
+  - 'Tanz der Einhörner (Teil 8: Warten auf Rosalie)'
+  - 'Tanz der Einhörner (Teil 9: Rosen im Mondlicht)'
+  - 'Tanz der Einhörner (Teil 10: Laurins Lied)'
+  - 'Tanz der Einhörner (Teil 11: Alles war gut)'
+  - 'Gute-Nacht-Lied: Sternenlicht'
+  - Der Mäusespion
+  - Das verlorene Ei (Teil 1)
+  - 'Das verlorene Ei (Teil 2: Auf in die Betten!)'
+  - 'Das verlorene Ei (Teil 3: Der Seepapagei)'
+  - 'Das verlorene Ei (Teil 4: Ein Sonnenbad)'
+  - 'Das verlorene Ei (Teil 5: Fredi, der Pinguin)'
+  - 'Das verlorene Ei (Teil 6: Wo ist das Ei?)'
+  - 'Das verlorene Ei (Teil 7: Durch den Dschungel)'
+  - 'Das verlorene Ei (Teil 8: Die Smaragdbucht)'
+  - 'Das verlorene Ei (Teil 9: Attila)'
+  - 'Das verlorene Ei (Teil 10: Papa, Papa!)'
+  - 'Das verlorene Ei (Teil 11: Tschüß Fredi)'
+  - 'Das verlorene Ei (Teil 12: Du hast die Torte!)'
+  - Sternenlicht (Nachtversion)
+  - Geschichten von mir (Full Version)
+  - 'Gute-Nacht-Lied: Sternenlicht (Instrumental)'
+  - Im Zauberwald (Instrumental)
+  - Der Mäusespion (Instrumental)
+  - Der Seepapagei (Instrumental)
+  ids: []

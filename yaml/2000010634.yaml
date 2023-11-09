@@ -1,0 +1,26 @@
+article: '2000010634'
+lock-data: false
+data:
+- series: Peppa Pig
+  series-id: peppa-pig
+  episode: Eiscreme
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/b6c43dd9c8da53b3f3c39625b74bbf803df76c95b7b7f2df10add907/3_JQZ-v.qbfZNwkRSR/peppa_pig_050_eiscreme_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/peppa-pig/peppa-pig-folge-50-eiscreme/
+  shop-id: 8900c071-f8f6-446d-97c4-5983f9873ee4
+  track-desc:
+  - Eiscreme (Inhaltsangabe)
+  - Eiscreme
+  - Der perfekte Tag
+  - Schmetterlinge
+  - Das Elektroauto
+  - Die Musik-Box
+  - Die Sandburg
+  - Eiscreme (Outro)
+  ids: []

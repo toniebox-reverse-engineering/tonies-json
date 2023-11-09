@@ -1,0 +1,33 @@
+article: '2000000549'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Feuermond
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_4b3b5493290e3f492aafa2050cd26ee008e6ea4bc2d18ee68d72885d/3_chdMQGJ3~vsjtCGD/the_three_125_feuermond_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/feuermond/
+  shop-id: 34f9987c-37fa-4e78-820b-967be45f1d81
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  - Bonus CD 1
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  - Bonus CD 2
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  - Bonus CD 3
+  ids: []

@@ -1,0 +1,48 @@
+article: '2000002632'
+lock-data: false
+data:
+- series: Bob der Baumeister (Die Klassiker)
+  series-id: bob-der-baumeister-die-klassiker
+  episode: Bobs Rettung
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_c647d5b32c671a96668caee75bf61d9c6eea60d5865efbb9bdcbfe52/3_C9dHwTqbtjCVvp.H/klassiker_006_bobs_rettung_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bob-der-baumeister-die-klassiker/bob-der-baumeister-bobs-rettung/
+  shop-id: 4a5fbb46-5a2f-46c3-aea9-d813b1800952
+  track-desc:
+  - Teil 01
+  - Teil 02
+  - Teil 03
+  - Teil 04
+  - Teil 05
+  - Teil 06
+  - Teil 07
+  - Teil 08
+  - Teil 09
+  - Teil 10
+  - Teil 11
+  - Teil 12
+  - Teil 13
+  - Teil 14
+  - Teil 15
+  - 06 - Nochmal gut gegangen (Teil 01)
+  - 06 - Nochmal gut gegangen (Teil 02)
+  - 06 - Nochmal gut gegangen (Teil 03)
+  - 06 - Nochmal gut gegangen (Teil 04)
+  - 06 - Nochmal gut gegangen (Teil 05)
+  - 06 - Nochmal gut gegangen (Teil 06)
+  - 06 - Nochmal gut gegangen (Teil 07)
+  - 06 - Nochmal gut gegangen (Teil 08)
+  - 06 - Nochmal gut gegangen (Teil 09)
+  - 06 - Nochmal gut gegangen (Teil 10)
+  - 06 - Nochmal gut gegangen (Teil 11)
+  - 06 - Nochmal gut gegangen (Teil 12)
+  - 06 - Nochmal gut gegangen (Teil 13)
+  - 06 - Nochmal gut gegangen (Teil 14)
+  - 06 - Nochmal gut gegangen (Teil 15)
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000003040'
+lock-data: false
+data:
+- series: PAW Patrol
+  series-id: paw-patrol
+  episode: 'Folgen 191-194: Everest und der Polarwolf'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/3ba0f25ed81a80507b43b6840751293af3ecbd2cc06c88f83b3b1d65/3_jFGWW8CVNy1~7SvD/paw_patrol_191_folgen_191_194__everest_und_der_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-191-194-everest-und-der-polarwolf/
+  shop-id: 2cad73a7-3228-4c70-8d3f-d2d2e6676d0b
+  track-desc: []
+  ids: []

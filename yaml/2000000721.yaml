@@ -1,0 +1,22 @@
+article: '2000000721'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Wolfsgesicht
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_725015734eeec43bfaf00008d1df0ff01fdbaf4c04fab70525277c61/3_NJrnwnY_.KKp04lJ/die_drei_087_wolfsgesicht_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/wolfsgesicht/
+  shop-id: ff034204-858c-4078-a702-16f4b5b9da5b
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

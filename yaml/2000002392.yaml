@@ -1,0 +1,18 @@
+article: '2000002392'
+lock-data: false
+data:
+- series: PAW Patrol
+  series-id: paw-patrol
+  episode: 'Folgen 27-30: Der Stromausfall'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/29f878ecb7d3fa4d9f0bf03fc46c08d5cd24b4d1362910a9b938f422/3_hcSrl17wBzC9GF6Y/paw_patrol_027_folgen_27_30__der_stromausfall_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-27-30-der-stromausfall/
+  shop-id: c9861e85-88e0-4a45-8f9d-64e02812b494
+  track-desc: []
+  ids: []

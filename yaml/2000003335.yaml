@@ -1,0 +1,18 @@
+article: '2000003335'
+lock-data: false
+data:
+- series: LEGO City
+  series-id: lego-city
+  episode: Folge 4 - Zug - Alarm im LEGO City Express
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 7
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_288284cfe8732199c5e721818db3f514893184f268219b06315a5382/3_cjhx.-xql-kTm2sZ/lego_city_004_folge_4_zug_alarm_im_lego_ci_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-city/lego-city-folge-4-zug-alarm-im-lego-city-express/
+  shop-id: e6759b95-d6b3-4cc5-bf9e-d53628c4bdae
+  track-desc: []
+  ids: []

@@ -1,0 +1,22 @@
+article: '2000000622'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Tödliche Spur
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_fc466f69df7921754f229d8689f5b63117919bae0112e675b36c1dd2/3_vQ8M4xdKZpcR4.pj/the_three_089_todliche_spur_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/todliche-spur/
+  shop-id: e189402d-327a-45b2-9e4b-23e5989446cd
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

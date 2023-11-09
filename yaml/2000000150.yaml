@@ -1,0 +1,18 @@
+article: '2000000150'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Das geheimnisvolle Schloss
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_a0d5440037950b5ef9cd9bbfbaf5fbf0fe8f49185c2caf28cdaf2abb/3_6L6gKH6616xLnlgt/bibi_blocksberg_092_das_geheimnisvolle_schloss_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/das-geheimnisvolle-schloss/
+  shop-id: 08b4ab64-8fdd-4e20-a597-dd0a440e7d36
+  track-desc: []
+  ids: []

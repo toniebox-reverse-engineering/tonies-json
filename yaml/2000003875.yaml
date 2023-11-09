@@ -1,0 +1,18 @@
+article: '2000003875'
+lock-data: false
+data:
+- series: PAW Patrol
+  series-id: paw-patrol
+  episode: 'Folgen 240-242: Die Moto Patrol und Bürgermeisterin Schlechtherz'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_2d4e90cf3198f7ed703ffaaffa3dc27027473b4772f8107307722284/3_kG-mFvwmNslVLhn7/paw_patrol_240_folgen_240_242__die_moto_patrol_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-240-242-die-moto-patrol-und-burgermeisterin/
+  shop-id: 52abb879-f13b-4126-8e8a-9beafc136257
+  track-desc: []
+  ids: []

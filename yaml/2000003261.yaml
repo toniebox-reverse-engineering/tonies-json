@@ -1,0 +1,18 @@
+article: '2000003261'
+lock-data: false
+data:
+- series: Pumuckl
+  series-id: pumuckl
+  episode: 'Folge 16: Pumuckl und Puwackl'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_273790101a6a56534ad7a56db638bbdba718e89f32bffdc1e2522888/3_tjfx1PHBXm1sk9zS/pumuckl_016_folge_16__pumuckl_und_puwackl_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-und-puwackl-das-original-aus-dem-fernsehen/
+  shop-id: 15bc27dd-d4cb-45c7-982c-184b327b3cdf
+  track-desc: []
+  ids: []

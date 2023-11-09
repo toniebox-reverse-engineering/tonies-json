@@ -1,0 +1,18 @@
+article: '2000000250'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Überraschung für Mami
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_be0c3059d52d407d7f030478e003593f86355ac4ddab75971dc07407/3_2bzfKymPk_XnBss./bibi_blocksberg_097_uberraschung_fur_mami_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/uberraschung-fur-mami/
+  shop-id: 6f01485b-a0ca-4779-b7a0-fcdc6ca3eacd
+  track-desc: []
+  ids: []

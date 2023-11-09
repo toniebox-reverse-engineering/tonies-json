@@ -1,0 +1,22 @@
+article: '2000000542'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Die Spur des Spielers
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_2bf3ce34966930954cefa34794dda5a55065870e4fdb7a8622d0d401/3_3N7Q_L0HtFCk0sf./the_three_169_die_spur_des_spielers_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/die-spur-des-spielers/
+  shop-id: 21bcb5ff-b586-4a79-9701-7163d40ce843
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

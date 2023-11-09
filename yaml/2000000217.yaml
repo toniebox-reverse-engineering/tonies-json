@@ -1,0 +1,18 @@
+article: '2000000217'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Die weißen Enten
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_096b2ca7818428cd370ba4298f05ac94d93833894e829174dc1e596b/3_yyKQDHmW8st0Wgv./bibi_blocksberg_036_die_weien_enten_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/die-weien-enten/
+  shop-id: 56c8abef-22ff-4bd4-bdd7-7f93e06d8e9a
+  track-desc: []
+  ids: []

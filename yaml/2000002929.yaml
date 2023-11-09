@@ -1,0 +1,38 @@
+article: '2000002929'
+lock-data: false
+data:
+- series: 100% Wolf
+  series-id: 100-wolf
+  episode: 'Folge 7: Heuloween'
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_df1f79192369620373d453c9351a833208c57e54d4430353d50d30a5/3_yyPHZr0gP-7nY87l/100_wolf_horspiel_zur_tv_serie_007_folge_7__530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/100-wolf/100-wolf-folge-7-heuloween/
+  shop-id: c4f3693c-74a8-4ddb-a370-3e575194364b
+  track-desc:
+  - 07 - Heuloween (Inhaltsangabe)
+  - 100% Wolf Titelmusik
+  - 07 - Heuloween (Teil 01)
+  - 07 - Heuloween (Teil 02)
+  - 07 - Heuloween (Teil 03)
+  - 07 - Heuloween (Teil 04)
+  - 07 - Heuloween (Teil 05)
+  - 07 - Heuloween (Teil 06)
+  - 07 - Heuloween (Teil 07)
+  - 07 - Heuloween (Teil 08)
+  - 07 - Heuloween (Teil 09)
+  - 07 - Heuloween (Teil 10)
+  - 07 - Heuloween (Teil 11)
+  - 07 - Heuloween (Teil 12)
+  - 07 - Heuloween (Teil 13)
+  - 07 - Heuloween (Teil 14)
+  - 07 - Heuloween (Teil 15)
+  - 07 - Heuloween (Teil 16)
+  - 07 - Heuloween (Teil 17)
+  - 07 - Heuloween (Outro)
+  ids: []

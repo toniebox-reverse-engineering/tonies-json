@@ -1,0 +1,22 @@
+article: '2000000596'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Poltergeist
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_03914fcfb70e2b8462216dcce455a47ce361d018ab1c8d6da6b80bd4/3_p4phK~hcpYw7DdP9/die_drei_073_poltergeist_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/poltergeist/
+  shop-id: 632ec5eb-eca1-4cfb-9f6f-4a63f540847b
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

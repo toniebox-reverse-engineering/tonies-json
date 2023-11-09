@@ -1,0 +1,18 @@
+article: '2000002384'
+lock-data: false
+data:
+- series: PAW Patrol
+  series-id: paw-patrol
+  episode: 'Folgen 141-143: Das Sumpfmonster'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/335e1e986ac9ffbe4325fbf7708638c890a894e0a242f751ec08c432/3_KjGVBSxy2SBCD9gQ/paw_patrol_141_folgen_141_143__das_sumpfmonste_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-141-143-das-sumpfmonster/
+  shop-id: 2db4541c-6fb0-4e46-a5fe-9be2d4d2c216
+  track-desc: []
+  ids: []

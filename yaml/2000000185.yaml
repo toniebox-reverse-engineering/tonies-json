@@ -1,0 +1,18 @@
+article: '2000000185'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Der verhexte Bürgermeister
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_9e870fdf110f21284edc2376cd6910c96886b29ac571b6f5ca9cf603/3_749_XtfG5Cwdg4st/bibi_blocksberg_104_der_verhexte_burgermeister_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/der-verhexte-burgermeister/
+  shop-id: aabde324-9ad6-4edd-ae80-cea791d47357
+  track-desc: []
+  ids: []

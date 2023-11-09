@@ -1,0 +1,18 @@
+article: '2000003203'
+lock-data: false
+data:
+- series: Die wilden Kerle
+  series-id: die-wilden-kerle
+  episode: Das Hörspiel zum Kinofilm 4
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_7c20ac319b1b20764d3ef1272ada4e3a0fecdf9fb762c67e6784ddeb/3_5NKn0l8Rmy4xKndq/die_wilden_kerle_004_das_horspiel_zum_kinofilm_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-wilden-kerle/das-horspiel-zum-kinofilm-4/
+  shop-id: fb9b3595-5732-4ed7-b038-f407b85c440e
+  track-desc: []
+  ids: []

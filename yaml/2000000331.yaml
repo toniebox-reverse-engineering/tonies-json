@@ -1,0 +1,18 @@
+article: '2000000331'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Die rätselhafte Schatzsuche
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_0c6c9d8980621bbe503909d02ad510df9f753b481f88604c26985ded/3_fnX4mK9Qjm9fV~n2/bibi_tina_058_die_ratselhafte_schatzsuche_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/die-ratselhafte-schatzsuche/
+  shop-id: 7b12fd05-b68f-496f-886f-c583b9d33d16
+  track-desc: []
+  ids: []

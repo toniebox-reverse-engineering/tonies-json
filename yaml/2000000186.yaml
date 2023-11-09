@@ -1,0 +1,18 @@
+article: '2000000186'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Der verhexte Kalender
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_3ccf8a9bb9ab5fcae6d085aaacd9683c67627a512b67a69ace8cc32b/3_s.g1YTpNZ_GzSz08/bibi_blocksberg_072_der_verhexte_kalender_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/der-verhexte-kalender/
+  shop-id: 7fff15ce-b479-4f12-be5d-fbe1d3b81a40
+  track-desc: []
+  ids: []

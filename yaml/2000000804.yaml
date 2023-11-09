@@ -1,0 +1,43 @@
+article: '2000000804'
+lock-data: false
+data:
+- series: Die Biene Maja - Klassiker
+  series-id: die-biene-maja-klassiker
+  episode: Der Kampf um die Blattläuse
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_1a92ba964d1fcab168a56c5cbf0515dd8fdd83b1b039f13208ef725d/3_dT~szHwVljskg1h6/die_biene_maja_klassiker_007_der_kampf_um_di_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-biene-maja-klassiker/die-biene-maja-der-kampf-um-die-blattlause/
+  shop-id: 4f4cbc1a-62ec-4f19-92f7-df94ae80c0c4
+  track-desc:
+  - Die Biene Maja
+  - Von der Maulwurfsgrille, die keiner zum Freund wollte (Teil 1)
+  - Von der Maulwurfsgrille, die keiner zum Freund wollte (Teil 2)
+  - Von der Maulwurfsgrille, die keiner zum Freund wollte (Teil 3)
+  - Von der Maulwurfsgrille, die keiner zum Freund wollte (Teil 4)
+  - Von der Maulwurfsgrille, die keiner zum Freund wollte (Teil 5)
+  - Von der Maulwurfsgrille, die keiner zum Freund wollte (Teil 6)
+  - Der Nachtsfalter Jack (Teil 1)
+  - Der Nachtsfalter Jack (Teil 2)
+  - Der Nachtsfalter Jack (Teil 3)
+  - Der Nachtsfalter Jack (Teil 4)
+  - Der Nachtsfalter Jack (Teil 5)
+  - Der Nachtsfalter Jack (Teil 6)
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  - Teil 5
+  - Teil 6
+  - Wie die Maja den Termiten hilft (Teil 1)
+  - Wie die Maja den Termiten hilft (Teil 2)
+  - Wie die Maja den Termiten hilft (Teil 3)
+  - Wie die Maja den Termiten hilft (Teil 4)
+  - Wie die Maja den Termiten hilft (Teil 5)
+  - Wie die Maja den Termiten hilft (Teil 6)
+  ids: []

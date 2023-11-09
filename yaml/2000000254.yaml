@@ -1,0 +1,18 @@
+article: '2000000254'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: und der Supermarkt
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_fa7780141ff43588e524a99e208b49914bf6d8e26918092fb2ad8576/3_KvxWRzS4gKlWKW.6/bibi_blocksberg_024_und_der_supermarkt_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/und-der-supermarkt/
+  shop-id: 976123f3-d2cd-40d5-a69a-4271bf32f9a6
+  track-desc: []
+  ids: []

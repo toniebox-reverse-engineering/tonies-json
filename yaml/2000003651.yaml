@@ -1,0 +1,31 @@
+article: '2000003651'
+lock-data: false
+data:
+- series: 100% Wolf
+  series-id: 100-wolf
+  episode: 'Folge 18: Die Mondstein-Spiele'
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1f6abf3f82044f369e3b8639ab6d122fe13d689bb84037f449920bda/3_zk1k.mF84D5wQ9k_/100_wolf_horspiel_zur_tv_serie_018_folge_18_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/100-wolf/100-wolf-folge-18-die-mondstein-spiele/
+  shop-id: 0a3368bd-43c7-4014-93c2-dd2567416493
+  track-desc:
+  - 18 - Die Mondstein-Spiele (Inhaltsangabe)
+  - 100% Wolf Titelmusik
+  - 18 - Die Mondstein-Spiele (Teil 01)
+  - 18 - Die Mondstein-Spiele (Teil 02)
+  - 18 - Die Mondstein-Spiele (Teil 03)
+  - 18 - Die Mondstein-Spiele (Teil 04)
+  - 18 - Die Mondstein-Spiele (Teil 05)
+  - 18 - Die Mondstein-Spiele (Teil 06)
+  - 18 - Die Mondstein-Spiele (Teil 07)
+  - 18 - Die Mondstein-Spiele (Teil 08)
+  - 18 - Die Mondstein-Spiele (Teil 09)
+  - 18 - Die Mondstein-Spiele (Teil 10)
+  - 18 - Die Mondstein-Spiele (Outro)
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000002145'
+lock-data: false
+data:
+- series: Conni
+  series-id: conni
+  episode: Conni und die Detektive
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_f47abf2b57568b947ad8e66f5a368f10a28003b948d7db133c0ae0fd/3_mjcywQ7RggDnHHf0/conni_conni_und_die_detektive_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/conni/conni-und-die-detektive/
+  shop-id: 508a54b4-45e1-483e-bc57-08c73ab72a6e
+  track-desc: []
+  ids: []

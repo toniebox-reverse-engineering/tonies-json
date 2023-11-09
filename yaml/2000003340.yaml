@@ -1,0 +1,18 @@
+article: '2000003340'
+lock-data: false
+data:
+- series: LEGO City
+  series-id: lego-city
+  episode: Folge 9 - Museum - Der Fluch des Goldenen Schädels
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 7
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_2ce9d3746b7df0988d878e62a4693fde3ba7b0609f1974bfb297dfbb/3_9ShDKjdJ.~skgPhD/lego_city_009_folge_9_museum_der_fluch_des_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-city/lego-city-folge-9-museum-der-fluch-des-goldenen-sc/
+  shop-id: 96752998-5d49-4345-9d7d-db1b9461cb10
+  track-desc: []
+  ids: []

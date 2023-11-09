@@ -1,0 +1,18 @@
+article: '2000002124'
+lock-data: false
+data:
+- series: Conni
+  series-id: conni
+  episode: Conni schläft im Kindergarten / Conni geht in den Zoo
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_464108a5b430b9d9423374d8877333256340a5d233ae8f7b9e37a586/3_WjR0ZdxG~84GjQXv/conni_conni_schlaft_im_kindergarten___conni_geht_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/conni/conni-schlaft-im-kindergarten-conni-geht-in-den-zo/
+  shop-id: c21f1234-a55e-424d-bb3d-b4a81249c677
+  track-desc: []
+  ids: []

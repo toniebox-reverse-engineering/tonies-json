@@ -1,0 +1,18 @@
+article: '2000000314'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Der Millionär
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_b5be9399cbe6243802b19d1753073c35e15a3dab81d7988ed71aa564/3_BN3X.r2_pgcm9Wq./bibi_tina_024_der_millionar_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/der-millionar/
+  shop-id: c195ff81-39d0-4adb-b6b2-7ebab088f41e
+  track-desc: []
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000000148'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: darf nicht hexen
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_125fae53ddddbce57e71a3a5356ccadd9f102a3b6158cf7b2c8af3e3/3_HyMlv~kwm2tFWqm4/bibi_blocksberg_034_darf_nicht_hexen_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/darf-nicht-hexen/
+  shop-id: 2d0604cf-2312-4f8e-b142-7f2a03fe453f
+  track-desc: []
+  ids: []

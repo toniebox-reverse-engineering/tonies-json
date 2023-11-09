@@ -1,0 +1,29 @@
+article: '2000003812'
+lock-data: false
+data:
+- series: 100% Wolf
+  series-id: 100-wolf
+  episode: 'Folge 24: Eine Oma im Rudel'
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/2390566367b1c8daccf6e01b22c6cd8f523df54fd9d5de398f76c535/3_P~kS3xtzSr_Vj2LG/100_wolf_horspiel_zur_tv_serie_024_folge_24_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/100-wolf/100-wolf-folge-24-eine-oma-im-rudel/
+  shop-id: 98760760-c0e7-46e9-b173-9726bfd164c9
+  track-desc:
+  - 24 - Eine Oma im Rudel (Inhaltsangabe)
+  - 100% Wolf Titelmusik
+  - 24 - Eine Oma im Rudel (Teil 01)
+  - 24 - Eine Oma im Rudel (Teil 02)
+  - 24 - Eine Oma im Rudel (Teil 03)
+  - 24 - Eine Oma im Rudel (Teil 04)
+  - 24 - Eine Oma im Rudel (Teil 05)
+  - 24 - Eine Oma im Rudel (Teil 06)
+  - 24 - Eine Oma im Rudel (Teil 07)
+  - 24 - Eine Oma im Rudel (Teil 08)
+  - 24 - Eine Oma im Rudel (Outro)
+  ids: []

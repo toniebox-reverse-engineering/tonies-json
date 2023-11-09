@@ -1,0 +1,18 @@
+article: '2000003227'
+lock-data: false
+data:
+- series: Schleich Horse Club
+  series-id: schleich-horse-club
+  episode: 'Folge 15: Wo ist Frisky?'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 99
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_9a4f8764828a96163bde81fe62b04a59ef23fd491c68921d77266cd4/3_93VvkV5k4tWGJv2c/schleich_horse_club_015_folge_15__wo_ist_frisk_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/schleich-horse-club/folge-15-wo-ist-frisky/
+  shop-id: 05edcad9-796d-449e-9ca9-72468dfa8207
+  track-desc: []
+  ids: []

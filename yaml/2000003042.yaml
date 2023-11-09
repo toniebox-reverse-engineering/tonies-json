@@ -1,0 +1,18 @@
+article: '2000003042'
+lock-data: false
+data:
+- series: PAW Patrol
+  series-id: paw-patrol
+  episode: 'Folgen 199-202: Marshall die Vogelscheuche'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/983cfe9a03ed44f754aa9d6f829268cebbffc04cf6b0b6d889a6ce03/3_~mr2W2J~XPQT_z3w/paw_patrol_199_folgen_199_202__marshall_die_vo_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-199-202-marshall-die-vogelscheuche/
+  shop-id: d656add5-752d-44bc-8f38-be72ebe2c8df
+  track-desc: []
+  ids: []

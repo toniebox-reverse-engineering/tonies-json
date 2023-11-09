@@ -1,0 +1,18 @@
+article: '2000000180'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Der Reiterhof - Teil 1
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_ea381c8977fd0c052082788cb455af89572f8e5ebfa459d4ea5a0f54/3_9vhWJ6b-kTm-FxlN/bibi_blocksberg_043_der_reiterhof_teil_1_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/der-reiterhof-teil-1/
+  shop-id: 06448d5e-5733-4f50-a440-660806c42b09
+  track-desc: []
+  ids: []

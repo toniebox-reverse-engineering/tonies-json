@@ -1,0 +1,18 @@
+article: '2000003387'
+lock-data: false
+data:
+- series: LEGO Ninjago
+  series-id: lego-ninjago
+  episode: 'Folgen 45-46: Stürmischer Wind'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_c7c79def015d11cb001b78e9ebb63cf782959585b24d1d930f17d4c7/3_wK.K2QjbN3r1h6zW/lego_ninjago_045_folgen_45_46__sturmischer_win_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-45-46-sturmischer-wind/
+  shop-id: fe84b2e3-82e4-4612-a522-57e8b2977fd3
+  track-desc: []
+  ids: []

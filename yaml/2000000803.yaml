@@ -1,0 +1,43 @@
+article: '2000000803'
+lock-data: false
+data:
+- series: Die Biene Maja - Klassiker
+  series-id: die-biene-maja-klassiker
+  episode: Der Frühling ist da
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_ce064f4d5c8813bf147ca2abdb3a5e6a4a5fb52c2e6eb07b6ea15268/3_vygDN9DmPClqZgb~/die_biene_maja_klassiker_009_der_fruhling_is_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-biene-maja-klassiker/die-biene-maja-der-fruhling-ist-da/
+  shop-id: a5459f2e-2904-4032-9e42-3e723459472c
+  track-desc:
+  - Die Biene Maja
+  - Maja, die Riesin (Teil 1)
+  - Maja, die Riesin (Teil 2)
+  - Maja, die Riesin (Teil 3)
+  - Maja, die Riesin (Teil 4)
+  - Maja, die Riesin (Teil 5)
+  - Maja, die Riesin (Teil 6)
+  - Harald, der Spatz (Teil 1)
+  - Harald, der Spatz (Teil 2)
+  - Harald, der Spatz (Teil 3)
+  - Harald, der Spatz (Teil 4)
+  - Harald, der Spatz (Teil 5)
+  - Harald, der Spatz (Teil 6)
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  - Teil 5
+  - Teil 6
+  - Prahlhans Küchenschabe (Teil 1)
+  - Prahlhans Küchenschabe (Teil 2)
+  - Prahlhans Küchenschabe (Teil 3)
+  - Prahlhans Küchenschabe (Teil 4)
+  - Prahlhans Küchenschabe (Teil 5)
+  - Prahlhans Küchenschabe (Teil 6)
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000002222'
+lock-data: false
+data:
+- series: Die Schule der magischen Tiere
+  series-id: die-schule-der-magischen-tiere
+  episode: 'Endlich Ferien 2: Silas und Rick'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_7eec8d14a1e257ac6beb563118214d29950abb27a9804f74145e4155/3_Rztt6TcZXr9MWp~j/die_schule_der_magischen_tiere_endlich_ferien_2__530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-schule-der-magischen-tiere/endlich-ferien-2-silas-und-rick/
+  shop-id: 12291ddd-96b9-46b4-8326-4c1ed39d2663
+  track-desc: []
+  ids: []

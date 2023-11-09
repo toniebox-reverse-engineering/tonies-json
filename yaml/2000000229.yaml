@@ -1,0 +1,18 @@
+article: '2000000229'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: im Hexeninternat
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_3dee891288db8b48c9512e1d86f57c6cfaa4e05dce3918da0f728972/3_cnMz2qN8XqmNPr6Q/bibi_blocksberg_077_im_hexeninternat_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/im-hexeninternat/
+  shop-id: 72785c2a-a1a5-4cac-909d-99701e12bcda
+  track-desc: []
+  ids: []

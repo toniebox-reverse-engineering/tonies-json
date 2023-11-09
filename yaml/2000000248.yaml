@@ -1,0 +1,18 @@
+article: '2000000248'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Schubia dreht durch
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_f0e149dc6204fc749001c34e70591a7791c5011738b48d84d6504b96/3_JDh.Sp~y3Sn.b_m3/bibi_blocksberg_076_schubia_dreht_durch_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/schubia-dreht-durch/
+  shop-id: 5b4a3c3f-ac2e-45db-9dc6-5d16424caf64
+  track-desc: []
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000010116'
+lock-data: false
+data:
+- series: PAW Patrol
+  series-id: paw-patrol
+  episode: 'Folgen 301-303: Der gestohlene Drachenzahn'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/2ead3c402ecb3628c0f810210cf19967d0a14fe93a844ddaa473b560/3_QyJ57rBSBYbFqSxt/paw_patrol_301_folgen_301_303__der_gestohlene__530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-301-303-der-gestohlene-drachenzahn/
+  shop-id: 46d56c3a-50ba-4ec0-87d6-c8c4ddf85980
+  track-desc: []
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000003208'
+lock-data: false
+data:
+- series: Schleich Dinosaurs
+  series-id: schleich-dinosaurs
+  episode: 'Folgen 09-10: Böse Überraschungen'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_b5338089193d31d1f0a7c180ec79fd3925c19d43b1a6613a1fa64cb1/3_xCyVr-2_w1Kz9y_K/schleich_dinosaurs_009_folgen_09_10__bose_uber_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/schleich-dinosaurs/folgen-09-10-bose-uberraschungen/
+  shop-id: 04e62c3b-5be0-43ec-acfc-9b39df284b5a
+  track-desc: []
+  ids: []

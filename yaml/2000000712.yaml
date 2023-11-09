@@ -1,0 +1,22 @@
+article: '2000000712'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und die schwarze Katze
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_d797b4841b0e28f47345da2bee7dd5d0ee3e19cd0edaf49010a4cd17/3_qm7CXTxk1fltD.P9/die_drei_004_und_die_schwarze_katze_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-die-schwarze-katze_884977340969/
+  shop-id: ce170d0c-2295-402d-8048-aa56ebe242e1
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

@@ -1,0 +1,36 @@
+article: '2000001836'
+lock-data: false
+data:
+- series: Peppa Pig
+  series-id: peppa-pig
+  episode: Der Piratengeburtstag (und 5 weitere Geschichten)
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_fd0b92d59ea520bbe767c67a88b3138ccacaea992f462c8f27cecf43/3_G7qpCzPlPcjfHpG2/peppa_pig_012_der_piratengeburtstag_und_5_wei_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/peppa-pig/peppa-pig-der-piratengeburtstag-und-5-weitere-gesc/
+  shop-id: 79c4c492-253a-486d-b232-c56862b57767
+  track-desc:
+  - Der Piratengeburtstag (Teil 01)
+  - Der Piratengeburtstag (Teil 02)
+  - Der Piratengeburtstag (Teil 03)
+  - Der Talent-Tag (Teil 01)
+  - Der Talent-Tag (Teil 02)
+  - Der Talent-Tag (Teil 03)
+  - Die Reise zum Mond (Teil 01)
+  - Die Reise zum Mond (Teil 02)
+  - Die Reise zum Mond (Teil 03)
+  - Mit Opa auf dem Spielplatz (Teil 01)
+  - Mit Opa auf dem Spielplatz (Teil 02)
+  - Mit Opa auf dem Spielplatz (Teil 03)
+  - Ein Fisch namens Goldi (Teil 01)
+  - Ein Fisch namens Goldi (Teil 02)
+  - Ein Fisch namens Goldi (Teil 03)
+  - Auf der Kirmes (Teil 01)
+  - Auf der Kirmes (Teil 02)
+  - Auf der Kirmes (Teil 03)
+  ids: []

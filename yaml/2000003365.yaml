@@ -1,0 +1,18 @@
+article: '2000003365'
+lock-data: false
+data:
+- series: LEGO City Abenteuer
+  series-id: lego-city-abenteuer
+  episode: 'Folgen 31-35: Die Spaß-Rede'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 7
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_9b880fb5b33fd9577d09fca07aa8ced3ee9a03e86557642526a5db2a/3_HnS75Ld~j3vHtG_q/lego_city_abenteuer_007_folgen_31_35__die_spa_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-city-abenteuer/folgen-31-35-die-spa-rede/
+  shop-id: 81619bd6-dc88-4e39-a5fd-e25b4bccc67c
+  track-desc: []
+  ids: []

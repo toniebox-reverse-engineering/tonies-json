@@ -1,0 +1,40 @@
+article: '2000002865'
+lock-data: false
+data:
+- series: Super Wings
+  series-id: super-wings
+  episode: Das Riesenkäfer-Problem
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_b2096564fb0ce931021f35042528e14d4b38840387766f299df52428/3_P~h.Tr~bZPGPbv82/super_wings_030_das_riesenkafer_problem_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/super-wings/super-wings-folge-30-das-riesenkafer-problem/
+  shop-id: bfcd4981-f4e9-40f5-9927-e78e892af439
+  track-desc:
+  - Das Riesenkäfer-Problem, Teil 1 (Inhaltsangabe)
+  - Das Riesenkäfer-Problem, Teil 1 (Teil 01)
+  - Das Riesenkäfer-Problem, Teil 1 (Teil 02)
+  - Das Riesenkäfer-Problem, Teil 1 (Teil 03)
+  - Das Riesenkäfer-Problem, Teil 1 (Teil 04)
+  - Das Riesenkäfer-Problem, Teil 1 (Teil 05)
+  - Das Riesenkäfer-Problem, Teil 2 (Teil 01)
+  - Das Riesenkäfer-Problem, Teil 2 (Teil 02)
+  - Das Riesenkäfer-Problem, Teil 2 (Teil 03)
+  - Das Riesenkäfer-Problem, Teil 2 (Teil 04)
+  - Die größte Sandburg der Welt (Teil 01)
+  - Die größte Sandburg der Welt (Teil 02)
+  - Die größte Sandburg der Welt (Teil 03)
+  - Die größte Sandburg der Welt (Teil 04)
+  - Die größte Sandburg der Welt (Teil 05)
+  - Theater in China (Teil 01)
+  - Theater in China (Teil 02)
+  - Theater in China (Teil 03)
+  - Theater in China (Teil 04)
+  - Theater in China (Teil 05)
+  - Theater in China (Teil 06)
+  - Theater in China (Outro)
+  ids: []

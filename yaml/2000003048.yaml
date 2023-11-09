@@ -1,0 +1,18 @@
+article: '2000003048'
+lock-data: false
+data:
+- series: PAW Patrol
+  series-id: paw-patrol
+  episode: 'Folgen 221-224: Die Hunde retten Königin Gack-Gack'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/7b746c35b4afa9c5c9a36683452f3cba715e25bf31b8e8f42fdbba9a/3_8Tn-cF9Qh0q8C399/paw_patrol_221_folgen_221_224__die_hunde_rette_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-221-224-die-hunde-retten-konigin-gack-gack/
+  shop-id: 2ea6d0d8-28ca-4e98-b596-f03730319d10
+  track-desc: []
+  ids: []

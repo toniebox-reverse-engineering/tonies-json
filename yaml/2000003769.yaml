@@ -1,0 +1,18 @@
+article: '2000003769'
+lock-data: false
+data:
+- series: Der junge Sherlock Holmes
+  series-id: der-junge-sherlock-holmes
+  episode: Das Odin-Ritual
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 11
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/509b6141a94af3be59566f7ec26b939b32435b4a607300689fadedf8/3_R-dSfXLwYMghmXJX/der_junge_sherlock_holmes_005_das_odin_ritual_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/der-junge-sherlock-holmes/das-odin-ritual/
+  shop-id: 0aac6439-ce08-4922-b851-f485fdd2d5c7
+  track-desc: []
+  ids: []

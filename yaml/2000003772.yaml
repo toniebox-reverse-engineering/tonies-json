@@ -1,0 +1,18 @@
+article: '2000003772'
+lock-data: false
+data:
+- series: Der junge Sherlock Holmes
+  series-id: der-junge-sherlock-holmes
+  episode: Das Feuer des Jaguars
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 11
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/e46ba7f6aaa973478b1045abe4cb73c3784c263846853e56aedc7450/3_DkpfX96bmDDFJHJ_/der_junge_sherlock_holmes_008_das_feuer_des_ja_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/der-junge-sherlock-holmes/das-feuer-des-jaguars/
+  shop-id: f2fe29e6-7585-4750-b756-bc0cd7a1d10e
+  track-desc: []
+  ids: []

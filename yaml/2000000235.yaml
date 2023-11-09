@@ -1,0 +1,18 @@
+article: '2000000235'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: ist krank
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_d1af2a71666acc201ebd092a1af27722e4b78fe0a4e7903981d141ba/3_DmnH4~5v41wlm1jb/bibi_blocksberg_048_ist_krank_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/ist-krank/
+  shop-id: 528ca9f7-33ea-4ec6-aa06-cd2a1acf2ad4
+  track-desc: []
+  ids: []

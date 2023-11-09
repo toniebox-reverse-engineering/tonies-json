@@ -1,0 +1,42 @@
+article: '2000001513'
+lock-data: false
+data:
+- series: TKKG
+  series-id: tkkg
+  episode: Ein fast perfektes Weihnachtsmenü
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_37c96d363fc3662c133e3239a6bd9ffc31f759654e8c671451c5fadf/3__g865vHQ3czkn3bz/tkkg_ein_fast_perfektes_weihnachtsmenu_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/tkkg/tkkg-ein-fast-perfektes-weihnachtsmenu/
+  shop-id: 3d8fcb11-1b28-457d-93f6-d019dd5d3648
+  track-desc:
+  - 1. Pierre Ragueneau liegt in seinem Dessert
+  - 2. Chef de Patisserie
+  - 3. Mörderfrau
+  - 4. Wo ist Michael Solms?
+  - 5. In der Kuchenbäckerei
+  - 6. Die Geheimzutat
+  - 7. Gift auf Rezept
+  - 8. Klößchen!
+  - 1. Cumarin
+  - 2. Die Sache mit dem Umschlag
+  - 3. Ich wünschte, ich hätte es getan!
+  - 4. Der Weg des Gifts
+  - 5. Karls Mutter unter Verdacht
+  - 6. Kollegenschwein
+  - 7. Der Anruf
+  - 8. Am Pass
+  - 1. In die falsche Richtung
+  - 2. Ablenkungsmanöver
+  - 3. Erpressung
+  - 4. Giftkocher
+  - 5. Helene?
+  - 6. Er ist ein Monster
+  - 7. Ist das jetzt ein Küchenmesser?
+  - 8. So viel Schnee
+  ids: []

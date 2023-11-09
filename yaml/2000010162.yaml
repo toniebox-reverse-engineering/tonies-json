@@ -1,0 +1,68 @@
+article: '2000010162'
+lock-data: false
+data:
+- series: Nils Holgersson
+  series-id: nils-holgersson
+  episode: Der Wunsch vom Fliegen (CGI)
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/e3c1811790d7d4010d2c1851dfe4a6466c326e2cee6d150145dc470f/3_RMQ78XfQCZSgvtKh/nils_holgersson_001_der_wunsch_vom_fliegen_cg_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/nils-holgersson/nils-holgersson-der-wunsch-vom-fliegen-cgi/
+  shop-id: 5c04e8ed-a0dc-4cdb-ae81-4aae00f840ee
+  track-desc:
+  - Nils Holgersson (Titelsong)
+  - Der Wunsch vom Fliegen (Teil 1)
+  - Der Wunsch vom Fliegen (Teil 2)
+  - Der Wunsch vom Fliegen (Teil 3)
+  - Der Wunsch vom Fliegen (Teil 4)
+  - Der Wunsch vom Fliegen (Teil 5)
+  - Der Wunsch vom Fliegen (Teil 6)
+  - Der Wunsch vom Fliegen (Teil 7)
+  - Die wilden Gänse (Teil 1)
+  - Die wilden Gänse (Teil 2)
+  - Die wilden Gänse (Teil 3)
+  - Die wilden Gänse (Teil 4)
+  - Die wilden Gänse (Teil 5)
+  - Die wilden Gänse (Teil 6)
+  - Die wilden Gänse (Teil 7)
+  - Der Herr der Unterwelt (Teil 1)
+  - Der Herr der Unterwelt (Teil 2)
+  - Der Herr der Unterwelt (Teil 3)
+  - Der Herr der Unterwelt (Teil 4)
+  - Der Herr der Unterwelt (Teil 5)
+  - Der Herr der Unterwelt (Teil 6)
+  - Der Herr der Unterwelt (Teil 7)
+  - Der Wirbelsturm (Teil 1)
+  - Der Wirbelsturm (Teil 2)
+  - Der Wirbelsturm (Teil 3)
+  - Der Wirbelsturm (Teil 4)
+  - Der Wirbelsturm (Teil 5)
+  - Der Wirbelsturm (Teil 6)
+  - Der Wirbelsturm (Teil 7)
+  - Eine besondere Gans (Teil 1)
+  - Eine besondere Gans (Teil 2)
+  - Eine besondere Gans (Teil 3)
+  - Eine besondere Gans (Teil 4)
+  - Eine besondere Gans (Teil 5)
+  - Eine besondere Gans (Teil 6)
+  - Eine besondere Gans (Teil 7)
+  - Der magische Sternenstein (Teil 1)
+  - Der magische Sternenstein (Teil 2)
+  - Der magische Sternenstein (Teil 3)
+  - Der magische Sternenstein (Teil 4)
+  - Der magische Sternenstein (Teil 5)
+  - Der magische Sternenstein (Teil 6)
+  - Der magische Sternenstein (Teil 7)
+  - Die Befreiung (Teil 1)
+  - Die Befreiung (Teil 2)
+  - Die Befreiung (Teil 3)
+  - Die Befreiung (Teil 4)
+  - Die Befreiung (Teil 5)
+  - Die Befreiung (Teil 6)
+  - Die Befreiung (Teil 7)
+  ids: []

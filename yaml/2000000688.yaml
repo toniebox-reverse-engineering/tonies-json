@@ -1,0 +1,22 @@
+article: '2000000688'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und der verschwundene Schatz
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_7c6890c00040dcfa7bc8af71063249bded5959ab345d0018d16fe73a/3_2J.Sjt8vBGpWlSSx/die_drei_022_und_der_verschwundene_schatz_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-der-verschwundene-schatz/
+  shop-id: 6209d57a-707f-43ef-bedf-aa00f4fe5e58
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

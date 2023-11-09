@@ -1,0 +1,18 @@
+article: '2000000226'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Hexerei in der Schule
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_806fc103ba385bb27b4c0bc9311e044ab160d8547d3c05df77a3689a/3_Vmwslk_yfYKHwLgt/bibi_blocksberg_002_hexerei_in_der_schule_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/hexerei-in-der-schule/
+  shop-id: e5dcb4fe-52f3-4c2c-8da1-24fc23fcaa4a
+  track-desc: []
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000003429'
+lock-data: false
+data:
+- series: LEGO Ninjago - Hörbücher
+  series-id: lego-ninjago-hoerbuecher
+  episode: Rückkehr der bösen Geister (Band 05)
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_736e386ce6e2251f92cb5d78a1139e43d7428505ca8440457f2b79a9/3_jhVSH_x14XykZKHW/lego_ninjago_horbucher_005_ruckkehr_der_bose_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-ninjago-hoerbuecher/ruckkehr-der-bosen-geister-band-05/
+  shop-id: 65b6addd-2e27-4989-9caa-291051a31412
+  track-desc: []
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000000286'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Das Geheimnis der alte Mühle
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_7a62cab288ed4dadd55c83b30a1784a371961ec04e703c0ecd1c1d7a/3__MnYTttFMlbClH_H/bibi_tina_085_das_geheimnis_der_alte_muhle_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/das-geheimnis-der-alte-muhle/
+  shop-id: bd8d63f5-a86c-41d7-b3a9-033dded8e322
+  track-desc: []
+  ids: []

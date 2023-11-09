@@ -1,0 +1,22 @@
+article: '2000000562'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Geister-Canyon
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_0b19536d2b379a3cf6963320bf5fe125f9633c7ea6382ea5dbc08dbe/3_t.yQkGcP0x3~dlqc/die_drei_124_geister_canyon_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/geister-canyon/
+  shop-id: afe610dd-8baa-4152-b71f-c2a2b3135697
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

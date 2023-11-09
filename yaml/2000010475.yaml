@@ -1,0 +1,32 @@
+article: '2000010475'
+lock-data: false
+data:
+- series: Peppa Pig
+  series-id: peppa-pig
+  episode: Gartenspiele
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/5278d4a5aea54c15f4d631cefade6c975958bb576822c8810392fef1/3_jqPRr-wVZtm.gdcD/peppa_pig_040_gartenspiele_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/peppa-pig/peppa-pig-folge-40-gartenspiele_196589965820/
+  shop-id: 9181e71e-ba28-4ed9-b6c6-92abf0e0236c
+  track-desc:
+  - Gartenspiele (Inhaltsangabe)
+  - Gartenspiele (Teil 01)
+  - Gartenspiele (Teil 02)
+  - Der Sandkasten (Teil 01)
+  - Der Sandkasten (Teil 02)
+  - Tiere der Nacht (Teil 01)
+  - Tiere der Nacht (Teil 02)
+  - Der Fischteich (Teil 01)
+  - Der Fischteich (Teil 02)
+  - Spiegel (Teil 01)
+  - Spiegel (Teil 02)
+  - Vor langer Zeit (Teil 01)
+  - Vor langer Zeit (Teil 02)
+  - Gartenspiele (Outro)
+  ids: []

@@ -1,0 +1,54 @@
+article: '2000001721'
+lock-data: false
+data:
+- series: Wickie
+  series-id: wickie
+  episode: Die Falle
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_48ce6ff265cb22d492af899fa2ede604574b9f1feaaaf9ee496741a7/3_g_0XmjtjYdxXd1Mh/wickie_001_die_falle_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/wickie/wickie-die-falle/
+  shop-id: 7155e3a1-1bd7-4df8-a8a5-d5bd72ff9d2c
+  track-desc:
+  - Der Wettlauf (Teil 1)
+  - Der Wettlauf (Teil 2)
+  - Der Wettlauf (Teil 3)
+  - Der Wettlauf (Teil 4)
+  - Der Wettlauf (Teil 5)
+  - Der Wettlauf (Teil 6)
+  - Der Wettlauf (Teil 7)
+  - Der Wettlauf (Teil 8)
+  - Der Wettlauf (Teil 9)
+  - Der Wettlauf (Teil 10)
+  - Der Wettlauf (Teil 11)
+  - Der Wettlauf (Teil 12)
+  - Die Falle (Teil 1)
+  - Die Falle (Teil 2)
+  - Die Falle (Teil 3)
+  - Die Falle (Teil 4)
+  - Die Falle (Teil 5)
+  - Die Falle (Teil 6)
+  - Die Falle (Teil 7)
+  - Die Falle (Teil 8)
+  - Die Falle (Teil 9)
+  - Die Falle (Teil 10)
+  - Die Falle (Teil 11)
+  - Die Falle (Teil 12)
+  - Die Flucht (Teil 1)
+  - Die Flucht (Teil 2)
+  - Die Flucht (Teil 3)
+  - Die Flucht (Teil 4)
+  - Die Flucht (Teil 5)
+  - Die Flucht (Teil 6)
+  - Die Flucht (Teil 7)
+  - Die Flucht (Teil 8)
+  - Die Flucht (Teil 9)
+  - Die Flucht (Teil 10)
+  - Die Flucht (Teil 11)
+  - Die Flucht (Teil 12)
+  ids: []

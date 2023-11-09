@@ -1,0 +1,19 @@
+article: '2000002265'
+lock-data: false
+data:
+- series: Meine Freundin Conni
+  series-id: meine-freundin-conni
+  episode: Conni tanzt / Conni lernt die Uhrzeit / Conni lernt Rad fahren / Conni
+    lernt backen (Vier Hörspiele zur TV-Serie)
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_f5652edab1012a8eca382c6efefaecb274619a03c9ba5b50e3146cdf/3_qcK5kcZVvMyVym~X/meine_freundin_conni_003_conni_tanzt___conni_l_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/meine-freundin-conni/conni-tanzt-conni-lernt-die-uhrzeit-conni-lernt-ra/
+  shop-id: 96794725-d59c-4f0a-ae7c-a28305bd1b2c
+  track-desc: []
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000003336'
+lock-data: false
+data:
+- series: LEGO City
+  series-id: lego-city
+  episode: Folge 5 - Raumfahrt - LUNA 1 antwortet nicht
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 7
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_4b335245c45f395d9775a0cbe5af9698142ec10dd8f577d0f747d7c1/3_b3jBMJ1HbwpJyWSl/lego_city_005_folge_5_raumfahrt_luna_1_ant_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-city/lego-city-folge-5-raumfahrt-luna-1-antwortet-nicht/
+  shop-id: cf5df304-c827-48a3-84d6-b2b5c7f88727
+  track-desc: []
+  ids: []

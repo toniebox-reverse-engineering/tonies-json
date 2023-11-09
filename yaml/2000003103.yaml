@@ -1,0 +1,18 @@
+article: '2000003103'
+lock-data: false
+data:
+- series: Sternenschweif
+  series-id: sternenschweif
+  episode: 'Teil 52: Verwandlung in der Nacht'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_f08b04d61fc4f20f206a7f64f2a07b297d4a5eecaebafb71705cef53/3_~swyQJC3_pCb6Fjs/sternenschweif_052_teil_52__verwandlung_in_der_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/sternenschweif/teil-52-verwandlung-in-der-nacht/
+  shop-id: 87ef0be3-1360-49b2-b943-01882989a702
+  track-desc: []
+  ids: []

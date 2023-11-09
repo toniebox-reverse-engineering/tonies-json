@@ -1,0 +1,38 @@
+article: '2000002925'
+lock-data: false
+data:
+- series: 100% Wolf
+  series-id: 100-wolf
+  episode: 'Folge 3: Das Goldene Horn'
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_478a16e5dc8849cb8b594c0c59344d8be70f2551a4311d16949b5501/3_2-9f7h7dmhl612_G/100_wolf_horspiel_zur_tv_serie_003_folge_3__530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/100-wolf/100-wolf-folge-3-das-goldene-horn/
+  shop-id: 53702651-dcbd-41be-8f2a-25bf3f2d5005
+  track-desc:
+  - 03 - Das Goldene Horn (Inhaltsangabe)
+  - 100% Wolf Titelmusik
+  - 03 - Das Goldene Horn (Teil 01)
+  - 03 - Das Goldene Horn (Teil 02)
+  - 03 - Das Goldene Horn (Teil 03)
+  - 03 - Das Goldene Horn (Teil 04)
+  - 03 - Das Goldene Horn (Teil 05)
+  - 03 - Das Goldene Horn (Teil 06)
+  - 03 - Das Goldene Horn (Teil 07)
+  - 03 - Das Goldene Horn (Teil 08)
+  - 03 - Das Goldene Horn (Teil 09)
+  - 03 - Das Goldene Horn (Teil 10)
+  - 03 - Das Goldene Horn (Teil 11)
+  - 03 - Das Goldene Horn (Teil 12)
+  - 03 - Das Goldene Horn (Teil 13)
+  - 03 - Das Goldene Horn (Teil 14)
+  - 03 - Das Goldene Horn (Teil 15)
+  - 03 - Das Goldene Horn (Teil 16)
+  - 03 - Das Goldene Horn (Teil 17)
+  - 03 - Das Goldene Horn (Outro)
+  ids: []

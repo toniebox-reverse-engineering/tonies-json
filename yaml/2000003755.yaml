@@ -1,0 +1,18 @@
+article: '2000003755'
+lock-data: false
+data:
+- series: Die Dinos sind da
+  series-id: die-dinos-sind-da
+  episode: Tyrannosauro
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/e20d24e6ecf53e9c8ceed046c384fe4819b1bc4619d1b01505af170d/3_d-s4MQYmy~rbx7Vy/die_dinos_sind_da_004_tyrannosauro_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-dinos-sind-da/tyrannosauro/
+  shop-id: da635a37-dcd7-4ade-a221-9315949463dd
+  track-desc: []
+  ids: []

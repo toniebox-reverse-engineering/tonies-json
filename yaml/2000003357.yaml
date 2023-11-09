@@ -1,0 +1,18 @@
+article: '2000003357'
+lock-data: false
+data:
+- series: LEGO City
+  series-id: lego-city
+  episode: 'Folge 26: Die Nachteule schlägt wieder zu'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 7
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_83e039946ae4cb0361b3f74787a4ee6acc4814dcb22e894c51f7ab3a/3_1WCrp0FwdJC2Rw~K/lego_city_026_folge_26__die_nachteule_schlagt__530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-city/folge-26-die-nachteule-schlagt-wieder-zu/
+  shop-id: 33674490-27d0-44d4-9e31-f68ec7db6017
+  track-desc: []
+  ids: []

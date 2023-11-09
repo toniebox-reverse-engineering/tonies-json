@@ -1,0 +1,46 @@
+article: '2000001713'
+lock-data: false
+data:
+- series: Wickie
+  series-id: wickie
+  episode: Das goldene Schwert
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_efcdb340286c89d6270ac416464f4c4bb63ae0d12ed3b9f8d9936b03/3_rzpSz-txLD~d3TrS/wickie_015_das_goldene_schwert_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/wickie/wickie-das-goldene-schwert/
+  shop-id: cf7c85b2-ce5b-4431-bce7-9cca7e62b3fb
+  track-desc:
+  - Das goldene Schwert (Teil 1)
+  - Das goldene Schwert (Teil 2)
+  - Das goldene Schwert (Teil 3)
+  - Das goldene Schwert (Teil 4)
+  - Das goldene Schwert (Teil 5)
+  - Das goldene Schwert (Teil 6)
+  - Das goldene Schwert (Teil 7)
+  - Das goldene Schwert (Teil 8)
+  - Das goldene Schwert (Teil 9)
+  - Das goldene Schwert (Teil 10)
+  - Reise mit Hindernissen (Teil 1)
+  - Reise mit Hindernissen (Teil 2)
+  - Reise mit Hindernissen (Teil 3)
+  - Reise mit Hindernissen (Teil 4)
+  - Reise mit Hindernissen (Teil 5)
+  - Reise mit Hindernissen (Teil 6)
+  - Wer wird der nächste Häuptling? (Teil 1)
+  - Wer wird der nächste Häuptling? (Teil 2)
+  - Wer wird der nächste Häuptling? (Teil 3)
+  - Wer wird der nächste Häuptling? (Teil 4)
+  - Wer wird der nächste Häuptling? (Teil 5)
+  - Wer wird der nächste Häuptling? (Teil 6)
+  - Wer wird der nächste Häuptling? (Teil 7)
+  - Wer wird der nächste Häuptling? (Teil 8)
+  - Wer wird der nächste Häuptling? (Teil 9)
+  - Wer wird der nächste Häuptling? (Teil 10)
+  - Wer wird der nächste Häuptling? (Teil 11)
+  - Wer wird der nächste Häuptling? (Teil 12)
+  ids: []

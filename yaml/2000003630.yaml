@@ -1,0 +1,30 @@
+article: '2000003630'
+lock-data: false
+data:
+- series: Peppa Pig
+  series-id: peppa-pig
+  episode: Schweinchen in der Mitte
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/da171e8f0729faa3241f7be0b68e968884d3e44986c337ca5bf8cef2/3_CryKrcTSH.-XW_Dk/peppa_pig_025_schweinchen_in_der_mitte_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/peppa-pig/peppa-pig-folge-25-schweinchen-in-der_886449155378/
+  shop-id: 69a27593-44b6-4604-98f0-d48ca549ffcd
+  track-desc:
+  - Schweinchen in der Mitte (Teil 01)
+  - Schweinchen in der Mitte (Teil 02)
+  - Meine Cousine (Teil 01)
+  - Meine Cousine (Teil 02)
+  - Sausia ist weg! (Teil 01)
+  - Sausia ist weg! (Teil 02)
+  - Verstecken (Teil 01)
+  - Verstecken (Teil 02)
+  - Mama Wutz muss arbeiten (Teil 01)
+  - Mama Wutz muss arbeiten (Teil 02)
+  - Chloés Puppentheater (Teil 01)
+  - Chloés Puppentheater (Teil 02)
+  ids: []

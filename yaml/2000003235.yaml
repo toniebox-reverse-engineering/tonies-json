@@ -1,0 +1,18 @@
+article: '2000003235'
+lock-data: false
+data:
+- series: Schleich Horse Club
+  series-id: schleich-horse-club
+  episode: 'Folge 09: Die Höhle in den Bergen'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_a72908ec265bd86c8216ca2796668f79ff011c4384f184b4f7164265/3_Gnq2ywJcwM3q6RmZ/schleich_horse_club_009_folge_09__die_hohle_in_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/schleich-horse-club/folge-09-die-hohle-in-den-bergen/
+  shop-id: b1d08263-383c-4183-a2c5-232ff5eda9d6
+  track-desc: []
+  ids: []

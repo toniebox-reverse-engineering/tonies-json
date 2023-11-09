@@ -1,0 +1,22 @@
+article: '2000000933'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Das düstere Vermächtnis
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_2b3ab2fa55cc47fc9ac8965c4ebaef9e460bb002b6ccbcc3ddf8d793/3_sy5pwcPTTrLFlZW1/the_three_118_das_dustere_vermachtnis_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/das-dustere-vermachtnis/
+  shop-id: 5b87e331-a0de-46fa-91c7-cbcbb5dc6d3f
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

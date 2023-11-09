@@ -1,0 +1,18 @@
+article: '2000000295'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Das Kürbisfest
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_94c3c9a8eddb012a6469168cd7054588170b61b110c2fd27e6aeda28/3_FRCj9j3Rs9wrM1c6/bibi_tina_050_das_kurbisfest_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/das-kurbisfest/
+  shop-id: 12a8d550-d237-4501-a9e9-4fb5db3301cf
+  track-desc: []
+  ids: []

@@ -1,0 +1,22 @@
+article: '2000000692'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und die Automafia
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_05518c953afefc13ddf692d515b7df6e9460b84c569786de35f16e90/3_6_QbBlYkRxgMZNn./the_three_053_und_die_automafia_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-die-automafia/
+  shop-id: 5771399a-9dac-4d5f-a460-515629749fb0
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

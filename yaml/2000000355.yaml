@@ -1,0 +1,18 @@
+article: '2000000355'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Mission Alex
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_f56eea78efdc3ebacbbab1abb5db329d42691ebff9342f5aebae5311/3_pf7wGVf4.5SDqdh9/bibi_tina_092_mission_alex_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/mission-alex/
+  shop-id: 6bdd5547-730e-49f0-9ddc-ce7fc95c9ee0
+  track-desc: []
+  ids: []

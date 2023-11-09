@@ -1,0 +1,22 @@
+article: '2000000616'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Tal des Schreckens
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_fa02bc8b94ea9d442f25a394e458a1f1ea81e4dfe11e5dca37c49d44/3_56x4CmtkF3GLCvqM/the_three_098_tal_des_schreckens_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/tal-des-schreckens/
+  shop-id: 5a6a2fc9-2680-4e1f-9cd9-358a66aca272
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

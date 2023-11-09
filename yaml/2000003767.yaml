@@ -1,0 +1,18 @@
+article: '2000003767'
+lock-data: false
+data:
+- series: Der junge Sherlock Holmes
+  series-id: der-junge-sherlock-holmes
+  episode: Die Legende von Sprungfeder-Jack
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 11
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/6d926bdc74483edebd01fcc20f2c3a06e733d02c18d9764a38b4ce99/3_6G1TvRzr-wskHsl./der_junge_sherlock_holmes_003_die_legende_von__530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/der-junge-sherlock-holmes/die-legende-von-sprungfeder-jack/
+  shop-id: 1b0a0047-f3c5-43c6-9ae5-4491e4e74cb2
+  track-desc: []
+  ids: []

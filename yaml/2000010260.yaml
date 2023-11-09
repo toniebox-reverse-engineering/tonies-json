@@ -1,0 +1,18 @@
+article: '2000010260'
+lock-data: false
+data:
+- series: LEGO City
+  series-id: lego-city
+  episode: 'Folgen 78-82: Grizzled und Grizzled-er'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 7
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/d9b095a6227772b27135cea79b74ecb40fbfdc2aae040e0f9c173dcc/3_9p3p1lVQ3jBkxlyp/lego_city_078_folgen_78_82__grizzled_und_grizz_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-city/folgen-78-82-grizzled-und-grizzled-er/
+  shop-id: f9c7d49b-c13f-4bd5-b088-25b5ca1802f7
+  track-desc: []
+  ids: []

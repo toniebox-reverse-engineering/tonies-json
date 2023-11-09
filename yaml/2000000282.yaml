@@ -1,0 +1,18 @@
+article: '2000000282'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Das Amulett der Gräfin
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_9979de2310fea21267cff0ab8643f35d441af5419ecf63aceef5566b/3_5yjJhgF~xBHsM1Hs/bibi_tina_054_das_amulett_der_grafin_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/das-amulett-der-grafin/
+  shop-id: 2b7b3d8b-1632-4a04-8370-9b9286df3f67
+  track-desc: []
+  ids: []

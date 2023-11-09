@@ -1,0 +1,22 @@
+article: '2000000614'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Stimmen aus dem Nichts
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_8375a150da044a63abfcc6dc87a6f8eebcec8a51e30f380b9ab5878c/3_144fq4xkhL-wdfyy/die_drei_076_stimmen_aus_dem_nichts_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/stimmen-aus-dem-nichts/
+  shop-id: 94e3108a-f9b3-4799-b466-d5a3bca90f11
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

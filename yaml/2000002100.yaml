@@ -1,0 +1,18 @@
+article: '2000002100'
+lock-data: false
+data:
+- series: Conni & Co
+  series-id: conni-co
+  episode: Conni & Co - Das Original-Hörspiel zum Kinofilm
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_d87a1667698aa020973853ef346f5d70e57c827402cbec53aa43b568/3__Csq3Y1HQvKqj21./conni_co_conni_co_das_original_horspiel_zu_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/conni-co/conni-co-das-original-horspiel-zum-kinofilm/
+  shop-id: b13600b7-a79e-4a88-a857-fd0651f2e3f9
+  track-desc: []
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000000109'
+lock-data: false
+data:
+- series: Benjamin Blümchen
+  series-id: benjamin-bluemchen
+  episode: Otto ist krank
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_7101b37bc37b4ca6113d3940ba1ed58bbf50a2bb2e72e2c9bf74f6f6/3_GDKyYjK3-g5hmX_n/benjamin_blumchen_061_otto_ist_krank_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/otto-ist-krank/
+  shop-id: f617fe8f-6fef-4233-a5cf-394973a0a61b
+  track-desc: []
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000010304'
+lock-data: false
+data:
+- series: Peppa Pig
+  series-id: peppa-pig
+  episode: Peppa Pig - ¡Abuelo Rabbit, al espacio! y otras historias
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/32f951a503b13e834bba782dc8c923608aff88d92b6a066aafba0d63/3_RnX8XB.wKn93.Ldh/peppa_pig_002_peppa_pig_abuelo_rabbit_al_e_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/peppa-pig/peppa-pig-abuelo-rabbit-al-espacio-y-otras-histori/
+  shop-id: 6a8fa79a-b296-40cc-8aff-6731eafd055e
+  track-desc: []
+  ids: []

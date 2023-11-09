@@ -1,0 +1,18 @@
+article: '2000003615'
+lock-data: false
+data:
+- series: Bobo Siebenschläfer
+  series-id: bobo-siebenschlaefer
+  episode: Viel Spaß im Kindergarten!
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_a0a23610fa36eeaf4f9a222c031d1c8b38452cb3306b14a7b38d1eae/3_jBcD~-DZrWg4VGBP/bobo_siebenschlafer_viel_spa_im_kindergarten_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bobo-siebenschlaefer/viel-spa-im-kindergarten/
+  shop-id: f1e3a500-cea2-4f61-b67d-6a44a94e5d23
+  track-desc: []
+  ids: []

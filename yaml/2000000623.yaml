@@ -1,0 +1,30 @@
+article: '2000000623'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Toteninsel
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_f504b45c4bd53ffefbbc0552754382a62b7432a0aab54725c9247310/3_dgGh.zYfj3pZw9vR/the_three_100_toteninsel_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/toteninsel/
+  shop-id: 4dfe08f3-2b30-4e59-8433-2c95101f9e76
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000000228'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: im Dschungel
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_29ab862d5a7bfbb772a518254e3436f7d95d783ec58ea7eef329d3ce/3_RNR.S8kC6KPCR9_-/bibi_blocksberg_028_im_dschungel_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/im-dschungel/
+  shop-id: 541f3b03-05f3-44b1-8c20-c1bc6d098d8d
+  track-desc: []
+  ids: []

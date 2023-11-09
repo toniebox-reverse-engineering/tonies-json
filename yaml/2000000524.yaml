@@ -1,0 +1,22 @@
+article: '2000000524'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Der Geist des Goldgräbers
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_c5b99c10428fd537fe81177d203e5356956d2e408e4784d5c6eb0e35/3_~F.2PjYd5C5GCkqY/die_drei_177_der_geist_des_goldgrabers_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/der-geist-des-goldgrabers/
+  shop-id: cb543faa-370e-42fd-bf44-7137351cf8b2
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

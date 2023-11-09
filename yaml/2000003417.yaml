@@ -1,0 +1,18 @@
+article: '2000003417'
+lock-data: false
+data:
+- series: LEGO Ninjago
+  series-id: lego-ninjago
+  episode: 'Folgen 139-144: Das Fünf-Milliarden-Wettrennen'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_30e9dba61ee3115acd33944542c5275520e1cea753f5efb40b8fd540/3_lTkJM18wKwpS6RpN/lego_ninjago_139_folgen_139_144__das_funf_mill_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-139-144-das-funf-milliarden-wettrennen/
+  shop-id: 29d5fc8b-68b3-4b59-9eba-3a3682696d12
+  track-desc: []
+  ids: []

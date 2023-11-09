@@ -1,0 +1,22 @@
+article: '2000000700'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und die Fußball-Falle
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_d9ab5348eb4cdf41a5c61f764e5e95f5f83adb87d7dbd796ea3ad7dd/3_P-FGjBXnQFBW_45-/die_drei_141_und_die_fuball_falle_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-die-fuball-falle/
+  shop-id: 198a84d6-3b75-496f-b93a-876e7ab1559d
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

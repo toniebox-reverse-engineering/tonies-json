@@ -1,0 +1,18 @@
+article: '2000010338'
+lock-data: false
+data:
+- series: Thomas & seine Freunde
+  series-id: thomas-seine-freunde
+  episode: Il trenino Thomas - Il re della ferrovia
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/d4f92472fe5e0bf0bd3e1b9269ed5705693a9a8c7b31b4ae94b5252e/3_FfV58phzqGwnxsR_/thomas_the_tank_engine_il_trenino_thomas_il_re_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/thomas-seine-freunde/il-trenino-thomas-il-re-della-ferrovia/
+  shop-id: 7f662868-dbc9-459b-b18d-1d5992a21f13
+  track-desc: []
+  ids: []

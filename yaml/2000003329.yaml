@@ -1,0 +1,18 @@
+article: '2000003329'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Das blinde Mädchen
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_a044b76d603377ea162a94b6379d582e3d80b4c57ebfb52c4d545434/3_k7T~KmmdZdWQ6x24/bibi_tina_105_das_blinde_madchen_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/das-blinde-madchen/
+  shop-id: 483b3e39-53df-4b9d-b4d8-5a1e94829e02
+  track-desc: []
+  ids: []

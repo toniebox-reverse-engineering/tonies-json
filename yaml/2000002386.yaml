@@ -1,0 +1,18 @@
+article: '2000002386'
+lock-data: false
+data:
+- series: PAW Patrol
+  series-id: paw-patrol
+  episode: 'Folgen 148-151: Pinguine im Dschungel'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/81dd4b3756bcfee68f230875434f4eaf4418c9361cc000de93ef711b/3_X.Lcf3PjKQ-8xyBZ/paw_patrol_148_folgen_148_151__pinguine_im_dsc_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-148-151-pinguine-im-dschungel/
+  shop-id: 57da543a-521a-40dd-b777-69a45ab5e74f
+  track-desc: []
+  ids: []

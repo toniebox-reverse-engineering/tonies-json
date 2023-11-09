@@ -1,0 +1,18 @@
+article: '2000003311'
+lock-data: false
+data:
+- series: Pumuckl
+  series-id: pumuckl
+  episode: 'Folge 66: Pumuckl hütet die Fische'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_11b1bcacc2dd81fa6327cdcd91a7f21bac78c5ea5d693b74c5a57339/3_t_CdKlQBbmStzJKb/pumuckl_066_folge_66__pumuckl_hutet_die_fische_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-hutet-die-fische-das-original-aus-dem-fern/
+  shop-id: fcb766de-078f-4655-be06-a00328341add
+  track-desc: []
+  ids: []

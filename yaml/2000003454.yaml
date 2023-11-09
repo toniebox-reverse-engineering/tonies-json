@@ -1,0 +1,18 @@
+article: '2000003454'
+lock-data: false
+data:
+- series: LEGO Friends
+  series-id: lego-friends
+  episode: 'Folgen 26-28: Rettet Hazels Laden'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_4e8afd67a197981cf5109311fc789a9904c403bd310d892aa1712cda/3_hDLsRwtdxFjpJtvS/lego_friends_026_folgen_26_28__rettet_hazels_l_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-friends/lego-friends-folgen-26-28-rettet-hazels-laden/
+  shop-id: 5a7097ac-2940-41b8-830b-3cd0dc4eae52
+  track-desc: []
+  ids: []

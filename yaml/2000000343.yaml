@@ -1,0 +1,18 @@
+article: '2000000343'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Ein ungebetener Gast
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_1e6255564aa45e7bcb43ae73bce2fbbdf7fafcf0f5c6f133bc6331a0/3_mtbS0~sBpP1H~7YG/bibi_tina_048_ein_ungebetener_gast_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/ein-ungebetener-gast/
+  shop-id: 317dc2e2-df82-4358-acc6-e88bd45a3471
+  track-desc: []
+  ids: []

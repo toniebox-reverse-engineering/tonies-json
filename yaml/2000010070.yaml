@@ -1,0 +1,18 @@
+article: '2000010070'
+lock-data: false
+data:
+- series: Cry Babies
+  series-id: cry-babies
+  episode: Tutti Frutti Bay (in Italiano)
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/62fc311fe534698ddb48151d104d5dbb8da30800c771ca657263f0fd/3_BqltG2qm5cHR3pF4/cry_babies_tutti_frutti_bay_in_italiano_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/cry-babies/tutti-frutti-bay-in-italiano/
+  shop-id: 6cd3d676-e8de-4d49-af21-d74ca1c8d1a2
+  track-desc: []
+  ids: []

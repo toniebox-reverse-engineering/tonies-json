@@ -1,0 +1,18 @@
+article: '2000000197'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Die Hexenküche
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_7e058c55d02de957a9ed98785feb1129e40661a2474ddcee92772851/3_7wRvg7mvK7YhSSzF/bibi_blocksberg_105_die_hexenkuche_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/die-hexenkuche/
+  shop-id: c4eae34b-5f68-4747-9950-cfcd93e13831
+  track-desc: []
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000002131'
+lock-data: false
+data:
+- series: Conni
+  series-id: conni
+  episode: Conni und das große Bergabenteuer
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_bd59bea85428d1c8f4e9ea3575e38f77054d19d1d50cc3731920a301/3_~khzTf6j-XVPLjl_/conni_conni_und_das_groe_bergabenteuer_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/conni/conni-und-das-groe-bergabenteuer/
+  shop-id: 45bebb05-202c-433b-a27e-002494ecd7d6
+  track-desc: []
+  ids: []

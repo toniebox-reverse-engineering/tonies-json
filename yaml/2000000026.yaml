@@ -1,0 +1,18 @@
+article: '2000000026'
+lock-data: false
+data:
+- series: Benjamin Blümchen
+  series-id: benjamin-bluemchen
+  episode: als Polizist
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_f1d1613e24111d7e31a334d9d2b67334cabe65494a628e8980ac1920/3_dQ1TWhyFHr-Nv55t/benjamin_blumchen_122_als_polizist_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/als-polizist/
+  shop-id: fc529f9b-8d1a-4c2b-93cb-57f25d252a6a
+  track-desc: []
+  ids: []

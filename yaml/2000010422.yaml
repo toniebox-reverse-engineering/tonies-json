@@ -1,0 +1,18 @@
+article: '2000010422'
+lock-data: false
+data:
+- series: PJ Masks
+  series-id: pj-masks
+  episode: 'Folge 55: Lionel Saurus'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/bcfada64ceeb81c62682ca43e65a501f720ab6c1b98949da95cb5aff/3_lPBPmSFRmnDnWcSc/pj_masks_055_folge_55__lionel_saurus_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/pj-masks/folge-55-lionel-saurus/
+  shop-id: 3810b959-bd64-4331-b91a-ebee8cf14521
+  track-desc: []
+  ids: []

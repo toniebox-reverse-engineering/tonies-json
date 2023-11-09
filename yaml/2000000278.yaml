@@ -1,0 +1,18 @@
+article: '2000000278'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Alle lieben Knuddel
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_093946d180ceba056a7375bf0fcfe326604c8ee7fb9b234259ca8685/3_WTp3RT_mjyGFTFl5/bibi_tina_016_alle_lieben_knuddel_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/alle-lieben-knuddel/
+  shop-id: b4ef1a70-ec73-4d2d-9a42-05b6c194c0d9
+  track-desc: []
+  ids: []

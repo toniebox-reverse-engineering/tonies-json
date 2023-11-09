@@ -1,0 +1,18 @@
+article: '2000000062'
+lock-data: false
+data:
+- series: Benjamin Blümchen
+  series-id: benjamin-bluemchen
+  episode: Der Dinosaurierknochen
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_eef6c8ce55fb538e416150767d166ad3759f18ecd91e0ff843913b0a/3_sVYTCSCwwxMhhSH4/benjamin_blumchen_139_der_dinosaurierknochen_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/der-dinosaurierknochen/
+  shop-id: 02d32618-04cd-4b43-94e3-665d233d88ef
+  track-desc: []
+  ids: []

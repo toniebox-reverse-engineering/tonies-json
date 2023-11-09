@@ -1,0 +1,18 @@
+article: '2000000237'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Karla gibt nicht auf
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_c89692769078e4a46d40fa0a5a759788fa7ad1ac770b06a1050f6cb6/3_qWZpBN7w1yBG._pC/bibi_blocksberg_046_karla_gibt_nicht_auf_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/karla-gibt-nicht-auf/
+  shop-id: 1b69aae4-59b1-4f89-a865-aac2896ab9eb
+  track-desc: []
+  ids: []

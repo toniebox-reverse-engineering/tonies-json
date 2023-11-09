@@ -1,0 +1,30 @@
+article: '2000003813'
+lock-data: false
+data:
+- series: 100% Wolf
+  series-id: 100-wolf
+  episode: 'Folge 25: Der Vulkan'
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/79c1eaa61fe60565716e513136ee367f805591e7d03d7171a51ce064/3_9vXzK~QWbJsBrxH3/100_wolf_horspiel_zur_tv_serie_025_folge_25_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/100-wolf/100-wolf-folge-25-der-vulkan/
+  shop-id: 7fac9e35-bd44-49e1-a840-e6cc4bca362b
+  track-desc:
+  - 25 - Der Vulkan (Inhaltsangabe)
+  - 100% Wolf Titelmusik
+  - 25 - Der Vulkan (Teil 01)
+  - 25 - Der Vulkan (Teil 02)
+  - 25 - Der Vulkan (Teil 03)
+  - 25 - Der Vulkan (Teil 04)
+  - 25 - Der Vulkan (Teil 05)
+  - 25 - Der Vulkan (Teil 06)
+  - 25 - Der Vulkan (Teil 07)
+  - 25 - Der Vulkan (Teil 08)
+  - 25 - Der Vulkan (Teil 09)
+  - 25 - Der Vulkan (Outro)
+  ids: []

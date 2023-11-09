@@ -1,0 +1,18 @@
+article: '2000003237'
+lock-data: false
+data:
+- series: Schleich Horse Club
+  series-id: schleich-horse-club
+  episode: 'Folge 11: Geheimnisvolle Träume'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 99
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_8043935a6003b886b66ae73668bee34c973681e8b3d87e25d25d8cb6/3_N6ZXD1TfJcymS6vb/schleich_horse_club_011_folge_11__geheimnisvol_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/schleich-horse-club/folge-11-geheimnisvolle-traume/
+  shop-id: 4a332490-016c-4ba6-9c99-6f973a00b789
+  track-desc: []
+  ids: []

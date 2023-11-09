@@ -1,0 +1,58 @@
+article: '2000002839'
+lock-data: false
+data:
+- series: Super Wings
+  series-id: super-wings
+  episode: Trommelfest
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_5a100cae3a190d5bc258e35617a5e3d54541b303c5f99aba9e27b883/3_qGnq9~1DCxlcyGHy/super_wings_004_trommelfest_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/super-wings/super-wings-trommelfest/
+  shop-id: c32ff869-6218-4b3f-b9ff-ddf08c465ca0
+  track-desc:
+  - Im Land der Pyramiden (Teil 01)
+  - Im Land der Pyramiden (Teil 02)
+  - Im Land der Pyramiden (Teil 03)
+  - Im Land der Pyramiden (Teil 04)
+  - Im Land der Pyramiden (Teil 05)
+  - Im Land der Pyramiden (Teil 06)
+  - Im Land der Pyramiden (Teil 07)
+  - Im Land der Pyramiden (Teil 08)
+  - Im Land der Pyramiden (Teil 09)
+  - Im Land der Pyramiden (Teil 10)
+  - Trommelfest (Teil 01)
+  - Trommelfest (Teil 02)
+  - Trommelfest (Teil 03)
+  - Trommelfest (Teil 04)
+  - Trommelfest (Teil 05)
+  - Trommelfest (Teil 06)
+  - Trommelfest (Teil 07)
+  - Trommelfest (Teil 08)
+  - Trommelfest (Teil 09)
+  - Trommelfest (Teil 10)
+  - Allein auf großer Bühne (Teil 01)
+  - Allein auf großer Bühne (Teil 02)
+  - Allein auf großer Bühne (Teil 03)
+  - Allein auf großer Bühne (Teil 04)
+  - Allein auf großer Bühne (Teil 05)
+  - Allein auf großer Bühne (Teil 06)
+  - Allein auf großer Bühne (Teil 07)
+  - Allein auf großer Bühne (Teil 08)
+  - Allein auf großer Bühne (Teil 09)
+  - Allein auf großer Bühne (Teil 10)
+  - Fliegende Riesentorte (Teil 01)
+  - Fliegende Riesentorte (Teil 02)
+  - Fliegende Riesentorte (Teil 03)
+  - Fliegende Riesentorte (Teil 04)
+  - Fliegende Riesentorte (Teil 05)
+  - Fliegende Riesentorte (Teil 06)
+  - Fliegende Riesentorte (Teil 07)
+  - Fliegende Riesentorte (Teil 08)
+  - Fliegende Riesentorte (Teil 09)
+  - Fliegende Riesentorte (Teil 10)
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000010259'
+lock-data: false
+data:
+- series: LEGO City
+  series-id: lego-city
+  episode: 'Folgen 73-77: Ein Tag mit Dread'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 7
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/e7cf6290843d45dc0cbb39022ee089ce1357291c039cc078f0fd9615/3_9lgtn.wFkw2~5x7d/lego_city_073_folgen_73_77__ein_tag_mit_dread_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-city/folgen-73-77-ein-tag-mit-dread/
+  shop-id: e1bab63e-6c25-4cac-a291-a0cfbe9c2fb4
+  track-desc: []
+  ids: []

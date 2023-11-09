@@ -1,0 +1,18 @@
+article: '2000010421'
+lock-data: false
+data:
+- series: PJ Masks
+  series-id: pj-masks
+  episode: 'Folge 62: Wer hat hier die Eulenkraft?'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/d4df656caab57121f89aca76d44d259ccd559d4a784006b44800340d/3_tN2qk4lCLbDw2vjZ/pj_masks_062_folge_62__wer_hat_hier_die_eulenk_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/pj-masks/folge-62-wer-hat-hier-die-eulenkraft/
+  shop-id: 07c9964d-56dc-46a3-9357-5974d07beacd
+  track-desc: []
+  ids: []

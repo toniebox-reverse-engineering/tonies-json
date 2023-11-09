@@ -1,0 +1,18 @@
+article: '2000002906'
+lock-data: false
+data:
+- series: Feuerwehrmann Sam
+  series-id: feuerwehrmann-sam
+  episode: Tierische Rettung
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_34c10c551b09030e2918e69c8f1e0f9ea4a79ca9e2ae7768f6680578/3_ZBDnNqWNkBLVLhgY/feuerwehrmann_sam_114_tierische_rettung_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/feuerwehrmann-sam/tierische-rettung/
+  shop-id: 920e9d35-ef2a-4828-83b0-65067377f53d
+  track-desc: []
+  ids: []

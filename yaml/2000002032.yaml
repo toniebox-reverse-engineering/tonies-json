@@ -1,0 +1,18 @@
+article: '2000002032'
+lock-data: false
+data:
+- series: Die Playmos
+  series-id: die-playmos
+  episode: Angriff der Eispiraten
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_eace3948085911b1a8dace25eddd1958358c9fc79db6d93dbeaa7224/3_x_Ch.Mbkxmm0FRB7/die_playmos_054_angriff_der_eispiraten_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-playmos/angriff-der-eispiraten/
+  shop-id: ba322ec9-97c9-4d5b-aa00-64408dee54ca
+  track-desc: []
+  ids: []

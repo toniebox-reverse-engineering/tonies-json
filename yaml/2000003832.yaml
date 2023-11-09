@@ -1,0 +1,18 @@
+article: '2000003832'
+lock-data: false
+data:
+- series: Der kleine König
+  series-id: der-kleine-koenig
+  episode: Der kleine König lernt schwimmen
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_7dd6601165d2a9aaa92b22d09fbefc6051faad56fb91a4f8350c09f7/3_L~~k-m_0q6nY7WXD/der_kleine_konig_033_der_kleine_konig_lernt_sc_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/der-kleine-koenig/der-kleine-konig-lernt-schwimmen/
+  shop-id: c2f4d452-49f6-4733-9efc-75372eb48b17
+  track-desc: []
+  ids: []

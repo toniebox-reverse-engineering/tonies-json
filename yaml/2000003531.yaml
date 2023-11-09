@@ -1,0 +1,47 @@
+article: '2000003531'
+lock-data: false
+data:
+- series: Die drei !!!
+  series-id: die-drei-ausrufezeichen
+  episode: Ein echt schöner Fall
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 7
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/db46b980b10c7d31769805c81fdc3e5a7c97a7ee0c56cc05340ba504/3_XkyY8bY~rm2tf0~X/die_drei_080_ein_echt_schoner_fall_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-ausrufezeichen/die-drei-folge-80-ein-echt-schoner-fall/
+  shop-id: 1b6a101c-b701-4208-ac10-daf2270183a2
+  track-desc:
+  - 80 - Ein echt schöner Fall (Inhaltsangabe)
+  - 80 - Ein echt schöner Fall (Titelsong)
+  - 80 - Ein echt schöner Fall (Teil 01)
+  - 80 - Ein echt schöner Fall (Teil 02)
+  - 80 - Ein echt schöner Fall (Teil 03)
+  - 80 - Ein echt schöner Fall (Teil 04)
+  - 80 - Ein echt schöner Fall (Teil 05)
+  - 80 - Ein echt schöner Fall (Teil 06)
+  - 80 - Ein echt schöner Fall (Teil 07)
+  - 80 - Ein echt schöner Fall (Teil 08)
+  - 80 - Ein echt schöner Fall (Teil 09)
+  - 80 - Ein echt schöner Fall (Teil 10)
+  - 80 - Ein echt schöner Fall (Teil 11)
+  - 80 - Ein echt schöner Fall (Teil 12)
+  - 80 - Ein echt schöner Fall (Teil 13)
+  - 80 - Ein echt schöner Fall (Teil 14)
+  - 80 - Ein echt schöner Fall (Teil 15)
+  - 80 - Ein echt schöner Fall (Teil 16)
+  - 80 - Ein echt schöner Fall (Teil 17)
+  - 80 - Ein echt schöner Fall (Teil 18)
+  - 80 - Ein echt schöner Fall (Teil 19)
+  - 80 - Ein echt schöner Fall (Teil 20)
+  - 80 - Ein echt schöner Fall (Teil 21)
+  - 80 - Ein echt schöner Fall (Teil 22)
+  - 80 - Ein echt schöner Fall (Teil 23)
+  - 80 - Ein echt schöner Fall (Teil 24)
+  - 80 - Ein echt schöner Fall (Teil 25)
+  - 80 - Ein echt schöner Fall (Schlusssong)
+  - 80 - Ein echt schöner Fall (Outro)
+  ids: []

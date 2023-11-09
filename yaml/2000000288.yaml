@@ -1,0 +1,18 @@
+article: '2000000288'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Das Gestüt in England
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_fecc61e6ee5d7a8101f88cb43d0cefd449e8236c57db3ee7e9386650/3_S9chrGbykMgw~FfL/bibi_tina_078_das_gestut_in_england_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/das-gestut-in-england/
+  shop-id: 6bae0211-4f1b-45f9-bb83-dc2d010c96fc
+  track-desc: []
+  ids: []

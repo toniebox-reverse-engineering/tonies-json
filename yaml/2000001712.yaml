@@ -1,0 +1,44 @@
+article: '2000001712'
+lock-data: false
+data:
+- series: Wickie - Klassiker
+  series-id: wickie-klassiker
+  episode: Das Geisterschiff
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_44a25d25057f0d0d86bac9711017d1aade4bfe2b6e71d9fb36aec12a/3_gDk~JkGPK6m0xJqM/wickie_klassiker_006_das_geisterschiff_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/wickie-klassiker/wickie-das-geisterschiff/
+  shop-id: 1b28b3f0-4789-4b03-8203-c1d59541def3
+  track-desc:
+  - Das Geisterschiff (Teil 1)
+  - Das Geisterschiff (Teil 2)
+  - Das Geisterschiff (Teil 3)
+  - Das Geisterschiff (Teil 4)
+  - Das Geisterschiff (Teil 5)
+  - Das Geisterschiff (Teil 6)
+  - Das Geisterschiff (Teil 7)
+  - Das Geisterschiff (Teil 8)
+  - Das Geisterschiff (Teil 9)
+  - Das Geisterschiff (Teil 10)
+  - Das Geisterschiff (Teil 11)
+  - Das Geisterschiff (Teil 12)
+  - Das Geisterschiff (Teil 13)
+  - Der Eskimoschatz (Teil 1)
+  - Der Eskimoschatz (Teil 2)
+  - Der Eskimoschatz (Teil 3)
+  - Der Eskimoschatz (Teil 4)
+  - Der Eskimoschatz (Teil 5)
+  - Der Eskimoschatz (Teil 6)
+  - Der Eskimoschatz (Teil 7)
+  - Der Eskimoschatz (Teil 8)
+  - Der Eskimoschatz (Teil 9)
+  - Der Eskimoschatz (Teil 10)
+  - Der Eskimoschatz (Teil 11)
+  - Der Eskimoschatz (Teil 12)
+  - Der Eskimoschatz (Teil 13)
+  ids: []

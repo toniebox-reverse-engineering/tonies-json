@@ -1,0 +1,18 @@
+article: '2000003824'
+lock-data: false
+data:
+- series: Der kleine König
+  series-id: der-kleine-koenig
+  episode: Mond und Sterne
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_052b9708f58d970d16986b31271ab463df0f9e7facccb4d8051dfa1e/3_tfHF8lBcGCM1r3x-/der_kleine_konig_025_mond_und_sterne_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/der-kleine-koenig/der-kleine-konig-mond-und-sterne/
+  shop-id: 68f32cb9-a2e1-43fb-8ec1-238901bd3f04
+  track-desc: []
+  ids: []

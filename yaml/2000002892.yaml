@@ -1,0 +1,18 @@
+article: '2000002892'
+lock-data: false
+data:
+- series: Feuerwehrmann Sam
+  series-id: feuerwehrmann-sam
+  episode: Der Retter von Pontypandy
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_3cb38ff91f64e31dc180f4022cc482dc6bb95458e5e7380ae630cce4/3_J~xWmJ2fHNrGzYqm/feuerwehrmann_sam_009_der_retter_von_pontypand_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/feuerwehrmann-sam/der-retter-von-pontypandy/
+  shop-id: f35fe825-c1dc-470a-8d09-02641be053ac
+  track-desc: []
+  ids: []

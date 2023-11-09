@@ -1,0 +1,18 @@
+article: '2000000206'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Die neue Schule
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_46fadd4836e8a3e3e73faaec7a45a5cf56a9fd527eecca344b42c852/3_vH1ccgkdtbgVPzvg/bibi_blocksberg_064_die_neue_schule_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/die-neue-schule/
+  shop-id: b9cd80a2-719d-47cb-aac7-0c9680bffcd1
+  track-desc: []
+  ids: []

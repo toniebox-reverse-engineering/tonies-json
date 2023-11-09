@@ -1,0 +1,18 @@
+article: '2000000232'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: im Zirkus
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_f2eb4cc8e1eaf4e9e29d0bb60ba5c6a45d6fa060e384333bcc4c3789/3_bvgFk3py~HR_3tLR/bibi_blocksberg_042_im_zirkus_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/im-zirkus/
+  shop-id: 5c8e9422-cc24-42f2-9839-0a651b24be10
+  track-desc: []
+  ids: []

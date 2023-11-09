@@ -1,0 +1,18 @@
+article: '2000003492'
+lock-data: false
+data:
+- series: Lieselotte Filmhörspiele
+  series-id: lieselotte-filmhoerspiele
+  episode: 'Band 10: Ein bunter Herbst mit Lieselotte'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_edc451fd4dbac6aa1b38197eae34971b6852526f950b6536a803df0a/3_tVtFP8WqvqkWKBFT/lieselotte_filmhorspiele_010_band_10__ein_bunt_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lieselotte-filmhoerspiele/lieselotte-filmhorspiele-folge-10-ein-bunter-herbs/
+  shop-id: 8bf1c8cb-8c08-498b-bf57-0918c1f3022e
+  track-desc: []
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000003448'
+lock-data: false
+data:
+- series: LEGO Friends
+  series-id: lego-friends
+  episode: 'Folge 16: Die verliebte Andrea'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_cac7fe407f857b43686aa15b48ec6f3806028adea09db02d492fb938/3_Q5wdz3~kVjs-hZNd/lego_friends_016_folge_16__die_verliebte_andre_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-friends/lego-friends-folge-16-die-verliebte-andrea/
+  shop-id: 48f21498-cd8e-4ea5-935f-80d29e598288
+  track-desc: []
+  ids: []

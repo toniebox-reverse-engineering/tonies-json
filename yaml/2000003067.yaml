@@ -1,0 +1,18 @@
+article: '2000003067'
+lock-data: false
+data:
+- series: Sternenschweif
+  series-id: sternenschweif
+  episode: 'Teil 16: Geheimnisvoller Zaubertrank'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_40df0b58fdf23bcf6c1939a4573571e4e1f6fbf032b8b67a5a2500c9/3_ds5krYZZhn9YcJ0W/sternenschweif_016_teil_16__geheimnisvoller_za_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/sternenschweif/teil-16-geheimnisvoller-zaubertrank/
+  shop-id: 3624f269-0f42-4b1a-bc79-d4daffd850ff
+  track-desc: []
+  ids: []

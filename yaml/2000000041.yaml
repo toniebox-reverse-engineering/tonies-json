@@ -1,0 +1,18 @@
+article: '2000000041'
+lock-data: false
+data:
+- series: Benjamin Blümchen
+  series-id: benjamin-bluemchen
+  episode: auf dem Rummel
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_a16570f765430ab43ff458fce0d8b390c2c8451db8f9eb663a8ad180/3_hw.9pGslgq0pcghZ/benjamin_blumchen_029_auf_dem_rummel_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/auf-dem-rummel/
+  shop-id: 9dbc50c0-d332-408f-901d-0dc05fa3147c
+  track-desc: []
+  ids: []

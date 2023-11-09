@@ -1,0 +1,18 @@
+article: '2000010371'
+lock-data: false
+data:
+- series: Mumins
+  series-id: mumins
+  episode: Mumitrolden 2 - Kometen kommer
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/7516b7b5d65ec0713e9623a1f31c50dfe6b1f23ac1079f2bb13e902a/3_3GCJdsplGHptcG09/moomins_002_mumitrolden_2_kometen_kommer_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/mumins/mumitrolden-2-kometen-kommer/
+  shop-id: fe3d3b13-aef4-472b-8935-bcdb4509d310
+  track-desc: []
+  ids: []

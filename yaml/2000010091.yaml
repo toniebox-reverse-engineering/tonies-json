@@ -1,0 +1,18 @@
+article: '2000010091'
+lock-data: false
+data:
+- series: Feuerwehrmann Sam
+  series-id: feuerwehrmann-sam
+  episode: Pontypandy in Gefahr (Das Original-Hörspiel zum Film)
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_55340f060cf0dd66103d6b3ae3d7205c2d52fde75b07cd803d70f497/3_3FVxqlh99V~nCVNB/feuerwehrmann_sam_pontypandy_in_gefahr_das_orig_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/feuerwehrmann-sam/pontypandy-in-gefahr-das-original-horspiel-zum-fil/
+  shop-id: ba248cc7-edd2-4dea-a04a-920c5db9013b
+  track-desc: []
+  ids: []

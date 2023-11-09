@@ -1,0 +1,18 @@
+article: '2000002112'
+lock-data: false
+data:
+- series: Conni
+  series-id: conni
+  episode: Conni im Krankenhaus / Conni tanzt
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_a1b48f3b16aad651b5e6aa96de95cac710edd69654523c6306fdd1c8/3_DpNj~c5Sr6qzlM1G/conni_conni_im_krankenhaus___conni_tanzt_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/conni/conni-im-krankenhaus-conni-tanzt/
+  shop-id: 405df42a-2b6e-4cdc-949e-fb9c33d86b15
+  track-desc: []
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000003334'
+lock-data: false
+data:
+- series: LEGO City
+  series-id: lego-city
+  episode: Folge 3 - Feuerwehr - Auf der Spur des Roten Drachen
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 7
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_86cd176ece1e5f0705ede1882518ab843cd412c7e6a52c558910d397/3_vwBwmV0bn2QZDkv6/lego_city_003_folge_3_feuerwehr_auf_der_sp_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-city/lego-city-folge-3-feuerwehr-auf-der-spur-des-roten/
+  shop-id: e5be46b4-0a06-4d06-8229-397693cc1e2b
+  track-desc: []
+  ids: []

@@ -1,0 +1,22 @@
+article: '2000000696'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und die feurige Flut
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_2a5bf78efefcd884c3eaa47b6134c381c6aa528ad7ae1b3fbe83223f/3_lF~~0M~3KPskXHsK/the_three_148_und_die_feurige_flut_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-die-feurige-flut/
+  shop-id: 08699898-7113-4be0-b7d5-a97e276685e4
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

@@ -1,0 +1,42 @@
+article: '2000002866'
+lock-data: false
+data:
+- series: Super Wings
+  series-id: super-wings
+  episode: Der Damm der Biber
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_495c0d03a2a8ccd49179eb0a439048aac0da5e2637e7d6f1b37c0105/3_fdwdFXtWz32~VxFq/super_wings_031_der_damm_der_biber_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/super-wings/super-wings-folge-31-der-damm-der-biber/
+  shop-id: f26165e2-d7d1-49c7-8f7d-1cebcea8c063
+  track-desc:
+  - Der Damm der Biber (Inhaltsangabe)
+  - Regenzeit in Kenia (Teil 01)
+  - Regenzeit in Kenia (Teil 02)
+  - Regenzeit in Kenia (Teil 03)
+  - Regenzeit in Kenia (Teil 04)
+  - Regenzeit in Kenia (Teil 05)
+  - Die unterirdische Stadt (Teil 01)
+  - Die unterirdische Stadt (Teil 02)
+  - Die unterirdische Stadt (Teil 03)
+  - Die unterirdische Stadt (Teil 04)
+  - Die unterirdische Stadt (Teil 05)
+  - Die unterirdische Stadt (Teil 06)
+  - Der Damm der Biber (Teil 01)
+  - Der Damm der Biber (Teil 02)
+  - Der Damm der Biber (Teil 03)
+  - Der Damm der Biber (Teil 04)
+  - Der Damm der Biber (Teil 05)
+  - Galileas Sternbild (Teil 01)
+  - Galileas Sternbild (Teil 02)
+  - Galileas Sternbild (Teil 03)
+  - Galileas Sternbild (Teil 04)
+  - Galileas Sternbild (Teil 05)
+  - Galileas Sternbild (Teil 06)
+  - Galileas Sternbild (Outro)
+  ids: []

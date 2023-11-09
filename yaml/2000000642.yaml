@@ -1,0 +1,22 @@
+article: '2000000642'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und der Automarder
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_59873adb2c3c183902cc0818efc42c2657df3c15a43f8a8f01201dec/3_BkgQp6Msmpg5ss8v/the_three_040_und_der_automarder_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-der-automarder/
+  shop-id: 0be29940-32cb-419a-bb4f-0a2bcc259be3
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

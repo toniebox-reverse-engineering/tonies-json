@@ -1,0 +1,22 @@
+article: '2000000536'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Die Karten des Bösen
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_376d5ac2bda0a268ed36aabda249491ba5899043a5dd2fcd7f3df343/3_rFG~-_6RqS2F0B-l/the_three_082_die_karten_des_bosen_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/die-karten-des-bosen/
+  shop-id: 58ca366f-abc0-42e0-8be7-c140af2f9d86
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

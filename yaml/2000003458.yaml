@@ -1,0 +1,18 @@
+article: '2000003458'
+lock-data: false
+data:
+- series: LEGO Friends
+  series-id: lego-friends
+  episode: 'Folgen 39-41: Das Monster ist zurück'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_33cb2d9427134f6bbe0e6ac2372b55026aac96bf6f148930e5c1c426/3__HWC1n7MlvVFLRzd/lego_friends_039_folgen_39_41__das_monster_ist_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-friends/lego-friends-folgen-39-41-das-monster-ist-zuruck/
+  shop-id: fb18e772-33a2-4677-b5e7-46caa8b7bca2
+  track-desc: []
+  ids: []

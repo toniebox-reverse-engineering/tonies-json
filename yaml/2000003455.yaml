@@ -1,0 +1,18 @@
+article: '2000003455'
+lock-data: false
+data:
+- series: LEGO Friends
+  series-id: lego-friends
+  episode: 'Folgen 29-31: Das Team'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_1d6f7ced9146f6b4d97146c9e155aaa29025011ceb4532cea89e080d/3_5w2gt1dr8BFFjkJp/lego_friends_029_folgen_29_31__das_team_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-friends/lego-friends-folgen-29-31-das-team/
+  shop-id: 96b63147-ef41-4d14-8293-733f1ad14b3d
+  track-desc: []
+  ids: []

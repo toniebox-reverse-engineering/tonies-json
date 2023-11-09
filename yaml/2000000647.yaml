@@ -1,0 +1,22 @@
+article: '2000000647'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und der Fluch des Rubins
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_398341ecafa9d5563161d140c2f248687bb8b311810181baada7d83d/3_zPSlsMSCm5_-ZV5r/die_drei_005_und_der_fluch_des_rubins_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-der-fluch-des-rubins/
+  shop-id: 5fbfdadc-3050-4000-8000-53201f5b4ea3
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

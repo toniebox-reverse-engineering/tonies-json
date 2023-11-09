@@ -1,0 +1,29 @@
+article: '2000003648'
+lock-data: false
+data:
+- series: 100% Wolf
+  series-id: 100-wolf
+  episode: 'Folge 15: Schule gegen Schule'
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1b3baff9a902795d3e0e9d03c1aa8e625d36d8c5ff7883fd1b520392/3_qv5DJQpjqJ4r1PVs/100_wolf_horspiel_zur_tv_serie_015_folge_15_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/100-wolf/100-wolf-folge-15-schule-gegen-schule/
+  shop-id: a8bb5192-48d9-4cc0-bc80-3340dd7ee504
+  track-desc:
+  - 15 - Schule gegen Schule (Inhaltsangabe)
+  - 100% Wolf Titelmusik
+  - 15 - Schule gegen Schule (Teil 01)
+  - 15 - Schule gegen Schule (Teil 02)
+  - 15 - Schule gegen Schule (Teil 03)
+  - 15 - Schule gegen Schule (Teil 04)
+  - 15 - Schule gegen Schule (Teil 05)
+  - 15 - Schule gegen Schule (Teil 06)
+  - 15 - Schule gegen Schule (Teil 07)
+  - 15 - Schule gegen Schule (Teil 08)
+  - 15 - Schule gegen Schule (Outro)
+  ids: []

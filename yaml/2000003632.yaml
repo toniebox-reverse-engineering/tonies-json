@@ -1,0 +1,24 @@
+article: '2000003632'
+lock-data: false
+data:
+- series: Peppa Pig
+  series-id: peppa-pig
+  episode: Am Strand
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/613bf68dc9b0a8a82ad800365fa39efada54aed342bc334e590082e0/3_jkZnr.G0rf0C51fl/peppa_pig_027_am_strand_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/peppa-pig/peppa-pig-folge-27-am-strand/
+  shop-id: 6b1945ed-1390-4050-a10c-62a4df949748
+  track-desc:
+  - Am Strand
+  - Opas Boot
+  - Himmelsdrachen
+  - Picknick
+  - Burg Wetterstein
+  - Museumsbesuch
+  ids: []

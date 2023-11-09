@@ -1,0 +1,18 @@
+article: '2000002123'
+lock-data: false
+data:
+- series: Conni
+  series-id: conni
+  episode: Conni rettet Oma
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_df121b8a30297b12859fbec4154b8899176057e385cdb271ea4e4868/3_VhcrlqLqvxM9Kq_v/conni_conni_rettet_oma_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/conni/conni-rettet-oma/
+  shop-id: c2e53201-54ce-47d1-b81e-87be0550e12c
+  track-desc: []
+  ids: []

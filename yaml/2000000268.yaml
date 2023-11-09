@@ -1,0 +1,18 @@
+article: '2000000268'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: zieht um
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_aea9d4f50076ca84d811ff23577c939c9a7b66282f168384019d0130/3_M9vMwZdMcXc7WftD/bibi_blocksberg_021_zieht_um_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/zieht-um/
+  shop-id: 2a6f75ea-811b-4e1b-a7c8-d1d73daad3ac
+  track-desc: []
+  ids: []

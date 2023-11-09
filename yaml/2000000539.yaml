@@ -1,0 +1,22 @@
+article: '2000000539'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Die Rache des Untoten
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_fed104e2a278fa403f39f89dbe67159668b63add1b0fc9d6580d5024/3_-gf4jdLcHM41jLRQ/the_three_179_die_rache_des_untoten_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/die-rache-des-untoten/
+  shop-id: f28947f0-61cf-4dea-a5ae-0407e262dcff
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

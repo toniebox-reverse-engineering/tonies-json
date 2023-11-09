@@ -1,0 +1,57 @@
+article: '2000001703'
+lock-data: false
+data:
+- series: Unser Sandmännchen
+  series-id: unser-sandmaennchen
+  episode: Weihnachten mit dem Sandmännchen
+  release: 0
+  language: de-de
+  category: audio-book-songs
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_3f35fcc30087a42a0a85389a70d377dc6d5cfe940c9f7bbb5ee2a107/3_NBFpR2vp_Ny4bsjc/unser_sandmannchen_019_weihnachten_mit_dem_san_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/unser-sandmaennchen/weihnachten-mit-dem-sandmannchen/
+  shop-id: de21f6fc-588b-44c2-8def-df6fe44ba1e5
+  track-desc:
+  - Inhaltsangabe
+  - Anfangsmusik
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  - Teil 5
+  - Teil 6
+  - Auf dem Weihnachtsmarkt
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  - Teil 5
+  - Teil 6
+  - Der singende Weihnachtsbaum
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  - Teil 5
+  - Teil 6
+  - Endlich ist Heiligabend
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  - Teil 5
+  - Teil 6
+  - Ich spiel heute Weihnachtsmann
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  - Teil 5
+  - Teil 6
+  - Wir backen Plätzchen
+  - Endmusik
+  - Outro
+  ids: []

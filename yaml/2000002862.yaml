@@ -1,0 +1,40 @@
+article: '2000002862'
+lock-data: false
+data:
+- series: Super Wings
+  series-id: super-wings
+  episode: Auf den Spuren der Wildpferde
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_6e13a883ed5069c3a77dddc3e2b6ba85f4bbfbf94def48c4191c6e99/3_-NFBlmcB0PfPqBzW/super_wings_027_auf_den_spuren_der_wildpferde_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/super-wings/super-wings-auf-den-spuren-der-wildpferde/
+  shop-id: 5163df5f-677f-4d67-9db8-d69bef7ada77
+  track-desc:
+  - Auf den Spuren der Wildpferde (Inhaltsangabe)
+  - Auf den Spuren der Wildpferde (Teil 01)
+  - Auf den Spuren der Wildpferde (Teil 02)
+  - Auf den Spuren der Wildpferde (Teil 03)
+  - Auf den Spuren der Wildpferde (Teil 04)
+  - Auf den Spuren der Wildpferde (Teil 05)
+  - Baumhaus in Gefahr (Teil 01)
+  - Baumhaus in Gefahr (Teil 02)
+  - Baumhaus in Gefahr (Teil 03)
+  - Baumhaus in Gefahr (Teil 04)
+  - Baumhaus in Gefahr (Teil 05)
+  - Mission auf dem Mond (Teil 01)
+  - Mission auf dem Mond (Teil 02)
+  - Mission auf dem Mond (Teil 03)
+  - Mission auf dem Mond (Teil 04)
+  - Mission auf dem Mond (Teil 05)
+  - Der mutige Pilot (Teil 01)
+  - Der mutige Pilot (Teil 02)
+  - Der mutige Pilot (Teil 03)
+  - Der mutige Pilot (Teil 04)
+  - Der mutige Pilot (Teil 05)
+  - Der mutige Pilot (Outro)
+  ids: []

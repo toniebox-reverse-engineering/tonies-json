@@ -1,0 +1,18 @@
+article: '2000000334'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Die Superponys
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_28e16ded86429e769a004e1ceaae5cd326ce16d1db3357555d5c3ea8/3__Yx5C1GdgzslfdGc/bibi_tina_042_die_superponys_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/die-superponys/
+  shop-id: 15c04b47-7ef1-4350-80e4-aa84c504068a
+  track-desc: []
+  ids: []

@@ -1,0 +1,22 @@
+article: '2000000651'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und der giftige Gockel
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_4459723c7932e9ccd0e86a296b6d20df76ad50931567f1d6bc91920c/3_Bm6r2yBr3MFxjtT5/the_three_047_und_der_giftige_gockel_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-der-giftige-gockel/
+  shop-id: ec6e7983-e48f-4967-ad07-4279b6bc756e
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

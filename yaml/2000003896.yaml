@@ -1,0 +1,38 @@
+article: '2000003896'
+lock-data: false
+data:
+- series: TKKG Junior
+  series-id: tkkg-junior
+  episode: Das doppelte Klößchen
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1de8543a632c6028312d579450d5ab943c8e4ff9a5bbae45e921b702/3_ZQr.0R_fH1r1xZ92/tkkg_junior_024_das_doppelte_klochen_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/tkkg-junior/tkkg-junior-folge-24-das-doppelte-klochen/
+  shop-id: 156a8eec-f0c7-48f5-b498-ed7776c2f41a
+  track-desc:
+  - Inhaltsangabe
+  - TKKG Junior Titelsong
+  - Teil 01
+  - Teil 02
+  - Teil 03
+  - Teil 04
+  - Teil 05
+  - Teil 06
+  - Teil 07
+  - Teil 08
+  - Teil 09
+  - Teil 10
+  - Teil 11
+  - Teil 12
+  - Teil 13
+  - Teil 14
+  - Teil 15
+  - Teil 16
+  - TKKG Junior Schlußsong
+  - Outro
+  ids: []

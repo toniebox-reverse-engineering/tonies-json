@@ -1,0 +1,18 @@
+article: '2000000159'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Das TV-Hex-Duell
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_073e2d136a06ddca80d649fd1e614a378cb18cdc5dcb6dfc01226d20/3_TVt~3G1wmw2-qMxm/bibi_blocksberg_112_das_tv_hex_duell_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/das-tv-hex-duell/
+  shop-id: 949f5678-d0c6-42f6-981b-5be76d2a213c
+  track-desc: []
+  ids: []

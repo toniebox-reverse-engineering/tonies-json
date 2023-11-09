@@ -1,0 +1,18 @@
+article: '2000003347'
+lock-data: false
+data:
+- series: LEGO City
+  series-id: lego-city
+  episode: Folge 16 - Feuerwehr - Brandgefährlicher Einsatz
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 7
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_1c00823ed5dfc6ec7a9cca2a682f7745b093ed5b3ac892cb125d71ef/3_z2fjRNgrkd2f63jg/lego_city_016_folge_16_feuerwehr_brandgefa_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-city/lego-city-folge-16-feuerwehr-brandgefahrlicher-ein/
+  shop-id: 72746dc1-baba-49e5-a738-5642c2fb21c0
+  track-desc: []
+  ids: []

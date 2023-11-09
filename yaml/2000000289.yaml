@@ -1,0 +1,18 @@
+article: '2000000289'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Das große Teamspringen
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_9ea249bf3cc7bc3399cb5bd2aaaeff32f59537be9876d79a3056d0b8/3_dK5~cFt.Qtxq3kSF/bibi_tina_057_das_groe_teamspringen_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/das-groe-teamspringen/
+  shop-id: 2e1080c7-4151-47af-affa-0025b51b18f0
+  track-desc: []
+  ids: []

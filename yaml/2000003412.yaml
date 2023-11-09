@@ -1,0 +1,18 @@
+article: '2000003412'
+lock-data: false
+data:
+- series: LEGO Ninjago
+  series-id: lego-ninjago
+  episode: 'Folgen 114-118: Das Niemandsland'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_84fce4dc9fe90b2194b5380605c012308475ee45391ea89638bc3011/3_~JslpkkFkZJLKwNW/lego_ninjago_114_folgen_114_118__das_niemandsl_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-114-118-das-niemandsland/
+  shop-id: 34035a91-0823-4bfc-9578-18bbe175a195
+  track-desc: []
+  ids: []

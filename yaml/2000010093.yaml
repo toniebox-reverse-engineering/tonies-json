@@ -1,0 +1,18 @@
+article: '2000010093'
+lock-data: false
+data:
+- series: Feuerwehrmann Sam
+  series-id: feuerwehrmann-sam
+  episode: Helden im Sturm (Das Original-Hörspiel zum Film)
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/0f230c88b4a676f2d29c132551f7057004041e0b4a047a2c99877db5/3_CHJXf7.hsvVC6_lY/feuerwehrmann_sam_helden_im_sturm_das_original__530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/feuerwehrmann-sam/helden-im-sturm-das-original-horspiel-zum-film/
+  shop-id: 1544f18a-74c4-48f2-b320-2ed5a1358d6d
+  track-desc: []
+  ids: []

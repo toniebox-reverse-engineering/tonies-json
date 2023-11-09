@@ -1,0 +1,18 @@
+article: '2000003286'
+lock-data: false
+data:
+- series: Pumuckl
+  series-id: pumuckl
+  episode: 'Folge 41: Pumuckl und die Gummi-Ente'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_0fe3182b18ec0ed485060b7183eebd80d6e75573021aeb1e0b428e64/3_F~mvNR8Nlf.8Hl9-/pumuckl_041_folge_41__pumuckl_und_die_gummi_en_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-und-die-gummi-ente-das-original-aus-dem-fe/
+  shop-id: 5d1fe1ea-4488-4e69-b6ff-2c63e6dc1c35
+  track-desc: []
+  ids: []

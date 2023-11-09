@@ -1,0 +1,22 @@
+article: '2000000607'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Skateboardfieber
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_446b259d41bb5efa2ddbe72432bd8eae1b37a7e6e259cc7e4e777fa3/3_Kvp_fYHJtgdPqLdT/die_drei_152_skateboardfieber_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/skateboardfieber/
+  shop-id: 2bf7d08f-f0b9-4882-8601-8aac00874e75
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

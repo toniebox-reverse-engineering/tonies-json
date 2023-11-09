@@ -1,0 +1,18 @@
+article: '2000002791'
+lock-data: false
+data:
+- series: Leo Lausemaus
+  series-id: leo-lausemaus
+  episode: 'Folge 04: Will nicht baden'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_754a4618b474e355a2b19ae347a6da49f68ab62add4591f74f84bc4e/3_6Cg3--Sl069-pzCH/leo_lausemaus_004_folge_04__will_nicht_baden_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/leo-lausemaus/folge-04-will-nicht-baden/
+  shop-id: 0b50e32f-55e3-4201-a240-824f2e9f9c6b
+  track-desc: []
+  ids: []

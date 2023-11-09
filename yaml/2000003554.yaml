@@ -1,0 +1,60 @@
+article: '2000003554'
+lock-data: false
+data:
+- series: Die Punkies
+  series-id: die-punkies
+  episode: 'Für eine Handvoll Eiscreme! (Special Guest: Johannes Oerding)'
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 7
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_a33cfa7b0b80899748b9636673ef90234b6f5c5a8536bc682a797f0f/3_MVmkKkyHhBB6cwq5/die_punkies_025_fur_eine_handvoll_eiscreme_s_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-punkies/die-punkies-folge-25-fur-eine-handvoll-eiscreme-sp/
+  shop-id: e9cec48a-ce28-4b7a-8369-4378b4ad6a91
+  track-desc:
+  - Inhaltsangabe
+  - Titelsong - Die Punkies - kurz
+  - 'Song: Moritat'
+  - 'Song: Gegen den Rest der Welt - kurz'
+  - Teil 01
+  - Teil 02
+  - Teil 03
+  - Teil 04
+  - Teil 05
+  - Teil 06
+  - Teil 07
+  - Teil 08
+  - Teil 09
+  - Teil 10
+  - Teil 11
+  - Teil 12
+  - '025 - Für eine Handvoll Eiscreme! (Song: Chez Béatrice)'
+  - Teil 13
+  - Teil 14
+  - Teil 15
+  - Teil 16
+  - Teil 17
+  - Teil 18
+  - Teil 19
+  - Teil 20
+  - Teil 21
+  - Teil 22
+  - Teil 23
+  - Teil 24
+  - 'Song: Gegen den Rest der Welt - lang'
+  - Teil 25
+  - 'Song: Kurz zu Besuch'
+  - Teil 26
+  - 'Song: Mein Weg'
+  - Teil 27
+  - Teil 28
+  - Teil 29
+  - Teil 30
+  - Teil 31
+  - Teil 32
+  - Mein Weg
+  - Outro
+  ids: []

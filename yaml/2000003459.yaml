@@ -1,0 +1,18 @@
+article: '2000003459'
+lock-data: false
+data:
+- series: LEGO Friends
+  series-id: lego-friends
+  episode: 'Folgen 42-44: Das Familienerbstück'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_28265735bfb998025cc61bec75d1ad705d4f75392642f54cf1f36183/3_f40xq6lP7m_wcJh./lego_friends_042_folgen_42_44__das_familienerb_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-friends/lego-friends-folgen-42-44-das-familienerbstuck/
+  shop-id: 35ac1f84-acc4-43bf-b144-8d1f42e501c1
+  track-desc: []
+  ids: []

@@ -1,0 +1,32 @@
+article: '2000010160'
+lock-data: false
+data:
+- series: Peppa Pig
+  series-id: peppa-pig
+  episode: In den Urlaub fliegen
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/bf9dbef7f623c3857d8fa619b74714461603f74b624fef0bcf7fe94e/3_Jqbqyv77YWfr4.ql/peppa_pig_039_in_den_urlaub_fliegen_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/peppa-pig/peppa-pig-folge-39-in-den-urlaub-flie_196589965769/
+  shop-id: f3c783a1-cdf7-4faf-8be6-52640591f6a4
+  track-desc:
+  - In den Urlaub fliegen (Inhaltsangabe)
+  - In den Urlaub fliegen (Teil 01)
+  - In den Urlaub fliegen (Teil 02)
+  - Das Ferienhaus (Teil 01)
+  - Das Ferienhaus (Teil 02)
+  - Urlaub in der Sonne (Teil 01)
+  - Urlaub in der Sonne (Teil 02)
+  - Die Ferien sind zu Ende (Teil 01)
+  - Die Ferien sind zu Ende (Teil 02)
+  - Bootfahren (Teil 01)
+  - Bootfahren (Teil 02)
+  - Skifahren (Teil 01)
+  - Skifahren (Teil 02)
+  - In den Urlaub fliegen (Outro)
+  ids: []

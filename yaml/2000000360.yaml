@@ -1,0 +1,18 @@
+article: '2000000360'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: retten die Biber
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_61783a8b4fec298a6b4685d99fee0eaac93f53ca62afc224fbe167f7/3_dd8MmRKkjJ_xCmz~/bibi_tina_061_retten_die_biber_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/retten-die-biber/
+  shop-id: d03299c3-4010-449d-8c59-abbae87fa1c9
+  track-desc: []
+  ids: []

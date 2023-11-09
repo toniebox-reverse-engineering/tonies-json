@@ -1,0 +1,18 @@
+article: '2000000183'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Der Strandurlaub
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_bab5b22c2b08d034376c66946f5a56a37fcdeb2f2c6266ee18f52fa4/3_pmb~LY09qNmLXc~t/bibi_blocksberg_125_der_strandurlaub_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/der-strandurlaub/
+  shop-id: 49d7fd17-1c14-4806-b64d-d1ea7f83ec48
+  track-desc: []
+  ids: []

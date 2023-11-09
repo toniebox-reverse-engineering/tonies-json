@@ -1,0 +1,18 @@
+article: '2000000156'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Das Schulfest
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_1f995b789ff303b072d48e061c4abd80b6a42d6b545bbcd0b175b4f1/3_x5bk3vXTFNCQN6BX/bibi_blocksberg_016_das_schulfest_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/das-schulfest/
+  shop-id: 94d1311d-29f8-45cb-b9f6-2779ed044e52
+  track-desc: []
+  ids: []

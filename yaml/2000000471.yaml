@@ -1,0 +1,22 @@
+article: '2000000471'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und das Hexen-Handy
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_9faa3cda75e5b7ccfd79225520511a8f978de0938b4e9069d53b24ce/3_TWVrDlR8M3GKjPPC/the_three_101_und_das_hexen_handy_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-das-hexen-handy/
+  shop-id: 710ce163-27f8-472d-abf9-82016b840855
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

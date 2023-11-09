@@ -1,0 +1,18 @@
+article: '2000003305'
+lock-data: false
+data:
+- series: Pumuckl
+  series-id: pumuckl
+  episode: 'Folge 60: Das grüne Gemälde'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_2328fd8a359811be9689037776ac536fbf8187c6ff05b3f292f6ebd9/3_qJ_HTY4HJg~6TFD0/pumuckl_060_folge_60__das_grune_gemalde_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/pumuckl/das-grune-gemalde-das-original-aus-dem-fernsehen/
+  shop-id: e747483b-e5ab-4e76-bc30-6fcf8517068e
+  track-desc: []
+  ids: []

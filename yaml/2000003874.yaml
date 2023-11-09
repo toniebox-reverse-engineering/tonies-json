@@ -1,0 +1,18 @@
+article: '2000003874'
+lock-data: false
+data:
+- series: PAW Patrol
+  series-id: paw-patrol
+  episode: 'Folgen 236-239: Der Stein aus dem All'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_704cec96a1b48ca910ac12f0d87b8b4f10785d9b47334d48cb872803/3_ZDYxd-~jg3qjQx1~/paw_patrol_236_folgen_236_239__der_stein_aus_d_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-236-239-der-stein-aus-dem-all/
+  shop-id: 6e4baa4c-d9d3-4330-b997-27a46f4f4159
+  track-desc: []
+  ids: []

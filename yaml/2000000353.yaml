@@ -1,0 +1,18 @@
+article: '2000000353'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Mami siegt
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_8dc55f261cbc9d4b34311b0dfd889810ed95d64f9c04a2d767952bf6/3_8ZlnBwy8B~-23Hpx/bibi_tina_020_mami_siegt_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/mami-siegt/
+  shop-id: de7fcc7b-d3dd-4619-98e9-6a3995202875
+  track-desc: []
+  ids: []

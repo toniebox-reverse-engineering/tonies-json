@@ -1,0 +1,18 @@
+article: '2000010415'
+lock-data: false
+data:
+- series: Thomas & seine Freunde
+  series-id: thomas-seine-freunde
+  episode: 'Folgen 22-26: Große Welt! Große Abenteuer! Abenteuer in Sodor'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/91747db6b75974df234a02cc412c012eab9687945670e2e5d457fbd8/3_BCHtsxGrD2k-l-vP/thomas_the_tank_engine_022_folgen_22_26__groe_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/thomas-seine-freunde/folgen-22-26-groe-welt-groe-abenteuer-abenteuer-in/
+  shop-id: 6b987a10-fefa-4851-be14-64b942644709
+  track-desc: []
+  ids: []

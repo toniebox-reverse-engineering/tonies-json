@@ -1,0 +1,22 @@
+article: '2000000600'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Schlucht der Dämonen
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_74adc457d137114dae3f6ca8c44c7e3d600275062c988da77347f102/3_PG9y5JkyprQFYtVz/the_three_112_schlucht_der_damonen_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/schlucht-der-damonen/
+  shop-id: dd90ebca-0793-43e9-b25e-d132d1179d58
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000003413'
+lock-data: false
+data:
+- series: LEGO Ninjago
+  series-id: lego-ninjago
+  episode: 'Folgen 119-123: Der Baum der Reisenden'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_00ca50375597b5895fc58aea886d62d24d50a4178e50f18aa600a472/3_ddTZqS4hhBMVTh0c/lego_ninjago_119_folgen_119_123__der_baum_der__530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-119-123-der-baum-der-reisenden/
+  shop-id: 4f2799e2-e45e-4f97-a5a8-f273a5b3426f
+  track-desc: []
+  ids: []

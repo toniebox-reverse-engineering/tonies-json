@@ -1,0 +1,38 @@
+article: '2000010078'
+lock-data: false
+data:
+- series: Fünf Freunde
+  series-id: fuenf-freunde
+  episode: 'Folge 152: und das Geheimnis der Kelly Brüder'
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/6939b0c55f8c946435c94b325ea574ad0d3088406dd085cbbce97a5b/3_0fY1kY1vxxnTcc3L/the_famous_five_152_folge_152__und_das_geheimn_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/fuenf-freunde/funf-freunde-folge-152-und-das-geheimnis-der-kelly/
+  shop-id: 1d84deb2-120d-4035-8188-20a025d90a7a
+  track-desc:
+  - Inhaltsangabe
+  - Teil 01
+  - Teil 02
+  - Teil 03
+  - Teil 04
+  - Teil 05
+  - Teil 06
+  - Teil 07
+  - Teil 08
+  - Teil 09
+  - Teil 10
+  - Teil 11
+  - Teil 12
+  - Teil 13
+  - Teil 14
+  - Teil 15
+  - Teil 16
+  - Teil 17
+  - Teil 18
+  - Outro
+  ids: []

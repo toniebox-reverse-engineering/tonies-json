@@ -1,0 +1,44 @@
+article: '2000001714'
+lock-data: false
+data:
+- series: Wickie
+  series-id: wickie
+  episode: Der dicke König
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_db0d7871ff565de7d2937d7e81aba75ea7a742ae79b0faab89473464/3_hJzC~8BHlTwrBk~R/wickie_005_der_dicke_konig_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/wickie/wickie-der-dicke-konig/
+  shop-id: 6654efbf-758b-480d-bb45-ae176855aa3c
+  track-desc:
+  - Das fliegende Schiff (Teil 1)
+  - Das fliegende Schiff (Teil 2)
+  - Das fliegende Schiff (Teil 3)
+  - Das fliegende Schiff (Teil 4)
+  - Das fliegende Schiff (Teil 5)
+  - Das fliegende Schiff (Teil 6)
+  - Das fliegende Schiff (Teil 7)
+  - Das fliegende Schiff (Teil 8)
+  - Das fliegende Schiff (Teil 9)
+  - Das fliegende Schiff (Teil 10)
+  - Das fliegende Schiff (Teil 11)
+  - Das fliegende Schiff (Teil 12)
+  - Das fliegende Schiff (Teil 13)
+  - Der dicke König (Teil 1)
+  - Der dicke König (Teil 2)
+  - Der dicke König (Teil 3)
+  - Der dicke König (Teil 4)
+  - Der dicke König (Teil 5)
+  - Der dicke König (Teil 6)
+  - Der dicke König (Teil 7)
+  - Der dicke König (Teil 8)
+  - Der dicke König (Teil 9)
+  - Der dicke König (Teil 10)
+  - Der dicke König (Teil 11)
+  - Der dicke König (Teil 12)
+  - Der dicke König (Teil 13)
+  ids: []

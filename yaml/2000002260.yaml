@@ -1,0 +1,19 @@
+article: '2000002260'
+lock-data: false
+data:
+- series: Meine Freundin Conni
+  series-id: meine-freundin-conni
+  episode: Conni beim Frisör / Conni auf Waldsafari / Conni auf der Burg / Conni und
+    das Froschkonzert (Vier Hörspiele zur TV-Serie)
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_1e6a873a4dd430e3ffe09e898ae6db814002f10f68319151689be773/3_fCRVMH5jBZM1fkWJ/meine_freundin_conni_007_conni_beim_frisor___c_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/meine-freundin-conni/conni-beim-frisor-conni-auf-waldsafari-conni-auf-d/
+  shop-id: 688fe48f-f081-4722-ad9d-249934ab1110
+  track-desc: []
+  ids: []

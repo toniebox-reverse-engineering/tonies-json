@@ -1,0 +1,18 @@
+article: '2000002055'
+lock-data: false
+data:
+- series: Die Playmos
+  series-id: die-playmos
+  episode: Die Reise zu Häuptling Schlanker Bär
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_8827a7e5a1dff8f84ed77526b9d52d730fca22dddcd8b46aa4f888c7/3_j8ldy2Z5hv_G~Jsh/die_playmos_021_die_reise_zu_hauptling_schlank_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-playmos/die-reise-zu-hauptling-schlanker-bar/
+  shop-id: c42fb687-7cae-44fd-a1f5-4215ff98b5d2
+  track-desc: []
+  ids: []

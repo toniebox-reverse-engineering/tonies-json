@@ -1,0 +1,18 @@
+article: '2000000307'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Der fliegende Sattel
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_4386c8ec515e2f1d744bb9c5aa057ea3a2fb41fc2d846b618f79a9be/3_zcJt5l.bc1Y66FQ8/bibi_tina_009_der_fliegende_sattel_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/der-fliegende-sattel/
+  shop-id: b5c6b48a-fd68-4c1d-a243-303bd31d7934
+  track-desc: []
+  ids: []

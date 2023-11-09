@@ -1,0 +1,18 @@
+article: '2000002955'
+lock-data: false
+data:
+- series: Pixi Wissen
+  series-id: pixi-wissen
+  episode: Dinosaurier
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_6a8336a9b0224377f8ffbf89a8de1b032fe5d7428c77c02d81313f56/3_Jq81gyHXr~30hywb/pixi_wissen_dinosaurier_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/pixi-wissen/dinosaurier/
+  shop-id: 44ae7988-df53-46d2-88c4-c39a4f7c8255
+  track-desc: []
+  ids: []

@@ -1,0 +1,22 @@
+article: '2000000703'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und die Geisterinsel
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_760081fdf18ad647433f86b7cd5aff9c7911924f8506ef437471b433/3_pJCwwYzqDKY7tCBj/the_three_018_und_die_geisterinsel_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-die-geisterinsel/
+  shop-id: f4a62303-e8cc-4dd0-9974-1abca21e8d98
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000003368'
+lock-data: false
+data:
+- series: LEGO City Abenteuer
+  series-id: lego-city-abenteuer
+  episode: 'Folgen 46-51: Wir sind Nummer 1'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 7
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_3a948c65f61632047a32d33aec84afc42b5bc0c9e9b47a81f5b4c09a/3_ck.lpfrxxtK9l9V~/lego_city_abenteuer_010_folgen_46_51__wir_sind_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-city-abenteuer/folgen-46-51-wir-sind-nummer-1/
+  shop-id: 48bee5bb-492a-4e3f-ac34-d62e8e84c3f5
+  track-desc: []
+  ids: []

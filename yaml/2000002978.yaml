@@ -1,0 +1,18 @@
+article: '2000002978'
+lock-data: false
+data:
+- series: Lieselotte
+  series-id: lieselotte
+  episode: Lieselotte und der verschwundene Apfelkuchen
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 99
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_e6943ae4149519569558f2cbf1823610ec123834dc840660bf142de4/3_QQkWHVdppJyGRh6V/lieselotte_lieselotte_und_der_verschwundene_apfe_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lieselotte/lieselotte-und-der-verschwundene-apfelkuchen/
+  shop-id: c65a7e41-0021-45db-99b3-94b885efaedf
+  track-desc: []
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000010437'
+lock-data: false
+data:
+- series: Hello Kitty
+  series-id: hello-kitty
+  episode: Hello Kitty - Domowe spa
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/55313232c76332c99a6dfd589f3997493b37758e8af5bff612b42546/3_Sd29SjN8Y0kbcvc2/hello_kitty_hello_kitty_domowe_spa_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/hello-kitty/hello-kitty-domowe-spa/
+  shop-id: ec95118e-f10b-46de-97f7-b4694c21670b
+  track-desc: []
+  ids: []

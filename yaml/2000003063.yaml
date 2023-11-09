@@ -1,0 +1,18 @@
+article: '2000003063'
+lock-data: false
+data:
+- series: Sternenschweif
+  series-id: sternenschweif
+  episode: 'Teil 12: Mondscheinzauber'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_6aedd6a7d859b2ab8541f9ba490f49cc09eb2c687f8e27839b10d237/3_bWJPLkm6tL7kWqTp/sternenschweif_012_teil_12__mondscheinzauber_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/sternenschweif/sternenschweif-teil-12-mondscheinzauber/
+  shop-id: e4eabe9c-afef-4ce2-aeec-9c4f2664dc42
+  track-desc: []
+  ids: []

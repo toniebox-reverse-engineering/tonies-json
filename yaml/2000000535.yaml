@@ -1,0 +1,22 @@
+article: '2000000535'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Die Höhle des Grauens
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_282ccfa0aca62580cf4c3c11c745872c3ce138d4365590fc401d527f/3_CTvV6HPL~6zHGpTl/the_three_111_die_hohle_des_grauens_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/die-hohle-des-grauens/
+  shop-id: 1601e4b0-0145-46b5-8765-f01326533fae
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

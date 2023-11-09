@@ -1,0 +1,18 @@
+article: '2000003377'
+lock-data: false
+data:
+- series: LEGO Ninjago
+  series-id: lego-ninjago
+  episode: 'Folgen 19-21: Die Zeitreise'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_834257c0788be4f8dae5ec67bdf4f036550df68ce54eddaf6818a6f4/3_LtyjwBMXGsT5.FZC/lego_ninjago_019_folgen_19_21__die_zeitreise_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-19-21-die-zeitreise/
+  shop-id: 819076a2-5783-4a29-a85f-25e9a0f8bba5
+  track-desc: []
+  ids: []

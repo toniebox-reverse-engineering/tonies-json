@@ -1,0 +1,24 @@
+article: '2000003633'
+lock-data: false
+data:
+- series: Peppa Pig
+  series-id: peppa-pig
+  episode: Der Fahrradausflug
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/b1aac44ea4775167c9147f0f3188e1316f2d7bd6d7de05b08f222fc0/3_4gHts075GnhDnpSd/peppa_pig_028_der_fahrradausflug_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/peppa-pig/peppa-pig-folge-28-der-fahrradausflug/
+  shop-id: 67129b0b-7e93-4379-bb74-25041031b3e9
+  track-desc:
+  - Der Fahrradausflug
+  - Felsbecken
+  - Der Bootsteich
+  - Die Pirateninsel
+  - Ballspiele
+  - Teddys Ausflug
+  ids: []

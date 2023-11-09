@@ -1,0 +1,18 @@
+article: '2000002890'
+lock-data: false
+data:
+- series: Feuerwehrmann Sam
+  series-id: feuerwehrmann-sam
+  episode: Wilde Gewässer
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_47311df4fd22a43f5e2d06116b83f5bab4df256bf4ea9dd2b4aa6385/3_ffP_VnlxN~~_HjFb/feuerwehrmann_sam_007_wilde_gewasser_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/feuerwehrmann-sam/wilde-gewaesser/
+  shop-id: fa42e9b8-3531-4bef-880d-d6f209c19cb8
+  track-desc: []
+  ids: []

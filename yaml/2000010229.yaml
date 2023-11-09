@@ -1,0 +1,18 @@
+article: '2000010229'
+lock-data: false
+data:
+- series: PJ Masks
+  series-id: pj-masks
+  episode: 'Folgen 19-24: Wir knacken den Fall'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_8f8b6e171a92cda84416ddd5b892aaf72c40e341d8c3632d4bb6cc30/3_y.sSJt-sWr6tbv02/pj_masks_019_folgen_19_24__wir_knacken_den_fal_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/pj-masks/folgen-19-24-wir-knacken-den-fall/
+  shop-id: c427ce0d-39f1-436d-b2bb-dc60bfe7a2fa
+  track-desc: []
+  ids: []

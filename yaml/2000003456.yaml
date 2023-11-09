@@ -1,0 +1,18 @@
+article: '2000003456'
+lock-data: false
+data:
+- series: LEGO Friends
+  series-id: lego-friends
+  episode: 'Folgen 32-35: Das Monster im See'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_45de7fd7c440f01a06e6c3e20f297c6fdaa2480c36b7cad193b4b50e/3_JP47bV2mKmmwqs_L/lego_friends_032_folgen_32_35__das_monster_im__530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-friends/lego-friends-folgen-32-35-das-monster-im-see/
+  shop-id: f1134d85-5ed9-4a7c-8d78-6016b358351d
+  track-desc: []
+  ids: []

@@ -1,0 +1,58 @@
+article: '2000001021'
+lock-data: false
+data:
+- series: Die Fuchsbande
+  series-id: die-fuchsbande
+  episode: 'Fall 19: Das Loch in der Tür / Fall 20: Der verfuchste Hase'
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_43b011b31357f9a6d2e4738099e30b336218ac4b1c5b75609c163c9e/3_fknlM5szG_-Xb.mX/the_fox_pack_010_fall_19__das_loch_in_der_tur__530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-fuchsbande/die-fuchsbande-fall-19-das-loch-in-der-turfall-20/
+  shop-id: 3f0be8eb-c935-438c-a353-736250ae9f1e
+  track-desc:
+  - 'Fall 19: Das Loch in der Tür (Teil 01)'
+  - 'Fall 19: Das Loch in der Tür (Teil 02)'
+  - 'Fall 19: Das Loch in der Tür (Teil 03)'
+  - 'Fall 19: Das Loch in der Tür (Teil 04)'
+  - 'Fall 19: Das Loch in der Tür (Teil 05)'
+  - 'Fall 19: Das Loch in der Tür (Teil 06)'
+  - 'Fall 19: Das Loch in der Tür (Teil 07)'
+  - 'Fall 19: Das Loch in der Tür (Teil 08)'
+  - 'Fall 19: Das Loch in der Tür (Teil 09)'
+  - 'Fall 19: Das Loch in der Tür (Teil 10)'
+  - 'Fall 19: Das Loch in der Tür (Teil 11)'
+  - 'Fall 19: Das Loch in der Tür (Teil 12)'
+  - 'Fall 19: Das Loch in der Tür (Teil 13)'
+  - 'Fall 19: Das Loch in der Tür (Teil 14)'
+  - 'Fall 19: Das Loch in der Tür (Teil 15)'
+  - 'Fall 19: Das Loch in der Tür (Teil 16)'
+  - 'Fall 19: Das Loch in der Tür (Teil 17)'
+  - 'Fall 19: Das Loch in der Tür (Teil 18)'
+  - 'Fall 19: Das Loch in der Tür (Teil 19)'
+  - 'Fall 19: Das Loch in der Tür (Teil 20)'
+  - 'Fall 20: Der verfuchste Hase (Teil 01)'
+  - 'Fall 20: Der verfuchste Hase (Teil 02)'
+  - 'Fall 20: Der verfuchste Hase (Teil 03)'
+  - 'Fall 20: Der verfuchste Hase (Teil 04)'
+  - 'Fall 20: Der verfuchste Hase (Teil 05)'
+  - 'Fall 20: Der verfuchste Hase (Teil 06)'
+  - 'Fall 20: Der verfuchste Hase (Teil 07)'
+  - 'Fall 20: Der verfuchste Hase (Teil 08)'
+  - 'Fall 20: Der verfuchste Hase (Teil 09)'
+  - 'Fall 20: Der verfuchste Hase (Teil 10)'
+  - 'Fall 20: Der verfuchste Hase (Teil 11)'
+  - 'Fall 20: Der verfuchste Hase (Teil 12)'
+  - 'Fall 20: Der verfuchste Hase (Teil 13)'
+  - 'Fall 20: Der verfuchste Hase (Teil 14)'
+  - 'Fall 20: Der verfuchste Hase (Teil 15)'
+  - 'Fall 20: Der verfuchste Hase (Teil 16)'
+  - 'Fall 20: Der verfuchste Hase (Teil 17)'
+  - 'Fall 20: Der verfuchste Hase (Teil 18)'
+  - 'Fall 20: Der verfuchste Hase (Teil 19)'
+  - 'Fall 20: Der verfuchste Hase (Teil 20)'
+  ids: []

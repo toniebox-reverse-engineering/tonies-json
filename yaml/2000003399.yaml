@@ -1,0 +1,18 @@
+article: '2000003399'
+lock-data: false
+data:
+- series: LEGO Ninjago
+  series-id: lego-ninjago
+  episode: 'Folgen 75-76: Die Maske der Täuschung'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_b4e6471f2550ef556bfc6cfeeb8e778c83827363e49c9661d37c1460/3_dDQ8qbdgxHx2-LKV/lego_ninjago_075_folgen_75_76__die_maske_der_t_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-75-76-die-maske-der-tauschung/
+  shop-id: 9591e7c3-8272-488b-9332-a74a5a279c86
+  track-desc: []
+  ids: []

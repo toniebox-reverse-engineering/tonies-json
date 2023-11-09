@@ -1,0 +1,22 @@
+article: '2000000708'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und die Poker-Hölle
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_6840e5273d7233d2d2bdb2b899bcbea2908a18a044d73e2097873422/3_pvHmldRn1gBq_J5Q/die_drei_143_und_die_poker_holle_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-die-poker-holle/
+  shop-id: 634f853e-36ce-4e33-9d46-5cece4bc3bb7
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

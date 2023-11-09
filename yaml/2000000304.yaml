@@ -1,0 +1,18 @@
+article: '2000000304'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Das Zeltlager
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_57a05675dde7bef5143be4c5a09587b27b712b76f4fd5ee923ccb520/3_0cDfB-Hpld-TWDBm/bibi_tina_010_das_zeltlager_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/das-zeltlager/
+  shop-id: 74ddea05-d2b7-420a-a786-3219d0afef5a
+  track-desc: []
+  ids: []

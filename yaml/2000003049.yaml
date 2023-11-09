@@ -1,0 +1,18 @@
+article: '2000003049'
+lock-data: false
+data:
+- series: Sternenschweif
+  series-id: sternenschweif
+  episode: Einhornmärchen
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_ca1af443b84b830181f1b456b46ac72e7a79d55a2e825e9a5a730e7d/3_ZvZ0yzq-K4WzsDWS/sternenschweif_einhornmarchen_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/sternenschweif/einhornmarchen/
+  shop-id: 9389ab59-683f-41e4-bb12-c91a23c8c0ea
+  track-desc: []
+  ids: []

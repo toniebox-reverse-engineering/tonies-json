@@ -1,0 +1,30 @@
+article: '2000003629'
+lock-data: false
+data:
+- series: Peppa Pig
+  series-id: peppa-pig
+  episode: Papa hängt ein Bild auf
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/5a14087b25374af64b7521316fddd998e3f021a337642181605fa642/3_7hVh-h4zsZ_3W8yt/peppa_pig_024_papa_hangt_ein_bild_auf_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/peppa-pig/peppa-pig-folge-24-papa-hangt-ein-bild-auf/
+  shop-id: 82f1df9c-d1f0-4974-9174-78280cb9d1b6
+  track-desc:
+  - Papa hängt ein Bild auf (Teil 01)
+  - Papa hängt ein Bild auf (Teil 02)
+  - Papa wird fit (Teil 01)
+  - Papa wird fit (Teil 02)
+  - Pfannkuchen (Teil 01)
+  - Pfannkuchen (Teil 02)
+  - Papa Wutz sucht seine Brille (Teil 01)
+  - Papa Wutz sucht seine Brille (Teil 02)
+  - Verkleiden (Teil 01)
+  - Verkleiden (Teil 02)
+  - Papas neue Kamera (Teil 01)
+  - Papas neue Kamera (Teil 02)
+  ids: []

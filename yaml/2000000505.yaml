@@ -1,0 +1,22 @@
+article: '2000000505'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Dämon der Rache
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_dbea4052e31bec5f78452895578944b6d68ea9b9507ffad305a3f9ce/3_grJvNqhDy8rv7.K6/die_drei_173_damon_der_rache_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/damon-der-rache/
+  shop-id: e6893b7b-d73e-4ed3-a310-a189567021cb
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

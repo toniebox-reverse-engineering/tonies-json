@@ -1,0 +1,18 @@
+article: '2000000017'
+lock-data: false
+data:
+- series: Benjamin Blümchen
+  series-id: benjamin-bluemchen
+  episode: als Gärtner
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_16ac64fd3f42fc113484ea5598b925a9e9ce724e9cd65634a12e89b5/3_xW3h2jHnkT3NfTJs/benjamin_blumchen_047_als_gartner_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/als-gartner/
+  shop-id: 95df5a11-2692-4b03-b46f-7d813d23bb72
+  track-desc: []
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000000460'
+lock-data: false
+data:
+- series: Ella
+  series-id: ella
+  episode: Ella in den Ferien
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/047d10f32c215254f4dceee035d6900a4be9f97ce81665b0c2812abe/3_._~clHVbb6j.QG1~/ella_ella_in_den_ferien_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/ella/ella-in-den-ferien/
+  shop-id: b090b49b-0e86-498f-977a-d1d8028842a7
+  track-desc: []
+  ids: []

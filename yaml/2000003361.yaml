@@ -1,0 +1,18 @@
+article: '2000003361'
+lock-data: false
+data:
+- series: LEGO City Abenteuer
+  series-id: lego-city-abenteuer
+  episode: 'Folgen 11-15: Die kleine Carol'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 7
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_885570c66818340c9229c63920f610e6aea9e1513ba1ee8cca5ddf90/3_HS6CNZ39kL6HkGBY/lego_city_abenteuer_003_folgen_11_15__die_klei_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-city-abenteuer/folgen-11-15-die-kleine-carol/
+  shop-id: c8cec657-d8ce-4eb0-a064-b3ed1e8955bb
+  track-desc: []
+  ids: []

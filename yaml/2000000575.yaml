@@ -1,0 +1,22 @@
+article: '2000000575'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Im Haus des Henkers
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_ad7f77b21c5ee2f75abfc9cff9c4f881abcdf9c5b98e98fd9cd9c251/3__9RschrvSx0JQnZ~/the_three_182_im_haus_des_henkers_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/im-haus-des-henkers/
+  shop-id: 430b4391-e2d6-4b24-984e-607457b433d4
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

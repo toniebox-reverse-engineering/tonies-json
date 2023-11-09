@@ -1,0 +1,22 @@
+article: '2000000522'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Der gefiederte Schrecken
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_161e48662cb2d329b2034f3f212d40d6f5ad47e57cb704b18bb55ebe/3_xKwzcXFpSbCZf87-/the_three_178_der_gefiederte_schrecken_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/der-gefiederte-schrecken/
+  shop-id: 5ce2f44c-c810-4ef1-86c3-476d4efc8d02
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

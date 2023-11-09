@@ -1,0 +1,26 @@
+article: '2000010636'
+lock-data: false
+data:
+- series: Peppa Pig
+  series-id: peppa-pig
+  episode: Wenn wir groß sind
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/adf3898137cefb1ae7dc118ea96755642fe2d5efc113fe72f4d583cb/3_Dsj.pW8d_jqJWZlt/peppa_pig_047_wenn_wir_gro_sind_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/peppa-pig/peppa-pig-folge-47-wenn-wir-gro-sind/
+  shop-id: c6c7abc6-53a9-4358-8619-93f4793b74f1
+  track-desc:
+  - Wenn wir groß sind (Inhaltsangabe)
+  - Wenn wir groß sind
+  - Wikinger-Tag
+  - Selbstgemachte Musikinstrumente
+  - Gedichte
+  - Bitte und Danke
+  - Der Geburtstag von Mandy Maus
+  - Wenn wir groß sind (Outro)
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000010477'
+lock-data: false
+data:
+- series: Feuerwehrmann Sam
+  series-id: feuerwehrmann-sam
+  episode: 'Folgen 17-21: Winter in Pontypandy (Classic)'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/0621049ed8f7dc4bafd4c6668cba37d57c4fc7ab69ad0079e3aeeb57/3_lp8rg5xCJkj7QZDk/feuerwehrmann_sam_017_folgen_17_21__winter_in__530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/feuerwehrmann-sam/folgen-17-21-winter-in-pontypandy-classic/
+  shop-id: d9b60fb2-924e-441d-856b-9c9e0aa0a0ae
+  track-desc: []
+  ids: []

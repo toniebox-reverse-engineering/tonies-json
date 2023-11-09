@@ -1,0 +1,29 @@
+article: '2000003652'
+lock-data: false
+data:
+- series: 100% Wolf
+  series-id: 100-wolf
+  episode: 'Folge 19: Das pinke Monsterchen'
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/4a1ee07f8b145610bda36270e1193a0a4f1502fc073d7ef09457f286/3_KqvXhNxlZLKvVT82/100_wolf_horspiel_zur_tv_serie_019_folge_19_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/100-wolf/100-wolf-folge-19-das-pinke-monsterchen/
+  shop-id: 6fc91b6c-492e-4873-9f14-adcafc3ede45
+  track-desc:
+  - 19 - Das pinke Monsterchen (Inhaltsangabe)
+  - 100% Wolf Titelmusik
+  - 19 - Das pinke Monsterchen (Teil 01)
+  - 19 - Das pinke Monsterchen (Teil 02)
+  - 19 - Das pinke Monsterchen (Teil 03)
+  - 19 - Das pinke Monsterchen (Teil 04)
+  - 19 - Das pinke Monsterchen (Teil 05)
+  - 19 - Das pinke Monsterchen (Teil 06)
+  - 19 - Das pinke Monsterchen (Teil 07)
+  - 19 - Das pinke Monsterchen (Teil 08)
+  - 19 - Das pinke Monsterchen (Outro)
+  ids: []

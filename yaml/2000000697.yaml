@@ -1,0 +1,22 @@
+article: '2000000697'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und die flammende Spur
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_166c2bec9e238501f6e0f559cdeb275d48d65b939a2446b06458fbdf/3_9DnWZGCMkmjJt8N8/the_three_020_und_die_flammende_spur_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-die-flammende-spur/
+  shop-id: 56fdfee6-dce4-44c3-a306-44d548570dd8
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

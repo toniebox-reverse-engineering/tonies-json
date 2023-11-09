@@ -1,0 +1,22 @@
+article: '2000000660'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und der letzte Song
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_9c8290c30d2c924d90f6890e6aaf372bcb2a66b5fc4fef1d23ffabce/3_Q7.xBzmQQBXC~0GB/the_three_183_und_der_letzte_song_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-der-letzte-song/
+  shop-id: 9dfbfedd-fd85-467a-85db-81a457c0d242
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

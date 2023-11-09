@@ -1,0 +1,18 @@
+article: '2000000103'
+lock-data: false
+data:
+- series: Benjamin Blümchen
+  series-id: benjamin-bluemchen
+  episode: in Schottland
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_e6b0640b74976ef99dd7f4baebc784b13c6c593a157fb431e85afdfd/3_gxmqwjqbVr1MM_5k/benjamin_blumchen_107_in_schottland_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/in-schottland/
+  shop-id: be09dc66-1507-474e-8018-818499ec3e68
+  track-desc: []
+  ids: []

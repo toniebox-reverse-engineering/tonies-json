@@ -1,0 +1,26 @@
+article: '2000010004'
+lock-data: false
+data:
+- series: Peppa Pig
+  series-id: peppa-pig
+  episode: Seifenblasen (und 5 weitere Geschichten)
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/02073bd6de02b7879cdb3dc7b0a6d482cec59fbf9d2baef292db99fc/3_Pty_Z_mlCNNT5xZZ/peppa_pig_031_seifenblasen_und_5_weitere_gesc_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/peppa-pig/peppa-pig-folge-31-seifenblasen/
+  shop-id: e6701fa6-6a52-4903-84a5-e26885f39dda
+  track-desc:
+  - Seifenblasen (Inhaltsangabe)
+  - Seifenblasen
+  - Recyceln
+  - Die Kuckucksuhr
+  - Das hohe Gras
+  - Schorsch' Geburtstag
+  - Der geheime Freund
+  - Seifenblasen (Outro)
+  ids: []

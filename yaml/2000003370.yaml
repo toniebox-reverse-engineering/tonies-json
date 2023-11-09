@@ -1,0 +1,18 @@
+article: '2000003370'
+lock-data: false
+data:
+- series: LEGO City Abenteuer
+  series-id: lego-city-abenteuer
+  episode: 'Folgen 57-62: Stunt City'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 7
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_9322f986d49628cb66cf0a03accbcffe2de112c4e7ac38dbcdd8ae44/3_3FBRryLRjD9d-xQs/lego_city_abenteuer_012_folgen_57_62__stunt_ci_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-city-abenteuer/folgen-57-62-stunt-city/
+  shop-id: ed34dfaf-4b29-4956-90e7-162e59403643
+  track-desc: []
+  ids: []

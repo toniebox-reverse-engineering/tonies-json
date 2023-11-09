@@ -1,0 +1,18 @@
+article: '2000000222'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Freitag Der 13.
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_fc0a4212fbcbcc6904eb9685591785d6c3023a6d70c0c8987e73f469/3_Ns1fn._Yz_Wv16jl/bibi_blocksberg_073_freitag_der_13_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/freitag-der-13/
+  shop-id: d0efd275-f3e5-4a21-8bea-727f720cfc6c
+  track-desc: []
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000010135'
+lock-data: false
+data:
+- series: Titania Special
+  series-id: titania-special
+  episode: 'Märchenklassiker: Das verlorene Sternchen'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/7d8c004abbcecceb84810bc08f3cc67aaa5a537e0ce8a2789a3cb49b/3_fPlWkM_gXqrn47zp/titania_special_marchenklassiker__das_verlorene__530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/titania-special/titania-special-marchenklassiker-das-verlorene-ste/
+  shop-id: 25b8f779-5555-44ed-a224-5aa5e70cacf5
+  track-desc: []
+  ids: []

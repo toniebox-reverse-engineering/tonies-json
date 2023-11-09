@@ -1,0 +1,18 @@
+article: '2000000356'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Papi lernt reiten
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_aebcd0f6219c57f1b91ef84aa895a9b400e3660dc5e436c34da46223/3_dBfpDV28yZ~fM_Vk/bibi_tina_003_papi_lernt_reiten_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/papi-lernt-reiten/
+  shop-id: 9965b6ab-baef-4621-a6da-000932eafea4
+  track-desc: []
+  ids: []

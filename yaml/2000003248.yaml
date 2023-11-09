@@ -1,0 +1,18 @@
+article: '2000003248'
+lock-data: false
+data:
+- series: Pumuckl
+  series-id: pumuckl
+  episode: 'Folge 5: Die abergläubische Putzfrau'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_5763a3fcb82b9368ef454059b7285c1d21833a8ee011c338a1a3b983/3_p0d-GklhQB9hldfD/pumuckl_005_folge_5__die_aberglaubische_putzfr_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/pumuckl/die-aberglaubische-putzfrau-das-original-aus-dem-f/
+  shop-id: 458c5bdc-818b-4790-86ba-41aca5b3720a
+  track-desc: []
+  ids: []

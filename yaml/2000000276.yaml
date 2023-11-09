@@ -1,0 +1,18 @@
+article: '2000000276'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Alex und das Internat
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_d50b1b527191bc9310b29f0196e5c1de4e42860d19252f9dc1c5c2e8/3_JD8g_Rq4Gm4kv.W8/bibi_tina_033_alex_und_das_internat_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/alex-und-das-internat/
+  shop-id: 3752a845-24ac-45fe-b34e-896ecdd52f9b
+  track-desc: []
+  ids: []

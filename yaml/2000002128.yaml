@@ -1,0 +1,18 @@
+article: '2000002128'
+lock-data: false
+data:
+- series: Conni
+  series-id: conni
+  episode: Conni und das Familienfest
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_d0d49a46da00dfeb395723661b65b9393bdcb9dc9e5a4048d34f1898/3_BPB.gVGmp98w5Rw./conni_conni_und_das_familienfest_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/conni/conni-und-das-familienfest/
+  shop-id: 6a36858c-240f-41f2-909c-c0775a261cf4
+  track-desc: []
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000002741'
+lock-data: false
+data:
+- series: PAW Patrol
+  series-id: paw-patrol
+  episode: 'Folgen 160-163: Der Yeti aus der Nachbarstadt'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/f3d5e4c089c0c7bb0e7072c4d9fa798e1e552aa52e903982f470d651/3_xfC_ys3tln--8Gfm/paw_patrol_160_folgen_160_163__der_yeti_aus_de_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-160-163-der-yeti-aus-der-nachbarstadt/
+  shop-id: 0c52c10f-2181-448d-89e2-812c8c2cbfbe
+  track-desc: []
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000000312'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Der Hufschmied
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_f2c1b40ee141f154e873b2cef0ec61275851379f59cbd56cd103889f/3_wF1SPZFLsh3kB9mD/bibi_tina_008_der_hufschmied_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-tina/der-hufschmied/
+  shop-id: 5290ae1b-1f60-4188-a258-f135e2ae8dcf
+  track-desc: []
+  ids: []

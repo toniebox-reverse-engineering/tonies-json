@@ -1,0 +1,18 @@
+article: '2000002889'
+lock-data: false
+data:
+- series: Feuerwehrmann Sam
+  series-id: feuerwehrmann-sam
+  episode: Der große Knall
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_2817cf912c8ce80e2ed4e070436c0ef68bf0bcc8278c67d758bda51c/3_mvHktHJ1Kdl6l-Lx/feuerwehrmann_sam_006_der_groe_knall_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/feuerwehrmann-sam/der-grosse-knall/
+  shop-id: f413e021-36ca-4d4f-aefe-9fdf06bddeb1
+  track-desc: []
+  ids: []

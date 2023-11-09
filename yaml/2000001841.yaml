@@ -1,0 +1,36 @@
+article: '2000001841'
+lock-data: false
+data:
+- series: Peppa Pig
+  series-id: peppa-pig
+  episode: Prinzessin Peppa (und 5 weitere Geschichten)
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_f7a531b3c6ba7c3e6399400a928b59416d733da3289d468f511ac508/3_P_mpFpzj40M4WPng/peppa_pig_011_prinzessin_peppa_und_5_weitere__530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/peppa-pig/peppa-pig-prinzessin-peppa-und-5-weitere-geschicht/
+  shop-id: d1594980-0fb0-464b-8866-13be63c4b9c0
+  track-desc:
+  - Prinzessin Peppa (Teil 01)
+  - Prinzessin Peppa (Teil 02)
+  - Prinzessin Peppa (Teil 03)
+  - Elena Esel (Teil 01)
+  - Elena Esel (Teil 02)
+  - Elena Esel (Teil 03)
+  - Teddy Lausbub (Teil 01)
+  - Teddy Lausbub (Teil 02)
+  - Teddy Lausbub (Teil 03)
+  - Mister Kartoffel kommt in die Stadt (Teil 01)
+  - Mister Kartoffel kommt in die Stadt (Teil 02)
+  - Mister Kartoffel kommt in die Stadt (Teil 03)
+  - Die Zugfahrt (Teil 01)
+  - Die Zugfahrt (Teil 02)
+  - Die Zugfahrt (Teil 03)
+  - Die Hühner von Oma Wutz (Teil 01)
+  - Die Hühner von Oma Wutz (Teil 02)
+  - Die Hühner von Oma Wutz (Teil 03)
+  ids: []

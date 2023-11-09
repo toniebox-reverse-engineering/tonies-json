@@ -1,0 +1,18 @@
+article: '2000002097'
+lock-data: false
+data:
+- series: Conni
+  series-id: conni
+  episode: Conni bekommt eine Katze / Conni hat Geburtstag
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_cfe0864405237e8b49778cfa906e2b6c1d4c4cab4c297e1605918452/3_69p-y2nSvpJqs_pc/conni_conni_bekommt_eine_katze___conni_hat_gebur_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/conni/conni-bekommt-eine-katze-conni-hat-geburtstag/
+  shop-id: c3f8cef8-a99a-43ca-ab7b-d0623cb3d0b7
+  track-desc: []
+  ids: []

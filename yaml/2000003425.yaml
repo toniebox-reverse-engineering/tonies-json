@@ -1,0 +1,18 @@
+article: '2000003425'
+lock-data: false
+data:
+- series: LEGO Ninjago - Hörbücher
+  series-id: lego-ninjago-hoerbuecher
+  episode: Meister der Elemente (Band 01)
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_ce704c233ae25696241e2c3ddb044d11e9a30a2248033a2ff5826763/3_5-f28HpByVF1x0km/lego_ninjago_horbucher_001_meister_der_eleme_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-ninjago-hoerbuecher/meister-der-elemente-band-01/
+  shop-id: 0980428e-5aa0-483d-9384-490456c99a42
+  track-desc: []
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000003213'
+lock-data: false
+data:
+- series: Schleich Eldrador Creatures
+  series-id: schleich-eldrador-creatures
+  episode: 'Folge 01: Eis gegen Lava'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_bd86a2cd006817332484c81353367091047da1b96a1754c7ed96a158/3_yCvGbGQ98Md2G_Gr/schleich_eldrador_creatures_001_folge_01__eis__530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/schleich-eldrador-creatures/folge-01-eis-gegen-lava/
+  shop-id: 5689a62c-9037-456e-8aa5-0b8d258fef82
+  track-desc: []
+  ids: []

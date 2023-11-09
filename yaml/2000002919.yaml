@@ -1,0 +1,36 @@
+article: '2000002919'
+lock-data: false
+data:
+- series: 100% Wolf
+  series-id: 100-wolf
+  episode: 'Folge 1: Die Aufnahmeprüfung'
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_c3c02e89f33906b70c21f78f4cceda5469c7c3033ef1c95a86612cd2/3_~5hrmzRK_pGL3Jt2/100_wolf_horspiel_zur_tv_serie_001_folge_1__530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/100-wolf/100-wolf-folge-1-die-aufnahmeprufung/
+  shop-id: c10d2b79-3073-40a6-b0cb-609b1ca91912
+  track-desc:
+  - 01 - Die Aufnahmeprüfung (Inhaltsangabe)
+  - 100% Wolf Titelmusik
+  - 01 - Die Aufnahmeprüfung (Teil 01)
+  - 01 - Die Aufnahmeprüfung (Teil 02)
+  - 01 - Die Aufnahmeprüfung (Teil 03)
+  - 01 - Die Aufnahmeprüfung (Teil 04)
+  - 01 - Die Aufnahmeprüfung (Teil 05)
+  - 01 - Die Aufnahmeprüfung (Teil 06)
+  - 01 - Die Aufnahmeprüfung (Teil 07)
+  - 01 - Die Aufnahmeprüfung (Teil 08)
+  - 01 - Die Aufnahmeprüfung (Teil 09)
+  - 01 - Die Aufnahmeprüfung (Teil 10)
+  - 01 - Die Aufnahmeprüfung (Teil 11)
+  - 01 - Die Aufnahmeprüfung (Teil 12)
+  - 01 - Die Aufnahmeprüfung (Teil 13)
+  - 01 - Die Aufnahmeprüfung (Teil 14)
+  - 01 - Die Aufnahmeprüfung (Teil 15)
+  - 01 - Die Aufnahmeprüfung (Outro)
+  ids: []

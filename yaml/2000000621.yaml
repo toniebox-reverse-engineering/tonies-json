@@ -1,0 +1,22 @@
+article: '2000000621'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Tödliches Eis
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_d85ae44f4e1f00bad64a198945535e63f772406a03d419c5060cda60/3_WT4yMrNqQkGJpQCL/die_drei_142_todliches_eis_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/todliches-eis/
+  shop-id: 54440ad5-24d9-4c71-beb8-1ff839ad359f
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

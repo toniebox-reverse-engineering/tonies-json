@@ -1,0 +1,18 @@
+article: '2000003265'
+lock-data: false
+data:
+- series: Pumuckl
+  series-id: pumuckl
+  episode: 'Folge 20: Die geheimnisvollen Briefe'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_817c0773b96c640aafcdf08ba12b9c9be4533b3a01dc6bbcef4a7188/3_Jlb9gv2NS60B4qjC/pumuckl_020_folge_20__die_geheimnisvollen_brie_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/pumuckl/die-geheimnisvollen-briefe-das-original-aus-dem-fe/
+  shop-id: d6daaf48-8173-4b4a-80f0-341b1e6847b9
+  track-desc: []
+  ids: []

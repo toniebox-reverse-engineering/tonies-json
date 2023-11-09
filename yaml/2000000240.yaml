@@ -1,0 +1,18 @@
+article: '2000000240'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Mami spielt verrückt
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_43238f68954f7a3372c885d13b8d2c9bd3b41c8e9a786fc4236d59f8/3_.HdRNFgvdW7RJqMy/bibi_blocksberg_130_mami_spielt_verruckt_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/mami-spielt-verruckt/
+  shop-id: 1315165a-49d0-407c-82ac-291a85e5d1e8
+  track-desc: []
+  ids: []

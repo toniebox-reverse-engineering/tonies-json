@@ -1,0 +1,18 @@
+article: '2000003093'
+lock-data: false
+data:
+- series: Sternenschweif
+  series-id: sternenschweif
+  episode: 'Teil 42: Ein neuer Freund'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_5a2afb2dd92e8bc029901ed52fb669dc301fa17f1bb197efb5d63188/3_RyJFVLYLHHrJHBwM/sternenschweif_042_teil_42__ein_neuer_freund_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/sternenschweif/teil-42-ein-neuer-freund/
+  shop-id: e253b2db-f68a-4feb-96e5-b6db1e221d01
+  track-desc: []
+  ids: []

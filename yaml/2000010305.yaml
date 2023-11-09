@@ -1,0 +1,18 @@
+article: '2000010305'
+lock-data: false
+data:
+- series: Peppa Pig
+  series-id: peppa-pig
+  episode: Peppa Pig - Le Concours d'animaux et autres histoires
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/3be8d4e38f281a08293ceb41cdc1c4db17272bc70ae573916ca34ab1/3_32Zv6qHPg4wjB5.H/peppa_pig_003_peppa_pig_le_concours_d_animau_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/peppa-pig/peppa-pig-le-concours-danimaux-et-autres-histoires/
+  shop-id: 0e873147-f7ab-4212-89af-6593f060a36d
+  track-desc: []
+  ids: []

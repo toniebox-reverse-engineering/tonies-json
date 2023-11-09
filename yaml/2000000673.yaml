@@ -1,0 +1,22 @@
+article: '2000000673'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und der schrullige Millionär
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_111d0b187d7de3095ab7760b51332ac6184a290e403a1556c185aa59/3_y4TB3Kljw0~58J6b/the_three_046_und_der_schrullige_millionar_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-der-schrullige-millionar/
+  shop-id: 4b39b229-c41b-41e6-8617-4a8df4db4b34
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

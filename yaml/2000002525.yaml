@@ -1,0 +1,18 @@
+article: '2000002525'
+lock-data: false
+data:
+- series: Rund um die Welt mit Fuchs und Schaf
+  series-id: rund-um-die-welt-mit-fuchs-und-schaf
+  episode: Paris
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_4abfa87bec5e01131c5dee82e7ffb3a3a89104299a91007af4b7b685/3_fptbjJp4RqCCk19r/rund_um_die_welt_mit_fuchs_und_schaf_002_paris_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/rund-um-die-welt-mit-fuchs-und-schaf/paris/
+  shop-id: f9d58454-7d92-4f2a-941b-e963cade42f1
+  track-desc: []
+  ids: []

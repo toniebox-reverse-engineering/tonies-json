@@ -1,0 +1,18 @@
+article: '2000003398'
+lock-data: false
+data:
+- series: LEGO Ninjago
+  series-id: lego-ninjago
+  episode: 'Folgen 72-74: Familientreffen'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_aecd1af08b07427014df1b9ae133407fe3e0fe72c7c625792d88975b/3_Z8tpPg~0Qb1DcwYS/lego_ninjago_072_folgen_72_74__familientreffen_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-72-74-familientreffen/
+  shop-id: 2a938854-3416-426b-b9a9-d68b54001a7c
+  track-desc: []
+  ids: []

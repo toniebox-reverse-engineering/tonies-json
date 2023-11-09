@@ -1,0 +1,19 @@
+article: '2000003655'
+lock-data: false
+data:
+- series: Janosch
+  series-id: janosch
+  episode: Jetzt wird geschlafen, Freunde! Gutenachtgeschichten mit Tiger und Bär.
+    Teil 1
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/65a053fd7ff0a7498eb7aab075375b6706e2c9d6850a69988b0f2085/3_QvltYD0lmxtWMJ3p/janosch_jetzt_wird_geschlafen_freunde_gutenach_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/janosch/jetzt-wird-geschlafen-freunde-gutenachtgeschichten/
+  shop-id: 8a7a1ed6-3723-4661-8942-7681e1db9120
+  track-desc: []
+  ids: []

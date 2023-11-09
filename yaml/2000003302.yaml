@@ -1,0 +1,18 @@
+article: '2000003302'
+lock-data: false
+data:
+- series: Pumuckl
+  series-id: pumuckl
+  episode: 'Folge 57: Pumuckl und das Geld'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_301301e4db189294191a999959dcae7c89b768991d3f0e2b59671b20/3_M4Hwffjnp__4Dvcv/pumuckl_057_folge_57__pumuckl_und_das_geld_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-und-das-geld-das-original-aus-dem-fernsehe/
+  shop-id: 06e9fbd1-683c-4f5f-8ae4-a782d9b3c8de
+  track-desc: []
+  ids: []

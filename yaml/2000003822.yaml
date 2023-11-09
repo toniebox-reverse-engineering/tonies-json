@@ -1,0 +1,18 @@
+article: '2000003822'
+lock-data: false
+data:
+- series: Felix
+  series-id: felix
+  episode: Zirkusbriefe von Felix
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/d5514d886a303b1ed456cf36a5df79bf64dd84d594d1b5355992e84f/3_6XLY~-_B7~RjmYD_/felix_zirkusbriefe_von_felix_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/felix/zirkusbriefe-von-felix/
+  shop-id: 6c83bfad-5f00-4941-9649-1abbedf11914
+  track-desc: []
+  ids: []

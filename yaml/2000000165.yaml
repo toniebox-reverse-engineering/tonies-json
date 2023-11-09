@@ -1,0 +1,18 @@
+article: '2000000165'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Der Bankräuber
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_2ae49cbb9d4ee049a964cb36c6c988637164811ba48f1f52b6137695/3_ZSb9zDXR99C9j8xG/bibi_blocksberg_004_der_bankrauber_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/der-bankrauber/
+  shop-id: b6a67038-7e65-445e-97d2-86ba3a631a29
+  track-desc: []
+  ids: []

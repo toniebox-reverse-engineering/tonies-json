@@ -1,0 +1,18 @@
+article: '2000003364'
+lock-data: false
+data:
+- series: LEGO City Abenteuer
+  series-id: lego-city-abenteuer
+  episode: 'Folgen 26-30: Annes Traum'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 7
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_98b83ec044f076b3da23f62ae49e13600f969d8b1d11b6c396462ad2/3_41hxNt3Xb-YQ9pgM/lego_city_abenteuer_006_folgen_26_30__annes_tr_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-city-abenteuer/folgen-26-30-annes-traum/
+  shop-id: 6123a67c-02c8-4d83-8f02-ce9199264df3
+  track-desc: []
+  ids: []

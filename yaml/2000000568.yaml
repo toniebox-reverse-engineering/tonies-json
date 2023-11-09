@@ -1,0 +1,22 @@
+article: '2000000568'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Haus des Schreckens
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_8ecca82755de6d779296ef5f95c547e78e40420b271ff6a7d7ad2244/3_xggvYyqP3wQ3jB8x/the_three_131_haus_des_schreckens_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/haus-des-schreckens/
+  shop-id: 1958b191-86d6-45b4-8e35-7f27f998a56a
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000003123'
+lock-data: false
+data:
+- series: Mein Lotta-Leben
+  series-id: mein-lotta-leben
+  episode: Der Schuh des Känguru
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_383673a9e4919e89d944db2408712b35fd22b173a364b4b80e5b1643/3_qQWY7mKWVhsmD_3s/mein_lotta_leben_010_der_schuh_des_kanguru_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/mein-lotta-leben/der-schuh-des-kanguru/
+  shop-id: d7e185d1-5cce-49a3-b4a0-91e77924a220
+  track-desc: []
+  ids: []

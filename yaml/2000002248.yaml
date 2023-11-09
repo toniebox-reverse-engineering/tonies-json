@@ -1,0 +1,18 @@
+article: '2000002248'
+lock-data: false
+data:
+- series: Felix
+  series-id: felix
+  episode: Mit Felix auf großer Deutschlandreise
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_6edbe5136a5c2fde4dd3c51f06ca7508a76918b1283ccf2a05da15ba/3_pl4mNXg3qjmrh0-~/felix_mit_felix_auf_groer_deutschlandreise_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/felix/mit-felix-auf-groer-deutschlandreise/
+  shop-id: 6b8d8276-2599-4fbc-8df1-1395eaeb1af6
+  track-desc: []
+  ids: []

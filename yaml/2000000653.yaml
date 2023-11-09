@@ -1,0 +1,22 @@
+article: '2000000653'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und der grüne Kobold
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_5d51c1dbfdd125404f36412b009e529ad2e640faeb3d562acfd03635/3_Q~srs_KKnfPdh_bl/the_three_199_und_der_grune_kobold_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-der-grune-kobold/
+  shop-id: 60585436-c2c3-4722-8acb-66864e0da553
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

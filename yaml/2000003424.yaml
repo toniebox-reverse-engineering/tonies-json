@@ -1,0 +1,18 @@
+article: '2000003424'
+lock-data: false
+data:
+- series: LEGO Ninjago
+  series-id: lego-ninjago
+  episode: 'Folgen 176-180: Meisterin des Meeres'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_10fbf0d45e38568d2dfe7871142e02a717e31d69412d203f333c3fcf/3_BMtLym_8XC4FM8MZ/lego_ninjago_176_folgen_176_180__meisterin_des_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-176-180-meisterin-des-meeres/
+  shop-id: d50e74a6-e81b-473d-8559-31d516aae7a9
+  track-desc: []
+  ids: []

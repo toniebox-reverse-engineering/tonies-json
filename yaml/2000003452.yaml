@@ -1,0 +1,18 @@
+article: '2000003452'
+lock-data: false
+data:
+- series: LEGO Friends
+  series-id: lego-friends
+  episode: 'Folgen 20-22: Wie man zur Superheldin wird'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_ab524d8ee03ff311721129011de97ba49e403cbb03f65058b6f44f32/3_BdxQBhDm1cmmHR19/lego_friends_020_folgen_20_22__wie_man_zur_sup_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-friends/lego-friends-folgen-20-22-wie-man-zur-superheldin/
+  shop-id: 35906f3c-507f-42a0-ab35-fd19393ffddb
+  track-desc: []
+  ids: []

@@ -1,0 +1,22 @@
+article: '2000000612'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Spur ins Nichts
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_9013037d28bbf15c9898b6c8ef5cbb8351f86de24dad95fcbce6412d/3_yMRCc6RbLb9.VPcg/the_three_121_spur_ins_nichts_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/spur-ins-nichts/
+  shop-id: 6cb62898-a76c-4c2b-abbd-0889c8dc71f4
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

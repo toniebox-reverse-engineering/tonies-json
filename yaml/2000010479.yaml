@@ -1,0 +1,18 @@
+article: '2000010479'
+lock-data: false
+data:
+- series: Feuerwehrmann Sam
+  series-id: feuerwehrmann-sam
+  episode: 'Folgen 5-8: Unser Held von Nebenan (Classic)'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1baca676d130c03602d0916e883ca6f6f89c6e93828a5534ca6df1a6/3_VJ.ZfQl0RCB0hQxK/feuerwehrmann_sam_005_folgen_5_8__unser_held_v_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/feuerwehrmann-sam/folgen-5-8-unser-held-von-nebenan-classic/
+  shop-id: 0501abc0-a1ad-4ce9-88f1-cf4d82c2d0c6
+  track-desc: []
+  ids: []

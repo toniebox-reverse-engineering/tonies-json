@@ -1,0 +1,18 @@
+article: '2000003059'
+lock-data: false
+data:
+- series: Sternenschweif
+  series-id: sternenschweif
+  episode: 'Teil 8: Die Macht des Einhorns'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_db0ee22173a26d541b5bac3d9198ab0288098d9a47316bac9db7f36b/3_KQbz__dJpcfvbbHd/sternenschweif_008_teil_8__die_macht_des_einho_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/sternenschweif/teil-8-die-macht-des-einhorns/
+  shop-id: 04ddf0e3-a66c-4cbf-99ca-155a4aa2f62d
+  track-desc: []
+  ids: []

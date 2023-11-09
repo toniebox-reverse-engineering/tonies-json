@@ -1,0 +1,40 @@
+article: '2000002927'
+lock-data: false
+data:
+- series: 100% Wolf
+  series-id: 100-wolf
+  episode: 'Folge 5: Das Floh-Problem'
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_f7cb39a74ea016529468334ed502b0b76180422f48192a2dad9328e3/3_0tm7ntfZ4rQ_1JLZ/100_wolf_horspiel_zur_tv_serie_005_folge_5__530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/100-wolf/100-wolf-folge-5-das-floh-problem/
+  shop-id: a98ec4fc-0e67-4907-9244-2326f1268128
+  track-desc:
+  - 05 - Das Floh-Problem (Inhaltsangabe)
+  - 100% Wolf Titelmusik
+  - 05 - Das Floh-Problem (Teil 01)
+  - 05 - Das Floh-Problem (Teil 02)
+  - 05 - Das Floh-Problem (Teil 03)
+  - 05 - Das Floh-Problem (Teil 04)
+  - 05 - Das Floh-Problem (Teil 05)
+  - 05 - Das Floh-Problem (Teil 06)
+  - 05 - Das Floh-Problem (Teil 07)
+  - 05 - Das Floh-Problem (Teil 08)
+  - 05 - Das Floh-Problem (Teil 09)
+  - 05 - Das Floh-Problem (Teil 10)
+  - 05 - Das Floh-Problem (Teil 11)
+  - 05 - Das Floh-Problem (Teil 12)
+  - 05 - Das Floh-Problem (Teil 13)
+  - 05 - Das Floh-Problem (Teil 14)
+  - 05 - Das Floh-Problem (Teil 15)
+  - 05 - Das Floh-Problem (Teil 16)
+  - 05 - Das Floh-Problem (Teil 17)
+  - 05 - Das Floh-Problem (Teil 18)
+  - 05 - Das Floh-Problem (Teil 19)
+  - 05 - Das Floh-Problem (Outro)
+  ids: []

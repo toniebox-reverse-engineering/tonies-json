@@ -1,0 +1,18 @@
+article: '2000002031'
+lock-data: false
+data:
+- series: Die Playmos
+  series-id: die-playmos
+  episode: Angriff der Drachenritter
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_4315d617610a27de090c4c9038fc383e31e9ba65c064d81dbc4664ed/3_bv7wZtDtg42LDf0y/die_playmos_002_angriff_der_drachenritter_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-playmos/angriff-der-drachenritter/
+  shop-id: e0f3c6f3-03fc-4dc8-a809-f91fa42b64e2
+  track-desc: []
+  ids: []

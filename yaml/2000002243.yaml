@@ -1,0 +1,18 @@
+article: '2000002243'
+lock-data: false
+data:
+- series: Felix
+  series-id: felix
+  episode: Abenteuerliche Briefe von Felix
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_708916ae31ddbae147989fcb8a022cf8071ab4b45f1490d6e95e7b74/3_PNsMw3ll9wCk5CbG/felix_abenteuerliche_briefe_von_felix_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/felix/abenteuerliche-briefe-von-felix/
+  shop-id: 41d63d97-bcb0-4018-9d2b-1c34e8005f3f
+  track-desc: []
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000010211'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Rettung der Junghexeninsel
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_5f50bf65ed68e2dd4781cae6a6dfc02311331162393c93d0d8cbf581/3__whTk-zw~Z9xQY_L/bibi_blocksberg_147_rettung_der_junghexeninsel_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/rettung-der-junghexeninsel/
+  shop-id: 1a66f70b-3173-4c1f-9a7b-0fac2f6db6c2
+  track-desc: []
+  ids: []

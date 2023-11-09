@@ -1,0 +1,38 @@
+article: '2000002924'
+lock-data: false
+data:
+- series: 100% Wolf
+  series-id: 100-wolf
+  episode: 'Folge 2: Der erste Schultag'
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_e51134eff64bf885ecce501f59cb87e3ffab7afd45187485a37a1ec0/3_B6HJ.JD0Fbhf1jqp/100_wolf_horspiel_zur_tv_serie_002_folge_2__530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/100-wolf/100-wolf-folge-2-der-erste-schultag/
+  shop-id: 8c6165d3-bb13-4142-86be-35654f384328
+  track-desc:
+  - 02 - Der erste Schultag (Inhaltsangabe)
+  - 100% Wolf Titelmusik
+  - 02 - Der erste Schultag (Teil 01)
+  - 02 - Der erste Schultag (Teil 02)
+  - 02 - Der erste Schultag (Teil 03)
+  - 02 - Der erste Schultag (Teil 04)
+  - 02 - Der erste Schultag (Teil 05)
+  - 02 - Der erste Schultag (Teil 06)
+  - 02 - Der erste Schultag (Teil 07)
+  - 02 - Der erste Schultag (Teil 08)
+  - 02 - Der erste Schultag (Teil 09)
+  - 02 - Der erste Schultag (Teil 10)
+  - 02 - Der erste Schultag (Teil 11)
+  - 02 - Der erste Schultag (Teil 12)
+  - 02 - Der erste Schultag (Teil 13)
+  - 02 - Der erste Schultag (Teil 14)
+  - 02 - Der erste Schultag (Teil 15)
+  - 02 - Der erste Schultag (Teil 16)
+  - 02 - Der erste Schultag (Teil 17)
+  - 02 - Der erste Schultag (Outro)
+  ids: []

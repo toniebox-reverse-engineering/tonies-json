@@ -1,0 +1,18 @@
+article: '2000003056'
+lock-data: false
+data:
+- series: Sternenschweif
+  series-id: sternenschweif
+  episode: 'Teil 5: Sternenschweifs Geheimnis'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_6850bbfdab87c57abde6a0674a6cc568e7d69c8ea555d0edc4cf42b4/3_xDD7Mz.Sg3h-qDW4/sternenschweif_005_teil_5__sternenschweifs_geh_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/sternenschweif/teil-5-sternenschweifs-geheimnis/
+  shop-id: a9571cf8-e4a5-48a8-b092-8101886399f9
+  track-desc: []
+  ids: []

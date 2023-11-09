@@ -1,0 +1,22 @@
+article: '2000000517'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Der Biss der Bestie
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_1ababe7af6bf6e9d84d65de0b4091bb3c11dfb7df7555e6bba4220c6/3_BcnTRpprJTJGw4Hk/the_three_146_der_biss_der_bestie_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/der-biss-der-bestie/
+  shop-id: 9e79909f-d06f-40f6-8911-a0c5fced4f1b
+  track-desc:
+  - Tail 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

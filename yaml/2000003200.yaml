@@ -1,0 +1,18 @@
+article: '2000003200'
+lock-data: false
+data:
+- series: Die wilden Kerle
+  series-id: die-wilden-kerle
+  episode: Das Hörspiel zum Kinofilm 1
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_644b6730a79821dbd1fd02efebfd735c85b45aae3a7d7684cd21377b/3_01.8SR5-n.p.FHc6/die_wilden_kerle_001_das_horspiel_zum_kinofilm_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-wilden-kerle/das-horspiel-zum-kinofilm/
+  shop-id: 7e8f7c3b-813e-4561-a122-4b0109ee9eb6
+  track-desc: []
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000003257'
+lock-data: false
+data:
+- series: Pumuckl
+  series-id: pumuckl
+  episode: 'Folge 12: Eder bekommt Besuch'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_0aaaaef1c609f701feb3e56a998fcbac3b367e6f34dd72f1911e1049/3_G3lzRR~M2K-NkBf_/pumuckl_012_folge_12__eder_bekommt_besuch_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/pumuckl/eder-bekommt-besuch-das-original-aus-dem-fernsehen/
+  shop-id: d6f8efbc-597f-4684-8f37-323b318c2b49
+  track-desc: []
+  ids: []

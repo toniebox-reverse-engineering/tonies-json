@@ -1,0 +1,18 @@
+article: '2000003493'
+lock-data: false
+data:
+- series: Lieselotte Filmhörspiele
+  series-id: lieselotte-filmhoerspiele
+  episode: 'Band 11: Lieselotte im Krimifieber'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 99
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_2e445ec61919908d6e416a67bae3e44320ce954e28d532b652425f61/3_Gk45vd2rYSxRMzx./lieselotte_filmhorspiele_011_band_11__lieselot_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lieselotte-filmhoerspiele/lieselotte-filmhorspiele-folge-11-lieselotte-im-kr/
+  shop-id: 182c877c-39d3-4447-a94c-d660a8c78004
+  track-desc: []
+  ids: []

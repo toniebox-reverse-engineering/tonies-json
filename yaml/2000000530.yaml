@@ -1,0 +1,22 @@
+article: '2000000530'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: Diamantenschmuggel
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_2fd9228a04b861cb51447e1e97ff66cff5e987e3cb383c0144022c31/3_Np-HsBZ-bjXK.j-f/the_three_065_diamantenschmuggel_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/diamantenschmuggel/
+  shop-id: d6a08a59-7e14-4226-848b-6183eefd2987
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

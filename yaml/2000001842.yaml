@@ -1,0 +1,36 @@
+article: '2000001842'
+lock-data: false
+data:
+- series: Peppa Pig
+  series-id: peppa-pig
+  episode: Wendy Wolf hat Geburtstag (und 5 weitere Geschichten)
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_7051a90376ae949a75e3b581504f45835134fa8c095090b79d98801e/3_DB4sZHqHkF5r_b1G/peppa_pig_005_wendy_wolf_hat_geburtstag_und_5_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/peppa-pig/peppa-pig-wendy-wolf-hat-geburtstag-und-5-weitere/
+  shop-id: 0d841935-650a-4bb6-b378-5d8c8c9195d7
+  track-desc:
+  - Wendy Wolf hat Geburtstag (Teil 1)
+  - Wendy Wolf hat Geburtstag (Teil 2)
+  - Wendy Wolf hat Geburtstag (Teil 3)
+  - Das Kanalboot (Teil 1)
+  - Das Kanalboot (Teil 2)
+  - Das Kanalboot (Teil 3)
+  - Das Segelboot (Teil 1)
+  - Das Segelboot (Teil 2)
+  - Das Segelboot (Teil 3)
+  - Mia Maulwurf (Teil 1)
+  - Mia Maulwurf (Teil 2)
+  - Mia Maulwurf (Teil 3)
+  - Die Party im Hallenspielplatz (Teil 1)
+  - Die Party im Hallenspielplatz (Teil 2)
+  - Die Party im Hallenspielplatz (Teil 3)
+  - Der Wochenmarkt (Teil 1)
+  - Der Wochenmarkt (Teil 2)
+  - Der Wochenmarkt (Teil 3)
+  ids: []

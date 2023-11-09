@@ -1,0 +1,18 @@
+article: '2000003349'
+lock-data: false
+data:
+- series: LEGO City
+  series-id: lego-city
+  episode: Folge 18 - Polizei - Doppelter Einsatz
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 7
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_634c47ac749f116ee4ac42045e7bc58fc405b75dc51026832f464a4c/3_w2v92_JGjYQhq_Kk/lego_city_018_folge_18_polizei_doppelter_e_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-city/lego-city-folge-18-polizei-doppelter-einsatz/
+  shop-id: c1b450cc-a573-4be3-bfe6-93664d8d7960
+  track-desc: []
+  ids: []

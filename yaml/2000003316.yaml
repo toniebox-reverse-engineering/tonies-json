@@ -1,0 +1,18 @@
+article: '2000003316'
+lock-data: false
+data:
+- series: Pumuckl
+  series-id: pumuckl
+  episode: 'Folge 71: Der verbotene Kirschlikör'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 99
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_003d29bac819d8020e6fc4caac54ba46e1bd457f1c0c2cc512d5d0e8/3_J96Xt~plzJ9dRVFl/pumuckl_071_folge_71__der_verbotene_kirschliko_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/pumuckl/der-verbotene-kirschlikor-das-original-aus-dem-fer/
+  shop-id: c07a838f-5357-44b5-914e-8d6344d83b31
+  track-desc: []
+  ids: []

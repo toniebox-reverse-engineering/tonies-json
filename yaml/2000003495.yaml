@@ -1,0 +1,18 @@
+article: '2000003495'
+lock-data: false
+data:
+- series: Lieselotte Filmhörspiele
+  series-id: lieselotte-filmhoerspiele
+  episode: 'Band 13: Frühlingszeit mit Lieselotte'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_b3f4cb73391062738d34199c13aab44213d3befd8599697951d17929/3_BskF4wy3.nftlYsG/lieselotte_filmhorspiele_013_band_13__fruhling_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lieselotte-filmhoerspiele/lieselotte-filmhorspiele-folge-13-fruhlingszeit-mi/
+  shop-id: 56a6da0b-53d2-431e-bdf5-1b2262319520
+  track-desc: []
+  ids: []

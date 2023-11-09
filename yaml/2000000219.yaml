@@ -1,0 +1,18 @@
+article: '2000000219'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Ein sensationelles Team
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_dc45cc65e09118bf3d758a4c9edc5d2c2d5f11b5de895663438ea60b/3_V~x-RT2gLmZxVRwm/bibi_blocksberg_129_ein_sensationelles_team_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/ein-sensationelles-team/
+  shop-id: bddbc238-7a5b-42cd-99bc-c781375abd7c
+  track-desc: []
+  ids: []

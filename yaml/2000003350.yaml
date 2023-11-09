@@ -1,0 +1,18 @@
+article: '2000003350'
+lock-data: false
+data:
+- series: LEGO City
+  series-id: lego-city
+  episode: Folge 19 - Dschungel - Das Geheimnis des vergessenen Tempels
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 7
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_1172b46be26c042138bba3acb1927f87c1595e6f02a419a7d616cf62/3_._ktFtYQ_FTVxCn7/lego_city_019_folge_19_dschungel_das_gehei_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-city/lego-city-folge-19-dschungel-das-geheimnis-des-ver/
+  shop-id: 1e3e916b-c527-4b94-a806-a8f227fc4096
+  track-desc: []
+  ids: []

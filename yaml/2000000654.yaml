@@ -1,0 +1,22 @@
+article: '2000000654'
+lock-data: false
+data:
+- series: Die drei ???
+  series-id: die-drei-fragezeichen
+  episode: und der heimliche Hehler
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_0c83c6fda85aa99728336abf45d9be2e938cb978508caffa23e442da/3_QyVwYbJTHRXj5Pt1/the_three_037_und_der_heimliche_hehler_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/und-der-heimliche-hehler/
+  shop-id: e7ed5448-efc5-414b-8ff3-ab7ab357200a
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  ids: []

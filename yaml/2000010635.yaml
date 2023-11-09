@@ -1,0 +1,26 @@
+article: '2000010635'
+lock-data: false
+data:
+- series: Peppa Pig
+  series-id: peppa-pig
+  episode: Sachen suchen
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/76f68b4b8f319aff8b39f9874f9716201f96586639edc9f1113d439e/3_hDy_Mrppxjh5sq9l/peppa_pig_049_sachen_suchen_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/peppa-pig/peppa-pig-folge-49-sachen-suchen/
+  shop-id: 2f079555-9f94-4e24-8a51-462880054f6f
+  track-desc:
+  - Sachen suchen (Inhaltsangabe)
+  - Sachen suchen
+  - Valentinstag
+  - Im Botanischen Garten
+  - Das Quiz von Mister Kartoffel
+  - Ein Geschenk für Doktor Hamster
+  - Herr Bulle als Lehrer
+  - Sachen suchen (Outro)
+  ids: []

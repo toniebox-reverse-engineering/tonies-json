@@ -1,0 +1,18 @@
+article: '2000003453'
+lock-data: false
+data:
+- series: LEGO Friends
+  series-id: lego-friends
+  episode: 'Folgen 23-25: Der Waldbrand'
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_f032ff562d4e6479c0dc0718961d808057ecfb684392488b3474f74f/3_hNdggFwjpBrSg5~1/lego_friends_023_folgen_23_25__der_waldbrand_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/lego-friends/lego-friends-folgen-23-25-der-waldbrand/
+  shop-id: e29b3e38-5e07-4f94-a598-7e080734793a
+  track-desc: []
+  ids: []

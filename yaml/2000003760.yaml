@@ -1,0 +1,18 @@
+article: '2000003760'
+lock-data: false
+data:
+- series: Die Dinos sind da
+  series-id: die-dinos-sind-da
+  episode: Styracosaurus
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/93bdfe4af86336b38cb06cda7279fd300b6bec9e0bc5e8a9d5b067cb/3_Xk5Cfb0FZMQ96Brw/die_dinos_sind_da_009_styracosaurus_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-dinos-sind-da/styracosaurus/
+  shop-id: 6cba44fe-ac4a-42d6-9b50-9c58354c4311
+  track-desc: []
+  ids: []

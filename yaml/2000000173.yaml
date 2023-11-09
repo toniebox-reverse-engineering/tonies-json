@@ -1,0 +1,18 @@
+article: '2000000173'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Der Hexenbesen-Dieb
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_ff691a0df704bbdcd7dcd490d62260580c5f9aa0b7b2472acb333eb9/3_.c3bpC6wFq.-w7-Z/bibi_blocksberg_111_der_hexenbesen_dieb_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/der-hexenbesen-dieb/
+  shop-id: 48655e33-d78f-44e7-b644-eccd00ee8496
+  track-desc: []
+  ids: []

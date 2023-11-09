@@ -1,0 +1,61 @@
+article: '2000001025'
+lock-data: false
+data:
+- series: Die Fuchsbande
+  series-id: die-fuchsbande
+  episode: 'Fall 25: Der geschmolzene Schlüssel / Fall 26: Das glitzernde Brot'
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_4dfb2cbbe89651f2416e23fce187fe264230f45fa3f1c4ea4554a566/3_LkY~m5K-3fTMywJ-/the_fox_pack_013_fall_25__der_geschmolzene_sch_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-fuchsbande/die-fuchsbande-fall-25-der-geschmolzene-schlussel/
+  shop-id: ca2d41ee-08f7-414e-a3ca-800dd7545a36
+  track-desc:
+  - 'Fall 25: Der geschmolzene Schlüssel (Inhaltsangabe)'
+  - 'Fall 25: Der geschmolzene Schlüssel (Teil 01)'
+  - 'Fall 25: Der geschmolzene Schlüssel (Teil 02)'
+  - 'Fall 25: Der geschmolzene Schlüssel (Teil 03)'
+  - 'Fall 25: Der geschmolzene Schlüssel (Teil 04)'
+  - 'Fall 25: Der geschmolzene Schlüssel (Teil 05)'
+  - 'Fall 25: Der geschmolzene Schlüssel (Teil 06)'
+  - 'Fall 25: Der geschmolzene Schlüssel (Teil 07)'
+  - 'Fall 25: Der geschmolzene Schlüssel (Teil 08)'
+  - 'Fall 25: Der geschmolzene Schlüssel (Teil 09)'
+  - 'Fall 25: Der geschmolzene Schlüssel (Teil 10)'
+  - 'Fall 25: Der geschmolzene Schlüssel (Teil 11)'
+  - 'Fall 25: Der geschmolzene Schlüssel (Teil 12)'
+  - 'Fall 25: Der geschmolzene Schlüssel (Teil 13)'
+  - 'Fall 25: Der geschmolzene Schlüssel (Teil 14)'
+  - 'Fall 25: Der geschmolzene Schlüssel (Teil 15)'
+  - 'Fall 25: Der geschmolzene Schlüssel (Teil 16)'
+  - 'Fall 25: Der geschmolzene Schlüssel (Teil 17)'
+  - 'Fall 25: Der geschmolzene Schlüssel (Teil 18)'
+  - 'Fall 25: Der geschmolzene Schlüssel (Teil 19)'
+  - 'Fall 25: Der geschmolzene Schlüssel (Teil 20)'
+  - 'Fall 26: Das glitzernde Brot (Inhaltsangabe)'
+  - 'Fall 26: Das glitzernde Brot (Teil 01)'
+  - 'Fall 26: Das glitzernde Brot (Teil 02)'
+  - 'Fall 26: Das glitzernde Brot (Teil 03)'
+  - 'Fall 26: Das glitzernde Brot (Teil 04)'
+  - 'Fall 26: Das glitzernde Brot (Teil 05)'
+  - 'Fall 26: Das glitzernde Brot (Teil 06)'
+  - 'Fall 26: Das glitzernde Brot (Teil 07)'
+  - 'Fall 26: Das glitzernde Brot (Teil 08)'
+  - 'Fall 26: Das glitzernde Brot (Teil 09)'
+  - 'Fall 26: Das glitzernde Brot (Teil 10)'
+  - 'Fall 26: Das glitzernde Brot (Teil 11)'
+  - 'Fall 26: Das glitzernde Brot (Teil 12)'
+  - 'Fall 26: Das glitzernde Brot (Teil 13)'
+  - 'Fall 26: Das glitzernde Brot (Teil 14)'
+  - 'Fall 26: Das glitzernde Brot (Teil 15)'
+  - 'Fall 26: Das glitzernde Brot (Teil 16)'
+  - 'Fall 26: Das glitzernde Brot (Teil 17)'
+  - 'Fall 26: Das glitzernde Brot (Teil 18)'
+  - 'Fall 26: Das glitzernde Brot (Teil 19)'
+  - 'Fall 26: Das glitzernde Brot (Teil 20)'
+  - 'Fall 26: Das glitzernde Brot (Outro)'
+  ids: []

@@ -1,0 +1,18 @@
+article: '2000000203'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: Die kleine Spürnase
+  release: 0
+  language: de-de
+  category: null
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_238181091262cf8b444bfa3b85bd5fee3870c25889fdf1328067a838/3_~CzBh0cTy4~VSZ4p/bibi_blocksberg_099_die_kleine_spurnase_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/die-kleine-spurnase/
+  shop-id: 94014c27-267c-4c4f-9db1-ca52cd753611
+  track-desc: []
+  ids: []
