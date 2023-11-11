@@ -73,7 +73,7 @@ article,series,series-id,episode,language,category,shop-id,web,data-sets,id-sets
 01-0107,Liliane Susewind,,Ein Meerschwein ist nicht gern allein,de-de,audio-book,,,1,1,1,2
 01-0108,Unter meinem Bett,,Unter meinem Bett 3,de-de,music,,,1,1,1,2
 01-0109,Dr. Brumm,dr-brumm,Dr. Brumm steckt fest/Dr. Brumm geht baden,de-de,audio-book-songs,5bd64931-8abd-44d7-a80c-225f80f903f0,https://tonies.com/de-de/tonies/dr-brumm/dr-brumm-steckt-fest-geht-baden/,1,1,1,2
-01-0110,Der kleine Rabe Socke,,Alles Schule!,de-de,audio-play,,,1,1,1,3
+01-0110,Der kleine Rabe Socke,der-kleine-rabe-socke,Alles Schule!,de-de,audio-play,9fd060c5-9a01-4668-bb15-984ed76a593c,https://tonies.com/de-de/tonies/der-kleine-rabe-socke/alles-schule/,1,1,1,3
 01-0111,Bibi Blocksberg,,Der Affe ist los,de-de,audio-play,,,1,1,1,3
 01-0112,Anne Kaffeekanne,anne-kaffeekanne,"12 Lieder zum Singen, Spielen und Tanzen",de-de,music,7adb2da1-b21f-4a3c-9b48-786756325772,https://tonies.com/de-de/tonies/anne-kaffeekanne/12-lieder-zum-singen-spielen-und-tanzen/,1,2,1,2
 01-0113,Bibi & Tina,bibi-tina,Der verschwundene Pokal,de-de,audio-play,6c2bb94f-7a7d-42a6-9edd-1025d78946b5,https://tonies.com/de-de/tonies/bibi-tina/der-verschwundene-pokal/,1,1,1,2
@@ -148,33 +148,33 @@ article,series,series-id,episode,language,category,shop-id,web,data-sets,id-sets
 01-0199,Gorilla Club,,1-2-3-4!,de-de,music,,,1,1,1,1
 01-0200,Feuerwehrmann Sam,feuerwehrmann-sam,In Pontypandy ist was los,de-de,audio-play,532274c0-b87a-4a2f-9dd2-6c17c679741e,https://tonies.com/de-de/tonies/feuerwehrmann-sam/in-pontypandy-ist-was-los/,1,3,1,2
 02-0001,Kreativ-Tonie,,Grün (Beige),de-de,Kreativ-Tonies,,,1,1,0,0
-02-0002,Kreativ-Tonie,,Beere (Beige),de-de,Kreativ-Tonies,7f7234e7-44ae-49f0-99f3-2fe02a2c03f6,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-beere/,1,1,0,0
-02-0003,Kreativ-Tonie,,Blau (Beige),de-de,Kreativ-Tonies,5da2e523-f9ce-4600-a61e-16972d643282,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-blau/,1,1,0,0
+02-0002,Kreativ-Tonie,,Beere (Beige),de-de,creative-tonie,7f7234e7-44ae-49f0-99f3-2fe02a2c03f6,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-beere/,1,1,0,0
+02-0003,Kreativ-Tonie,,Blau (Beige),de-de,creative-tonie,5da2e523-f9ce-4600-a61e-16972d643282,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-blau/,1,1,0,0
 02-0004,Kreativ-Tonie,,Ritter,de-de,Kreativ-Tonies,,,1,1,0,0
 02-0005,Kreativ-Tonie,,Indianerin,de-de,Kreativ-Tonies,,,1,1,0,0
 02-0006,Kreativ-Tonie,,Gelb (E) - Sonderedition,de-de,Kreativ-Tonies,,,1,1,0,0
-02-0007,Kreativ-Tonie,,Pirat,de-de,Kreativ-Tonies,a00b39e6-c3b8-497c-9aa8-16f0bc936261,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-pirat/,1,1,0,0
+02-0007,Kreativ-Tonie,,Pirat,de-de,creative-tonie,a00b39e6-c3b8-497c-9aa8-16f0bc936261,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-pirat/,1,1,0,0
 02-0008,Kreativ-Tonie,,Trommler,de-de,Kreativ-Tonies,,,1,1,0,0
 02-0009,Kreativ-Tonie,,Sängerin,de-de,Kreativ-Tonies,,,1,1,0,0
 02-0010,Kreativ-Tonie,,Gitarrist,de-de,Kreativ-Tonies,,,1,1,0,0
-02-0011,Kreativ-Tonie,,Prinzessin,de-de,Kreativ-Tonies,4d944ea2-d6d2-4825-b0c3-26f0cbe5fd5b,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-prinzessin/,1,1,0,0
+02-0011,Kreativ-Tonie,,Prinzessin,de-de,creative-tonie,4d944ea2-d6d2-4825-b0c3-26f0cbe5fd5b,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-prinzessin/,1,1,0,0
 02-0012,Kreativ-Tonie,,Meerjungfrau,de-de,Kreativ-Tonies,,,1,1,0,0
 02-0017,Kreativ-Tonie,,Astronaut,de-de,Kreativ-Tonies,,,1,1,0,0
 02-0019,Kreativ-Tonie,,Baby Rosa,de-de,Kreativ-Tonies,,,1,1,0,0
 02-0020,Kreativ-Tonie,,Spooky,de-de,Kreativ-Tonies,,,1,1,0,0
 02-0021,Kreativ-Tonie,,Baby Hellblau,de-de,Kreativ-Tonies,,,1,1,0,0
 02-0023,Kreativ-Tonie,,Rot (Beige),de-de,Kreativ-Tonies,,,1,1,0,0
-02-0024,Kreativ-Tonie,,Oma,de-de,Kreativ-Tonies,812b432c-056d-4dc8-b8b5-a18c55fb9177,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-oma/,1,1,0,0
-02-0025,Kreativ-Tonie,,Opa,de-de,Kreativ-Tonies,a45877a3-1a1f-43d5-ac63-aabdecbcf5f2,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-opa/,1,1,0,0
-02-0026,Kreativ-Tonie,,Einhorn,de-de,Kreativ-Tonies,78fb7f62-739b-42fa-96b5-b70c9dc4f577,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-einhorn/,1,1,0,0
-02-0027,Kreativ-Tonie,,Bauarbeiter,de-de,Kreativ-Tonies,15a11da3-fba2-4663-90a5-32ac88ee5ed8,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-bauarbeiter/,1,1,0,0
-02-0028,Kreativ-Tonie,,Skater,de-de,Kreativ-Tonies,762519c1-e92b-4597-8c4d-3495395172d0,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-skater/,1,1,0,0
+02-0024,Kreativ-Tonie,,Oma,de-de,creative-tonie,812b432c-056d-4dc8-b8b5-a18c55fb9177,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-oma/,1,1,0,0
+02-0025,Kreativ-Tonie,,Opa,de-de,creative-tonie,a45877a3-1a1f-43d5-ac63-aabdecbcf5f2,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-opa/,1,1,0,0
+02-0026,Kreativ-Tonie,,Einhorn,de-de,creative-tonie,78fb7f62-739b-42fa-96b5-b70c9dc4f577,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-einhorn/,1,1,0,0
+02-0027,Kreativ-Tonie,,Bauarbeiter,de-de,creative-tonie,15a11da3-fba2-4663-90a5-32ac88ee5ed8,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-bauarbeiter/,1,1,0,0
+02-0028,Kreativ-Tonie,,Skater,de-de,creative-tonie,762519c1-e92b-4597-8c4d-3495395172d0,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-skater/,1,1,0,0
 02-0029,Kreativ-Tonie,,Feuerwehrmann,de-de,Kreativ-Tonies,,,1,1,0,0
 02-0030,Kreativ-Tonie,,Fußballer,de-de,Kreativ-Tonies,,,1,1,0,0
-02-0031,Kreativ-Tonie,,Ärztin,de-de,Kreativ-Tonies,73f1ab2e-f7a2-49f1-a1c5-fe316b077169,https://tonies.com/de-de/kreativ-tonies/aerztin/,1,0,0,0
-02-0032,Kreativ-Tonie,,Weihnachtsmann,de-de,Kreativ-Tonies,48128eb1-1962-4019-b82d-57de6c2079b9,https://tonies.com/de-de/kreativ-tonies/weihnachtsmann/,1,1,0,0
+02-0031,Kreativ-Tonie,,Ärztin,de-de,creative-tonie,73f1ab2e-f7a2-49f1-a1c5-fe316b077169,https://tonies.com/de-de/kreativ-tonies/aerztin/,1,0,0,0
+02-0032,Kreativ-Tonie,,Weihnachtsmann,de-de,creative-tonie,48128eb1-1962-4019-b82d-57de6c2079b9,https://tonies.com/de-de/kreativ-tonies/weihnachtsmann/,1,1,0,0
 02-0033,Kreativ-Tonie,,Superheld,de-de,Kreativ-Tonies,,,1,1,0,0
-02-0034,Kreativ-Tonie,,Superheldin,de-de,Kreativ-Tonies,4da40a50-dbb4-4683-bda3-ad023f7825bb,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-superheld-maedchen/,1,1,0,0
+02-0034,Kreativ-Tonie,,Superheldin,de-de,creative-tonie,4da40a50-dbb4-4683-bda3-ad023f7825bb,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-superheld-maedchen/,1,1,0,0
 02-0036,Kreativ-Tonie,,Blanko,de-de,Kreativ-Tonies,,,1,1,0,0
 05-0001,Die Playmos,die-playmos,Der Schatz der Teufelsinsel,de-de,audio-play,f06fe243-7428-4c09-9ae7-a3eb61c8513a,https://tonies.com/de-de/tonies/die-playmos/der-schatz-der-teufelsinsel/,1,1,1,1
 05-0002,Die Playmos,die-playmos,Das Turnier auf der Königsritterburg,de-de,audio-play,5b52d2c7-0a25-4167-bf93-7eb57470fd6d,https://tonies.com/de-de/tonies/die-playmos/das-turnier-auf-der-koenigsritterburg/,1,1,1,1
@@ -233,12 +233,12 @@ article,series,series-id,episode,language,category,shop-id,web,data-sets,id-sets
 10000038,Creative-Tonie,,Footballer,en-gb,Creative-Tonies,,,1,0,0,0
 10000039,Creative-Tonie,,Fireman,en-gb,Creative-Tonies,,,1,0,0,0
 10000040,Creative-Tonie,,Father Christmas,en-gb,Creative-Tonies,,,1,0,0,0
-10000097,Kreativ-Tonie,,Osterhase,de-de,Kreativ-Tonies,d5850a60-be2f-4b38-9367-b19de4b6d776,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-osterhase/,1,1,0,0
+10000097,Kreativ-Tonie,,Osterhase,de-de,creative-tonie,d5850a60-be2f-4b38-9367-b19de4b6d776,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-osterhase/,1,1,0,0
 10000110,Creative-Tonie,,Blank,en-gb,Creative-Tonies,,,1,0,0,0
 10000111,Favourite Tales,,Rapunzel and other fairy tales,en-gb,audio-book,,,1,0,0,0
 10000112,Favourite Children’s Songs,,Birthday Songs,en-gb,music,,,1,0,0,0
 10000113,Creative-Tonie,,Sweetheart,en-gb,Creative-Tonies,,,1,1,0,0
-10000117,Kreativ-Tonie,,Clown,de-de,Kreativ-Tonies,251bf3a7-5e59-4941-8257-6041c3240aea,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-clown/,1,1,0,0
+10000117,Kreativ-Tonie,,Clown,de-de,creative-tonie,251bf3a7-5e59-4941-8257-6041c3240aea,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-clown/,1,1,0,0
 10000118,Kreativ-Tonie,,Vampir,de-de,Kreativ-Tonies,,,1,1,0,0
 10000119,Disney,disney,Aladdin,de-de,audio-play-songs,6dd72d92-b865-4bed-b49a-4537138876a5,https://tonies.com/de-de/tonies/disney/aladdin/,1,1,1,3
 10000120,Disney,disney,Aladdin,en-gb,audio-play-songs,3fb45ef9-0171-4a9a-bfba-570427165486,https://tonies.com/en-gb/tonies/disney/aladdin/,1,0,0,0
@@ -258,7 +258,7 @@ article,series,series-id,episode,language,category,shop-id,web,data-sets,id-sets
 10000141,Disney,disney,Die Eiskönigin,de-de,audio-play-songs,e50acc34-15ea-41b6-bf85-adc54bb0c075,https://tonies.com/de-de/tonies/disney/die-eiskoenigin/,1,2,1,2
 10000142,Disney,disney,Toy Story,de-de,audio-play,d0693df9-00d5-4016-a5bf-aa954fafd07d,https://tonies.com/de-de/tonies/disney/toy-story/,1,1,1,1
 10000143,Kinderliederzug,,Bitte alle einsteigen!,de-de,music,,,1,2,1,4
-10000144,Kreativ-Tonie,,Yeti,de-de,Kreativ-Tonies,f8f0c2af-039a-4067-9b5c-ae1115189ac0,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-yeti/,1,1,0,0
+10000144,Kreativ-Tonie,,Yeti,de-de,creative-tonie,f8f0c2af-039a-4067-9b5c-ae1115189ac0,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-yeti/,1,1,0,0
 10000145,Mein Lotta-Leben,,Alles voller Kaninchen,de-de,audio-book,,,1,1,1,2
 10000146,Minimusiker,minimusiker,Lieder für dich,de-de,music,25de787b-da8d-4534-a354-5221e393cd64,https://tonies.com/de-de/tonies/minimusiker/lieder-fuer-dich/,1,1,1,2
 10000147,Nola Note,,Nola Note auf musikalischer Weltreise 1,de-de,JAKO-O,,,1,1,1,2
@@ -277,7 +277,7 @@ article,series,series-id,episode,language,category,shop-id,web,data-sets,id-sets
 10000160,Favourite Children’s Songs,,Animal Songs,en-gb,audio-play,,,1,1,1,2
 10000161,Favourite Classics,,Peter Pan and other classic stories,en-gb,audio-play,,,1,0,0,0
 10000163,Kreativ-Tonie,,Pink (Beige),de-de,Kreativ-Tonies,,,1,1,0,0
-10000164,Kreativ-Tonie,,Anthrazit (Beige),de-de,Kreativ-Tonies,02cf740a-4bac-4f80-82db-3bbeb9c9d6e9,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-anthrazit/,1,1,0,0
+10000164,Kreativ-Tonie,,Anthrazit (Beige),de-de,creative-tonie,02cf740a-4bac-4f80-82db-3bbeb9c9d6e9,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-anthrazit/,1,1,0,0
 10000165,TKKG Junior,,Giftige Schokolade,de-de,audio-play,,,1,1,1,2
 10000166,HOW AND WHY,,Whales and Dolphins / Secrets of the Deep Sea,en-gb,audio-play-educational,,,1,0,0,0
 10000168,Favourite Children’s Songs,,Sing-Along Songs,en-gb,music,,,1,1,0,0
@@ -298,7 +298,7 @@ article,series,series-id,episode,language,category,shop-id,web,data-sets,id-sets
 10000200,Lieblings-Klassiker,lieblings-klassiker,Robinson Crusoe und vier weitere Klassiker,de-de,audio-play,ff41d5f5-36fe-40b7-890c-2c7cbfbfc782,https://tonies.com/de-de/tonies/lieblings-klassiker/robinson-crusoe-und-vier-weitere-klassiker/,1,1,1,1
 10000201,Favourite Classics,,Robinson Crusoe and other classic stories,en-gb,audio-book,,,1,0,0,0
 10000202,Benjamin Blümchen,benjamin-bluemchen,Die Märchennacht im Zoo,de-de,audio-play,ee868e35-e0e8-44d5-8368-1655c0ce7096,https://tonies.com/de-de/tonies/benjamin-bluemchen/maerchennacht-im-zoo/,1,1,1,2
-10000203,Kreativ-Tonie,,Dirigent,de-de,Kreativ-Tonies,52305f10-e880-4856-b65d-4b2e2250b303,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-dirigent/,1,1,0,0
+10000203,Kreativ-Tonie,,Dirigent,de-de,creative-tonie,52305f10-e880-4856-b65d-4b2e2250b303,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-dirigent/,1,1,0,0
 10000204,Kreativ-Tonie,,Lufthansa,de-de,Kreativ-Tonies,,,1,1,0,0
 10000205,Creative-Tonie,,Conductor,en-gb,Creative-Tonies,,,1,0,0,0
 10000209,Disney,disney,Mulan,de-de,audio-play-songs,936418a2-dc36-461d-81ac-d4e5d650b82e,https://tonies.com/de-de/tonies/disney/mulan/,1,1,1,3
@@ -311,7 +311,7 @@ article,series,series-id,episode,language,category,shop-id,web,data-sets,id-sets
 10000228,Despicable Me,despicable-me,The Junior Novel,en-gb,audio-book,90d0622f-8fb9-4cbd-b38f-409567abe6a4,https://tonies.com/en-gb/tonies/despicable-me/the-junior-novel/,1,0,0,0
 10000230,Lieblings-Kinderlieder,,Spiel- und Bewegungslieder 2,de-de,music,,,1,1,1,2
 10000231,Petzi,petzi,Drei Landratten bauen ein Schiff,de-de,audio-play,1e64d690-554e-41d0-80cc-c994dcc6ce6f,https://tonies.com/de-de/tonies/petzi/drei-landratten-bauen-ein-schiff/,1,1,1,1
-10000238,Kreativ-Tonie,,Fee,de-de,Kreativ-Tonies,03d1968b-2b1e-4fad-97f7-dfef526809a5,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-fee/,1,1,0,0
+10000238,Kreativ-Tonie,,Fee,de-de,creative-tonie,03d1968b-2b1e-4fad-97f7-dfef526809a5,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-fee/,1,1,0,0
 10000240,Rolf Zuckowski,rolf-zuckowski,Rolfs neue Vogelhochzeit,de-de,music,18a1ba70-133f-4dfe-b17d-128ad86f5d0f,https://tonies.com/de-de/tonies/rolf-zuckowski/rolfs-neue-vogelhochzeit/,1,2,1,2
 10000241,Thomas Müller,thomas-mueller,Mein Weg zum Traumverein,de-de,audio-book,301aef1e-8f5b-45d3-ad7b-72c2b91686a3,https://tonies.com/de-de/tonies/thomas-mueller/mein-weg-zum-traumverein/,1,1,1,1
 10000244,Die Eule mit der Beule,die-eule-mit-der-beule,Liederalbum,de-de,music,ebf0ce65-b60a-468f-92ce-45501713a736,https://tonies.com/de-de/tonies/die-eule-mit-der-beule/liederalbum/,1,1,1,2
@@ -343,9 +343,9 @@ article,series,series-id,episode,language,category,shop-id,web,data-sets,id-sets
 10000275,Bakabu,bakabu,Beste Freunde,de-de,music,3a729514-4c3f-45e3-9f79-5567c3fbb682,https://tonies.com/de-de/tonies/bakabu/beste-freunde/,1,1,1,1
 10000278,Fredrik Vahle,fredrik-vahle,Zugabe,de-de,music,33b3b806-d645-4a5d-92c5-760fc96eaf07,https://tonies.com/de-de/tonies/fredrik-vahle/zugabe/,1,1,1,2
 10000279,Janosch,janosch,Als Tiger und Bär beinahe das Beste verpassten,de-de,audio-play,2a61a15c-ee43-441f-a79b-860e45965f95,https://tonies.com/de-de/tonies/janosch/als-tiger-und-baer-beinahe-das-beste-verpassten/,1,1,1,1
-10000280,Kreativ-Tonie,,Monster,de-de,Kreativ-Tonies,39dfd3a7-3d25-4a7b-bf7b-1149fa273f0b,https://tonies.com/de-de/kreativ-tonies/kt-monster/,1,0,0,0
+10000280,Kreativ-Tonie,,Monster,de-de,creative-tonie,39dfd3a7-3d25-4a7b-bf7b-1149fa273f0b,https://tonies.com/de-de/kreativ-tonies/kt-monster/,1,0,0,0
 10000283,Kasperli,kasperli,Es hät en Dieb im Zoo! / D Insle vom Pirat Ohnibart,de-de,audio-play,063fb104-d79a-4e4d-99ab-632bc7ef7f7c,https://tonies.com/de-de/tonies/kasperli/im-zoo-pirat-ohnibart/,1,2,1,1
-10000284,Kreativ-Tonie,,Detektiv,de-de,Kreativ-Tonies,f1262ddc-2617-4c7d-91c5-03526b2ecc5a,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-detektiv/,1,0,0,0
+10000284,Kreativ-Tonie,,Detektiv,de-de,creative-tonie,f1262ddc-2617-4c7d-91c5-03526b2ecc5a,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-detektiv/,1,0,0,0
 10000285,Disney,disney,Die Monster AG,de-de,audio-play,815f099f-ba36-4c5b-a990-d6a8d711c803,https://tonies.com/de-de/tonies/disney/die-monster-ag/,1,1,1,1
 10000287,Kai Lüftners Kürbiskopp,,Ein musikalisches Roadmovie,de-de,audio-book-songs,,,1,1,1,1
 10000289,Lieblings-Kinderlieder,lieblings-kinderlieder,Halloween & Spuk,de-de,music,3bae4615-455b-4af0-b7d4-1896ada14cff,https://tonies.com/de-de/tonies/lieblings-kinderlieder/halloween-und-spuk/,1,2,1,2
@@ -484,7 +484,7 @@ article,series,series-id,episode,language,category,shop-id,web,data-sets,id-sets
 10000608,Octonauts,octonauts,Captain Barnacles,en-gb,audio-play-songs,84096624-658b-47ed-aa4f-c955f01bda17,https://tonies.com/en-gb/tonies/octonauts/octonauts/,1,0,0,0
 10000610,Mia and me,mia-and-me,Das goldene Einhorn / Onchao und das Paradies,de-de,audio-play,4bf46382-b6d4-4739-acbd-caf927fe9360,https://tonies.com/de-de/tonies/mia-and-me/das-goldene-einhorn-onchao-und-das-paradies/,1,1,1,1
 10000611,Petronella Apfelmus,petronella-apfelmus,Verhext und festgeklebt,de-de,audio-book,92e912e2-5be1-47ee-9900-bb1cd5d7b0f2,https://tonies.com/de-de/tonies/petronella-apfelmus/verhext-und-festgeklebt/,1,1,1,2
-10000613,Kreativ-Tonie,,Zauberer,de-de,Kreativ-Tonies,4730b17b-0938-44fe-a4c0-40f70b881a0a,https://tonies.com/de-de/kreativ-tonies/zauberer/,1,0,0,0
+10000613,Kreativ-Tonie,,Zauberer,de-de,creative-tonie,4730b17b-0938-44fe-a4c0-40f70b881a0a,https://tonies.com/de-de/kreativ-tonies/zauberer/,1,0,0,0
 10000614,Die unendliche Geschichte,die-unendliche-geschichte,Teil 1: Die große Suche,de-de,audio-play,cf93e6ab-33b7-41ce-ac32-1e203e6da0be,https://tonies.com/de-de/tonies/die-unendliche-geschichte/teil-1-die-grosse-suche/,1,2,2,4
 10000616,Lieblings-Meisterstücke,lieblings-meisterstuecke,Schwanensee,de-de,audio-play-songs,77af4cbc-2c2d-4e09-93d3-2afe83705e4d,https://tonies.com/de-de/tonies/lieblings-meisterstuecke/schwanensee/,1,1,1,1
 10000617,Miraculous,miraculous,Miraculous - Aller Anfang ist schwer,de-de,audio-play,8008f7bb-6a1c-4a11-82ae-2940d1800467,https://tonies.com/de-de/tonies/miraculous/miraculous-aller-anfang-ist-schwer/,1,1,1,3
@@ -628,11 +628,11 @@ article,series,series-id,episode,language,category,shop-id,web,data-sets,id-sets
 10000867,Disney,disney,Toy Story,fr-fr,audio-play-songs,ba229e52-2211-4057-a853-7ec1a3038246,https://tonies.com/fr-fr/tonies/disney/toy-story/,1,0,0,0
 10000868,La Pat' Patrouille,la-pat-patrouille,Chase,fr-fr,audio-play,2eada2d6-39e1-4d75-a2f3-04647e0aa13d,https://tonies.com/fr-fr/tonies/la-pat-patrouille/chase/,1,0,0,0
 10000872,Peppa Pig,peppa-pig,Sur La Route Avec Peppa,fr-fr,audio-play,f6ab940e-66ed-4f6b-8669-44496bb5ec3d,https://tonies.com/fr-fr/tonies/peppa-pig/sur-la-route-avec-peppa/,1,0,0,0
-10000874,Tonie Créatif,,Licorne,fr-fr,Tonie Créatif,20439ef8-7133-4872-b06d-d96ef71fdfea,https://tonies.com/fr-fr/tonies-creatifs/tonie-creatif-licorne/,1,0,0,0
-10000875,Tonie Créatif,,Pirate,fr-fr,Tonie Créatif,220a02de-edf8-4e2b-af9d-113c5a74cc9e,https://tonies.com/fr-fr/tonies-creatifs/tonie-creatif-pirate/,1,0,0,0
-10000876,Tonie Créatif,,Princesse,fr-fr,Tonie Créatif,04127f2f-47c3-4aaa-807b-332b687f5c3b,https://tonies.com/fr-fr/tonies-creatifs/tonie-creatif-princesse/,1,0,0,0
-10000877,Tonie Créatif,,Super-Héros - Rose,fr-fr,Tonie Créatif,7a4d50fa-c79d-41f1-bf77-46037ad40f6f,https://tonies.com/fr-fr/tonies-creatifs/tonie-creatif-super-heros-rose/,1,0,0,0
-10000878,Tonie Créatif,,Super-Héros - Turquoise,fr-fr,Tonie Créatif,1a9dd3f9-55ea-4636-a223-f19a22613e52,https://tonies.com/fr-fr/tonies-creatifs/tonie-creatif-super-heros-turquoise/,1,0,0,0
+10000874,Tonie Créatif,,Licorne,fr-fr,creative-tonie,20439ef8-7133-4872-b06d-d96ef71fdfea,https://tonies.com/fr-fr/tonies-creatifs/tonie-creatif-licorne/,1,0,0,0
+10000875,Tonie Créatif,,Pirate,fr-fr,creative-tonie,220a02de-edf8-4e2b-af9d-113c5a74cc9e,https://tonies.com/fr-fr/tonies-creatifs/tonie-creatif-pirate/,1,0,0,0
+10000876,Tonie Créatif,,Princesse,fr-fr,creative-tonie,04127f2f-47c3-4aaa-807b-332b687f5c3b,https://tonies.com/fr-fr/tonies-creatifs/tonie-creatif-princesse/,1,0,0,0
+10000877,Tonie Créatif,,Super-Héros - Rose,fr-fr,creative-tonie,7a4d50fa-c79d-41f1-bf77-46037ad40f6f,https://tonies.com/fr-fr/tonies-creatifs/tonie-creatif-super-heros-rose/,1,0,0,0
+10000878,Tonie Créatif,,Super-Héros - Turquoise,fr-fr,creative-tonie,1a9dd3f9-55ea-4636-a223-f19a22613e52,https://tonies.com/fr-fr/tonies-creatifs/tonie-creatif-super-heros-turquoise/,1,0,0,0
 10000880,Frederick,frederick,Frederick und seine Mäusefreunde,de-de,audio-play,3a6d6a19-5ad9-4208-821f-df6e6a5d1735,https://tonies.com/de-de/tonies/frederick/frederick-und-seine-maeusefreunde/,1,1,1,1
 10000882,Wild Kratts,,Chris,en-us,Tonie,7395915956375,,1,0,0,0
 10000885,Mr Men & Little Miss,mr-men-little-miss,Little Miss Sunshine,en-gb,audio-book,6d7e0ef2-425c-42ec-a9dc-94f31accb13d,https://tonies.com/en-gb/tonies/mr-men-little-miss/little-miss-sunshine/,1,0,0,0
@@ -672,18 +672,18 @@ article,series,series-id,episode,language,category,shop-id,web,data-sets,id-sets
 10000942,DC,dc,Batman,en-gb,audio-play,8a182795-0faf-40e5-a0e7-0fc50112eae7,https://tonies.com/en-gb/tonies/dc/batman/,1,0,0,0
 10000944,We're Going on a Bear Hunt,we-re-going-on-a-bear-hunt,We're Going on a Bear Hunt,en-gb,audio-play-songs,afb27a01-5e0b-45e2-944a-b77b52e4aa30,https://tonies.com/en-gb/tonies/we-re-going-on-a-bear-hunt/were-going-on-a-bear-hunt/,1,0,0,0
 10000945,Disney,disney,Disney Baby Lullabies,en-gb,audio-play-songs,9c93e125-bf06-410b-913e-ca39720f07c9,https://tonies.com/en-gb/tonies/disney/disney-lullabies/,1,0,0,0
-10000961,Kreativ-Tonie,,Beere (Hellbraun),de-de,Kreativ-Tonies,c5c8deeb-c9b6-4984-a8a0-3243c520f418,https://tonies.com/de-de/kreativ-tonies/kt-beere-hellbraun/,1,0,0,0
-10000962,Kreativ-Tonie,,Rot (Hellbraun),de-de,Kreativ-Tonies,6971605d-3aea-4dd9-8895-62335870b4c6,https://tonies.com/de-de/kreativ-tonies/kt-rot-hellbraun/,1,0,0,0
-10000963,Kreativ-Tonie,,Grün (Hellbraun),de-de,Kreativ-Tonies,14d044b8-dd0e-4897-9223-b5c966238cdd,https://tonies.com/de-de/kreativ-tonies/kt-gruen-hellbraun/,1,0,0,0
-10000964,Kreativ-Tonie,,Blau (Hellbraun),de-de,Kreativ-Tonies,ad28b5a1-92ae-4be8-922f-ba7fe4abbe8d,https://tonies.com/de-de/kreativ-tonies/kt-blau-hellbraun/,1,0,0,0
-10000965,Kreativ-Tonie,,Anthrazit (Hellbraun),de-de,Kreativ-Tonies,e0698790-c459-4744-ac97-7948429c2399,https://tonies.com/de-de/kreativ-tonies/kt-anthrazit-hellbraun/,1,0,0,0
-10000966,Kreativ-Tonie,,Pink (Hellbraun),de-de,Kreativ-Tonies,8333e886-969a-47b4-a2f1-76147362ae47,https://tonies.com/de-de/kreativ-tonies/kt-pink-hellbraun/,1,0,0,0
-10000967,Kreativ-Tonie,,Beere (Dunkelbraun),de-de,Kreativ-Tonies,6951b8fa-e321-4a2d-bd49-ef39f4f2b030,https://tonies.com/de-de/kreativ-tonies/kt-beere-dunkelbraun/,1,0,0,0
-10000968,Kreativ-Tonie,,Rot (Dunkelbraun),de-de,Kreativ-Tonies,dad6c078-c004-4ea5-b15e-ebb6001e5340,https://tonies.com/de-de/kreativ-tonies/kt-rot-dunkelbraun/,1,0,0,0
-10000969,Kreativ-Tonie,,Grün (Dunkelbraun),de-de,Kreativ-Tonies,9f3794bb-59c9-4cef-9b54-de818a01b2dd,https://tonies.com/de-de/kreativ-tonies/kt-gruen-dunkelbraun/,1,0,0,0
-10000970,Kreativ-Tonie,,Blau (Dunkelbraun),de-de,Kreativ-Tonies,2fa9008c-a2b0-4ecb-be84-a56fb3f5ff2f,https://tonies.com/de-de/kreativ-tonies/kt-blau-dunkelbraun/,1,0,0,0
-10000971,Kreativ-Tonie,,Anthrazit (Dunkelbraun),de-de,Kreativ-Tonies,55a55439-f10c-4fbf-a571-40b919f16096,https://tonies.com/de-de/kreativ-tonies/kt-anthrazit-dunkelbraun/,1,0,0,0
-10000972,Kreativ-Tonie,,Pink (Dunkelbraun),de-de,Kreativ-Tonies,8c44c0fa-c97b-4a42-ba40-482291b92618,https://tonies.com/de-de/kreativ-tonies/kt-pink-dunkelbraun/,1,0,0,0
+10000961,Kreativ-Tonie,,Beere (Hellbraun),de-de,creative-tonie,c5c8deeb-c9b6-4984-a8a0-3243c520f418,https://tonies.com/de-de/kreativ-tonies/kt-beere-hellbraun/,1,0,0,0
+10000962,Kreativ-Tonie,,Rot (Hellbraun),de-de,creative-tonie,6971605d-3aea-4dd9-8895-62335870b4c6,https://tonies.com/de-de/kreativ-tonies/kt-rot-hellbraun/,1,0,0,0
+10000963,Kreativ-Tonie,,Grün (Hellbraun),de-de,creative-tonie,14d044b8-dd0e-4897-9223-b5c966238cdd,https://tonies.com/de-de/kreativ-tonies/kt-gruen-hellbraun/,1,0,0,0
+10000964,Kreativ-Tonie,,Blau (Hellbraun),de-de,creative-tonie,ad28b5a1-92ae-4be8-922f-ba7fe4abbe8d,https://tonies.com/de-de/kreativ-tonies/kt-blau-hellbraun/,1,0,0,0
+10000965,Kreativ-Tonie,,Anthrazit (Hellbraun),de-de,creative-tonie,e0698790-c459-4744-ac97-7948429c2399,https://tonies.com/de-de/kreativ-tonies/kt-anthrazit-hellbraun/,1,0,0,0
+10000966,Kreativ-Tonie,,Pink (Hellbraun),de-de,creative-tonie,8333e886-969a-47b4-a2f1-76147362ae47,https://tonies.com/de-de/kreativ-tonies/kt-pink-hellbraun/,1,0,0,0
+10000967,Kreativ-Tonie,,Beere (Dunkelbraun),de-de,creative-tonie,6951b8fa-e321-4a2d-bd49-ef39f4f2b030,https://tonies.com/de-de/kreativ-tonies/kt-beere-dunkelbraun/,1,0,0,0
+10000968,Kreativ-Tonie,,Rot (Dunkelbraun),de-de,creative-tonie,dad6c078-c004-4ea5-b15e-ebb6001e5340,https://tonies.com/de-de/kreativ-tonies/kt-rot-dunkelbraun/,1,0,0,0
+10000969,Kreativ-Tonie,,Grün (Dunkelbraun),de-de,creative-tonie,9f3794bb-59c9-4cef-9b54-de818a01b2dd,https://tonies.com/de-de/kreativ-tonies/kt-gruen-dunkelbraun/,1,0,0,0
+10000970,Kreativ-Tonie,,Blau (Dunkelbraun),de-de,creative-tonie,2fa9008c-a2b0-4ecb-be84-a56fb3f5ff2f,https://tonies.com/de-de/kreativ-tonies/kt-blau-dunkelbraun/,1,0,0,0
+10000971,Kreativ-Tonie,,Anthrazit (Dunkelbraun),de-de,creative-tonie,55a55439-f10c-4fbf-a571-40b919f16096,https://tonies.com/de-de/kreativ-tonies/kt-anthrazit-dunkelbraun/,1,0,0,0
+10000972,Kreativ-Tonie,,Pink (Dunkelbraun),de-de,creative-tonie,8c44c0fa-c97b-4a42-ba40-482291b92618,https://tonies.com/de-de/kreativ-tonies/kt-pink-dunkelbraun/,1,0,0,0
 10000973,Creative-Tonie,,Purple (light brown),en-gb,Creative-Tonies,,,1,0,0,0
 10000974,Creative-Tonie,,Red (light brown),en-gb,Creative-Tonies,,,1,0,0,0
 10000975,Creative-Tonie,,Green (light brown),en-gb,Creative-Tonies,,,1,0,0,0
@@ -711,14 +711,14 @@ article,series,series-id,episode,language,category,shop-id,web,data-sets,id-sets
 10001010,Disney,disney,Aladdin,fr-fr,audio-play-songs,9473a217-b174-49af-abca-df2ffb3f10fe,https://tonies.com/fr-fr/tonies/disney/aladdin/,1,1,0,0
 10001011,Disney,disney,Bambi,fr-fr,audio-play-songs,e95b9fe7-c56b-448c-9e9e-9461802fc696,https://tonies.com/fr-fr/tonies/disney/bambi/,1,0,0,0
 10001012,Disney,disney,La Princesse Et La Grenouille,fr-fr,audio-play-songs,ce8463ff-9a07-427f-9076-817b96e99eaf,https://tonies.com/fr-fr/tonies/disney/la-princesse-et-la-grenouille/,1,0,0,0
-10001013,Tonie Créatif,,Joueur De Foot,fr-fr,Tonie Créatif,23e38dce-521f-448b-889a-b3c94a892130,https://tonies.com/fr-fr/tonies-creatifs/tonie-creatif-joueur-de-foot/,1,0,0,0
+10001013,Tonie Créatif,,Joueur De Foot,fr-fr,creative-tonie,23e38dce-521f-448b-889a-b3c94a892130,https://tonies.com/fr-fr/tonies-creatifs/tonie-creatif-joueur-de-foot/,1,0,0,0
 10001014,Astérix,asterix,Astérix Le Gaulois,fr-fr,audio-play,a542033a-7c62-485a-96a7-3ade5246aeb1,https://tonies.com/fr-fr/tonies/asterix/asterix-le-gaulois/,1,0,0,0
 10001015,Disney,disney,Raiponce,fr-fr,audio-play-songs,062ae954-5c52-4004-80ae-8a7ba250dbb7,https://tonies.com/fr-fr/tonies/disney/raiponce/,1,0,0,0
 10001016,C'Est Toujours Pas Sorcier,c-est-toujours-pas-sorcier,Sur Les Traces Des Dinosaures,fr-fr,audio-play-educational,a5433bd6-3436-4dbb-aa0c-3e36b239f155,https://tonies.com/fr-fr/tonies/c-est-toujours-pas-sorcier/sur-les-traces-des-dinosaures/,1,0,0,0
 10001017,Mes Contes Préférés,mes-contes-preferes,Le Petit Chaperon Rouge Et 3 Autres Contes,fr-fr,audio-play,e805a0d2-d351-4055-9971-4e0ecdad90ed,https://tonies.com/fr-fr/tonies/mes-contes-preferes/le-petit-chaperon-rouge-et-3-autres-contes/,1,0,0,0
 10001018,Mes Classiques Préférés,mes-classiques-preferes,Pinocchio Et 2 Autres Classiques,fr-fr,audio-play,0367b6fd-d667-4283-8191-e6b5c9fd935b,https://tonies.com/fr-fr/tonies/mes-classiques-preferes/pinocchio-et-2-autres-classiques/,1,0,0,0
 10001019,Mes Comptines Préférées,mes-comptines-preferees,À Mimer,fr-fr,music,24d9c453-5a60-4c36-8942-30e9ace867ac,https://tonies.com/fr-fr/tonies/mes-comptines-preferees/mimer/,1,0,0,0
-10001020,Tonie Créatif,,Fée,fr-fr,Tonie Créatif,d2bbc940-f776-43d7-80a4-278db6dc243e,https://tonies.com/fr-fr/tonies-creatifs/tonie-creatif-fee/,1,0,0,0
+10001020,Tonie Créatif,,Fée,fr-fr,creative-tonie,d2bbc940-f776-43d7-80a4-278db6dc243e,https://tonies.com/fr-fr/tonies-creatifs/tonie-creatif-fee/,1,0,0,0
 10001021,Mes Comptines Préférées,mes-comptines-preferees,Pour Faire la Fête,fr-fr,music,c7975780-dae2-4496-ae1c-beaea567a53b,https://tonies.com/fr-fr/tonies/mes-comptines-preferees/pour-faire-la-fete/,2,0,0,0
 10001022,The Little Prince,the-little-prince,The Little Prince (relaunch),en-gb,audio-book,d04edcb6-913b-4c2c-8439-5edb7fa039a1,https://tonies.com/en-gb/tonies/the-little-prince/the-little-prince-relaunch/,1,0,0,0
 10001035,Favourite Tales,favourite-tales,Little Red Riding Hood (relaunch),en-gb,audio-book,b2592527-aea2-4ef8-b826-e630ef946737,https://tonies.com/en-gb/tonies/favourite-tales/little-red-riding-hood-relaunch/,1,0,0,0
@@ -895,13 +895,13 @@ article,series,series-id,episode,language,category,shop-id,web,data-sets,id-sets
 10001518,Gabby's Dollhouse,gabby-s-dollhouse,Gabby's Dollhouse,en-gb,audio-play-songs,8b783a13-9ba8-49ed-bf24-05a848629f5d,https://tonies.com/en-gb/tonies/gabby-s-dollhouse/gabbys-dollhouse/,1,0,0,0
 10001520,Favourite Children's Songs,favourite-children-s-songs,Travelling Songs (relaunch),en-gb,music,324f101d-5316-4386-ae73-7bb26064020d,https://tonies.com/en-gb/tonies/favourite-children-s-songs/travelling-songs-relaunch/,2,0,0,0
 10001523,Peppa Pig,,George,en-us,Tonie,7629784252567,,1,0,0,0
-10001538,Kreativ-Tonie,,Meerjungfrau,de-de,Kreativ-Tonies,30ff9eb9-22c8-4d2e-8c69-988baa8ed152,https://tonies.com/de-de/kreativ-tonies/meerjungfrau-neuauflage-2022/,1,0,0,0
-10001539,Kreativ-Tonie,,Polizist (Neuauflage 2022),de-de,Kreativ-Tonies,e932115b-3072-4f63-965d-01e336c75067,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-polizist-neuauflage-2022/,1,0,0,0
-10001540,Kreativ-Tonie,,Blanko (Neuauflage 2022),de-de,Kreativ-Tonies,2548b7de-3975-4e1f-9c7b-b52c6ce9236f,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-blanko-neuauflage-2022/,1,0,0,0
-10001541,Kreativ-Tonie,,Superheld (Neuauflage 2022),de-de,Kreativ-Tonies,5e811d7f-d6d5-45e4-a32a-1ec4b10ec5ca,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-superheld-neuauflage-2022/,1,0,0,0
-10001542,Kreativ-Tonie,,Fußballer,de-de,Kreativ-Tonies,b9210506-822e-47ad-88b8-6a30c3b780fa,https://tonies.com/de-de/kreativ-tonies/fussballer-neuauflage-2022/,1,0,0,0
-10001543,Kreativ-Tonie,,Sängerin (Neuauflage 2022),de-de,Kreativ-Tonies,927bea52-3184-414a-98cc-76122e73c3ca,https://tonies.com/de-de/kreativ-tonies/sngerin-neuauflage-2022/,1,0,0,0
-10001544,Kreativ-Tonie,,Gitarrist,de-de,Kreativ-Tonies,bb5e388b-a878-4c71-ac27-a92ebda2d187,https://tonies.com/de-de/kreativ-tonies/gitarrist-neuauflage-2022/,1,0,0,0
+10001538,Kreativ-Tonie,,Meerjungfrau,de-de,creative-tonie,30ff9eb9-22c8-4d2e-8c69-988baa8ed152,https://tonies.com/de-de/kreativ-tonies/meerjungfrau-neuauflage-2022/,1,0,0,0
+10001539,Kreativ-Tonie,,Polizist (Neuauflage 2022),de-de,creative-tonie,e932115b-3072-4f63-965d-01e336c75067,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-polizist-neuauflage-2022/,1,0,0,0
+10001540,Kreativ-Tonie,,Blanko (Neuauflage 2022),de-de,creative-tonie,2548b7de-3975-4e1f-9c7b-b52c6ce9236f,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-blanko-neuauflage-2022/,1,0,0,0
+10001541,Kreativ-Tonie,,Superheld (Neuauflage 2022),de-de,creative-tonie,5e811d7f-d6d5-45e4-a32a-1ec4b10ec5ca,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-superheld-neuauflage-2022/,1,0,0,0
+10001542,Kreativ-Tonie,,Fußballer,de-de,creative-tonie,b9210506-822e-47ad-88b8-6a30c3b780fa,https://tonies.com/de-de/kreativ-tonies/fussballer-neuauflage-2022/,1,0,0,0
+10001543,Kreativ-Tonie,,Sängerin (Neuauflage 2022),de-de,creative-tonie,927bea52-3184-414a-98cc-76122e73c3ca,https://tonies.com/de-de/kreativ-tonies/sngerin-neuauflage-2022/,1,0,0,0
+10001544,Kreativ-Tonie,,Gitarrist,de-de,creative-tonie,bb5e388b-a878-4c71-ac27-a92ebda2d187,https://tonies.com/de-de/kreativ-tonies/gitarrist-neuauflage-2022/,1,0,0,0
 10001550,Dr. Seuss,,Green Eggs & Ham,en-us,Tonie,8040230879383,,1,0,0,0
 10001588,Les Copains Du Dodo,les-copains-du-dodo,Doudou Nounours,fr-fr,audio-play,b32e297f-191e-4b8f-afbc-7067b5ebe8ef,https://tonies.com/fr-fr/tonies/les-copains-du-dodo/doudou-nounours/,1,0,0,0
 10001589,Ma Pause Zen,ma-pause-zen,Séances Méditatives De Max Larelax,fr-fr,audio-book,b338ac50-ea5c-4973-b479-f1615829cef0,https://tonies.com/fr-fr/tonies/ma-pause-zen/seances-meditatives-de-max-larelax/,1,0,0,0
@@ -955,8 +955,8 @@ article,series,series-id,episode,language,category,shop-id,web,data-sets,id-sets
 10001826,LeVar Burton,,,en-us,Tonie,6978548727959,,1,1,1,1
 10001830,Word Party Presents,,Math!,en-us,Tonie,8007349731479,,1,0,0,0
 10001831,Les Schtroumpfs,les-schtroumpfs,L'Apprenti Schtroumpf Et 2 Autres Histoires,fr-fr,audio-play,146d3f06-02ac-4c55-ac44-c31e2b85fa31,https://tonies.com/fr-fr/tonies/les-schtroumpfs/l-apprenti-schtroumpf-et-2-autres-histoires/,1,0,0,0
-10001845,Kreativ-Tonie,,Feuerwehrmann (Neuauflage 2022),de-de,Kreativ-Tonies,3898b6ed-f906-42ae-9306-4f7746df26ca,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-feuerwehrmann-neuauflage-2022/,1,0,0,0
-10001846,Kreativ-Tonie,,Sleepy,de-de,Kreativ-Tonies,dc2e5946-459b-4708-aefc-85737d04fd5e,https://tonies.com/de-de/kreativ-tonies/sleepy-neuauflage-2022/,1,0,0,0
+10001845,Kreativ-Tonie,,Feuerwehrmann (Neuauflage 2022),de-de,creative-tonie,3898b6ed-f906-42ae-9306-4f7746df26ca,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-feuerwehrmann-neuauflage-2022/,1,0,0,0
+10001846,Kreativ-Tonie,,Sleepy,de-de,creative-tonie,dc2e5946-459b-4708-aefc-85737d04fd5e,https://tonies.com/de-de/kreativ-tonies/sleepy-neuauflage-2022/,1,0,0,0
 10001870,Pete the Cat,,Rock On!,en-us,Tonie,7806556897431,,1,0,0,0
 10001872,PAW Patrol,,Everest,en-us,Tonie,7926752051351,,1,0,0,0
 10001875,Disney,disney,Sleeping Beauty,en-gb,audio-play-songs,4ebac6dc-cb0d-4a63-8117-f4dcdb5f1555,https://tonies.com/en-gb/tonies/disney/sleeping-beauty/,1,0,0,0
@@ -978,7 +978,7 @@ article,series,series-id,episode,language,category,shop-id,web,data-sets,id-sets
 10001901,Séléna Sans Chichis Ni Tralala,selena-sans-chichis-ni-tralala,Plongée Insolite Dans Moby Dick,fr-fr,audio-play-songs,15772168-b7eb-43d1-bc22-7539315ded9a,https://tonies.com/fr-fr/tonies/selena-sans-chichis-ni-tralala/plongee-insolite-dans-moby-dick/,1,0,0,0
 10001903,Mes Mythes Préférés,mes-mythes-preferes,La Mythologie Grecque,fr-fr,audio-play,28584337-8fda-4c43-816f-958a17158260,https://tonies.com/fr-fr/tonies/mes-mythes-preferes/la-mythologie-grecque/,1,0,0,0
 10001904,Mes Mythes Préférés,mes-mythes-preferes,La Mythologie Égyptienne,fr-fr,audio-play,4ec4c9d6-cbff-4c1c-80cb-e7c97ab26b65,https://tonies.com/fr-fr/tonies/mes-mythes-preferes/la-mythologie-egyptienne/,1,0,0,0
-10001910,Arsène Lupin,,,fr-fr,audio-play,dfd2974f-b06b-4bff-9db7-3f2e6c6a6236,https://tonies.com/fr-fr/tonies/arsene-lupin/,1,0,0,0
+10001910,Arsène Lupin,,Arsène Lupin,fr-fr,audio-play,dfd2974f-b06b-4bff-9db7-3f2e6c6a6236,https://tonies.com/fr-fr/tonies/arsene-lupin/,1,0,0,0
 10001913,Les Schtroumpfs,les-schtroumpfs,Les Schtroumpfs Et Le Livre Qui Dit Tout,fr-fr,audio-play,cd6a2efb-af13-4d3f-b8d3-8afc48ade206,https://tonies.com/fr-fr/tonies/les-schtroumpfs/les-schtroumpfs-et-le-livre-qui-dit-tout/,1,0,0,0
 10001930,Favourite Children's Songs,favourite-children-s-songs,Healthy Habits,en-gb,music,a796431c-7058-4c24-b64c-f30cae164a15,https://tonies.com/en-gb/tonies/favourite-children-s-songs/healthy-habits/,1,0,0,0
 10001933,Yakka Dee,yakka-dee,Yakka Dee,en-gb,audio-play,a8a30e86-94f1-4ae5-9f78-fe4204069286,https://tonies.com/en-gb/tonies/yakka-dee/yakka-dee/,1,0,0,0
@@ -1097,7 +1097,7 @@ article,series,series-id,episode,language,category,shop-id,web,data-sets,id-sets
 11000307,Les As De La Jungle,les-as-de-la-jungle,Miguel,fr-fr,audio-play,25fe1c6c-657f-4573-9621-e9f3a1fbbb3a,https://tonies.com/fr-fr/tonies/les-as-de-la-jungle/miguel/,1,0,0,0
 11000312,Ernest & Célestine,ernest-celestine,Mon Ami Ernest,fr-fr,audio-play,c609908f-1e60-499f-ae3d-370ff6b508a4,https://tonies.com/fr-fr/tonies/ernest-celestine/mon-ami-ernest/,1,0,0,0
 11000313,Ernest & Célestine,ernest-celestine,Mon Amie Célestine,fr-fr,audio-play,44b99a2d-435f-455d-9a16-d839a4408f3b,https://tonies.com/fr-fr/tonies/ernest-celestine/mon-amie-celestine/,1,0,0,0
-11000319,Les Belles Lisses Poires,,,fr-fr,audio-play,21f65037-f556-4f94-a3ab-f7080af7ca12,https://tonies.com/fr-fr/tonies/les-belles-lisses-poires/,1,0,0,0
+11000319,Les Belles Lisses Poires,,Les Belles Lisses Poires,fr-fr,audio-play,21f65037-f556-4f94-a3ab-f7080af7ca12,https://tonies.com/fr-fr/tonies/les-belles-lisses-poires/,1,0,0,0
 11000339,Mumfie,mumfie,Histoires Douces Pour Rêver,fr-fr,audio-play,81bb996d-d247-4af6-88e3-df90204f628b,https://tonies.com/fr-fr/tonies/mumfie/histoires-douces-pour-rever/,1,0,0,0
 11000342,La Pat' Patrouille,la-pat-patrouille,Rocky,fr-fr,audio-play,3371cd5e-4b84-4a37-a9b9-f84a1871091a,https://tonies.com/fr-fr/tonies/la-pat-patrouille/rocky/,1,0,0,0
 11000349,Calendrier De L'Avent,calendrier-de-l-avent,Le Petit Renne Qui Rêvait D'Avoir Des Ailes,fr-fr,audio-play,ec6028d4-e0d4-4573-b61d-d9e47fe5d184,https://tonies.com/fr-fr/tonies/calendrier-de-l-avent/le-petit-renne-qui-revait-d-avoir-des-ailes/,1,0,0,0
@@ -2843,7 +2843,7 @@ article,series,series-id,episode,language,category,shop-id,web,data-sets,id-sets
 2000002217,Die kleine Schnecke Monika Häuschen,die-kleine-schnecke-monika-haeuschen,Warum weben Spinnen Netze?,de-de,,0e3b4527-6092-4f4b-a981-aaf1df7d8e9f,https://tonies.com/de-de/audio-content/die-kleine-schnecke-monika-haeuschen/warum-weben-spinnen-netze/,1,0,0,0
 2000002218,Die kleine Schnecke Monika Häuschen,die-kleine-schnecke-monika-haeuschen,Warum wedeln Hunde mit dem Schwanz?,de-de,,09139cf2-4208-4ce6-8f42-7267d122f32d,https://tonies.com/de-de/audio-content/die-kleine-schnecke-monika-haeuschen/warum-wedeln-hunde-mit-dem-schwanz/,1,0,0,0
 2000002219,Die Schule der magischen Tiere,die-schule-der-magischen-tiere,Abgefahren!,de-de,,45e170c2-56f3-4287-a8ca-56309f724c3a,https://tonies.com/de-de/audio-content/die-schule-der-magischen-tiere/abgefahren/,1,0,0,0
-2000002221,Die Schule der magischen Tiere,die-schule-der-magischen-tiere,Endlich Ferien 1: Rabbat und Ida ,de-de,,9c9761f7-0878-4eac-a92d-86633342bb10,https://tonies.com/de-de/audio-content/die-schule-der-magischen-tiere/endlich-ferien-1-rabbat-und-ida/,1,0,0,0
+2000002221,Die Schule der magischen Tiere,die-schule-der-magischen-tiere,Endlich Ferien 1: Rabbat und Ida,de-de,,9c9761f7-0878-4eac-a92d-86633342bb10,https://tonies.com/de-de/audio-content/die-schule-der-magischen-tiere/endlich-ferien-1-rabbat-und-ida/,1,0,0,0
 2000002222,Die Schule der magischen Tiere,die-schule-der-magischen-tiere,Endlich Ferien 2: Silas und Rick,de-de,,12291ddd-96b9-46b4-8326-4c1ed39d2663,https://tonies.com/de-de/audio-content/die-schule-der-magischen-tiere/endlich-ferien-2-silas-und-rick/,1,0,0,0
 2000002223,Die Schule der magischen Tiere,die-schule-der-magischen-tiere,Endlich Ferien 3: Henry und Leander,de-de,,86453f55-d128-4eac-a417-03303f6d3609,https://tonies.com/de-de/audio-content/die-schule-der-magischen-tiere/endlich-ferien-3-henry-und-leander/,1,0,0,0
 2000002224,Die Schule der magischen Tiere,die-schule-der-magischen-tiere,Endlich Ferien 4: Helene und Karajan,de-de,,59b6bc2a-2ac6-4158-989f-55648bc12ab2,https://tonies.com/de-de/audio-content/die-schule-der-magischen-tiere/endlich-ferien-4-helene-und-karajan/,1,0,0,0
