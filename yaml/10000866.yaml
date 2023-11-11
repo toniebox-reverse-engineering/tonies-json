@@ -4,7 +4,7 @@ data:
 - series: Disney
   series-id: disney
   episode: Le Roi Lion
-  release: 0
+  release: 1657238400
   language: fr-fr
   category: audio-play-songs
   runtime: 48
