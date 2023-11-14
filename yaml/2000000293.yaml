@@ -6,7 +6,7 @@ data:
   episode: Das kleine Hufeisen
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/das-kleine-hufeisen/
   shop-id: 405d6815-9668-4c17-970c-16110bae85ae
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Zwei neue Ferienkinder
+  - Die Ankunft
+  - Im Stall
+  - Marek, der Rabauke
+  - Tandemreiten
+  - Los geht-s!
+  - In der Ruine Rotenburg
+  - Keine gute Idee!
+  - Zu zweit zur Ruine
+  - Toby, der Held
+  - Raus aus dem Brunnen
+  - Das kleine Hufeisen
   ids: []

@@ -6,7 +6,7 @@ data:
   episode: Die verhexte Zeitreise
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,15 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/die-verhexte-zeitreise/
   shop-id: 2cffc41f-7cb1-47d3-a620-bf57f48f18ab
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Ein sensationeller Fund
+  - Völliges Zahlenwirrwarr
+  - Im Jahre 1500
+  - Bei Meister Meißel
+  - Ärger mit dem Bürgermeister
+  - Zurück in die Zukunft
+  - Im Jahre 2200
+  - Das Bürgermeister Hologramm
+  - Eine gute Lösung
   ids: []

@@ -6,13 +6,34 @@ data:
   episode: 'Folgen 199-202: Marshall die Vogelscheuche'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/983cfe9a03ed44f754aa9d6f829268cebbffc04cf6b0b6d889a6ce03/3_~mr2W2J~XPQT_z3w/paw_patrol_199_folgen_199_202__marshall_die_vo_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/b7dcbb59489d96248fd928b6bd1a5f94f41df9e48f5f9d8f2f9d2d12/4013575925766_preview.mp3
   web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-199-202-marshall-die-vogelscheuche/
   shop-id: d656add5-752d-44bc-8f38-be72ebe2c8df
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Die Schneeschuh-Wanderung (Folge 199)'
+  - 'Kapitel 02: Die Schneeschuh-Wanderung (Folge 199)'
+  - 'Kapitel 03: Die Schneeschuh-Wanderung (Folge 199)'
+  - 'Kapitel 04: Die Schneeschuh-Wanderung (Folge 199)'
+  - 'Kapitel 05: Die Schneeschuh-Wanderung (Folge 199)'
+  - 'Kapitel 06: Die Schneeschuh-Wanderung (Folge 199)'
+  - 'Kapitel 01: Der trockene Ententeich (Folge 200)'
+  - 'Kapitel 02: Der trockene Ententeich (Folge 200)'
+  - 'Kapitel 03: Der trockene Ententeich (Folge 200)'
+  - 'Kapitel 04: Der trockene Ententeich (Folge 200)'
+  - 'Kapitel 05: Der trockene Ententeich (Folge 200)'
+  - 'Kapitel 01: Ein störrischer Esel (Folge 201)'
+  - 'Kapitel 02: Ein störrischer Esel (Folge 201)'
+  - 'Kapitel 03: Ein störrischer Esel (Folge 201)'
+  - 'Kapitel 04: Ein störrischer Esel (Folge 201)'
+  - 'Kapitel 05: Ein störrischer Esel (Folge 201)'
+  - 'Kapitel 01: Marshall die Vogelscheuche (Folge 202)'
+  - 'Kapitel 02: Marshall die Vogelscheuche (Folge 202)'
+  - 'Kapitel 03: Marshall die Vogelscheuche (Folge 202)'
+  - 'Kapitel 04: Marshall die Vogelscheuche (Folge 202)'
+  - 'Kapitel 05: Marshall die Vogelscheuche (Folge 202)'
   ids: []

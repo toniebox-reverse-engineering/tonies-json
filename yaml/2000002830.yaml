@@ -6,13 +6,23 @@ data:
   episode: Krümel der freche Hamster
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_c078c7c584c92503fd1ad8d4af4d875d60fdff8d88eab2c9bddd109c/3_PSd.mql-KC0Gp-rS/gute_nacht_geschichten_027_krumel_der_freche_h_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/74a57fbb37103384404b3f9fa6c021daab0a5f29f16541e1cbe799aa/425037_bb_gng_hoerprobe_kruemel_der_freche_hamster_90sec.wav
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen-gute-nacht-geschichten/krumel-der-freche-hamster/
   shop-id: df372927-4d5f-42fc-80a5-7e1c595977ea
-  track-desc: []
+  track-desc:
+  - Schlafliedchen
+  - Ein Herz Und Eine Seele
+  - Krümel Der Freche Hamster
+  - Die Doppelte Luise
+  - Total Verflogen
+  - Die Katze Auf Dem Baum
+  - Munter Wie Ein Fisch Im Wasser
+  - Ein Lied Für Hansi
+  - Wie Hund Und Katze
+  - Schlafliedchen 2
   ids: []

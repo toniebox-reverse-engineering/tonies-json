@@ -6,13 +6,35 @@ data:
   episode: 'Folgen 87-89: Drachen anlocken'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_d7d5097abcc658844b7300f62aba839c4d8fcd40ce29861b00cfd670/3_1TRrpVhZskb~y3Mr/lego_ninjago_087_folgen_87_89__drachen_anlocke_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/66d6d5ec59ee4149513d115a78eb5a188aaa7da9d38de5a53d551034/4013575901951_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-87-89-drachen-anlocken/
   shop-id: 4bf8de73-b2db-4924-a43e-5536ae523bff
-  track-desc: []
+  track-desc:
+  - 'Folge 87: Drachen anlocken - Track 1'
+  - 'Folge 87: Drachen anlocken - Track 2'
+  - 'Folge 87: Drachen anlocken - Track 3'
+  - 'Folge 87: Drachen anlocken - Track 4'
+  - 'Folge 87: Drachen anlocken - Track 5'
+  - 'Folge 87: Drachen anlocken - Track 6'
+  - 'Folge 87: Drachen anlocken - Track 7'
+  - 'Folge 87: Drachen anlocken - Track 8'
+  - 'Folge 88: Wie man einen Drachen baut - Track 1'
+  - 'Folge 88: Wie man einen Drachen baut - Track 2'
+  - 'Folge 88: Wie man einen Drachen baut - Track 3'
+  - 'Folge 88: Wie man einen Drachen baut - Track 4'
+  - 'Folge 88: Wie man einen Drachen baut - Track 5'
+  - 'Folge 88: Wie man einen Drachen baut - Track 6'
+  - 'Folge 88: Wie man einen Drachen baut - Track 7'
+  - 'Folge 89: Vertrauen - Track 1'
+  - 'Folge 89: Vertrauen - Track 2'
+  - 'Folge 89: Vertrauen - Track 3'
+  - 'Folge 89: Vertrauen - Track 4'
+  - 'Folge 89: Vertrauen - Track 5'
+  - 'Folge 89: Vertrauen - Track 6'
+  - 'Folge 89: Vertrauen - Track 7'
   ids: []

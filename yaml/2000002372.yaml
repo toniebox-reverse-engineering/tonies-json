@@ -6,7 +6,7 @@ data:
   episode: 'Folgen 103-106: Paket in Gefahr'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,41 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-103-106-paket-in-gefahr/
   shop-id: cdcb08e9-1998-4ee9-8a9d-2e5a99449c24
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Affen-Alarm (Folge 103)'
+  - 'Kapitel 02: Affen-Alarm (Folge 103)'
+  - 'Kapitel 03: Affen-Alarm (Folge 103)'
+  - 'Kapitel 04: Affen-Alarm (Folge 103)'
+  - 'Kapitel 05: Affen-Alarm (Folge 103)'
+  - 'Kapitel 06: Affen-Alarm (Folge 103)'
+  - 'Kapitel 07: Affen-Alarm (Folge 103)'
+  - 'Kapitel 08: Affen-Alarm (Folge 103)'
+  - 'Kapitel 09: Affen-Alarm (Folge 103)'
+  - 'Kapitel 10: Affen-Alarm (Folge 103)'
+  - 'Kapitel 01: Flugkatze in Not (Folge 104)'
+  - 'Kapitel 02: Flugkatze in Not (Folge 104)'
+  - 'Kapitel 03: Flugkatze in Not (Folge 104)'
+  - 'Kapitel 04: Flugkatze in Not (Folge 104)'
+  - 'Kapitel 05: Flugkatze in Not (Folge 104)'
+  - 'Kapitel 06: Flugkatze in Not (Folge 104)'
+  - 'Kapitel 07: Flugkatze in Not (Folge 104)'
+  - 'Kapitel 08: Flugkatze in Not (Folge 104)'
+  - 'Kapitel 09: Flugkatze in Not (Folge 104)'
+  - 'Kapitel 01: Paket in Gefahr (Folge 105)'
+  - 'Kapitel 02: Paket in Gefahr (Folge 105)'
+  - 'Kapitel 03: Paket in Gefahr (Folge 105)'
+  - 'Kapitel 04: Paket in Gefahr (Folge 105)'
+  - 'Kapitel 05: Paket in Gefahr (Folge 105)'
+  - 'Kapitel 06: Paket in Gefahr (Folge 105)'
+  - 'Kapitel 07: Paket in Gefahr (Folge 105)'
+  - 'Kapitel 08: Paket in Gefahr (Folge 105)'
+  - 'Kapitel 01: Frau Frosch-Bürgermeisterin (Folge 106)'
+  - 'Kapitel 02: Frau Frosch-Bürgermeisterin (Folge 106)'
+  - 'Kapitel 03: Frau Frosch-Bürgermeisterin (Folge 106)'
+  - 'Kapitel 04: Frau Frosch-Bürgermeisterin (Folge 106)'
+  - 'Kapitel 05: Frau Frosch-Bürgermeisterin (Folge 106)'
+  - 'Kapitel 06: Frau Frosch-Bürgermeisterin (Folge 106)'
+  - 'Kapitel 07: Frau Frosch-Bürgermeisterin (Folge 106)'
+  - 'Kapitel 08: Frau Frosch-Bürgermeisterin (Folge 106)'
+  - 'Kapitel 09: Frau Frosch-Bürgermeisterin (Folge 106)'
   ids: []

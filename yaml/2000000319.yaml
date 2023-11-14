@@ -6,7 +6,7 @@ data:
   episode: Der Pferdetausch
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,15 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/der-pferdetausch/
   shop-id: d7961d1a-144c-47cc-bebd-10a10ed9036e
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Tina ist schlecht drauf
+  - Sissi auf dem Schloss
+  - Ein neuer Feriengast
+  - Begegnungen
+  - Frau Martins Machtwort
+  - Ein Pferd geht durch
+  - Matze und Sissi
+  - Tina beruhigt sich
+  - Versöhnung mit Alex
   ids: []

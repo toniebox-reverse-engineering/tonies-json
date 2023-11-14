@@ -6,13 +6,16 @@ data:
   episode: Die Burg von Graf Aufgewacht
   release: 0
   language: de-de
-  category: null
+  category: audio-book
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_b723eaa6b08d159adabef027cc138436b56f8dcf0a78218577bd9010/3_-9ghzJxJQ4LWd4L6/willa_und_schnuff_die_burg_von_graf_aufgewacht_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/23f66400fdef4888fbe0db69891ee5b110684feacd6536ecf7dadde1/willa_und_schnuff_die_burg_von_graf_aufgewacht_30sec.wav
   web: https://tonies.com/de-de/audio-content/willa-und-schnueff/willa-schnueff-die-burg-von-graf-aufgewacht/
   shop-id: b1112eb6-d58b-43b7-91cd-f206b43433c9
-  track-desc: []
+  track-desc:
+  - Teil 01
+  - Teil 02
+  - Teil 03
   ids: []
