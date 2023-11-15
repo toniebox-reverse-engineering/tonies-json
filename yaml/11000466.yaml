@@ -11,12 +11,17 @@ data:
   age: 4
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/BOX11000466_1_a-02wmXaY7.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/330d48c8efd1b2afcf8231079c191dff3b3dba1bc92e47fa10e2c886/hoerprobe_11000466_spidey_und_seine_super_freunde_kobzilla_3_weitere_spannende_abenteuer.mp3
   web: https://tonies.com/de-de/tonies/marvel-spidey-and-his-amazing-friends/marvel-ghost-spider-dach/
   shop-id: 2da830ca-4d8f-4c4a-b3cf-5d1ec5d299d4
   track-desc:
-  - Kobzilla
-  - Schnelle Spidey-Lieferung
-  - Fehler im System!
-  - Teste deine Superkraft!
+  - Marvels Spidey und seine Super-Freunde - Titellied
+  - Kobzilla 1
+  - Kobzilla 2
+  - Schnelle Spidey-Lieferung 1
+  - Schnelle Spidey-Lieferung 2
+  - Fehler im System! 1
+  - Fehler im System! 2
+  - Teste deine Superkraft! 1
+  - Teste deine Superkraft! 2
   ids: []

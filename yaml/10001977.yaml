@@ -11,9 +11,15 @@ data:
   age: 4
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/BOX10001977_1_a-kfGxRLUj.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/c3c59c8c7f60e6fe88ecb8fe4e59fc6dd1e5b712efb82111e7b3a832/hoerprobe_10001977_disney_alles_steht_kopf.mp3
   web: https://tonies.com/de-de/tonies/disney/disney-alles-steht-kopf-alles-steht-kopf-dach/
   shop-id: 0cdffe8b-07e7-44a3-887c-c88838af5a3b
   track-desc:
-  - Test
+  - 'Kapitel 01: Alles steht Kopf'
+  - 'Kapitel 02: Alles steht Kopf'
+  - 'Kapitel 03: Alles steht Kopf'
+  - 'Kapitel 04: Alles steht Kopf'
+  - 'Kapitel 05: Alles steht Kopf'
+  - 'Kapitel 06: Alles steht Kopf'
+  - 'Kapitel 07: Alles steht Kopf'
   ids: []
