@@ -11,8 +11,8 @@ data:
   age: ''
   origin: ''
   image: ''
-  sample: ''
+  sample: tonies-json-de-de,
   web: ''
   shop-id: ''
-  track-desc: ''
+  track-desc: tonies-json-de-de,
   ids: []
