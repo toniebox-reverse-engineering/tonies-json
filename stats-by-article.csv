@@ -283,7 +283,7 @@ article,series,series-id,episode,language,category,shop-id,web,data-sets,id-sets
 10000168,Favourite Children’s Songs,,Sing-Along Songs,en-gb,music,,,1,1,0,0
 10000169,Creative-Tonie,,Clown,en-gb,Creative-Tonies,,,1,0,0,0
 10000170,Creative-Tonie,,Skater,en-gb,Creative-Tonies,,,1,0,0,0
-10000172,Favourite Children’s Songs,,Travelling Songs,en-gb,audio-play,,,1,0,0,0
+10000172,Favourite Children's Songs,favourite-children-s-songs,Travelling Songs,en-gb,audio-play,8e84a3f6-e1f1-4913-9efd-64a0a3ed13cf,https://tonies.com/en-gb/tonies/favourite-children-s-songs/travelling-songs/,1,0,0,0
 10000173,HOW AND WHY,,Space Travel / The Moon,en-gb,audio-play-educational,,,1,0,0,0
 10000174,Maya the Bee,maya-the-bee,The birth of Maya,en-gb,audio-play,6ea8c325-ce5c-4ece-a68b-4252d121ada2,https://tonies.com/en-gb/tonies/maya-the-bee/the-birth-of-maya/,1,0,0,0
 10000175,Kosmo und Klax,,Freundschaftsgeschichten,de-de,audio-book-songs,,,1,1,1,1
@@ -291,7 +291,7 @@ article,series,series-id,episode,language,category,shop-id,web,data-sets,id-sets
 10000179,Creative-Tonie,,Superhero Girl,en-gb,Creative-Tonies,,,1,0,0,0
 10000184,Creative-Tonie,,Vampire,en-gb,Creative-Tonies,,,1,0,0,0
 10000194,Creative-Tonie,,Yeti,en-gb,Creative-Tonies,,,1,0,0,0
-10000195,Favourite Classics,,A Christmas Carol and other classic stories,en-gb,audio-book,,,1,0,0,0
+10000195,Favourite Children's Songs,favourite-children-s-songs,A Christmas Carol and other classic stories,en-gb,audio-book,dc3408c3-8c5d-42f6-a058-8d1dfb5380e5,https://tonies.com/en-gb/tonies/favourite-children-s-songs/a-christmas-carol/,1,0,0,0
 10000196,Favourite Children’s Songs,,Bedtime Songs & Lullabies 2,en-gb,music,,,1,0,0,0
 10000197,Favourite Children’s Songs,,Counting Songs / Times,en-gb,music,,,1,0,0,0
 10000199,Sven van Thom,,Tanz den Spatz,de-de,music,,,1,1,1,2
