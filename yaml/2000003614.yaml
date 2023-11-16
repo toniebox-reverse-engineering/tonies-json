@@ -6,13 +6,26 @@ data:
   episode: Ist doch gar nicht schlimm
   release: 0
   language: de-de
-  category: null
+  category: audio-book-songs
   runtime: 0
   age: 4
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_78018b301f6ba1d78ca4799e07d3c54151a49a59a492df87a99a9d2f/3_7yMHfDxlVnfVYtHg/bobo_siebenschlafer_ist_doch_gar_nicht_schlimm_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/4fe52a511157028dba89aca3ca59c9295a7116b6af83a9a1f3827bf0/4066338903587_preview.mp3
   web: https://tonies.com/de-de/audio-content/bobo-siebenschlaefer/ist-doch-gar-nicht-schlimm/
   shop-id: b6fc19cf-5245-40a9-b259-1bd38f745748
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
   ids: []

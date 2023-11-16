@@ -6,7 +6,7 @@ data:
   episode: Bobo Siebenschläfer bekommt ein Geschwisterchen
   release: 0
   language: de-de
-  category: null
+  category: audio-book
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bobo-siebenschlaefer/bobo-siebenschlafer-bekommt-ein-geschwisterchen/
   shop-id: eb930fb0-3575-4fbc-b1c8-ac8337a50979
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
   ids: []

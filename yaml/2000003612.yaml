@@ -6,7 +6,7 @@ data:
   episode: Das Beste von Bobo Siebenschläfer
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,15 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bobo-siebenschlaefer/das-beste-von-bobo-siebenschlafer/
   shop-id: 8377c2f8-635c-44da-95f8-c35ae5e2a6a5
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
   ids: []

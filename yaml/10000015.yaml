@@ -2,19 +2,46 @@ article: '10000015'
 lock-data: false
 data:
 - series: The Little Prince
-  series-id: null
+  series-id: the-little-prince
   episode: The Little Prince
   release: 0
   language: en-gb
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 100
+  age: 8
   origin: stock
   image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000015-50000055-b-O-uyd534.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/705718ca21981ed45a8c93247c12fca7fe77b55841f4d46c9d472f95/hoerrpobe_the_little_prince.mp3
+  web: https://tonies.com/en-gb/tonies/the-little-prince/the-little-prince/
+  shop-id: 67738c23-c4ce-4a3c-8de4-69b957fee4ba
+  track-desc:
+  - When I was six years old
+  - And so I lived all alone
+  - It took me a long time to realise
+  - I had thus learned a second very important thing
+  - Every day I learned something new
+  - Ah, little prince
+  - On the fifth day
+  - I soon got to know much more about this flower
+  - I think that
+  - He found himself travelling through the region
+  - The second planet was inhabited by a man
+  - The next planet was inhabited by a drinker
+  - The fourth planet belonged to a businessman
+  - The fifth planet was very strange
+  - The sixth planet was ten times bigger
+  - The seventh planet, then, was Earth
+  - In trying to be witty
+  - The little prince crossed the desert
+  - The little prince climbed up a high mountain
+  - After the little prince had walked for ages
+  - At this moment the fox arrived
+  - '"Good morning," said the little prince'
+  - '"Good morning," said the little prince'
+  - We were now into the eight day
+  - '"People crowd into express trains,"'
+  - Beside the well were the ruins of an old stone wall
+  - The fact is that six years have passed now
   ids:
   - audio-id: 1537369489
     hash: 747d95f438f4b1918cd7f28669df1ae5afab11cb

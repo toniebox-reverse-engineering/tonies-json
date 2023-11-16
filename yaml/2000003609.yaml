@@ -6,7 +6,7 @@ data:
   episode: Bobo Siebenschläfer ist wieder da
   release: 0
   language: de-de
-  category: null
+  category: audio-book-songs
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,14 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bobo-siebenschlaefer/bobo-siebenschlafer-ist-wieder-da/
   shop-id: 1fc0974e-e6d4-49e6-89aa-54e41c77c8ba
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
   ids: []

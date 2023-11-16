@@ -6,7 +6,7 @@ data:
   episode: Bobo Siebenschläfer wird nicht müde
   release: 0
   language: de-de
-  category: null
+  category: audio-book-songs
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,14 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bobo-siebenschlaefer/bobo-siebenschlafer-wird-nicht-mude/
   shop-id: 8405e163-b46f-439d-bb5d-3d30551ec771
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
   ids: []

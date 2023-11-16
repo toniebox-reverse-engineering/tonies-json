@@ -14,5 +14,11 @@ data:
   sample: https://cdn.tonies.de/o/audio_samples/f7c535fb5554f67555091dcf612a4305476d2989733e77b75cabc231/the_snail_and_the_whale_sample_fb.wav
   web: https://tonies.com/en-gb/tonies/julia-donaldson/the-snail-and-the-whale-the-smartest-giant-in-town/
   shop-id: 1cee4a92-a50d-4395-88d0-facdab646dc2
-  track-desc: []
+  track-desc:
+  - The Snail and the Whale
+  - The Snail and the Whale Read Along
+  - The Snail and the Whale Song
+  - The Smartest Giant in Town
+  - The Smartest Giant in Town Read Along
+  - The Smartest Giant in Town Song
   ids: []
