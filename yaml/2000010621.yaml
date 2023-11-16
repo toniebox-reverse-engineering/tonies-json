@@ -1,0 +1,59 @@
+article: '2000010621'
+lock-data: false
+data:
+- series: Der kleine Vampir
+  series-id: der-kleine-vampir
+  episode: Der kleine Vampir in Gefahr - Der kleine Vampir, Band 6 (Ungekürzte Lesung
+    mit Musik)
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/d54449f52422d7cf6f5265f32a762a146140be012d4ad8e85020d7a6/3_xVG4kcSLQvV9r9WR/der_kleine_vampir_006_der_kleine_vampir_in_gef_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/6a926cad715c9f6bcbf7eec56c8593588daa928d2a8644f86bb6c788/9783732442270_001_001_128.mp3
+  web: https://tonies.com/de-de/audio-content/der-kleine-vampir/der-kleine-vampir-in-gefahr-der-kleine-vampir-band/
+  shop-id: 64a5aa54-d5bb-43a7-ad97-1fef7583beb6
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
+  - Kapitel 20
+  - Kapitel 21
+  - Kapitel 22
+  - Kapitel 23
+  - Kapitel 24
+  - Kapitel 25
+  - Kapitel 26
+  - Kapitel 27
+  - Kapitel 28
+  - Kapitel 29
+  - Kapitel 30
+  - Kapitel 31
+  - Kapitel 32
+  - Kapitel 33
+  - Kapitel 34
+  - Kapitel 35
+  - Kapitel 36
+  - Kapitel 37
+  - Kapitel 38
+  - Kapitel 39
+  - Kapitel 40
+  ids: []
