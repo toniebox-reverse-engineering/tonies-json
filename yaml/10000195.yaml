@@ -1,18 +1,23 @@
 article: '10000195'
 lock-data: false
 data:
-- series: Favourite Classics
-  series-id: null
+- series: Favourite Children's Songs
+  series-id: favourite-children-s-songs
   episode: A Christmas Carol and other classic stories
   release: 0
   language: en-gb
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 90
+  age: 3
   origin: stock
   image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000195-50000904-b-qBQYIFH_.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/bd206c8c79a546d404512f5551c78e2916947fb8c1fb08d3674634b5/audio_sample_fc_a_christmas_carol_ext.mp3
+  web: https://tonies.com/en-gb/tonies/favourite-children-s-songs/a-christmas-carol/
+  shop-id: dc3408c3-8c5d-42f6-a058-8d1dfb5380e5
+  track-desc:
+  - Charles Dickens - A Christmas Carol
+  - Hugh Lofting - The Story of Dr. Dolittle
+  - Lucy Maud Montgomery - Anne of Green Gables
+  - Charles Dickens - Oliver Twist
+  - Jules Verne - Journey to the Center of the Earth
   ids: []
