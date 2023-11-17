@@ -1,8 +1,8 @@
 article: '10000485'
 lock-data: false
 data:
-- series: Dreamworks
-  series-id: dreamworks
+- series: Spirit
+  series-id: spirit
   episode: Spirit - Untamed
   release: 1651536000
   language: en-gb
@@ -12,7 +12,7 @@ data:
   origin: stock
   image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000485-50001521-b-uEXcMeFG.png
   sample: https://cdn.tonies.de/o/audio_samples/64b8449dc930a75103b91b3b7863c1482688a3d9fc2878524748ee0b/spirit_audio_sample.mp3
-  web: https://tonies.com/en-gb/tonies/dreamworks/spirit/
+  web: https://tonies.com/en-gb/tonies/spirit/spirit/
   shop-id: 54628d11-5b8f-4f7b-bd8b-c59b976f5430
   track-desc:
   - STORY- Spirit Untamed
