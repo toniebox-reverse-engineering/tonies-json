@@ -28,6 +28,7 @@ jobs:
         with:
           repository: toniebox-reverse-engineering/tonies-json-tools
           path: tonies-json-tools
+          ssh-key: ${{ secrets.TONIES_JSON_TOOLS_PRIVATE_SSH_KEY }}
       - name: Checkout YAMLs
         uses: actions/checkout@v4
         with:
