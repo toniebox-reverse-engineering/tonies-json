@@ -1,0 +1,80 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Update webscrape
+
+# Controls when the workflow will run
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+  schedule:
+    - cron: "0 5,18 * * *"
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Checkout tools
+        uses: actions/checkout@v4
+        with:
+          repository: toniebox-reverse-engineering/tonies-json-tools
+          path: tonies-json-tools
+          ssh-key: ${{ secrets.TONIES_JSON_TOOLS_PRIVATE_SSH_KEY }}
+      - name: Checkout YAMLs
+        uses: actions/checkout@v4
+        with:
+          repository: toniebox-reverse-engineering/tonies-json
+          path: tonies-json
+
+      - name: Prepare python
+        run: |
+          pip install requests protobuf
+          
+      - name: Prepare directories
+        run: |
+          cd tonies-json-tools
+          ./create_dirs.py
+          
+      - name: Run web_scrape.py
+        run: |
+          cd tonies-json-tools
+          ./web_scrape.py
+
+      - name: Configure Git
+        run: |
+          git config --global user.email "scilor@users.noreply.github.com"
+          git config --global user.name "SciLor"
+          
+      - name: Git status
+        run: |
+          cd tonies-json
+          git status
+
+      - name: Commit and push if changed
+        run: |
+          cd tonies-json
+      
+          # Commit changes in the 'source-yaml' directory
+          if [[ -n $(git status source-yaml/ --porcelain) ]]; then
+            git add source-yaml/
+            git commit -m "Auto-Update webscrape (source)"
+          else
+            echo "No changes in 'source-yaml' to commit."
+          fi
+      
+          # Commit changes in the 'yaml' directory
+          if [[ -n $(git status yaml/ --porcelain) ]]; then
+            git add yaml/
+            git commit -m "Auto-Update webscrape"
+          else
+            echo "No changes in 'yaml' to commit."
+          fi
+      
+          # Pull and push changes for both directories
+          git pull --rebase
+          git push
