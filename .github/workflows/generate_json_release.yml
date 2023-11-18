@@ -40,6 +40,12 @@ jobs:
           repository: toniebox-reverse-engineering/tonies-json
           ref: release
           path: tonies-json-release
+      - name: Checkout auth
+        uses: actions/checkout@v4
+        with:
+          repository: toniebox-reverse-engineering/tonies-json-auth
+          path: tonies-json-auth
+          ssh-key: ${{ secrets.TONIES_JSON_AUTH_PRIVATE_SSH_KEY }}
           
       - name: Delete old artifacts tonies-json-release
         run: |
@@ -59,6 +65,11 @@ jobs:
         run: |
           cd tonies-json-tools
           ./yaml2tonies-json.py
+          
+      - name: Run stats.py
+        run: |
+          cd tonies-json-tools
+          ./stats.py
 
       - name: Check if files exist
         run: |
@@ -80,7 +91,7 @@ jobs:
           cd tonies-json-release
           if [[ -n $(git status --porcelain) ]]; then
             git add .
-            git commit -m "Auto-Update tonies.json and toniesV2.json"
+            git commit -m "Auto-Update tonies.json, toniesV2.json and the stats"
             git pull --rebase
             git push
           else
