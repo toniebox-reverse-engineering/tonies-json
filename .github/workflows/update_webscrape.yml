@@ -30,6 +30,7 @@ jobs:
         with:
           repository: toniebox-reverse-engineering/tonies-json
           path: tonies-json
+          ssh-key: ${{ secrets.TONIES_JSON_PRIVATE_SSH_KEY }}
 
       - name: Prepare python
         run: |
