@@ -11,8 +11,32 @@ data:
   age: 4
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_6c4d52046dfead4a64b289f396bcfef4012ad38faf8a43c600e9528b/3_MF4JZ1wbklmV2d7l/michel_aus_lonneberga_003_michiel_zet_zijn_bes_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/4926a80873262a08b993a4742526cfc8ff3c32a7aed8a27979897fbd/9789047629849_luisterfragment.wav
   web: https://tonies.com/de-de/audio-content/michel-aus-loenneberga/michiel-zet-zijn-beste-beentje-voor/
   shop-id: 30fb0131-561e-45ba-a9d2-37d670fb6599
-  track-desc: []
+  track-desc:
+  - Michiel Zet Zijn Beste Beentje Voor
+  - Zaterdag 12 Juni
+  - Nog Voordat Hij Van Zn Paard Gesprongen Was
+  - Laten We Ervoor Zorgen Dat Ze Door Niemand Gestoord Worden
+  - Michiel Gooide De Broodschieter Op De Grond
+  - Michiels Moeder Stond Voor Het Keukenraam
+  - Zondag 13 Juni
+  - Plop Nou Ik Bedank Voor De Eer
+  - Het Kwam Eigelijk Wel Goed Uit Dat Lina Boos Was
+  - Augustus
+  - Ida Klapte In De Handjes Van De Pret
+  - De Kikker Kwam Weldra Uit De Broekspijp Tevoorschijn
+  - Michiel Begreep Niet Wat De Haan Bezielde
+  - Alfred Was De Enige Die Zijn Zinnen Bij Elkaar Hield
+  - Maar Michiel Hoefde Alleen Maar Eventjes
+  - Een Paar Tussendagen Uit Het Leven Van Michiel
+  - Michiel Had In Zijn Spaarpot Al 50 Gulden
+  - Zondag 14 November
+  - Michiels Vader Raakte Helemaal Over Zijn Theewater
+  - Zaterdag 18 December
+  - Dezelfde Middag Nog Ging Hij Een Kijkje Nemen
+  - Michiel Hoorde Wat Ze Zei En Begon Te Huilen
+  - Leef Je Nog Alfred
+  - De Vader Van Michiel
   ids: []

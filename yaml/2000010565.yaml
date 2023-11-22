@@ -11,8 +11,18 @@ data:
   age: 4
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_a82746c9375daa33e8ed6afd3ad08c916601c98ad963c9c7eac5ecb3/3_F8DnxFhnflBDp4z9/michel_aus_lonneberga_001_michiel_zet_alles_op_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/11a529750dd69ebb6aa19fe6fe04b790346aea632b81f96f6c69056f/9789047628484_luisterfragment.wav
   web: https://tonies.com/de-de/audio-content/michel-aus-loenneberga/michiel-zet-alles-op-zijn-kop/
   shop-id: 7689a51c-c4b7-4bf5-8d62-cd8268311fba
-  track-desc: []
+  track-desc:
+  - Michiel Zet Alles Op Zijn Kop
+  - Dinsdag 22 Mei
+  - Het Was Vol In De Wachtkamer Van De Dokter
+  - Zondag 10 Juni
+  - Ja Michiel Zorgde Er Wel Voor Dat Ida Leuke Dingen Beleefde
+  - Michiels Vader Holde Onmiddellijk Naar De Timmerschuur
+  - Zondag 8 Juli
+  - Na Heel Veel Gehobbel En Gehinkepink
+  - Zonder Eten Kan Ik De Boel Niet Op Zn Kop Zetten
+  - De Dame Met De Baard Werd Helemaal Pips In Haar Gezicht
   ids: []

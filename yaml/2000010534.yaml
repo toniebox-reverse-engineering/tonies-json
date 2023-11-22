@@ -1,0 +1,26 @@
+article: '2000010534'
+lock-data: false
+data:
+- series: Juf Roos
+  series-id: juf-roos-2
+  episode: Bibber bibber met Juf Roos
+  release: 0
+  language: nl-nl
+  category: audio-book-songs
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_c56f2a9eaa3ca9d52767b15a2040e8da804a2941a4d1e73e58ce286d/3_-hNhjvFSFprJb9Qm/juf_roos_bibber_bibber_met_juf_roos_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/abe00ce14bfc42ca004af22598821098fd03738664da7a19229ec8c9/9789047630722_luisterfragment.wav
+  web: https://tonies.com/de-de/audio-content/juf-roos-2/bibber-bibber-met-juf-roos/
+  shop-id: 570bd17a-ae5a-4c06-a5a4-7d95a7d2ab81
+  track-desc:
+  - 1 Kok
+  - 2 Dj
+  - 3 Astronaut
+  - 4 Logeren
+  - 5 Opa
+  - 6 Skileraar
+  - 7 Sinterklaas Kom Maar Binnen - Rommel De Bommel - De Zak Van Sinterklaas
+  - 8 Hij Komt Hij Komt - Zachtjes Gaan De Paardenvoetjes
+  ids: []

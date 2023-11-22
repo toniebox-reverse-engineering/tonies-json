@@ -11,8 +11,28 @@ data:
   age: 4
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_255c71d5d0c60685202ffec3871bc8eace1a3719823a2fcfc792be54/3_czFF3Ys_bX26wgk~/lotta_lotta_uit_de_kabaalstraat_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/46e193430cbace977ea85e37e8e0469b22d42904ed5ea50560cdc524/9789047628453_luisterfragment.wav
   web: https://tonies.com/de-de/audio-content/lotta/lotta-uit-de-kabaalstraat/
   shop-id: 5a873976-9d0b-4e14-9d2b-749386cc5715
-  track-desc: []
+  track-desc:
+  - Lotta Uit De Kabaalstraat
+  - Lotta Is Zo Kinderachtig
+  - We Spelen De Hele Dag
+  - Lotta Is Zo Koppig
+  - Er Is Geen Lievere
+  - We Maken Een Uitstapje
+  - Nu Riep Mama
+  - We Gaan Naar Opa
+  - Het Lijkt Wel Of Lotta
+  - Lotta Heeft Een Stropdag
+  - Lotta Is Een Negerslaaf
+  - We Hebben Het Zo Fijn
+  - Net Op Dat Ogenblik
+  - Iedereen Is Zo Gemeen
+  - Nu Begon Lotta
+  - Lotta Gaat Verhuizen
+  - Waar Moet Lotta Nu
+  - En Mevrouw Berg
+  - Lotta Krijgt Bezoek
+  - Ik Ben Naar Mijn Eigen Huis
   ids: []

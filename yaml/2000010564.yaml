@@ -11,8 +11,27 @@ data:
   age: 4
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_8bad6b86376896f9010d75865af06250da57caf7b08b17947445f011/3_W5X6K_9QLnl8pK-5/michel_aus_lonneberga_002_michiel_laat_de_popp_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/3391af534eaf58b04d7481a48a01fde7fef8946a5f551a617a54e610/9789047629832_luisterfragment.wav
   web: https://tonies.com/de-de/audio-content/michel-aus-loenneberga/michiel-laat-de-poppetjes-dansen/
   shop-id: 0c30159c-e435-4463-8da7-8e4af5f26e2a
-  track-desc: []
+  track-desc:
+  - Michiel Laat De Poppetjes Dansen
+  - Zaterdag 28 Juli
+  - Michiels Moeder Zette De Haak Aan De Buitenkant Vast
+  - Blup Klokte Michiels Vader Voor De Tweede Keer
+  - Alfred Zat Op Zijn Trekharmonica Te Spelen
+  - Woensdag 31 Oktober
+  - Hoeveel Kost Dat Beest
+  - Michiels Vader En Moeder En Kleine Ida
+  - Michiel Had Er Niets Op Tegen Om Naar Buiten Te Gaan
+  - Eigenlijk Wilde Hij Zijn Paard Natuurlijk Helemaal Niet Kwijt
+  - Gek Genoeg Moest Iedereen Opeens Vreselijk Lachen
+  - Woensdag 26 December
+  - Het Duurde Niet Lang Of De Winter Kwam Opdagen
+  - Ook Op Eerste Kerstdag Was Michiel Als Onder Een Hoedje Te Vangen
+  - Eerste Kerstdag Was Net Zo Verlopen
+  - Michiel Begon Onmiddellijk Aan De Deur Te Rukken
+  - Kleine Ida Begreep Best Dat Alleen Uitgehongerde Mensen Zo Eten
+  - Als Bij Toverslag Komt De Bazin Nu Weer Tot Zichzelf
+  - Ze Ging Zo Vreselijk Te Keer Dat Michiel Zelfs Medelijden Met Haar Kreeg
   ids: []
