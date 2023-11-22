@@ -6,13 +6,28 @@ data:
   episode: 'Folgen 13-15: Rettung in letzter Sekunde'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_727d2883270998efc4107bee542c23b1a8fa21c2e23793669ea51dc4/3_lBhbS8KkxB.F~B8T/lego_ninjago_013_folgen_13_15__rettung_in_letz_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/b1cc9d1e0190bfd0d6438fc9c5a87f412a7dc6a54f20a8f37d9872aa/4013575901654_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-13-15-rettung-in-letzter-sekunde/
   shop-id: 2d2b94a0-1963-4d4e-8e34-fd759a79cf49
-  track-desc: []
+  track-desc:
+  - 'Folge 13: Rettung in letzter Sekunde - Track 1'
+  - 'Folge 13: Rettung in letzter Sekunde - Track 2'
+  - 'Folge 13: Rettung in letzter Sekunde - Track 3'
+  - 'Folge 13: Rettung in letzter Sekunde - Track 4'
+  - 'Folge 14: Finsternis zieht herauf - Track 1'
+  - 'Folge 14: Finsternis zieht herauf - Track 2'
+  - 'Folge 14: Finsternis zieht herauf - Track 3'
+  - 'Folge 14: Finsternis zieht herauf - Track 4'
+  - 'Folge 14: Finsternis zieht herauf - Track 5'
+  - 'Folge 15: Piraten gegen Ninja - Track 1'
+  - 'Folge 15: Piraten gegen Ninja - Track 2'
+  - 'Folge 15: Piraten gegen Ninja - Track 3'
+  - 'Folge 15: Piraten gegen Ninja - Track 4'
+  - 'Folge 15: Piraten gegen Ninja - Track 5'
+  - 'Folge 15: Piraten gegen Ninja - Track 6'
   ids: []

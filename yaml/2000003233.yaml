@@ -6,13 +6,27 @@ data:
   episode: 'Folge 01: Die geheimnisvolle Truhe'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_b135110d15cf7f257889d3350f520a37cb53fa3faf74b645157c2299/3_G4z_drHQ7GWc-B8J/schleich_horse_club_001_folge_01__die_geheimni_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/6227b6725909e759501ebe532d0d2dd6a632000091284a2dd5ab84eb/4013575901029_preview.mp3
   web: https://tonies.com/de-de/audio-content/schleich-horse-club/folge-01-die-geheimnisvolle-truhe/
   shop-id: 1a989a31-1f3f-406f-8fa1-29be73b055e7
-  track-desc: []
+  track-desc:
+  - Kapitel 01
+  - Kapitel 02
+  - Kapitel 03
+  - Kapitel 04
+  - Kapitel 05
+  - Kapitel 06
+  - Kapitel 07
+  - Kapitel 08
+  - Kapitel 09
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
   ids: []

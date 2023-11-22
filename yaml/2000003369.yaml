@@ -6,13 +6,40 @@ data:
   episode: 'Folgen 52-56: Harl und Poppy'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 7
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_69a456ee281c0196df5f56ef0696b7f0c9729e935e519414ecdcf37b/3_kHw4dnbd29YRLNx3/lego_city_abenteuer_011_folgen_52_56__harl_und_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/5097f2cd62ec6187da3abbfc2cadbc4ce68d396ba2cc4439d2ba3dab/4013575927531_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-city-abenteuer/folgen-52-56-harl-und-poppy/
   shop-id: 80208cb4-bca1-4dc2-b20c-ca76bbd98561
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Harl und Poppy (Folge 52)'
+  - 'Kapitel 02: Harl und Poppy (Folge 52)'
+  - 'Kapitel 03: Harl und Poppy (Folge 52)'
+  - 'Kapitel 04: Harl und Poppy (Folge 52)'
+  - 'Kapitel 05: Harl und Poppy (Folge 52)'
+  - 'Kapitel 06: Harl und Poppy (Folge 52)'
+  - 'Kapitel 01: Klein ganz Groß (Folge 53)'
+  - 'Kapitel 02: Klein ganz Groß (Folge 53)'
+  - 'Kapitel 03: Klein ganz Groß (Folge 53)'
+  - 'Kapitel 04: Klein ganz Groß (Folge 53)'
+  - 'Kapitel 05: Klein ganz Groß (Folge 53)'
+  - 'Kapitel 01: Grünes Licht (Folge 54)'
+  - 'Kapitel 02: Grünes Licht (Folge 54)'
+  - 'Kapitel 03: Grünes Licht (Folge 54)'
+  - 'Kapitel 04: Grünes Licht (Folge 54)'
+  - 'Kapitel 05: Grünes Licht (Folge 54)'
+  - 'Kapitel 06: Grünes Licht (Folge 54)'
+  - 'Kapitel 01: Meine coole Tante Freya (Folge 55)'
+  - 'Kapitel 02: Meine coole Tante Freya (Folge 55)'
+  - 'Kapitel 03: Meine coole Tante Freya (Folge 55)'
+  - 'Kapitel 04: Meine coole Tante Freya (Folge 55)'
+  - 'Kapitel 05: Meine coole Tante Freya (Folge 55)'
+  - 'Kapitel 01: Die stehende Kuh des Flachlands (Folge 56)'
+  - 'Kapitel 02: Die stehende Kuh des Flachlands (Folge 56)'
+  - 'Kapitel 03: Die stehende Kuh des Flachlands (Folge 56)'
+  - 'Kapitel 04: Die stehende Kuh des Flachlands (Folge 56)'
+  - 'Kapitel 05: Die stehende Kuh des Flachlands (Folge 56)'
   ids: []

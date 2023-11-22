@@ -11,8 +11,16 @@ data:
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/abc009e80ddce0b984f1f80e3d472b2d0d8d39598a7b9c6eafa26f71/3_bm8fzr7SXfxN--NS/cry_babies_historias_de_halloween_das_cry_babies_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/18c9a9efaf9c832b01128d6cc46edb5b0067bd856c0c3d0f9d6f9651/9788419576354_preview.mp3
   web: https://tonies.com/de-de/audio-content/cry-babies/historias-de-halloween-das-cry-babies/
   shop-id: e1f5a63c-4832-4b95-a0aa-faf4a3c60847
-  track-desc: []
+  track-desc:
+  - Bem-vindo
+  - O mistério do Halloween
+  - O fantasma meleca - Parte 1
+  - O fantasma meleca - Parte 2
+  - O curioso caso da Cammy
+  - As Olimpíadas Fantasy
+  - Lena é uma Youtuber
+  - Créditos finais
   ids: []

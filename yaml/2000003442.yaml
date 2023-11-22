@@ -6,13 +6,23 @@ data:
   episode: 'Folge 10: Die Schülersprecher-Wahl'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_5f55929f7104e17c59055c3ec80488eff5f705d5792ccaaf6c1609f1/3_yZJbtT.gT~FVvC7x/lego_friends_010_folge_10__die_schulersprecher_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/b5fefb89b54d15aa8b1ab13d8f9276480e0f3f5f1767f88f3976b6fb/4013575901456_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-friends/lego-friends-folge-10-die-schulersprecher-wahl/
   shop-id: 9452367b-d915-49ce-8496-d7594f3478a9
-  track-desc: []
+  track-desc:
+  - Die Schülersprecher-Wahl - Track 1
+  - Die Schülersprecher-Wahl - Track 2
+  - Die Schülersprecher-Wahl - Track 3
+  - Die Schülersprecher-Wahl - Track 4
+  - Die Schülersprecher-Wahl - Track 5
+  - Die Schülersprecher-Wahl - Track 6
+  - Die Schülersprecher-Wahl - Track 7
+  - Die Schülersprecher-Wahl - Track 8
+  - Die Schülersprecher-Wahl - Track 9
+  - Die Schülersprecher-Wahl - Track 10
   ids: []

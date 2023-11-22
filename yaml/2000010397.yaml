@@ -6,13 +6,15 @@ data:
   episode: Here Comes Pimpa
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
   image: https://cdn.tonies.de/o/images/b35dbaa61bff7182efa3adb147d6b3f64ddbdb7c20da31df79dbf491/3_PmVjC5v660Hz0ZQT/pimpa_here_comes_pimpa_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/4ff140494c5ea72d74dfdc8155aced2f577a77679e7f0948062433e0/9788728009031.mp3
   web: https://tonies.com/de-de/audio-content/pimpa/here-comes-pimpa/
   shop-id: 1898011e-c6e6-47b9-bc7d-baf6992c6697
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
   ids: []

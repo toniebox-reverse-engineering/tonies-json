@@ -6,13 +6,30 @@ data:
   episode: Die Eisenbahn
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_d99fe182431daa985fcb5e274134066ae20c9879f2d7639d5ad4d019/3_V.1dG2~-2LYhkZqP/wieso_weshalb_warum_junior_009_die_eisenbah_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/8a4f4c23d9a4341d49d729044481c5b08f8f2bec071e3fc5abfcdc57/4057664889447_preview.mp3
   web: https://tonies.com/de-de/audio-content/wieso-weshalb-warum-junior-2/die-eisenbahn/
   shop-id: f8182857-09ad-443b-8daf-cef3c9dabe95
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
   ids: []

@@ -6,13 +6,21 @@ data:
   episode: 'Folge 01: Tierisch gute Freunde'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_ae23af35ba07d1d464f8d6818fe2d80c5897124bfd9c8b83ec601864/3_fXt6ZVDHG_nMryxS/lego_friends_001_folge_01__tierisch_gute_freun_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/a5f6d342a630334af7f5d231ce035b9a43c2b2b9c706f16b18b7f1d2/4013575901364_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-friends/lego-friends-folge-01-tierisch-gute-freunde/
   shop-id: 95e3b603-cbe9-4dc4-a53b-b6bd5669556d
-  track-desc: []
+  track-desc:
+  - Kapitel 01
+  - Kapitel 02
+  - Kapitel 03
+  - Kapitel 04
+  - Kapitel 05
+  - Kapitel 06
+  - Kapitel 07
+  - Kapitel 08
   ids: []

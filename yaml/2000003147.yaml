@@ -6,13 +6,35 @@ data:
   episode: Die Baustelle
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_cc14bfad67f59450a8909f3b8bcd5b00433f415d9b867ab4c3f4a4bc/3_kqFsk1fXMBCK~0jx/wieso_weshalb_warum_junior_007_die_baustell_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/50e43596b539d80d62e66631cb80b3f1576b7bb0c014d6366877045e/4057664889362_preview.mp3
   web: https://tonies.com/de-de/audio-content/wieso-weshalb-warum-junior-2/die-baustelle/
   shop-id: 8ee5f717-4933-49be-afe2-8c446f71e799
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
+  - Kapitel 20
+  - Kapitel 21
+  - Kapitel 22
   ids: []

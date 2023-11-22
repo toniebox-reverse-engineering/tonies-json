@@ -6,13 +6,32 @@ data:
   episode: Die geheime Macht der Zauberflöte
   release: 0
   language: de-de
-  category: null
+  category: audio-book
   runtime: 0
   age: 8
   origin: tunes
   image: https://cdn.tonies.de/o/images/be97d5433f030f08bb3ad9623f87ff7a6e2673527d714785ca9f10c8/3_kwvfshztQ6cfVZq5/das_magische_baumhaus_039_die_geheime_macht_de_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/3825863d433db3fbbf177d0865ee8a70aa4b4fdd63a99040e006cf6e/9783844912371_preview.mp3
   web: https://tonies.com/de-de/audio-content/das-magische-baumhaus/die-geheime-macht-der-zauberflote/
   shop-id: e923f109-e4d9-4162-b270-56236149f613
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
   ids: []

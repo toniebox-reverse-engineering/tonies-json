@@ -6,13 +6,26 @@ data:
   episode: Im Tal der Löwen
   release: 0
   language: de-de
-  category: null
+  category: audio-book
   runtime: 0
   age: 8
   origin: tunes
   image: https://cdn.tonies.de/o/images/d5a9a91accc8406d2e4e629582d50b2e15746fcda6e73b506c68e4f0/3_G0y352JH9-Xz4DRH/das_magische_baumhaus_011_im_tal_der_lowen_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/bec6c10027937b145311b5191219b93ac6c4bf2ec1b66fd366ef33a7/9783844912456_preview.mp3
   web: https://tonies.com/de-de/audio-content/das-magische-baumhaus/im-tal-der-lowen/
   shop-id: 28e82f5b-77db-4fc2-a437-9219e4ad1fd3
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
   ids: []

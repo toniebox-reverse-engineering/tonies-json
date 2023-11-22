@@ -6,13 +6,51 @@ data:
   episode: Der kleine Tiger wünscht sich Tigerfreunde
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
   image: https://cdn.tonies.de/o/images/147e4ae37c577fc482a18290b19567364114dac1ba1dbae461af15a3/3__ZmbQx1kj~497n8r/janosch_der_kleine_tiger_wunscht_sich_tigerfreun_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/6a1f25a049a525413aa8cf4b0391ef8ace3ec0e453ff810eae13bb37/fickel_der_kleine_tiger_wunscht_sich_tigerfreunde_9783837310702.wav
   web: https://tonies.com/de-de/audio-content/janosch/der-kleine-tiger-wunscht-sich-tigerfreunde/
   shop-id: 188161cc-72ba-4d6a-9f0a-d961123ee8ee
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Der kleine Tiger wünscht sich Tigerfreunde'
+  - 'Kapitel 02: Der kleine Tiger wünscht sich Tigerfreunde'
+  - 'Kapitel 03: Der kleine Tiger wünscht sich Tigerfreunde'
+  - 'Kapitel 04: Der kleine Tiger wünscht sich Tigerfreunde'
+  - 'Kapitel 05: Der kleine Tiger wünscht sich Tigerfreunde'
+  - 'Kapitel 06: Der kleine Tiger wünscht sich Tigerfreunde'
+  - 'Kapitel 07: Der kleine Tiger wünscht sich Tigerfreunde'
+  - 'Kapitel 08: Der kleine Tiger wünscht sich Tigerfreunde'
+  - 'Kapitel 09: Der kleine Tiger wünscht sich Tigerfreunde'
+  - 'Kapitel 10: Der kleine Tiger wünscht sich Tigerfreunde'
+  - 'Kapitel 11: Der kleine Tiger wünscht sich Tigerfreunde'
+  - 'Kapitel 12: Der kleine Tiger wünscht sich Tigerfreunde'
+  - 'Kapitel 13: Der kleine Tiger wünscht sich Tigerfreunde'
+  - 'Kapitel 14: Der kleine Tiger wünscht sich Tigerfreunde'
+  - 'Kapitel 01: Der kleine Tiger ist beleidigt'
+  - 'Kapitel 02: Der kleine Tiger ist beleidigt'
+  - 'Kapitel 03: Der kleine Tiger ist beleidigt'
+  - 'Kapitel 04: Der kleine Tiger ist beleidigt'
+  - 'Kapitel 05: Der kleine Tiger ist beleidigt'
+  - 'Kapitel 06: Der kleine Tiger ist beleidigt'
+  - 'Kapitel 07: Der kleine Tiger ist beleidigt'
+  - 'Kapitel 08: Der kleine Tiger ist beleidigt'
+  - 'Kapitel 09: Der kleine Tiger ist beleidigt'
+  - 'Kapitel 10: Der kleine Tiger ist beleidigt'
+  - 'Kapitel 11: Der kleine Tiger ist beleidigt'
+  - 'Kapitel 12: Der kleine Tiger ist beleidigt'
+  - 'Kapitel 01: Der fremde Maulwurf'
+  - 'Kapitel 02: Der fremde Maulwurf'
+  - 'Kapitel 03: Der fremde Maulwurf'
+  - 'Kapitel 04: Der fremde Maulwurf'
+  - 'Kapitel 05: Der fremde Maulwurf'
+  - 'Kapitel 06: Der fremde Maulwurf'
+  - 'Kapitel 07: Der fremde Maulwurf'
+  - 'Kapitel 08: Der fremde Maulwurf'
+  - 'Kapitel 09: Der fremde Maulwurf'
+  - 'Kapitel 10: Der fremde Maulwurf'
+  - 'Kapitel 11: Der fremde Maulwurf'
+  - 'Kapitel 12: Der fremde Maulwurf'
   ids: []

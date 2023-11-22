@@ -6,13 +6,31 @@ data:
   episode: 'Folge 9: Müll'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_9bf870f57ec7f2e2530d892f7625c0b3968aee3fe0da07f6557e7002/3_9tq~b5gwX5BbvZ5c/find_s_raus_mit_benjamin_009_folge_9__mull_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/1d2a187a0b1ba2e19297ed7399b7e5d7fe557dd87ad0a81edefb7194/bb_frmb_hoerprobe_folge9_muell90sec.wav
   web: https://tonies.com/de-de/audio-content/find-s-raus-mit-benjamin/folge-9-mull/
   shop-id: 41af87f2-502b-4782-88ba-618efc84e98c
-  track-desc: []
+  track-desc:
+  - Titellied
+  - MÜLLFRAU UND MÜLLMANN
+  - Film ab für das Müll-Team!
+  - Die Müllabfuhr ist da!
+  - Miau aus der Tonne
+  - MÜLLFAHRZEUGE
+  - Ist da jemand
+  - Sandeep
+  - Eine Fahrt mit der Kehrmaschine
+  - MÜLL UND NATUR
+  - Frau Saubermanns Müllsack
+  - Der Müllkontinent
+  - Upcycling-Kunst
+  - MÜLLTRENNUNG
+  - Gut fürs Klima!
+  - Ein Fall für Ablage P
+  - Wer trennt besser
+  - 'Lied: Müllsong'
   ids: []

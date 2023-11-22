@@ -6,13 +6,40 @@ data:
   episode: Das Überraschungs-Picknick / Der Spielverderber / Selfie mit Heckenschrat
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/a551d7fe1386831829888000db6797ff056420003d3c2cd68f24cd17/3_K-24lWm6DmtNz01N/horspiele_zur_tv_serie_002_das_uberraschungs_p_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/fd5b8793232d574fb193f45103f53945b7104cac91b24bccddbca7ef/9783838796055_001_001_128.mp3
   web: https://tonies.com/de-de/audio-content/petronella-apfelmus-hoerspiele-zur-tv-serie/petronella-apfelmus-teil-2-das-uberraschungs-pickn/
   shop-id: 750cb94b-bb6a-4e6b-92e7-caf91775eb4d
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
+  - Kapitel 20
+  - Kapitel 21
+  - Kapitel 22
+  - Kapitel 23
+  - Kapitel 24
+  - Kapitel 25
+  - Kapitel 26
+  - Kapitel 27
   ids: []

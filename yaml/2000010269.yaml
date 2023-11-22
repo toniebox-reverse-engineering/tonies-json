@@ -6,13 +6,24 @@ data:
   episode: Die Olchis im Land der Ritter
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
   image: https://cdn.tonies.de/o/images/ff625c8e366bda01df6f78298b8b282a9c52978cf7cb91235cee5649/3_F9Wcf1M_3lcYKtjy/die_olchis_die_olchis_im_land_der_ritter_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/f9713cb4c2bb733f6fd7ace158f96260d37d365e4b0a175dea32727b/9783837367454_preview.mp3
   web: https://tonies.com/de-de/audio-content/die-olchis/die-olchis-im-land-der-ritter/
   shop-id: 0a06737f-2265-41d8-808e-446c6bccf6d7
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
   ids: []

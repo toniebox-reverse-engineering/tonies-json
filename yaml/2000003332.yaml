@@ -6,13 +6,28 @@ data:
   episode: Folge 1 - Polizei - Der unheimliche Mister X
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 7
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_0c9b3601d46d643ada75a373242e1360e043620278f723405f8df01d/3_ShSm0gWTssJm6pHJ/lego_city_001_folge_1_polizei_der_unheimli_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/3af4581c94f0bdec00be44aa38bf94d00c4a6d138d98f2c31c92fd45/4013575901111_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-city/lego-city-folge-1-polizei-der-unheimliche-mister-x/
   shop-id: 79ce62b8-e322-44ad-a67b-a49281405193
-  track-desc: []
+  track-desc:
+  - Radau! - Komm mit nach LEGO City (Intro)
+  - Polizei - Der unheimliche Mister X - Track 1
+  - Polizei - Der unheimliche Mister X - Track 2
+  - Polizei - Der unheimliche Mister X - Track 3
+  - Polizei - Der unheimliche Mister X - Track 4
+  - Polizei - Der unheimliche Mister X - Track 5
+  - Polizei - Der unheimliche Mister X - Track 6
+  - Polizei - Der unheimliche Mister X - Track 7
+  - Polizei - Der unheimliche Mister X - Track 8
+  - Polizei - Der unheimliche Mister X - Track 9
+  - Polizei - Der unheimliche Mister X - Track 10
+  - Polizei - Der unheimliche Mister X - Track 11
+  - Polizei - Der unheimliche Mister X - Track 12
+  - Polizei - Der unheimliche Mister X - Track 13
+  - Polizei - Der unheimliche Mister X - Track 14
   ids: []

@@ -6,13 +6,23 @@ data:
   episode: Das schnarchende Krokodil
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_6fdf5b5921884412012d6008cecb31c0753d02048226cda25d18e747/3_-BbzSGRcdTfFfD.M/benjamin_blumchen_gute_nacht_geschichten_020_d_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/8b26acc4e52ef29171704d5277a540151156e2ae38146923c90f7504/hoerprobe_425030_bb_gng_20_das_schnarchende_krokodil.wav
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen-gute-nacht-geschichten/das-schnarchende-krokodil/
   shop-id: c93d58d4-ee79-4e7d-8fb7-5db3c3204c7e
-  track-desc: []
+  track-desc:
+  - Schlafliedchen
+  - Das Schnarchende Krokodil
+  - Kuckuck
+  - Der Fleißige Musikant
+  - Im Krachmacherland
+  - Das Tropfkonzert
+  - Der Klopfgeist
+  - Der Trampeltanz
+  - Unter Wasser
+  - Schlafliedchen
   ids: []

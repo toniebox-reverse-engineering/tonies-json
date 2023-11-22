@@ -6,13 +6,18 @@ data:
   episode: Gewinnen und Verlieren
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_0de25a577bffbed9a479d2d87142a089536b015ab3da7b48233c5e21/3_cnTM94h4b._vCrnz/der_kleine_konig_032_gewinnen_und_verlieren_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/91a94cb91c42407c73904b95efcaaa005bd40ec81dcc1718bb2d2d42/32_probe.mp3
   web: https://tonies.com/de-de/audio-content/der-kleine-koenig/der-kleine-konig-gewinnen-und-verlieren/
   shop-id: d91ea457-930e-4a9f-a652-e237e7e05494
-  track-desc: []
+  track-desc:
+  - Pim Pam Pom
+  - Ein König verliert nicht
+  - Lied vom Verlieren
+  - Der Punktesammler
+  - Lied vom Verlieren (Instrumental)
   ids: []

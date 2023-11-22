@@ -6,13 +6,41 @@ data:
   episode: 'Folgen 82-84: Die Zeremonie'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_a84ab83458503648a24a6560ad021da5bf456bdb0ada714ad2f967e7/3_7XmxQrhg~bBxnPcS/lego_ninjago_082_folgen_82_84__die_zeremonie_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/0a533895d244da63b1f60fed8a7fc8ee6ba4598842ae9ce7f562402c/4013575901937_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-82-84-die-zeremonie/
   shop-id: 9fdb8648-18c2-4a2f-9312-2f60fd8a64a4
-  track-desc: []
+  track-desc:
+  - 'Folge 82: Die Zeremonie - Track 1'
+  - 'Folge 82: Die Zeremonie - Track 2'
+  - 'Folge 82: Die Zeremonie - Track 3'
+  - 'Folge 82: Die Zeremonie - Track 4'
+  - 'Folge 82: Die Zeremonie - Track 5'
+  - 'Folge 82: Die Zeremonie - Track 6'
+  - 'Folge 82: Die Zeremonie - Track 7'
+  - 'Folge 82: Die Zeremonie - Track 8'
+  - 'Folge 82: Die Zeremonie - Track 9'
+  - 'Folge 82: Die Zeremonie - Track 10'
+  - 'Folge 83: Die wahre Macht - Track 1'
+  - 'Folge 83: Die wahre Macht - Track 2'
+  - 'Folge 83: Die wahre Macht - Track 3'
+  - 'Folge 83: Die wahre Macht - Track 4'
+  - 'Folge 83: Die wahre Macht - Track 5'
+  - 'Folge 83: Die wahre Macht - Track 6'
+  - 'Folge 83: Die wahre Macht - Track 7'
+  - 'Folge 83: Die wahre Macht - Track 8'
+  - 'Folge 84: Kleines Ninjago, großer Ärger - Track 1'
+  - 'Folge 84: Kleines Ninjago, großer Ärger - Track 2'
+  - 'Folge 84: Kleines Ninjago, großer Ärger - Track 3'
+  - 'Folge 84: Kleines Ninjago, großer Ärger - Track 4'
+  - 'Folge 84: Kleines Ninjago, großer Ärger - Track 5'
+  - 'Folge 84: Kleines Ninjago, großer Ärger - Track 6'
+  - 'Folge 84: Kleines Ninjago, großer Ärger - Track 7'
+  - 'Folge 84: Kleines Ninjago, großer Ärger - Track 8'
+  - 'Folge 84: Kleines Ninjago, großer Ärger - Track 9'
+  - 'Folge 84: Kleines Ninjago, großer Ärger - Track 10'
   ids: []

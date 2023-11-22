@@ -6,13 +6,40 @@ data:
   episode: 'Folgen 25-26: Der Phantom-Saurier'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
   image: https://cdn.tonies.de/o/images/49aa114fb1147ec9f5e544a9bb1adcc750db8032f27c5c602a0cc455/3_hdJ.BW8mNtlM5sF1/schleich_dinosaurs_025_folgen_25_26__der_phant_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/c2975784f976ccd0399a56bc32306033c15bb542ffdf2e360cfe6846/4013575942213_preview.mp3
   web: https://tonies.com/de-de/audio-content/schleich-dinosaurs/folgen-25-26-der-phantom-saurier/
   shop-id: 6adb421d-6811-446d-8598-4e966b27d787
-  track-desc: []
+  track-desc:
+  - Inhaltsangabe - Der Phantom-Saurier (Folge 25)
+  - Intro Lied - Der Phantom-Saurier (Folge 25)
+  - 'Kapitel 01: Der Phantom-Saurier (Folge 25)'
+  - 'Kapitel 02: Der Phantom-Saurier (Folge 25)'
+  - 'Kapitel 03: Der Phantom-Saurier (Folge 25)'
+  - 'Kapitel 04: Der Phantom-Saurier (Folge 25)'
+  - 'Kapitel 05: Der Phantom-Saurier (Folge 25)'
+  - 'Kapitel 06: Der Phantom-Saurier (Folge 25)'
+  - 'Kapitel 07: Der Phantom-Saurier (Folge 25)'
+  - 'Kapitel 08: Der Phantom-Saurier (Folge 25)'
+  - 'Kapitel 09: Der Phantom-Saurier (Folge 25)'
+  - 'Kapitel 10: Der Phantom-Saurier (Folge 25)'
+  - 'Kapitel 11: Der Phantom-Saurier (Folge 25)'
+  - Outro - Der Phantom-Saurier (Folge 25)
+  - Inhaltsangabe - Kampf ums Wasser  (Folge 26)
+  - Intro Lied - Kampf ums Wasser (Folge 26)
+  - 'Kapitel 01: Kampf ums Wasser (Folge 26)'
+  - 'Kapitel 02: Kampf ums Wasser (Folge 26)'
+  - 'Kapitel 03: Kampf ums Wasser (Folge 26)'
+  - 'Kapitel 04: Kampf ums Wasser (Folge 26)'
+  - 'Kapitel 05: Kampf ums Wasser (Folge 26)'
+  - 'Kapitel 06: Kampf ums Wasser (Folge 26)'
+  - 'Kapitel 07: Kampf ums Wasser (Folge 26)'
+  - 'Kapitel 08: Kampf ums Wasser (Folge 26)'
+  - 'Kapitel 09: Kampf ums Wasser (Folge 26)'
+  - Team Dino Lied
+  - Outro - Kampf ums Wasser (Folge 26)
   ids: []

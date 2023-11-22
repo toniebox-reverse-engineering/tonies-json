@@ -6,13 +6,39 @@ data:
   episode: 'Folgen 124-127: Das Riesenhuhn'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/2c004c43e97eec038e20a3318f73073d9b9549227d0df6b7efac1f5f/3_jgw5zl9PlR_Wn9gW/paw_patrol_124_folgen_124_127__das_riesenhuhn_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/ba3fe5fac658cff8d82d12a947fee12340e6ee3e82878ba1284e9729/4013575914241_preview.mp3
   web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-124-127-das-riesenhuhn/
   shop-id: 92625d7d-80ff-47db-aaf2-efefae53087e
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Das Riesenhuhn (Folge 124)'
+  - 'Kapitel 02: Das Riesenhuhn (Folge 124)'
+  - 'Kapitel 03: Das Riesenhuhn (Folge 124)'
+  - 'Kapitel 04: Das Riesenhuhn (Folge 124)'
+  - 'Kapitel 05: Das Riesenhuhn (Folge 124)'
+  - 'Kapitel 06: Das Riesenhuhn (Folge 124)'
+  - 'Kapitel 07: Das Riesenhuhn (Folge 124)'
+  - 'Kapitel 01: Berthold mit dem Froststrahl (Folge 125)'
+  - 'Kapitel 02: Berthold mit dem Froststrahl (Folge 125)'
+  - 'Kapitel 03: Berthold mit dem Froststrahl (Folge 125)'
+  - 'Kapitel 04: Berthold mit dem Froststrahl (Folge 125)'
+  - 'Kapitel 05: Berthold mit dem Froststrahl (Folge 125)'
+  - 'Kapitel 06: Berthold mit dem Froststrahl (Folge 125)'
+  - 'Kapitel 01: Die goldene Statue (Folge 126)'
+  - 'Kapitel 02: Die goldene Statue (Folge 126)'
+  - 'Kapitel 03: Die goldene Statue (Folge 126)'
+  - 'Kapitel 04: Die goldene Statue (Folge 126)'
+  - 'Kapitel 05: Die goldene Statue (Folge 126)'
+  - 'Kapitel 06: Die goldene Statue (Folge 126)'
+  - 'Kapitel 01: Der Super-Besserwisser (Folge 127)'
+  - 'Kapitel 02: Der Super-Besserwisser (Folge 127)'
+  - 'Kapitel 03: Der Super-Besserwisser (Folge 127)'
+  - 'Kapitel 04: Der Super-Besserwisser (Folge 127)'
+  - 'Kapitel 05: Der Super-Besserwisser (Folge 127)'
+  - 'Kapitel 06: Der Super-Besserwisser (Folge 127)'
+  - 'Kapitel 07: Der Super-Besserwisser (Folge 127)'
   ids: []

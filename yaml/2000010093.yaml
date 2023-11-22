@@ -6,13 +6,23 @@ data:
   episode: Helden im Sturm (Das Original-Hörspiel zum Film)
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/0f230c88b4a676f2d29c132551f7057004041e0b4a047a2c99877db5/3_CHJXf7.hsvVC6_lY/feuerwehrmann_sam_helden_im_sturm_das_original__530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/71817ed4b23686c9af52a7a6bb4ec93963d395a880f8e87241ce1e8d/4260009919086_preview.mp3
   web: https://tonies.com/de-de/audio-content/feuerwehrmann-sam/helden-im-sturm-das-original-horspiel-zum-film/
   shop-id: 1544f18a-74c4-48f2-b320-2ed5a1358d6d
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Ein ganz normaler Tag in Pontypandy'
+  - 'Kapitel 02: Der Pistenfuchs'
+  - 'Kapitel 03: Tom und Moose'
+  - 'Kapitel 04: Die neue Feuerwache'
+  - 'Kapitel 05: Ungeschickter Elvis'
+  - 'Kapitel 06: Die Höhlenexpedition'
+  - 'Kapitel 07: Sam, Penny und die Kinder'
+  - 'Kapitel 08: In den Straßen von Pontypandy'
+  - 'Kapitel 09: Wo ist Joe?'
+  - 'Kapitel 10: Die Lage wird brenzlig'
   ids: []

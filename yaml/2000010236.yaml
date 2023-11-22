@@ -6,13 +6,37 @@ data:
   episode: 'Folge 11: Mission Lavawelt'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/49c7a073884e496479f4d278123aafd43c2bdb1e5a1571f0fff16cde/3_ml4cy4~ws5M9m66J/schleich_eldrador_creatures_011_folge_11__miss_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/ff8f08c1ca7d223985670949392a8892a76d43ca52eb5555282a349f/4013575929092_preview.mp3
   web: https://tonies.com/de-de/audio-content/schleich-eldrador-creatures/folge-11-mission-lavawelt/
   shop-id: c31bf9a6-c3f8-46c6-907b-eed40a5fb8dd
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Mission Lavawelt (Folge 11)'
+  - 'Kapitel 02: Mission Lavawelt (Folge 11)'
+  - 'Kapitel 03: Mission Lavawelt (Folge 11)'
+  - 'Kapitel 04: Mission Lavawelt (Folge 11)'
+  - 'Kapitel 05: Mission Lavawelt (Folge 11)'
+  - 'Kapitel 06: Mission Lavawelt (Folge 11)'
+  - 'Kapitel 07: Mission Lavawelt (Folge 11)'
+  - 'Kapitel 08: Mission Lavawelt (Folge 11)'
+  - 'Kapitel 09: Mission Lavawelt (Folge 11)'
+  - 'Kapitel 10: Mission Lavawelt (Folge 11)'
+  - 'Kapitel 11: Mission Lavawelt (Folge 11)'
+  - 'Kapitel 12: Mission Lavawelt (Folge 11)'
+  - 'Kapitel 13: Mission Lavawelt (Folge 11)'
+  - 'Kapitel 14: Mission Lavawelt (Folge 11)'
+  - 'Kapitel 15: Mission Lavawelt (Folge 11)'
+  - 'Kapitel 16: Mission Lavawelt (Folge 11)'
+  - 'Kapitel 17: Mission Lavawelt (Folge 11)'
+  - 'Kapitel 18: Mission Lavawelt (Folge 11)'
+  - 'Kapitel 19: Mission Lavawelt (Folge 11)'
+  - 'Kapitel 20: Mission Lavawelt (Folge 11)'
+  - 'Kapitel 21: Mission Lavawelt (Folge 11)'
+  - 'Kapitel 22: Mission Lavawelt (Folge 11)'
+  - 'Kapitel 23: Mission Lavawelt (Folge 11)'
+  - 'Kapitel 24: Mission Lavawelt (Folge 11)'
   ids: []

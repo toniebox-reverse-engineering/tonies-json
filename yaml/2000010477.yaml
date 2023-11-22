@@ -6,13 +6,18 @@ data:
   episode: 'Folgen 17-21: Winter in Pontypandy (Classic)'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/0621049ed8f7dc4bafd4c6668cba37d57c4fc7ab69ad0079e3aeeb57/3_lp8rg5xCJkj7QZDk/feuerwehrmann_sam_017_folgen_17_21__winter_in__530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/cceb30346533feac91c4f0375e607c3e40e3e343948ec8251a503d32/4260009918195_preview.mp3
   web: https://tonies.com/de-de/audio-content/feuerwehrmann-sam/folgen-17-21-winter-in-pontypandy-classic/
   shop-id: d9b60fb2-924e-441d-856b-9c9e0aa0a0ae
-  track-desc: []
+  track-desc:
+  - Leise rieselt der Schnee (Folge 17)
+  - Das große Bibbern (Folge 18)
+  - Geburtstagskind Sam (Folge 19)
+  - Norman, der König des Dschungels (Folge 20)
+  - Ans Meer, ans Meer (Folge 21)
   ids: []

@@ -6,13 +6,30 @@ data:
   episode: Diebe der Zeit (Band 06)
   release: 0
   language: de-de
-  category: null
+  category: audio-book
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_3ccca721da0f064e7f1718063f83ced4b48ccb76c7206bed991320d8/3_11Cqh3mKMJ-BvSz./lego_ninjago_horbucher_006_diebe_der_zeit_b_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/c00a7640a0b69a8aa8790dbc9ccf903aa448ba9a549dcd0629bc9b3e/4013575925506_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-ninjago-hoerbuecher/diebe-der-zeit-band-06/
   shop-id: 766d9145-e282-435b-a5f7-6f1c240c4d6e
-  track-desc: []
+  track-desc:
+  - Kapitel 01
+  - Kapitel 02
+  - Kapitel 03
+  - Kapitel 04
+  - Kapitel 05
+  - Kapitel 06
+  - Kapitel 07
+  - Kapitel 08
+  - Kapitel 09
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
   ids: []

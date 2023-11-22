@@ -6,13 +6,28 @@ data:
   episode: Die Übungshexenkugel
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_6969104f30cf2e4478a678896fa140b367ac542753eee7f819d7c3c3/3_yJ42TC6C~wkhy2HV/bibi_blocksberg_148_die_ubungshexenkugel_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/cc7689ccdc4bc794d19ef533ccfb7716db2d3526c9d2d0ff0c15fac1/425649_bi_hoerprobe_folge148_die_uebungshexenkugel_90sec.wav
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/die-ubungshexenkugel/
   shop-id: 1639392c-2ef5-461e-8e0e-96e855b297c1
-  track-desc: []
+  track-desc:
+  - Titellied
+  - Die Kugel-Hausaufgabe
+  - Schnick, Schnack, Schnuck
+  - Bibis Zukunftsfrage
+  - Die Wurzeln der Zukunft
+  - Verliebte haben Vorfahrt
+  - Die richtigen Zahlen
+  - Traumkleider und Hängematten
+  - Was macht Tante Mania?
+  - Das war wohl nix!
+  - Die Rückseite
+  - Miezi auf dem Baum
+  - Barbaras Schuhe
+  - Die Belohnung
+  - 'Bonus: Hexe Mania'
   ids: []

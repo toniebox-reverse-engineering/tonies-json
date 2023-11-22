@@ -6,13 +6,54 @@ data:
   episode: 'Folgen 16-20: Shirley Sauber singt'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 7
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_2fcd774b50a979dbe92a050531745d92f22aac6d8345aa2bf19080a2/3_fqNk76sxw-RN_VNF/lego_city_abenteuer_004_folgen_16_20__shirley__530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/e728321a14fb6625dbd2f032b21c0bfbc07875cc8633bea870e1e29d/4013575905096_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-city-abenteuer/folgen-16-20-shirley-sauber-singt/
   shop-id: 282bf043-dbc0-44a7-a225-66b35a973855
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Shirley Sauber singt (Folge 16)'
+  - 'Kapitel 02: Shirley Sauber singt (Folge 16)'
+  - 'Kapitel 03: Shirley Sauber singt (Folge 16)'
+  - 'Kapitel 04: Shirley Sauber singt (Folge 16)'
+  - 'Kapitel 05: Shirley Sauber singt (Folge 16)'
+  - 'Kapitel 06: Shirley Sauber singt (Folge 16)'
+  - 'Kapitel 07: Shirley Sauber singt (Folge 16)'
+  - 'Kapitel 08: Shirley Sauber singt (Folge 16)'
+  - 'Kapitel 01: Die Mars-Mission beginnt (Folge 17)'
+  - 'Kapitel 02: Die Mars-Mission beginnt (Folge 17)'
+  - 'Kapitel 03: Die Mars-Mission beginnt (Folge 17)'
+  - 'Kapitel 04: Die Mars-Mission beginnt (Folge 17)'
+  - 'Kapitel 05: Die Mars-Mission beginnt (Folge 17)'
+  - 'Kapitel 06: Die Mars-Mission beginnt (Folge 17)'
+  - 'Kapitel 07: Die Mars-Mission beginnt (Folge 17)'
+  - 'Kapitel 08: Die Mars-Mission beginnt (Folge 17)'
+  - 'Kapitel 01: Die Tür der Türen (Folge 18)'
+  - 'Kapitel 02: Die Tür der Türen (Folge 18)'
+  - 'Kapitel 03: Die Tür der Türen (Folge 18)'
+  - 'Kapitel 04: Die Tür der Türen (Folge 18)'
+  - 'Kapitel 05: Die Tür der Türen (Folge 18)'
+  - 'Kapitel 06: Die Tür der Türen (Folge 18)'
+  - 'Kapitel 07: Die Tür der Türen (Folge 18)'
+  - 'Kapitel 08: Die Tür der Türen (Folge 18)'
+  - 'Kapitel 01: Die Tür der Türen - Teil 2 (Folge 19)'
+  - 'Kapitel 02: Die Tür der Türen - Teil 2 (Folge 19)'
+  - 'Kapitel 03: Die Tür der Türen - Teil 2 (Folge 19)'
+  - 'Kapitel 04: Die Tür der Türen - Teil 2 (Folge 19)'
+  - 'Kapitel 05: Die Tür der Türen - Teil 2 (Folge 19)'
+  - 'Kapitel 06: Die Tür der Türen - Teil 2 (Folge 19)'
+  - 'Kapitel 07: Die Tür der Türen - Teil 2 (Folge 19)'
+  - 'Kapitel 08: Die Tür der Türen - Teil 2 (Folge 19)'
+  - 'Kapitel 01: Hinter Gittern (Folge 20)'
+  - 'Kapitel 02: Hinter Gittern (Folge 20)'
+  - 'Kapitel 03: Hinter Gittern (Folge 20)'
+  - 'Kapitel 04: Hinter Gittern (Folge 20)'
+  - 'Kapitel 05: Hinter Gittern (Folge 20)'
+  - 'Kapitel 06: Hinter Gittern (Folge 20)'
+  - 'Kapitel 07: Hinter Gittern (Folge 20)'
+  - 'Kapitel 08: Hinter Gittern (Folge 20)'
+  - 'Kapitel 09: Hinter Gittern (Folge 20)'
   ids: []

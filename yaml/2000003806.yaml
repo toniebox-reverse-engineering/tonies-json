@@ -6,13 +6,38 @@ data:
   episode: 'Adventskalender: Nick, der Schlittenhund'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_cc06fbff36a99e910821dff576bbf64c4f9faa9c05e153f74fabd3ba/3_wP34Q36gJ0QBD-FJ/bibi_tina_adventskalender__nick_der_schlitten_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/e23208f326a581dfc24220d04e4eebf7c38353d596553b9761beb70e/12439_bt_hoerprobe_adventskalender_nick_der_schlittenhund_90sec.wav
   web: https://tonies.com/de-de/audio-content/bibi-tina/adventskalender-nick-der-schlittenhund/
   shop-id: dfc25dd0-de97-4fbc-91ae-964d15e999ef
-  track-desc: []
+  track-desc:
+  - Titellied
+  - '01. Dezember: Fröhliches Wiedersehen'
+  - '02. Dezember: Pläne für Weihnachten'
+  - '03. Dezember: Es raschelt im Unterholz'
+  - '04. Dezember: Husky'
+  - '05. Dezember: Futter für den Gast'
+  - '06. Dezember: Huskys neues Nachtlager'
+  - '07. Dezember: Alles ist weiß!'
+  - '08. Dezember: Der Hund unter der Decke'
+  - '09. Dezember: Herr Adam'
+  - '10. Dezember: Der ängstliche Bobby'
+  - '11. Dezember: Husky heißt Nick'
+  - '12. Dezember: Nicks Besitzer'
+  - '13. Dezember: Ein Hund im Hof'
+  - '14. Dezember: Nora ist weg!'
+  - '15. Dezember: Schlittenfahrt mit Nick'
+  - '16. Dezember: Verloren im Tiefschnee'
+  - '17. Dezember: Heißer Tee und ein Nickerchen'
+  - '18. Dezember: Was wird aus Nick'
+  - '19. Dezember: Der geborene Schlittenhund'
+  - '20. Dezember: Noras Entscheidung'
+  - '21. Dezember: Hundetausch'
+  - '22. Dezember: Schreckmoment für Frau Martin'
+  - '23. Dezember: Der Weihnachtsabend'
+  - '24. Dezember: Weihnachtsschlittenfahrt'
   ids: []

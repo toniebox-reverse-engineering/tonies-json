@@ -6,13 +6,18 @@ data:
   episode: Storytime Collection 2
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_6f79d1dd791dc27ca0516799befa73e4d640053e9a0b5dac9a3a8c8c/3_-Wzqslq_BfpjCQt~/die_schlumpfe_002_storytime_collection_2_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/084112e38275acba3a301f48098a142e78c837c2aa008e0a410f6c6b/9788726996609.mp3
   web: https://tonies.com/de-de/audio-content/die-schluempfe/storytime-collection-2/
   shop-id: 2b858902-6fa6-40d9-b786-9a67e6b70361
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
   ids: []

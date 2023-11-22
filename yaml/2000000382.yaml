@@ -6,13 +6,20 @@ data:
   episode: Die Olchis sind da
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
   image: https://cdn.tonies.de/o/images/0ebdce10a033bbf9caf799106b1de7cad7549cc98b1faf64d453fee7/3_Tddqx3j~LvQkpzC3/die_olchis_die_olchis_sind_da_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/49b9aec895b49f1925d5cc9ee019b92a8a3e5fbb1451adcb956e51a7/9783837360424_preview.mp3
   web: https://tonies.com/de-de/audio-content/die-olchis/die-olchis-sind-da/
   shop-id: 40feeaa4-b0ff-4ae2-baab-d3be38dbec3e
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
   ids: []

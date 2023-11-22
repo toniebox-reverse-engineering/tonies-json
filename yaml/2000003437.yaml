@@ -6,13 +6,25 @@ data:
   episode: 'Folge 05: Der Festwagen-Wettbewerb'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_1c4ae0cc19d25d5f6e928ebdc353819dfdefb29d986ba2576eb203fd/3_NCxvBSszmWdksH7r/lego_friends_005_folge_05__der_festwagen_wettb_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/649623e6a57a3832c9eb798f98f6d66e0b3ecc890f083fcbd6cf37b3/4013575901401_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-friends/lego-friends-folge-05-der-festwagen-wettbewerb/
   shop-id: c9eb4243-577f-422d-bdb8-c1810a8a5c0a
-  track-desc: []
+  track-desc:
+  - Der Festwagen-Wettbewerb - Track 1
+  - Der Festwagen-Wettbewerb - Track 2
+  - Der Festwagen-Wettbewerb - Track 3
+  - Der Festwagen-Wettbewerb - Track 4
+  - Der Festwagen-Wettbewerb - Track 5
+  - Der Festwagen-Wettbewerb - Track 6
+  - Der Festwagen-Wettbewerb - Track 7
+  - Der Festwagen-Wettbewerb - Track 8
+  - Der Festwagen-Wettbewerb - Track 9
+  - Der Festwagen-Wettbewerb - Track 10
+  - Der Festwagen-Wettbewerb - Track 11
+  - Der Festwagen-Wettbewerb - Track 12
   ids: []

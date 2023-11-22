@@ -6,13 +6,41 @@ data:
   episode: 'Folge 13: Angriff der Schattenwelt'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/978053eb7a2128fecb991be6b79137b2cbdfe72daf691c7fc0953e73/3_5ZR7Wq_GLgyVbw61/schleich_eldrador_creatures_013_folge_13__angr_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/35c54f2c366f6e201e9cb1aab3e190aac9828b4ce01ff5d1ee589022/4013575936175_preview.mp3
   web: https://tonies.com/de-de/audio-content/schleich-eldrador-creatures/folge-13-angriff-der-schattenwelt/
   shop-id: 31f3321a-1161-4054-ab0d-b34b184daf74
-  track-desc: []
+  track-desc:
+  - Inhaltsangabe - Angriff der Schattenwelt (Folge 13)
+  - Intro Lied - Angriff der Schattenwelt (Folge 13)
+  - 'Kapitel 01: Angriff der Schattenwelt (Folge 13)'
+  - 'Kapitel 02: Angriff der Schattenwelt (Folge 13)'
+  - 'Kapitel 03: Angriff der Schattenwelt (Folge 13)'
+  - 'Kapitel 04: Angriff der Schattenwelt (Folge 13)'
+  - 'Kapitel 05: Angriff der Schattenwelt (Folge 13)'
+  - 'Kapitel 06: Angriff der Schattenwelt (Folge 13)'
+  - 'Kapitel 07: Angriff der Schattenwelt (Folge 13)'
+  - 'Kapitel 08: Angriff der Schattenwelt (Folge 13)'
+  - 'Kapitel 09: Angriff der Schattenwelt (Folge 13)'
+  - 'Kapitel 10: Angriff der Schattenwelt (Folge 13)'
+  - 'Kapitel 11: Angriff der Schattenwelt (Folge 13)'
+  - 'Kapitel 12: Angriff der Schattenwelt (Folge 13)'
+  - 'Kapitel 13: Angriff der Schattenwelt (Folge 13)'
+  - 'Kapitel 14: Angriff der Schattenwelt (Folge 13)'
+  - 'Kapitel 15: Angriff der Schattenwelt (Folge 13)'
+  - 'Kapitel 16: Angriff der Schattenwelt (Folge 13)'
+  - 'Kapitel 17: Angriff der Schattenwelt (Folge 13)'
+  - 'Kapitel 18: Angriff der Schattenwelt (Folge 13)'
+  - 'Kapitel 19: Angriff der Schattenwelt (Folge 13)'
+  - 'Kapitel 20: Angriff der Schattenwelt (Folge 13)'
+  - 'Kapitel 21: Angriff der Schattenwelt (Folge 13)'
+  - 'Kapitel 22: Angriff der Schattenwelt (Folge 13)'
+  - 'Kapitel 23: Angriff der Schattenwelt (Folge 13)'
+  - 'Kapitel 24: Angriff der Schattenwelt (Folge 13)'
+  - Eldrador Lied
+  - Outro - Angriff der Schattenwelt (Folge 13)
   ids: []

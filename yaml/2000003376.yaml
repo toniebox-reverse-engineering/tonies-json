@@ -6,13 +6,28 @@ data:
   episode: 'Folgen 16-18: Die falschen Ninja'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_01d9b61e85b20d4f91c66104047bd24c8a2d78b5b1f1308b0e0175c9/3_f.rTHH8NdbyvrBKk/lego_ninjago_016_folgen_16_18__die_falschen_ni_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/c1ff3e9aa28b7a492b52fc172cb47b6856b4689374ddcd07d3e2960b/4013575901661_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-16-18-die-falschen-ninja/
   shop-id: 4c2cf3c7-886d-4320-8a78-190b076c48d5
-  track-desc: []
+  track-desc:
+  - 'Folge 16: Die falschen Ninja - Track 1'
+  - 'Folge 16: Die falschen Ninja - Track 2'
+  - 'Folge 16: Die falschen Ninja - Track 3'
+  - 'Folge 16: Die falschen Ninja - Track 4'
+  - 'Folge 16: Die falschen Ninja - Track 5'
+  - 'Folge 17: Das Ninjaball Rennen - Track 1'
+  - 'Folge 17: Das Ninjaball Rennen - Track 2'
+  - 'Folge 17: Das Ninjaball Rennen - Track 3'
+  - 'Folge 17: Das Ninjaball Rennen - Track 4'
+  - 'Folge 17: Das Ninjaball Rennen - Track 5'
+  - 'Folge 18: Wieder jung - Track 1'
+  - 'Folge 18: Wieder jung - Track 2'
+  - 'Folge 18: Wieder jung - Track 3'
+  - 'Folge 18: Wieder jung - Track 4'
+  - 'Folge 18: Wieder jung - Track 5'
   ids: []

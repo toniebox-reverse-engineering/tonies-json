@@ -6,13 +6,19 @@ data:
   episode: Kekse und Konfetti
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_4613762f5ee54c98f81ceee5f5d64cdfa7514b52191cc40d7dfd7e5a/3_~XqCWRp.DWdPbyDh/der_kleine_konig_021_kekse_und_konfetti_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/23d8da9e7a3c5633dfa67997c3635cdfbcfcc841ed83f44a8ce87bd8/21_probe.mp3
   web: https://tonies.com/de-de/audio-content/der-kleine-koenig/der-kleine-konig-kekse-und-konfetti/
   shop-id: a0e28abd-33ea-4eff-8a91-a488b674af65
-  track-desc: []
+  track-desc:
+  - Ich zieh mich ganz alleine an
+  - Kekse
+  - Das Samenkorn (Teil 1)
+  - Das Samenkorn (Teil 2)
+  - Konfetti (Teil 1)
+  - Konfetti (Teil 2)
   ids: []

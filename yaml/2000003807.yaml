@@ -6,13 +6,29 @@ data:
   episode: Etwas andere Weihnachten
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_f50db9a3f36a52139148391b2d7160eb304ea0c93a52e2f5e11d3de6/3_WzRfytzxj~b5M4HC/bibi_blocksberg_145_etwas_andere_weihnachten_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/7a01acb1f80a96649a47d01354361706138869850c5cd4e0e83f2326/bi_hs_hoerprobe_folge145_etwas_andere_weihnachten_90sec.wav
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/etwas-andere-weihnachten/
   shop-id: 15e72c42-2dda-4cf9-98ab-a2ddff1376ac
-  track-desc: []
+  track-desc:
+  - Titellied
+  - Wo ist die Macke?
+  - Überraschungsbesuch
+  - Weil heute Weihnachten ist
+  - Pudding an der Baumspitze
+  - Baumschmücken per Hand
+  - Hoppla
+  - Stromausfall
+  - Wechselwirkung
+  - Hexische Weihnachten
+  - Bernhards netteste Seite
+  - Schleimattacke!
+  - Festtagslaune im Keller
+  - Versöhnung in der Luft
+  - 'Bonus: Hexe Walpurgia'
+  - Oh du schöne Weihnachtszeit (Song)
   ids: []

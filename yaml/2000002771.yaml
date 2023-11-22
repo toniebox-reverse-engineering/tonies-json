@@ -6,13 +6,28 @@ data:
   episode: Ein Fall für Dr. Eichhorn
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_de7e8f4445524a97c593e2becbe31742f62e5dff1ab247b94cd9fea4/3_-Fqzrn9BdBHDC9XS/bibi_tina_098_ein_fall_fur_dr_eichhorn_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/e2ae96e68d75cf285c5907152ea6c7a4988c6c570ae6f997c9151194/hoerprobe_98_ein_fall_fuer_dr_eichhorn_90sec.wav
   web: https://tonies.com/de-de/audio-content/bibi-tina/ein-fall-fur-dr-eichhorn/
   shop-id: 891cd77a-c80a-4fca-9504-4bb864db9663
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Unterwegs Mit Kutsche
+  - Eine Extraportion Sturheit
+  - Die Neuen Ferienkinder
+  - Eine Böse Überraschung
+  - Roberts Anweisungen
+  - Das Alternativprogramm
+  - Im Schloss
+  - Alexander Springt Ein
+  - Noch Mehr Kranke Pferde
+  - Nachts Im Wald
+  - Die Standpauke
+  - Entwarnung Aus Dem Labor
+  - Wieder Gesund
+  - 'Bonus: Pferdekrankheiten'
   ids: []

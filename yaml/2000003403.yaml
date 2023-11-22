@@ -6,13 +6,28 @@ data:
   episode: 'Folgen 85-86: Gib niemals auf'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_3090ac5cd5cb742296735b68a27db78b13b049bd07a438a48c34f949/3_yY0gqkNFClMbS1-W/lego_ninjago_085_folgen_85_86__gib_niemals_auf_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/b1f389c9d13dd309f13c976e7b2354a3a99e1a7ed649c6e7a7757c18/4013575901944_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-85-86-gib-niemals-auf/
   shop-id: 70a5d846-069b-4e76-8689-83cfafe7d260
-  track-desc: []
+  track-desc:
+  - 'Folge 85: Gib niemals auf - Track 1'
+  - 'Folge 85: Gib niemals auf - Track 2'
+  - 'Folge 85: Gib niemals auf - Track 3'
+  - 'Folge 85: Gib niemals auf - Track 4'
+  - 'Folge 85: Gib niemals auf - Track 5'
+  - 'Folge 85: Gib niemals auf - Track 6'
+  - 'Folge 85: Gib niemals auf - Track 7'
+  - 'Folge 85: Gib niemals auf - Track 8'
+  - 'Folge 86: Bei den Drachenjägern - Track 1'
+  - 'Folge 86: Bei den Drachenjägern - Track 2'
+  - 'Folge 86: Bei den Drachenjägern - Track 3'
+  - 'Folge 86: Bei den Drachenjägern - Track 4'
+  - 'Folge 86: Bei den Drachenjägern - Track 5'
+  - 'Folge 86: Bei den Drachenjägern - Track 6'
+  - 'Folge 86: Bei den Drachenjägern - Track 7'
   ids: []

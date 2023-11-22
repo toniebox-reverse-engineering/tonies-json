@@ -6,13 +6,29 @@ data:
   episode: Hexen unter Verdacht
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_ebdb958460743c3a89566a3dfcaacae58f0aaeb426f7f1849abb76f4/3_gd.ZYs3G6DTdDRQG/bibi_blocksberg_134_hexen_unter_verdacht_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/103dff34765e58f55b0267a1648bb79adfe825fa84d28e223e72fffc/425634_bi_hoerprobe_folge134_hexen_unter_verdacht_90sec.wav
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/hexen-unter-verdacht/
   shop-id: b560ad08-5801-4680-acaa-235169398531
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Die Neuen Nachbarn
+  - Auf Dem Begrüßungsfest
+  - Die Wurst Im Garten
+  - Spontanes Grillen
+  - Die Blockierte Ausfahrt
+  - Falsche Verdächtigungen
+  - Klatsch Und Tratsch
+  - Barbaras Machtwort
+  - Aufgebrachte Nachbarn
+  - Ungute Gefühle
+  - Geheime Nachforschungen
+  - In Der Nacht
+  - Auf Frischer Tat Ertappt
+  - Allgemeine Versöhnung
+  - Bernhard Blocksberg (Bonus)
   ids: []

@@ -6,13 +6,30 @@ data:
   episode: 'Folgen 38-41: Die Pfotenfinder'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/78cd72c992d3767aece20ebd96034a8d94f1cb2f17cc9ed238fff1a3/3_8C~qG-mDnRcg55Jy/paw_patrol_038_folgen_38_41__die_pfotenfinder_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/649a825f0b1305166665b6dcb136e0335e22c0e6f777116db3e64c28/4013575900114_preview.mp3
   web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-38-41-die-pfotenfinder/
   shop-id: cb89ab9c-a5ed-4578-be51-ceac5d0cb5d8
-  track-desc: []
+  track-desc:
+  - 'Folge 38: Der Flederfreund - Track 1'
+  - 'Folge 38: Der Flederfreund - Track 2'
+  - 'Folge 38: Der Flederfreund - Track 3'
+  - 'Folge 38: Der Flederfreund - Track 4'
+  - 'Folge 38: Der Flederfreund - Track 5'
+  - 'Folge 39: Der Wackelzahn - Track  1'
+  - 'Folge 39: Der Wackelzahn - Track  2'
+  - 'Folge 39: Der Wackelzahn - Track  3'
+  - 'Folge 39: Der Wackelzahn - Track  4'
+  - 'Folge 40: Die Pfotenfinder - Track 1'
+  - 'Folge 40: Die Pfotenfinder - Track 2'
+  - 'Folge 40: Die Pfotenfinder - Track 3'
+  - 'Folge 40: Die Pfotenfinder - Track 4'
+  - 'Folge 41: Die Schildkröten-Krise - Track 1'
+  - 'Folge 41: Die Schildkröten-Krise - Track 2'
+  - 'Folge 41: Die Schildkröten-Krise - Track 3'
+  - 'Folge 41: Die Schildkröten-Krise - Track 4'
   ids: []

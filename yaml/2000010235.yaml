@@ -6,13 +6,35 @@ data:
   episode: 'Folge 24: Ein magischer Ring'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
   image: https://cdn.tonies.de/o/images/249da9ad0a64aa2b594414b941a3a8075c19e3dde304385140d3fbc0/3_nczzkBbYbqDNbjjw/schleich_horse_club_024_folge_24__ein_magische_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/834b0e6e2c41318617f4f8d416270e48ed383062238ade940ab25b71/4013575936083_preview.mp3
   web: https://tonies.com/de-de/audio-content/schleich-horse-club/folge-24-ein-magischer-ring/
   shop-id: 8e2b36ef-5314-40c0-97b6-b6b573200564
-  track-desc: []
+  track-desc:
+  - Inhaltsangabe - Ein magischer Ring (Folge 24)
+  - Intro Lied - Ein magischer Ring  (Folge 24)
+  - 'Kapitel 01: Ein magischer Ring  (Folge 24)'
+  - 'Kapitel 02: Ein magischer Ring  (Folge 24)'
+  - 'Kapitel 03: Ein magischer Ring  (Folge 24)'
+  - 'Kapitel 04: Ein magischer Ring  (Folge 24)'
+  - 'Kapitel 05: Ein magischer Ring  (Folge 24)'
+  - 'Kapitel 06: Ein magischer Ring  (Folge 24)'
+  - 'Kapitel 07: Ein magischer Ring  (Folge 24)'
+  - 'Kapitel 08: Ein magischer Ring  (Folge 24)'
+  - 'Kapitel 09: Ein magischer Ring  (Folge 24)'
+  - 'Kapitel 10: Ein magischer Ring  (Folge 24)'
+  - 'Kapitel 11: Ein magischer Ring  (Folge 24)'
+  - 'Kapitel 12: Ein magischer Ring  (Folge 24)'
+  - 'Kapitel 13: Ein magischer Ring  (Folge 24)'
+  - 'Kapitel 14: Ein magischer Ring  (Folge 24)'
+  - 'Kapitel 15: Ein magischer Ring  (Folge 24)'
+  - 'Kapitel 16: Ein magischer Ring  (Folge 24)'
+  - 'Kapitel 17: Ein magischer Ring  (Folge 24)'
+  - 'Kapitel 18: Ein magischer Ring  (Folge 24)'
+  - Freunde für immer (Titelsong)
+  - Outro - Ein magischer Ring  (Folge 24)
   ids: []

@@ -6,13 +6,18 @@ data:
   episode: 'Folgen 12-16: Große Welt! Große Abenteuer! Indien'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_e966a36c3807863812aac7508e71d619851c51ea891c40c6f71530d9/3_BFHtjDJJyg07mSGF/thomas_seine_freunde_012_folgen_12_16__groe_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/6403847c452ae2f502cc88f3a402f5457be56c8622acb07a4a80f0bd/4260264437677_preview.mp3
   web: https://tonies.com/de-de/audio-content/thomas-seine-freunde/folgen-12-16-groe-welt-groe-abenteuer-indien/
   shop-id: 82138ffa-93af-453d-881b-0e48b223a370
-  track-desc: []
+  track-desc:
+  - Auf Trunky ist verlass (Folge 12)
+  - Thomas, der große Held (Folge 13)
+  - Der Palast der Affen (Folge 14)
+  - Tiger in Gefahr (Folge 15)
+  - Jeder ist etwas Besonderes (Folge 16)
   ids: []

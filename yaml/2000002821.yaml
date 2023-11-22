@@ -6,13 +6,23 @@ data:
   episode: Die Pyjama-Party
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_f28c41c672ea17505bc71043664b3d975506e833efeff080f8860fd3/3_wzsl9_hlSkZD-Hbb/benjamin_blumchen_gute_nacht_geschichten_018_d_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/27663f2122feeb4290ac47368f1c9591056dd71f8bd7f54d903cf850/hoerprobe_425028_bb_gng_18_die_pyjama_party_90sec.wav
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen-gute-nacht-geschichten/die-pyjama-party/
   shop-id: eca935ea-9709-4b7a-8725-2c4224b4b25f
-  track-desc: []
+  track-desc:
+  - Schlaflied
+  - Benjamins Neuer Alter Pyjama
+  - Eine Nacht Im Iglu
+  - Ab In Die Koje
+  - Der Traum Vom Himmelbett
+  - Der Bürgermeister Im Wildtiergehege
+  - In Schaukelig Luftiger Kühle
+  - Mit Einem Krokodil Im Schlafwagen
+  - Die Reise Nach Pyjamien
+  - Schlaflied
   ids: []

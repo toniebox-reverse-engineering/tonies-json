@@ -6,13 +6,34 @@ data:
   episode: 'Folgen 92-94: Die Lügen des Eisen-Barons'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_d73152c6fb0c4e6f3bfc260fd9ae1aee78c9b25d685d2a384b9b5c2f/3_NFls5xrkmxbHj8Lk/lego_ninjago_092_folgen_92_94__die_lugen_des_e_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/805411bf9e296984faa3fb4b7d7a02e7041bd95c49ae74a20be4c64f/4013575901975_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-92-94-die-lugen-des-eisen-barons/
   shop-id: 28bf6ed5-669e-43a6-8155-f58ebdedbc8f
-  track-desc: []
+  track-desc:
+  - 'Folge 92: Die Lügen des Eisen-Barons - Track 1'
+  - 'Folge 92: Die Lügen des Eisen-Barons - Track 2'
+  - 'Folge 92: Die Lügen des Eisen-Barons - Track 3'
+  - 'Folge 92: Die Lügen des Eisen-Barons - Track 4'
+  - 'Folge 92: Die Lügen des Eisen-Barons - Track 5'
+  - 'Folge 92: Die Lügen des Eisen-Barons - Track 6'
+  - 'Folge 92: Die Lügen des Eisen-Barons - Track 7'
+  - 'Folge 92: Die Lügen des Eisen-Barons - Track 8'
+  - 'Folge 93: Das Drachennest - Track 1'
+  - 'Folge 93: Das Drachennest - Track 2'
+  - 'Folge 93: Das Drachennest - Track 3'
+  - 'Folge 93: Das Drachennest - Track 4'
+  - 'Folge 93: Das Drachennest - Track 5'
+  - 'Folge 93: Das Drachennest - Track 6'
+  - 'Folge 93: Das Drachennest - Track 7'
+  - 'Folge 94: Lloyds Kraft - Track 1'
+  - 'Folge 94: Lloyds Kraft - Track 2'
+  - 'Folge 94: Lloyds Kraft - Track 3'
+  - 'Folge 94: Lloyds Kraft - Track 4'
+  - 'Folge 94: Lloyds Kraft - Track 5'
+  - 'Folge 94: Lloyds Kraft - Track 6'
   ids: []

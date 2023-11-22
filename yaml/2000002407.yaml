@@ -6,13 +6,48 @@ data:
   episode: 'Folgen 80-83: Das Fußballspiel'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/bc4dc4dc6a5a306579a0babd6e05e4e82b5bb12cd885b00c70e049ca/3_3lwYksb~WM3t.JK0/paw_patrol_080_folgen_80_83__das_fuballspiel_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/8a07a6dd5e461b0cd41939d54bc9710372b7dfcca4fe2eedc1674460/4013575905010_preview.mp3
   web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-80-83-das-fuballspiel/
   shop-id: 647cf884-d8bb-47f5-a5d8-2b9b91b5b2d9
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Das Fußballspiel (Folge 80)'
+  - 'Kapitel 02: Das Fußballspiel (Folge 80)'
+  - 'Kapitel 03: Das Fußballspiel (Folge 80)'
+  - 'Kapitel 04: Das Fußballspiel (Folge 80)'
+  - 'Kapitel 05: Das Fußballspiel (Folge 80)'
+  - 'Kapitel 06: Das Fußballspiel (Folge 80)'
+  - 'Kapitel 07: Das Fußballspiel (Folge 80)'
+  - 'Kapitel 08: Das Fußballspiel (Folge 80)'
+  - 'Kapitel 09: Das Fußballspiel (Folge 80)'
+  - 'Kapitel 01: Das Glückshalsband (Folge 81)'
+  - 'Kapitel 02: Das Glückshalsband (Folge 81)'
+  - 'Kapitel 03: Das Glückshalsband (Folge 81)'
+  - 'Kapitel 04: Das Glückshalsband (Folge 81)'
+  - 'Kapitel 05: Das Glückshalsband (Folge 81)'
+  - 'Kapitel 06: Das Glückshalsband (Folge 81)'
+  - 'Kapitel 07: Das Glückshalsband (Folge 81)'
+  - 'Kapitel 08: Das Glückshalsband (Folge 81)'
+  - 'Kapitel 01: Die Mini-Patrol (Folge 82)'
+  - 'Kapitel 02: Die Mini-Patrol (Folge 82)'
+  - 'Kapitel 03: Die Mini-Patrol (Folge 82)'
+  - 'Kapitel 04: Die Mini-Patrol (Folge 82)'
+  - 'Kapitel 05: Die Mini-Patrol (Folge 82)'
+  - 'Kapitel 06: Die Mini-Patrol (Folge 82)'
+  - 'Kapitel 07: Die Mini-Patrol (Folge 82)'
+  - 'Kapitel 08: Die Mini-Patrol (Folge 82)'
+  - 'Kapitel 09: Die Mini-Patrol (Folge 82)'
+  - 'Kapitel 01: Der verlorene Zahn (Folge 83)'
+  - 'Kapitel 02: Der verlorene Zahn (Folge 83)'
+  - 'Kapitel 03: Der verlorene Zahn (Folge 83)'
+  - 'Kapitel 04: Der verlorene Zahn (Folge 83)'
+  - 'Kapitel 05: Der verlorene Zahn (Folge 83)'
+  - 'Kapitel 06: Der verlorene Zahn (Folge 83)'
+  - 'Kapitel 07: Der verlorene Zahn (Folge 83)'
+  - 'Kapitel 08: Der verlorene Zahn (Folge 83)'
+  - 'Kapitel 09: Der verlorene Zahn (Folge 83)'
   ids: []

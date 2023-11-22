@@ -6,13 +6,35 @@ data:
   episode: 'Folgen 214-217: Zwei Bürgermeister in Not'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/cca3f2c1e3c98bb491410f8b75fd87460df3be2500dfaf307f6698ed/3_qcMkf_HzJFfyDqdt/paw_patrol_214_folgen_214_217__zwei_burgermeis_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/be7a1102bf6cc615d5d83efe8c2740a8d4ac7fd90c1299f794625f37/4013575928330_preview.mp3
   web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-214-217-zwei-burgermeister-in-not/
   shop-id: ed571cb7-3774-4b75-b75b-e1fdb498921a
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Zwei Bürgermeister in Not (Folge 214)'
+  - 'Kapitel 02: Zwei Bürgermeister in Not (Folge 214)'
+  - 'Kapitel 03: Zwei Bürgermeister in Not (Folge 214)'
+  - 'Kapitel 04: Zwei Bürgermeister in Not (Folge 214)'
+  - 'Kapitel 05: Zwei Bürgermeister in Not (Folge 214)'
+  - 'Kapitel 06: Zwei Bürgermeister in Not (Folge 214)'
+  - 'Kapitel 01: Der Rodeo-Wettbewerb (Folge 215)'
+  - 'Kapitel 02: Der Rodeo-Wettbewerb (Folge 215)'
+  - 'Kapitel 03: Der Rodeo-Wettbewerb (Folge 215)'
+  - 'Kapitel 04: Der Rodeo-Wettbewerb (Folge 215)'
+  - 'Kapitel 05: Der Rodeo-Wettbewerb (Folge 215)'
+  - 'Kapitel 01: Das Kreidebild (Folge 216)'
+  - 'Kapitel 02: Das Kreidebild (Folge 216)'
+  - 'Kapitel 03: Das Kreidebild (Folge 216)'
+  - 'Kapitel 04: Das Kreidebild (Folge 216)'
+  - 'Kapitel 05: Das Kreidebild (Folge 216)'
+  - 'Kapitel 01: Die Regenbogenkartoffel (Folge 217)'
+  - 'Kapitel 02: Die Regenbogenkartoffel (Folge 217)'
+  - 'Kapitel 03: Die Regenbogenkartoffel (Folge 217)'
+  - 'Kapitel 04: Die Regenbogenkartoffel (Folge 217)'
+  - 'Kapitel 05: Die Regenbogenkartoffel (Folge 217)'
+  - 'Kapitel 06: Die Regenbogenkartoffel (Folge 217)'
   ids: []

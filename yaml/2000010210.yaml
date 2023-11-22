@@ -6,13 +6,28 @@ data:
   episode: in Italien
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_084a9a33080ee08d9318e428ab847fa46ec3ee3d9b0f26d39f37cb93/3_zvvnBhRjtzbhTR1p/benjamin_blumchen_154_in_italien_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/79cd81a2bcae4b992af3a544a84f6c01239cd50167dae3d7f455606b/425554_bb_hoerprobe_folge154_in_italien.wav
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/benjamin-in-italien/
   shop-id: d75e392c-a679-46db-9af5-8ee204c51bce
-  track-desc: []
+  track-desc:
+  - Titellied
+  - Tanti saluti
+  - Sehnsuchtsland
+  - Überraschung!
+  - Turm in Not?
+  - Wo ist Karlas Kamera?
+  - Die Verfolgungsjagd beginnt
+  - Parkplatz-Pech
+  - 'Nächste Station: Markusplatz'
+  - Gondel gesucht!
+  - Elefanten-Turbo-Antrieb
+  - Kurt und Karla
+  - Verwechselt!
+  - Sonnenuntergangs-Törööö
+  - 'Bonus: Italien'
   ids: []

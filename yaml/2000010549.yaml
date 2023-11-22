@@ -11,8 +11,12 @@ data:
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_7e9173212561cd9cbbbf75ac8eda373ea5f0cd27d5d6e93bc4c4a5b1/3_mhjPb6CbLtPp-LtG/der_gruffelo_het_grote_gruffalo_luisterboek_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/12e252080dbee84a532f99bc1e04a8ea932f76cfd776531e77f297e4/9789047612711_luisterfragment.wav
   web: https://tonies.com/de-de/audio-content/der-grueffelo/het-grote-gruffalo-luisterboek/
   shop-id: 129d8ea7-9a26-48a1-905f-0f01514f2ca8
-  track-desc: []
+  track-desc:
+  - 01 De Gruffalo
+  - 02 Het Gruffalo Lied
+  - 03 Het Kind Van De Gruffalo
+  - 04 Het Lied Van Het Gruffalo Kind
   ids: []

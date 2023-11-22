@@ -6,13 +6,35 @@ data:
   episode: 'Folgen 168-171: Die Besserwisser-Klone'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/e4faf594945a439cca668a828079fe6317cba53dfbdd40310d7913b2/3_._4hdqsNvg2X~t2V/paw_patrol_168_folgen_168_171__die_besserwisse_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/64a2a6cb0fe93329ad05113c3cd6217fd39bebcfd2b5ab7fe0b480af/4013575920365_preview.mp3
   web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-168-171-die-besserwisser-klone/
   shop-id: f17f4dac-0384-455f-b3b0-5123e6e1fd77
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Die Besserwisser Klone (Folge 168)'
+  - 'Kapitel 02: Die Besserwisser Klone (Folge 168)'
+  - 'Kapitel 03: Die Besserwisser Klone (Folge 168)'
+  - 'Kapitel 04: Die Besserwisser Klone (Folge 168)'
+  - 'Kapitel 05: Die Besserwisser Klone (Folge 168)'
+  - 'Kapitel 06: Die Besserwisser Klone (Folge 168)'
+  - 'Kapitel 07: Die Besserwisser Klone (Folge 168)'
+  - 'Kapitel 01: Die Leuchtturmrakete (Folge 169)'
+  - 'Kapitel 02: Die Leuchtturmrakete (Folge 169)'
+  - 'Kapitel 03: Die Leuchtturmrakete (Folge 169)'
+  - 'Kapitel 04: Die Leuchtturmrakete (Folge 169)'
+  - 'Kapitel 05: Die Leuchtturmrakete (Folge 169)'
+  - 'Kapitel 01: Die Bürgermeisterwahl (Folge 170)'
+  - 'Kapitel 02: Die Bürgermeisterwahl (Folge 170)'
+  - 'Kapitel 03: Die Bürgermeisterwahl (Folge 170)'
+  - 'Kapitel 04: Die Bürgermeisterwahl (Folge 170)'
+  - 'Kapitel 05: Die Bürgermeisterwahl (Folge 170)'
+  - 'Kapitel 01: Die schwebenden Äffchen (Folge 171)'
+  - 'Kapitel 02: Die schwebenden Äffchen (Folge 171)'
+  - 'Kapitel 03: Die schwebenden Äffchen (Folge 171)'
+  - 'Kapitel 04: Die schwebenden Äffchen (Folge 171)'
+  - 'Kapitel 05: Die schwebenden Äffchen (Folge 171)'
   ids: []

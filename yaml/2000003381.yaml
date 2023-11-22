@@ -6,13 +6,32 @@ data:
   episode: 'Folgen 29-31: Das innere Gleichgewicht'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_0f3b99b6883286e8bcea47cfd48811a13dbadead7e32d7c3bb3f1fab/3_lfkhq~0QCP.Rd-lb/lego_ninjago_029_folgen_29_31__das_innere_glei_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/ae9ede3113ac85a20af56e2253246a536d42089c056914f849ab56e4/4013575901715_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-29-31-das-innere-gleichgewicht/
   shop-id: 5a74b971-885d-415e-827e-7309cdabaf58
-  track-desc: []
+  track-desc:
+  - 'Folge 29: Das innere Gleichgewicht - Track 1'
+  - 'Folge 29: Das innere Gleichgewicht - Track 2'
+  - 'Folge 29: Das innere Gleichgewicht - Track 3'
+  - 'Folge 29: Das innere Gleichgewicht - Track 4'
+  - 'Folge 29: Das innere Gleichgewicht - Track 5'
+  - 'Folge 29: Das innere Gleichgewicht - Track 6'
+  - 'Folge 30: Die Legende des Goldenen Meisters - Track 1'
+  - 'Folge 30: Die Legende des Goldenen Meisters - Track 2'
+  - 'Folge 30: Die Legende des Goldenen Meisters - Track 3'
+  - 'Folge 30: Die Legende des Goldenen Meisters - Track 4'
+  - 'Folge 30: Die Legende des Goldenen Meisters - Track 5'
+  - 'Folge 30: Die Legende des Goldenen Meisters - Track 6'
+  - 'Folge 31: Die Computerwelt - Track 1'
+  - 'Folge 31: Die Computerwelt - Track 2'
+  - 'Folge 31: Die Computerwelt - Track 3'
+  - 'Folge 31: Die Computerwelt - Track 4'
+  - 'Folge 31: Die Computerwelt - Track 5'
+  - 'Folge 31: Die Computerwelt - Track 6'
+  - 'Folge 31: Die Computerwelt - Track 7'
   ids: []

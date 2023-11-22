@@ -6,13 +6,26 @@ data:
   episode: 'Folge 65: Halloween - Gauner Teil 1'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/0d75dd51ad8598e65b30245c8a7d5af10fb70fba63a2d16e400b7860/3_w07nDBkgs7~2rhx5/pj_masks_065_folge_65__halloween_gauner_teil_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/f99255c39332eec1703a09b51c246735d58684ac469cd1e393d94f98/4260646128049_preview.mp3
   web: https://tonies.com/de-de/audio-content/pj-masks/folge-65-halloween-gauner-teil-1/
   shop-id: 20378ec3-952f-48c6-8d7c-77f319da23a9
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Halloween - Gauner Teil 1 (Folge 65)'
+  - 'Kapitel 02: Halloween - Gauner Teil 1 (Folge 65)'
+  - 'Kapitel 03: Halloween - Gauner Teil 1 (Folge 65)'
+  - 'Kapitel 04: Halloween - Gauner Teil 1 (Folge 65)'
+  - 'Kapitel 05: Halloween - Gauner Teil 1 (Folge 65)'
+  - 'Kapitel 06: Halloween - Gauner Teil 1 (Folge 65)'
+  - 'Kapitel 07: Halloween - Gauner Teil 1 (Folge 65)'
+  - 'Kapitel 08: Halloween - Gauner Teil 1 (Folge 65)'
+  - 'Kapitel 09: Halloween - Gauner Teil 1 (Folge 65)'
+  - 'Kapitel 10: Halloween - Gauner Teil 1 (Folge 65)'
+  - 'Kapitel 11: Halloween - Gauner Teil 1 (Folge 65)'
+  - 'Kapitel 12: Halloween - Gauner Teil 1 (Folge 65)'
+  - 'Kapitel 13: Halloween - Gauner Teil 1 (Folge 65)'
   ids: []

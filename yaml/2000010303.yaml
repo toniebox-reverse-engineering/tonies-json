@@ -6,13 +6,16 @@ data:
   episode: Peppa Pig - La tortuga traviesa y otras historias
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/769a405e210f6b2030815e15a09c433539a1c2f27be268c5633e89ad/3_w6mgT6SkQq87~b_b/peppa_pig_004_peppa_pig_la_tortuga_traviesa__530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/50e603fb89e9fabc4e9963ed8231aa56160b1dacf0c3b8a8eabf6c7f/9788728335284.mp3
   web: https://tonies.com/de-de/audio-content/peppa-pig/peppa-pig-la-tortuga-traviesa-y-otras-historias/
   shop-id: 3a72fd26-05f4-48b9-b7b7-58109d5f1715
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
   ids: []

@@ -6,13 +6,45 @@ data:
   episode: 'Folgen 53-56: Biberprobleme'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/aa31b491b2a70cfe86cb76ff146a6023da52b48f6b2fc442445815fc/3_xM7Jz0RKyQ~kJvMS/paw_patrol_053_folgen_53_56__biberprobleme_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/5dfb59c46e2d312c32f722808766b796ca1a9716577dedc10dbdbb2c/4013575902248_preview.mp3
   web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-53-56-biberprobleme/
   shop-id: b9544fd5-51dd-4066-b313-55ba8c742087
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Jake in der Klemme (Folge 53)'
+  - 'Kapitel 02: Jake in der Klemme (Folge 53)'
+  - 'Kapitel 03: Jake in der Klemme (Folge 53)'
+  - 'Kapitel 04: Jake in der Klemme (Folge 53)'
+  - 'Kapitel 05: Jake in der Klemme (Folge 53)'
+  - 'Kapitel 06: Jake in der Klemme (Folge 53)'
+  - 'Kapitel 07: Jake in der Klemme (Folge 53)'
+  - 'Kapitel 08: Jake in der Klemme (Folge 53)'
+  - 'Kapitel 01: Die Parade (Folge 54)'
+  - 'Kapitel 02: Die Parade (Folge 54)'
+  - 'Kapitel 03: Die Parade (Folge 54)'
+  - 'Kapitel 04: Die Parade (Folge 54)'
+  - 'Kapitel 05: Die Parade (Folge 54)'
+  - 'Kapitel 06: Die Parade (Folge 54)'
+  - 'Kapitel 07: Die Parade (Folge 54)'
+  - 'Kapitel 08: Die Parade (Folge 54)'
+  - 'Kapitel 01: Auf Tauchstation (Folge 55)'
+  - 'Kapitel 02: Auf Tauchstation (Folge 55)'
+  - 'Kapitel 03: Auf Tauchstation (Folge 55)'
+  - 'Kapitel 04: Auf Tauchstation (Folge 55)'
+  - 'Kapitel 05: Auf Tauchstation (Folge 55)'
+  - 'Kapitel 06: Auf Tauchstation (Folge 55)'
+  - 'Kapitel 07: Auf Tauchstation (Folge 55)'
+  - 'Kapitel 08: Auf Tauchstation (Folge 55)'
+  - 'Kapitel 01: Biberprobleme (Folge 56)'
+  - 'Kapitel 02: Biberprobleme (Folge 56)'
+  - 'Kapitel 03: Biberprobleme (Folge 56)'
+  - 'Kapitel 04: Biberprobleme (Folge 56)'
+  - 'Kapitel 05: Biberprobleme (Folge 56)'
+  - 'Kapitel 06: Biberprobleme (Folge 56)'
+  - 'Kapitel 07: Biberprobleme (Folge 56)'
+  - 'Kapitel 08: Biberprobleme (Folge 56)'
   ids: []

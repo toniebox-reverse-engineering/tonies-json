@@ -6,13 +6,25 @@ data:
   episode: Auf den Spuren der Eisbären
   release: 0
   language: de-de
-  category: null
+  category: audio-book
   runtime: 0
   age: 8
   origin: tunes
   image: https://cdn.tonies.de/o/images/6528058c6cd89d58063bae5d3f2d98038b12d0839186fa6d84ed7b61/3_BJ9WW-tnh.8cQBlV/das_magische_baumhaus_012_auf_den_spuren_der_e_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/32a7869bfde5ebfb651e5670db07d3c6c7590dccdfb6a22a48507335/9783844912449_preview.mp3
   web: https://tonies.com/de-de/audio-content/das-magische-baumhaus/auf-den-spuren-der-eisbaren/
   shop-id: 96d1b3a4-fefa-4b63-9a59-b8e8b3fedbba
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
   ids: []

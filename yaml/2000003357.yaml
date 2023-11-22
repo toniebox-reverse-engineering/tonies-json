@@ -6,13 +6,36 @@ data:
   episode: 'Folge 26: Die Nachteule schlägt wieder zu'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 7
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_83e039946ae4cb0361b3f74787a4ee6acc4814dcb22e894c51f7ab3a/3_1WCrp0FwdJC2Rw~K/lego_city_026_folge_26__die_nachteule_schlagt__530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/0760337a9f22705e6d967a2e056bc487b3ed5f22e7d9d0dd8ee5ec16/4013575915071_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-city/folge-26-die-nachteule-schlagt-wieder-zu/
   shop-id: 33674490-27d0-44d4-9e31-f68ec7db6017
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Die Nachteule schlägt wieder zu (Folge 26)'
+  - 'Kapitel 02: Die Nachteule schlägt wieder zu (Folge 26)'
+  - 'Kapitel 03: Die Nachteule schlägt wieder zu (Folge 26)'
+  - 'Kapitel 04: Die Nachteule schlägt wieder zu (Folge 26)'
+  - 'Kapitel 05: Die Nachteule schlägt wieder zu (Folge 26)'
+  - 'Kapitel 06: Die Nachteule schlägt wieder zu (Folge 26)'
+  - 'Kapitel 07: Die Nachteule schlägt wieder zu (Folge 26)'
+  - 'Kapitel 08: Die Nachteule schlägt wieder zu (Folge 26)'
+  - 'Kapitel 09: Die Nachteule schlägt wieder zu (Folge 26)'
+  - 'Kapitel 10: Die Nachteule schlägt wieder zu (Folge 26)'
+  - 'Kapitel 11: Die Nachteule schlägt wieder zu (Folge 26)'
+  - 'Kapitel 12: Die Nachteule schlägt wieder zu (Folge 26)'
+  - 'Kapitel 13: Die Nachteule schlägt wieder zu (Folge 26)'
+  - 'Kapitel 14: Die Nachteule schlägt wieder zu (Folge 26)'
+  - 'Kapitel 15: Die Nachteule schlägt wieder zu (Folge 26)'
+  - 'Kapitel 16: Die Nachteule schlägt wieder zu (Folge 26)'
+  - 'Kapitel 17: Die Nachteule schlägt wieder zu (Folge 26)'
+  - 'Kapitel 18: Die Nachteule schlägt wieder zu (Folge 26)'
+  - 'Kapitel 19: Die Nachteule schlägt wieder zu (Folge 26)'
+  - 'Kapitel 20: Die Nachteule schlägt wieder zu (Folge 26)'
+  - 'Kapitel 21: Die Nachteule schlägt wieder zu (Folge 26)'
+  - 'Kapitel 22: Die Nachteule schlägt wieder zu (Folge 26)'
+  - 'Kapitel 23: Die Nachteule schlägt wieder zu (Folge 26)'
   ids: []

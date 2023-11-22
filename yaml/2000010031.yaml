@@ -11,8 +11,16 @@ data:
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/67db172f1e510d64ce27f02d5818046dd49f88bfc17be5cb796b386e/3_xnpBwM1zpD_g4vRN/cry_babies_cuentos_de_halloween_de_los_bebes_llo_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/f3c7ed17d25b333c6aa3e2e114fd5d8ac02c7ecd1b6738cabb2b8ee9/9788419576309_preview.mp3
   web: https://tonies.com/de-de/audio-content/cry-babies/cuentos-de-halloween-de-los-bebes-llorones-en-cast/
   shop-id: 8db4b375-c13c-4cf0-a6bc-3efb4bd50c34
-  track-desc: []
+  track-desc:
+  - Bienvenida
+  - El misterio de halloween
+  - El fantasma mocoso - Parte 1
+  - El fantasma mocoso - Parte 2
+  - El curioso caso de Cammy
+  - Fantasy olimpiadas
+  - Lena es youtuber
+  - Créditos finales
   ids: []

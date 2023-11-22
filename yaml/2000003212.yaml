@@ -6,13 +6,33 @@ data:
   episode: 'Folgen 13-14: Der geheimnisvolle See'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_313a20b0d11aa2cc07caaca10c25377aebfc4aea48552537183835f8/3_Rt6sKYZn-b2sgNTL/schleich_dinosaurs_013_folgen_13_14__der_gehei_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/75c5a77f2474419d374a49e50a6960c9b455ab69f61847b17716f686/4013575928866_preview.mp3
   web: https://tonies.com/de-de/audio-content/schleich-dinosaurs/folgen-13-14-der-geheimnisvolle-see/
   shop-id: e74e269c-8410-4ae0-8edc-1018a581ce7f
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Der geheimnisvolle See (Folge 13)'
+  - 'Kapitel 02: Der geheimnisvolle See (Folge 13)'
+  - 'Kapitel 03: Der geheimnisvolle See (Folge 13)'
+  - 'Kapitel 04: Der geheimnisvolle See (Folge 13)'
+  - 'Kapitel 05: Der geheimnisvolle See (Folge 13)'
+  - 'Kapitel 06: Der geheimnisvolle See (Folge 13)'
+  - 'Kapitel 07: Der geheimnisvolle See (Folge 13)'
+  - 'Kapitel 08: Der geheimnisvolle See (Folge 13)'
+  - 'Kapitel 09: Der geheimnisvolle See (Folge 13)'
+  - 'Kapitel 10: Der geheimnisvolle See (Folge 13)'
+  - 'Kapitel 01: Ein genialer Plan (Folge 14)'
+  - 'Kapitel 02: Ein genialer Plan (Folge 14)'
+  - 'Kapitel 03: Ein genialer Plan (Folge 14)'
+  - 'Kapitel 04: Ein genialer Plan (Folge 14)'
+  - 'Kapitel 05: Ein genialer Plan (Folge 14)'
+  - 'Kapitel 06: Ein genialer Plan (Folge 14)'
+  - 'Kapitel 07: Ein genialer Plan (Folge 14)'
+  - 'Kapitel 08: Ein genialer Plan (Folge 14)'
+  - 'Kapitel 09: Ein genialer Plan (Folge 14)'
+  - 'Kapitel 10: Ein genialer Plan (Folge 14)'
   ids: []

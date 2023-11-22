@@ -6,13 +6,30 @@ data:
   episode: Unsere Tierkinder
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_36ed7f093eb9e4e4468f2027f3e60ad2f5b49087223b7882b92fb203/3_y44FL1xHM41f_YLG/wieso_weshalb_warum_junior_015_unsere_tierk_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/954f1878a1971c53526f4dcdb42a73c74b48fb416f3aa35d81f4779a/4057664321169_preview.mp3
   web: https://tonies.com/de-de/audio-content/wieso-weshalb-warum-junior-2/unsere-tierkinder/
   shop-id: 2694da9f-19ee-46af-af42-c769387f6616
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
   ids: []

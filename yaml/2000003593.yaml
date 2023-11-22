@@ -6,13 +6,30 @@ data:
   episode: 'Teil 3: Schneeballschlacht und Wichtelstreiche'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1ca32b86e9cc9985304905a9c6dc0f38a7cc17a8f077937dcb8b23ef/3_NkcnG69G81dHYl~0/horspiele_003_teil_3__schneeballschlacht_und_w_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/115356e0faca8054cfd29de280763377a6919c8045ec3fff49f15665/9783754000663_001_001_128.mp3
   web: https://tonies.com/de-de/audio-content/petronella-apfelmus-die-hoerspielreihe/petronella-apfelmus-die-horspielreihe-teil-3-schne/
   shop-id: 54180b5e-48d1-40c9-b7da-db5ba8fa3787
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
   ids: []

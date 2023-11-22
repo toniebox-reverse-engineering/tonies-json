@@ -6,13 +6,53 @@ data:
   episode: 'Folgen 1-5: Helden und Räuber'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 7
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_b3cc8aeeb8121e73ec1568fffca34ad049d962fd15ca9abf6ba8bab1/3_znyFF5ZcGfDbQpj-/lego_city_abenteuer_001_folgen_1_5__helden_und_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/b699faa6fb0b165cd3d57116ad7863f88f9654b3d2e57e4b28a846b8/4013575904457_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-city-abenteuer/lego-city-tv-serie-folgen-1-5-helden-und-rauber/
   shop-id: f6307e5d-659b-47ba-af8a-160cf9e19f38
-  track-desc: []
+  track-desc:
+  - Helden und Räuber - Track 1
+  - Helden und Räuber - Track 2
+  - Helden und Räuber - Track 3
+  - Helden und Räuber - Track 4
+  - Helden und Räuber - Track 5
+  - Helden und Räuber - Track 6
+  - Helden und Räuber - Track 7
+  - Helden und Räuber - Track 8
+  - Billy hebt ab - Track 1
+  - Billy hebt ab - Track 2
+  - Billy hebt ab - Track 3
+  - Billy hebt ab - Track 4
+  - Billy hebt ab - Track 5
+  - Billy hebt ab - Track 6
+  - Billy hebt ab - Track 7
+  - Billy hebt ab - Track 8
+  - Luftpolizei - Track 1
+  - Luftpolizei - Track 2
+  - Luftpolizei - Track 3
+  - Luftpolizei - Track 4
+  - Luftpolizei - Track 5
+  - Luftpolizei - Track 6
+  - Luftpolizei - Track 7
+  - Luftpolizei - Track 8
+  - Kontroletti Bennett - Track 1
+  - Kontroletti Bennett - Track 2
+  - Kontroletti Bennett - Track 3
+  - Kontroletti Bennett - Track 4
+  - Kontroletti Bennett - Track 5
+  - Kontroletti Bennett - Track 6
+  - Kontroletti Bennett - Track 7
+  - Kontroletti Bennett - Track 8
+  - Kampf der Giganten - Track 1
+  - Kampf der Giganten - Track 2
+  - Kampf der Giganten - Track 3
+  - Kampf der Giganten - Track 4
+  - Kampf der Giganten - Track 5
+  - Kampf der Giganten - Track 6
+  - Kampf der Giganten - Track 7
+  - Kampf der Giganten - Track 8
   ids: []

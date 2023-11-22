@@ -6,13 +6,29 @@ data:
   episode: 'Folge 02: Schatten aus der Vergangenheit'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_a7318a8dd761fdf56c51abd488cbc284af8f5ab9bbbe313df0219879/3_~0gp6Rs0-_5WtCSh/schleich_horse_club_002_folge_02__schatten_aus_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/31b701abf497c3dea088f89353a60792f88a1f5fe0ecfb5adf5ee4a1/4013575901036_preview.mp3
   web: https://tonies.com/de-de/audio-content/schleich-horse-club/folge-02-schatten-aus-der-vergangenheit/
   shop-id: 8da256d3-c81b-49d9-921e-a6d824a88152
-  track-desc: []
+  track-desc:
+  - Kapitel 01
+  - Kapitel 02
+  - Kapitel 03
+  - Kapitel 04
+  - Kapitel 05
+  - Kapitel 06
+  - Kapitel 07
+  - Kapitel 08
+  - Kapitel 09
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
   ids: []

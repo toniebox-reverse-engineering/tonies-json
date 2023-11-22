@@ -6,13 +6,44 @@ data:
   episode: 'Folgen 145-149: Shintaro'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_1cd91bb04dd6725211ba0ccd5834e7d9ce8016c5cb8827dda395a8cb/3_ZFcmFmVd.RrkmRrK/lego_ninjago_145_folgen_145_149__shintaro_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/5501f33871731179f2bd8484bc83f36818a0200c1b840809e21d0481/4013575911776_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-145-149-shintaro/
   shop-id: 3e5e652b-b09a-4a4b-90cc-51b930beb9ee
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Shintaro (Folge 145)'
+  - 'Kapitel 02: Shintaro (Folge 145)'
+  - 'Kapitel 03: Shintaro (Folge 145)'
+  - 'Kapitel 04: Shintaro (Folge 145)'
+  - 'Kapitel 05: Shintaro (Folge 145)'
+  - 'Kapitel 06: Shintaro (Folge 145)'
+  - 'Kapitel 01: In der Finsternis (Folge 146)'
+  - 'Kapitel 02: In der Finsternis (Folge 146)'
+  - 'Kapitel 03: In der Finsternis (Folge 146)'
+  - 'Kapitel 04: In der Finsternis (Folge 146)'
+  - 'Kapitel 05: In der Finsternis (Folge 146)'
+  - 'Kapitel 06: In der Finsternis (Folge 146)'
+  - 'Kapitel 01: Die schlechteste Rettungsaktion aller Zeiten (Folge 147)'
+  - 'Kapitel 02: Die schlechteste Rettungsaktion aller Zeiten (Folge 147)'
+  - 'Kapitel 03: Die schlechteste Rettungsaktion aller Zeiten (Folge 147)'
+  - 'Kapitel 04: Die schlechteste Rettungsaktion aller Zeiten (Folge 147)'
+  - 'Kapitel 05: Die schlechteste Rettungsaktion aller Zeiten (Folge 147)'
+  - 'Kapitel 06: Die schlechteste Rettungsaktion aller Zeiten (Folge 147)'
+  - 'Kapitel 01: Die doppelten Klingen (Folge 148)'
+  - 'Kapitel 02: Die doppelten Klingen (Folge 148)'
+  - 'Kapitel 03: Die doppelten Klingen (Folge 148)'
+  - 'Kapitel 04: Die doppelten Klingen (Folge 148)'
+  - 'Kapitel 05: Die doppelten Klingen (Folge 148)'
+  - 'Kapitel 06: Die doppelten Klingen (Folge 148)'
+  - 'Kapitel 07: Die doppelten Klingen (Folge 148)'
+  - 'Kapitel 01: Königin Murtessa (Folge 149)'
+  - 'Kapitel 02: Königin Murtessa (Folge 149)'
+  - 'Kapitel 03: Königin Murtessa (Folge 149)'
+  - 'Kapitel 04: Königin Murtessa (Folge 149)'
+  - 'Kapitel 05: Königin Murtessa (Folge 149)'
+  - 'Kapitel 06: Königin Murtessa (Folge 149)'
   ids: []

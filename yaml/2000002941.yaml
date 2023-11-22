@@ -6,13 +6,32 @@ data:
   episode: D Zahnfee hät Zahnweh / De Baltahatschi hät de Schnudderi
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_c60156858576ae3d5cfe10d670fd8f3874c0eaf268fc85dc6517a537/3_jhlBQvn.VYDv1HBC/kasperli_006_d_zahnfee_hat_zahnweh___de_baltah_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/854f278555ba8d2107d81a33d6609be0f48845c66eb7c73596677a19/kasperli_d_zahnfee_hat_zahnweh_intro.wav
   web: https://tonies.com/de-de/audio-content/kasperli/d-zahnfee-hat-zahnweh-de-baltahatschi-hat-de-schnu/
   shop-id: 8ba12454-dee6-416a-96b4-8e0e618ca6eb
-  track-desc: []
+  track-desc:
+  - Kasperli D Zahnfee Hät Zahnweh Teil 1
+  - Kasperli D Zahnfee Hät Zahnweh Teil 2
+  - Kasperli D Zahnfee Hät Zahnweh Teil 3
+  - Kasperli D Zahnfee Hät Zahnweh Teil 4
+  - Kasperli D Zahnfee Hät Zahnweh Teil 5
+  - Kasperli D Zahnfee Hät Zahnweh Teil 6
+  - Kasperli D Zahnfee Hät Zahnweh Teil 7
+  - Kasperli D Zahnfee Hät Zahnweh Teil 8
+  - Kasperli D Zahnfee Hät Zahnweh Teil 9
+  - Kasperli De Baltahatschi Hät De Schnudderi Teil 1
+  - Kasperli De Baltahatschi Hät De Schnudderi Teil 2
+  - Kasperli De Baltahatschi Hät De Schnudderi Teil 3
+  - Kasperli De Baltahatschi Hät De Schnudderi Teil 4
+  - Kasperli De Baltahatschi Hät De Schnudderi Teil 5
+  - Kasperli De Baltahatschi Hät De Schnudderi Teil 6
+  - Kasperli De Baltahatschi Hät De Schnudderi Teil 7
+  - Kasperli De Baltahatschi Hät De Schnudderi Teil 8
+  - Kasperli De Baltahatschi Hät De Schnudderi Teil 9
+  - Kasperli De Baltahatschi Hät De Schnudderi Teil 10
   ids: []

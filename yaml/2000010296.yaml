@@ -6,13 +6,15 @@ data:
   episode: Peppa Pig - Nonno Coniglio nello Spazio e altre storie
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/e1f3358040aac54630b951dbd89fd0d1a94c7550343fb91a5b0edf0f/3_rdlWZnxtw-hRsvJL/peppa_pig_002_peppa_pig_nonno_coniglio_nello_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/29ad7f3f4b40767dae0ae5e370fda823f93727ab474fa947340d8c5a/9788728335369.mp3
   web: https://tonies.com/de-de/audio-content/peppa-pig/peppa-pig-nonno-coniglio-nello-spazio-e-altre-stor/
   shop-id: df9cb9a5-6e64-419f-9ad2-1470423c60ac
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
   ids: []

@@ -6,13 +6,18 @@ data:
   episode: 'Folgen 7-11: Große Welt! Große Abenteuer! Australien'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_85b83288067e85759c2fc107f763299b61037d3d1dbdf46f6f5a2d88/3_65ZgLz5J6b8n41wv/thomas_seine_freunde_007_folgen_7_11__groe__530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/72a6032ed046c1a78c732b13739d41ee6bbdaca1a7c200ce15b65023/4260264437660_preview.mp3
   web: https://tonies.com/de-de/audio-content/thomas-seine-freunde/folgen-7-11-groe-welt-groe-abenteuer-australien/
   shop-id: 1493251f-b5d6-4618-9315-30fbda2263d4
-  track-desc: []
+  track-desc:
+  - Thomas als Reiseleiter (Folge 07)
+  - Weihnachten bei den Kängurus (Folge 08)
+  - Thomas und der Sturm (Folge 09)
+  - Banjo und das Buschfeuer (Folge 10)
+  - Rebeccas erster Tag (Folge 11)
   ids: []

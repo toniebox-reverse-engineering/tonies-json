@@ -6,13 +6,50 @@ data:
   episode: 'Folgen 84-85: Fliegende Fellfreunde'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/6c71b490bb34f904a37809cb5165b6e56905105578e3a5b8e0aaa46f/3_B_hS-7Crl9BCRtQq/paw_patrol_084_folgen_84_85__fliegende_fellfre_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/8e6a7246ac854ed5a483f743ce8ef503ff94c061ffb3fa7d2c90e58a/4013575905539_preview.mp3
   web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-84-85-fliegende-fellfreunde/
   shop-id: 47a1a7c9-35ab-4682-a942-9078f66c9b15
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Fliegende Fellfreunde (Folge 84)'
+  - 'Kapitel 02: Fliegende Fellfreunde (Folge 84)'
+  - 'Kapitel 03: Fliegende Fellfreunde (Folge 84)'
+  - 'Kapitel 04: Fliegende Fellfreunde (Folge 84)'
+  - 'Kapitel 05: Fliegende Fellfreunde (Folge 84)'
+  - 'Kapitel 06: Fliegende Fellfreunde (Folge 84)'
+  - 'Kapitel 07: Fliegende Fellfreunde (Folge 84)'
+  - 'Kapitel 08: Fliegende Fellfreunde (Folge 84)'
+  - 'Kapitel 09: Fliegende Fellfreunde (Folge 84)'
+  - 'Kapitel 10: Fliegende Fellfreunde (Folge 84)'
+  - 'Kapitel 11: Fliegende Fellfreunde (Folge 84)'
+  - 'Kapitel 12: Fliegende Fellfreunde (Folge 84)'
+  - 'Kapitel 13: Fliegende Fellfreunde (Folge 84)'
+  - 'Kapitel 14: Fliegende Fellfreunde (Folge 84)'
+  - 'Kapitel 15: Fliegende Fellfreunde (Folge 84)'
+  - 'Kapitel 16: Fliegende Fellfreunde (Folge 84)'
+  - 'Kapitel 17: Fliegende Fellfreunde (Folge 84)'
+  - 'Kapitel 18: Fliegende Fellfreunde (Folge 84)'
+  - 'Kapitel 19: Fliegende Fellfreunde (Folge 84)'
+  - 'Kapitel 01: Der Freundschaftstag (Folge 85)'
+  - 'Kapitel 02: Der Freundschaftstag (Folge 85)'
+  - 'Kapitel 03: Der Freundschaftstag (Folge 85)'
+  - 'Kapitel 04: Der Freundschaftstag (Folge 85)'
+  - 'Kapitel 05: Der Freundschaftstag (Folge 85)'
+  - 'Kapitel 06: Der Freundschaftstag (Folge 85)'
+  - 'Kapitel 07: Der Freundschaftstag (Folge 85)'
+  - 'Kapitel 08: Der Freundschaftstag (Folge 85)'
+  - 'Kapitel 09: Der Freundschaftstag (Folge 85)'
+  - 'Kapitel 10: Der Freundschaftstag (Folge 85)'
+  - 'Kapitel 11: Der Freundschaftstag (Folge 85)'
+  - 'Kapitel 12: Der Freundschaftstag (Folge 85)'
+  - 'Kapitel 13: Der Freundschaftstag (Folge 85)'
+  - 'Kapitel 14: Der Freundschaftstag (Folge 85)'
+  - 'Kapitel 15: Der Freundschaftstag (Folge 85)'
+  - 'Kapitel 16: Der Freundschaftstag (Folge 85)'
+  - 'Kapitel 17: Der Freundschaftstag (Folge 85)'
+  - 'Kapitel 18: Der Freundschaftstag (Folge 85)'
   ids: []

@@ -6,13 +6,57 @@ data:
   episode: 'Folgen 11-15: Die kleine Carol'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 7
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_885570c66818340c9229c63920f610e6aea9e1513ba1ee8cca5ddf90/3_HS6CNZ39kL6HkGBY/lego_city_abenteuer_003_folgen_11_15__die_klei_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/ed6afac182f72747bbb9911b3a37ea3e83207eb38253f2fbda4709b7/4013575905072_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-city-abenteuer/folgen-11-15-die-kleine-carol/
   shop-id: c8cec657-d8ce-4eb0-a064-b3ed1e8955bb
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Die kleine Carol (Folge 11)'
+  - 'Kapitel 02: Die kleine Carol (Folge 11)'
+  - 'Kapitel 03: Die kleine Carol (Folge 11)'
+  - 'Kapitel 04: Die kleine Carol (Folge 11)'
+  - 'Kapitel 05: Die kleine Carol (Folge 11)'
+  - 'Kapitel 06: Die kleine Carol (Folge 11)'
+  - 'Kapitel 07: Die kleine Carol (Folge 11)'
+  - 'Kapitel 08: Die kleine Carol (Folge 11)'
+  - 'Kapitel 01: Wer fliegt mit zum Mars (Folge 12)'
+  - 'Kapitel 02: Wer fliegt mit zum Mars (Folge 12)'
+  - 'Kapitel 03: Wer fliegt mit zum Mars (Folge 12)'
+  - 'Kapitel 04: Wer fliegt mit zum Mars (Folge 12)'
+  - 'Kapitel 05: Wer fliegt mit zum Mars (Folge 12)'
+  - 'Kapitel 06: Wer fliegt mit zum Mars (Folge 12)'
+  - 'Kapitel 07: Wer fliegt mit zum Mars (Folge 12)'
+  - 'Kapitel 08: Wer fliegt mit zum Mars (Folge 12)'
+  - 'Kapitel 09: Wer fliegt mit zum Mars (Folge 12)'
+  - 'Kapitel 01: Fröhliche Polizeinachten (Folge 13)'
+  - 'Kapitel 02: Fröhliche Polizeinachten (Folge 13)'
+  - 'Kapitel 03: Fröhliche Polizeinachten (Folge 13)'
+  - 'Kapitel 04: Fröhliche Polizeinachten (Folge 13)'
+  - 'Kapitel 05: Fröhliche Polizeinachten (Folge 13)'
+  - 'Kapitel 06: Fröhliche Polizeinachten (Folge 13)'
+  - 'Kapitel 07: Fröhliche Polizeinachten (Folge 13)'
+  - 'Kapitel 08: Fröhliche Polizeinachten (Folge 13)'
+  - 'Kapitel 09: Fröhliche Polizeinachten (Folge 13)'
+  - 'Kapitel 01: Der Meisterverbrecher (Folge 14)'
+  - 'Kapitel 02: Der Meisterverbrecher (Folge 14)'
+  - 'Kapitel 03: Der Meisterverbrecher (Folge 14)'
+  - 'Kapitel 04: Der Meisterverbrecher (Folge 14)'
+  - 'Kapitel 05: Der Meisterverbrecher (Folge 14)'
+  - 'Kapitel 06: Der Meisterverbrecher (Folge 14)'
+  - 'Kapitel 07: Der Meisterverbrecher (Folge 14)'
+  - 'Kapitel 08: Der Meisterverbrecher (Folge 14)'
+  - 'Kapitel 09: Der Meisterverbrecher (Folge 14)'
+  - 'Kapitel 01: Buster (Folge 15)'
+  - 'Kapitel 02: Buster (Folge 15)'
+  - 'Kapitel 03: Buster (Folge 15)'
+  - 'Kapitel 04: Buster (Folge 15)'
+  - 'Kapitel 05: Buster (Folge 15)'
+  - 'Kapitel 06: Buster (Folge 15)'
+  - 'Kapitel 07: Buster (Folge 15)'
+  - 'Kapitel 08: Buster (Folge 15)'
+  - 'Kapitel 09: Buster (Folge 15)'
   ids: []

@@ -6,13 +6,40 @@ data:
   episode: 'Folgen 41-45: Hank sei Dank'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 7
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_f26e44ba0488d773e7068dac96861f58401420553f7ea6649e32d3ba/3_l4qbVPBKMSL15vSq/lego_city_abenteuer_009_folgen_41_45__hank_sei_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/5672c9d6ad1bbbac7951207ed81a83b9fca45554ce05d34bc3c6bca0/4013575921898_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-city-abenteuer/folgen-41-45-hank-sei-dank/
   shop-id: a5cfbc79-7d17-45ae-b014-3ab85558e1ab
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Hank Sei Dank (Folge 41)'
+  - 'Kapitel 02: Hank Sei Dank (Folge 41)'
+  - 'Kapitel 03: Hank Sei Dank (Folge 41)'
+  - 'Kapitel 04: Hank Sei Dank (Folge 41)'
+  - 'Kapitel 05: Hank Sei Dank (Folge 41)'
+  - 'Kapitel 06: Hank Sei Dank (Folge 41)'
+  - 'Kapitel 01: Der Held der Stadt (Folge 42)'
+  - 'Kapitel 02: Der Held der Stadt (Folge 42)'
+  - 'Kapitel 03: Der Held der Stadt (Folge 42)'
+  - 'Kapitel 04: Der Held der Stadt (Folge 42)'
+  - 'Kapitel 05: Der Held der Stadt (Folge 42)'
+  - 'Kapitel 01: Shirley, die Müll-Polizei (Folge 43)'
+  - 'Kapitel 02: Shirley, die Müll-Polizei (Folge 43)'
+  - 'Kapitel 03: Shirley, die Müll-Polizei (Folge 43)'
+  - 'Kapitel 04: Shirley, die Müll-Polizei (Folge 43)'
+  - 'Kapitel 05: Shirley, die Müll-Polizei (Folge 43)'
+  - 'Kapitel 01: Vorurteile über Reißzähne (Folge 44)'
+  - 'Kapitel 02: Vorurteile über Reißzähne (Folge 44)'
+  - 'Kapitel 03: Vorurteile über Reißzähne (Folge 44)'
+  - 'Kapitel 04: Vorurteile über Reißzähne (Folge 44)'
+  - 'Kapitel 05: Vorurteile über Reißzähne (Folge 44)'
+  - 'Kapitel 01: Ein klasse Einsatz (Folge 45)'
+  - 'Kapitel 02: Ein klasse Einsatz (Folge 45)'
+  - 'Kapitel 03: Ein klasse Einsatz (Folge 45)'
+  - 'Kapitel 04: Ein klasse Einsatz (Folge 45)'
+  - 'Kapitel 05: Ein klasse Einsatz (Folge 45)'
+  - 'Kapitel 06: Ein klasse Einsatz (Folge 45)'
   ids: []

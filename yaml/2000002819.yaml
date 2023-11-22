@@ -6,13 +6,23 @@ data:
   episode: Meine liebsten Kuscheltiere
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_ee41baf39699f3b29e9a3fde76a727b9dd23873b81ee276af5f9fabb/3_wFNVS-w9CkjZ.xh3/gute_nacht_geschichten_016_meine_liebsten_kusc_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/d2a4f1dbc2c4f99bb0c73d388e6a48d872ec792da546b260ad62ee82/hoerprobe_425026_bb_gng_16_meine_liebsten_kuscheltiere.wav
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen-gute-nacht-geschichten/meine-liebsten-kuscheltiere/
   shop-id: cc33e3a0-13c0-4beb-ad34-4bfdb1bbed12
-  track-desc: []
+  track-desc:
+  - Schlafliedchen
+  - Womit Kuschelt Benjamin
+  - Das Ungeliebte Kuscheltier
+  - Die Beschütz Mich Katze
+  - Knautschi Ist Kein Nichtsnutz
+  - Wie Karl Teddy Toffi Rettete
+  - Ein Stern Zum Kuscheln
+  - Sei Kein Frosch
+  - Herrn Tierliebs Geheimnis
+  - Schlafliedchen
   ids: []

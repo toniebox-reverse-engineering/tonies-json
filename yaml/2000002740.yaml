@@ -6,13 +6,35 @@ data:
   episode: 'Folgen 156-159: Moni, die Seekuh'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/70beb8eadd88ccce711f2e856b26b504dd11a0ecb581daa1b46d5e3f/3_Xbqzw52FrMm4MKNj/paw_patrol_156_folgen_156_159__moni_die_seeku_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/1c593b910e55f7575cf5c6f6fdbf799d337cf85cb5042a1289df5640/4013575918393_preview.mp3
   web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-156-159-moni-die-seekuh/
   shop-id: d23c8255-62d8-4617-92f2-0d20a5d9d028
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Moni, die Seekuh (Folge 156)'
+  - 'Kapitel 02: Moni, die Seekuh (Folge 156)'
+  - 'Kapitel 03: Moni, die Seekuh (Folge 156)'
+  - 'Kapitel 04: Moni, die Seekuh (Folge 156)'
+  - 'Kapitel 05: Moni, die Seekuh (Folge 156)'
+  - 'Kapitel 06: Moni, die Seekuh (Folge 156)'
+  - 'Kapitel 01: Alex und der Ahornsirup (Folge 157)'
+  - 'Kapitel 02: Alex und der Ahornsirup (Folge 157)'
+  - 'Kapitel 03: Alex und der Ahornsirup (Folge 157)'
+  - 'Kapitel 04: Alex und der Ahornsirup (Folge 157)'
+  - 'Kapitel 05: Alex und der Ahornsirup (Folge 157)'
+  - 'Kapitel 01: Wüstenpiraten (Folge 158)'
+  - 'Kapitel 02: Wüstenpiraten (Folge 158)'
+  - 'Kapitel 03: Wüstenpiraten (Folge 158)'
+  - 'Kapitel 04: Wüstenpiraten (Folge 158)'
+  - 'Kapitel 05: Wüstenpiraten (Folge 158)'
+  - 'Kapitel 01: Tollpatsch gegen Tollpatsch (Folge 159)'
+  - 'Kapitel 02: Tollpatsch gegen Tollpatsch (Folge 159)'
+  - 'Kapitel 03: Tollpatsch gegen Tollpatsch (Folge 159)'
+  - 'Kapitel 04: Tollpatsch gegen Tollpatsch (Folge 159)'
+  - 'Kapitel 05: Tollpatsch gegen Tollpatsch (Folge 159)'
+  - 'Kapitel 06: Tollpatsch gegen Tollpatsch (Folge 159)'
   ids: []

@@ -6,13 +6,25 @@ data:
   episode: 'Band 8: Ferien mit Lieselotte'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_307a9bdd5b5332b933298712f0866ebac96efbcd0ecc0f9c263c49a2/3_zWmVPd9bSHSsR1-m/lieselotte_filmhorspiele_008_band_8__ferien_mi_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/8a86189e6474583aa53b43775b22566ed6a68de1d306e66bf2801552/9783732449507_001_001_128.mp3
   web: https://tonies.com/de-de/audio-content/lieselotte-filmhoerspiele/ferien-mit-lieselotte-vier-horspiele/
   shop-id: a700a801-528a-4e32-ac49-a24d7fc65ab7
-  track-desc: []
+  track-desc:
+  - Lieselotte auf Safari (Teil 1)
+  - Lieselotte auf Safari (Teil 2)
+  - Lieselotte auf Safari (Teil 3)
+  - Lieselotte und der vertrackte Traktor (Teil 1)
+  - Lieselotte und der vertrackte Traktor (Teil 2)
+  - Lieselotte und der vertrackte Traktor (Teil 3)
+  - Lieselotte und der grüne Saft (Teil 1)
+  - Lieselotte und der grüne Saft (Teil 2)
+  - Lieselotte und der grüne Saft (Teil 3)
+  - Lieselotte zieht ins Zelt (Teil 1)
+  - Lieselotte zieht ins Zelt (Teil 2)
+  - Lieselotte zieht ins Zelt (Teil 3)
   ids: []

@@ -6,13 +6,35 @@ data:
   episode: 'Folgen 82-85: Die Hausparty'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_055ad2c3d5083e1c398d5537c4217df8db2d450d4d3b4a55c8f695b5/3_J48~G5fRvk-jv6n0/lego_friends_082_folgen_82_85__die_hausparty_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/5009e9139d4a0b2fdf1bed4710c23a90e88a668a8a3a0fc57c2cbf4e/4013575920778_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-friends/folgen-82-85-die-hausparty/
   shop-id: b69ff055-c918-4ec0-84ed-5b9ba97a4c68
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Die Hausparty (Folge 82)'
+  - 'Kapitel 02: Die Hausparty (Folge 82)'
+  - 'Kapitel 03: Die Hausparty (Folge 82)'
+  - 'Kapitel 04: Die Hausparty (Folge 82)'
+  - 'Kapitel 05: Die Hausparty (Folge 82)'
+  - 'Kapitel 06: Die Hausparty (Folge 82)'
+  - 'Kapitel 01: Vierbeinige Freunde (Folge 83)'
+  - 'Kapitel 02: Vierbeinige Freunde (Folge 83)'
+  - 'Kapitel 03: Vierbeinige Freunde (Folge 83)'
+  - 'Kapitel 04: Vierbeinige Freunde (Folge 83)'
+  - 'Kapitel 05: Vierbeinige Freunde (Folge 83)'
+  - 'Kapitel 01: Plätze tauschen (Folge 84)'
+  - 'Kapitel 02: Plätze tauschen (Folge 84)'
+  - 'Kapitel 03: Plätze tauschen (Folge 84)'
+  - 'Kapitel 04: Plätze tauschen (Folge 84)'
+  - 'Kapitel 05: Plätze tauschen (Folge 84)'
+  - 'Kapitel 06: Plätze tauschen (Folge 84)'
+  - 'Kapitel 01: Die Einkaufswelt (Folge 85)'
+  - 'Kapitel 02: Die Einkaufswelt (Folge 85)'
+  - 'Kapitel 03: Die Einkaufswelt (Folge 85)'
+  - 'Kapitel 04: Die Einkaufswelt (Folge 85)'
+  - 'Kapitel 05: Die Einkaufswelt (Folge 85)'
   ids: []

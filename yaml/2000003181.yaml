@@ -6,13 +6,30 @@ data:
   episode: Wer arbeitet auf der Baustelle?
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_fe7d24d6f2dcfe07842c937b282455518dda329cee777cbb102ad99d/3_YcwmM9cB-hrqMW01/wieso_weshalb_warum_junior_055_wer_arbeitet_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/432f691988add4c71a9884fae82068d6ed3b876daa7b7d698e78b956/4057664029867_preview.mp3
   web: https://tonies.com/de-de/audio-content/wieso-weshalb-warum-junior-2/wer-arbeitet-auf-der-baustelle/
   shop-id: e44a4bfe-b7e5-4374-8233-e80bfbd3853a
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
   ids: []

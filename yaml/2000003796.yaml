@@ -6,13 +6,29 @@ data:
   episode: Hilfe für den Wald
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_e267654ed26ef148c663e29f2fee289b7a8e85f06cf9f2316086f6c4/3_PvF7LqZknSZzsw_w/bibi_tina_106_hilfe_fur_den_wald_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/a659a76f712efb6ecef8134103610e8aefe3c4d21e6415fdaea1cee1/422106_bt_hoerprobe_folge106_hilfe_fuer_den_wald_90sec.wav
   web: https://tonies.com/de-de/audio-content/bibi-tina/hilfe-fur-den-wald/
   shop-id: e15ddd75-ff21-46ea-9140-12be1846d59e
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Borkenkäfer Alarm
+  - Kollege Sigurd
+  - Douglasien Für Graf Falko
+  - Sigurds Angebot
+  - Frau Martin Weiß Bescheid
+  - Appetit Auf Douglasien
+  - Die Setzlinge Sind Weg
+  - Durch Die Dämmerung
+  - Reifenspuren Im Gras
+  - Wir Brauchen Beweise
+  - Der Mix Machts
+  - Es Darf Gehext Werden
+  - Happy End Mit Wettreiten
+  - Extra Sigurd Von Strauch
+  - Minihörspiel
   ids: []

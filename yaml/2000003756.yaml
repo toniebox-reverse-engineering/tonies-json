@@ -6,13 +6,35 @@ data:
   episode: Deinonychus
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/a6240cfc4cb0770cad173bc45ea4ec553f6f46299bfab5e7e84e3433/3_fkG.vrHRpwPKS74L/die_dinos_sind_da_005_deinonychus_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/80e30b8f459ebb371a706e2f0e0f478af97bc3f2b706542d83a0bf8a/4260507156693_001_001_128.mp3
   web: https://tonies.com/de-de/audio-content/die-dinos-sind-da/deinonychus/
   shop-id: 997877d5-42b3-46b5-a93e-8c70232a3f0b
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
+  - Kapitel 20
+  - Kapitel 21
+  - Kapitel 22
   ids: []

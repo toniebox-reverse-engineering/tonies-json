@@ -6,13 +6,54 @@ data:
   episode: 'Folgen 124-128: Pixal gibt niemals auf'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_8f603f2c27cb8dc42286ce38f63c85cd7f62a6824bdb488aef337f4e/3_7H7tLvQynsh43KBL/lego_ninjago_124_folgen_124_128__pixal_gibt_ni_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/fadeeab49b427d4214952c510c0412849c641a20fe501e937fe0e5a0/4013575905058_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-124-128-pixal-gibt-niemals-auf/
   shop-id: ad334e9e-52f4-42c1-a0a7-e05eb72e8971
-  track-desc: []
+  track-desc:
+  - 'Folge 124: Pixal gibt niemals auf - Track 1'
+  - 'Folge 124: Pixal gibt niemals auf - Track 2'
+  - 'Folge 124: Pixal gibt niemals auf - Track 3'
+  - 'Folge 124: Pixal gibt niemals auf - Track 4'
+  - 'Folge 124: Pixal gibt niemals auf - Track 5'
+  - 'Folge 124: Pixal gibt niemals auf - Track 6'
+  - 'Folge 124: Pixal gibt niemals auf - Track 7'
+  - 'Folge 124: Pixal gibt niemals auf - Track 8'
+  - 'Folge 125: Vex und der Eis-Kaiser - Track 1'
+  - 'Folge 125: Vex und der Eis-Kaiser - Track 2'
+  - 'Folge 125: Vex und der Eis-Kaiser - Track 3'
+  - 'Folge 125: Vex und der Eis-Kaiser - Track 4'
+  - 'Folge 125: Vex und der Eis-Kaiser - Track 5'
+  - 'Folge 125: Vex und der Eis-Kaiser - Track 6'
+  - 'Folge 125: Vex und der Eis-Kaiser - Track 7'
+  - 'Folge 125: Vex und der Eis-Kaiser - Track 8'
+  - 'Folge 126: Ein unerwarteter Freund - Track 1'
+  - 'Folge 126: Ein unerwarteter Freund - Track 2'
+  - 'Folge 126: Ein unerwarteter Freund - Track 3'
+  - 'Folge 126: Ein unerwarteter Freund - Track 4'
+  - 'Folge 126: Ein unerwarteter Freund - Track 5'
+  - 'Folge 126: Ein unerwarteter Freund - Track 6'
+  - 'Folge 126: Ein unerwarteter Freund - Track 7'
+  - 'Folge 126: Ein unerwarteter Freund - Track 8'
+  - 'Folge 127: Gemeinsam gegen den Eis-Kaiser - Track 1'
+  - 'Folge 127: Gemeinsam gegen den Eis-Kaiser - Track 2'
+  - 'Folge 127: Gemeinsam gegen den Eis-Kaiser - Track 3'
+  - 'Folge 127: Gemeinsam gegen den Eis-Kaiser - Track 4'
+  - 'Folge 127: Gemeinsam gegen den Eis-Kaiser - Track 5'
+  - 'Folge 127: Gemeinsam gegen den Eis-Kaiser - Track 6'
+  - 'Folge 127: Gemeinsam gegen den Eis-Kaiser - Track 7'
+  - 'Folge 127: Gemeinsam gegen den Eis-Kaiser - Track 8'
+  - 'Folge 128: Zanes Erwachen - Track 1'
+  - 'Folge 128: Zanes Erwachen - Track 2'
+  - 'Folge 128: Zanes Erwachen - Track 3'
+  - 'Folge 128: Zanes Erwachen - Track 4'
+  - 'Folge 128: Zanes Erwachen - Track 5'
+  - 'Folge 128: Zanes Erwachen - Track 6'
+  - 'Folge 128: Zanes Erwachen - Track 7'
+  - 'Folge 128: Zanes Erwachen - Track 8'
+  - 'Folge 128: Zanes Erwachen - Track 9'
   ids: []

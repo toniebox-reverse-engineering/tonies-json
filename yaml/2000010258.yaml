@@ -6,13 +6,35 @@ data:
   episode: 'Special: Ein hinterhältiger Plan'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/97118d468bebdc0c9134462a095bbf69f7ca4dd0ce254e21ce204d2e/3_lS4v1fzvc.GZ6XRl/schleich_eldrador_creatures_special__ein_hinterh_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/2ea16deffe17f8d6d74de2a2e13a264aac701e36cd1b30984c5c19bc/4013575934560_preview.mp3
   web: https://tonies.com/de-de/audio-content/schleich-eldrador-creatures/special-ein-hinterhaltiger-plan/
   shop-id: 4f4be26e-4419-42f5-abe2-bf8ffe996cbc
-  track-desc: []
+  track-desc:
+  - Intro Lied - Ein hinterhältiger Plan (Special)
+  - 'Kapitel 01: Ein hinterhältiger Plan (Special)'
+  - 'Kapitel 02: Ein hinterhältiger Plan (Special)'
+  - 'Kapitel 03: Ein hinterhältiger Plan (Special)'
+  - 'Kapitel 04: Ein hinterhältiger Plan (Special)'
+  - 'Kapitel 05: Ein hinterhältiger Plan (Special)'
+  - 'Kapitel 06: Ein hinterhältiger Plan (Special)'
+  - 'Kapitel 07: Ein hinterhältiger Plan (Special)'
+  - 'Kapitel 08: Ein hinterhältiger Plan (Special)'
+  - 'Kapitel 09: Ein hinterhältiger Plan (Special)'
+  - 'Kapitel 10: Ein hinterhältiger Plan (Special)'
+  - 'Kapitel 11: Ein hinterhältiger Plan (Special)'
+  - 'Kapitel 12: Ein hinterhältiger Plan (Special)'
+  - 'Kapitel 13: Ein hinterhältiger Plan (Special)'
+  - 'Kapitel 14: Ein hinterhältiger Plan (Special)'
+  - 'Kapitel 15: Ein hinterhältiger Plan (Special)'
+  - 'Kapitel 16: Ein hinterhältiger Plan (Special)'
+  - 'Kapitel 17: Ein hinterhältiger Plan (Special)'
+  - 'Kapitel 18: Ein hinterhältiger Plan (Special)'
+  - 'Kapitel 19: Ein hinterhältiger Plan (Special)'
+  - 'Kapitel 20: Ein hinterhältiger Plan (Special)'
+  - Eldrador Lied
   ids: []

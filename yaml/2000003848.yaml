@@ -6,13 +6,31 @@ data:
   episode: 'Folge 4: Wald'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_a4dba5dc691e86554aa4173689bac14c37659b1c0dcc30dcf60d0cb1/3_~3Gfz1t2rWl5km89/find_s_raus_mit_benjamin_004_folge_4__wald_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/b064bb99cbc2a9817fd4ff1435fc183a970442b6cceebc50b0b096e2/424204_bb_frmb_4_wald_90sec.wav
   web: https://tonies.com/de-de/audio-content/find-s-raus-mit-benjamin/folge-4-wald/
   shop-id: b99fe0cb-3b7f-456a-867c-8bf8f699018d
-  track-desc: []
+  track-desc:
+  - Titellied
+  - DER FÖRSTER
+  - Die Holzernte
+  - Ein Verbiss-Schutz
+  - Der Rücke-Elefant
+  - DIE BÄUME
+  - Die Waldstockwerke
+  - Frischlufterzeugung
+  - Sprechende Bäume
+  - VERHALTEN IM WALD
+  - Der Müll muss weg
+  - Das Wald-Ratespiel
+  - Regeln über Regeln
+  - DIE WALDTIERE
+  - Tierspuren
+  - Nachtaktive Tiere
+  - Tiere mit Tierkindern
+  - Im Wald (Song)
   ids: []

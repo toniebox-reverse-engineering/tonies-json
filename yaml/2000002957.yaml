@@ -6,13 +6,28 @@ data:
   episode: Mit Papi allein zu Haus
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_698f4c0e7d6f61415aa439a7ed57664c11e77dc3a7737a33afd1be8a/3_0L-c2nhg~tnr9gdv/bibi_blocksberg_141_mit_papi_allein_zu_haus_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/45279f9f916aac1cfdc5c97bea1d49b4f7640819d50446d6ecf1be9a/425641_bi_hoerprobe_folge141_mit_papi_allein_zu_haus_90sec.wav
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/mit-papi-allein-zu-haus/
   shop-id: e52cddcd-b5e2-416c-8e8d-2d4ef47a76d9
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Barbaras Klassentreffen
+  - Putztag Ohne Mami
+  - Putzfimmel
+  - Besuch Von Oma Grete
+  - Schwebende Klamotten
+  - „Raumwunder Grete“
+  - Die Alte Jacke
+  - Manum, Barum Oder Ranum?
+  - Hatschi!
+  - Schlechte Nachrichten Am Telefon
+  - Garantiert Niesfrei!
+  - Mikado Mit Grübelei
+  - Wie Angegossen!
+  - Bibis Zuhause (Bonus)
   ids: []

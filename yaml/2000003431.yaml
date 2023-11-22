@@ -6,13 +6,46 @@ data:
   episode: 'Special: Tag der Erinnerungen'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_86fcc8c2ea1a06aeef56d48929753308bcc261e71d211c83b5e39c46/3_LQq-mV7m2HYlNh~c/lego_ninjago_special__tag_der_erinnerungen_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/03e80c010b0b1c8ca1c59deb567d4a3c0c181db7d25352e3db68b213/4013575908950_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-ninjago/special-tag-der-erinnerungen/
   shop-id: 45bc9c27-02b0-4c27-bac3-ac1737e6da58
-  track-desc: []
+  track-desc:
+  - Kapitel 01
+  - Kapitel 02
+  - Kapitel 03
+  - Kapitel 04
+  - Kapitel 05
+  - Kapitel 06
+  - Kapitel 07
+  - Kapitel 08
+  - Kapitel 09
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
+  - Kapitel 20
+  - Kapitel 21
+  - Kapitel 22
+  - Kapitel 23
+  - Kapitel 24
+  - Kapitel 25
+  - Kapitel 26
+  - Kapitel 27
+  - Kapitel 28
+  - Kapitel 29
+  - Kapitel 30
+  - Kapitel 31
+  - Kapitel 32
+  - Kapitel 33
   ids: []

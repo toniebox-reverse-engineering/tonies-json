@@ -6,13 +6,41 @@ data:
   episode: Die Wilden Hühner
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 8
   origin: tunes
   image: https://cdn.tonies.de/o/images/ce27b6e92bc85321c2eefbcdd5958264dbfb18a3ec2821aab7661597/3_yWDS5SFZRy5wJzKv/die_wilden_huhner_001_die_wilden_huhner_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/17e5f452500f3ccc06dd5a4369cb7cafc69c287c077da3a409d0b21a/4260470420531_001_001_128.mp3
   web: https://tonies.com/de-de/audio-content/die-wilden-huehner/die-wilden-huhner-folge-1/
   shop-id: 74a37fe2-7a19-487d-86e0-a719fde0e628
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
+  - Kapitel 20
+  - Kapitel 21
+  - Kapitel 22
+  - Kapitel 23
+  - Kapitel 24
+  - Kapitel 25
+  - Kapitel 26
+  - Kapitel 27
+  - Kapitel 28
   ids: []

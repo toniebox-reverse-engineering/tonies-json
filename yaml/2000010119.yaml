@@ -6,13 +6,25 @@ data:
   episode: 'Folge 132: Die weißen Tiger'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/271ac7c44d20eaf645389d5966cb84a66560f77aa5fcca3d9b0a2da0/3_QNT14h5XzWphYqF8/paw_patrol_132_folge_132__die_weien_tiger_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/18f32180667d6842350ae0a609f72d8efabf4e14f38dee579c36fba0/4013575915194_preview.mp3
   web: https://tonies.com/de-de/audio-content/paw-patrol/folge-132-die-weien-tiger/
   shop-id: b74cf518-a9c1-49f2-ac16-002ffdca65d7
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Die weißen Tiger (Folge 132)'
+  - 'Kapitel 02: Die weißen Tiger (Folge 132)'
+  - 'Kapitel 03: Die weißen Tiger (Folge 132)'
+  - 'Kapitel 04: Die weißen Tiger (Folge 132)'
+  - 'Kapitel 05: Die weißen Tiger (Folge 132)'
+  - 'Kapitel 06: Die weißen Tiger (Folge 132)'
+  - 'Kapitel 07: Die weißen Tiger (Folge 132)'
+  - 'Kapitel 08: Die weißen Tiger (Folge 132)'
+  - 'Kapitel 09: Die weißen Tiger (Folge 132)'
+  - 'Kapitel 10: Die weißen Tiger (Folge 132)'
+  - 'Kapitel 11: Die weißen Tiger (Folge 132)'
+  - 'Kapitel 12: Die weißen Tiger (Folge 132)'
   ids: []

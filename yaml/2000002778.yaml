@@ -6,13 +6,27 @@ data:
   episode: Freunde in Gefahr
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_2bbffb35c7178319d122ceb90571fcb291cc1b2eb8c39410fb2b0123/3_SMKz7Tp4nzZlxMD4/bibi_blocksberg_135_freunde_in_gefahr_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/515954d11fe9601de1d685debd1726d95b0c775ea6e8ae833846d838/425635_bi_hoerprobe_folge135_freunde_in_gefahr_90sec.wav
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/freunde-gefahr/
   shop-id: 6c84c0e4-90fd-4327-ae88-8bb9a0033e1a
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Unterwegs Ins Bärental
+  - Putzen Und Probleme
+  - Protest Und Erklärung
+  - Seltsame Nachrichten
+  - Schubia Und Xenia
+  - Helfende Junghexen
+  - Schwimmen Und Plantschen
+  - Der Hexunfall Auf Dem Fluss
+  - In Die Vergangenheit
+  - Bären In Der Bärenhöhle
+  - Rettung Für Brumm-Brumm
+  - Die Neue Sensation
+  - Finsterwald (Bonus)
   ids: []

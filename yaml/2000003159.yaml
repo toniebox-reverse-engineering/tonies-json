@@ -6,13 +6,32 @@ data:
   episode: Mein Hund
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_bc1b1103e416215163fd0ec031c663f92d5378f094273ed2a6f6a5b4/3_BwVJqBd_MCmMbrhd/wieso_weshalb_warum_junior_041_mein_hund_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/0761880c3f71224d82501e7b0033ebe9199a5095206d70cf701c45e0/4057664029881_preview.mp3
   web: https://tonies.com/de-de/audio-content/wieso-weshalb-warum-junior-2/mein-hund/
   shop-id: be3e5ba2-1175-4733-b6fb-2db71fc1bac5
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
   ids: []

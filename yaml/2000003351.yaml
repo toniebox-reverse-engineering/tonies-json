@@ -6,13 +6,35 @@ data:
   episode: Folge 20 - Bergpolizei - Am Abgrund
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 7
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_08f19c7b2976d514c5a77d19fc223adf0f2076a1c41aea1fd91223f6/3_cSbBJBxL4vf0f_Fl/lego_city_020_folge_20_bergpolizei_am_abgr_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/e649cf3fdab23fd4eb5a49f658228632d0856ef4193d79bdd421389e/4013575901302_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-city/lego-city-folge-20-bergpolizei-am-abgrund/
   shop-id: 828b512d-db2d-4d05-98e9-fa980a5979cb
-  track-desc: []
+  track-desc:
+  - Bergpolizei - Am Abgrund - Track 1
+  - Bergpolizei - Am Abgrund - Track 2
+  - Bergpolizei - Am Abgrund - Track 3
+  - Bergpolizei - Am Abgrund - Track 4
+  - Bergpolizei - Am Abgrund - Track 5
+  - Bergpolizei - Am Abgrund - Track 6
+  - Bergpolizei - Am Abgrund - Track 7
+  - Bergpolizei - Am Abgrund - Track 8
+  - Bergpolizei - Am Abgrund - Track 9
+  - Bergpolizei - Am Abgrund - Track 10
+  - Bergpolizei - Am Abgrund - Track 11
+  - Bergpolizei - Am Abgrund - Track 12
+  - Bergpolizei - Am Abgrund - Track 13
+  - Bergpolizei - Am Abgrund - Track 14
+  - Bergpolizei - Am Abgrund - Track 15
+  - Bergpolizei - Am Abgrund - Track 16
+  - Bergpolizei - Am Abgrund - Track 17
+  - Bergpolizei - Am Abgrund - Track 18
+  - Bergpolizei - Am Abgrund - Track 19
+  - Bergpolizei - Am Abgrund - Track 20
+  - Bergpolizei - Am Abgrund - Track 21
+  - Bergpolizei - Am Abgrund - Track 22
   ids: []

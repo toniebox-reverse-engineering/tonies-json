@@ -6,13 +6,43 @@ data:
   episode: 'Folgen 36-40: Brickmuda Siebeneck'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 7
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_9eacd5402bdd1af627a5ab58e6fa7aad744e7eaad5a1f406f3bc37ff/3_4jBXv4fJkpld~rKy/lego_city_abenteuer_008_folgen_36_40__brickmud_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/88e78961e8550dbe3e20c9a22a49385536009a07762bdd2968891183/4013575914661_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-city-abenteuer/folgen-36-40-brickmuda-siebeneck/
   shop-id: cf147d3d-7f2e-40b1-b85a-bb6ba6ea828e
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Brickmuda Siebeneck (Folge 36)'
+  - 'Kapitel 02: Brickmuda Siebeneck (Folge 36)'
+  - 'Kapitel 03: Brickmuda Siebeneck (Folge 36)'
+  - 'Kapitel 04: Brickmuda Siebeneck (Folge 36)'
+  - 'Kapitel 05: Brickmuda Siebeneck (Folge 36)'
+  - 'Kapitel 06: Brickmuda Siebeneck (Folge 36)'
+  - 'Kapitel 01: Weihnachtsparty mit Hindernissen (Folge 37)'
+  - 'Kapitel 02: Weihnachtsparty mit Hindernissen (Folge 37)'
+  - 'Kapitel 03: Weihnachtsparty mit Hindernissen (Folge 37)'
+  - 'Kapitel 04: Weihnachtsparty mit Hindernissen (Folge 37)'
+  - 'Kapitel 05: Weihnachtsparty mit Hindernissen (Folge 37)'
+  - 'Kapitel 06: Weihnachtsparty mit Hindernissen (Folge 37)'
+  - 'Kapitel 01: Kein Kinderspiel (Folge 38)'
+  - 'Kapitel 02: Kein Kinderspiel (Folge 38)'
+  - 'Kapitel 03: Kein Kinderspiel (Folge 38)'
+  - 'Kapitel 04: Kein Kinderspiel (Folge 38)'
+  - 'Kapitel 05: Kein Kinderspiel (Folge 38)'
+  - 'Kapitel 06: Kein Kinderspiel (Folge 38)'
+  - 'Kapitel 01: Versprecher und Verbrecher (Folge 39)'
+  - 'Kapitel 02: Versprecher und Verbrecher (Folge 39)'
+  - 'Kapitel 03: Versprecher und Verbrecher (Folge 39)'
+  - 'Kapitel 04: Versprecher und Verbrecher (Folge 39)'
+  - 'Kapitel 05: Versprecher und Verbrecher (Folge 39)'
+  - 'Kapitel 06: Versprecher und Verbrecher (Folge 39)'
+  - 'Kapitel 01: Wettrennen gegen die Polizei (Folge 40)'
+  - 'Kapitel 02: Wettrennen gegen die Polizei (Folge 40)'
+  - 'Kapitel 03: Wettrennen gegen die Polizei (Folge 40)'
+  - 'Kapitel 04: Wettrennen gegen die Polizei (Folge 40)'
+  - 'Kapitel 05: Wettrennen gegen die Polizei (Folge 40)'
+  - 'Kapitel 06: Wettrennen gegen die Polizei (Folge 40)'
   ids: []

@@ -6,13 +6,22 @@ data:
   episode: Viele Grüße, Deine Giraffe
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_999c4d1201bd44ec961cc8ae9e79ee35dacfb3ecff487d19f8353a3f/3__H0N.7M.lZ7sQ35z/viele_grue_viele_grue_deine_giraffe_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/dfff49b2681b1390294c27274f4c5c64a332e8153c7de60e99d7295e/9783732449002_001_001_128.mp3
   web: https://tonies.com/de-de/audio-content/viele-gruesse/viele-grue-deine-giraffe-horspiel/
   shop-id: 3e218479-2731-4c3c-8fa4-2dc2a7e6f734
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
   ids: []

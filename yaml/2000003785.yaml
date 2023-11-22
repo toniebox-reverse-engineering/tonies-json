@@ -6,13 +6,48 @@ data:
   episode: Bei den Rittern / Bei den Römern
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/abe40689f535b5b9aa6ca8ddd61f61ba07cb212e0c31dc6559925195/3_4hnM3JY5h2vqKl.G/willi_wills_wissen_007_bei_den_rittern___bei_d_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/f2d69c31631df31a71436a188a9a53ff19451db2d10f878eb19ec643/4260229663448_001_001_128.mp3
   web: https://tonies.com/de-de/audio-content/willi-wills-wissen/bei-den-rittern-bei-den-romern/
   shop-id: 226fa2c1-2229-48c0-9304-b6e9a07e8239
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
+  - Kapitel 20
+  - Kapitel 21
+  - Kapitel 22
+  - Kapitel 23
+  - Kapitel 24
+  - Kapitel 25
+  - Kapitel 26
+  - Kapitel 27
+  - Kapitel 28
+  - Kapitel 29
+  - Kapitel 30
+  - Kapitel 31
+  - Kapitel 32
+  - Kapitel 33
+  - Kapitel 34
+  - Kapitel 35
   ids: []

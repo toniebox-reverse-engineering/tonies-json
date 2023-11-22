@@ -6,13 +6,37 @@ data:
   episode: Folge 15 - Tiefsee - Expedition - Der Schatz aus der Tiefe
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 7
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_bc3877ac861e3149b8dd53b949b9aa4a2be4883a2726cfeec7e99dc2/3_-n5k3189X7sGGZnC/lego_city_015_folge_15_tiefsee_expedition__530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/347f4a581b1c49e6affff6039a75ea1611e22b515f823f720f614820/4013575901258_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-city/lego-city-folge-15-tiefsee-expedition-der-schatz-a/
   shop-id: 19b43547-a52d-4ae9-ba9b-6d8326fa2af3
-  track-desc: []
+  track-desc:
+  - Tiefsee - Expedition - Track 1
+  - Tiefsee - Expedition - Track 2
+  - Tiefsee - Expedition - Track 3
+  - Tiefsee - Expedition - Track 4
+  - Tiefsee - Expedition - Track 5
+  - Tiefsee - Expedition - Track 6
+  - Tiefsee - Expedition - Track 7
+  - Tiefsee - Expedition - Track 8
+  - Tiefsee - Expedition - Track 9
+  - Tiefsee - Expedition - Track 10
+  - Tiefsee - Expedition - Track 11
+  - Tiefsee - Expedition - Track 12
+  - Tiefsee - Expedition - Track 13
+  - Tiefsee - Expedition - Track 14
+  - Tiefsee - Expedition - Track 15
+  - Tiefsee - Expedition - Track 16
+  - Tiefsee - Expedition - Track 17
+  - Tiefsee - Expedition - Track 18
+  - Tiefsee - Expedition - Track 19
+  - Tiefsee - Expedition - Track 20
+  - Tiefsee - Expedition - Track 21
+  - Tiefsee - Expedition - Track 22
+  - Tiefsee - Expedition - Track 23
+  - LEGO City - Radau! - Komm mit nach LEGO City (LEGO City Theme Song)
   ids: []

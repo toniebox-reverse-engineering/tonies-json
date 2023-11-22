@@ -6,13 +6,19 @@ data:
   episode: Nachwuchs im Schloss
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_1815593c71fc0ed4300d05c2618b8a6f79bd33438d39d7938cbd1b1a/3_VtNhr6wXdHk852~s/der_kleine_konig_022_nachwuchs_im_schloss_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/be9a8bb5cce38b8b70b3c60a1fa5c85ae12790d83a85d0fae87e7436/22_probe.mp3
   web: https://tonies.com/de-de/audio-content/der-kleine-koenig/der-kleine-konig-nachwuchs-im-schloss/
   shop-id: 405aec5e-359f-40cf-a39a-22b6455d67cf
-  track-desc: []
+  track-desc:
+  - Schlaf-an-Zug-Lied
+  - Nachwuchs im Schloss (Teil 1)
+  - Nachwuchs im Schloss (Teil 2)
+  - Der Schlaf-an-zug
+  - Schlaf-an-Zug-Lied 2
+  - Wunschfilm
   ids: []

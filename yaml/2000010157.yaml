@@ -6,13 +6,65 @@ data:
   episode: 'Märchenklassiker: Der Zauberer von Oz'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 12
   origin: tunes
   image: https://cdn.tonies.de/o/images/752b74cf67d1de6516b29fb562aa289cb101037c2d8eda77915a2308/3_yRpBZ1YXzKjHCqlR/titania_special_009_marchenklassiker__der_zaub_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/bf722d70fc6fe4ba8603a04f3a71222af447b19a5da49b0b5ebfb067/4049709942491_001_001_128.mp3
   web: https://tonies.com/de-de/audio-content/titania-special/titania-special-marchenklassiker-folge-9-der-zaube/
   shop-id: 123f813f-eec2-46f1-bf22-73fe52b46ce8
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
+  - Kapitel 20
+  - Kapitel 21
+  - Kapitel 22
+  - Kapitel 23
+  - Kapitel 24
+  - Kapitel 25
+  - Kapitel 26
+  - Kapitel 27
+  - Kapitel 28
+  - Kapitel 29
+  - Kapitel 30
+  - Kapitel 31
+  - Kapitel 32
+  - Kapitel 33
+  - Kapitel 34
+  - Kapitel 35
+  - Kapitel 36
+  - Kapitel 37
+  - Kapitel 38
+  - Kapitel 39
+  - Kapitel 40
+  - Kapitel 41
+  - Kapitel 42
+  - Kapitel 43
+  - Kapitel 44
+  - Kapitel 45
+  - Kapitel 46
+  - Kapitel 47
+  - Kapitel 48
+  - Kapitel 49
+  - Kapitel 50
+  - Kapitel 51
+  - Kapitel 52
   ids: []

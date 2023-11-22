@@ -6,13 +6,38 @@ data:
   episode: 'Teil 21: Die geheime Flaschenpost'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
   image: https://cdn.tonies.de/o/images/fdc311aa4b71725ae6bd2e02cb4eb50e657c4901c40a8aebbbb6a28f/3_nVJ.N-9FlfprvX5Y/sternenfohlen_021_teil_21__die_geheime_flasche_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/762676cf74288aaf20f3f21cc810ea8cdf5ce74bb89f083810ceb7c8/9783803281708_001_001_128.mp3
   web: https://tonies.com/de-de/audio-content/sternenfohlen/sternenfohlen-teil-21-die-geheime-flaschenpost-ung/
   shop-id: 7851f8a4-c08a-46b3-bdf2-49ffab71bdbe
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
+  - Kapitel 20
+  - Kapitel 21
+  - Kapitel 22
+  - Kapitel 23
+  - Kapitel 24
+  - Kapitel 25
   ids: []

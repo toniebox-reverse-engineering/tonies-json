@@ -6,13 +6,25 @@ data:
   episode: 'Folgen 4-6: Traue niemals einer Schlange'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_5cb659f5cf9401a3318d978fa59e2a349344fd2c2c128f4a3d3e5bfa/3_r0d0nMpwh2n.cPLB/lego_ninjago_004_folgen_4_6__traue_niemals_ein_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/ef1ea9f62fd1eb05fb4390c13d6141808f76fbd415cd2dc12170bdb9/4013575901623_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-4-6-traue-niemals-einer-schlange/
   shop-id: dc7ee5a6-f3ef-4445-9f5b-5c1e507df92a
-  track-desc: []
+  track-desc:
+  - 'Folge 4: Traue niemals einer Schlange - Track 1'
+  - 'Folge 4: Traue niemals einer Schlange - Track 2'
+  - 'Folge 4: Traue niemals einer Schlange - Track 3'
+  - 'Folge 4: Traue niemals einer Schlange - Track 4'
+  - 'Folge 5: Die Vereinigung der Schlangen - Track 1'
+  - 'Folge 5: Die Vereinigung der Schlangen - Track 2'
+  - 'Folge 5: Die Vereinigung der Schlangen - Track 3'
+  - 'Folge 6: Die verlorene Stadt - Track 1'
+  - 'Folge 6: Die verlorene Stadt - Track 2'
+  - 'Folge 6: Die verlorene Stadt - Track 3'
+  - 'Folge 6: Die verlorene Stadt - Track 4'
+  - 'Folge 6: Die verlorene Stadt - Track 5'
   ids: []

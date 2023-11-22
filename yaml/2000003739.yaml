@@ -6,13 +6,27 @@ data:
   episode: 'Teil 23: Zauberhaftes Winterfest'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
   image: https://cdn.tonies.de/o/images/4dfb30029dd813623a9e035901d6b5a8c739175e1dd19b6fd5f94359/3_gTlPjL4bMFGKs8sz/sternenfohlen_023_teil_23__zauberhaftes_winter_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/54529d396fcc00c861ef023e6b580f53574143753c3bcf9db3029178/9783803281722_001_001_128.mp3
   web: https://tonies.com/de-de/audio-content/sternenfohlen/sternenfohlen-teil-23-zauberhaftes-winterfest/
   shop-id: dfb3fc27-b5b0-4560-9eb9-6b10518b084c
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
   ids: []

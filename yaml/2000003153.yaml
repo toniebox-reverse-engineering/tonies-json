@@ -6,13 +6,32 @@ data:
   episode: Die Ritterburg
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_59202079b9f7547a4cb71864752b04fb28c7f63d8d6fb98360da5846/3_Yf8~1vqlG7Bv1HYM/wieso_weshalb_warum_junior_004_die_ritterbu_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/f310d76e600137366f42819162d82255a7c4a9d5cafa729bf89229f3/4057664889379_preview.mp3
   web: https://tonies.com/de-de/audio-content/wieso-weshalb-warum-junior-2/junior-die-ritterburg/
   shop-id: c8db2115-ad98-43f5-a819-a83635d1d4d1
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
   ids: []

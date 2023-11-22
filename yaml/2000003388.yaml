@@ -6,13 +6,31 @@ data:
   episode: 'Folgen 47-49: Die Stadt über dem Wasser'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_ac6e412ffd0fa6a98db655cc4b20db813813296b840ee31d9e6e2adb/3_DYjQxQGsyk5QFfgj/lego_ninjago_047_folgen_47_49__die_stadt_uber__530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/45df23d79fc81b8c95a07a96f38743707285f788db1e7405dd22a453/4013575901784_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-47-49-die-stadt-uber-dem-wasser/
   shop-id: 04c1b30f-0650-49f1-ab71-151208c4a9c3
-  track-desc: []
+  track-desc:
+  - 'Folge 47: Die Stadt über dem Wasser - Track 1'
+  - 'Folge 47: Die Stadt über dem Wasser - Track 2'
+  - 'Folge 47: Die Stadt über dem Wasser - Track 3'
+  - 'Folge 47: Die Stadt über dem Wasser - Track 4'
+  - 'Folge 47: Die Stadt über dem Wasser - Track 5'
+  - 'Folge 47: Die Stadt über dem Wasser - Track 6'
+  - 'Folge 48: Sensei Yangs Prüfung - Track 1'
+  - 'Folge 48: Sensei Yangs Prüfung - Track 2'
+  - 'Folge 48: Sensei Yangs Prüfung - Track 3'
+  - 'Folge 48: Sensei Yangs Prüfung - Track 4'
+  - 'Folge 48: Sensei Yangs Prüfung - Track 5'
+  - 'Folge 48: Sensei Yangs Prüfung - Track 6'
+  - 'Folge 49: Zyklon-Go - Track 1'
+  - 'Folge 49: Zyklon-Go - Track 2'
+  - 'Folge 49: Zyklon-Go - Track 3'
+  - 'Folge 49: Zyklon-Go - Track 4'
+  - 'Folge 49: Zyklon-Go - Track 5'
+  - 'Folge 49: Zyklon-Go - Track 6'
   ids: []

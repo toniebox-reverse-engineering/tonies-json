@@ -6,13 +6,37 @@ data:
   episode: 'Folgen 286-288: Ein Dino in der Abenteuerbucht'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/2f8aef236aee994d0be1546e2a6a0048434f45d31bdec95974cd62b7/3_J6RXsGKcTZR6KkRr/paw_patrol_286_folgen_286_288__ein_dino_in_der_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/3a49ffc3a4561916f8cfbe8c689dad141f77916af3823a3756a59f03/4013575933839_preview.mp3
   web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-286-288-ein-dino-in-der-abenteuerbucht/
   shop-id: 5bb53ff5-2d26-4d4b-88b0-47f1d6ed85e3
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Ein Dino in der Abenteuerbucht (Folge 286)'
+  - 'Kapitel 02: Ein Dino in der Abenteuerbucht (Folge 286)'
+  - 'Kapitel 03: Ein Dino in der Abenteuerbucht (Folge 286)'
+  - 'Kapitel 04: Ein Dino in der Abenteuerbucht (Folge 286)'
+  - 'Kapitel 05: Ein Dino in der Abenteuerbucht (Folge 286)'
+  - 'Kapitel 06: Ein Dino in der Abenteuerbucht (Folge 286)'
+  - 'Kapitel 07: Ein Dino in der Abenteuerbucht (Folge 286)'
+  - 'Kapitel 08: Ein Dino in der Abenteuerbucht (Folge 286)'
+  - 'Kapitel 09: Ein Dino in der Abenteuerbucht (Folge 286)'
+  - 'Kapitel 10: Ein Dino in der Abenteuerbucht (Folge 286)'
+  - 'Kapitel 11: Ein Dino in der Abenteuerbucht (Folge 286)'
+  - 'Kapitel 12: Ein Dino in der Abenteuerbucht (Folge 286)'
+  - 'Kapitel 01: Eine bärenstarke Rettung (Folge 287)'
+  - 'Kapitel 02: Eine bärenstarke Rettung (Folge 287)'
+  - 'Kapitel 03: Eine bärenstarke Rettung (Folge 287)'
+  - 'Kapitel 04: Eine bärenstarke Rettung (Folge 287)'
+  - 'Kapitel 05: Eine bärenstarke Rettung (Folge 287)'
+  - 'Kapitel 06: Eine bärenstarke Rettung (Folge 287)'
+  - 'Kapitel 01: Der Tulpenwettbewerb (Folge 288)'
+  - 'Kapitel 02: Der Tulpenwettbewerb (Folge 288)'
+  - 'Kapitel 03: Der Tulpenwettbewerb (Folge 288)'
+  - 'Kapitel 04: Der Tulpenwettbewerb (Folge 288)'
+  - 'Kapitel 05: Der Tulpenwettbewerb (Folge 288)'
+  - 'Kapitel 06: Der Tulpenwettbewerb (Folge 288)'
   ids: []

@@ -6,13 +6,43 @@ data:
   episode: 'Folgen 62-66: Folge deiner Leidenschaft'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_427dd5cac1168347ce2b1e76c3af8131102fc75e3334e1daae7ad4db/3_CqrRS4rWtWgJbDsW/lego_friends_062_folgen_62_66__folge_deiner_le_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/55f59a06c72a20292a1a45d0f1efac54a291605eda9b09b8039d4a7d/4013575911257_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-friends/folgen-62-66-folge-deiner-leidenschaft/
   shop-id: 564331b4-20f6-4bc6-9c9e-af9b5b2efe3b
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Folge deiner Leidenschaft (Folge 62)'
+  - 'Kapitel 02: Folge deiner Leidenschaft (Folge 62)'
+  - 'Kapitel 03: Folge deiner Leidenschaft (Folge 62)'
+  - 'Kapitel 04: Folge deiner Leidenschaft (Folge 62)'
+  - 'Kapitel 05: Folge deiner Leidenschaft (Folge 62)'
+  - 'Kapitel 06: Folge deiner Leidenschaft (Folge 62)'
+  - 'Kapitel 07: Folge deiner Leidenschaft (Folge 62)'
+  - 'Kapitel 01: Hausgast (Folge 63)'
+  - 'Kapitel 02: Hausgast (Folge 63)'
+  - 'Kapitel 03: Hausgast (Folge 63)'
+  - 'Kapitel 04: Hausgast (Folge 63)'
+  - 'Kapitel 05: Hausgast (Folge 63)'
+  - 'Kapitel 06: Hausgast (Folge 63)'
+  - 'Kapitel 01: Zobo und Zoe (Folge 64)'
+  - 'Kapitel 02: Zobo und Zoe (Folge 64)'
+  - 'Kapitel 03: Zobo und Zoe (Folge 64)'
+  - 'Kapitel 04: Zobo und Zoe (Folge 64)'
+  - 'Kapitel 05: Zobo und Zoe (Folge 64)'
+  - 'Kapitel 01: Das Spiel läuft (Folge 65)'
+  - 'Kapitel 02: Das Spiel läuft (Folge 65)'
+  - 'Kapitel 03: Das Spiel läuft (Folge 65)'
+  - 'Kapitel 04: Das Spiel läuft (Folge 65)'
+  - 'Kapitel 05: Das Spiel läuft (Folge 65)'
+  - 'Kapitel 06: Das Spiel läuft (Folge 65)'
+  - 'Kapitel 01: Gewinnen ist nicht alles (Folge 66)'
+  - 'Kapitel 02: Gewinnen ist nicht alles (Folge 66)'
+  - 'Kapitel 03: Gewinnen ist nicht alles (Folge 66)'
+  - 'Kapitel 04: Gewinnen ist nicht alles (Folge 66)'
+  - 'Kapitel 05: Gewinnen ist nicht alles (Folge 66)'
+  - 'Kapitel 06: Gewinnen ist nicht alles (Folge 66)'
   ids: []

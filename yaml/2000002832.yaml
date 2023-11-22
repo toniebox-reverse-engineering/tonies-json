@@ -6,13 +6,23 @@ data:
   episode: Im Kindergarten
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_2b9c1382e5ac7d43636b2951e886195682f7e796e8bf6f763e46eabc/3_x1nY.DWD_hbbkq.Y/gute_nacht_geschichten_029_im_kindergarten_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/9a067773ae52d1d1d2f2c4aaf6f000d5f9dc0cd13a82733eee646409/425039_bb_gng_hoerprobe_im_kindergarten_90sec.wav
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen-gute-nacht-geschichten/benjamin-im-kindergarten/
   shop-id: 2c4a4fc6-0b61-4d02-973f-7b43375d5798
-  track-desc: []
+  track-desc:
+  - Schlaflied
+  - Übernachtung Im Kindergarten
+  - Paul Will Nach Hause
+  - Die Kunterbunte Murmelbahn
+  - Die Zahnfee
+  - Der Morgenkreis
+  - Keine Angst Vorm Wasser
+  - Die Riesengroße Ritterburg
+  - Das Sommerfest
+  - Schlaflied
   ids: []

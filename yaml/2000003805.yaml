@@ -6,13 +6,28 @@ data:
   episode: Club der geheimen Reiter
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_3e47f975680f0fad428b75872aaff647d789208be4f4c14cfa3f7c04/3_Wh6gKd0KFvmRT1f4/bibi_tina_107_club_der_geheimen_reiter_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/5070e69f20440b7454a10a1445d67e1ea3674965829bbdcb17cf1110/bt_107_der_club_der_geheimen_reiter_90sec.wav
   web: https://tonies.com/de-de/audio-content/bibi-tina/club-der-geheimen-reiter/
   shop-id: 0c997706-33f6-4f0a-b6e1-88227fdb2d66
-  track-desc: []
+  track-desc:
+  - Titellied
+  - Picknick mit Müll
+  - Eine alte Legende
+  - Ein voller Erfolg
+  - Potzblitz!
+  - Besuch von Freddy
+  - Tina verschluckt sich
+  - Ertappt!
+  - Neuigkeiten, Klatsch und Tratsch
+  - Völlig falsch verstanden
+  - Zu Unrecht verdächtigt
+  - Ein nächtlicher Besuch
+  - Hinterhalt am Steinbruch
+  - Noch zwei geheime Reiter
+  - 'EXTRA: Adalbert von Falkenstein'
   ids: []

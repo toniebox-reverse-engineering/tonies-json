@@ -6,13 +6,18 @@ data:
   episode: 'Folgen 22-26: Rettung in letzter Sekunde (Classic)'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/812f3209147eb221ed7527df90b4e03f35e5bf1667e95e22c0daa671/3_6XJx~C2KgmDpQg6Z/feuerwehrmann_sam_022_folgen_22_26__rettung_in_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/ce1b76583dfa2ab1d53dd0893417804e177d324723c275ce05e8da49/4260009918201_preview.mp3
   web: https://tonies.com/de-de/audio-content/feuerwehrmann-sam/folgen-22-26-rettung-in-letzter-sekunde-classic/
   shop-id: 885acefe-9a8c-48c0-a167-897573f5bdc9
-  track-desc: []
+  track-desc:
+  - Der unsichtbare Freund (Folge 22)
+  - Übermut tut selten gut (Folge 23)
+  - Der Lakritz-Dieb (Folge 24)
+  - Feuriges Finale (Folge 25)
+  - Wär' ich doch bei der Feuerwehr (Folge 26)
   ids: []

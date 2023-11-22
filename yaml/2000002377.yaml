@@ -6,13 +6,40 @@ data:
   episode: 'Folgen 121-123: Der Filmdreh'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/3f9e90efe90c4ca3d206fa2fc929850b38ad9cf2a61fba7c87113c88/3_kZ8k.s_VHdS7rW7v/paw_patrol_121_folgen_121_123__der_filmdreh_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/dc01981533ed98abd27d003c86371c6951725595b6415918a2641c08/4013575913848_preview.mp3
   web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-121-123-der-filmdreh/
   shop-id: 078ef236-ffe7-471f-8a67-6cb0698a31e3
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Der Filmdreh (Folge 121)'
+  - 'Kapitel 02: Der Filmdreh (Folge 121)'
+  - 'Kapitel 03: Der Filmdreh (Folge 121)'
+  - 'Kapitel 04: Der Filmdreh (Folge 121)'
+  - 'Kapitel 05: Der Filmdreh (Folge 121)'
+  - 'Kapitel 06: Der Filmdreh (Folge 121)'
+  - 'Kapitel 07: Der Filmdreh (Folge 121)'
+  - 'Kapitel 08: Der Filmdreh (Folge 121)'
+  - 'Kapitel 09: Der Filmdreh (Folge 121)'
+  - 'Kapitel 10: Der Filmdreh (Folge 121)'
+  - 'Kapitel 11: Der Filmdreh (Folge 121)'
+  - 'Kapitel 12: Der Filmdreh (Folge 121)'
+  - 'Kapitel 13: Der Filmdreh (Folge 121)'
+  - 'Kapitel 14: Der Filmdreh (Folge 121)'
+  - 'Kapitel 01: Ein königliches Konzert (Folge 122)'
+  - 'Kapitel 02: Ein königliches Konzert (Folge 122)'
+  - 'Kapitel 03: Ein königliches Konzert (Folge 122)'
+  - 'Kapitel 04: Ein königliches Konzert (Folge 122)'
+  - 'Kapitel 05: Ein königliches Konzert (Folge 122)'
+  - 'Kapitel 06: Ein königliches Konzert (Folge 122)'
+  - 'Kapitel 01: Tiere im Schloss (Folge 123)'
+  - 'Kapitel 02: Tiere im Schloss (Folge 123)'
+  - 'Kapitel 03: Tiere im Schloss (Folge 123)'
+  - 'Kapitel 04: Tiere im Schloss (Folge 123)'
+  - 'Kapitel 05: Tiere im Schloss (Folge 123)'
+  - 'Kapitel 06: Tiere im Schloss (Folge 123)'
+  - 'Kapitel 07: Tiere im Schloss (Folge 123)'
   ids: []

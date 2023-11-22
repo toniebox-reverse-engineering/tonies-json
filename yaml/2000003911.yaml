@@ -6,13 +6,27 @@ data:
   episode: Meister der Spiele (Band 12)
   release: 0
   language: de-de
-  category: null
+  category: audio-book
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/883539d25ee630112a9307831109221cc8e9297412ba148067b94433/3_.ywmtglCB9tDxFHJ/lego_ninjago_horbucher_012_meister_der_spiel_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/c43ef5aaf292e00b9f030853d64cf35953f17b1c8173f64c3b492d9a/4013575925681_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-ninjago-hoerbuecher/meister-der-spiele-band-12/
   shop-id: fccf5531-d51b-4317-9bcf-9918d3d99d43
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Meister der Spiele (Band 12)'
+  - 'Kapitel 02: Meister der Spiele (Band 12)'
+  - 'Kapitel 03: Meister der Spiele (Band 12)'
+  - 'Kapitel 04: Meister der Spiele (Band 12)'
+  - 'Kapitel 05: Meister der Spiele (Band 12)'
+  - 'Kapitel 06: Meister der Spiele (Band 12)'
+  - 'Kapitel 07: Meister der Spiele (Band 12)'
+  - 'Kapitel 08: Meister der Spiele (Band 12)'
+  - 'Kapitel 09: Meister der Spiele (Band 12)'
+  - 'Kapitel 10: Meister der Spiele (Band 12)'
+  - 'Kapitel 11: Meister der Spiele (Band 12)'
+  - 'Kapitel 12: Meister der Spiele (Band 12)'
+  - 'Kapitel 13: Meister der Spiele (Band 12)'
+  - 'Kapitel 14: Meister der Spiele (Band 12)'
   ids: []

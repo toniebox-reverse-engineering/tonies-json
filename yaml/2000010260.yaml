@@ -6,13 +6,44 @@ data:
   episode: 'Folgen 78-82: Grizzled und Grizzled-er'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 7
   origin: tunes
   image: https://cdn.tonies.de/o/images/d9b095a6227772b27135cea79b74ecb40fbfdc2aae040e0f9c173dcc/3_9p3p1lVQ3jBkxlyp/lego_city_078_folgen_78_82__grizzled_und_grizz_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/addab7df5cfdc6f0285f426ec63d8e168fec4d6a9d5de34e7cbc0297/4013575938759_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-city/folgen-78-82-grizzled-und-grizzled-er/
   shop-id: f9c7d49b-c13f-4bd5-b088-25b5ca1802f7
-  track-desc: []
+  track-desc:
+  - LEGO City Abenteuer Lied
+  - 'Kapitel 01: Grizzled und Grizzled-er (Folge 78)'
+  - 'Kapitel 02: Grizzled und Grizzled-er (Folge 78)'
+  - 'Kapitel 03: Grizzled und Grizzled-er (Folge 78)'
+  - 'Kapitel 04: Grizzled und Grizzled-er (Folge 78)'
+  - 'Kapitel 05: Grizzled und Grizzled-er (Folge 78)'
+  - 'Kapitel 06: Grizzled und Grizzled-er (Folge 78)'
+  - 'Kapitel 01: Freya und die Hauptsache (Folge 79)'
+  - 'Kapitel 02: Freya und die Hauptsache (Folge 79)'
+  - 'Kapitel 03: Freya und die Hauptsache (Folge 79)'
+  - 'Kapitel 04: Freya und die Hauptsache (Folge 79)'
+  - 'Kapitel 05: Freya und die Hauptsache (Folge 79)'
+  - 'Kapitel 06: Freya und die Hauptsache (Folge 79)'
+  - 'Kapitel 01: Wer ist Schaf Wheeler? (Folge 80)'
+  - 'Kapitel 02: Wer ist Schaf Wheeler? (Folge 80)'
+  - 'Kapitel 03: Wer ist Schaf Wheeler? (Folge 80)'
+  - 'Kapitel 04: Wer ist Schaf Wheeler? (Folge 80)'
+  - 'Kapitel 05: Wer ist Schaf Wheeler? (Folge 80)'
+  - 'Kapitel 06: Wer ist Schaf Wheeler? (Folge 80)'
+  - 'Kapitel 01: König Fendrich – Teil 1 (Folge 81)'
+  - 'Kapitel 02: König Fendrich – Teil 1 (Folge 81)'
+  - 'Kapitel 03: König Fendrich – Teil 1 (Folge 81)'
+  - 'Kapitel 04: König Fendrich – Teil 1 (Folge 81)'
+  - 'Kapitel 05: König Fendrich – Teil 1 (Folge 81)'
+  - 'Kapitel 06: König Fendrich – Teil 1 (Folge 81)'
+  - 'Kapitel 01: König Fendrich – Teil 2 (Folge 82)'
+  - 'Kapitel 02: König Fendrich – Teil 2 (Folge 82)'
+  - 'Kapitel 03: König Fendrich – Teil 2 (Folge 82)'
+  - 'Kapitel 04: König Fendrich – Teil 2 (Folge 82)'
+  - 'Kapitel 05: König Fendrich – Teil 2 (Folge 82)'
+  - 'Kapitel 06: König Fendrich – Teil 2 (Folge 82)'
   ids: []

@@ -6,13 +6,34 @@ data:
   episode: 'Folgen 240-242: Die Moto Patrol und Bürgermeisterin Schlechtherz'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_2d4e90cf3198f7ed703ffaaffa3dc27027473b4772f8107307722284/3_kG-mFvwmNslVLhn7/paw_patrol_240_folgen_240_242__die_moto_patrol_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/f65ef23b68f33805fae9f908df26ee8611f3c87428e69723b5450fa9/4013575930333_preview.mp3
   web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-240-242-die-moto-patrol-und-burgermeisterin/
   shop-id: 52abb879-f13b-4126-8e8a-9beafc136257
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Die Moto Patrol und Bürgermeisterin Schlechtherz (Folge 240)'
+  - 'Kapitel 02: Die Moto Patrol und Bürgermeisterin Schlechtherz (Folge 240)'
+  - 'Kapitel 03: Die Moto Patrol und Bürgermeisterin Schlechtherz (Folge 240)'
+  - 'Kapitel 04: Die Moto Patrol und Bürgermeisterin Schlechtherz (Folge 240)'
+  - 'Kapitel 05: Die Moto Patrol und Bürgermeisterin Schlechtherz (Folge 240)'
+  - 'Kapitel 06: Die Moto Patrol und Bürgermeisterin Schlechtherz (Folge 240)'
+  - 'Kapitel 07: Die Moto Patrol und Bürgermeisterin Schlechtherz (Folge 240)'
+  - 'Kapitel 08: Die Moto Patrol und Bürgermeisterin Schlechtherz (Folge 240)'
+  - 'Kapitel 09: Die Moto Patrol und Bürgermeisterin Schlechtherz (Folge 240)'
+  - 'Kapitel 10: Die Moto Patrol und Bürgermeisterin Schlechtherz (Folge 240)'
+  - 'Kapitel 11: Die Moto Patrol und Bürgermeisterin Schlechtherz (Folge 240)'
+  - 'Kapitel 01: Lukas Stern in Not (Folge 241)'
+  - 'Kapitel 02: Lukas Stern in Not (Folge 241)'
+  - 'Kapitel 03: Lukas Stern in Not (Folge 241)'
+  - 'Kapitel 04: Lukas Stern in Not (Folge 241)'
+  - 'Kapitel 05: Lukas Stern in Not (Folge 241)'
+  - 'Kapitel 01: Der Hühnchen-Tag (Folge 242)'
+  - 'Kapitel 02: Der Hühnchen-Tag (Folge 242)'
+  - 'Kapitel 03: Der Hühnchen-Tag (Folge 242)'
+  - 'Kapitel 04: Der Hühnchen-Tag (Folge 242)'
+  - 'Kapitel 05: Der Hühnchen-Tag (Folge 242)'
   ids: []

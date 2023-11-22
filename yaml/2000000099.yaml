@@ -6,13 +6,21 @@ data:
   episode: in Afrika
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_ae2b936e7132c16b578fd98d17ceeba90254d5650f930303b92d3d2c/3_hHm1R~3h4z3D2qb~/benjamin_blumchen_004_in_afrika_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/7ccabcedf6e7de93a8d8d4fcf6b9abb414dbd5bad44e63ac7ed240d3/benjamin_in_afrika_hoerprobe.wav
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/in-afrika/
   shop-id: 26db1c75-3c77-454f-aa94-b922a71225af
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Wo kommt Benjamin her-
+  - Im Reisebüro
+  - Auf nach Afrika
+  - Die Elefantenherde
+  - In freier Wildbahn
+  - Benjamins Heldentat
+  - Zurück in Neustadt
   ids: []

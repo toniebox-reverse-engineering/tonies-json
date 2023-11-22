@@ -6,13 +6,44 @@ data:
   episode: 'Folge 14: Tiefe Dunkelheit'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/7dd8b142b1b2a257b1141c1926d79b301926d5bf36c49612402aaafa/3_W88bBWcyKglq7p_1/schleich_eldrador_creatures_014_folge_14__tief_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/88d995b57407dedb201850d2a28189747898fd5021550502302de8bc/4013575936205_preview.mp3
   web: https://tonies.com/de-de/audio-content/schleich-eldrador-creatures/folge-14-tiefe-dunkelheit/
   shop-id: 53da2100-89dd-4111-b13a-ebef8506d763
-  track-desc: []
+  track-desc:
+  - Inhaltsangabe - Tiefe Dunkelheit (Folge 14)
+  - Intro Lied - Tiefe Dunkelheit (Folge 14)
+  - 'Kapitel 01: Tiefe Dunkelheit (Folge 14)'
+  - 'Kapitel 02: Tiefe Dunkelheit (Folge 14)'
+  - 'Kapitel 03: Tiefe Dunkelheit (Folge 14)'
+  - 'Kapitel 04: Tiefe Dunkelheit (Folge 14)'
+  - 'Kapitel 05: Tiefe Dunkelheit (Folge 14)'
+  - 'Kapitel 06: Tiefe Dunkelheit (Folge 14)'
+  - 'Kapitel 07: Tiefe Dunkelheit (Folge 14)'
+  - 'Kapitel 08: Tiefe Dunkelheit (Folge 14)'
+  - 'Kapitel 09: Tiefe Dunkelheit (Folge 14)'
+  - 'Kapitel 10: Tiefe Dunkelheit (Folge 14)'
+  - 'Kapitel 11: Tiefe Dunkelheit (Folge 14)'
+  - 'Kapitel 12: Tiefe Dunkelheit (Folge 14)'
+  - 'Kapitel 13: Tiefe Dunkelheit (Folge 14)'
+  - 'Kapitel 14: Tiefe Dunkelheit (Folge 14)'
+  - 'Kapitel 15: Tiefe Dunkelheit (Folge 14)'
+  - 'Kapitel 16: Tiefe Dunkelheit (Folge 14)'
+  - 'Kapitel 17: Tiefe Dunkelheit (Folge 14)'
+  - 'Kapitel 18: Tiefe Dunkelheit (Folge 14)'
+  - 'Kapitel 19: Tiefe Dunkelheit (Folge 14)'
+  - 'Kapitel 20: Tiefe Dunkelheit (Folge 14)'
+  - 'Kapitel 21: Tiefe Dunkelheit (Folge 14)'
+  - 'Kapitel 22: Tiefe Dunkelheit (Folge 14)'
+  - 'Kapitel 23: Tiefe Dunkelheit (Folge 14)'
+  - 'Kapitel 24: Tiefe Dunkelheit (Folge 14)'
+  - 'Kapitel 25: Tiefe Dunkelheit (Folge 14)'
+  - 'Kapitel 26: Tiefe Dunkelheit (Folge 14)'
+  - 'Kapitel 27: Tiefe Dunkelheit (Folge 14)'
+  - Eldrador Lied
+  - Outro - Tiefe Dunkelheit (Folge 14)
   ids: []

@@ -6,13 +6,15 @@ data:
   episode: Peppa Pig - Il Nuovo Dinosauro di George e altre storie
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/50f13b644578e8d80c888c21bddbace22351065a3c6eac6694ea64b7/3_1DJ.L9VtxQzSRzry/peppa_pig_001_peppa_pig_il_nuovo_dinosauro_d_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/08b5cd37c4d93b12c2a41ca4b34b701bbb13c29701fd9ec3ba3842d9/9788728335376.mp3
   web: https://tonies.com/de-de/audio-content/peppa-pig/peppa-pig-il-nuovo-dinosauro-di-george-e-altre-sto/
   shop-id: 9fd00e3e-1d09-4bc7-b19b-282db0e5f9ed
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
   ids: []

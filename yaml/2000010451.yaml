@@ -6,13 +6,18 @@ data:
   episode: Storytime Collection 6
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/aff0f7b31ecb75b3cea7a09bbc2fbd0c23bd67c24295c1ead7be503f/3_GPtWG9mWm5hK9~X8/die_schlumpfe_006_storytime_collection_6_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/65425a01815cccdd9e5bf0d9c991b9a36f2408f2691074f4dac24429/9788726996913.mp3
   web: https://tonies.com/de-de/audio-content/die-schluempfe/storytime-collection-6/
   shop-id: 759aff3a-114f-45b7-bb9e-113093431ce0
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
   ids: []

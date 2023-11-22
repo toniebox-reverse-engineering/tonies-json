@@ -6,13 +6,36 @@ data:
   episode: Das Pferd Huppdiwupp und andere lustige Geschichten
   release: 0
   language: de-de
-  category: null
+  category: audio-book
   runtime: 0
   age: 4
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_6308f5e512fb660c82161bab545c09730b500b231a9ac3b1d68e24b9/3__qyh7f1FBgj~dnSs/das_pferd_huppdiwupp_das_pferd_huppdiwupp_und_an_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/e87dee0f334bafb2b08f72d437d3ca83a40fe8bf00900fd07d49160e/huppdiwupphoerprobe.wav
   web: https://tonies.com/de-de/audio-content/das-pferd-huppdiwupp/das-pferd-huppdiwupp-und-andere-lustige-geschichte/
   shop-id: 098633dd-79da-475c-8f5e-3236a30c69ca
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
+  - Kapitel 20
+  - Kapitel 21
+  - Kapitel 22
+  - Kapitel 23
   ids: []

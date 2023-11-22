@@ -6,13 +6,16 @@ data:
   episode: Héroes en Pijamas - ¡Héroes y heroínas!
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/083e7ad73b3239fac9f9e2ee480ae6a3be0e601ea721c23b3bc72d15/3_t-whR-0HhyDhRKLm/pj_masks_heroes_en_pijamas_heroes_y_heroinas_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/9af9a9f19cf55183b532f3e830b5eb6704e4c83046ef7d6ca741461c/9788726945379.mp3
   web: https://tonies.com/de-de/audio-content/pj-masks/heroes-en-pijamas-heroes-y-heroinas/
   shop-id: 4a9bdb7a-b9c5-4405-8736-171c3ed0363e
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
   ids: []

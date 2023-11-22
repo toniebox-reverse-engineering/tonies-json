@@ -6,13 +6,26 @@ data:
   episode: Flossen
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 7
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_07ef4f1c98ec926e3b6b49d4b179529fa6e44f9da0264c210d3dde64/3_H~HqkWWwGsB0yq_N/ralph_ruthe_flossen_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/7452401e96aa4a4d51138d33c84951d76bbe37ca8f4a853a7a6426d9/hoerprobe_flossen.wav
   web: https://tonies.com/de-de/audio-content/ralph-ruthe/ruthe-flossen/
   shop-id: b7b4a9ad-6e43-4352-ba44-e70cddffab70
-  track-desc: []
+  track-desc:
+  - Titellied
+  - 'Kapitel 01: Flossen'
+  - 'Kapitel 02: Flossen'
+  - 'Kapitel 03: Flossen'
+  - 'Kapitel 04: Flossen'
+  - 'Kapitel 05: Flossen'
+  - 'Kapitel 06: Flossen'
+  - 'Kapitel 07: Flossen'
+  - 'Kapitel 08: Flossen'
+  - 'Kapitel 09: Flossen'
+  - 'Kapitel 10: Flossen'
+  - 'Kapitel 11: Flossen'
+  - 'Kapitel 12: Flossen'
   ids: []

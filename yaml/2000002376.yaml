@@ -6,13 +6,38 @@ data:
   episode: 'Folgen 117-120: Das versunkene Piratenschiff'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/ae29781a0d37447e1fa79dd208d5d3db1c1c1e87d0cd56a1ac37cc65/3_FyPT80h5R75SjjH-/paw_patrol_117_folgen_117_120__das_versunkene__530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/14cc6b1f468f099063641bbdf8fdd5bf62c1e823824946bd7b113417/4013575913831_preview.mp3
   web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-117-120-das-versunkene-piratenschiff/
   shop-id: 4380017c-7a1f-4b42-b348-98cad227748c
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Das versunkene Piratenschiff (Folge 117)'
+  - 'Kapitel 02: Das versunkene Piratenschiff (Folge 117)'
+  - 'Kapitel 03: Das versunkene Piratenschiff (Folge 117)'
+  - 'Kapitel 04: Das versunkene Piratenschiff (Folge 117)'
+  - 'Kapitel 05: Das versunkene Piratenschiff (Folge 117)'
+  - 'Kapitel 06: Das versunkene Piratenschiff (Folge 117)'
+  - 'Kapitel 07: Das versunkene Piratenschiff (Folge 117)'
+  - 'Kapitel 01: Ein Wal braucht Hilfe (Folge 118)'
+  - 'Kapitel 02: Ein Wal braucht Hilfe (Folge 118)'
+  - 'Kapitel 03: Ein Wal braucht Hilfe (Folge 118)'
+  - 'Kapitel 04: Ein Wal braucht Hilfe (Folge 118)'
+  - 'Kapitel 05: Ein Wal braucht Hilfe (Folge 118)'
+  - 'Kapitel 06: Ein Wal braucht Hilfe (Folge 118)'
+  - 'Kapitel 01: Der Unterwasser-Vulkan (Folge 119)'
+  - 'Kapitel 02: Der Unterwasser-Vulkan (Folge 119)'
+  - 'Kapitel 03: Der Unterwasser-Vulkan (Folge 119)'
+  - 'Kapitel 04: Der Unterwasser-Vulkan (Folge 119)'
+  - 'Kapitel 05: Der Unterwasser-Vulkan (Folge 119)'
+  - 'Kapitel 06: Der Unterwasser-Vulkan (Folge 119)'
+  - 'Kapitel 01: Die Überschwemmung (Folge 120)'
+  - 'Kapitel 02: Die Überschwemmung (Folge 120)'
+  - 'Kapitel 03: Die Überschwemmung (Folge 120)'
+  - 'Kapitel 04: Die Überschwemmung (Folge 120)'
+  - 'Kapitel 05: Die Überschwemmung (Folge 120)'
+  - 'Kapitel 06: Die Überschwemmung (Folge 120)'
   ids: []

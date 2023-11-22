@@ -6,13 +6,44 @@ data:
   episode: 'Folgen 155-160: Der Gigant-Drache'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_aad097340926ec0dcbd799bfc2448a121bd882882c517c18e46af737/3_WNMZ4bHsXcS~qjb5/lego_ninjago_155_folgen_155_160__der_gigant_dr_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/8a94d94870249a45a688f37638a306dc7bc0597a6600cc23c28b7880/4013575913220_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-155-160-der-gigant-drache/
   shop-id: 19230cae-245d-4d64-8308-b9d0f0ccaa26
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Der Gigant-Drache (Folge 155)'
+  - 'Kapitel 02: Der Gigant-Drache (Folge 155)'
+  - 'Kapitel 03: Der Gigant-Drache (Folge 155)'
+  - 'Kapitel 04: Der Gigant-Drache (Folge 155)'
+  - 'Kapitel 05: Der Gigant-Drache (Folge 155)'
+  - 'Kapitel 06: Der Gigant-Drache (Folge 155)'
+  - 'Kapitel 07: Der Gigant-Drache (Folge 155)'
+  - 'Kapitel 01: Meister geben niemals auf (Folge 156)'
+  - 'Kapitel 02: Meister geben niemals auf (Folge 156)'
+  - 'Kapitel 03: Meister geben niemals auf (Folge 156)'
+  - 'Kapitel 04: Meister geben niemals auf (Folge 156)'
+  - 'Kapitel 05: Meister geben niemals auf (Folge 156)'
+  - 'Kapitel 01: Die Schutz-Höhle (Folge 157)'
+  - 'Kapitel 02: Die Schutz-Höhle (Folge 157)'
+  - 'Kapitel 03: Die Schutz-Höhle (Folge 157)'
+  - 'Kapitel 04: Die Schutz-Höhle (Folge 157)'
+  - 'Kapitel 01: Der Aufstieg (Folge 158)'
+  - 'Kapitel 02: Der Aufstieg (Folge 158)'
+  - 'Kapitel 03: Der Aufstieg (Folge 158)'
+  - 'Kapitel 04: Der Aufstieg (Folge 158)'
+  - 'Kapitel 05: Der Aufstieg (Folge 158)'
+  - 'Kapitel 01: Die Oblies schlagen zurück (Folge 159)'
+  - 'Kapitel 02: Die Oblies schlagen zurück (Folge 159)'
+  - 'Kapitel 03: Die Oblies schlagen zurück (Folge 159)'
+  - 'Kapitel 04: Die Oblies schlagen zurück (Folge 159)'
+  - 'Kapitel 05: Die Oblies schlagen zurück (Folge 159)'
+  - 'Kapitel 01: Der Sohn von Lilly (Folge 160)'
+  - 'Kapitel 02: Der Sohn von Lilly (Folge 160)'
+  - 'Kapitel 03: Der Sohn von Lilly (Folge 160)'
+  - 'Kapitel 04: Der Sohn von Lilly (Folge 160)'
+  - 'Kapitel 05: Der Sohn von Lilly (Folge 160)'
   ids: []

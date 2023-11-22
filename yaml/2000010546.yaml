@@ -6,13 +6,65 @@ data:
   episode: 'Folgen 59-62: Die Nacht der Katze'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/e80f9a3c7e37a7d725d6bde235a64d5bcf48a934250ededd6694eebe/3_~zJNGgLNTYYZMy-s/pj_masks_059_folgen_59_62__die_nacht_der_katze_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/50fd6576975012582cdb994c83b5a5147a1e4ca9a62d709ad698f138/4013575943746_preview.mp3
   web: https://tonies.com/de-de/audio-content/pj-masks/folgen-59-62-die-nacht-der-katze/
   shop-id: 1cfbee96-c12f-41f4-916e-5661bf054d59
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Die Nacht der Katze (Folge 59)'
+  - 'Kapitel 02: Die Nacht der Katze (Folge 59)'
+  - 'Kapitel 03: Die Nacht der Katze (Folge 59)'
+  - 'Kapitel 04: Die Nacht der Katze (Folge 59)'
+  - 'Kapitel 05: Die Nacht der Katze (Folge 59)'
+  - 'Kapitel 06: Die Nacht der Katze (Folge 59)'
+  - 'Kapitel 07: Die Nacht der Katze (Folge 59)'
+  - 'Kapitel 08: Die Nacht der Katze (Folge 59)'
+  - 'Kapitel 09: Die Nacht der Katze (Folge 59)'
+  - 'Kapitel 10: Die Nacht der Katze (Folge 59)'
+  - 'Kapitel 11: Die Nacht der Katze (Folge 59)'
+  - 'Kapitel 12: Die Nacht der Katze (Folge 59)'
+  - 'Kapitel 13: Die Nacht der Katze (Folge 59)'
+  - 'Kapitel 14: Die Nacht der Katze (Folge 59)'
+  - 'Kapitel 01: Mach''s noch mal, Catboy (Folge 60)'
+  - 'Kapitel 02: Mach''s noch mal, Catboy (Folge 60)'
+  - 'Kapitel 03: Mach''s noch mal, Catboy (Folge 60)'
+  - 'Kapitel 04: Mach''s noch mal, Catboy (Folge 60)'
+  - 'Kapitel 05: Mach''s noch mal, Catboy (Folge 60)'
+  - 'Kapitel 06: Mach''s noch mal, Catboy (Folge 60)'
+  - 'Kapitel 07: Mach''s noch mal, Catboy (Folge 60)'
+  - 'Kapitel 08: Mach''s noch mal, Catboy (Folge 60)'
+  - 'Kapitel 09: Mach''s noch mal, Catboy (Folge 60)'
+  - 'Kapitel 10: Mach''s noch mal, Catboy (Folge 60)'
+  - 'Kapitel 11: Mach''s noch mal, Catboy (Folge 60)'
+  - 'Kapitel 12: Mach''s noch mal, Catboy (Folge 60)'
+  - 'Kapitel 01: Ninja-Motten (Folge 61)'
+  - 'Kapitel 02: Ninja-Motten (Folge 61)'
+  - 'Kapitel 03: Ninja-Motten (Folge 61)'
+  - 'Kapitel 04: Ninja-Motten (Folge 61)'
+  - 'Kapitel 05: Ninja-Motten (Folge 61)'
+  - 'Kapitel 06: Ninja-Motten (Folge 61)'
+  - 'Kapitel 07: Ninja-Motten (Folge 61)'
+  - 'Kapitel 08: Ninja-Motten (Folge 61)'
+  - 'Kapitel 09: Ninja-Motten (Folge 61)'
+  - 'Kapitel 10: Ninja-Motten (Folge 61)'
+  - 'Kapitel 11: Ninja-Motten (Folge 61)'
+  - 'Kapitel 12: Ninja-Motten (Folge 61)'
+  - 'Kapitel 13: Ninja-Motten (Folge 61)'
+  - 'Kapitel 01: Wer hat hier die Eulenkraft? (Folge 62)'
+  - 'Kapitel 02: Wer hat hier die Eulenkraft? (Folge 62)'
+  - 'Kapitel 03: Wer hat hier die Eulenkraft? (Folge 62)'
+  - 'Kapitel 04: Wer hat hier die Eulenkraft? (Folge 62)'
+  - 'Kapitel 05: Wer hat hier die Eulenkraft? (Folge 62)'
+  - 'Kapitel 06: Wer hat hier die Eulenkraft? (Folge 62)'
+  - 'Kapitel 07: Wer hat hier die Eulenkraft? (Folge 62)'
+  - 'Kapitel 08: Wer hat hier die Eulenkraft? (Folge 62)'
+  - 'Kapitel 09: Wer hat hier die Eulenkraft? (Folge 62)'
+  - 'Kapitel 10: Wer hat hier die Eulenkraft? (Folge 62)'
+  - 'Kapitel 11: Wer hat hier die Eulenkraft? (Folge 62)'
+  - 'Kapitel 12: Wer hat hier die Eulenkraft? (Folge 62)'
+  - 'Kapitel 13: Wer hat hier die Eulenkraft? (Folge 62)'
   ids: []

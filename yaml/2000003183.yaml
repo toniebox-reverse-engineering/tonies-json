@@ -6,13 +6,33 @@ data:
   episode: Wir gehen in den Zoo
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_cea1a1b730522513142cc2350ae84f8e05613896565ad7f1b3d4fcae/3_wF5p0Pxhzv_7T67k/wieso_weshalb_warum_junior_030_wir_gehen_in_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/88f7f2f40b6b25d547ca5d9fb6a053ae2a77fc3aa51de9e29f459e22/4057664029768_preview.mp3
   web: https://tonies.com/de-de/audio-content/wieso-weshalb-warum-junior-2/wir-gehen-in-den-zoo/
   shop-id: 2d53c7d4-0b74-4287-ab3d-dc67749731b9
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
+  - Kapitel 20
   ids: []

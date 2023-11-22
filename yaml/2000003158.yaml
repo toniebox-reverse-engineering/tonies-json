@@ -6,13 +6,31 @@ data:
   episode: Mama, Papa, Oma, Opa
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_044c985e6eb42ec7a1465cb1a066c78f04bdf751a67ae5467dcbf9c3/3_k0QfTS30hQq9dBfd/wieso_weshalb_warum_junior_039_mama_papa__530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/bf8635ea0475cf56aeba6df534e497c73b8af5b6fd2a2907332abdbf/4064066282219_preview.mp3
   web: https://tonies.com/de-de/audio-content/wieso-weshalb-warum-junior-2/mama-papa-oma-opa/
   shop-id: 5c3d064e-6a76-4947-a7c2-eaa377f01b6e
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
   ids: []

@@ -6,13 +6,36 @@ data:
   episode: 'Folgen 278-281: Rettung für T-Rex'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_2235c5ed0d00beeba94a8b83f9eabdb06ae1777ef744a69a64957ac0/3_PNPDWxR68brbGdCs/paw_patrol_278_folgen_278_281__rettung_fur_t_r_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/982dc1a946514d52f529713de679f43c47869b6fc2ad3cfb21bd37ae/4013575933181_preview.mp3
   web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-278-281-rettung-fur-t-rex/
   shop-id: 9730c5e5-dc8e-4082-a024-52e9be465b2e
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Der verletzte Flugsaurier (Folge 278)'
+  - 'Kapitel 02: Der verletzte Flugsaurier (Folge 278)'
+  - 'Kapitel 03: Der verletzte Flugsaurier (Folge 278)'
+  - 'Kapitel 04: Der verletzte Flugsaurier (Folge 278)'
+  - 'Kapitel 05: Der verletzte Flugsaurier (Folge 278)'
+  - 'Kapitel 06: Der verletzte Flugsaurier (Folge 278)'
+  - 'Kapitel 01: Rettung für T-Rex (Folge 279)'
+  - 'Kapitel 02: Rettung für T-Rex (Folge 279)'
+  - 'Kapitel 03: Rettung für T-Rex (Folge 279)'
+  - 'Kapitel 04: Rettung für T-Rex (Folge 279)'
+  - 'Kapitel 05: Rettung für T-Rex (Folge 279)'
+  - 'Kapitel 01: Der Schulbus (Folge 280)'
+  - 'Kapitel 02: Der Schulbus (Folge 280)'
+  - 'Kapitel 03: Der Schulbus (Folge 280)'
+  - 'Kapitel 04: Der Schulbus (Folge 280)'
+  - 'Kapitel 05: Der Schulbus (Folge 280)'
+  - 'Kapitel 06: Der Schulbus (Folge 280)'
+  - 'Kapitel 01: Die Goldkehlchen (Folge 281)'
+  - 'Kapitel 02: Die Goldkehlchen (Folge 281)'
+  - 'Kapitel 03: Die Goldkehlchen (Folge 281)'
+  - 'Kapitel 04: Die Goldkehlchen (Folge 281)'
+  - 'Kapitel 05: Die Goldkehlchen (Folge 281)'
+  - 'Kapitel 06: Die Goldkehlchen (Folge 281)'
   ids: []

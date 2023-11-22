@@ -6,13 +6,42 @@ data:
   episode: 'Folgen 186-190: Ein verhängnisvolles Versprechen'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/ff0c80b7c3fe85acd8c7b831b0a9522414d5e01e371ab338463884e9/3_N_1d.sLBv7gmwpts/lego_ninjago_186_folgen_186_190__ein_verhangni_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/f9309fdb56bae17abc98482c22267f7016b91823e13fd365787525a7/4013575935185_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-186-190-ein-verhangnisvolles-versprechen/
   shop-id: 6bd80397-345e-4819-920d-446b16dc0426
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Ein verhängnisvolles Versprechen (Folge 186)'
+  - 'Kapitel 02: Ein verhängnisvolles Versprechen (Folge 186)'
+  - 'Kapitel 03: Ein verhängnisvolles Versprechen (Folge 186)'
+  - 'Kapitel 04: Ein verhängnisvolles Versprechen (Folge 186)'
+  - 'Kapitel 05: Ein verhängnisvolles Versprechen (Folge 186)'
+  - 'Kapitel 06: Ein verhängnisvolles Versprechen (Folge 186)'
+  - 'Kapitel 01: Die Ninja vor Gericht (Folge 187)'
+  - 'Kapitel 02: Die Ninja vor Gericht (Folge 187)'
+  - 'Kapitel 03: Die Ninja vor Gericht (Folge 187)'
+  - 'Kapitel 04: Die Ninja vor Gericht (Folge 187)'
+  - 'Kapitel 05: Die Ninja vor Gericht (Folge 187)'
+  - 'Kapitel 01: Frust im Gefängnis (Folge 188)'
+  - 'Kapitel 02: Frust im Gefängnis (Folge 188)'
+  - 'Kapitel 03: Frust im Gefängnis (Folge 188)'
+  - 'Kapitel 04: Frust im Gefängnis (Folge 188)'
+  - 'Kapitel 05: Frust im Gefängnis (Folge 188)'
+  - 'Kapitel 06: Frust im Gefängnis (Folge 188)'
+  - 'Kapitel 01: Flucht in die Wüste (Folge 189)'
+  - 'Kapitel 02: Flucht in die Wüste (Folge 189)'
+  - 'Kapitel 03: Flucht in die Wüste (Folge 189)'
+  - 'Kapitel 04: Flucht in die Wüste (Folge 189)'
+  - 'Kapitel 05: Flucht in die Wüste (Folge 189)'
+  - 'Kapitel 06: Flucht in die Wüste (Folge 189)'
+  - 'Kapitel 01: Nützliche Gefühle (Folge 190)'
+  - 'Kapitel 02: Nützliche Gefühle (Folge 190)'
+  - 'Kapitel 03: Nützliche Gefühle (Folge 190)'
+  - 'Kapitel 04: Nützliche Gefühle (Folge 190)'
+  - 'Kapitel 05: Nützliche Gefühle (Folge 190)'
+  - 'Kapitel 06: Nützliche Gefühle (Folge 190)'
   ids: []

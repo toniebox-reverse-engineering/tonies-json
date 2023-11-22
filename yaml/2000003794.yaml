@@ -6,13 +6,27 @@ data:
   episode: Viele Grüße von der Seehundinsel
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_bab29d7f7b588b8d609442b3057ee332ea69f0b34ebc24f942a884c0/3_C7F7Y.h36Ysm8K95/viele_grue_viele_grue_von_der_seehundinse_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/01839f7763283ce6a2abf32d36c8a89cd4fe54be98fc7fdf77249715/9783732449552_001_001_128.mp3
   web: https://tonies.com/de-de/audio-content/viele-gruesse/viele-grue-von-der-seehundinsel-horspiel/
   shop-id: e1f10d81-c8c0-4800-b6bc-5f06b03c67df
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
   ids: []

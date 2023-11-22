@@ -6,13 +6,15 @@ data:
   episode: I Puffi - Raccolta di storie 3
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/114501c94503dd573f5d4c80e2addd84f3a0aba06ffb656ca78fe6da/3_VhYKDBwjNDfHsj6x/die_schlumpfe_i_puffi_raccolta_di_storie_3_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/3a8d3b91cf5a61d9852df131e7abe071f8cde46af0a0e7030834d082/9788726996678.mp3
   web: https://tonies.com/de-de/audio-content/die-schluempfe/i-puffi-raccolta-di-storie-3/
   shop-id: 1a908d90-e806-41c5-9f32-28f8ee657b66
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
   ids: []

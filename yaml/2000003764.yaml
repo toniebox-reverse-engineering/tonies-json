@@ -6,13 +6,31 @@ data:
   episode: Ralf Rabinski und das knurrende Ei
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/615d813829c42a8331b2d0459642b35bc7ff08741bb95f7f998895a3/3_9V53tx3L2.~0Wc2w/ralf_rabinski_004_ralf_rabinski_und_das_knurre_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/e839a170e8ca7eb000ca875bbf4cb3c9fd4387026a74107bcc33c0cd/4260223115615_001_001_128.mp3
   web: https://tonies.com/de-de/audio-content/ralf-rabinski/ralf-rabinski-und-das-knurrende-ei/
   shop-id: 96c92b24-256b-4871-ab6e-d5f45c10c2f4
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
   ids: []

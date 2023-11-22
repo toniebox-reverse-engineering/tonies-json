@@ -6,13 +6,52 @@ data:
   episode: Bei den Pfadfindern / Abenteuer Schnitzeljagd
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/e8cc638442388b7b4181c529a9a21f5a1e507f98d17e16af545fd50a/3_cfVK-80r.h-~Psr0/willi_wills_wissen_009_bei_den_pfadfindern___a_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/b4cb5825e027d68c640e127fd0493a3fbb14c015d25121969f8844cd/4260229663462_001_001_128.mp3
   web: https://tonies.com/de-de/audio-content/willi-wills-wissen/bei-den-pfadfindern-abenteuer-schnitzeljagd/
   shop-id: 4abd5179-e710-4c52-ad6e-63c55d85d66c
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
+  - Kapitel 20
+  - Kapitel 21
+  - Kapitel 22
+  - Kapitel 23
+  - Kapitel 24
+  - Kapitel 25
+  - Kapitel 26
+  - Kapitel 27
+  - Kapitel 28
+  - Kapitel 29
+  - Kapitel 30
+  - Kapitel 31
+  - Kapitel 32
+  - Kapitel 33
+  - Kapitel 34
+  - Kapitel 35
+  - Kapitel 36
+  - Kapitel 37
+  - Kapitel 38
+  - Kapitel 39
   ids: []

@@ -6,13 +6,31 @@ data:
   episode: 'Folgen 75-76: Die Maske der Täuschung'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_b4e6471f2550ef556bfc6cfeeb8e778c83827363e49c9661d37c1460/3_dDQ8qbdgxHx2-LKV/lego_ninjago_075_folgen_75_76__die_maske_der_t_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/aa5419c3f4a698adefb625b2f0d2d874b896a802f9d6a2a4371ba259/4013575901906_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-75-76-die-maske-der-tauschung/
   shop-id: 9591e7c3-8272-488b-9332-a74a5a279c86
-  track-desc: []
+  track-desc:
+  - 'Folge 75: Die Maske der Täuschung - Track 1'
+  - 'Folge 75: Die Maske der Täuschung - Track 2'
+  - 'Folge 75: Die Maske der Täuschung - Track 3'
+  - 'Folge 75: Die Maske der Täuschung - Track 4'
+  - 'Folge 75: Die Maske der Täuschung - Track 5'
+  - 'Folge 75: Die Maske der Täuschung - Track 6'
+  - 'Folge 75: Die Maske der Täuschung - Track 7'
+  - 'Folge 75: Die Maske der Täuschung - Track 8'
+  - 'Folge 75: Die Maske der Täuschung - Track 9'
+  - 'Folge 76: Prinzessin Harumi - Track 1'
+  - 'Folge 76: Prinzessin Harumi - Track 2'
+  - 'Folge 76: Prinzessin Harumi - Track 3'
+  - 'Folge 76: Prinzessin Harumi - Track 4'
+  - 'Folge 76: Prinzessin Harumi - Track 5'
+  - 'Folge 76: Prinzessin Harumi - Track 6'
+  - 'Folge 76: Prinzessin Harumi - Track 7'
+  - 'Folge 76: Prinzessin Harumi - Track 8'
+  - 'Folge 76: Prinzessin Harumi - Track 9'
   ids: []

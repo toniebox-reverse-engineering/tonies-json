@@ -6,13 +6,37 @@ data:
   episode: 'Folgen 48-50: Die Seele des Meeres'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_227a56943e4a83d11f4ce3b1e73ffc9ef3b9b1de3bdde269cce92261/3_DLnkT6mmCqgPdTcw/lego_friends_048_folgen_48_50__die_seele_des_m_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/3dc07ed088bdcd2b7ea74721e72ec089a4dd0b7aad6f5e6ad2da6c68/4013575904419_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-friends/lego-friends-folgen-48-50-die-seele-des-meeres/
   shop-id: 35e747f0-ce61-4564-b694-81b1db6ad6f7
-  track-desc: []
+  track-desc:
+  - Die Seele des Meeres - Track 1
+  - Die Seele des Meeres - Track 2
+  - Die Seele des Meeres - Track 3
+  - Die Seele des Meeres - Track 4
+  - Die Seele des Meeres - Track 5
+  - Die Seele des Meeres - Track 6
+  - Die Seele des Meeres - Track 7
+  - Die Seele des Meeres - Track 8
+  - Eine unfaire Show - Track 1
+  - Eine unfaire Show - Track 2
+  - Eine unfaire Show - Track 3
+  - Eine unfaire Show - Track 4
+  - Eine unfaire Show - Track 5
+  - Eine unfaire Show - Track 6
+  - Eine unfaire Show - Track 7
+  - Eine unfaire Show - Track 8
+  - Die Sprache der Tiere - Track 1
+  - Die Sprache der Tiere - Track 2
+  - Die Sprache der Tiere - Track 3
+  - Die Sprache der Tiere - Track 4
+  - Die Sprache der Tiere - Track 5
+  - Die Sprache der Tiere - Track 6
+  - Die Sprache der Tiere - Track 7
+  - Die Sprache der Tiere - Track 8
   ids: []

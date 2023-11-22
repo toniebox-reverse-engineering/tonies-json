@@ -6,13 +6,48 @@ data:
   episode: 'Folgen 76-79: Der Flaschengeist'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/fba0eb4f0734d99b818fb62fefef00d169e6b04d06aa271b41b61c9f/3_Qs0CMTy-Vqd96Ws_/paw_patrol_076_folgen_76_79__der_flaschengeist_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/e42d959c023e4966e2d3d58b1707cbf11f61ec6ec1db0b4a94cb13ae/4013575904990_preview.mp3
   web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-76-79-der-flaschengeist/
   shop-id: 9b4a82ac-ac1f-4e1b-82d2-2258478cc236
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Der Flaschengeist (Folge 76)'
+  - 'Kapitel 02: Der Flaschengeist (Folge 76)'
+  - 'Kapitel 03: Der Flaschengeist (Folge 76)'
+  - 'Kapitel 04: Der Flaschengeist (Folge 76)'
+  - 'Kapitel 05: Der Flaschengeist (Folge 76)'
+  - 'Kapitel 06: Der Flaschengeist (Folge 76)'
+  - 'Kapitel 07: Der Flaschengeist (Folge 76)'
+  - 'Kapitel 08: Der Flaschengeist (Folge 76)'
+  - 'Kapitel 09: Der Flaschengeist (Folge 76)'
+  - 'Kapitel 10: Der Flaschengeist (Folge 76)'
+  - 'Kapitel 01: François, der Seiltänzer (Folge 77)'
+  - 'Kapitel 02: François, der Seiltänzer (Folge 77)'
+  - 'Kapitel 03: François, der Seiltänzer (Folge 77)'
+  - 'Kapitel 04: François, der Seiltänzer (Folge 77)'
+  - 'Kapitel 05: François, der Seiltänzer (Folge 77)'
+  - 'Kapitel 06: François, der Seiltänzer (Folge 77)'
+  - 'Kapitel 07: François, der Seiltänzer (Folge 77)'
+  - 'Kapitel 08: François, der Seiltänzer (Folge 77)'
+  - 'Kapitel 01: Im Goldrausch (Folge 78)'
+  - 'Kapitel 02: Im Goldrausch (Folge 78)'
+  - 'Kapitel 03: Im Goldrausch (Folge 78)'
+  - 'Kapitel 04: Im Goldrausch (Folge 78)'
+  - 'Kapitel 05: Im Goldrausch (Folge 78)'
+  - 'Kapitel 06: Im Goldrausch (Folge 78)'
+  - 'Kapitel 07: Im Goldrausch (Folge 78)'
+  - 'Kapitel 08: Im Goldrausch (Folge 78)'
+  - 'Kapitel 09: Im Goldrausch (Folge 78)'
+  - 'Kapitel 01: Der PAW Patroler ist weg (Folge 79)'
+  - 'Kapitel 02: Der PAW Patroler ist weg (Folge 79)'
+  - 'Kapitel 03: Der PAW Patroler ist weg (Folge 79)'
+  - 'Kapitel 04: Der PAW Patroler ist weg (Folge 79)'
+  - 'Kapitel 05: Der PAW Patroler ist weg (Folge 79)'
+  - 'Kapitel 06: Der PAW Patroler ist weg (Folge 79)'
+  - 'Kapitel 07: Der PAW Patroler ist weg (Folge 79)'
+  - 'Kapitel 08: Der PAW Patroler ist weg (Folge 79)'
   ids: []

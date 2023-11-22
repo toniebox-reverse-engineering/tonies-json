@@ -6,13 +6,18 @@ data:
   episode: Der kleine König auf großer Fahrt
   release: 0
   language: de-de
-  category: null
+  category: audio-play-songs
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_7943643c440587939e8ee1b70575099888764ddc31cc9dac2037be40/3_pTKlqF5Yc_sxBTNh/der_kleine_konig_004_der_kleine_konig_auf_gro_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/364a8122b99a25a4b3a473432ce86e0dc0bc7d82e4da7b39ada55e0e/horprobe.mp3
   web: https://tonies.com/de-de/audio-content/der-kleine-koenig/der-kleine-konig-auf-grosser-fahrt/
   shop-id: 2098c84e-542f-4898-8aca-06226b33eb8c
-  track-desc: []
+  track-desc:
+  - Abenteuerlied
+  - Die Abenteuerhose (Teil 1)
+  - Die Abenteuerhose (Teil 2)
+  - König der Meere (Teil 1)
+  - König der Meere (Teil 2)
   ids: []

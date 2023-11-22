@@ -6,13 +6,23 @@ data:
   episode: Alle meine Tierkinder
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_5431756082b087c5699909b7aade26a8d78a4bd36469c6bb2eacfb3e/3_s5Gv7PzVqFHq.lnc/gute_nacht_geschichten_031_alle_meine_tierkind_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/74eef3f7064dc830100acd6808e65b8c6ca5863143b200b0e8e3ffad/425041_bb_gng_hoerprobe_alle_meine_tierkinder_90sec.wav
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen-gute-nacht-geschichten/alle-meine-tierkinder/
   shop-id: ac627811-271f-41e0-b8aa-fe117b7c6570
-  track-desc: []
+  track-desc:
+  - Schlaflied
+  - Pandababys Purzelbäume
+  - Eine Rutschbahn Für Peggy Pinguin
+  - Ein Konzert Mit Hansi Hirsch
+  - Fliegen Wie Pippa Pelikan
+  - Kleine Maus Ganz Groß
+  - Badespass Mit Tino Tiger
+  - Zahnpflege Für Kora Krokodil
+  - Alle Meine Tierkinder
+  - Schlaflied
   ids: []

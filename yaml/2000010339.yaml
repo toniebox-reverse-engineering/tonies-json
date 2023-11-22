@@ -7,13 +7,17 @@ data:
     prima di dormire
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/249441643d44addacb0b4eb1c6baabf3d4bc4a890d6551685991a1a1/3_4dVfv9BS03XgKmMP/thomas_seine_freunde_il_trenino_thomas_i_rac_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/1e2bb6946a6c6abcb37276748ee076f5da8e69702e64d917f1c75330/9788726868302.mp3
   web: https://tonies.com/de-de/audio-content/thomas-seine-freunde/il-trenino-thomas-i-racconti-della-buonanotte-cinq/
   shop-id: 0427ab0e-5934-4c58-bb2b-4a7a8622400b
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
   ids: []

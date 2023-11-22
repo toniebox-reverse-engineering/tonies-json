@@ -6,13 +6,36 @@ data:
   episode: Was ist nur mit Dornwald los? / Blick in die Zukunft / Hilda in der Falle
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/ab552e8e250d3ca66d17ef5a2d9c4749cae852ac82c48523e4214845/3_XDKVBqHy-Xg.s8dG/horspiele_zur_tv_serie_005_was_ist_nur_mit_dor_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/7bb8fff652f1770c4917fc2e462486bb21c7573456549139404bb617/9783838796291_001_001_128.mp3
   web: https://tonies.com/de-de/audio-content/petronella-apfelmus-hoerspiele-zur-tv-serie/petronella-apfelmus-teil-5-was-ist-nur-mit-dornwal/
   shop-id: 76ca5c86-6355-4864-907a-f62a4d49028f
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
+  - Kapitel 20
+  - Kapitel 21
+  - Kapitel 22
+  - Kapitel 23
   ids: []

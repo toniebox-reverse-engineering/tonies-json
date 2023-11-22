@@ -6,13 +6,48 @@ data:
   episode: Ein Geheimcode für die Galaxy Police (Das Original Playmobil Hörspiel)
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_abfad53a237156dced915d8c34e268dc7f21c2c0ccd6602fd09ecdc0/3_RbKsrYJCK_mb9Nrx/die_playmos_072_ein_geheimcode_fur_die_galaxy__530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/38d3700e97700e9314b0e0fc3025d963577dc8adf2515c869c26432e/4260229664155_001_001_128.mp3
   web: https://tonies.com/de-de/audio-content/die-playmos/die-playmos-folge-72-ein-geheimcode-fur-die-galaxy/
   shop-id: 20abc21f-85fc-482f-b0af-7912d6bbff02
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
+  - Kapitel 20
+  - Kapitel 21
+  - Kapitel 22
+  - Kapitel 23
+  - Kapitel 24
+  - Kapitel 25
+  - Kapitel 26
+  - Kapitel 27
+  - Kapitel 28
+  - Kapitel 29
+  - Kapitel 30
+  - Kapitel 31
+  - Kapitel 32
+  - Kapitel 33
+  - Kapitel 34
+  - Kapitel 35
   ids: []

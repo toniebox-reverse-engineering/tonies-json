@@ -6,13 +6,44 @@ data:
   episode: 'Folgen 191-195: Der fünfte Schurke'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/0d41f3625adaa21cd50292f4c59580e7c069a8ed2f0f0e01b2575bf3/3_yV~dgmnfqk~bK56c/lego_ninjago_191_folgen_191_195__der_funfte_sc_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/f8466563bfe4c8c7e1a8714d543ed49a73937429f765b2196986769e/4013575936410_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-191-195-der-funfte-schurke/
   shop-id: f8695140-b63c-4c66-b83d-f993a3bae5d9
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Der fünfte Schurke (Folge 191)'
+  - 'Kapitel 02: Der fünfte Schurke (Folge 191)'
+  - 'Kapitel 03: Der fünfte Schurke (Folge 191)'
+  - 'Kapitel 04: Der fünfte Schurke (Folge 191)'
+  - 'Kapitel 05: Der fünfte Schurke (Folge 191)'
+  - 'Kapitel 06: Der fünfte Schurke (Folge 191)'
+  - 'Kapitel 07: Der fünfte Schurke (Folge 191)'
+  - 'Kapitel 01: Der Rat des Diamantkönigs (Folge 192)'
+  - 'Kapitel 02: Der Rat des Diamantkönigs (Folge 192)'
+  - 'Kapitel 03: Der Rat des Diamantkönigs (Folge 192)'
+  - 'Kapitel 04: Der Rat des Diamantkönigs (Folge 192)'
+  - 'Kapitel 05: Der Rat des Diamantkönigs (Folge 192)'
+  - 'Kapitel 06: Der Rat des Diamantkönigs (Folge 192)'
+  - 'Kapitel 01: Schatten der Vergangenheit (Folge 193)'
+  - 'Kapitel 02: Schatten der Vergangenheit (Folge 193)'
+  - 'Kapitel 03: Schatten der Vergangenheit (Folge 193)'
+  - 'Kapitel 04: Schatten der Vergangenheit (Folge 193)'
+  - 'Kapitel 05: Schatten der Vergangenheit (Folge 193)'
+  - 'Kapitel 06: Schatten der Vergangenheit (Folge 193)'
+  - 'Kapitel 01: Die Diamant-Spinnen (Folge 194)'
+  - 'Kapitel 02: Die Diamant-Spinnen (Folge 194)'
+  - 'Kapitel 03: Die Diamant-Spinnen (Folge 194)'
+  - 'Kapitel 04: Die Diamant-Spinnen (Folge 194)'
+  - 'Kapitel 05: Die Diamant-Spinnen (Folge 194)'
+  - 'Kapitel 06: Die Diamant-Spinnen (Folge 194)'
+  - 'Kapitel 01: Der Fall des Klosters (Folge 195)'
+  - 'Kapitel 02: Der Fall des Klosters (Folge 195)'
+  - 'Kapitel 03: Der Fall des Klosters (Folge 195)'
+  - 'Kapitel 04: Der Fall des Klosters (Folge 195)'
+  - 'Kapitel 05: Der Fall des Klosters (Folge 195)'
+  - 'Kapitel 06: Der Fall des Klosters (Folge 195)'
   ids: []

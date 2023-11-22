@@ -6,13 +6,25 @@ data:
   episode: Im Auge des Wirbelsturms
   release: 0
   language: de-de
-  category: null
+  category: audio-book
   runtime: 0
   age: 8
   origin: tunes
   image: https://cdn.tonies.de/o/images/5224938b2a603e9649677e86a7571076453ecc501c0bd58c63bb476c/3_.vXGVzm8STPzz_mN/das_magische_baumhaus_020_im_auge_des_wirbelst_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/649a0b88156e43dabfcfdd75bbec56eff38ab13cdfd3c55cd81e61d6/9783844914610_preview.mp3
   web: https://tonies.com/de-de/audio-content/das-magische-baumhaus/im-auge-des-wirbelsturms/
   shop-id: 08d8a3ae-d00f-4c80-ba23-5eb7706219d9
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
   ids: []

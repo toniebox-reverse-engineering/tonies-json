@@ -6,13 +6,28 @@ data:
   episode: Die verlorene Freundschaft
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_0728eb19db59f6238f601a72619e28d25d8b080c49e7e7a1dfdfc7ce/3_mJq_NTKyptcQhly0/bibi_tina_108_die_verlorene_freundschaft_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/3e9d5794bca32ec072335141f316766675a125f88611c62c758466bb/bt_hoerprobe_folge108_die_verlorene_freundschaft_90sec.wav
   web: https://tonies.com/de-de/audio-content/bibi-tina/die-verlorene-freundschaft/
   shop-id: 163dc7cc-cfc0-4127-9421-f9216eb02ad9
-  track-desc: []
+  track-desc:
+  - Titellied
+  - BFF Wettreiten
+  - Spinnefeind
+  - Schlechte Stimmung
+  - Streuner
+  - Der Plan der Eltern
+  - Schichtdienst
+  - Die Sache mit Buggy
+  - Begegnung im Stall
+  - Zu spät
+  - Am Lagerfeuer
+  - Bibis und Tinas Streit
+  - Du zuerst
+  - Die große Versöhnung
+  - 'Bonus: Der Martinshof'
   ids: []

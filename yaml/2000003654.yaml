@@ -6,13 +6,38 @@ data:
   episode: Als der Tiger einmal der Bär sein wollte
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_8a179f94d69c482ef43a1af9119e1f16885483ded9288426f9fb46a9/3_H~yYv-xyr-ZD1pPF/janosch_als_der_tiger_einmal_der_bar_sein_wollte_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/2cf820d3cd3298da004fe8b5b0b53f830af4dd1d9777c7999d350a15/fickel_als_der_tiger_einmal_der_bar_sein_wollte_9783837310948.wav
   web: https://tonies.com/de-de/audio-content/janosch/als-der-tiger-einmal-der-bar-sein-wollte/
   shop-id: 4a924ba1-0d47-434b-aa49-39f962563429
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Als der Tiger einmal der Bär sein wollte'
+  - 'Kapitel 02: Als der Tiger einmal der Bär sein wollte'
+  - 'Kapitel 03: Als der Tiger einmal der Bär sein wollte'
+  - 'Kapitel 04: Als der Tiger einmal der Bär sein wollte'
+  - 'Kapitel 05: Als der Tiger einmal der Bär sein wollte'
+  - 'Kapitel 06: Als der Tiger einmal der Bär sein wollte'
+  - 'Kapitel 07: Als der Tiger einmal der Bär sein wollte'
+  - 'Kapitel 08: Als der Tiger einmal der Bär sein wollte'
+  - 'Kapitel 09: Als der Tiger einmal der Bär sein wollte'
+  - 'Kapitel 10: Als der Tiger einmal der Bär sein wollte'
+  - 'Kapitel 11: Als der Tiger einmal der Bär sein wollte'
+  - 'Kapitel 12: Als der Tiger einmal der Bär sein wollte'
+  - 'Kapitel 13: Als der Tiger einmal der Bär sein wollte'
+  - 'Kapitel 01: Der größte Schatz der Welt'
+  - 'Kapitel 02: Der größte Schatz der Welt'
+  - 'Kapitel 03: Der größte Schatz der Welt'
+  - 'Kapitel 04: Der größte Schatz der Welt'
+  - 'Kapitel 05: Der größte Schatz der Welt'
+  - 'Kapitel 06: Der größte Schatz der Welt'
+  - 'Kapitel 07: Der größte Schatz der Welt'
+  - 'Kapitel 08: Der größte Schatz der Welt'
+  - 'Kapitel 09: Der größte Schatz der Welt'
+  - 'Kapitel 10: Der größte Schatz der Welt'
+  - 'Kapitel 11: Der größte Schatz der Welt'
+  - 'Kapitel 12: Der größte Schatz der Welt'
   ids: []

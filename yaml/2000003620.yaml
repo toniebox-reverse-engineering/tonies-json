@@ -6,13 +6,17 @@ data:
   episode: Der kleine König hat viele Freunde
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_2a92a6727ba50640f03f0a587393ab1ab281efce94bd5a3f86e582b4/3_kHD83~qkrv-5fh3R/der_kleine_konig_003_der_kleine_konig_hat_viel_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/0881aa7857e14c8adfa01e3a650def1f70ea687b4aeb822f9f978af5/3_probe.mp3
   web: https://tonies.com/de-de/audio-content/der-kleine-koenig/der-kleine-konig-hat-viele-freunde/
   shop-id: f8900a98-7221-4e1d-908c-579ab4b2687b
-  track-desc: []
+  track-desc:
+  - Schneetiere (Teil 1)
+  - Schneetiere (Teil 2)
+  - Winteranfang (Teil 1)
+  - Winteranfang (Teil 2)
   ids: []

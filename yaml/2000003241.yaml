@@ -6,13 +6,33 @@ data:
   episode: 'Folge 03: Lakeside in Gefahr'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_37077e36841cdd80522d4cfd29f94f0453381576920e02047a87dcf0/3_CLhJXv7ZDw40BZ39/schleich_horse_club_003_folge_03__lakeside_in__530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/3e2679e5c56050e1e3d13a6e9a4ec64ce56826dc28c082344fc4af7f/4013575901043_preview.mp3
   web: https://tonies.com/de-de/audio-content/schleich-horse-club/folge-03-lakeside-in-gefahr/
   shop-id: a7d64014-11ad-4ebf-9ee5-de54118f4ae2
-  track-desc: []
+  track-desc:
+  - Kapitel 01
+  - Kapitel 02
+  - Kapitel 03
+  - Kapitel 04
+  - Kapitel 05
+  - Kapitel 06
+  - Kapitel 07
+  - Kapitel 08
+  - Kapitel 09
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
+  - Schleich Horse Club Titelsong
   ids: []

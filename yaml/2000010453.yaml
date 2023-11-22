@@ -6,13 +6,18 @@ data:
   episode: Storytime Collection 4
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/08072743b95bf297d1f5f29f474627cd60b6d3fdb83f775415dfae60/3_dDZrw~rz1SJxMgzC/die_schlumpfe_004_storytime_collection_4_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/3e3c1c11f483235722444bb4fa0ae81bc3d1f59bdb3e22291a408bc7/9788726996906.mp3
   web: https://tonies.com/de-de/audio-content/die-schluempfe/storytime-collection-4/
   shop-id: a5078f2c-a6f5-495e-9c48-d4944e5cec61
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
   ids: []

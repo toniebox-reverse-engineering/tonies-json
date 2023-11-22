@@ -6,13 +6,35 @@ data:
   episode: 'Folgen 210-213: Eine Überraschung für Ryder'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/6e7f190ccef63286933e0a45366e38661865033fc1e25f97c6fc2c7c/3_rBTlJlK92vsBQVCD/paw_patrol_210_folgen_210_213__eine_uberraschu_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/95958cc83cb793e1f66fab3b043261c303c8fde9d5709feb902cad28/4013575927395_preview.mp3
   web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-210-213-eine-uberraschung-fur-ryder/
   shop-id: 6712a946-b0a5-4441-91a6-35a248c9d684
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Onkel Herbert und die Goldmine (Folge 210)'
+  - 'Kapitel 02: Onkel Herbert und die Goldmine (Folge 210)'
+  - 'Kapitel 03: Onkel Herbert und die Goldmine (Folge 210)'
+  - 'Kapitel 04: Onkel Herbert und die Goldmine (Folge 210)'
+  - 'Kapitel 05: Onkel Herbert und die Goldmine (Folge 210)'
+  - 'Kapitel 06: Onkel Herbert und die Goldmine (Folge 210)'
+  - 'Kapitel 01: Onkel Herberts moderne Hütte (Folge 211)'
+  - 'Kapitel 02: Onkel Herberts moderne Hütte (Folge 211)'
+  - 'Kapitel 03: Onkel Herberts moderne Hütte (Folge 211)'
+  - 'Kapitel 04: Onkel Herberts moderne Hütte (Folge 211)'
+  - 'Kapitel 05: Onkel Herberts moderne Hütte (Folge 211)'
+  - 'Kapitel 01: Frau Fröhlich, der Flitzezahn (Folge 212)'
+  - 'Kapitel 02: Frau Fröhlich, der Flitzezahn (Folge 212)'
+  - 'Kapitel 03: Frau Fröhlich, der Flitzezahn (Folge 212)'
+  - 'Kapitel 04: Frau Fröhlich, der Flitzezahn (Folge 212)'
+  - 'Kapitel 05: Frau Fröhlich, der Flitzezahn (Folge 212)'
+  - 'Kapitel 01: Eine Überraschung für Ryder (Folge 213)'
+  - 'Kapitel 02: Eine Überraschung für Ryder (Folge 213)'
+  - 'Kapitel 03: Eine Überraschung für Ryder (Folge 213)'
+  - 'Kapitel 04: Eine Überraschung für Ryder (Folge 213)'
+  - 'Kapitel 05: Eine Überraschung für Ryder (Folge 213)'
+  - 'Kapitel 06: Eine Überraschung für Ryder (Folge 213)'
   ids: []

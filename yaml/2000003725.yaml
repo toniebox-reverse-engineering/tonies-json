@@ -6,13 +6,30 @@ data:
   episode: 'Teil 9: Ein zauberhaftes Team'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
   image: https://cdn.tonies.de/o/images/b27cb86d739f4ac77004304babb2e1b047022b950285bcd5279f9cb2/3_bgMPtypdbD69cYkG/sternenfohlen_009_teil_9__ein_zauberhaftes_tea_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/4b7a8eb776c88542d67176fed6ac5129627cd7e077e63476adae8e92/9783803281586_001_001_128.mp3
   web: https://tonies.com/de-de/audio-content/sternenfohlen/sternenfohlen-teil-9-ein-zauberhaftes-team-ungekur/
   shop-id: 78493fb1-a258-4b44-a3ce-b0ac219ef5eb
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
   ids: []

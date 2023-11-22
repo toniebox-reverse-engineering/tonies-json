@@ -6,13 +6,18 @@ data:
   episode: Storytime Collection 5
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_f4d903a51547c887f8cbeaa404e166b508e8b2a2aec3aa9880c5fa09/3_pkJ13DcN6Y2RcMH9/die_schlumpfe_005_storytime_collection_5_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/367ceb0d5b8aa61103bc428ddfe624465362f5fd2e28fa8f0eeffabc/9788726996715.mp3
   web: https://tonies.com/de-de/audio-content/die-schluempfe/storytime-collection-5/
   shop-id: f17b97c8-e5da-4bf4-9384-b3faa4da3bfa
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
   ids: []

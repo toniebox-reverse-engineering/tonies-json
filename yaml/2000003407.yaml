@@ -6,13 +6,42 @@ data:
   episode: 'Folgen 95-96: Eine dunkle Gefahr'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_ebdcd1b3d1fef06c67c0fb7e0b84da3d0bc930d89e04dac7b7ef5607/3_8PfsxQ5_505RH-n7/lego_ninjago_095_folgen_95_96__eine_dunkle_gef_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/13b3f13935b4d6ac46e3e2cf71f16f534454152857ffc53fdbd50edd/4013575902088_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-95-96-eine-dunkle-gefahr/
   shop-id: cce54b03-2e08-431f-afb6-25354b8251c4
-  track-desc: []
+  track-desc:
+  - 'Folge 95: Eine dunkle Gefahr - Track 1'
+  - 'Folge 95: Eine dunkle Gefahr - Track 2'
+  - 'Folge 95: Eine dunkle Gefahr - Track 3'
+  - 'Folge 95: Eine dunkle Gefahr - Track 4'
+  - 'Folge 95: Eine dunkle Gefahr - Track 5'
+  - 'Folge 95: Eine dunkle Gefahr - Track 6'
+  - 'Folge 95: Eine dunkle Gefahr - Track 7'
+  - 'Folge 95: Eine dunkle Gefahr - Track 8'
+  - 'Folge 95: Eine dunkle Gefahr - Track 9'
+  - 'Folge 95: Eine dunkle Gefahr - Track 10'
+  - 'Folge 95: Eine dunkle Gefahr - Track 11'
+  - 'Folge 95: Eine dunkle Gefahr - Track 12'
+  - 'Folge 95: Eine dunkle Gefahr - Track 13'
+  - 'Folge 95: Eine dunkle Gefahr - Track 14'
+  - 'Folge 95: Eine dunkle Gefahr - Track 15'
+  - 'Folge 96: Zusammenarbeit - Track 1'
+  - 'Folge 96: Zusammenarbeit - Track 2'
+  - 'Folge 96: Zusammenarbeit - Track 3'
+  - 'Folge 96: Zusammenarbeit - Track 4'
+  - 'Folge 96: Zusammenarbeit - Track 5'
+  - 'Folge 96: Zusammenarbeit - Track 6'
+  - 'Folge 96: Zusammenarbeit - Track 7'
+  - 'Folge 96: Zusammenarbeit - Track 8'
+  - 'Folge 96: Zusammenarbeit - Track 9'
+  - 'Folge 96: Zusammenarbeit - Track 10'
+  - 'Folge 96: Zusammenarbeit - Track 11'
+  - 'Folge 96: Zusammenarbeit - Track 12'
+  - 'Folge 96: Zusammenarbeit - Track 13'
+  - 'Folge 96: Zusammenarbeit - Track 14'
   ids: []

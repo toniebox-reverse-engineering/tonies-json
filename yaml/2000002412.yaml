@@ -6,13 +6,50 @@ data:
   episode: 'Folgen 92-94: Das Tintenfisch-Baby'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/dd0e0ff8fcdeab6acea7ab284770f898274c77831b6f428eba66fc83/3_..x9d-dGjmj-vB8l/paw_patrol_092_folgen_92_94__das_tintenfisch_b_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/339327d4bd0b6113a5a8788ba29d6f8f85f86fca879136abda8f0058/4013575908295_preview.mp3
   web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-92-94-das-tintenfisch-baby/
   shop-id: fdd6ff59-2eb6-4899-b534-6462f784c1fe
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Das Tintenfisch-Baby (Folge 92)'
+  - 'Kapitel 02: Das Tintenfisch-Baby (Folge 92)'
+  - 'Kapitel 03: Das Tintenfisch-Baby (Folge 92)'
+  - 'Kapitel 04: Das Tintenfisch-Baby (Folge 92)'
+  - 'Kapitel 05: Das Tintenfisch-Baby (Folge 92)'
+  - 'Kapitel 06: Das Tintenfisch-Baby (Folge 92)'
+  - 'Kapitel 07: Das Tintenfisch-Baby (Folge 92)'
+  - 'Kapitel 08: Das Tintenfisch-Baby (Folge 92)'
+  - 'Kapitel 09: Das Tintenfisch-Baby (Folge 92)'
+  - 'Kapitel 10: Das Tintenfisch-Baby (Folge 92)'
+  - 'Kapitel 11: Das Tintenfisch-Baby (Folge 92)'
+  - 'Kapitel 12: Das Tintenfisch-Baby (Folge 92)'
+  - 'Kapitel 13: Das Tintenfisch-Baby (Folge 92)'
+  - 'Kapitel 14: Das Tintenfisch-Baby (Folge 92)'
+  - 'Kapitel 15: Das Tintenfisch-Baby (Folge 92)'
+  - 'Kapitel 16: Das Tintenfisch-Baby (Folge 92)'
+  - 'Kapitel 17: Das Tintenfisch-Baby (Folge 92)'
+  - 'Kapitel 18: Das Tintenfisch-Baby (Folge 92)'
+  - 'Kapitel 19: Das Tintenfisch-Baby (Folge 92)'
+  - 'Kapitel 01: Der seltsame Hai (Folge 93)'
+  - 'Kapitel 02: Der seltsame Hai (Folge 93)'
+  - 'Kapitel 03: Der seltsame Hai (Folge 93)'
+  - 'Kapitel 04: Der seltsame Hai (Folge 93)'
+  - 'Kapitel 05: Der seltsame Hai (Folge 93)'
+  - 'Kapitel 06: Der seltsame Hai (Folge 93)'
+  - 'Kapitel 07: Der seltsame Hai (Folge 93)'
+  - 'Kapitel 08: Der seltsame Hai (Folge 93)'
+  - 'Kapitel 01: Künstler in Not (Folge 94)'
+  - 'Kapitel 02: Künstler in Not (Folge 94)'
+  - 'Kapitel 03: Künstler in Not (Folge 94)'
+  - 'Kapitel 04: Künstler in Not (Folge 94)'
+  - 'Kapitel 05: Künstler in Not (Folge 94)'
+  - 'Kapitel 06: Künstler in Not (Folge 94)'
+  - 'Kapitel 07: Künstler in Not (Folge 94)'
+  - 'Kapitel 08: Künstler in Not (Folge 94)'
+  - 'Kapitel 09: Künstler in Not (Folge 94)'
+  - 'Kapitel 10: Künstler in Not (Folge 94)'
   ids: []

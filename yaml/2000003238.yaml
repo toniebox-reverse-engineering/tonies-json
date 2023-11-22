@@ -6,13 +6,35 @@ data:
   episode: 'Folge 14: Die magischen Zeichen'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 99
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_310758c357842bd37fb9fe6c28ee9a6a407c8668517e4badb0a989a2/3_n43pPLGcrH1njSr1/schleich_horse_club_014_folge_14__die_magische_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/908dcec7b7719c8722b5b0b3f37ccccdecaa26276d19bce3860179c7/4013575911196_preview.mp3
   web: https://tonies.com/de-de/audio-content/schleich-horse-club/folge-14-die-magischen-zeichen/
   shop-id: 59d2972a-fb50-4648-9bf9-26af12ebe551
-  track-desc: []
+  track-desc:
+  - Kapitel 01
+  - Kapitel 02
+  - Kapitel 03
+  - Kapitel 04
+  - Kapitel 05
+  - Kapitel 06
+  - Kapitel 07
+  - Kapitel 08
+  - Kapitel 09
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
+  - Kapitel 20
+  - Kapitel 21
+  - Kapitel 22
   ids: []

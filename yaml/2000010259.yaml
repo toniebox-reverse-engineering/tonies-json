@@ -6,13 +6,44 @@ data:
   episode: 'Folgen 73-77: Ein Tag mit Dread'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 7
   origin: tunes
   image: https://cdn.tonies.de/o/images/e7cf6290843d45dc0cbb39022ee089ce1357291c039cc078f0fd9615/3_9lgtn.wFkw2~5x7d/lego_city_073_folgen_73_77__ein_tag_mit_dread_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/0a4540bb89364bf7292c0f0eabf3e60a4e5e9c320b18d2fcc12a14ed/4013575938582_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-city/folgen-73-77-ein-tag-mit-dread/
   shop-id: e1bab63e-6c25-4cac-a291-a0cfbe9c2fb4
-  track-desc: []
+  track-desc:
+  - LEGO City Abenteuer Lied
+  - 'Kapitel 01: Ein Tag mit Dread (Folge 73)'
+  - 'Kapitel 02: Ein Tag mit Dread (Folge 73)'
+  - 'Kapitel 03: Ein Tag mit Dread (Folge 73)'
+  - 'Kapitel 04: Ein Tag mit Dread (Folge 73)'
+  - 'Kapitel 05: Ein Tag mit Dread (Folge 73)'
+  - 'Kapitel 06: Ein Tag mit Dread (Folge 73)'
+  - 'Kapitel 01: Mr. Mercato kauft einen Bauernhof (Folge 74)'
+  - 'Kapitel 02: Mr. Mercato kauft einen Bauernhof (Folge 74)'
+  - 'Kapitel 03: Mr. Mercato kauft einen Bauernhof (Folge 74)'
+  - 'Kapitel 04: Mr. Mercato kauft einen Bauernhof (Folge 74)'
+  - 'Kapitel 05: Mr. Mercato kauft einen Bauernhof (Folge 74)'
+  - 'Kapitel 06: Mr. Mercato kauft einen Bauernhof (Folge 74)'
+  - 'Kapitel 01: Das ist Harls Land (Folge 75)'
+  - 'Kapitel 02: Das ist Harls Land (Folge 75)'
+  - 'Kapitel 03: Das ist Harls Land (Folge 75)'
+  - 'Kapitel 04: Das ist Harls Land (Folge 75)'
+  - 'Kapitel 05: Das ist Harls Land (Folge 75)'
+  - 'Kapitel 06: Das ist Harls Land (Folge 75)'
+  - 'Kapitel 01: Shirley Super-Sauber (Folge 76)'
+  - 'Kapitel 02: Shirley Super-Sauber (Folge 76)'
+  - 'Kapitel 03: Shirley Super-Sauber (Folge 76)'
+  - 'Kapitel 04: Shirley Super-Sauber (Folge 76)'
+  - 'Kapitel 05: Shirley Super-Sauber (Folge 76)'
+  - 'Kapitel 06: Shirley Super-Sauber (Folge 76)'
+  - 'Kapitel 01: Ja, nein, vielleicht (Folge 77)'
+  - 'Kapitel 02: Ja, nein, vielleicht (Folge 77)'
+  - 'Kapitel 03: Ja, nein, vielleicht (Folge 77)'
+  - 'Kapitel 04: Ja, nein, vielleicht (Folge 77)'
+  - 'Kapitel 05: Ja, nein, vielleicht (Folge 77)'
+  - 'Kapitel 06: Ja, nein, vielleicht (Folge 77)'
   ids: []

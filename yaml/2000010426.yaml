@@ -6,13 +6,24 @@ data:
   episode: 'Folge 53: Mondrauschbälle'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/f24130c9df828ebda511bd45790497be68b69b3742de33130cac83e9/3_YFMplN-9b~4Cf0~Z/pj_masks_053_folge_53__mondrauschballe_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/fb497ce6b0311fc07cfffa7db947f9409368746152e4d3ad2d30a637/4260646127943_preview.mp3
   web: https://tonies.com/de-de/audio-content/pj-masks/folge-53-mondrauschballe/
   shop-id: 9a4b1417-b7e8-459c-b783-f7dffcffadf5
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Mondrauschbälle (Folge 53)'
+  - 'Kapitel 02: Mondrauschbälle (Folge 53)'
+  - 'Kapitel 03: Mondrauschbälle (Folge 53)'
+  - 'Kapitel 04: Mondrauschbälle (Folge 53)'
+  - 'Kapitel 05: Mondrauschbälle (Folge 53)'
+  - 'Kapitel 06: Mondrauschbälle (Folge 53)'
+  - 'Kapitel 07: Mondrauschbälle (Folge 53)'
+  - 'Kapitel 08: Mondrauschbälle (Folge 53)'
+  - 'Kapitel 09: Mondrauschbälle (Folge 53)'
+  - 'Kapitel 10: Mondrauschbälle (Folge 53)'
+  - 'Kapitel 11: Mondrauschbälle (Folge 53)'
   ids: []

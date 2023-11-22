@@ -7,13 +7,46 @@ data:
     Teil 1
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
   image: https://cdn.tonies.de/o/images/65a053fd7ff0a7498eb7aab075375b6706e2c9d6850a69988b0f2085/3_QvltYD0lmxtWMJ3p/janosch_jetzt_wird_geschlafen_freunde_gutenach_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/58be18cefaa01bc8e685b7bae96ffb5fa460970f76647cf1c7eef1d1/gutenachtgeschichten_mit_tiger_und_baer_teil_1_hoerprobe.wav
   web: https://tonies.com/de-de/audio-content/janosch/jetzt-wird-geschlafen-freunde-gutenachtgeschichten/
   shop-id: 8a7a1ed6-3723-4661-8942-7681e1db9120
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Vom größten Unter-der-Erde-Looping aller Zeiten'
+  - 'Kapitel 02: Vom größten Unter-der-Erde-Looping aller Zeiten'
+  - 'Kapitel 03: Vom größten Unter-der-Erde-Looping aller Zeiten'
+  - 'Kapitel 04: Vom größten Unter-der-Erde-Looping aller Zeiten'
+  - 'Kapitel 05: Vom größten Unter-der-Erde-Looping aller Zeiten'
+  - 'Kapitel 06: Vom größten Unter-der-Erde-Looping aller Zeiten'
+  - 'Kapitel 07: Vom größten Unter-der-Erde-Looping aller Zeiten'
+  - 'Kapitel 08: Vom größten Unter-der-Erde-Looping aller Zeiten'
+  - 'Kapitel 09: Vom größten Unter-der-Erde-Looping aller Zeiten'
+  - 'Kapitel 10: Vom größten Unter-der-Erde-Looping aller Zeiten'
+  - 'Kapitel 11: Vom größten Unter-der-Erde-Looping aller Zeiten'
+  - 'Kapitel 12: Vom größten Unter-der-Erde-Looping aller Zeiten'
+  - 'Kapitel 01: Die Geschichte vom Elefantenkönig und seiner Retterkrone'
+  - 'Kapitel 02: Die Geschichte vom Elefantenkönig und seiner Retterkrone'
+  - 'Kapitel 03: Die Geschichte vom Elefantenkönig und seiner Retterkrone'
+  - 'Kapitel 04: Die Geschichte vom Elefantenkönig und seiner Retterkrone'
+  - 'Kapitel 05: Die Geschichte vom Elefantenkönig und seiner Retterkrone'
+  - 'Kapitel 06: Die Geschichte vom Elefantenkönig und seiner Retterkrone'
+  - 'Kapitel 07: Die Geschichte vom Elefantenkönig und seiner Retterkrone'
+  - 'Kapitel 08: Die Geschichte vom Elefantenkönig und seiner Retterkrone'
+  - 'Kapitel 09: Die Geschichte vom Elefantenkönig und seiner Retterkrone'
+  - 'Kapitel 10: Die Geschichte vom Elefantenkönig und seiner Retterkrone'
+  - 'Kapitel 01: Wie der Fisch einmal seine Freunde besuchte'
+  - 'Kapitel 02: Wie der Fisch einmal seine Freunde besuchte'
+  - 'Kapitel 03: Wie der Fisch einmal seine Freunde besuchte'
+  - 'Kapitel 04: Wie der Fisch einmal seine Freunde besuchte'
+  - 'Kapitel 05: Wie der Fisch einmal seine Freunde besuchte'
+  - 'Kapitel 06: Wie der Fisch einmal seine Freunde besuchte'
+  - 'Kapitel 07: Wie der Fisch einmal seine Freunde besuchte'
+  - 'Kapitel 08: Wie der Fisch einmal seine Freunde besuchte'
+  - 'Kapitel 09: Wie der Fisch einmal seine Freunde besuchte'
+  - 'Kapitel 10: Wie der Fisch einmal seine Freunde besuchte'
+  - 'Kapitel 11: Wie der Fisch einmal seine Freunde besuchte'
   ids: []

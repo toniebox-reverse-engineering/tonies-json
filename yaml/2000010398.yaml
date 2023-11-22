@@ -6,13 +6,22 @@ data:
   episode: FC Mezzi 2 - Lotta fino alla fine
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 11
   origin: tunes
   image: https://cdn.tonies.de/o/images/f65260822b2069a59e7b1a2a3473581fa1cd3ca5cf037605077d8e4a/3_tNZp~KxhsHN~0RHF/fc_mezzi_002_fc_mezzi_2_lotta_fino_alla_fine_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/8c08c60e348c507aeb11dcb1265e08b3ffdf2a3046e3b723c4c21e20/9788726774573.mp3
   web: https://tonies.com/de-de/audio-content/fc-mezzi/fc-mezzi-2-lotta-fino-alla-fine/
   shop-id: 9579e4c1-7d24-4af4-9a07-c1695616b4bc
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
+  - Chapter 8
+  - Chapter 9
   ids: []

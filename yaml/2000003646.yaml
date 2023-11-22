@@ -6,13 +6,18 @@ data:
   episode: Osterzeit
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_c34f8730926b401a5213265fa36042a33d566f7d0c24e2e476f5b510/3_t5d4rqspkZ~t_wkh/der_kleine_konig_017_osterzeit_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/249ddc35cb85e6eff8b0c92a92a08d8b6f1fb627607088e0aad4d598/17_probe.mp3
   web: https://tonies.com/de-de/audio-content/der-kleine-koenig/der-kleine-konig-osterzeit/
   shop-id: d079e051-f433-4ddf-9639-326c6fe24c6b
-  track-desc: []
+  track-desc:
+  - Super-Zähneschrubber
+  - Vor-Ostern (Teil 1)
+  - Vor-Ostern (Teil 2)
+  - Klebrige Ostern (Teil 1)
+  - Klebrige Ostern (Teil 2)
   ids: []

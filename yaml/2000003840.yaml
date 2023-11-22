@@ -6,13 +6,25 @@ data:
   episode: Das kleine WIR in der Schule
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_c3de81cf6ca29849bfdf70dcb7a031e8e856ec77e1c65b1321b1a034/3_Q7hltdyy-s3_y7_0/das_kleine_wir_das_kleine_wir_in_der_schule_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/eed23bb9f3e4e2fdd07eed6f5d71fae600adb5d038283f6be087c0d8/9783844922868_preview.mp3
   web: https://tonies.com/de-de/audio-content/das-kleine-wir/das-kleine-wir-in-der-schule/
   shop-id: 7eb1b19a-f7eb-499f-8d9a-0b6806999f95
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
   ids: []

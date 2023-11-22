@@ -6,13 +6,23 @@ data:
   episode: Badespaß im Zoo
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_7bde4c086501bc22826fb5181cb86d255b614d22b654aab6e7b01a50/3_PFS7~f.nt5QPw.mF/benjamin_blumchen_gute_nacht_geschichten_011_b_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/8a6903d5ff0aa927d09a979792389a2adab7320ac39f9a79f232fd57/audio_sample.wav
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen-gute-nacht-geschichten/badespass-im-zoo/
   shop-id: 2e1e5bf7-c0e2-45f5-8cd5-5942fd6f4bb6
-  track-desc: []
+  track-desc:
+  - Schlafliedchen
+  - Badespass Im Zoo
+  - Die Frisch Frisierte Löwenmähne
+  - Händewaschen Nicht Vergessen
+  - Die Reise Auf Dem Riesen Kamm
+  - Ein Kratzbaum Für Nicki
+  - Der Giraffenlange Spiegel
+  - Ein Schöner Tag Am Strand
+  - Zähneputzen Macht Spass
+  - Schlafliedchen
   ids: []

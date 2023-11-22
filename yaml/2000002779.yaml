@@ -6,13 +6,27 @@ data:
   episode: Im verhexten Winterwald
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_137d1af58e676ace5b3d1003137721972acab6045f9e14513130e703/3_Wr~M--Kj3lxpYGBX/bibi_blocksberg_136_im_verhexten_winterwald_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/94e52dd2ec0ddbf4ee8e81ad603b31828d4957fc65293b8d28083049/425636_bi_hoerprobe_folge136_im_verhexten_winterwald_90sec.wav
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/im-verhexten-winterwald/
   shop-id: 64eb0577-4941-4380-b9a4-0236e9ea075a
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Gelangweilte Junghexen
+  - Auf In Den Finsterwald
+  - Falscher Hexspruch Mit Folgen
+  - Überraschungstreffen
+  - Die Eisglocke
+  - Keine Hexerei Mehr!
+  - Der Notfallplan
+  - Die Eislauf-Wette
+  - Bürgermeister Gegen Müller-Riebensehl
+  - Die Jacken-Brücke
+  - Rettung Ist Unterwegs
+  - Gemütliches Höhlen-Kuscheln
+  - Verbotene Hexereien (Bonus)
   ids: []

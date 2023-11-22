@@ -6,13 +6,40 @@ data:
   episode: 'Folge 09: Die Höhle in den Bergen'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_a72908ec265bd86c8216ca2796668f79ff011c4384f184b4f7164265/3_Gnq2ywJcwM3q6RmZ/schleich_horse_club_009_folge_09__die_hohle_in_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/cdbd4ca70f1427d62ffe3c59572a3b876429508930d92daf4fa037e4/4013575904389_preview.mp3
   web: https://tonies.com/de-de/audio-content/schleich-horse-club/folge-09-die-hohle-in-den-bergen/
   shop-id: b1d08263-383c-4183-a2c5-232ff5eda9d6
-  track-desc: []
+  track-desc:
+  - Kapitel 01
+  - Kapitel 02
+  - Kapitel 03
+  - Kapitel 04
+  - Kapitel 05
+  - Kapitel 06
+  - Kapitel 07
+  - Kapitel 08
+  - Kapitel 09
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
+  - Kapitel 20
+  - Kapitel 21
+  - Kapitel 22
+  - Kapitel 23
+  - Kapitel 24
+  - Kapitel 25
+  - Kapitel 26
+  - Kapitel 27
   ids: []

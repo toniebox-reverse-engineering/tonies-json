@@ -6,13 +6,31 @@ data:
   episode: 'Folge 6: Jahreszeiten'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_5ee26465fe159dd18a6fc455333e3b830e0e63ed256b72b47fd28a1e/3_dn.JwSGF8hYrVpXz/find_s_raus_mit_benjamin_006_folge_6__jahresze_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/7f32617cb942699a1634a16065aef223c3ded830709cab72f89fcec8/424206_bb_frmb_6_jahreszeiten_90sec.wav
   web: https://tonies.com/de-de/audio-content/find-s-raus-mit-benjamin/folge-6-jahreszeiten/
   shop-id: 9157722e-d65a-40dc-b227-8b048f7ad701
-  track-desc: []
+  track-desc:
+  - Titellied
+  - Der Frühling
+  - Sensationelle Frühblüher
+  - Tierisch Was Los
+  - Partnersuche Mit Boxkampf
+  - Der Sommer
+  - Tricks Gegen Hitze
+  - Gewitter Im Sommer
+  - Das Mittsommernachtskonzert
+  - Der Herbst
+  - Drachen Im Wind
+  - Vorbereitungen Für Den Winter
+  - Versteckte Nüsse
+  - Der Winter
+  - Warum Rutscht Man Auf Eis
+  - Die Farbe Von Schnee
+  - Sommer Auf Der Südhalbkugel
+  - Lied Jahreszeiten
   ids: []

@@ -6,13 +6,31 @@ data:
   episode: D Goldelia isch verschwunde / S Nünnelprinzässli und de Zaubersand
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_1235ee957da8a30587db4e159e0a54096b1ce2542ce1c502c1ae1d17/3_DQ59kJk45nhdtgS~/kasperli_002_d_goldelia_isch_verschwunde___s_n_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/3cf86b923123ec321039563aa99fd3655c8dfc3d3e76e90c6b49a798/kasperli_d_goldelia_isch_verschwunde_intro.wav
   web: https://tonies.com/de-de/audio-content/kasperli/d-goldelia-isch-verschwunde-s-nunnelprinzassli-und/
   shop-id: 0c82e371-cb03-4007-815e-df8780892bfb
-  track-desc: []
+  track-desc:
+  - Kasperli D Goldelia Isch Verschwunde Teil 1
+  - Kasperli D Goldelia Isch Verschwunde Teil 2
+  - Kasperli D Goldelia Isch Verschwunde Teil 3
+  - Kasperli D Goldelia Isch Verschwunde Teil 4
+  - Kasperli D Goldelia Isch Verschwunde Teil 5
+  - Kasperli D Goldelia Isch Verschwunde Teil 6
+  - Kasperli D Goldelia Isch Verschwunde Teil 7
+  - Kasperli D Goldelia Isch Verschwunde Teil 8
+  - Kasperli D Goldelia Isch Verschwunde Teil 9
+  - Kasperli D Goldelia Isch Verschwunde Teil 10
+  - Kasperli S Nünnelprinzässli Und De Zaubersand Teil 1
+  - Kasperli S Nünnelprinzässli Und De Zaubersand Teil 2
+  - Kasperli S Nünnelprinzässli Und De Zaubersand Teil 3
+  - Kasperli S Nünnelprinzässli Und De Zaubersand Teil 4
+  - Kasperli S Nünnelprinzässli Und De Zaubersand Teil 5
+  - Kasperli S Nünnelprinzässli Und De Zaubersand Teil 6
+  - Kasperli S Nünnelprinzässli Und De Zaubersand Teil 7
+  - Kasperli S Nünnelprinzässli Und De Zaubersand Teil 8
   ids: []

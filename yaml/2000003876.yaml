@@ -6,13 +6,35 @@ data:
   episode: 'Folgen 243-246: Eine Party für Alex'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_7321ecb4abc683787148eb51af0d4dd2290c3b34c4cf57b9ccc662eb/3_vSLgwhb4B.FKVP1C/paw_patrol_243_folgen_243_246__eine_party_fur__530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/210ad1be9209c49b64636c59e01f12c8a3d7b4af44183df5ec87305f/4013575930449_preview.mp3
   web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-243-246-eine-party-fur-alex/
   shop-id: edda4d53-4af4-4fcd-bdee-ba62d4ddc010
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Eine schöne Abkühlung (Folge 243)'
+  - 'Kapitel 02: Eine schöne Abkühlung (Folge 243)'
+  - 'Kapitel 03: Eine schöne Abkühlung (Folge 243)'
+  - 'Kapitel 04: Eine schöne Abkühlung (Folge 243)'
+  - 'Kapitel 05: Eine schöne Abkühlung (Folge 243)'
+  - 'Kapitel 01: Bauer Alex braucht Hilfe (Folge 244)'
+  - 'Kapitel 02: Bauer Alex braucht Hilfe (Folge 244)'
+  - 'Kapitel 03: Bauer Alex braucht Hilfe (Folge 244)'
+  - 'Kapitel 04: Bauer Alex braucht Hilfe (Folge 244)'
+  - 'Kapitel 05: Bauer Alex braucht Hilfe (Folge 244)'
+  - 'Kapitel 01: Baby Besserwisser (Folge 245)'
+  - 'Kapitel 02: Baby Besserwisser (Folge 245)'
+  - 'Kapitel 03: Baby Besserwisser (Folge 245)'
+  - 'Kapitel 04: Baby Besserwisser (Folge 245)'
+  - 'Kapitel 05: Baby Besserwisser (Folge 245)'
+  - 'Kapitel 06: Baby Besserwisser (Folge 245)'
+  - 'Kapitel 01: Eine Party für Alex (Folge 246)'
+  - 'Kapitel 02: Eine Party für Alex (Folge 246)'
+  - 'Kapitel 03: Eine Party für Alex (Folge 246)'
+  - 'Kapitel 04: Eine Party für Alex (Folge 246)'
+  - 'Kapitel 05: Eine Party für Alex (Folge 246)'
+  - 'Kapitel 06: Eine Party für Alex (Folge 246)'
   ids: []

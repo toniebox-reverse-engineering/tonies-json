@@ -6,13 +6,19 @@ data:
   episode: 'Folgen 13-18: Hallo Winter'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_21ba646451459efe5966ed082ccd41361e40ee5818373d1bade1e353/3_6LqdkDwwDkKqNktz/pj_masks_013_folgen_13_18__hallo_winter_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/4a12ec199884d19034ac1cd66d034ef88c9da510a49a8396fb5b9268/4260264438926_preview.mp3
   web: https://tonies.com/de-de/audio-content/pj-masks/folgen-13-18-hallo-winter/
   shop-id: 65aabe20-a980-4b7e-af7d-ab89a3cb6240
-  track-desc: []
+  track-desc:
+  - Gecko rettet Weihnachten (Folge 13)
+  - Gecko und die Eisstadt (Folge 14)
+  - Eulette gewinnt (Folge 15)
+  - Catboy und der klitzekleine Ninjalino (Folge 16)
+  - Eulette im Überschall-Modus (Folge 17)
+  - Catboy und das Klebeklatscher-Katapult (Folge 18)
   ids: []

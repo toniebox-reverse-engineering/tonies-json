@@ -6,13 +6,23 @@ data:
   episode: Pittiplatsch erzählt Märchen
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_b70b1d5a5c2b3939565a7ff819b28b284c92686c4c570a44ddab37f0/3_N_8WYdf71Kd.l9s2/pittiplatsch_004_pittiplatsch_erzahlt_marchen_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/f5d005a200adc1779144e7d3c0e608a776a104664faf3692823d9256/audio_sample.wav
   web: https://tonies.com/de-de/audio-content/pittiplatsch/pittiplatsch-erzahlt-marchen/
   shop-id: 4d5b085c-12f6-4cfb-b115-765ee5b4bc23
-  track-desc: []
+  track-desc:
+  - Dornröschen und die Prinzenbrigade
+  - Moppi und die Wunderbohne
+  - Regenmärchen
+  - Als Moppi die böse Stiefmutter war
+  - Moorungeheuer
+  - Der Riese Timpetu in der großen Stadt
+  - Die Erbse unter dem Kissen
+  - Ritter Kuchenblech
+  - Ritter Pitti und der fürchterliche Drache
+  - Als Pittiplatsch und Moppi Frau Holle wecken wollten
   ids: []

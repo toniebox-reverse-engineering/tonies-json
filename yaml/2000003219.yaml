@@ -6,13 +6,47 @@ data:
   episode: 'Folge 02: Eis gegen Dschungel'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_f590430ee6ccc76aa7b8cfbb74358b56926513dbc06c135ff5cefb03/3_jvvLfT3v8fX1VHB6/schleich_eldrador_creatures_002_folge_02__eis__530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/5da25c81d61eaa2d3fb5b8f62eee0fd08fdbc892ada3a151a37708f6/4013575911233_preview.mp3
   web: https://tonies.com/de-de/audio-content/schleich-eldrador-creatures/folge-02-eis-gegen-dschungel/
   shop-id: 74a7c10f-85db-4381-bfae-bb17bcbff5dd
-  track-desc: []
+  track-desc:
+  - Kapitel 01
+  - Kapitel 02
+  - Kapitel 03
+  - Kapitel 04
+  - Kapitel 05
+  - Kapitel 06
+  - Kapitel 07
+  - Kapitel 08
+  - Kapitel 09
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
+  - Kapitel 20
+  - Kapitel 21
+  - Kapitel 22
+  - Kapitel 23
+  - Kapitel 24
+  - Kapitel 25
+  - Kapitel 26
+  - Kapitel 27
+  - Kapitel 28
+  - Kapitel 29
+  - Kapitel 30
+  - Kapitel 31
+  - Kapitel 32
+  - Kapitel 33
+  - Kapitel 34
   ids: []

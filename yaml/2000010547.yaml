@@ -6,13 +6,67 @@ data:
   episode: 'Folgen 63-66: PJ Flipper'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/06b1e226c2a9bca6e741f80eb62a32b31b2d56756d66975997e1719a/3_6DhLtlRSbgcB-FdH/pj_masks_063_folgen_63_66__pj_flipper_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/4f1c2b03aabe12ef690ac62e899bb7cb8abba7a657f0aeddca353232/4013575943760_preview.mp3
   web: https://tonies.com/de-de/audio-content/pj-masks/folgen-63-66-pj-flipper/
   shop-id: 549bdfef-2c95-441f-bd17-f1494cbaf74a
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: PJ Flipper (Folge 63)'
+  - 'Kapitel 02: PJ Flipper (Folge 63)'
+  - 'Kapitel 03: PJ Flipper (Folge 63)'
+  - 'Kapitel 04: PJ Flipper (Folge 63)'
+  - 'Kapitel 05: PJ Flipper (Folge 63)'
+  - 'Kapitel 06: PJ Flipper (Folge 63)'
+  - 'Kapitel 07: PJ Flipper (Folge 63)'
+  - 'Kapitel 08: PJ Flipper (Folge 63)'
+  - 'Kapitel 09: PJ Flipper (Folge 63)'
+  - 'Kapitel 10: PJ Flipper (Folge 63)'
+  - 'Kapitel 11: PJ Flipper (Folge 63)'
+  - 'Kapitel 12: PJ Flipper (Folge 63)'
+  - 'Kapitel 13: PJ Flipper (Folge 63)'
+  - 'Kapitel 01: Der Sprung-Wettbewerb (Folge 64)'
+  - 'Kapitel 02: Der Sprung-Wettbewerb (Folge 64)'
+  - 'Kapitel 03: Der Sprung-Wettbewerb (Folge 64)'
+  - 'Kapitel 04: Der Sprung-Wettbewerb (Folge 64)'
+  - 'Kapitel 05: Der Sprung-Wettbewerb (Folge 64)'
+  - 'Kapitel 06: Der Sprung-Wettbewerb (Folge 64)'
+  - 'Kapitel 07: Der Sprung-Wettbewerb (Folge 64)'
+  - 'Kapitel 08: Der Sprung-Wettbewerb (Folge 64)'
+  - 'Kapitel 09: Der Sprung-Wettbewerb (Folge 64)'
+  - 'Kapitel 10: Der Sprung-Wettbewerb (Folge 64)'
+  - 'Kapitel 11: Der Sprung-Wettbewerb (Folge 64)'
+  - 'Kapitel 12: Der Sprung-Wettbewerb (Folge 64)'
+  - 'Kapitel 13: Der Sprung-Wettbewerb (Folge 64)'
+  - 'Kapitel 14: Der Sprung-Wettbewerb (Folge 64)'
+  - 'Kapitel 01: Halloween - Gauner Teil 1 (Folge 65)'
+  - 'Kapitel 02: Halloween - Gauner Teil 1 (Folge 65)'
+  - 'Kapitel 03: Halloween - Gauner Teil 1 (Folge 65)'
+  - 'Kapitel 04: Halloween - Gauner Teil 1 (Folge 65)'
+  - 'Kapitel 05: Halloween - Gauner Teil 1 (Folge 65)'
+  - 'Kapitel 06: Halloween - Gauner Teil 1 (Folge 65)'
+  - 'Kapitel 07: Halloween - Gauner Teil 1 (Folge 65)'
+  - 'Kapitel 08: Halloween - Gauner Teil 1 (Folge 65)'
+  - 'Kapitel 09: Halloween - Gauner Teil 1 (Folge 65)'
+  - 'Kapitel 10: Halloween - Gauner Teil 1 (Folge 65)'
+  - 'Kapitel 11: Halloween - Gauner Teil 1 (Folge 65)'
+  - 'Kapitel 12: Halloween - Gauner Teil 1 (Folge 65)'
+  - 'Kapitel 13: Halloween - Gauner Teil 1 (Folge 65)'
+  - 'Kapitel 01: Halloween - Gauner Teil 2 (Folge 66)'
+  - 'Kapitel 02: Halloween - Gauner Teil 2 (Folge 66)'
+  - 'Kapitel 03: Halloween - Gauner Teil 2 (Folge 66)'
+  - 'Kapitel 04: Halloween - Gauner Teil 2 (Folge 66)'
+  - 'Kapitel 05: Halloween - Gauner Teil 2 (Folge 66)'
+  - 'Kapitel 06: Halloween - Gauner Teil 2 (Folge 66)'
+  - 'Kapitel 07: Halloween - Gauner Teil 2 (Folge 66)'
+  - 'Kapitel 08: Halloween - Gauner Teil 2 (Folge 66)'
+  - 'Kapitel 09: Halloween - Gauner Teil 2 (Folge 66)'
+  - 'Kapitel 10: Halloween - Gauner Teil 2 (Folge 66)'
+  - 'Kapitel 11: Halloween - Gauner Teil 2 (Folge 66)'
+  - 'Kapitel 12: Halloween - Gauner Teil 2 (Folge 66)'
+  - 'Kapitel 13: Halloween - Gauner Teil 2 (Folge 66)'
+  - 'Kapitel 14: Halloween - Gauner Teil 2 (Folge 66)'
   ids: []

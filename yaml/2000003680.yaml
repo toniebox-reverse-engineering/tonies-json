@@ -6,13 +6,27 @@ data:
   episode: Freundschaftstag im Zauberwald
   release: 0
   language: de-de
-  category: null
+  category: audio-book
   runtime: 0
   age: 4
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_bd3bc64ed4d4d1fcd6f308201319c3fd2fd8be7a8ccf8a0bf0e445d8/3_zkFQrHMVHcYTGkmw/horen_malen_001_freundschaftstag_im_zauberwa_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/5938920d24e64d2a08ca2f8e84a9a35c5a7c4e908bd6dd58359ca666/hoerprobe_freundschaftstag_im_zauberwald_2min40.mp3
   web: https://tonies.com/de-de/audio-content/hoeren-und-malen/freundschaftstag-im-zauberwald/
   shop-id: 4af409ab-cb2b-44a5-bd26-8c18add004ac
-  track-desc: []
+  track-desc:
+  - Freundschaftstag Im Zauberwald 01
+  - Freundschaftstag Im Zauberwald 02
+  - Freundschaftstag Im Zauberwald 03
+  - Freundschaftstag Im Zauberwald 04
+  - Freundschaftstag Im Zauberwald 05
+  - Freundschaftstag Im Zauberwald 06
+  - Freundschaftstag Im Zauberwald 07
+  - Freundschaftstag Im Zauberwald 08
+  - Freundschaftstag Im Zauberwald 09
+  - Freundschaftstag Im Zauberwald 10
+  - Freundschaftstag Im Zauberwald 11
+  - Freundschaftstag Im Zauberwald 12
+  - Freundschaftstag Im Zauberwald 13
+  - Freundschaftstag Im Zauberwald 14
   ids: []

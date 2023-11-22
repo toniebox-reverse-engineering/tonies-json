@@ -6,13 +6,52 @@ data:
   episode: 'Folgen 104-108: Der mutige Zeitungsjunge'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_b046279a5d921e4b8e7a99499370f5006d12fc94a8d90c37494951d5/3_P7dWQy1SyRwMZhYS/lego_ninjago_104_folgen_104_108__der_mutige_ze_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/3904e21becac007bf4977b3de6448eab9a725c1025ad2110621390d0/4013575904372_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-104-108-der-mutige-zeitungsjunge/
   shop-id: db0ddbf5-2023-4dc0-829d-92e79deaf4f4
-  track-desc: []
+  track-desc:
+  - 'Folge 104: Der mutige Zeitungsjunge - Track 1'
+  - Folge 104 - Der mutige Zeitungsjunge - Track 2
+  - Folge 104 - Der mutige Zeitungsjunge - Track 3
+  - Folge 104 - Der mutige Zeitungsjunge - Track 4
+  - Folge 104 - Der mutige Zeitungsjunge - Track 5
+  - Folge 104 - Der mutige Zeitungsjunge - Track 6
+  - Folge 104 - Der mutige Zeitungsjunge - Track 7
+  - Folge 104 - Der mutige Zeitungsjunge - Track 8
+  - Folge 105 - Ninja gegen Lava - Track 1
+  - Folge 105 - Ninja gegen Lava - Track 2
+  - Folge 105 - Ninja gegen Lava - Track 3
+  - Folge 105 - Ninja gegen Lava - Track 4
+  - Folge 105 - Ninja gegen Lava - Track 5
+  - Folge 105 - Ninja gegen Lava - Track 6
+  - Folge 105 - Ninja gegen Lava - Track 7
+  - Folge 105 - Ninja gegen Lava - Track 8
+  - Folge 106 - Schlangastrophe - Track 1
+  - Folge 106 - Schlangastrophe - Track 2
+  - Folge 106 - Schlangastrophe - Track 3
+  - Folge 106 - Schlangastrophe - Track 4
+  - Folge 106 - Schlangastrophe - Track 5
+  - Folge 106 - Schlangastrophe - Track 6
+  - Folge 106 - Schlangastrophe - Track 7
+  - Folge 107 - Die verbotene Schriftrolle - Track 1
+  - Folge 107 - Die verbotene Schriftrolle - Track 2
+  - Folge 107 - Die verbotene Schriftrolle - Track 3
+  - Folge 107 - Die verbotene Schriftrolle - Track 4
+  - Folge 107 - Die verbotene Schriftrolle - Track 5
+  - Folge 107 - Die verbotene Schriftrolle - Track 6
+  - Folge 107 - Die verbotene Schriftrolle - Track 7
+  - Folge 107 - Die verbotene Schriftrolle - Track 8
+  - Folge 108 - Schlangen-Geschichte - Track 1
+  - Folge 108 - Schlangen-Geschichte - Track 2
+  - Folge 108 - Schlangen-Geschichte - Track 3
+  - Folge 108 - Schlangen-Geschichte - Track 4
+  - Folge 108 - Schlangen-Geschichte - Track 5
+  - Folge 108 - Schlangen-Geschichte - Track 6
+  - Folge 108 - Schlangen-Geschichte - Track 7
+  - Folge 108 - Schlangen-Geschichte - Track 8
   ids: []

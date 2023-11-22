@@ -6,13 +6,28 @@ data:
   episode: Zurück zur Märcheninsel
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_5df61e70ebd173598b08b48b5d933c7f6f4678e2f90f69585ed8f827/3_qJ~fsyHglHD_31K7/bibi_blocksberg_143_zuruck_zur_marcheninsel_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/07146429c6ab74bcbb75836a56a356deb4eb005addb71f96f7ac1753/bi_hs_hoeprobe_folge143_zurueck_zur_maercheninsel_90sec.wav
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/zuruck-zur-marcheninsel/
   shop-id: cf506445-b6e3-4cf8-92b7-efe3701c6606
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Die Falschenpost
+  - Auf nach Mungobungo
+  - Ein seltsamer Empfang
+  - Immer mehr Klicks
+  - Live-Baking
+  - Alles für die Fans im Netz
+  - Freudiges Wiedersehen
+  - Die angeschwemmte Kiste
+  - Magisch und zeitlos
+  - Bibis Frage
+  - Das Ende der Märcheninsel
+  - Märchenstunde mit Bibi
+  - Zurück durch den Brunnen
+  - 'Bonus: Marita'
   ids: []

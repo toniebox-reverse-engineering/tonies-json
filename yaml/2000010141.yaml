@@ -6,13 +6,61 @@ data:
   episode: Ein neues Zuhause
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 12
   origin: tunes
   image: https://cdn.tonies.de/o/images/8323b9a4899cebd9f3d80aa3a04a7964095de7832fb4b8d9b3d307c5/3_VzMD7.wfd.VmhVrv/anne_auf_green_gables_017_ein_neues_zuhause_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/69ea02837d8a67d5f47dffca546b2e61a48a137361a6bb019efcdfd6/4049709941784_001_001_128.mp3
   web: https://tonies.com/de-de/audio-content/anne-auf-green-gables/anne-auf-green-gables-folge-17-ein-neues-zuhause/
   shop-id: ca92cf71-b23f-41b0-894a-84af71da4e6e
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
+  - Kapitel 20
+  - Kapitel 21
+  - Kapitel 22
+  - Kapitel 23
+  - Kapitel 24
+  - Kapitel 25
+  - Kapitel 26
+  - Kapitel 27
+  - Kapitel 28
+  - Kapitel 29
+  - Kapitel 30
+  - Kapitel 31
+  - Kapitel 32
+  - Kapitel 33
+  - Kapitel 34
+  - Kapitel 35
+  - Kapitel 36
+  - Kapitel 37
+  - Kapitel 38
+  - Kapitel 39
+  - Kapitel 40
+  - Kapitel 41
+  - Kapitel 42
+  - Kapitel 43
+  - Kapitel 44
+  - Kapitel 45
+  - Kapitel 46
+  - Kapitel 47
+  - Kapitel 48
   ids: []

@@ -6,13 +6,23 @@ data:
   episode: Gute Nacht im Zoo
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_00ed18daf9d8a4a10bdff0f74c97c8066f0550e56afc5d9be96f5a9c/3_kpDDpz6nC0t~S9kD/benjamin_blumchen_gute_nacht_geschichten_022_g_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/8962ecb66714a64f072c1b58427e30e270a0fdeafae87b7e2eb7a4c0/hoerprobe_425032_bb_gng_22_gute_nacht_im_zoo.wav
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen-gute-nacht-geschichten/gute-nacht-im-zoo/
   shop-id: fe4fddf5-9dfd-44fa-89a1-19b8c592b0eb
-  track-desc: []
+  track-desc:
+  - Schlafliedchen
+  - Weißt Du Wie Viel Schäflein Gehen
+  - Im Land Der Fantasie
+  - Müde Gespielt
+  - Die Traum Werkstatt
+  - Eine Spieluhr Für Benjamin
+  - Der Kuschelige Känguru Beutel
+  - Kannst Du Nicht Dreischlafen
+  - Schlaf Ein Mit Meinen Törööö
+  - Schlafliedchen
   ids: []

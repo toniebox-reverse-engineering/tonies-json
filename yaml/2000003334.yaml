@@ -6,13 +6,34 @@ data:
   episode: Folge 3 - Feuerwehr - Auf der Spur des Roten Drachen
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 7
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_86cd176ece1e5f0705ede1882518ab843cd412c7e6a52c558910d397/3_vwBwmV0bn2QZDkv6/lego_city_003_folge_3_feuerwehr_auf_der_sp_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/43294449f62408a99c4077669d0f4ae0fb3ad51b9562cc866268deaa/4013575901135_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-city/lego-city-folge-3-feuerwehr-auf-der-spur-des-roten/
   shop-id: e5be46b4-0a06-4d06-8229-397693cc1e2b
-  track-desc: []
+  track-desc:
+  - Radau! - Komm mit nach LEGO City (Intro)
+  - Feuerwehr - Auf der Spur des Roten Drachen - Track 1
+  - Feuerwehr - Auf der Spur des Roten Drachen - Track 2
+  - Feuerwehr - Auf der Spur des Roten Drachen - Track 3
+  - Feuerwehr - Auf der Spur des Roten Drachen - Track 4
+  - Feuerwehr - Auf der Spur des Roten Drachen - Track 5
+  - Feuerwehr - Auf der Spur des Roten Drachen - Track 6
+  - Feuerwehr - Auf der Spur des Roten Drachen - Track 7
+  - Feuerwehr - Auf der Spur des Roten Drachen - Track 8
+  - Feuerwehr - Auf der Spur des Roten Drachen - Track 9
+  - Feuerwehr - Auf der Spur des Roten Drachen - Track 10
+  - Feuerwehr - Auf der Spur des Roten Drachen - Track 11
+  - Feuerwehr - Auf der Spur des Roten Drachen - Track 12
+  - Feuerwehr - Auf der Spur des Roten Drachen - Track 13
+  - Feuerwehr - Auf der Spur des Roten Drachen - Track 14
+  - Feuerwehr - Auf der Spur des Roten Drachen - Track 15
+  - Feuerwehr - Auf der Spur des Roten Drachen - Track 16
+  - Feuerwehr - Auf der Spur des Roten Drachen - Track 17
+  - Feuerwehr - Auf der Spur des Roten Drachen - Track 18
+  - Feuerwehr - Auf der Spur des Roten Drachen - Track 19
+  - Feuerwehr - Auf der Spur des Roten Drachen - Track 20
   ids: []

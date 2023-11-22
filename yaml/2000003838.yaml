@@ -6,13 +6,18 @@ data:
   episode: Die Katzenwäsche
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_b624302ea32c2559f0c387be19b18236cf6ebed091d1d2641917e070/3_2x~tz5BtlmWs7hPc/der_kleine_konig_039_die_katzenwasche_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/5e64749e693819570f4dcd712e07e2e9d673367653f41f458c9f9dda/39_probe_39k.wav
   web: https://tonies.com/de-de/audio-content/der-kleine-koenig/der-kleine-konig-die-katzenwasche/
   shop-id: 676b9485-4d10-460d-9b9d-55ba9c20e2c4
-  track-desc: []
+  track-desc:
+  - Es stinkt im Schloss (Teil 1)
+  - Es stinkt im Schloss (Teil 2)
+  - Es faucht unterm Bett
+  - Schnüff, schnüffi, schnief
+  - Verabschiedung
   ids: []

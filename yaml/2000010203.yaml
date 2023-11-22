@@ -6,13 +6,26 @@ data:
   episode: 'Teil 30: Im Tal der Drachen'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
   image: https://cdn.tonies.de/o/images/55352e453cd8a09724513c0af4a6331b08149322a83bb4a4213a2c05/3_hgcd2pV3x-Gw9vHd/sternenfohlen_030_teil_30__im_tal_der_drachen_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/3d71e74bd71b27f43154e5b597e18557f913f2332b58a9e591644469/9783803281791_001_001_128.mp3
   web: https://tonies.com/de-de/audio-content/sternenfohlen/sternenfohlen-teil-30-im-tal-der-drachen/
   shop-id: f8e326bd-abfe-4160-aed0-bb3c12c10a31
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
   ids: []

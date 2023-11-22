@@ -6,13 +6,38 @@ data:
   episode: 'Folgen 67-69: Geschwister'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_4ae1d8bac897499c61374df2a5ac97d793a679ea03a1b7627f327efa/3_2lmQ.XhbzYCT1nPJ/lego_ninjago_067_folgen_67_69__geschwister_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/29f5ee4db47dd9b4ddeacd782da996dc3a782d5c31d0439155ee474d/4013575901876_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-67-69-geschwister/
   shop-id: a91baa35-63d2-468a-979f-7e0bbbdd1fd5
-  track-desc: []
+  track-desc:
+  - 'Folge 67: Geschwister - Track 1'
+  - 'Folge 67: Geschwister - Track 2'
+  - 'Folge 67: Geschwister - Track 3'
+  - 'Folge 67: Geschwister - Track 4'
+  - 'Folge 67: Geschwister - Track 5'
+  - 'Folge 67: Geschwister - Track 6'
+  - 'Folge 67: Geschwister - Track 7'
+  - 'Folge 67: Geschwister - Track 8'
+  - 'Folge 68: Metalldiebe - Track 1'
+  - 'Folge 68: Metalldiebe - Track 2'
+  - 'Folge 68: Metalldiebe - Track 3'
+  - 'Folge 68: Metalldiebe - Track 4'
+  - 'Folge 68: Metalldiebe - Track 5'
+  - 'Folge 68: Metalldiebe - Track 6'
+  - 'Folge 68: Metalldiebe - Track 7'
+  - 'Folge 68: Metalldiebe - Track 8'
+  - 'Folge 69: Die zweite Zeitklinge - Track 1'
+  - 'Folge 69: Die zweite Zeitklinge - Track 2'
+  - 'Folge 69: Die zweite Zeitklinge - Track 3'
+  - 'Folge 69: Die zweite Zeitklinge - Track 4'
+  - 'Folge 69: Die zweite Zeitklinge - Track 5'
+  - 'Folge 69: Die zweite Zeitklinge - Track 6'
+  - 'Folge 69: Die zweite Zeitklinge - Track 7'
+  - 'Folge 69: Die zweite Zeitklinge - Track 8'
+  - 'Folge 69: Die zweite Zeitklinge - Track 9'
   ids: []

@@ -6,13 +6,43 @@ data:
   episode: 'Folgen 31-35: Die Spaß-Rede'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 7
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_9b880fb5b33fd9577d09fca07aa8ced3ee9a03e86557642526a5db2a/3_HnS75Ld~j3vHtG_q/lego_city_abenteuer_007_folgen_31_35__die_spa_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/c520eb23477a0742819a10baf17b67b04ff4ada6ceffbf3226768825/4013575914494_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-city-abenteuer/folgen-31-35-die-spa-rede/
   shop-id: 81619bd6-dc88-4e39-a5fd-e25b4bccc67c
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Die Spaß-Rede (Folge 31)'
+  - 'Kapitel 02: Die Spaß-Rede (Folge 31)'
+  - 'Kapitel 03: Die Spaß-Rede (Folge 31)'
+  - 'Kapitel 04: Die Spaß-Rede (Folge 31)'
+  - 'Kapitel 05: Die Spaß-Rede (Folge 31)'
+  - 'Kapitel 06: Die Spaß-Rede (Folge 31)'
+  - 'Kapitel 01: Gauner Duke (Folge 32)'
+  - 'Kapitel 02: Gauner Duke (Folge 32)'
+  - 'Kapitel 03: Gauner Duke (Folge 32)'
+  - 'Kapitel 04: Gauner Duke (Folge 32)'
+  - 'Kapitel 05: Gauner Duke (Folge 32)'
+  - 'Kapitel 06: Gauner Duke (Folge 32)'
+  - 'Kapitel 01: Wheelers Geburtstag (Folge 33)'
+  - 'Kapitel 02: Wheelers Geburtstag (Folge 33)'
+  - 'Kapitel 03: Wheelers Geburtstag (Folge 33)'
+  - 'Kapitel 04: Wheelers Geburtstag (Folge 33)'
+  - 'Kapitel 05: Wheelers Geburtstag (Folge 33)'
+  - 'Kapitel 06: Wheelers Geburtstag (Folge 33)'
+  - 'Kapitel 01: Das Quaken (Folge 34)'
+  - 'Kapitel 02: Das Quaken (Folge 34)'
+  - 'Kapitel 03: Das Quaken (Folge 34)'
+  - 'Kapitel 04: Das Quaken (Folge 34)'
+  - 'Kapitel 05: Das Quaken (Folge 34)'
+  - 'Kapitel 06: Das Quaken (Folge 34)'
+  - 'Kapitel 01: Der Schatz von Kapitän Nasenklappe (Folge 35)'
+  - 'Kapitel 02: Der Schatz von Kapitän Nasenklappe (Folge 35)'
+  - 'Kapitel 03: Der Schatz von Kapitän Nasenklappe (Folge 35)'
+  - 'Kapitel 04: Der Schatz von Kapitän Nasenklappe (Folge 35)'
+  - 'Kapitel 05: Der Schatz von Kapitän Nasenklappe (Folge 35)'
+  - 'Kapitel 06: Der Schatz von Kapitän Nasenklappe (Folge 35)'
   ids: []

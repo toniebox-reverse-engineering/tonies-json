@@ -6,13 +6,25 @@ data:
   episode: 'Band 4: Lieselotte ist fleißig'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 99
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_0e76668b898f98d91ee9e295030ec60facdedebad3e24dc5e182633b/3_ZCYwrpCV69k28nhv/lieselotte_filmhorspiele_004_band_4__lieselott_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/224fef11d77b3e343ed113e8aa98a5f312faa8f71702a462d0e4287d/9783732449446_001_001_128.mp3
   web: https://tonies.com/de-de/audio-content/lieselotte-filmhoerspiele/lieselotte-ist-fleiig-vier-horspiele/
   shop-id: 5fd1655f-e176-4775-81d7-bf3d446adc53
-  track-desc: []
+  track-desc:
+  - Lieselotte wird Hundesitterin (Teil 1)
+  - Lieselotte wird Hundesitterin (Teil 2)
+  - Lieselotte wird Hundesitterin (Teil 3)
+  - Lieselotte hat den Dreh raus (Teil 1)
+  - Lieselotte hat den Dreh raus (Teil 2)
+  - Lieselotte hat den Dreh raus (Teil 3)
+  - Lieselotte und der Aushilfsbauer (Teil 1)
+  - Lieselotte und der Aushilfsbauer (Teil 2)
+  - Lieselotte und der Aushilfsbauer (Teil 3)
+  - Lieselotte als Fotografin (Teil 1)
+  - Lieselotte als Fotografin (Teil 2)
+  - Lieselotte als Fotografin (Teil 3)
   ids: []

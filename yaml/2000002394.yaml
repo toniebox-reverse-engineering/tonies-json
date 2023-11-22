@@ -6,13 +6,36 @@ data:
   episode: 'Folgen 34-37: Der Super-Fellfreund'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/cd247ac36266331a227702702492fb1e3e24e89bd2f1e5e5e5f29e89/3_fll7hg3qW899_VCZ/paw_patrol_034_folgen_34_37__der_super_fellfre_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/595ea16d6b4edbdc003cab9a3ee5a671aa078f1b502408e3a86d15c2/4013575900107_preview.mp3
   web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-34-37-der-super-fellfreund/
   shop-id: 835622b2-a2d9-4fe0-bfcb-6731d126e424
-  track-desc: []
+  track-desc:
+  - 'Folge 34: Der Super-Fellfreund - Track 1'
+  - 'Folge 34: Der Super-Fellfreund - Track 2'
+  - 'Folge 34: Der Super-Fellfreund - Track 3'
+  - 'Folge 34: Der Super-Fellfreund - Track 4'
+  - 'Folge 34: Der Super-Fellfreund - Track 5'
+  - 'Folge 34: Der Super-Fellfreund - Track 6'
+  - 'Folge 34: Der Super-Fellfreund - Track 7'
+  - 'Folge 35: Ryders Roboterhund - Track 1'
+  - 'Folge 35: Ryders Roboterhund - Track 2'
+  - 'Folge 35: Ryders Roboterhund - Track 3'
+  - 'Folge 35: Ryders Roboterhund - Track 4'
+  - 'Folge 35: Ryders Roboterhund - Track 5'
+  - 'Folge 35: Ryders Roboterhund - Track 6'
+  - 'Folge 36: Grosses Affentheater - Track 1'
+  - 'Folge 36: Grosses Affentheater - Track 2'
+  - 'Folge 36: Grosses Affentheater - Track 3'
+  - 'Folge 36: Grosses Affentheater - Track 4'
+  - 'Folge 36: Grosses Affentheater - Track 5'
+  - 'Folge 37: Der kleine Tut - Track 1'
+  - 'Folge 37: Der kleine Tut - Track 2'
+  - 'Folge 37: Der kleine Tut - Track 3'
+  - 'Folge 37: Der kleine Tut - Track 4'
+  - 'Folge 37: Der kleine Tut - Track 5'
   ids: []

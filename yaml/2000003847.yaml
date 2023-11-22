@@ -6,13 +6,31 @@ data:
   episode: 'Folge 3: Baustelle'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_13df04a7a3b89625d40da2c14aaaebefd6c1103e51a6730e2b52a618/3_vZYwrHl2h_161wyQ/find_s_raus_mit_benjamin_003_folge_3__baustell_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/a37cb90c00011f90998fe62d0be78f09e9f6f63b8a8aa92a71de2c1e/424203_bb_frmb_3_baustelle_90sec.wav
   web: https://tonies.com/de-de/audio-content/find-s-raus-mit-benjamin/folge-3-baustelle/
   shop-id: b0c07183-b32a-4ee2-8b0e-330391f8a3b5
-  track-desc: []
+  track-desc:
+  - Titellied
+  - EIN HAUS WIRD GEBAUT
+  - Die Frau mit dem roten Helm
+  - Baustellen-Beobachter
+  - Das Richtfest
+  - DIE RENOVIERUNG
+  - Haltet den Pinseldieb!
+  - Die Installateurin
+  - So viele Bauberufe
+  - DIE STRAßENBAUSTELLE
+  - Benjamin und Otto helfen
+  - Selber Bagger fahren
+  - Frischer Asphalt
+  - BAUMASCHINEN
+  - Bagger über Bagger
+  - Der Mobilkran
+  - Die Zooschild-Reparatur
+  - Auf der Baustelle (Song)
   ids: []

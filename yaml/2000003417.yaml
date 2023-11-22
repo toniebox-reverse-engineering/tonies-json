@@ -6,13 +6,48 @@ data:
   episode: 'Folgen 139-144: Das Fünf-Milliarden-Wettrennen'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_30e9dba61ee3115acd33944542c5275520e1cea753f5efb40b8fd540/3_lTkJM18wKwpS6RpN/lego_ninjago_139_folgen_139_144__das_funf_mill_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/77212967abf9abbeb8e96d06b9c19c7c540a4f6920a7700f24239b72/4064066729585_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-139-144-das-funf-milliarden-wettrennen/
   shop-id: 29d5fc8b-68b3-4b59-9eba-3a3682696d12
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Das Fünf-Milliarden-Wettrennen (Folge 139)'
+  - 'Kapitel 02: Das Fünf-Milliarden-Wettrennen (Folge 139)'
+  - 'Kapitel 03: Das Fünf-Milliarden-Wettrennen (Folge 139)'
+  - 'Kapitel 04: Das Fünf-Milliarden-Wettrennen (Folge 139)'
+  - 'Kapitel 05: Das Fünf-Milliarden-Wettrennen (Folge 139)'
+  - 'Kapitel 06: Das Fünf-Milliarden-Wettrennen (Folge 139)'
+  - 'Kapitel 01: Terra-Dronica (Folge 140)'
+  - 'Kapitel 02: Terra-Dronica (Folge 140)'
+  - 'Kapitel 03: Terra-Dronica (Folge 140)'
+  - 'Kapitel 04: Terra-Dronica (Folge 140)'
+  - 'Kapitel 05: Terra-Dronica (Folge 140)'
+  - 'Kapitel 06: Terra-Dronica (Folge 140)'
+  - 'Kapitel 01: Zane spielt Detektiv (Folge 141)'
+  - 'Kapitel 02: Zane spielt Detektiv (Folge 141)'
+  - 'Kapitel 03: Zane spielt Detektiv (Folge 141)'
+  - 'Kapitel 04: Zane spielt Detektiv (Folge 141)'
+  - 'Kapitel 05: Zane spielt Detektiv (Folge 141)'
+  - 'Kapitel 01: Unagamis Portal (Folge 142)'
+  - 'Kapitel 02: Unagamis Portal (Folge 142)'
+  - 'Kapitel 03: Unagamis Portal (Folge 142)'
+  - 'Kapitel 04: Unagamis Portal (Folge 142)'
+  - 'Kapitel 05: Unagamis Portal (Folge 142)'
+  - 'Kapitel 06: Unagamis Portal (Folge 142)'
+  - 'Kapitel 01: Der Tempel des Irrsinns (Folge 143)'
+  - 'Kapitel 02: Der Tempel des Irrsinns (Folge 143)'
+  - 'Kapitel 03: Der Tempel des Irrsinns (Folge 143)'
+  - 'Kapitel 04: Der Tempel des Irrsinns (Folge 143)'
+  - 'Kapitel 05: Der Tempel des Irrsinns (Folge 143)'
+  - 'Kapitel 06: Der Tempel des Irrsinns (Folge 143)'
+  - 'Kapitel 01: Game Over (Folge 144)'
+  - 'Kapitel 02: Game Over (Folge 144)'
+  - 'Kapitel 03: Game Over (Folge 144)'
+  - 'Kapitel 04: Game Over (Folge 144)'
+  - 'Kapitel 05: Game Over (Folge 144)'
+  - 'Kapitel 06: Game Over (Folge 144)'
   ids: []

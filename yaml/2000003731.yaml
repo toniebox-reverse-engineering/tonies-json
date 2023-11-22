@@ -6,13 +6,30 @@ data:
   episode: 'Teil 15: Sturmwind in Gefahr'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
   image: https://cdn.tonies.de/o/images/e9f7917d7764b8e6c5519e8bae5176bd7cd84aa59484c45b97f66ff9/3_f2DspbzNNCmk00._/sternenfohlen_015_teil_15__sturmwind_in_gefahr_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/30576ccd5bc4853f11cc8980bc8a79b8a6acda16b60cad933d2f06ac/9783803281647_001_001_128.mp3
   web: https://tonies.com/de-de/audio-content/sternenfohlen/sternenfohlen-teil-15-sturmwind-in-gefahr/
   shop-id: 0939b5d8-f294-4386-9559-56b91401bd4a
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
   ids: []

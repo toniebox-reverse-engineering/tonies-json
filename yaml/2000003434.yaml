@@ -6,13 +6,21 @@ data:
   episode: 'Folge 02: Die Überraschungsparty'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_d584f963adb45e81031e1cce171567f40bc688780d4e797f03179aad/3_-y~r_m44R7MWF0N3/lego_friends_002_folge_02__die_uberraschungspa_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/90a43cf125c640a333596c72c834b4f199aaa57b7fa2cb620f151e01/4013575901371_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-friends/lego-friends-folge-02-die-uberraschungsparty/
   shop-id: 91508c77-9372-41bc-bd3d-fdc082f6f1f8
-  track-desc: []
+  track-desc:
+  - Kapitel 01
+  - Kapitel 02
+  - Kapitel 03
+  - Kapitel 04
+  - Kapitel 05
+  - Kapitel 06
+  - Kapitel 07
+  - Kapitel 08
   ids: []

@@ -6,13 +6,34 @@ data:
   episode: Die Jahreszeiten
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_c1db4064b9a1421e25438bffd1b02493787d31f4a1ec829c14c82f97/3_CNhFcnnrlywT0-hJ/wieso_weshalb_warum_junior_010_die_jahresze_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/e28da7e95a449c8cbc2405d01c47ed88280ff22cef9687188f7c64fd/4057664889348_preview.mp3
   web: https://tonies.com/de-de/audio-content/wieso-weshalb-warum-junior-2/die-jahreszeiten/
   shop-id: 4d175005-bb39-4214-8d96-6c5633649e8c
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
+  - Kapitel 20
+  - Kapitel 21
   ids: []

@@ -6,13 +6,28 @@ data:
   episode: Ärger mit dem Grafen
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_d6229f9e4f4810d23f45263cc4542fa42a19c0cb2adfafd3548fa583/3_z.lVpLYL-hYy.QxJ/bibi_tina_101_arger_mit_dem_grafen_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/3036721dac20863c26a4f59a545bd01e8e247f9512ddac618d0338d6/hoerprobe_bt_101_aerger_mit_dem_grafen_90sec.wav
   web: https://tonies.com/de-de/audio-content/bibi-tina/arger-mit-dem-grafen/
   shop-id: 28ecc563-5631-4dff-bd5e-15bee9e3bb71
-  track-desc: []
+  track-desc:
+  - Titellied
+  - Eine Tolle Idee
+  - Überraschungsbesuch
+  - Das Ist Echt Frech!
+  - Versprochen Ist Versprochen!
+  - Wirklich Ungerecht
+  - Das Neue Team
+  - Leider Zu Spät
+  - Bei Doktor Eichhorn
+  - Spieler Gesucht!
+  - Sigurds Angebot
+  - Nicht Ohne Entschuldigung
+  - Polarfrost Pur
+  - Versöhnung
+  - 'Bonus: Polo'
   ids: []

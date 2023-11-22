@@ -6,13 +6,36 @@ data:
   episode: 'Folge 09: Eine Falle für Goldor'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_929cf0dc5eefd846d14a9a4ddb84125758badc691207cb9ec172f58f/3_C.dKsLyXXvvB3KD1/schleich_eldrador_creatures_009_folge_09__eine_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/78657105ed072db722d79ee3c5dbdf7af831f17d88b3ff1cb8f08846/4013575928194_preview.mp3
   web: https://tonies.com/de-de/audio-content/schleich-eldrador-creatures/folge-09-eine-falle-fur-goldor/
   shop-id: 846ba3b7-f593-40bd-a86a-91923c905cf3
-  track-desc: []
+  track-desc:
+  - Kapitel 01
+  - Kapitel 02
+  - Kapitel 03
+  - Kapitel 04
+  - Kapitel 05
+  - Kapitel 06
+  - Kapitel 07
+  - Kapitel 08
+  - Kapitel 09
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
+  - Kapitel 20
+  - Kapitel 21
+  - Kapitel 22
+  - Kapitel 23
   ids: []

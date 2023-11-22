@@ -6,13 +6,32 @@ data:
   episode: Das wahrlich sagenhafte Rätsel der Trolle
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_f6c02c8f705103bc2c8d098cf56c11f74811c109bcc13fa2b7404a7a/3_ZbTMd5c_xJdkN~Mt/snofrid_002_das_wahrlich_sagenhafte_ratsel_der_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/8b65993abb0beb5f070a4faa63146e58553ff8676eee507aeef258cb/4064067306938_preview.mp3
   web: https://tonies.com/de-de/audio-content/snoefrid-aus-dem-wiesental/snofrid-aus-dem-wiesental-das-wahrlich-sagenhafte/
   shop-id: 4ea81efd-3599-40b3-9c47-915b84e94523
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
   ids: []

@@ -6,13 +6,27 @@ data:
   episode: 'Teil 31: Wolke und der verflixte Zaubertrank'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
   image: https://cdn.tonies.de/o/images/60157fa6e37ac0f44fa31d629b6ff5ec9ab3025f799e7dfa5fee71b1/3__czsgjX4Vfn.TNQm/sternenfohlen_031_teil_31__wolke_und_der_verfl_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/3daccb98194660b9b5c4fa7b8acfbe805cfdf57825585ec915bee605/9783803281807_001_001_128.mp3
   web: https://tonies.com/de-de/audio-content/sternenfohlen/sternenfohlen-teil-31-wolke-und-der-verflixte-zaub/
   shop-id: eb68b732-e0aa-4d50-92ba-35006f151938
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
   ids: []

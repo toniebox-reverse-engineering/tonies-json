@@ -6,13 +6,18 @@ data:
   episode: Ganz natürlich!
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_e4f8c015c3f50574b8da35095ab52218907e515acba8764b9e1b8186/3_MtvTFcWP2G801p5H/der_kleine_konig_031_ganz_naturlich_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/7e688bccd4f8d9fc2190b327e15b68ae0e8992f2787f4909e8b5341a/31_probe.mp3
   web: https://tonies.com/de-de/audio-content/der-kleine-koenig/der-kleine-konig-ganz-naturlich/
   shop-id: 94bbe277-fa20-48ae-b0a6-3bcdfddcd2a6
-  track-desc: []
+  track-desc:
+  - Ich zieh mich ganz alleine an
+  - Der Geräuschemacher
+  - Mein Blümchen heißt Sabine
+  - Blumen haben Namen
+  - Mein Blümchen heißt Sabine (Instrumental)
   ids: []

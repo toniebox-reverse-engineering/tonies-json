@@ -11,8 +11,16 @@ data:
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/969241908349caec9fad921ddea3f1adfa80f3b9f795104954bdacb6/3_n.dJPpJlpMHBSqv~/cry_babies_histoires_d_halloween_par_cry_babies_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/e983be04e9bc3b5de79968073f2c7a2d5246edec361f5380288956f0/9788419576323_preview.mp3
   web: https://tonies.com/de-de/audio-content/cry-babies/histoires-dhalloween-par-cry-babies/
   shop-id: c2238da7-1384-4859-82ec-bef42d79e9af
-  track-desc: []
+  track-desc:
+  - Bienvenue
+  - Le mystère d'Halloween
+  - Le fantôme gluant. 1ère partie
+  - Le fantôme gluant. 2ème partie
+  - Le curieux cas de Cammy
+  - Des Jeux Olympiques Fantastiques
+  - Lena est une youtuber
+  - Crédits
   ids: []

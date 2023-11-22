@@ -6,13 +6,45 @@ data:
   episode: Willi und die Wunder dieser Welt
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/403e5372c4be837fab5bc00816e946e82bc694ab0d98287ae6e4c3f2/3_pRB8HnbSKjdkbXCK/willi_wills_wissen_001_willi_und_die_wunder_di_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/b37e6671957ab68c7ab38190b338902c88481d50bbba89b63cfb8092/4260229664971_001_001_128.mp3
   web: https://tonies.com/de-de/audio-content/willi-wills-wissen/willi-wills-wissen-willi-und-die-wunder-dieser-wel/
   shop-id: f5b911cb-80c5-4d38-841a-03dafb456225
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
+  - Kapitel 20
+  - Kapitel 21
+  - Kapitel 22
+  - Kapitel 23
+  - Kapitel 24
+  - Kapitel 25
+  - Kapitel 26
+  - Kapitel 27
+  - Kapitel 28
+  - Kapitel 29
+  - Kapitel 30
+  - Kapitel 31
+  - Kapitel 32
   ids: []

@@ -6,13 +6,23 @@ data:
   episode: Frühling Sommer Herbst und Winter
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_9a2d5e0a62960f501faf7221ed1b090224345fedff43b22cd72922cf/3_V45bGBpHrrkX.Fd1/gute_nacht_geschichten_012_fruhling_sommer_her_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/2107c3006916cf75c58e67b0c1d531020640e5de7a8b643407429e67/audio_sample.wav
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen-gute-nacht-geschichten/fruhling-sommer-herbst-und-winter/
   shop-id: 694265fb-e79f-4dc6-ad73-b9f6d6fe1869
-  track-desc: []
+  track-desc:
+  - Schlaflied
+  - Benjamins Kunterbunte Frühlingsblumen
+  - Der Kleine Singvogel
+  - Die Summende Sommerwiese
+  - Benjamins Sommernachtstraum
+  - Ein Drachen Für Klein Känga
+  - Herbstlicher Bastelspass
+  - Schlittenfahrt Mit Eric Und Emil Eisbär
+  - Der Schneelefant
+  - Schlaflied
   ids: []

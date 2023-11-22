@@ -6,13 +6,26 @@ data:
   episode: 'Folge 57: Babysitter Gecko'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/959a69240440190c7bef0371efbf0978b0d7230fec87314ea44ae7e6/3_L5Tvvb-VB44m~yyY/pj_masks_057_folge_57__babysitter_gecko_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/e48048f0364f07770fc1118689ea642ea754f42742c469d652e9ec51/4260646127981_preview.mp3
   web: https://tonies.com/de-de/audio-content/pj-masks/folge-57-babysitter-gecko/
   shop-id: 3f426ef3-37f9-4e7b-bdbe-9d64a287a29f
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Babysitter Gecko (Folge 57)'
+  - 'Kapitel 02: Babysitter Gecko (Folge 57)'
+  - 'Kapitel 03: Babysitter Gecko (Folge 57)'
+  - 'Kapitel 04: Babysitter Gecko (Folge 57)'
+  - 'Kapitel 05: Babysitter Gecko (Folge 57)'
+  - 'Kapitel 06: Babysitter Gecko (Folge 57)'
+  - 'Kapitel 07: Babysitter Gecko (Folge 57)'
+  - 'Kapitel 08: Babysitter Gecko (Folge 57)'
+  - 'Kapitel 09: Babysitter Gecko (Folge 57)'
+  - 'Kapitel 10: Babysitter Gecko (Folge 57)'
+  - 'Kapitel 11: Babysitter Gecko (Folge 57)'
+  - 'Kapitel 12: Babysitter Gecko (Folge 57)'
+  - 'Kapitel 13: Babysitter Gecko (Folge 57)'
   ids: []

@@ -6,13 +6,41 @@ data:
   episode: 'Folge 12: Aus dem Hinterhalt'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/e59f9de0f7f431225c4f81b3c9d6aa65d94b5009850dab95983f6dde/3_l5gFJ-vf-gmnzZwX/schleich_eldrador_creatures_012_folge_12__aus__530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/250c8e73d07795175953dffdf824846c87145e4fc8eefdcabc6cfe6e/4013575929122_preview.mp3
   web: https://tonies.com/de-de/audio-content/schleich-eldrador-creatures/folge-12-aus-dem-hinterhalt/
   shop-id: 382d68c7-74ea-4f61-99b0-48a238f11d7e
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Aus dem Hinterhalt (Folge 12)'
+  - 'Kapitel 02: Aus dem Hinterhalt (Folge 12)'
+  - 'Kapitel 03: Aus dem Hinterhalt (Folge 12)'
+  - 'Kapitel 04: Aus dem Hinterhalt (Folge 12)'
+  - 'Kapitel 05: Aus dem Hinterhalt (Folge 12)'
+  - 'Kapitel 06: Aus dem Hinterhalt (Folge 12)'
+  - 'Kapitel 07: Aus dem Hinterhalt (Folge 12)'
+  - 'Kapitel 08: Aus dem Hinterhalt (Folge 12)'
+  - 'Kapitel 09: Aus dem Hinterhalt (Folge 12)'
+  - 'Kapitel 10: Aus dem Hinterhalt (Folge 12)'
+  - 'Kapitel 11: Aus dem Hinterhalt (Folge 12)'
+  - 'Kapitel 12: Aus dem Hinterhalt (Folge 12)'
+  - 'Kapitel 13: Aus dem Hinterhalt (Folge 12)'
+  - 'Kapitel 14: Aus dem Hinterhalt (Folge 12)'
+  - 'Kapitel 15: Aus dem Hinterhalt (Folge 12)'
+  - 'Kapitel 16: Aus dem Hinterhalt (Folge 12)'
+  - 'Kapitel 17: Aus dem Hinterhalt (Folge 12)'
+  - 'Kapitel 18: Aus dem Hinterhalt (Folge 12)'
+  - 'Kapitel 19: Aus dem Hinterhalt (Folge 12)'
+  - 'Kapitel 20: Aus dem Hinterhalt (Folge 12)'
+  - 'Kapitel 21: Aus dem Hinterhalt (Folge 12)'
+  - 'Kapitel 22: Aus dem Hinterhalt (Folge 12)'
+  - 'Kapitel 23: Aus dem Hinterhalt (Folge 12)'
+  - 'Kapitel 24: Aus dem Hinterhalt (Folge 12)'
+  - 'Kapitel 25: Aus dem Hinterhalt (Folge 12)'
+  - 'Kapitel 26: Aus dem Hinterhalt (Folge 12)'
+  - 'Kapitel 27: Aus dem Hinterhalt (Folge 12)'
+  - 'Kapitel 28: Aus dem Hinterhalt (Folge 12)'
   ids: []

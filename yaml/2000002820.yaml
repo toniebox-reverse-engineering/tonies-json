@@ -6,13 +6,23 @@ data:
   episode: Mondgeschichten
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_a4375d7cb6b6f45e70761b3112ddfe6acb024613d54dee0700d058b7/3_KVYdnKFxXMgV2pPg/benjamin_blumchen_gute_nacht_geschichten_017_m_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/c6ea230345653ffe4916c7bd56e091a18acc5450a41c05b1c99c489a/hoerprobe_425027_bb_gng_17_mondgeschichten_90sec.wav
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen-gute-nacht-geschichten/mondgeschichten/
   shop-id: eb389815-db63-4e2f-8405-e54f8d57b898
-  track-desc: []
+  track-desc:
+  - Schlaflied
+  - Das Mondlied Der Wölfe
+  - Das Mond Schlummerlicht
+  - Ein Nächtliches Mondrätsel
+  - Wo Hat Sich Der Mond Versteckt
+  - Das Mondscheinpicknick
+  - Mondgesichter
+  - Eine Mondscheinfahrt
+  - Das Mondlied Der Nachtigall
+  - Schlaflied
   ids: []

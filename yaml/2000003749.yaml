@@ -6,13 +6,31 @@ data:
   episode: Ein hundsgemeiner Polizist
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/d6f43f71f498c695670c2743c6ddeeb308af2d655a51a3b17117dffc/3_mBGmCr-tfX8B.z6Z/familie_von_stibitz_003_ein_hundsgemeiner_poli_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/e3215df80c8e042dcf677bfdacf19618d53f13a40fb39a1c02c0f1b0/9783732449774_001_001_128.mp3
   web: https://tonies.com/de-de/audio-content/familie-von-stibitz/ein-hundsgemeiner-polizist-familie-von-stibitz-ban/
   shop-id: e9119fe6-d790-40a1-8be5-e301f3a9d40b
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
   ids: []

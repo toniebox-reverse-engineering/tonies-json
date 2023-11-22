@@ -6,13 +6,28 @@ data:
   episode: Folge 4 - Zug - Alarm im LEGO City Express
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 7
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_288284cfe8732199c5e721818db3f514893184f268219b06315a5382/3_cjhx.-xql-kTm2sZ/lego_city_004_folge_4_zug_alarm_im_lego_ci_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/bd66401a37037147ed4ad9a9dc2e3ba1328b10362a494fadeef816d5/4013575901142_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-city/lego-city-folge-4-zug-alarm-im-lego-city-express/
   shop-id: e6759b95-d6b3-4cc5-bf9e-d53628c4bdae
-  track-desc: []
+  track-desc:
+  - Radau! - Komm mit nach LEGO City (Intro)
+  - Zug - Alarm im LEGO City Express - Track 1
+  - Zug - Alarm im LEGO City Express - Track 2
+  - Zug - Alarm im LEGO City Express - Track 3
+  - Zug - Alarm im LEGO City Express - Track 4
+  - Zug - Alarm im LEGO City Express - Track 5
+  - Zug - Alarm im LEGO City Express - Track 6
+  - Zug - Alarm im LEGO City Express - Track 7
+  - Zug - Alarm im LEGO City Express - Track 8
+  - Zug - Alarm im LEGO City Express - Track 9
+  - Zug - Alarm im LEGO City Express - Track 10
+  - Zug - Alarm im LEGO City Express - Track 11
+  - Zug - Alarm im LEGO City Express - Track 12
+  - Zug - Alarm im LEGO City Express - Track 13
+  - Radau! - Komm mit nach LEGO City (Outro)
   ids: []

@@ -6,13 +6,27 @@ data:
   episode: Schatzsuche im Zoosee
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_780280dad7fa9e20a6e271612e0f5de59d3dbdb15c5ad68efe05f03b/3_lnK.3qpD2MGzmWTB/benjamin_blumchen_152_schatzsuche_im_zoosee_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/b55d5e5e2a7426be86bab3b1a8ece5c18297caaf825ada23d2385fb2/bb_hs_hoerprobel_folge152_schatzsuche_im_zoosee.wav
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/schatzsuche-im-zoosee/
   shop-id: 7b7aeb45-029a-4e6b-9fd0-134cf2da6ddc
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Das Gründelnde Entchen
+  - Eine Sensationelle Schlagzeile
+  - Goldmünzen Fieber
+  - Linksherum Und Rechtsherum
+  - Der Fremde Taucher
+  - Die Lösung Des Problems
+  - Probe Tauchgang
+  - Unterwasserwelt
+  - Weggeschnappt
+  - Hinterher
+  - Butler James
+  - Die Münzen Des Barons
+  - Extra Tiefseetauchen
   ids: []

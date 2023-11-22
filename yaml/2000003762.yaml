@@ -6,13 +6,25 @@ data:
   episode: Ralf Rabinski und das seltsame Mädchen
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/5e39b1a5875216b67c7c3ad52a743c98027981996647531a525cd479/3_tN8Gqdg246N.HRdF/ralf_rabinski_002_ralf_rabinski_und_das_seltsa_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/fbbd7830b662002da0415c9606df2e1737d252226463565545040694/4260223115219_001_001_128.mp3
   web: https://tonies.com/de-de/audio-content/ralf-rabinski/ralf-rabinski-und-das-seltsame-madchen/
   shop-id: b63b3f42-ef49-44f5-bd3b-e50751fd9fde
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
   ids: []

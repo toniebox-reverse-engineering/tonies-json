@@ -6,13 +6,40 @@ data:
   episode: 'Folgen 196-200: In der Dunkelheit'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/75dda0a7787805849c9bfc1e3439c4f8e1bf35b1dea6225b05b6feff/3_rDcw46LWWh3QZR9z/lego_ninjago_196_folgen_196_200__in_der_dunkel_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/5380db2fe88bab5a3575ae23ba4ed71bf8f21cdaee6b26ce955287f6/4013575936588_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-196-200-in-der-dunkelheit/
   shop-id: 1b6d5ee2-1c37-42a9-9392-a3b77ece151f
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: In der Dunkelheit (Folge 196)'
+  - 'Kapitel 02: In der Dunkelheit (Folge 196)'
+  - 'Kapitel 03: In der Dunkelheit (Folge 196)'
+  - 'Kapitel 04: In der Dunkelheit (Folge 196)'
+  - 'Kapitel 05: In der Dunkelheit (Folge 196)'
+  - 'Kapitel 06: In der Dunkelheit (Folge 196)'
+  - 'Kapitel 01: Die Wiederkehr des Königs (Folge 197)'
+  - 'Kapitel 02: Die Wiederkehr des Königs (Folge 197)'
+  - 'Kapitel 03: Die Wiederkehr des Königs (Folge 197)'
+  - 'Kapitel 04: Die Wiederkehr des Königs (Folge 197)'
+  - 'Kapitel 05: Die Wiederkehr des Königs (Folge 197)'
+  - 'Kapitel 06: Die Wiederkehr des Königs (Folge 197)'
+  - 'Kapitel 01: Rückkehr ins Auge des Urwalds (Folge 198)'
+  - 'Kapitel 02: Rückkehr ins Auge des Urwalds (Folge 198)'
+  - 'Kapitel 03: Rückkehr ins Auge des Urwalds (Folge 198)'
+  - 'Kapitel 04: Rückkehr ins Auge des Urwalds (Folge 198)'
+  - 'Kapitel 05: Rückkehr ins Auge des Urwalds (Folge 198)'
+  - 'Kapitel 01: Diamantendrama (Folge 199)'
+  - 'Kapitel 02: Diamantendrama (Folge 199)'
+  - 'Kapitel 03: Diamantendrama (Folge 199)'
+  - 'Kapitel 04: Diamantendrama (Folge 199)'
+  - 'Kapitel 05: Diamantendrama (Folge 199)'
+  - 'Kapitel 01: Christofarn (Folge 200)'
+  - 'Kapitel 02: Christofarn (Folge 200)'
+  - 'Kapitel 03: Christofarn (Folge 200)'
+  - 'Kapitel 04: Christofarn (Folge 200)'
+  - 'Kapitel 05: Christofarn (Folge 200)'
   ids: []

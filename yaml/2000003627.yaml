@@ -6,13 +6,18 @@ data:
   episode: Wenn ich ein Pferdchen wär
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_0138096fea73b7c26d52c0f7caba40e6f8cea0f350e9bde6aa2eefe5/3_Q1Cnt3pF1H~0Wx2t/der_kleine_konig_010_wenn_ich_ein_pferdchen_wa_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/52f82aff3e00d46d89b5718dc03820d4668787f88403ec31f7cb2b8a/10_probe.mp3
   web: https://tonies.com/de-de/audio-content/der-kleine-koenig/der-kleine-konig-wenn-ich-ein-pferdchen-war/
   shop-id: 41e7cf3a-9ab0-43f4-8d68-eab71b1eefb0
-  track-desc: []
+  track-desc:
+  - Mein dicker Lieblingsschatz
+  - Kronenpferdchen (Teil 1)
+  - Kronenpferdchen (Teil 2)
+  - Meins oder Deins (Teil 1)
+  - Meins oder Deins (Teil 2)
   ids: []

@@ -11,8 +11,16 @@ data:
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/fc9e3b7914f2f558b564a0cf5335cd1a07685d23577d8c6d10f893d5/3_Pp6rtZynm82cnsl6/cry_babies_halloween_stories_by_cry_babies_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/01a27ebb6d4cab5163850a9f6967eebf17c165c66a531cf5bd9f806b/9788419576316_preview.mp3
   web: https://tonies.com/de-de/audio-content/cry-babies/halloween-stories-by-cry-babies/
   shop-id: 12843ed3-9bb2-4cb2-9b0d-a237b2426a01
-  track-desc: []
+  track-desc:
+  - Welcome
+  - The Halloween Mystery
+  - The Booger Ghost. Part 1
+  - The Booger Ghost. Part 2
+  - A Curious Case for Cammy
+  - Fantasy Olympics
+  - Lena is a Youtuber
+  - Credits
   ids: []

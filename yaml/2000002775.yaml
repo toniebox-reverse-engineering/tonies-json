@@ -6,13 +6,28 @@ data:
   episode: Eine besondere Freundschaft
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_84d53f2e7101b32e5b73dd0690805c69a714aa19d735f1cec0b39d7f/3_hwdLF3SkBcV8lqmp/bibi_tina_102_eine_besondere_freundschaft_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/20dae31de6cae51d3fc3fef9d3fb99107a02eaab73ff19df7d804f79/422102_bt_hoerprobe_folge102_eine_besondere_freundschaft_90sec.wav
   web: https://tonies.com/de-de/audio-content/bibi-tina/eine-besondere-freundschaft/
   shop-id: 2876521d-72c7-46bd-ab72-197619ec523a
-  track-desc: []
+  track-desc:
+  - Titellied
+  - Das Neue Ferienkind
+  - Willkommen Auf Dem Martinshof
+  - Bei Den Großen Pferden
+  - Zu Früh Gefreut
+  - Linus Will Nach Hause
+  - Hallo, Du Esel!
+  - Kuschelstunde
+  - Eine Runde Noch
+  - Der Ausritt
+  - Reiten Ist Reiten
+  - Ausgerechnet Auf Amadeus
+  - Die Entschuldigung
+  - Tierische Überraschung
+  - 'Bonus: Esel'
   ids: []

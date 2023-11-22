@@ -6,13 +6,25 @@ data:
   episode: 'Band 3: Gute Nacht, Lieselotte'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 99
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_efdac372199653f528fafefe31043cd2d0212e37d225b6f9e0db9ff8/3_fPhRF9Wvr-YsS~DS/lieselotte_filmhorspiele_003_band_3__gute_nach_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/e1b2b4280cc52240f231429e595a001a36b92cff4563ffcb5cc3497b/9783732449439_001_001_128.mp3
   web: https://tonies.com/de-de/audio-content/lieselotte-filmhoerspiele/gute-nacht-lieselotte-vier-horspiele/
   shop-id: ccebec42-0c25-4e1d-a5aa-301537ad3a8c
-  track-desc: []
+  track-desc:
+  - Lieselotte übernachtet bei einem Freund (Teil 1)
+  - Lieselotte übernachtet bei einem Freund (Teil 2)
+  - Lieselotte übernachtet bei einem Freund (Teil 3)
+  - Lieselotte will nicht baden (Teil 1)
+  - Lieselotte will nicht baden (Teil 2)
+  - Lieselotte will nicht baden (Teil 3)
+  - Lieselotte und der Fuchsalarm (Teil 1)
+  - Lieselotte und der Fuchsalarm (Teil 2)
+  - Lieselotte und der Fuchsalarm (Teil 3)
+  - Lieselotte bleibt wach (Teil 1)
+  - Lieselotte bleibt wach (Teil 2)
+  - Lieselotte bleibt wach (Teil 3)
   ids: []

@@ -6,13 +6,26 @@ data:
   episode: 'Folge 14: Der Backwettberwerb'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_b10f41b02813b4c7b0233307fcf78a98cce901bd84354ce51a9d1fdc/3_W~GtsPjDPD74V7.n/lego_friends_014_folge_14__der_backwettberwerb_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/da11bb7ea0c8ee3ae085ad83eaa618e7f725c799c1a9dbbd69f7bf80/4013575901494_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-friends/lego-friends-folge-14-der-backwettberwerb/
   shop-id: 7563980b-38c1-4d3e-871d-f2361da1bcc5
-  track-desc: []
+  track-desc:
+  - Der Backwettberwerb - Track 1
+  - Der Backwettberwerb - Track 2
+  - Der Backwettberwerb - Track 3
+  - Der Backwettberwerb - Track 4
+  - Der Backwettberwerb - Track 5
+  - Der Backwettberwerb - Track 6
+  - Der Backwettberwerb - Track 7
+  - Der Backwettberwerb - Track 8
+  - Der Backwettberwerb - Track 9
+  - Der Backwettberwerb - Track 10
+  - Der Backwettberwerb - Track 11
+  - Der Backwettberwerb - Track 12
+  - Der Backwettberwerb - Track 13
   ids: []

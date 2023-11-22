@@ -6,13 +6,35 @@ data:
   episode: 'Folgen 51-53: Nachts im Leuchtturm'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_9d7af85633cdae369bf8c652152347ce2a128615a261ffd9d75f2304/3_y3XpsbtRrdsV66-n/lego_friends_051_folgen_51_53__nachts_im_leuch_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/7ef8616b0d413cca2e93e0198f8f9991cf080fd157bf7be6d9951706/4013575904426_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-friends/lego-friends-folgen-51-53-nachts-im-leuchtturm/
   shop-id: 13043afc-c38a-4675-8cb4-1e7c48da96e6
-  track-desc: []
+  track-desc:
+  - Nachts im Leuchtturm - Track 1
+  - Nachts im Leuchtturm - Track 2
+  - Nachts im Leuchtturm - Track 3
+  - Nachts im Leuchtturm - Track 4
+  - Nachts im Leuchtturm - Track 5
+  - Nachts im Leuchtturm - Track 6
+  - Nachts im Leuchtturm - Track 7
+  - Nachts im Leuchtturm - Track 8
+  - Charlies Eignungsprüfung - Track 1
+  - Charlies Eignungsprüfung - Track 2
+  - Charlies Eignungsprüfung - Track 3
+  - Charlies Eignungsprüfung - Track 4
+  - Charlies Eignungsprüfung - Track 5
+  - Charlies Eignungsprüfung - Track 6
+  - Charlies Eignungsprüfung - Track 7
+  - Chaos im Cupcake-Café - Track 1
+  - Chaos im Cupcake-Café - Track 2
+  - Chaos im Cupcake-Café - Track 3
+  - Chaos im Cupcake-Café - Track 4
+  - Chaos im Cupcake-Café - Track 5
+  - Chaos im Cupcake-Café - Track 6
+  - Chaos im Cupcake-Café - Track 7
   ids: []

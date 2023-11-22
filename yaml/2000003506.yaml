@@ -6,13 +6,28 @@ data:
   episode: Die verflogene Einladung / Der große Fund / Die Zauberäpfel (Ungekürzt)
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/283d21a04e8ebf8323e36c70b76f22c4b64c81fbf06ac05fdcadd0f1/3_~ldrH3FRMvltLXT0/horspiele_zur_tv_serie_010_die_verflogene_einl_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/1a549772af2bbd21bcbfc3fc07ddf52450eb49d3edb06178caac0638/9783838797694_001_001_128.mp3
   web: https://tonies.com/de-de/audio-content/petronella-apfelmus-hoerspiele-zur-tv-serie/petronella-apfelmus-teil-10-die-verflogene-einladu/
   shop-id: bb6d953a-a8ff-40a0-8d92-a183bffe1146
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
   ids: []

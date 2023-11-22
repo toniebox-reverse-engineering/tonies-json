@@ -6,13 +6,15 @@ data:
   episode: I Puffi - Raccolta di storie 4
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/d553a0f0d5132398e17ae604d3afa635f8518c8e74e019802e9c4dd0/3_wYc03mCnB_yCKgrM/die_schlumpfe_i_puffi_raccolta_di_storie_4_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/6bebf230ac2da054cc2b3690236d01025856d02ea0668de6ca5b3961/9788726996838.mp3
   web: https://tonies.com/de-de/audio-content/die-schluempfe/i-puffi-raccolta-di-storie-4/
   shop-id: 5e448605-cbe7-4a7b-8294-9c6047389c6c
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
   ids: []

@@ -6,13 +6,44 @@ data:
   episode: 'Folgen 67-71: Volltreffer'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_ec12220c95bda8c5eda0beb864359d619540bb3817e2af61039f5469/3_Jg3TjwwqvKHP9Qp4/lego_friends_067_folgen_67_71__volltreffer_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/81bcbc9c15355d19e4d872f660adce917ab27b537d1104c8aa831811/4013575911370_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-friends/folgen-67-71-volltreffer/
   shop-id: ed6f34be-b968-4d1a-957f-5ce421951eb8
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Volltreffer (Folge 67)'
+  - 'Kapitel 02: Volltreffer (Folge 67)'
+  - 'Kapitel 03: Volltreffer (Folge 67)'
+  - 'Kapitel 04: Volltreffer (Folge 67)'
+  - 'Kapitel 05: Volltreffer (Folge 67)'
+  - 'Kapitel 06: Volltreffer (Folge 67)'
+  - 'Kapitel 07: Volltreffer (Folge 67)'
+  - 'Kapitel 01: Unaufhaltsame Freundschaft (Folge 68)'
+  - 'Kapitel 02: Unaufhaltsame Freundschaft (Folge 68)'
+  - 'Kapitel 03: Unaufhaltsame Freundschaft (Folge 68)'
+  - 'Kapitel 04: Unaufhaltsame Freundschaft (Folge 68)'
+  - 'Kapitel 05: Unaufhaltsame Freundschaft (Folge 68)'
+  - 'Kapitel 06: Unaufhaltsame Freundschaft (Folge 68)'
+  - 'Kapitel 01: Emma in geheimer Mission (Folge 69)'
+  - 'Kapitel 02: Emma in geheimer Mission (Folge 69)'
+  - 'Kapitel 03: Emma in geheimer Mission (Folge 69)'
+  - 'Kapitel 04: Emma in geheimer Mission (Folge 69)'
+  - 'Kapitel 05: Emma in geheimer Mission (Folge 69)'
+  - 'Kapitel 06: Emma in geheimer Mission (Folge 69)'
+  - 'Kapitel 01: Olivias Familien (Folge 70)'
+  - 'Kapitel 02: Olivias Familien (Folge 70)'
+  - 'Kapitel 03: Olivias Familien (Folge 70)'
+  - 'Kapitel 04: Olivias Familien (Folge 70)'
+  - 'Kapitel 05: Olivias Familien (Folge 70)'
+  - 'Kapitel 06: Olivias Familien (Folge 70)'
+  - 'Kapitel 01: Miarella (Folge 71)'
+  - 'Kapitel 02: Miarella (Folge 71)'
+  - 'Kapitel 03: Miarella (Folge 71)'
+  - 'Kapitel 04: Miarella (Folge 71)'
+  - 'Kapitel 05: Miarella (Folge 71)'
+  - 'Kapitel 06: Miarella (Folge 71)'
   ids: []

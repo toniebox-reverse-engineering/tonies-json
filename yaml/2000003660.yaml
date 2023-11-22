@@ -6,13 +6,60 @@ data:
   episode: Tiger und Bär, es weihnachtet sehr!
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
   image: https://cdn.tonies.de/o/images/5da75094890001d4681cab9f143137a55a03a052145554bac049e12b/3_Y9Rhx6RFh.z2bwMg/janosch_tiger_und_bar_es_weihnachtet_sehr_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/3e093c86173fd8d35c602ecdf305cb04b9c0d188ccf18f2570820323/janosch_tiger_und_bar_es_weihnachtet_sehr_9783837311112.wav
   web: https://tonies.com/de-de/audio-content/janosch/tiger-und-bar-es-weihnachtet-sehr/
   shop-id: d6c54ebe-1a3f-449d-8c38-d9e841fc0a73
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Baum-und-Pilze-Fest'
+  - 'Kapitel 02: Baum-und-Pilze-Fest'
+  - 'Kapitel 03: Baum-und-Pilze-Fest'
+  - 'Kapitel 04: Baum-und-Pilze-Fest'
+  - 'Kapitel 01: Spuren im Schnee'
+  - 'Kapitel 02: Spuren im Schnee'
+  - 'Kapitel 03: Spuren im Schnee'
+  - 'Kapitel 04: Spuren im Schnee'
+  - 'Kapitel 01: Ein Wunschbriefkasten für alle!'
+  - 'Kapitel 02: Ein Wunschbriefkasten für alle!'
+  - 'Kapitel 03: Ein Wunschbriefkasten für alle!'
+  - 'Kapitel 04: Ein Wunschbriefkasten für alle!'
+  - 'Kapitel 01: Der Nikolaus und die Schornsteine'
+  - 'Kapitel 02: Der Nikolaus und die Schornsteine'
+  - 'Kapitel 03: Der Nikolaus und die Schornsteine'
+  - 'Kapitel 04: Der Nikolaus und die Schornsteine'
+  - 'Kapitel 05: Der Nikolaus und die Schornsteine'
+  - 'Kapitel 06: Der Nikolaus und die Schornsteine'
+  - 'Kapitel 01: Der Igel und der Winterschlaf'
+  - 'Kapitel 02: Der Igel und der Winterschlaf'
+  - 'Kapitel 03: Der Igel und der Winterschlaf'
+  - 'Kapitel 04: Der Igel und der Winterschlaf'
+  - 'Kapitel 01: Die Suche nach dem Weihnachtsmann'
+  - 'Kapitel 02: Die Suche nach dem Weihnachtsmann'
+  - 'Kapitel 03: Die Suche nach dem Weihnachtsmann'
+  - 'Kapitel 04: Die Suche nach dem Weihnachtsmann'
+  - 'Kapitel 01: Der falsche Weihnachtsmann'
+  - 'Kapitel 02: Der falsche Weihnachtsmann'
+  - 'Kapitel 03: Der falsche Weihnachtsmann'
+  - 'Kapitel 01: Kekse für alle'
+  - 'Kapitel 02: Kekse für alle'
+  - 'Kapitel 03: Kekse für alle'
+  - 'Kapitel 04: Kekse für alle'
+  - 'Kapitel 05: Kekse für alle'
+  - 'Kapitel 06: Kekse für alle'
+  - 'Kapitel 01: Der neue Freund von Tante Gans'
+  - 'Kapitel 02: Der neue Freund von Tante Gans'
+  - 'Kapitel 03: Der neue Freund von Tante Gans'
+  - 'Kapitel 04: Der neue Freund von Tante Gans'
+  - 'Kapitel 05: Der neue Freund von Tante Gans'
+  - 'Kapitel 06: Der neue Freund von Tante Gans'
+  - 'Kapitel 01: Tiger und Bär, es weihnachtet sehr!'
+  - 'Kapitel 02: Tiger und Bär, es weihnachtet sehr!'
+  - 'Kapitel 03: Tiger und Bär, es weihnachtet sehr!'
+  - 'Kapitel 04: Tiger und Bär, es weihnachtet sehr!'
+  - 'Kapitel 05: Tiger und Bär, es weihnachtet sehr!'
+  - 'Kapitel 06: Tiger und Bär, es weihnachtet sehr!'
   ids: []

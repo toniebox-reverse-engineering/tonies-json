@@ -6,13 +6,40 @@ data:
   episode: 'Folgen 45-47: Die Brosche'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_facbae7d50088516824cfd9ecea42dcbf14a47585b256453ea135524/3_x1lX_ZlHTYc1Qv2c/lego_friends_045_folgen_45_47__die_brosche_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/2a522dbd974430da710cf539aa839846b906533006fea4f7aece8587/4013575904310_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-friends/lego-friends-folgen-45-47-die-brosche/
   shop-id: cf095f87-2698-4360-baad-c2ce7a1e23cb
-  track-desc: []
+  track-desc:
+  - Die Brosche - Track 1
+  - Die Brosche - Track 2
+  - Die Brosche - Track 3
+  - Die Brosche - Track 4
+  - Die Brosche - Track 5
+  - Die Brosche - Track 6
+  - Die Brosche - Track 7
+  - Die Brosche - Track 8
+  - Die Brosche - Track 9
+  - Der Tauchgang - Track 1
+  - Der Tauchgang - Track 2
+  - Der Tauchgang - Track 3
+  - Der Tauchgang - Track 4
+  - Der Tauchgang - Track 5
+  - Der Tauchgang - Track 6
+  - Der Tauchgang - Track 7
+  - Der Tauchgang - Track 8
+  - Der Tauchgang - Track 9
+  - Die Schatzkarte - Track 1
+  - Die Schatzkarte - Track 2
+  - Die Schatzkarte - Track 3
+  - Die Schatzkarte - Track 4
+  - Die Schatzkarte - Track 5
+  - Die Schatzkarte - Track 6
+  - Die Schatzkarte - Track 7
+  - Die Schatzkarte - Track 8
+  - Die Schatzkarte - Track 9
   ids: []

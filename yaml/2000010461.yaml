@@ -6,13 +6,19 @@ data:
   episode: Opie Konijn in de ruimte en andere verhaaltjes
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/24fcc94e524696be870fcd2c9bccebbfccccab231206e732532c99b8/3_Dlhrkr~TR5BMmhBX/peppa_pig_002_opie_konijn_in_de_ruimte_en_ande_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/779290868406f4302579c35ae89515af89f90eebf2bab83c085bd431/9788728335482.mp3
   web: https://tonies.com/de-de/audio-content/peppa-pig/peppa-pig-opie-konijn-in-de-ruimte-en-andere-verha/
   shop-id: 6540ec8f-5875-4041-a3f9-2559f6c96d72
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
   ids: []

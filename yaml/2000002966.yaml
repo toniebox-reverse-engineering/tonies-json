@@ -6,13 +6,23 @@ data:
   episode: Pittiplatsch, der Sportler
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_79573057374fd3e0a531cb9262374afa7802cc3e73e7e787655312dd/3_2fdnt5Z89TzVKD6W/pittiplatsch_009_pittiplatsch_der_sportler_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/a2bcaf0662731746993ce4dc02461d8a4e55676a9d90f54acd2381f4/audio_sample.wav
   web: https://tonies.com/de-de/audio-content/pittiplatsch/pittiplatsch-der-sportler/
   shop-id: df67465e-2e98-4f6f-8a70-aa238d848c9c
-  track-desc: []
+  track-desc:
+  - Hundesport
+  - Pitti und der seltsame Hürdenlauf
+  - Pitti, der Sportler
+  - Pitti und die Fußballpilze
+  - Wer gewinnt das Apfelmännchen?
+  - Sportfest
+  - Wie Moppi das Tanzen lernen wollte
+  - Als Pitti der Stärkste der Welt sein wollte
+  - Schneeballweitstoßen
+  - Pitti übt Schlittschuhlaufen
   ids: []

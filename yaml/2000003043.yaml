@@ -6,13 +6,35 @@ data:
   episode: 'Folgen 203-206: Die verschneite Insel'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/83ab548a0047726d12313cfb8e0fa697225426629882e980a608f0a5/3_djDnWxKJnv2-vwMy/paw_patrol_203_folgen_203_206__die_verschneite_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/637451a85f2dfd995255c730ece4e71a038821537fcb567a8355d898/4013575925902_preview.mp3
   web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-203-206-die-verschneite-insel/
   shop-id: 1b2d1bb3-4134-42d6-b0ed-316c8015144e
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Die verschneite Insel (Folge 203)'
+  - 'Kapitel 02: Die verschneite Insel (Folge 203)'
+  - 'Kapitel 03: Die verschneite Insel (Folge 203)'
+  - 'Kapitel 04: Die verschneite Insel (Folge 203)'
+  - 'Kapitel 05: Die verschneite Insel (Folge 203)'
+  - 'Kapitel 06: Die verschneite Insel (Folge 203)'
+  - 'Kapitel 01: Das Gurkenchaos (Folge 204)'
+  - 'Kapitel 02: Das Gurkenchaos (Folge 204)'
+  - 'Kapitel 03: Das Gurkenchaos (Folge 204)'
+  - 'Kapitel 04: Das Gurkenchaos (Folge 204)'
+  - 'Kapitel 05: Das Gurkenchaos (Folge 204)'
+  - 'Kapitel 01: Ein Auto für Lotta (Folge 205)'
+  - 'Kapitel 02: Ein Auto für Lotta (Folge 205)'
+  - 'Kapitel 03: Ein Auto für Lotta (Folge 205)'
+  - 'Kapitel 04: Ein Auto für Lotta (Folge 205)'
+  - 'Kapitel 05: Ein Auto für Lotta (Folge 205)'
+  - 'Kapitel 01: Der Pizza-Turm (Folge 206)'
+  - 'Kapitel 02: Der Pizza-Turm (Folge 206)'
+  - 'Kapitel 03: Der Pizza-Turm (Folge 206)'
+  - 'Kapitel 04: Der Pizza-Turm (Folge 206)'
+  - 'Kapitel 05: Der Pizza-Turm (Folge 206)'
+  - 'Kapitel 06: Der Pizza-Turm (Folge 206)'
   ids: []

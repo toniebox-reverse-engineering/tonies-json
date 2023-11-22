@@ -6,13 +6,33 @@ data:
   episode: 'Folgen 247-250: Das Sperrmüll-Monster'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_a2d7c6891171f76dd01f5f730d11a4b604f305096e415e59af36054e/3_1gCvty2GsWQV2PCb/paw_patrol_247_folgen_247_250__das_sperrmull_m_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/828092652f3b3694175a343e39960443d3b12a58fc6ffea91e1f0a77/4013575931194_preview.mp3
   web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-247-250-das-sperrmull-monster/
   shop-id: a2faf21d-49a3-4ac7-9b63-b56184abdc50
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Das Sperrmüll-Monster (Folge 247)'
+  - 'Kapitel 02: Das Sperrmüll-Monster (Folge 247)'
+  - 'Kapitel 03: Das Sperrmüll-Monster (Folge 247)'
+  - 'Kapitel 04: Das Sperrmüll-Monster (Folge 247)'
+  - 'Kapitel 05: Das Sperrmüll-Monster (Folge 247)'
+  - 'Kapitel 01: Müllalarm im Meer (Folge 248)'
+  - 'Kapitel 02: Müllalarm im Meer (Folge 248)'
+  - 'Kapitel 03: Müllalarm im Meer (Folge 248)'
+  - 'Kapitel 04: Müllalarm im Meer (Folge 248)'
+  - 'Kapitel 05: Müllalarm im Meer (Folge 248)'
+  - 'Kapitel 01: Einsatz auf der Vulkaninsel (Folge 249)'
+  - 'Kapitel 02: Einsatz auf der Vulkaninsel (Folge 249)'
+  - 'Kapitel 03: Einsatz auf der Vulkaninsel (Folge 249)'
+  - 'Kapitel 04: Einsatz auf der Vulkaninsel (Folge 249)'
+  - 'Kapitel 05: Einsatz auf der Vulkaninsel (Folge 249)'
+  - 'Kapitel 01: Flugzeug in Not (Folge 250)'
+  - 'Kapitel 02: Flugzeug in Not (Folge 250)'
+  - 'Kapitel 03: Flugzeug in Not (Folge 250)'
+  - 'Kapitel 04: Flugzeug in Not (Folge 250)'
+  - 'Kapitel 05: Flugzeug in Not (Folge 250)'
   ids: []

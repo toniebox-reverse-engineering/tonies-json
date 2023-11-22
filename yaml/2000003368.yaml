@@ -6,13 +6,46 @@ data:
   episode: 'Folgen 46-51: Wir sind Nummer 1'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 7
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_3a948c65f61632047a32d33aec84afc42b5bc0c9e9b47a81f5b4c09a/3_ck.lpfrxxtK9l9V~/lego_city_abenteuer_010_folgen_46_51__wir_sind_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/4e4ec679d1cf796538897e177de7c6162720d42a73afe8a7d4faeecd/4013575922062_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-city-abenteuer/folgen-46-51-wir-sind-nummer-1/
   shop-id: 48bee5bb-492a-4e3f-ac34-d62e8e84c3f5
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Wir sind Nummer 1 (Folge 46)'
+  - 'Kapitel 02: Wir sind Nummer 1 (Folge 46)'
+  - 'Kapitel 03: Wir sind Nummer 1 (Folge 46)'
+  - 'Kapitel 04: Wir sind Nummer 1 (Folge 46)'
+  - 'Kapitel 05: Wir sind Nummer 1 (Folge 46)'
+  - 'Kapitel 01: Wylde Wex (Folge 47)'
+  - 'Kapitel 02: Wylde Wex (Folge 47)'
+  - 'Kapitel 03: Wylde Wex (Folge 47)'
+  - 'Kapitel 04: Wylde Wex (Folge 47)'
+  - 'Kapitel 05: Wylde Wex (Folge 47)'
+  - 'Kapitel 01: Das Geschäft boomt! (Folge 48)'
+  - 'Kapitel 02: Das Geschäft boomt! (Folge 48)'
+  - 'Kapitel 03: Das Geschäft boomt! (Folge 48)'
+  - 'Kapitel 04: Das Geschäft boomt! (Folge 48)'
+  - 'Kapitel 05: Das Geschäft boomt! (Folge 48)'
+  - 'Kapitel 06: Das Geschäft boomt! (Folge 48)'
+  - 'Kapitel 01: Alles nochmal neu (Folge 49)'
+  - 'Kapitel 02: Alles nochmal neu (Folge 49)'
+  - 'Kapitel 03: Alles nochmal neu (Folge 49)'
+  - 'Kapitel 04: Alles nochmal neu (Folge 49)'
+  - 'Kapitel 05: Alles nochmal neu (Folge 49)'
+  - 'Kapitel 06: Alles nochmal neu (Folge 49)'
+  - 'Kapitel 01: Licht. Kamera. Grizzled. (Folge 50)'
+  - 'Kapitel 02: Licht. Kamera. Grizzled. (Folge 50)'
+  - 'Kapitel 03: Licht. Kamera. Grizzled. (Folge 50)'
+  - 'Kapitel 04: Licht. Kamera. Grizzled. (Folge 50)'
+  - 'Kapitel 05: Licht. Kamera. Grizzled. (Folge 50)'
+  - 'Kapitel 01: Duke-Zeit (Folge 51)'
+  - 'Kapitel 02: Duke-Zeit (Folge 51)'
+  - 'Kapitel 03: Duke-Zeit (Folge 51)'
+  - 'Kapitel 04: Duke-Zeit (Folge 51)'
+  - 'Kapitel 05: Duke-Zeit (Folge 51)'
+  - 'Kapitel 06: Duke-Zeit (Folge 51)'
   ids: []

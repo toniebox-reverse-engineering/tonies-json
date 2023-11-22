@@ -6,13 +6,34 @@ data:
   episode: Das geheime Olchi-Experiment
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/a445ac695759ad93af2b84a1132de136432bc4d2d894328ec3947e33/3_9Bb_z~ncBCtSH3gV/die_olchis_das_geheime_olchi_experiment_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/c0fe324b4af1a1fb15fe237593200fe73394284a6c4264a95c41c3a1/9783837360349_preview.mp3
   web: https://tonies.com/de-de/audio-content/die-olchis/das-geheime-olchi-experiment/
   shop-id: 4bc85058-c63d-40e9-8c2a-3c4ecd713aa5
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
+  - Kapitel 20
+  - Kapitel 21
   ids: []

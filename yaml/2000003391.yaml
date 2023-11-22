@@ -6,13 +6,27 @@ data:
   episode: 'Folgen 55-56: Der Geist aus der Teekanne'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_3096b84cd13b281dd66581bb494abde91f0b4cbf51609098625d1b56/3__4vP9kl46fw5gx9n/lego_ninjago_055_folgen_55_56__der_geist_aus_d_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/f647da9db18779898eaa33cb5e4d0726aa431c2e1e10e855f9c12418/4013575901814_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-55-56-der-geist-aus-der-teekanne/
   shop-id: 30228e6c-b3ff-457a-88b4-822ff25ed9cf
-  track-desc: []
+  track-desc:
+  - 'Folge 55: Der Geist aus der Teekanne - Track 1'
+  - 'Folge 55: Der Geist aus der Teekanne - Track 2'
+  - 'Folge 55: Der Geist aus der Teekanne - Track 3'
+  - 'Folge 55: Der Geist aus der Teekanne - Track 4'
+  - 'Folge 55: Der Geist aus der Teekanne - Track 5'
+  - 'Folge 55: Der Geist aus der Teekanne - Track 6'
+  - 'Folge 56: Ronan auf Ninja-Suche - Track 1'
+  - 'Folge 56: Ronan auf Ninja-Suche - Track 2'
+  - 'Folge 56: Ronan auf Ninja-Suche - Track 3'
+  - 'Folge 56: Ronan auf Ninja-Suche - Track 4'
+  - 'Folge 56: Ronan auf Ninja-Suche - Track 5'
+  - 'Folge 56: Ronan auf Ninja-Suche - Track 6'
+  - 'Folge 56: Ronan auf Ninja-Suche - Track 7'
+  - 'Folge 56: Ronan auf Ninja-Suche - Track 8'
   ids: []

@@ -6,13 +6,35 @@ data:
   episode: 'Folge 23: Ein heimlicher Gast'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
   image: https://cdn.tonies.de/o/images/af1a9c8f790a081601efef5833e0d0a85ee6c1f8563b36c7bf85479f/3_yjsKXF0WZR2zXq-4/schleich_horse_club_023_folge_23__ein_heimlich_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/f9ff472fc50c995cda04a6e93e498c8f6e2cceb0b2e1cc789d481a8c/4013575936052_preview.mp3
   web: https://tonies.com/de-de/audio-content/schleich-horse-club/folge-23-ein-heimlicher-gast/
   shop-id: 5c085d46-c24a-4440-9f24-1070237d706c
-  track-desc: []
+  track-desc:
+  - Inhaltsangabe - Ein heimlicher Gast (Folge 23)
+  - Intro Lied - Ein heimlicher Gast (Folge 23)
+  - 'Kapitel 01: Ein heimlicher Gast (Folge 23)'
+  - 'Kapitel 02: Ein heimlicher Gast (Folge 23)'
+  - 'Kapitel 03: Ein heimlicher Gast (Folge 23)'
+  - 'Kapitel 04: Ein heimlicher Gast (Folge 23)'
+  - 'Kapitel 05: Ein heimlicher Gast (Folge 23)'
+  - 'Kapitel 06: Ein heimlicher Gast (Folge 23)'
+  - 'Kapitel 07: Ein heimlicher Gast (Folge 23)'
+  - 'Kapitel 08: Ein heimlicher Gast (Folge 23)'
+  - 'Kapitel 09: Ein heimlicher Gast (Folge 23)'
+  - 'Kapitel 10: Ein heimlicher Gast (Folge 23)'
+  - 'Kapitel 11: Ein heimlicher Gast (Folge 23)'
+  - 'Kapitel 12: Ein heimlicher Gast (Folge 23)'
+  - 'Kapitel 13: Ein heimlicher Gast (Folge 23)'
+  - 'Kapitel 14: Ein heimlicher Gast (Folge 23)'
+  - 'Kapitel 15: Ein heimlicher Gast (Folge 23)'
+  - 'Kapitel 16: Ein heimlicher Gast (Folge 23)'
+  - 'Kapitel 17: Ein heimlicher Gast (Folge 23)'
+  - 'Kapitel 18: Ein heimlicher Gast (Folge 23)'
+  - Freunde für immer (Titelsong)
+  - Outro - Ein heimlicher Gast (Folge 23)
   ids: []

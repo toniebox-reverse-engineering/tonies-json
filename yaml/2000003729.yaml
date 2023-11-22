@@ -6,13 +6,29 @@ data:
   episode: 'Teil 13: Im Zauberwald'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
   image: https://cdn.tonies.de/o/images/b41c8d217ea3ed8aef92d939bf3d9c99268f569116cd6447bbe9ca46/3_p9DSv4x5YSs4~Hxj/sternenfohlen_013_teil_13__im_zauberwald_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/749e8df8c0f597b6b3e451ca9a70d97ffae27fd6e99d5d6b156ea9ae/9783803281623_001_001_128.mp3
   web: https://tonies.com/de-de/audio-content/sternenfohlen/sternenfohlen-teil-13-im-zauberwald/
   shop-id: 73da6a51-a743-4cdb-82a4-83a43f6a32e1
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
   ids: []

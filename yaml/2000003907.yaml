@@ -6,13 +6,44 @@ data:
   episode: 'Folgen 68-72: Eisiger Hirnfrost'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 7
   origin: tunes
   image: https://cdn.tonies.de/o/images/62f2c176d8e2def67e42e1bf7153320b503fcd144759ff1400e86f25/3_pp5MHzVq7VVS6jVn/lego_city_068_folgen_68_72__eisiger_hirnfrost_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/4922420063140226b69100d237db93789604088dc2ce9962eedb0a02/4013575937554_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-city/folgen-68-72-eisiger-hirnfrost/
   shop-id: 65539590-1c9e-432b-b653-8330f8ed500b
-  track-desc: []
+  track-desc:
+  - LEGO City Abenteuer Lied
+  - 'Kapitel 01: Eisiger Hirnfrost (Folge 68)'
+  - 'Kapitel 02: Eisiger Hirnfrost (Folge 68)'
+  - 'Kapitel 03: Eisiger Hirnfrost (Folge 68)'
+  - 'Kapitel 04: Eisiger Hirnfrost (Folge 68)'
+  - 'Kapitel 05: Eisiger Hirnfrost (Folge 68)'
+  - 'Kapitel 06: Eisiger Hirnfrost (Folge 68)'
+  - 'Kapitel 01: Zum Filmen geboren (Folge 69)'
+  - 'Kapitel 02: Zum Filmen geboren (Folge 69)'
+  - 'Kapitel 03: Zum Filmen geboren (Folge 69)'
+  - 'Kapitel 04: Zum Filmen geboren (Folge 69)'
+  - 'Kapitel 05: Zum Filmen geboren (Folge 69)'
+  - 'Kapitel 06: Zum Filmen geboren (Folge 69)'
+  - 'Kapitel 01: Die Wexler-Deflektor-Theorie (Folge 70)'
+  - 'Kapitel 02: Die Wexler-Deflektor-Theorie (Folge 70)'
+  - 'Kapitel 03: Die Wexler-Deflektor-Theorie (Folge 70)'
+  - 'Kapitel 04: Die Wexler-Deflektor-Theorie (Folge 70)'
+  - 'Kapitel 05: Die Wexler-Deflektor-Theorie (Folge 70)'
+  - 'Kapitel 06: Die Wexler-Deflektor-Theorie (Folge 70)'
+  - 'Kapitel 01: Billy in Höchstform (Folge 71)'
+  - 'Kapitel 02: Billy in Höchstform (Folge 71)'
+  - 'Kapitel 03: Billy in Höchstform (Folge 71)'
+  - 'Kapitel 04: Billy in Höchstform (Folge 71)'
+  - 'Kapitel 05: Billy in Höchstform (Folge 71)'
+  - 'Kapitel 06: Billy in Höchstform (Folge 71)'
+  - 'Kapitel 01: Zwei glorreiche Schildkröten (Folge 72)'
+  - 'Kapitel 02: Zwei glorreiche Schildkröten (Folge 72)'
+  - 'Kapitel 03: Zwei glorreiche Schildkröten (Folge 72)'
+  - 'Kapitel 04: Zwei glorreiche Schildkröten (Folge 72)'
+  - 'Kapitel 05: Zwei glorreiche Schildkröten (Folge 72)'
+  - 'Kapitel 06: Zwei glorreiche Schildkröten (Folge 72)'
   ids: []

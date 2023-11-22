@@ -6,13 +6,26 @@ data:
   episode: 'Folge 13: Die Hundediebe'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_a42f7e5a0e2efff48341e5a6c41d0f2d4c480385288e41c3ce2484a5/3_BZ5mn_xBzBVn7hvb/lego_friends_013_folge_13__die_hundediebe_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/a8f4889a2e5734eb3facb4c3dbf39249dd3f3b1972d12f9f0c274437/4013575901487_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-friends/lego-friends-folge-13-die-hundediebe/
   shop-id: 32fa1eee-3f4d-48dd-bafb-0c44c0ec86cc
-  track-desc: []
+  track-desc:
+  - Die Hundediebe - Track 1
+  - Die Hundediebe - Track 2
+  - Die Hundediebe - Track 3
+  - Die Hundediebe - Track 4
+  - Die Hundediebe - Track 5
+  - Die Hundediebe - Track 6
+  - Die Hundediebe - Track 7
+  - Die Hundediebe - Track 8
+  - Die Hundediebe - Track 9
+  - Die Hundediebe - Track 10
+  - Die Hundediebe - Track 11
+  - Die Hundediebe - Track 12
+  - Die Hundediebe - Track 13
   ids: []

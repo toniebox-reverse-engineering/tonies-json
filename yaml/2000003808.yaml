@@ -6,13 +6,38 @@ data:
   episode: 'Adventskalender: Das große Weihnachtssingen'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_3d7ba5b6cd4acc5c3b2f0bb404734c3027daeac9c921068af1e90d65/3_C4vXHhjySh8h.s0H/benjamin_blumchen_adventskalender__das_groe_wei_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/324c674d7fdb77f70df79114e812752e000213237a1e47ee10fe3fce/bb_hs_hoerprobe_spezial1_der_adventskalender.mp3
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/adventskalender-das-grosse-weihnachtssingen/
   shop-id: 34f05aea-3051-4aeb-b5aa-69332bd40416
-  track-desc: []
+  track-desc:
+  - Titellied
+  - '01. Dezember: Alles, nur kein Weihnachtsrummel!'
+  - '02. Dezember: Mit Herz statt Kommerz'
+  - '03. Dezember: Die Weihnachtsbäckerei'
+  - '04. Dezember: Der Schlittschuh-Express'
+  - '05. Dezember: Am Nikolausabend'
+  - '06. Dezember: Benjamins weihnachtlicher Wunderpunsch'
+  - '07. Dezember: Das kuschelig-warme Wolleparadies'
+  - '08. Dezember: Rüssel frei für Benjamin!'
+  - '09. Dezember: Ein Weihnachtsspaß für Jung und Alt'
+  - '10. Dezember: Der Bratapfel-Back-o-Mat'
+  - '11. Dezember: Weihnachtswichtel gesichtet!'
+  - '12. Dezember: Eine kleine Rutschpartie'
+  - '13. Dezember: Die entschleunigte Reporterin'
+  - '14. Dezember: Die duftenden Bienenwachskerzen'
+  - '15. Dezember: Das Weihnachtsdorf am Weihnachtsbaum'
+  - '16. Dezember: Herr Pichlers Bastelecke'
+  - '17. Dezember: Der Weihnachtselefant'
+  - '18. Dezember: Die Weihnachtspyramide'
+  - '19. Dezember: Kling, Glöckchen, klingelingeling!'
+  - '20. Dezember: Der purpurrote Wintermantel'
+  - '21. Dezember: Ein Lied für Benjamin'
+  - '22. Dezember: Ein Törööö für den Bürgermeister'
+  - '23. Dezember: Der Elefanten-Spaß-Tag'
+  - '24. Dezember: Das große Weihnachtssingen'
   ids: []

@@ -6,13 +6,25 @@ data:
   episode: 'Folge 08: Die Pirateninsel'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_81e409bc0f48beea32fb8fc1d13dda924a1c53d18855ea7e199af1e9/3_4qWS6pvtgTwNSLHL/lego_friends_008_folge_08__die_pirateninsel_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/56bf9c5ae36ca09a31f69afaaf7f82257e2a394c1b2963ec36b53e8e/4013575901432_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-friends/lego-friends-folge-08-die-pirateninsel/
   shop-id: 73e62c02-61e0-4307-ac2b-f662e7ed08e4
-  track-desc: []
+  track-desc:
+  - Die Pirateninsel - Track 1
+  - Die Pirateninsel - Track 2
+  - Die Pirateninsel - Track 3
+  - Die Pirateninsel - Track 4
+  - Die Pirateninsel - Track 5
+  - Die Pirateninsel - Track 6
+  - Die Pirateninsel - Track 7
+  - Die Pirateninsel - Track 8
+  - Die Pirateninsel - Track 9
+  - Die Pirateninsel - Track 10
+  - Die Pirateninsel - Track 11
+  - Die Pirateninsel - Track 12
   ids: []

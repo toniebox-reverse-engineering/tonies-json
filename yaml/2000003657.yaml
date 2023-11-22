@@ -7,13 +7,43 @@ data:
     Teil 3
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
   image: https://cdn.tonies.de/o/images/391fd65f0112897c688f38185ff2916e7f5a2d86c5021f4c839c8a8a/3_QvltYD0lmxtWMJ3p/janosch_jetzt_wird_geschlafen_freunde_gutenach_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/dac838d3812d9b9ce2f7a20cf76354d9cdbd0dbbdd238ba435b300c4/gutenachtgeschichten_mit_tiger_und_baer_teil_3_hoerprobe.wav
   web: https://tonies.com/de-de/audio-content/janosch/jetzt-wird-geschlafen-freunde-gutenachtgeschicht-2/
   shop-id: 97bf8bc9-7179-49fb-9bdc-03ed4ebdcda1
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Als zwei Schneemänner einmal Verstecken spielten'
+  - 'Kapitel 02: Als zwei Schneemänner einmal Verstecken spielten'
+  - 'Kapitel 03: Als zwei Schneemänner einmal Verstecken spielten'
+  - 'Kapitel 04: Als zwei Schneemänner einmal Verstecken spielten'
+  - 'Kapitel 05: Als zwei Schneemänner einmal Verstecken spielten'
+  - 'Kapitel 06: Als zwei Schneemänner einmal Verstecken spielten'
+  - 'Kapitel 07: Als zwei Schneemänner einmal Verstecken spielten'
+  - 'Kapitel 08: Als zwei Schneemänner einmal Verstecken spielten'
+  - 'Kapitel 09: Als zwei Schneemänner einmal Verstecken spielten'
+  - 'Kapitel 10: Als zwei Schneemänner einmal Verstecken spielten'
+  - 'Kapitel 01: Die Geschichte vom großen Graben'
+  - 'Kapitel 02: Die Geschichte vom großen Graben'
+  - 'Kapitel 03: Die Geschichte vom großen Graben'
+  - 'Kapitel 04: Die Geschichte vom großen Graben'
+  - 'Kapitel 05: Die Geschichte vom großen Graben'
+  - 'Kapitel 06: Die Geschichte vom großen Graben'
+  - 'Kapitel 07: Die Geschichte vom großen Graben'
+  - 'Kapitel 08: Die Geschichte vom großen Graben'
+  - 'Kapitel 09: Die Geschichte vom großen Graben'
+  - 'Kapitel 10: Die Geschichte vom großen Graben'
+  - 'Kapitel 01: Wie der Reiseesel nach Mallorca flog'
+  - 'Kapitel 02: Wie der Reiseesel nach Mallorca flog'
+  - 'Kapitel 03: Wie der Reiseesel nach Mallorca flog'
+  - 'Kapitel 04: Wie der Reiseesel nach Mallorca flog'
+  - 'Kapitel 05: Wie der Reiseesel nach Mallorca flog'
+  - 'Kapitel 06: Wie der Reiseesel nach Mallorca flog'
+  - 'Kapitel 07: Wie der Reiseesel nach Mallorca flog'
+  - 'Kapitel 08: Wie der Reiseesel nach Mallorca flog'
+  - 'Kapitel 09: Wie der Reiseesel nach Mallorca flog'
+  - 'Kapitel 10: Wie der Reiseesel nach Mallorca flog'
   ids: []

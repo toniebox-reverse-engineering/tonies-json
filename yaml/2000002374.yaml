@@ -6,13 +6,39 @@ data:
   episode: 'Folgen 111-114: Die Katzenshow'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/a7543bd8c8e04102e34024aff9f50d1970d14ab69e2ed2f2b2c8d232/3_BXmm85MW~9K~xjrk/paw_patrol_111_folgen_111_114__die_katzenshow_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/70383b6978b51225fbe1be5cc08ada0609c7c8485e17cd73eba1376b/4013575910632_preview.mp3
   web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-111-114-die-katzenshow/
   shop-id: f8046a66-4fba-42ee-afe9-3c2d0f7bb7dc
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Eine eisige Rettung (Folge 111)'
+  - 'Kapitel 02: Eine eisige Rettung (Folge 111)'
+  - 'Kapitel 03: Eine eisige Rettung (Folge 111)'
+  - 'Kapitel 04: Eine eisige Rettung (Folge 111)'
+  - 'Kapitel 05: Eine eisige Rettung (Folge 111)'
+  - 'Kapitel 06: Eine eisige Rettung (Folge 111)'
+  - 'Kapitel 07: Eine eisige Rettung (Folge 111)'
+  - 'Kapitel 01: Die Katzenshow (Folge 112)'
+  - 'Kapitel 02: Die Katzenshow (Folge 112)'
+  - 'Kapitel 03: Die Katzenshow (Folge 112)'
+  - 'Kapitel 04: Die Katzenshow (Folge 112)'
+  - 'Kapitel 05: Die Katzenshow (Folge 112)'
+  - 'Kapitel 06: Die Katzenshow (Folge 112)'
+  - 'Kapitel 01: Jake hat Geburtstag (Folge 113)'
+  - 'Kapitel 02: Jake hat Geburtstag (Folge 113)'
+  - 'Kapitel 03: Jake hat Geburtstag (Folge 113)'
+  - 'Kapitel 04: Jake hat Geburtstag (Folge 113)'
+  - 'Kapitel 05: Jake hat Geburtstag (Folge 113)'
+  - 'Kapitel 06: Jake hat Geburtstag (Folge 113)'
+  - 'Kapitel 01: Die wilde Abfahrt (Folge 114)'
+  - 'Kapitel 02: Die wilde Abfahrt (Folge 114)'
+  - 'Kapitel 03: Die wilde Abfahrt (Folge 114)'
+  - 'Kapitel 04: Die wilde Abfahrt (Folge 114)'
+  - 'Kapitel 05: Die wilde Abfahrt (Folge 114)'
+  - 'Kapitel 06: Die wilde Abfahrt (Folge 114)'
+  - 'Kapitel 07: Die wilde Abfahrt (Folge 114)'
   ids: []

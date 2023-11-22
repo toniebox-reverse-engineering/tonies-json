@@ -6,13 +6,23 @@ data:
   episode: Verschollen auf hoher See
   release: 0
   language: de-de
-  category: null
+  category: audio-book
   runtime: 0
   age: 8
   origin: tunes
   image: https://cdn.tonies.de/o/images/1938e579265d95760e4415843d34b646711e7e601c311f8165fde63d/3_Q.ww4NgctSYXrcl7/das_magische_baumhaus_022_verschollen_auf_hohe_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/c754bece4fc187c40824c72984ced5df6621ecc159c17d949398e7b3/9783844914597_preview.mp3
   web: https://tonies.com/de-de/audio-content/das-magische-baumhaus/verschollen-auf-hoher-see/
   shop-id: b5447969-3cac-4673-a733-90487269b9dc
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
   ids: []

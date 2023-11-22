@@ -6,13 +6,23 @@ data:
   episode: ABC und 1-2-3 Geschichten
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_0f623945f18166bdfec966c049c1587352a08ac15878f60c83620edb/3_xd9hjl~P9TPqNc8d/benjamin_blumchen_gute_nacht_geschichten_007_a_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/ab361d394def5e9170e130be8e59b6c2a6e42f8ad83855280bd078b4/audio_sample.wav
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen-gute-nacht-geschichten/abc-und-1-2-3-geschichten/
   shop-id: 30b20b27-5060-47fe-aa1f-6d140729bd33
-  track-desc: []
+  track-desc:
+  - Schlafliedchen
+  - Die Zooschule
+  - Das Tier Abc
+  - Ein Kunterbuntes Plakat
+  - Tiere Lernen Zählen
+  - Eine Zooführung Für Stella
+  - Die Spaß Mach Stunde
+  - Das Zoo Orchester
+  - Ein Poesiealbum Für Otto
+  - Schlaflied
   ids: []

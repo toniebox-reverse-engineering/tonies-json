@@ -6,13 +6,21 @@ data:
   episode: 'Folge 04: Ein Wochenende auf dem Bauernhof'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_51754118ce0cd498cb4053116b3785ee40c9e3515dffbd1436691fb8/3_xS0mwK43QQHbDCSF/lego_friends_004_folge_04__ein_wochenende_auf__530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/296d406154866c48f38c9f08b2f5186afdc809d7b2dfb83af1f1d325/4013575901395_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-friends/lego-friends-folge-04-ein-wochenende-auf-dem-bauer/
   shop-id: e303a6ea-a30f-4c53-8e77-9b637c0f6d71
-  track-desc: []
+  track-desc:
+  - Ein Wochenende auf dem Bauernhof - Track 1
+  - Ein Wochenende auf dem Bauernhof - Track 2
+  - Ein Wochenende auf dem Bauernhof - Track 3
+  - Ein Wochenende auf dem Bauernhof - Track 4
+  - Ein Wochenende auf dem Bauernhof - Track 5
+  - Ein Wochenende auf dem Bauernhof - Track 6
+  - Ein Wochenende auf dem Bauernhof - Track 7
+  - Ein Wochenende auf dem Bauernhof - Track 8
   ids: []

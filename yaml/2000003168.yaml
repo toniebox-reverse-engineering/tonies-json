@@ -6,13 +6,35 @@ data:
   episode: Was ich alles kann
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_e86715d2873740439721d7e3239d397f7626527469cec10d441008ee/3_RW42Y8gnsPFRx1xw/wieso_weshalb_warum_junior_014_was_ich_alle_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/584e89bcfdb20cc6f7a9eba467b1ec05ca111a76a8f54b9fcd8d6299/4056198083826_preview.mp3
   web: https://tonies.com/de-de/audio-content/wieso-weshalb-warum-junior-2/was-ich-alles-kann/
   shop-id: 9b4b8a97-d602-4f45-bb11-6a403f54d3fc
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
+  - Kapitel 20
+  - Kapitel 21
+  - Kapitel 22
   ids: []

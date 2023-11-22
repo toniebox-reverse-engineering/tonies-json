@@ -6,13 +6,36 @@ data:
   episode: Zauberschlaf und Knallfroschchaos
   release: 0
   language: de-de
-  category: null
+  category: audio-book
   runtime: 0
   age: 8
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_bcbcb292d6d979b9fbb013f2450128220c62e93e692139ad69a19d46/3_K8gCxgSbZ2Z0sfcY/horbucher_002_zauberschlaf_und_knallfroschchao_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/6b7760fd0d5e9438c6b2d97da91cbdd6757aa452cf914035a5bddd75/9783838776675_001_001_128.mp3
   web: https://tonies.com/de-de/audio-content/petronella-apfelmus/petronella-apfelmus-folge-2-zauberschlaf-und-knall/
   shop-id: 54f1d46b-aa57-4b60-a05c-e8c9a5d5691a
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
+  - Kapitel 20
+  - Kapitel 21
+  - Kapitel 22
+  - Kapitel 23
   ids: []

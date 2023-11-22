@@ -6,13 +6,34 @@ data:
   episode: 'Folgen 191-194: Everest und der Polarwolf'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/3ba0f25ed81a80507b43b6840751293af3ecbd2cc06c88f83b3b1d65/3_jFGWW8CVNy1~7SvD/paw_patrol_191_folgen_191_194__everest_und_der_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/b262b91adfd273440c61395617eae4bbd7669eb4ac422758902552b5/4013575923960_preview.mp3
   web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-191-194-everest-und-der-polarwolf/
   shop-id: 2cad73a7-3228-4c70-8d3f-d2d2e6676d0b
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Everest und der Polarwolf (Folge 191)'
+  - 'Kapitel 02: Everest und der Polarwolf (Folge 191)'
+  - 'Kapitel 03: Everest und der Polarwolf (Folge 191)'
+  - 'Kapitel 04: Everest und der Polarwolf (Folge 191)'
+  - 'Kapitel 05: Everest und der Polarwolf (Folge 191)'
+  - 'Kapitel 06: Everest und der Polarwolf (Folge 191)'
+  - 'Kapitel 01: Der verirrte Entdecker (Folge 192)'
+  - 'Kapitel 02: Der verirrte Entdecker (Folge 192)'
+  - 'Kapitel 03: Der verirrte Entdecker (Folge 192)'
+  - 'Kapitel 04: Der verirrte Entdecker (Folge 192)'
+  - 'Kapitel 05: Der verirrte Entdecker (Folge 192)'
+  - 'Kapitel 01: Die Grauhörnchen (Folge 193)'
+  - 'Kapitel 02: Die Grauhörnchen (Folge 193)'
+  - 'Kapitel 03: Die Grauhörnchen (Folge 193)'
+  - 'Kapitel 04: Die Grauhörnchen (Folge 193)'
+  - 'Kapitel 05: Die Grauhörnchen (Folge 193)'
+  - 'Kapitel 01: Das entlaufene Känguru (Folge 194)'
+  - 'Kapitel 02: Das entlaufene Känguru (Folge 194)'
+  - 'Kapitel 03: Das entlaufene Känguru (Folge 194)'
+  - 'Kapitel 04: Das entlaufene Känguru (Folge 194)'
+  - 'Kapitel 05: Das entlaufene Känguru (Folge 194)'
   ids: []

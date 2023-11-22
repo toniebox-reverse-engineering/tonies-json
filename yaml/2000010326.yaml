@@ -6,13 +6,26 @@ data:
   episode: Thomas y sus amigos - Colección de cuentos
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/f017296df32729286cb82d95a085260453b0d7cf5beae566205b7e2a/3_pm0~3H6vRdbnFzgF/thomas_seine_freunde_thomas_y_sus_amigos_col_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/24a8042eb1d86a8c9aa30c08374d4f49623a23333fa8f28090baf6e2/9788726923643.mp3
   web: https://tonies.com/de-de/audio-content/thomas-seine-freunde/thomas-y-sus-amigos-coleccion-de-cuentos/
   shop-id: 8d24ed8a-c77b-48cf-bdb2-3d2058422688
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
+  - Chapter 8
+  - Chapter 9
+  - Chapter 10
+  - Chapter 11
+  - Chapter 12
+  - Chapter 13
   ids: []

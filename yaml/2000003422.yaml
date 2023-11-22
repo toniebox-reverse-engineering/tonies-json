@@ -6,13 +6,39 @@ data:
   episode: 'Folgen 166-170: Der Ruf der Tiefe'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_247bf1eeee886b666fc08964c873393cde1d5b26ab3c9d72918db54e/3_81j3TD5tyWh~KzFW/lego_ninjago_166_folgen_166_170__der_ruf_der_t_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/663c1c65e507efdb822e9d17df611c84c81901ed317d5fce8a566421/4013575923144_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-166-170-der-ruf-der-tiefe/
   shop-id: 8008c1a0-1569-48d3-9c23-7388b7f065ee
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Der Ruf der Tiefe (Folge 166)'
+  - 'Kapitel 02: Der Ruf der Tiefe (Folge 166)'
+  - 'Kapitel 03: Der Ruf der Tiefe (Folge 166)'
+  - 'Kapitel 04: Der Ruf der Tiefe (Folge 166)'
+  - 'Kapitel 05: Der Ruf der Tiefe (Folge 166)'
+  - 'Kapitel 01: Auf Tauchstation (Folge 167)'
+  - 'Kapitel 02: Auf Tauchstation (Folge 167)'
+  - 'Kapitel 03: Auf Tauchstation (Folge 167)'
+  - 'Kapitel 04: Auf Tauchstation (Folge 167)'
+  - 'Kapitel 05: Auf Tauchstation (Folge 167)'
+  - 'Kapitel 01: Fünfzehntausend Meter tief (Folge 168)'
+  - 'Kapitel 02: Fünfzehntausend Meter tief (Folge 168)'
+  - 'Kapitel 03: Fünfzehntausend Meter tief (Folge 168)'
+  - 'Kapitel 04: Fünfzehntausend Meter tief (Folge 168)'
+  - 'Kapitel 05: Fünfzehntausend Meter tief (Folge 168)'
+  - 'Kapitel 01: Ärger mit Kalmaar (Folge 169)'
+  - 'Kapitel 02: Ärger mit Kalmaar (Folge 169)'
+  - 'Kapitel 03: Ärger mit Kalmaar (Folge 169)'
+  - 'Kapitel 04: Ärger mit Kalmaar (Folge 169)'
+  - 'Kapitel 05: Ärger mit Kalmaar (Folge 169)'
+  - 'Kapitel 01: Lang lebe der König (Folge 170)'
+  - 'Kapitel 02: Lang lebe der König (Folge 170)'
+  - 'Kapitel 03: Lang lebe der König (Folge 170)'
+  - 'Kapitel 04: Lang lebe der König (Folge 170)'
+  - 'Kapitel 05: Lang lebe der König (Folge 170)'
+  - 'Kapitel 06: Lang lebe der König (Folge 170)'
   ids: []

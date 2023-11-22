@@ -6,13 +6,18 @@ data:
   episode: Ach, du liebe Grete
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_77393069f1216ef30e475764bc8fec7e48acc9280cfa6acedaea1959/3_5h0dfxYSzZjJF3kJ/der_kleine_konig_009_ach_du_liebe_grete_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/ed026c8ca2af3160e98289983c296b4dbae9ef297683a7ad9093477b/horprobe.mp3
   web: https://tonies.com/de-de/audio-content/der-kleine-koenig/der-kleine-konig-ach-du-liebe-grete/
   shop-id: baf18520-2f0b-402a-99e4-4a73e33c64a8
-  track-desc: []
+  track-desc:
+  - Mein dicker Lieblingsschatz
+  - Sehnsucht (Teil 1)
+  - Sehnsucht (Teil 2)
+  - Bürste mich (Teil 1)
+  - Bürste mich (Teil 2)
   ids: []

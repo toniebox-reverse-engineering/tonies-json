@@ -6,13 +6,16 @@ data:
   episode: Olchi-Opa kocht Spaghetti und weitere Geschichten
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
   image: https://cdn.tonies.de/o/images/df76615dc6c130eaba3ef1ab4801e0ab5f2f6fef33fd72ee1d1851d9/3_pDdMH2wBrGS.8bG7/die_olchis_olchi_opa_kocht_spaghetti_und_weitere_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/d4a1d930bf0a552a28a70d313bb1649073d4a7df18765198de237a08/9783837394160_preview.mp3
   web: https://tonies.com/de-de/audio-content/die-olchis/olchi-opa-kocht-spaghetti-und-weitere-geschichten/
   shop-id: 5dcd81b9-71aa-489f-bbd5-2428cbf4e71c
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
   ids: []

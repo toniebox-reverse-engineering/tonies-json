@@ -6,13 +6,32 @@ data:
   episode: 'Folgen 31-33: Der Hundezirkus'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/7d80f94243583c7623c1418b8c3bc379b20d6c327dbf46bbd53862d2/3_gTt4-g2BmLd-6.xG/paw_patrol_031_folgen_31_33__der_hundezirkus_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/5b5d6bf36e56e0e3bc20620ea33df894e76d92f737554e4cc9caaa02/4013575900091_preview.mp3
   web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-31-33-der-hundezirkus/
   shop-id: 1e68b026-a597-4f9f-94c4-37e20ab0901a
-  track-desc: []
+  track-desc:
+  - 'Folge 31: Fellfreunde auf dem Trockenen - Track 1'
+  - 'Folge 31: Fellfreunde auf dem Trockenen - Track 2'
+  - 'Folge 31: Fellfreunde auf dem Trockenen - Track 3'
+  - 'Folge 31: Fellfreunde auf dem Trockenen - Track 4'
+  - 'Folge 31: Fellfreunde auf dem Trockenen - Track 5'
+  - 'Folge 32: Der Hundezirkus - Track 1'
+  - 'Folge 32: Der Hundezirkus - Track 2'
+  - 'Folge 32: Der Hundezirkus - Track 3'
+  - 'Folge 32: Der Hundezirkus - Track 4'
+  - 'Folge 32: Der Hundezirkus - Track 5'
+  - 'Folge 33: Die Ostereiersuche - Track 1'
+  - 'Folge 33: Die Ostereiersuche - Track 2'
+  - 'Folge 33: Die Ostereiersuche - Track 3'
+  - 'Folge 33: Die Ostereiersuche - Track 4'
+  - 'Folge 33: Die Ostereiersuche - Track 5'
+  - 'Folge 33: Die Ostereiersuche - Track 6'
+  - 'Folge 33: Die Ostereiersuche - Track 7'
+  - 'Folge 33: Die Ostereiersuche - Track 8'
+  - 'Folge 33: Die Ostereiersuche - Track 9'
   ids: []

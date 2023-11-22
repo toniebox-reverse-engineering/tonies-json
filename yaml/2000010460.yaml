@@ -6,13 +6,19 @@ data:
   episode: De nieuwe dinosaurus van George en andere verhaaltjes
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/d7fec607b3fc8f94c06299aa3fbee6b7abcc6f1a3019d1afc9cfeb5a/3_RVyst_qs29_zx9wX/peppa_pig_001_de_nieuwe_dinosaurus_van_george__530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/4abfb5fc5a1e76da8c865e6c5ce367e5fa3fbcc745984fd2f1e27ece/9788728335499.mp3
   web: https://tonies.com/de-de/audio-content/peppa-pig/peppa-pig-de-nieuwe-dinosaurus-van-george-en-ander/
   shop-id: 2509c845-0956-453e-9f1c-de6945930ba6
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
   ids: []

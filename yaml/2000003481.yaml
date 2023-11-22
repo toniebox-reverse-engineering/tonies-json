@@ -6,13 +6,23 @@ data:
   episode: Pittiplatsch und die Zauberei
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 99
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_61ec7c32a2d0a43fc5d3e65a1db8fa1b38b4f85fcc9dbd8f27f3e53c/3_bMV0lCgMsT7.GzFp/pittiplatsch_005_pittiplatsch_und_die_zauberei_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/0cc9070fb5d9cbe96a2770d3410fd9e6d2b41424b50695dd6df317cc/audio_sample.wav
   web: https://tonies.com/de-de/audio-content/pittiplatsch/pittiplatsch-und-die-zauberei/
   shop-id: c7fedfe9-a9b8-4eba-b7b1-d8d23908d82d
-  track-desc: []
+  track-desc:
+  - Pittiplatsch und die Zauberei
+  - Pittiplatsch und die Zauberzeitung
+  - Der unsichtbare Pittiplatsch
+  - Pittiplatsch und das Zauberfernrohr
+  - Pitti und die verhexte Blechbüchse
+  - Der doppelte Moppi
+  - Die verzauberte Gießkanne
+  - Als Moppi ein großer Zauberer war
+  - Pittiplatsch und das Zaubertelefon
+  - Pittplatsch und die verhexten Zaubersprüche
   ids: []

@@ -6,13 +6,23 @@ data:
   episode: FC Mezzi 3 - La sforbiciata
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 11
   origin: tunes
   image: https://cdn.tonies.de/o/images/cf10d4ee1c40ea0ed8fe563852d7670f28a64124c4da1f8bd25e9f9a/3_5Tk-tm~YqBXFRr-f/fc_mezzi_003_fc_mezzi_3_la_sforbiciata_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/d0e9707e7adc4f0c992ef59c4118fd5c2576dd17b0c9c90a5046584f/9788726774580.mp3
   web: https://tonies.com/de-de/audio-content/fc-mezzi/fc-mezzi-3-la-sforbiciata/
   shop-id: 8eb4a9c0-4296-4c64-8585-88cc3a2371dc
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
+  - Chapter 8
+  - Chapter 9
+  - Chapter 10
   ids: []

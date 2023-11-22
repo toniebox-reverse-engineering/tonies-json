@@ -6,13 +6,18 @@ data:
   episode: Tatütata, die Feuerwehr
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_64035a44e1f44e146bea9871d4bfd4df1506077141c0f3324f68b773/3_7zlxnkWsPB~-Jrch/der_kleine_konig_036_tatutata_die_feuerwehr_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/7079efb1a256ceab206926ad0affa5fcdb0979268c370ee20aff3ae5/36_probe.wav
   web: https://tonies.com/de-de/audio-content/der-kleine-koenig/der-kleine-konig-tatutata-die-feuerwehr/
   shop-id: 7ef31431-5b22-4fc3-8d76-ddad186b5015
-  track-desc: []
+  track-desc:
+  - Drachenlied (Instrumental)
+  - Feuer und Flamme (Teil 1)
+  - Feuer und Flamme (Teil 2)
+  - Brandmeister Buschel
+  - Drachenlied
   ids: []

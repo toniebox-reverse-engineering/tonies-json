@@ -6,13 +6,28 @@ data:
   episode: Zottel ist weg
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_3d289e198e6d53500f4ad5912c9aab4485f9f3aeff096ca83419c575/3_qb78d-xvqV42S~TS/bibi_blocksberg_149_zottel_ist_weg_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/f04d6f43d9b14e1435c31cde94d6c34e042604ae304cad9c92c3a9e6/425649_bi_hoerprobe_149_zottel_ist_weg_90sec.wav
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/bibi-folge-149-zottel-ist-weg/
   shop-id: 5400b6d4-8a04-4418-b578-a979bae8289d
-  track-desc: []
+  track-desc:
+  - Titellied
+  - Ausmisten
+  - Bibis alter Teddy
+  - Auf dem Rathausplatz
+  - „Bin gleich zurück!“
+  - Fünf Teddybären
+  - Hinterher!
+  - Ein Bär im Museum
+  - Karla in Not!
+  - Bär gegen Uhr
+  - Der letzte Teddybär
+  - Luisa
+  - Neue alte Sachen
+  - Ein rührendes Ende
+  - 'Bonus: Flohmarkt'
   ids: []

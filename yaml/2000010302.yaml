@@ -6,13 +6,16 @@ data:
   episode: Peppa Pig - Peppa se va a navegar y otras historias
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/9c69b874ffb6520dc52975488f56f6b25c3080d6b2f1206ec8a67f0f/3_NRZ6lZDBjcQ.dPYD/peppa_pig_005_peppa_pig_peppa_se_va_a_navega_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/b6c7d349fec8367cc2ee990f44c63bc4a7fda8b4652a1707669c349c/9788728335277.mp3
   web: https://tonies.com/de-de/audio-content/peppa-pig/peppa-pig-peppa-se-va-a-navegar-y-otras-historias/
   shop-id: 1f653a50-e87c-49ed-8dc5-a93b401bc51a
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
   ids: []

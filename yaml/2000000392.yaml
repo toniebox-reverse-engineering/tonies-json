@@ -6,13 +6,22 @@ data:
   episode: Die Olchis ziehen um
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
   image: https://cdn.tonies.de/o/images/b8e01bebe8babe06244ca2c6b7bd385b29813501ba65940d2d6cf6b6/3_TtGFrKjcb70hK3wk/die_olchis_die_olchis_ziehen_um_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/7f41d7063cd5502d8ef8c9c83c3508146fc3677b56da6ae72fca06b3/9783837360486_preview.mp3
   web: https://tonies.com/de-de/audio-content/die-olchis/die-olchis-ziehen-um/
   shop-id: 3b596484-28cb-454c-98d7-bc27a444b468
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
   ids: []

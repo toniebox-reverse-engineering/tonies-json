@@ -6,13 +6,27 @@ data:
   episode: Ein verrückter Ausflug
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_13fa8047499fa8830f17b3b1e07318041539a1944a7b0cbe08851475/3_QJcT7Xx5tHshB-Ml/bibi_blocksberg_137_ein_verruckter_ausflug_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/c421efd54dafe0aca0741f72b60f643a121641dbf0cb2fe882f1a743/bi_137_ein_verrueckter_ausflug_90sec.wav
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/ein-verruckter-ausflug/
   shop-id: 3da43345-27dc-41c5-a3bc-55ea29373ccb
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Bernhard Muss Weg
+  - Bibis Trick
+  - Unterschiedliche Ansichten
+  - Lügen Haben Kurze Beine
+  - In Der Wüste
+  - Spieglein Spieglein An Der Wand
+  - In Die Tiefe
+  - Oma Grete Schlägt Alarm
+  - Entdeckungen
+  - Das Kamel Im Labyrinth
+  - Überraschende Befreiung
+  - Alles Wie Neu
+  - Hexe Amanda (Bonus)
   ids: []

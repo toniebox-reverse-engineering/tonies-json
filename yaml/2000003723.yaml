@@ -6,13 +6,29 @@ data:
   episode: 'Teil 7: Wirbel um Stella'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
   image: https://cdn.tonies.de/o/images/5e9653574c620c4b3c9726f0dcd298b7b1a1e30f68a54e2a246d5799/3_Lg3nNfnCc8xb.9sn/sternenfohlen_007_teil_7__wirbel_um_stella_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/7ebe977f58e07450c651af157681aa9f6a06987e70d2d9389bd0de07/9783803231260_001_001_128.mp3
   web: https://tonies.com/de-de/audio-content/sternenfohlen/sternenfohlen-teil-7-wirbel-um-stella-ungekurzt/
   shop-id: 78c5915c-1bc8-48ac-84d6-a66b3b458723
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
   ids: []

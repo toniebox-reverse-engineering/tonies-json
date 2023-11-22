@@ -6,13 +6,45 @@ data:
   episode: 'Folgen 65-68: Der Talentwettbewerb'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/995d3cf09aef41726484e98e340d3ccbff7618cbeda39d52c5c58124/3_qFLTKBmWm4HnfSN8/paw_patrol_065_folgen_65_68__der_talentwettbew_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/ae3d43653127a1a6d233f98827692695fdac1fc6fa91cb5ec088a772/4013575904334_preview.mp3
   web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-65-68-der-talentwettbewerb/
   shop-id: cda80419-b924-4329-a3dd-c6e515ed4af3
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Ein Ass in der Luft (Folge 65)'
+  - 'Kapitel 02: Ein Ass in der Luft (Folge 65)'
+  - 'Kapitel 03: Ein Ass in der Luft (Folge 65)'
+  - 'Kapitel 04: Ein Ass in der Luft (Folge 65)'
+  - 'Kapitel 05: Ein Ass in der Luft (Folge 65)'
+  - 'Kapitel 06: Ein Ass in der Luft (Folge 65)'
+  - 'Kapitel 07: Ein Ass in der Luft (Folge 65)'
+  - 'Kapitel 08: Ein Ass in der Luft (Folge 65)'
+  - 'Kapitel 01: Hochzeit in Gefahr (Folge 66)'
+  - 'Kapitel 02: Hochzeit in Gefahr (Folge 66)'
+  - 'Kapitel 03: Hochzeit in Gefahr (Folge 66)'
+  - 'Kapitel 04: Hochzeit in Gefahr (Folge 66)'
+  - 'Kapitel 05: Hochzeit in Gefahr (Folge 66)'
+  - 'Kapitel 06: Hochzeit in Gefahr (Folge 66)'
+  - 'Kapitel 07: Hochzeit in Gefahr (Folge 66)'
+  - 'Kapitel 08: Hochzeit in Gefahr (Folge 66)'
+  - 'Kapitel 01: Der Talentwettbewerb (Folge 67)'
+  - 'Kapitel 02: Der Talentwettbewerb (Folge 67)'
+  - 'Kapitel 03: Der Talentwettbewerb (Folge 67)'
+  - 'Kapitel 04: Der Talentwettbewerb (Folge 67)'
+  - 'Kapitel 05: Der Talentwettbewerb (Folge 67)'
+  - 'Kapitel 06: Der Talentwettbewerb (Folge 67)'
+  - 'Kapitel 07: Der Talentwettbewerb (Folge 67)'
+  - 'Kapitel 01: Maiskolben vom Grill (Folge 68)'
+  - 'Kapitel 02: Maiskolben vom Grill (Folge 68)'
+  - 'Kapitel 03: Maiskolben vom Grill (Folge 68)'
+  - 'Kapitel 04: Maiskolben vom Grill (Folge 68)'
+  - 'Kapitel 05: Maiskolben vom Grill (Folge 68)'
+  - 'Kapitel 06: Maiskolben vom Grill (Folge 68)'
+  - 'Kapitel 07: Maiskolben vom Grill (Folge 68)'
+  - 'Kapitel 08: Maiskolben vom Grill (Folge 68)'
+  - 'Kapitel 09: Maiskolben vom Grill (Folge 68)'
   ids: []

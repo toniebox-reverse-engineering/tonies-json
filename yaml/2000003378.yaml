@@ -6,13 +6,28 @@ data:
   episode: 'Folgen 22-24: Die Reise zum Tempel des Lichts'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_a24fb2e2941fd80b344549052cbcbd6a41f72811a2f156df39a4285d/3_q.kD2d4HnwZKb0DL/lego_ninjago_022_folgen_22_24__die_reise_zum_t_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/df5fa7a95f0cb3261ff594f8cde22f7e90da17873f8c80bf7f5ae3f8/4013575901685_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-22-24-die-reise-zum-tempel-des-lichts/
   shop-id: fd7c8639-af48-4aae-a203-21cbdc01ec89
-  track-desc: []
+  track-desc:
+  - 'Folge 22: Die Reise zum Tempel des Lichts - Track 1'
+  - 'Folge 22: Die Reise zum Tempel des Lichts - Track 2'
+  - 'Folge 22: Die Reise zum Tempel des Lichts - Track 3'
+  - 'Folge 22: Die Reise zum Tempel des Lichts - Track 4'
+  - 'Folge 23: Der Tempel des Lichts - Track 1'
+  - 'Folge 23: Der Tempel des Lichts - Track 2'
+  - 'Folge 23: Der Tempel des Lichts - Track 3'
+  - 'Folge 23: Der Tempel des Lichts - Track 4'
+  - 'Folge 23: Der Tempel des Lichts - Track 5'
+  - 'Folge 24: Die dunkle Uhr - Track 1'
+  - 'Folge 24: Die dunkle Uhr - Track 2'
+  - 'Folge 24: Die dunkle Uhr - Track 3'
+  - 'Folge 24: Die dunkle Uhr - Track 4'
+  - 'Folge 24: Die dunkle Uhr - Track 5'
+  - 'Folge 24: Die dunkle Uhr - Track 6'
   ids: []

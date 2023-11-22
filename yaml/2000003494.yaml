@@ -6,13 +6,25 @@ data:
   episode: 'Band 12: Weihnachtszeit mit Lieselotte'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 99
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_f59c85228f7ead29605bdc6d43de8307a7152a139abbd184c08d78b1/3_y0DGH7VxBzhLmRY6/lieselotte_filmhorspiele_012_band_12__weihnach_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/6d3afd4bbab255f0f0a33b2ca4bd2bee7496f9b5f1dcb63ea209ac89/9783732449484_001_001_128.mp3
   web: https://tonies.com/de-de/audio-content/lieselotte-filmhoerspiele/lieselotte-filmhorspiele-folge-12-weihnachtszeit-m/
   shop-id: 1d123f20-186e-4122-9f24-8134834bee75
-  track-desc: []
+  track-desc:
+  - Lieselotte in der Schneefalle (Teil 1)
+  - Lieselotte in der Schneefalle (Teil 2)
+  - Lieselotte in der Schneefalle (Teil 3)
+  - Lieselotte bricht das Eis (Teil 1)
+  - Lieselotte bricht das Eis (Teil 2)
+  - Lieselotte bricht das Eis (Teil 3)
+  - Lieselotte und der schönste Weihnachtsbaum (Teil 1)
+  - Lieselotte und der schönste Weihnachtsbaum (Teil 2)
+  - Lieselotte und der schönste Weihnachtsbaum (Teil 3)
+  - Lieselotte im Schnee (Teil 1)
+  - Lieselotte im Schnee (Teil 2)
+  - Lieselotte im Schnee (Teil 3)
   ids: []

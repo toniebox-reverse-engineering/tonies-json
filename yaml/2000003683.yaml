@@ -6,13 +6,24 @@ data:
   episode: Der Ruf der Delfine
   release: 0
   language: de-de
-  category: null
+  category: audio-book
   runtime: 0
   age: 8
   origin: tunes
   image: https://cdn.tonies.de/o/images/fee02b731a3200275e32dbe407a49866060783e68235f36b10a13f0c/3_tqBQ4pzSLSRHG51D/das_magische_baumhaus_009_der_ruf_der_delfine_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/d423e8188a106718ae8d9b4aff351b5bc33beacca52f768598be0c62/9783844921403_preview.mp3
   web: https://tonies.com/de-de/audio-content/das-magische-baumhaus/der-ruf-der-delfine/
   shop-id: 01238258-089c-422c-ad16-ac8d56e59182
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
   ids: []

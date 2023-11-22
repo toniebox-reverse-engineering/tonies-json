@@ -6,13 +6,38 @@ data:
   episode: 'Folgen 171-175: Befreiung aus Merlopia'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_449a4baf561564179cf005aadf53d8e5204663a6483fb37e11a7229f/3_M_0tsbmf4P~xHk6p/lego_ninjago_171_folgen_171_175__befreiung_aus_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/094d6b5c5aa698e2bde44edeb571a99433c48efa5d41235910a04967/4013575924486_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-171-175-befreiung-aus-merlopia/
   shop-id: 776582a1-1ba2-408d-bbc5-741f9378f5f7
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Befreiung aus Merlopia (Folge 171)'
+  - 'Kapitel 02: Befreiung aus Merlopia (Folge 171)'
+  - 'Kapitel 03: Befreiung aus Merlopia (Folge 171)'
+  - 'Kapitel 04: Befreiung aus Merlopia (Folge 171)'
+  - 'Kapitel 05: Befreiung aus Merlopia (Folge 171)'
+  - 'Kapitel 01: Die Geschichte von Benthomaar (Folge 172)'
+  - 'Kapitel 02: Die Geschichte von Benthomaar (Folge 172)'
+  - 'Kapitel 03: Die Geschichte von Benthomaar (Folge 172)'
+  - 'Kapitel 04: Die Geschichte von Benthomaar (Folge 172)'
+  - 'Kapitel 05: Die Geschichte von Benthomaar (Folge 172)'
+  - 'Kapitel 01: Das Sturm-Amulett (Folge 173)'
+  - 'Kapitel 02: Das Sturm-Amulett (Folge 173)'
+  - 'Kapitel 03: Das Sturm-Amulett (Folge 173)'
+  - 'Kapitel 04: Das Sturm-Amulett (Folge 173)'
+  - 'Kapitel 05: Das Sturm-Amulett (Folge 173)'
+  - 'Kapitel 01: Das Rätsel der Sphinx (Folge 174)'
+  - 'Kapitel 02: Das Rätsel der Sphinx (Folge 174)'
+  - 'Kapitel 03: Das Rätsel der Sphinx (Folge 174)'
+  - 'Kapitel 04: Das Rätsel der Sphinx (Folge 174)'
+  - 'Kapitel 05: Das Rätsel der Sphinx (Folge 174)'
+  - 'Kapitel 01: Die Zeitungsbotin (Folge 175)'
+  - 'Kapitel 02: Die Zeitungsbotin (Folge 175)'
+  - 'Kapitel 03: Die Zeitungsbotin (Folge 175)'
+  - 'Kapitel 04: Die Zeitungsbotin (Folge 175)'
+  - 'Kapitel 05: Die Zeitungsbotin (Folge 175)'
   ids: []

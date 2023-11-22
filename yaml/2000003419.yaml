@@ -6,13 +6,44 @@ data:
   episode: 'Folgen 150-154: Die Prüfung des Mino'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_cd3c5cc27a4097d9d749b77a0e9e001598bac85faf5c7ec79eda4f25/3_9-_XWNrBz9lzqsfC/lego_ninjago_150_folgen_150_154__die_prufung_d_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/f71af675b8570358f0577f3afbc4a4c3d0ad1ddbc23623b05b363be0/4013575913206_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-150-154-die-prufung-des-mino/
   shop-id: 9808a964-2337-49fd-be64-d0ac48e2d457
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Die Prüfung des Mino (Folge 150)'
+  - 'Kapitel 02: Die Prüfung des Mino (Folge 150)'
+  - 'Kapitel 03: Die Prüfung des Mino (Folge 150)'
+  - 'Kapitel 04: Die Prüfung des Mino (Folge 150)'
+  - 'Kapitel 05: Die Prüfung des Mino (Folge 150)'
+  - 'Kapitel 06: Die Prüfung des Mino (Folge 150)'
+  - 'Kapitel 01: Der Totenkopf-Zauberer (Folge 151)'
+  - 'Kapitel 02: Der Totenkopf-Zauberer (Folge 151)'
+  - 'Kapitel 03: Der Totenkopf-Zauberer (Folge 151)'
+  - 'Kapitel 04: Der Totenkopf-Zauberer (Folge 151)'
+  - 'Kapitel 05: Der Totenkopf-Zauberer (Folge 151)'
+  - 'Kapitel 06: Der Totenkopf-Zauberer (Folge 151)'
+  - 'Kapitel 01: Der tiefe Fall (Folge 152)'
+  - 'Kapitel 02: Der tiefe Fall (Folge 152)'
+  - 'Kapitel 03: Der tiefe Fall (Folge 152)'
+  - 'Kapitel 04: Der tiefe Fall (Folge 152)'
+  - 'Kapitel 05: Der tiefe Fall (Folge 152)'
+  - 'Kapitel 06: Der tiefe Fall (Folge 152)'
+  - 'Kapitel 07: Der tiefe Fall (Folge 152)'
+  - 'Kapitel 01: Höhlen-Party (Folge 153)'
+  - 'Kapitel 02: Höhlen-Party (Folge 153)'
+  - 'Kapitel 03: Höhlen-Party (Folge 153)'
+  - 'Kapitel 04: Höhlen-Party (Folge 153)'
+  - 'Kapitel 05: Höhlen-Party (Folge 153)'
+  - 'Kapitel 06: Höhlen-Party (Folge 153)'
+  - 'Kapitel 01: Cole und sein Element (Folge 154)'
+  - 'Kapitel 02: Cole und sein Element (Folge 154)'
+  - 'Kapitel 03: Cole und sein Element (Folge 154)'
+  - 'Kapitel 04: Cole und sein Element (Folge 154)'
+  - 'Kapitel 05: Cole und sein Element (Folge 154)'
+  - 'Kapitel 06: Cole und sein Element (Folge 154)'
   ids: []

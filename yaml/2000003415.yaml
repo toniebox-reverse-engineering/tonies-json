@@ -6,13 +6,48 @@ data:
   episode: 'Folgen 129-133: Möchtest du das Prime Empire betreten?'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_09f74ddd95d465ea221473a9c819da0f6e84e56978ae854db94481b3/3_MNRVfMym.xW6.LBr/lego_ninjago_129_folgen_129_133__mochtest_du_d_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/600f1f5032756c76047567dc996ad669a2473cdc02d2dcbbbbea9da7/4013575910830_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-129-133-mochtest-du-das-prime-empire-betret/
   shop-id: 74eab425-a6b4-4f5b-8210-11e7fc50bb88
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Möchtest du das Prime Empire betreten? (Folge 129)'
+  - 'Kapitel 02: Möchtest du das Prime Empire betreten? (Folge 129)'
+  - 'Kapitel 03: Möchtest du das Prime Empire betreten? (Folge 129)'
+  - 'Kapitel 04: Möchtest du das Prime Empire betreten? (Folge 129)'
+  - 'Kapitel 05: Möchtest du das Prime Empire betreten? (Folge 129)'
+  - 'Kapitel 06: Möchtest du das Prime Empire betreten? (Folge 129)'
+  - 'Kapitel 07: Möchtest du das Prime Empire betreten? (Folge 129)'
+  - 'Kapitel 08: Möchtest du das Prime Empire betreten? (Folge 129)'
+  - 'Kapitel 01: Mayers Insel (Folge 130)'
+  - 'Kapitel 02: Mayers Insel (Folge 130)'
+  - 'Kapitel 03: Mayers Insel (Folge 130)'
+  - 'Kapitel 04: Mayers Insel (Folge 130)'
+  - 'Kapitel 05: Mayers Insel (Folge 130)'
+  - 'Kapitel 06: Mayers Insel (Folge 130)'
+  - 'Kapitel 01: Level 13 (Folge 131)'
+  - 'Kapitel 02: Level 13 (Folge 131)'
+  - 'Kapitel 03: Level 13 (Folge 131)'
+  - 'Kapitel 04: Level 13 (Folge 131)'
+  - 'Kapitel 05: Level 13 (Folge 131)'
+  - 'Kapitel 06: Level 13 (Folge 131)'
+  - 'Kapitel 07: Level 13 (Folge 131)'
+  - 'Kapitel 01: Jay, der Superstar (Folge 132)'
+  - 'Kapitel 02: Jay, der Superstar (Folge 132)'
+  - 'Kapitel 03: Jay, der Superstar (Folge 132)'
+  - 'Kapitel 04: Jay, der Superstar (Folge 132)'
+  - 'Kapitel 05: Jay, der Superstar (Folge 132)'
+  - 'Kapitel 06: Jay, der Superstar (Folge 132)'
+  - 'Kapitel 07: Jay, der Superstar (Folge 132)'
+  - 'Kapitel 01: Ich bin Okino (Folge 133)'
+  - 'Kapitel 02: Ich bin Okino (Folge 133)'
+  - 'Kapitel 03: Ich bin Okino (Folge 133)'
+  - 'Kapitel 04: Ich bin Okino (Folge 133)'
+  - 'Kapitel 05: Ich bin Okino (Folge 133)'
+  - 'Kapitel 06: Ich bin Okino (Folge 133)'
+  - 'Kapitel 07: Ich bin Okino (Folge 133)'
   ids: []

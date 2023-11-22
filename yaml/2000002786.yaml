@@ -6,13 +6,29 @@ data:
   episode: als Rettungselefant
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_4138b111b72c91a1823018447549d519061ecf4ad9d176e963b28341/3_-GrZsHZq~GdhL85p/benjamin_blumchen_148_als_rettungselefant_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/e2c5026955afe59331b3a80fb7983b613ac41927b5c5bf3708c8ce0a/hoerprobe_bb_148_als_rettungselefant_90sec.wav
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/als-rettungselefant/
   shop-id: 49a1cd06-448d-443a-955a-226576c28a68
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Die Katze Im Baum
+  - Benjamins Idee
+  - Vom Fahrradtaxi Zum Rettungsrad
+  - Funkgerät Und Blaulicht
+  - Alles Geht Schief
+  - Einsatz Für Mimi Und Flecki
+  - Rüssel Bauch Massage Für Hoppel
+  - Rettung Von Goldi
+  - Schon Wieder Mimi
+  - Frau Drahtmeier Auf Draht
+  - Der Unfall
+  - Bürgermeister In Not
+  - Wieder Mit Lizenz
+  - Extra Blaulicht
+  - Mini Hörspiel
   ids: []

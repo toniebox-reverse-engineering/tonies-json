@@ -6,13 +6,51 @@ data:
   episode: Auf dem Flughafen / Bei der Feuerwehr
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/6b8cce900b047d3e9b4398d6a485302345118dcf69b6ab6eca199f14/3_NVbp7zdfXhpx7f11/willi_wills_wissen_011_auf_dem_flughafen___bei_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/cff253007edbc5f899d11ec4583d54893417ab29e0b778a2ad3edfa3/4260229664124_001_001_128.mp3
   web: https://tonies.com/de-de/audio-content/willi-wills-wissen/willi-wills-wissen-folge-11-auf-dem-flughafen-bei/
   shop-id: 32ef3435-e9d6-4ff4-8ef8-da4a00a400ef
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
+  - Kapitel 20
+  - Kapitel 21
+  - Kapitel 22
+  - Kapitel 23
+  - Kapitel 24
+  - Kapitel 25
+  - Kapitel 26
+  - Kapitel 27
+  - Kapitel 28
+  - Kapitel 29
+  - Kapitel 30
+  - Kapitel 31
+  - Kapitel 32
+  - Kapitel 33
+  - Kapitel 34
+  - Kapitel 35
+  - Kapitel 36
+  - Kapitel 37
+  - Kapitel 38
   ids: []

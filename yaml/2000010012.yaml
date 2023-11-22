@@ -6,13 +6,30 @@ data:
   episode: 'Sternenschweif, Teil 61: Funkelnde Sternennacht'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/b5f96ea74e270e934eb8ef0deba5c2b00e003be1ccc308f015d7212a/3_Jr~xdWxFhGdgD3bL/sternenschweif_061_sternenschweif_teil_61__fu_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/5c5223bbd878d6718e4676bd5c773c19449dc663efea542a0e8139e3/9783803286109_001_001_128.mp3
   web: https://tonies.com/de-de/audio-content/sternenschweif/sternenschweif-teil-61-funkelnde-sternennacht/
   shop-id: 386771aa-cdf5-4f05-8904-ae7551dcf551
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
   ids: []

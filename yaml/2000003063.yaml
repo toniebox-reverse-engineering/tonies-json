@@ -6,13 +6,25 @@ data:
   episode: 'Teil 12: Mondscheinzauber'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_6aedd6a7d859b2ab8541f9ba490f49cc09eb2c687f8e27839b10d237/3_bWJPLkm6tL7kWqTp/sternenschweif_012_teil_12__mondscheinzauber_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/59f36bcb42d895fa3169020dac874a9d9b40369b33d80891ea3d80fb/9783803236111_001_001_128.mp3
   web: https://tonies.com/de-de/audio-content/sternenschweif/sternenschweif-teil-12-mondscheinzauber/
   shop-id: e4eabe9c-afef-4ce2-aeec-9c4f2664dc42
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
   ids: []

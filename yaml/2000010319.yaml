@@ -6,13 +6,17 @@ data:
   episode: Héroes en Pijamas - ¡Pedaleando a toda velocidad!
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/195a24d5abd70e65a9cc36e803f428fe51c83230b223392b24a82b23/3_gpH~kkLLnFq-T-M8/pj_masks_heroes_en_pijamas_pedaleando_a_toda__530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/e4ebedacf0996652e12fe8a0ae7d26299c0a4b3f88bdf2890169df80/9788726945454.mp3
   web: https://tonies.com/de-de/audio-content/pj-masks/heroes-en-pijamas-pedaleando-a-toda-velocidad/
   shop-id: 877c9d05-1d85-4659-9cee-240c87bc65b0
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
   ids: []

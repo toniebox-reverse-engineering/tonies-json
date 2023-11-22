@@ -6,13 +6,30 @@ data:
   episode: 'Sternenschweif, Teil 62: Auf der Suche nach Nox'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/570ab312227f68037bb2ca917a467c3c1b384e26f2906c494165d6e8/3_.fZpttW.JN-smj37/sternenschweif_062_sternenschweif_teil_62__au_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/b8a2f249b1973e2b369663f05a79bda08e0c9a365c923453ec76c935/9783803286116_001_001_128.mp3
   web: https://tonies.com/de-de/audio-content/sternenschweif/sternenschweif-teil-62-auf-der-suche-nach-nox/
   shop-id: 1886c74b-9d57-4427-8bed-1829be9889dc
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
   ids: []

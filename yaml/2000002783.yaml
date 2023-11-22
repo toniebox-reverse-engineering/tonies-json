@@ -6,13 +6,26 @@ data:
   episode: Alles voll verhext
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_d6e5b0206a0c5dcf50c4af1d4937ccfd6f141ce9c96ae1925c634b49/3_qF~9.99_8TssfQrq/bibi_blocksberg_140_alles_voll_verhext_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/c6c6800fade349c4bc2925a2f761d88e3dc92027bfcaada8d12024da/bi_140_alles_voll_verhext_90sec.wav
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/alles-voll-verhext/
   shop-id: 5d13f676-b28a-4ce1-9008-beaf079dc7e0
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Bibis Hex-Hausaufgabe
+  - Ausgerechnet Zickia
+  - Die Erste Aufgabe
+  - Zum Spiegelhaus
+  - Grüne Schleimfontänen
+  - In Zickias Haus
+  - Ein Halbes Schwein
+  - Tante Mania Hilft
+  - In Verbenas Kräuterhütte
+  - Ein Haus Auf Zwei Beinen
+  - Manias Wahre Absichten
+  - Hexe Zickia (Bonus)
   ids: []

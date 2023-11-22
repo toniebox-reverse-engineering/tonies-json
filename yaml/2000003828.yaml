@@ -6,13 +6,16 @@ data:
   episode: Vulkane im Garten
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_2bb5e6cfbd49a3180491f77f17206f96feade8cae2351323fba7c43b/3_81Zg5N_9WFgzYJ2T/der_kleine_konig_029_vulkane_im_garten_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/a4754afee1173018e7f764b1d11985825b561d0d39597e8f110e6601/29_probe.mp3
   web: https://tonies.com/de-de/audio-content/der-kleine-koenig/der-kleine-konig-vulkane-im-garten/
   shop-id: 32f5095a-b761-46ec-be4d-32d40bb2dbb3
-  track-desc: []
+  track-desc:
+  - Abenteuerlied
+  - Die freche Prinzessin
+  - Räuber im Schloss
   ids: []

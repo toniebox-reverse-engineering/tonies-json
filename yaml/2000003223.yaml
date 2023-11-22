@@ -6,13 +6,26 @@ data:
   episode: Folge 1 & 2
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_4a4bff4e91eee70716f20492833ae573e4ff97507e477261cb53e0da/3_bfcGZ9Xk685mPZ_D/schleich_farm_world_001_folge_1_2_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/0c9e4d765087071e72926b7b83a09c7e76ac819d87f02de80b561c42/4013575901005_preview.mp3
   web: https://tonies.com/de-de/audio-content/schleich-farm-world/folge-1-2-schleich-farm-world/
   shop-id: 8159c10f-7148-46dd-9cad-24908f340e00
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - 'Folge 1: Pinky macht Unsinn - Track 1'
+  - 'Folge 1: Pinky macht Unsinn - Track 2'
+  - 'Folge 1: Pinky macht Unsinn - Track 3'
+  - 'Folge 1: Pinky macht Unsinn - Track 4'
+  - 'Folge 1: Pinky macht Unsinn - Track 5'
+  - 'Folge 1: Pinky macht Unsinn - Track 6'
+  - 'Folge 2: Ein ungeplanter Ausflug - Track 1'
+  - 'Folge 2: Ein ungeplanter Ausflug - Track 2'
+  - 'Folge 2: Ein ungeplanter Ausflug - Track 3'
+  - 'Folge 2: Ein ungeplanter Ausflug - Track 4'
+  - 'Folge 2: Ein ungeplanter Ausflug - Track 5'
+  - Abspannsong
   ids: []

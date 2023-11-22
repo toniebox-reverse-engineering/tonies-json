@@ -6,13 +6,29 @@ data:
   episode: Wirbel um Mikosch
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_85db378bfe10edf66c976cfdd997adfad3433336644eecb8cf21081d/3_DQJMbFx3cqgPqJ0z/bibi_tina_110_wirbel_um_mikosch_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/ffbea5a9833e62291962e83d2203558b55e356b4cc52f1a144ec3e6a/422110_bt_hoerprobe_folge110_wirbel_um_mikosch_90sec.wav
   web: https://tonies.com/de-de/audio-content/bibi-tina/wirbel-um-mikosch/
   shop-id: 93df0dfb-24ca-4248-8a52-5ea98db40dcd
-  track-desc: []
+  track-desc:
+  - Titellied
+  - Mikoschs Ankunft
+  - Scirocco bleibt stur
+  - Ein echter Kumpel
+  - Irgendwie seltsam
+  - Gute Führung
+  - Ein bisschen eifersüchtig
+  - Silvie und Scirocco
+  - Plötzlich im Schlafanzug
+  - Abschiedsschmerz
+  - Wo ist Mikosch?
+  - Eine einfache Erklärung
+  - Butterkuchen-Frühstück
+  - Ist das romantisch!
+  - 'Bonus: Falkenstein'
+  - Mini-Hörspiel
   ids: []

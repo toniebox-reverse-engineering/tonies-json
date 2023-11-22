@@ -6,13 +6,22 @@ data:
   episode: 'Folge 03: Ein abenteuerlicher Ausflug'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_67dba51ff9acea20bd3c428824e5fb8a13b1f57dc069274a16493a5d/3_zSpVn_Ds6~Zv6H2c/lego_friends_003_folge_03__ein_abenteuerlicher_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/b0309bb928695552cafe5f2475561f081cf981b05e56e05edf096f8a/4013575901388_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-friends/lego-friends-folge-03-ein-abenteuerlicher-ausflug/
   shop-id: 89aa297f-8012-47cc-a598-86b4e0e209d4
-  track-desc: []
+  track-desc:
+  - Ein abenteuerlicher Ausflug - Track 1
+  - Ein abenteuerlicher Ausflug - Track 2
+  - Ein abenteuerlicher Ausflug - Track 3
+  - Ein abenteuerlicher Ausflug - Track 4
+  - Ein abenteuerlicher Ausflug - Track 5
+  - Ein abenteuerlicher Ausflug - Track 6
+  - Ein abenteuerlicher Ausflug - Track 7
+  - Ein abenteuerlicher Ausflug - Track 8
+  - Ein abenteuerlicher Ausflug - Track 9
   ids: []

@@ -6,13 +6,52 @@ data:
   episode: 'Folgen 114-118: Das Niemandsland'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_84fce4dc9fe90b2194b5380605c012308475ee45391ea89638bc3011/3_~JslpkkFkZJLKwNW/lego_ninjago_114_folgen_114_118__das_niemandsl_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/cb573e8c1d6742c0c070f69007821e3f9eb6ceb024a4437e18733eea/4013575904501_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-114-118-das-niemandsland/
   shop-id: 34035a91-0823-4bfc-9578-18bbe175a195
-  track-desc: []
+  track-desc:
+  - 'Episode 114: Das Niemandsland - Track 1'
+  - 'Episode 114: Das Niemandsland - Track 2'
+  - 'Episode 114: Das Niemandsland - Track 3'
+  - 'Episode 114: Das Niemandsland - Track 4'
+  - 'Episode 114: Das Niemandsland - Track 5'
+  - 'Episode 114: Das Niemandsland - Track 6'
+  - 'Episode 114: Das Niemandsland - Track 7'
+  - 'Episode 114: Das Niemandsland - Track 8'
+  - 'Episode 115: Der Feuermacher - Track 1'
+  - 'Episode 115: Der Feuermacher - Track 2'
+  - 'Episode 115: Der Feuermacher - Track 3'
+  - 'Episode 115: Der Feuermacher - Track 4'
+  - 'Episode 115: Der Feuermacher - Track 5'
+  - 'Episode 115: Der Feuermacher - Track 6'
+  - 'Episode 115: Der Feuermacher - Track 7'
+  - 'Episode 116: Ein geheimnisvoller Freund - Track 1'
+  - 'Episode 116: Ein geheimnisvoller Freund - Track 2'
+  - 'Episode 116: Ein geheimnisvoller Freund - Track 3'
+  - 'Episode 116: Ein geheimnisvoller Freund - Track 4'
+  - 'Episode 116: Ein geheimnisvoller Freund - Track 5'
+  - 'Episode 116: Ein geheimnisvoller Freund - Track 6'
+  - 'Episode 116: Ein geheimnisvoller Freund - Track 7'
+  - 'Episode 116: Ein geheimnisvoller Freund - Track 8'
+  - 'Episode 117: Der schlimmste Ninja - Track 1'
+  - 'Episode 117: Der schlimmste Ninja - Track 2'
+  - 'Episode 117: Der schlimmste Ninja - Track 3'
+  - 'Episode 117: Der schlimmste Ninja - Track 4'
+  - 'Episode 117: Der schlimmste Ninja - Track 5'
+  - 'Episode 117: Der schlimmste Ninja - Track 6'
+  - 'Episode 117: Der schlimmste Ninja - Track 7'
+  - 'Episode 117: Der schlimmste Ninja - Track 8'
+  - 'Episode 118: Nachricht von Zane - Track 1'
+  - 'Episode 118: Nachricht von Zane - Track 2'
+  - 'Episode 118: Nachricht von Zane - Track 3'
+  - 'Episode 118: Nachricht von Zane - Track 4'
+  - 'Episode 118: Nachricht von Zane - Track 5'
+  - 'Episode 118: Nachricht von Zane - Track 6'
+  - 'Episode 118: Nachricht von Zane - Track 7'
+  - 'Episode 118: Nachricht von Zane - Track 8'
   ids: []

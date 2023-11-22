@@ -6,13 +6,35 @@ data:
   episode: 'Folgen 1-4: Ein neues Zuhause'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_25c04dd4d706a539beccb6181c8171b0c7e166f13c1c64695a7decc3/3_QSpc0rsgDyb.SD9m/lego_duplo_001_folgen_1_4__ein_neues_zuhause_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/728b4a2295bfbe4d81505349976efe2f1479ec9d87f7c79c501ef397/4013575904471_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-duplo/lego-duplo-folgen-1-4-ein-neues-zuhause/
   shop-id: 2c828ce6-3c9b-4e88-8539-8d00c1b7e75e
-  track-desc: []
+  track-desc:
+  - LEGO Duplo - Introsong
+  - Ein neues Zuhause - Teil 1
+  - Ein neues Zuhause - Teil 2
+  - Ein neues Zuhause - Teil 3
+  - Ein neues Zuhause - Teil 4
+  - Ein neues Zuhause - Teil 5
+  - Ein aufregender Tag - Teil 1
+  - Ein aufregender Tag - Teil 2
+  - Ein aufregender Tag - Teil 3
+  - Ein aufregender Tag - Teil 4
+  - Ein aufregender Tag - Teil 5
+  - Eine große Überraschung - Teil 1
+  - Eine große Überraschung - Teil 2
+  - Eine große Überraschung - Teil 3
+  - Eine große Überraschung - Teil 4
+  - Eine große Überraschung - Teil 5
+  - Das Einweihungsfest - Teil 1
+  - Das Einweihungsfest - Teil 2
+  - Das Einweihungsfest - Teil 3
+  - Das Einweihungsfest - Teil 4
+  - Das Einweihungsfest - Teil 5
+  - LEGO Duplo - Titelsong
   ids: []

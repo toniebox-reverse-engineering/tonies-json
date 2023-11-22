@@ -6,13 +6,25 @@ data:
   episode: 'Band 5: Gute Besserung, Lieselotte'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 99
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_681e5dadbb6f4a1a408b1df796cd4dee58c8d8323173d698f71906da/3_nyn-30FRbX7xnxbv/lieselotte_filmhorspiele_005_band_5__gute_bess_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/a13e70599b531f0d4391a9ba2e867de77e0e5a68f3484cf6471d158e/9783732449453_001_001_128.mp3
   web: https://tonies.com/de-de/audio-content/lieselotte-filmhoerspiele/gute-besserung-lieselotte-vier-horspiele/
   shop-id: 9ab14a1f-49a4-4b6c-b9c2-eb0e9fc9cc95
-  track-desc: []
+  track-desc:
+  - Lieselotte ist krank (Teil 1)
+  - Lieselotte ist krank (Teil 2)
+  - Lieselotte ist krank (Teil 3)
+  - Lieselotte und die Pony-Post (Teil 1)
+  - Lieselotte und die Pony-Post (Teil 2)
+  - Lieselotte und die Pony-Post (Teil 3)
+  - Lieselotte blickt nicht durch (Teil 1)
+  - Lieselotte blickt nicht durch (Teil 2)
+  - Lieselotte blickt nicht durch (Teil 3)
+  - Lieselotte und der Wackelzahn (Teil 1)
+  - Lieselotte und der Wackelzahn (Teil 2)
+  - Lieselotte und der Wackelzahn (Teil 3)
   ids: []

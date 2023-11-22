@@ -6,13 +6,19 @@ data:
   episode: Thomas y sus amigos - Los cuentos favoritos de Thomas
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/a7bf28c75461adba17b0dce8c636d3e04ff3530d2a1be7779368275e/3_STHRdF-L~-nGNg_k/thomas_the_tank_engine_thomas_y_sus_amigos_los_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/50c7ce82d4476d73f4a1459840b7d3efff7cf4e968f3fd2e2dedf69d/9788726923636.mp3
   web: https://tonies.com/de-de/audio-content/thomas-seine-freunde/thomas-y-sus-amigos-los-cuentos-favoritos-de-thoma/
   shop-id: 687c8cf4-18d1-4f7a-8b58-fc09f76f7fd2
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
   ids: []
