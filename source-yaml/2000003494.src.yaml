@@ -6,13 +6,13 @@ data:
   episode: ''
   release: ''
   language: ''
-  category: tonies-shopapi-de-de,
+  category: ''
   runtime: ''
-  age: ''
+  age: tonies-shopapi-de-de,
   origin: ''
   image: ''
-  sample: tonies-shopapi-de-de,
+  sample: ''
   web: ''
   shop-id: ''
-  track-desc: tonies-shopapi-de-de,
+  track-desc: ''
   ids: []
