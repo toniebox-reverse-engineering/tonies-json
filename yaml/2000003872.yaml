@@ -6,13 +6,29 @@ data:
   episode: Der Hexenbesenausflug
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_fab0c7c18f28f6072540d187fe727a1356d86a458326224b8e5a446a/3_0KLz6qV5CcT2bpS./bibi_blocksberg_146_der_hexenbesenausflug_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/817a9b6e8412b18a120739867d0a2a44dad8f67979b6c30f0a13d176/425646_bi_hoerprobe_folge146_der_hexenbesenausflug_90sec.wav
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/der-hexenbesenausflug/
   shop-id: 279dfc55-cd93-4b93-8da1-38900f6af9af
-  track-desc: []
+  track-desc:
+  - Titellied
+  - Vergessen!
+  - Sehr beschäftigt
+  - Hexenschwestern
+  - Eine Kugel für die Spitze
+  - Ganz schön locker
+  - Zu viel Power
+  - Charlie
+  - Seufzen am Lagerfeuer
+  - Hexenbesenhilfe
+  - Der unnötige Nothexspruch
+  - Schlauchboot am Abgrund
+  - Unkenkraut als Dankeschön
+  - Papi hat eine Lösung!
+  - 'Bonus: Kartoffelbrei'
+  - Minihörspiel
   ids: []

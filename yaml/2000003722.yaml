@@ -6,13 +6,28 @@ data:
   episode: 'Teil 6: Wolke in Not'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
   image: https://cdn.tonies.de/o/images/f701f6c12fb5648b69ec001c9face52d71d758c47aa6bfb2168a3b20/3_0HCX4P.SrwMHFzgl/sternenfohlen_006_teil_6__wolke_in_not_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/fda38dfd70ee8480428937d57553403df8448f806ae19f46d5fd89fa/4251234316207_001_001_128.mp3
   web: https://tonies.com/de-de/audio-content/sternenfohlen/sternenfohlen-teil-6-wolke-in-not-ungekurzt/
   shop-id: 2b7bff03-ba56-40d3-ba14-36777c62573d
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
   ids: []

@@ -6,13 +6,19 @@ data:
   episode: 'Folgen 37-42: Die Schmetterlingstruppe'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_2b3ba1fcc8516dfe9c023127661ce017c7db2bdeb682c96b468079a8/3_3p3dsgctD7x12mLX/pj_masks_037_folgen_37_42__die_schmetterlingst_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/ce75773797d0decccb60fc21431bf7e8b4e1e8c637b1018ba80fc94d/4260264438964_preview.mp3
   web: https://tonies.com/de-de/audio-content/pj-masks/folgen-37-42-die-schmetterlingstruppe/
   shop-id: 8167e417-a172-4c60-b6e8-b6fc8a155ac6
-  track-desc: []
+  track-desc:
+  - Catboy und die Schmetterlingstruppe (Folge 37)
+  - Eulette rettet das Hauptquartier (Folge 38)
+  - Gecko und das Chaos im Museum (Folge 39)
+  - Eulette und der neue Move (Folge 40)
+  - Catboy mal vier (Folge 41)
+  - Pass auf, Gecko! (Folge 42)
   ids: []

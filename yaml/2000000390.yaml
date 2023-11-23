@@ -6,13 +6,32 @@ data:
   episode: Die Olchis und die Teufelshöhle
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/ae1d3cdd14e87f8eb16369f8da00bea4bfd7a722c5e32f1a0f817132/3_M1JsXCYX92thgRZh/die_olchis_die_olchis_und_die_teufelshohle_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/49fc746669e5aaac41089a10706d15d27e6b1534d35fe04c77e4aa26/9783837362459_preview.mp3
   web: https://tonies.com/de-de/audio-content/die-olchis/die-olchis-und-die-teufelshohle/
   shop-id: 8c7022ac-8f7b-4f02-a096-b109b19e8f62
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
   ids: []

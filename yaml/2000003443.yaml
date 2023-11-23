@@ -6,13 +6,25 @@ data:
   episode: 'Folge 11: Die Suche nach dem Handy'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_422f4713334059a785aef042d0c9233fe98e7925bdbcc4b4ef401b43/3_hPdJ4fZnkBxmSDRB/lego_friends_011_folge_11__die_suche_nach_dem__530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/29c47692f50fb8957619698d1bae0d154aeb2b4604dfd8be62ff2277/4013575901463_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-friends/lego-friends-folge-11-die-suche-nach-dem-handy/
   shop-id: 2583b448-9320-45df-92fb-3ceebf323148
-  track-desc: []
+  track-desc:
+  - Die Suche nach dem Handy - Track 1
+  - Die Suche nach dem Handy - Track 2
+  - Die Suche nach dem Handy - Track 3
+  - Die Suche nach dem Handy - Track 4
+  - Die Suche nach dem Handy - Track 5
+  - Die Suche nach dem Handy - Track 6
+  - Die Suche nach dem Handy - Track 7
+  - Die Suche nach dem Handy - Track 8
+  - Die Suche nach dem Handy - Track 9
+  - Die Suche nach dem Handy - Track 10
+  - Die Suche nach dem Handy - Track 11
+  - Die Suche nach dem Handy - Track 12
   ids: []

@@ -6,13 +6,34 @@ data:
   episode: 'Folgen 179-182: Der Schmetterlingsbusch'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/730bb83c5ea071ac6f33aa9a3fc41425671aa30a70412fc8b626f02e/3_rBBz~7hrfjDyZ84R/paw_patrol_179_folgen_179_182__der_schmetterli_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/d722d2091b30ca14a77f28e2c8dccdbb7e8398f07db8f3a26b7838a7/4013575921690_preview.mp3
   web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-179-182-der-schmetterlingsbusch/
   shop-id: 3fbaebb3-224c-417f-ba98-222cb7b3e673
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Der Schmetterlingsbusch (Folge 179)'
+  - 'Kapitel 02: Der Schmetterlingsbusch (Folge 179)'
+  - 'Kapitel 03: Der Schmetterlingsbusch (Folge 179)'
+  - 'Kapitel 04: Der Schmetterlingsbusch (Folge 179)'
+  - 'Kapitel 05: Der Schmetterlingsbusch (Folge 179)'
+  - 'Kapitel 06: Der Schmetterlingsbusch (Folge 179)'
+  - 'Kapitel 01: Die gestohlene Henriette-Statue (Folge 180)'
+  - 'Kapitel 02: Die gestohlene Henriette-Statue (Folge 180)'
+  - 'Kapitel 03: Die gestohlene Henriette-Statue (Folge 180)'
+  - 'Kapitel 04: Die gestohlene Henriette-Statue (Folge 180)'
+  - 'Kapitel 05: Die gestohlene Henriette-Statue (Folge 180)'
+  - 'Kapitel 01: Das Büchermobil (Folge 181)'
+  - 'Kapitel 02: Das Büchermobil (Folge 181)'
+  - 'Kapitel 03: Das Büchermobil (Folge 181)'
+  - 'Kapitel 04: Das Büchermobil (Folge 181)'
+  - 'Kapitel 05: Das Büchermobil (Folge 181)'
+  - 'Kapitel 01: Bürgermeister Besserwisser in Not (Folge 182)'
+  - 'Kapitel 02: Bürgermeister Besserwisser in Not (Folge 182)'
+  - 'Kapitel 03: Bürgermeister Besserwisser in Not (Folge 182)'
+  - 'Kapitel 04: Bürgermeister Besserwisser in Not (Folge 182)'
+  - 'Kapitel 05: Bürgermeister Besserwisser in Not (Folge 182)'
   ids: []

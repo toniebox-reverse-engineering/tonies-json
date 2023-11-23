@@ -6,13 +6,43 @@ data:
   episode: 'Folgen 63-67: Streit im Rathaus'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 7
   origin: tunes
   image: https://cdn.tonies.de/o/images/68cba2eb8bbf047832cdcefe7cd5b12a88f8e7d46b86c14b1ace507b/3_pyth47FXhgXdgf_L/lego_city_063_folgen_63_67__streit_im_rathaus_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/5f947e6b0cbae2e1a5e930f9497b59d440b09e4ec516ceedda8ce6ed/4013575937530_preview.mp3
   web: https://tonies.com/de-de/audio-content/lego-city/folgen-63-67-streit-im-rathaus/
   shop-id: fc2674dc-6327-413c-ba4d-024c0eaaf163
-  track-desc: []
+  track-desc:
+  - LEGO City Abenteuer Lied
+  - 'Kapitel 01: Streit im Rathaus (Folge 63)'
+  - 'Kapitel 02: Streit im Rathaus (Folge 63)'
+  - 'Kapitel 03: Streit im Rathaus (Folge 63)'
+  - 'Kapitel 04: Streit im Rathaus (Folge 63)'
+  - 'Kapitel 05: Streit im Rathaus (Folge 63)'
+  - 'Kapitel 06: Streit im Rathaus (Folge 63)'
+  - 'Kapitel 01: Wer ist Ludmilla Ersatz? (Folge 64)'
+  - 'Kapitel 02: Wer ist Ludmilla Ersatz? (Folge 64)'
+  - 'Kapitel 03: Wer ist Ludmilla Ersatz? (Folge 64)'
+  - 'Kapitel 04: Wer ist Ludmilla Ersatz? (Folge 64)'
+  - 'Kapitel 05: Wer ist Ludmilla Ersatz? (Folge 64)'
+  - 'Kapitel 06: Wer ist Ludmilla Ersatz? (Folge 64)'
+  - 'Kapitel 01: Krise auf der Mondbasis (Folge 65)'
+  - 'Kapitel 02: Krise auf der Mondbasis (Folge 65)'
+  - 'Kapitel 03: Krise auf der Mondbasis (Folge 65)'
+  - 'Kapitel 04: Krise auf der Mondbasis (Folge 65)'
+  - 'Kapitel 05: Krise auf der Mondbasis (Folge 65)'
+  - 'Kapitel 06: Krise auf der Mondbasis (Folge 65)'
+  - 'Kapitel 01: Waghalsiges Fahren (Folge 66)'
+  - 'Kapitel 02: Waghalsiges Fahren (Folge 66)'
+  - 'Kapitel 03: Waghalsiges Fahren (Folge 66)'
+  - 'Kapitel 04: Waghalsiges Fahren (Folge 66)'
+  - 'Kapitel 05: Waghalsiges Fahren (Folge 66)'
+  - 'Kapitel 06: Waghalsiges Fahren (Folge 66)'
+  - 'Kapitel 01: Ein geteiltes Haus (Folge 67)'
+  - 'Kapitel 02: Ein geteiltes Haus (Folge 67)'
+  - 'Kapitel 03: Ein geteiltes Haus (Folge 67)'
+  - 'Kapitel 04: Ein geteiltes Haus (Folge 67)'
+  - 'Kapitel 05: Ein geteiltes Haus (Folge 67)'
   ids: []

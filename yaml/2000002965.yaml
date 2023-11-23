@@ -8,7 +8,7 @@ data:
   language: de-de
   category: audio-play
   runtime: 0
-  age: 99
+  age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_1d395dcfa572187291ecb85fdc55b0f72acf57efc2bd8f2857669fc7/3_tSh9RddGWlMV6V2B/pittiplatsch_008_pitti_und_die_schummelflote_530x530.jpg
   sample: https://cdn.tonies.de/o/audio_samples/15745bd9fc95fb690c726eea26f755547b3cc2b2ad1de0304dc1e542/audio_sample.wav

@@ -6,13 +6,29 @@ data:
   episode: Urlaub am See
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_2812627a23a642264871af0ecac9614963cba1cd2ed78fd5319059c8/3_KpGNYttjyZ44TRly/bibi_blocksberg_138_urlaub_am_see_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/a3966221320ac80b6839a606fc67801db68f4e78ec44dacde1dc026e/bi_138_urlaub_am_see_90sec.wav
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/urlaub-am-see/
   shop-id: 548f2378-f66b-4555-8169-9a44cc2b91f9
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Bibi Kann Hexen!
+  - Ankunft Am See
+  - Das Ist Viel Zu Gefährlich!
+  - Verabredung Um Mitternacht
+  - Bibis Versprechen
+  - Wanderung Mit Wildschweinen
+  - Eine Kleine Rudertour
+  - Ein Hund Auf Der Landebahn
+  - Hexverbot
+  - Efeu In Der Sonnenmilch
+  - Eis Ohne Hexerei
+  - Wespenalarm!
+  - Ende Gut, Alles Gut!
+  - Besenfliegerei (Bonus)
+  - Mini-Hörspiel
   ids: []

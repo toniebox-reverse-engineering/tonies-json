@@ -6,13 +6,28 @@ data:
   episode: Die Schlossrenovierung
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_f933f3d2050905add313f821844c265e3e353b512e5d3939619d1379/3_J_0dQsd33RR_z9dQ/bibi_tina_103_die_schlossrenovierung_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/69bd84ba3695d50132bba4b798521b0a6e1a85ed23b87bb4257d533e/hoerprobe_bt_103_die_schlossrenovierung_90sec.wav
   web: https://tonies.com/de-de/audio-content/bibi-tina/die-schlossrenovierung/
   shop-id: ab90dbce-5d30-45fb-a181-16d41f53fa94
-  track-desc: []
+  track-desc:
+  - Titellied
+  - Wir Bauen Ein Vogelhaus!
+  - Alexanders Bitte
+  - Wie Mischt Man Ocker?
+  - Die Richtige Mischung
+  - Schaukelpferd Gesucht!
+  - Ein Motiviertes Malerteam
+  - Ein Paar Tropfen Zu Viel
+  - Alles Noch Mal Auf Anfang!
+  - Royal Rocking Horses
+  - Eingangshalle Unter Wasser
+  - Entdeckung Im Keller
+  - Heimweg Mit Verzögerungen
+  - Zwei Überraschungen
+  - 'Bonus: Schaukelpferde'
   ids: []

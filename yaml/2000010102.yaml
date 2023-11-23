@@ -6,13 +6,15 @@ data:
   episode: Alex de rappende papegaai (1-2)
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_af430894291008aecce37c7de8c048ebd3e4e3455ed8a7b45b246231/3_9CwF4.BcJG1mfzCp/alex_de_rappende_papegaai_001_alex_de_rappende_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/8b08fe809592f9ef481fe34c6706f256ea1710007502ff133885f7df/trailer_alex_de_rappende_papegaai_1_2.mp3
   web: https://tonies.com/de-de/audio-content/alex-de-rappende-papegaai/alex-de-rappende-papegaai-1-2/
   shop-id: 61480c2f-b517-441f-99e6-dfc9c3c07f5c
-  track-desc: []
+  track-desc:
+  - Op zoek naar een nieuw huis
+  - Op zoek naar Kate
   ids: []

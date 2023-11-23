@@ -6,13 +6,35 @@ data:
   episode: 'Folgen 183-186: Der schlafende Zottelaffe'
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/ba6723fce62a4f5e7e0e39625d1ac12d1a419af44ad5554c3f8104e8/3_qy3nSwzhkfQJ8~5b/paw_patrol_183_folgen_183_186__der_schlafende__530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/17f3adfe35fddcf9b59c07acddf18f0cd0acf2abbe87de104b90e4be/4013575923311_preview.mp3
   web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-183-186-der-schlafende-zottelaffe/
   shop-id: 798865f1-822e-4202-93e1-57d4258fd91b
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Das Lagerfeuerkonzert (Folge 183)'
+  - 'Kapitel 02: Das Lagerfeuerkonzert (Folge 183)'
+  - 'Kapitel 03: Das Lagerfeuerkonzert (Folge 183)'
+  - 'Kapitel 04: Das Lagerfeuerkonzert (Folge 183)'
+  - 'Kapitel 05: Das Lagerfeuerkonzert (Folge 183)'
+  - 'Kapitel 06: Das Lagerfeuerkonzert (Folge 183)'
+  - 'Kapitel 01: Ziegen-Yoga (Folge 184)'
+  - 'Kapitel 02: Ziegen-Yoga (Folge 184)'
+  - 'Kapitel 03: Ziegen-Yoga (Folge 184)'
+  - 'Kapitel 04: Ziegen-Yoga (Folge 184)'
+  - 'Kapitel 05: Ziegen-Yoga (Folge 184)'
+  - 'Kapitel 01: Der schlafende Zottelaffe (Folge 185)'
+  - 'Kapitel 02: Der schlafende Zottelaffe (Folge 185)'
+  - 'Kapitel 03: Der schlafende Zottelaffe (Folge 185)'
+  - 'Kapitel 04: Der schlafende Zottelaffe (Folge 185)'
+  - 'Kapitel 05: Der schlafende Zottelaffe (Folge 185)'
+  - 'Kapitel 01: Henriettas Ei (Folge 186)'
+  - 'Kapitel 02: Henriettas Ei (Folge 186)'
+  - 'Kapitel 03: Henriettas Ei (Folge 186)'
+  - 'Kapitel 04: Henriettas Ei (Folge 186)'
+  - 'Kapitel 05: Henriettas Ei (Folge 186)'
+  - 'Kapitel 06: Henriettas Ei (Folge 186)'
   ids: []
