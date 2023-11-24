@@ -6,13 +6,20 @@ data:
   episode: Świnka Peppa - Peppa pływa po jeziorze i inne historie
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/fea30c6e555b2ae1faaee4e169e866c09cedd78f339f33ba29e2890f/3_7HcZ.R-H0ZlPPnx6/peppa_pig_005_swinka_peppa_peppa_pywa_po_je_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/aeb7c433350f827bc66e6d1a06b8cf3ad976e5e54a89132957ed8f2f/9788728335635.mp3
   web: https://tonies.com/de-de/audio-content/peppa-pig/swinka-peppa-peppa-pywa-po-jeziorze-i-inne-histori/
   shop-id: 293af326-09cc-4e0d-9312-794493330b77
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
   ids: []

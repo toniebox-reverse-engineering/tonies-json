@@ -10,7 +10,7 @@ data:
   runtime: 0
   age: 3
   origin: tunes
-  image: null
+  image: https://cdn.tonies.de/o/images/28b0d3b9a152ec2a4a24e70d7ea71ce95f5b656189babc369eb07691/3_0TS~Mg1NSnZ0Z.Fw/fireman_sam_151_hilfspolizist_james_530x530.jpg
   sample: https://cdn.tonies.de/o/audio_samples/4d6270c4be64b5fad240f4e13fee9a0828f32c398aafd6321c91e194/4013575949915_preview.mp3
   web: https://tonies.com/de-de/audio-content/feuerwehrmann-sam/folgen-151-154-hilfspolizist-james/
   shop-id: 1a7e3279-37b2-446b-b2f5-eb96e6256a2f
