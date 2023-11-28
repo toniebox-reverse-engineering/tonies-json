@@ -1,0 +1,20 @@
+article: '11000559'
+lock-data: false
+data:
+- series: Disney
+  series-id: disney
+  episode: Wish
+  release: 1699228800
+  language: en-gb
+  category: audio-play-songs
+  runtime: 43
+  age: 3
+  origin: stock
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/Tonie-M0hZa3fJ.png
+  sample: https://cdn.tonies.de/o/audio_samples/9f24555179e680e62dc26984094aad2324963477180846075ac7e500/wish_sample.wav
+  web: https://tonies.com/en-gb/tonies/disney/wish/
+  shop-id: e21017ba-d2cf-4f89-bdef-81dde36a4458
+  track-desc:
+  - SONG - I'm A Star
+  - STORY - Wish
+  ids: []
