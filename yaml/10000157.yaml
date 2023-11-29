@@ -31,6 +31,11 @@ data:
   - Der Gesang der Meerjungfrau
   - Tjure singt
   ids:
+  - audio-id: 1701246575
+    hash: 32faae99f4ad563f87acefe879dfa467650e8167
+    size: 49696456
+    tracks: 32
+    confidence: 1
   - audio-id: 1701184664
     hash: fd2605e81ea221b94e3b3df21a0be2a04fde6729
     size: 49696456
