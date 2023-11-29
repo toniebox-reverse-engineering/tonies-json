@@ -6,13 +6,15 @@ data:
   episode: Bamse ja leijona
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/22496fa83714132dc7270edf11bb60156d2c0be89d93b35669b041bc/3_PFDgxrLJGLLlqV9l/bamse_034_bamse_ja_leijona_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/ebcc4f2c64da1bc46cad385a2c6def380195a190f36078b2e4c7152b/9788728089835.mp3
   web: https://tonies.com/de-de/audio-content/bamse/bamse-ja-leijona/
   shop-id: 2680d541-e7bd-4097-b299-55c380162602
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
   ids: []

@@ -6,13 +6,21 @@ data:
   episode: Bamse ja Pikku Aasi
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/6a77f89391d6c1a8a19487051374572924bcbd5fc9104a8ab9585ca2/3_5vF-4HWNZcs6~JM_/bamse_038_bamse_ja_pikku_aasi_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/a2580c4714732eea7af0629a3145d9fa42014217954709dc81aca34e/9788728089798.mp3
   web: https://tonies.com/de-de/audio-content/bamse/bamse-ja-pikku-aasi/
   shop-id: 65664fee-06e8-46f2-8230-6435c496150a
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
+  - Chapter 8
   ids: []

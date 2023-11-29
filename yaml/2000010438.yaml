@@ -6,13 +6,19 @@ data:
   episode: Hello Kitty - Wycieczka szkolna
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/2e072d690c50682a1a887d38a4af14e08dbbe25263862956f08e769f/3_9jWrpbhZt~yP0sBQ/hello_kitty_hello_kitty_wycieczka_szkolna_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/8a9d796b7564c834690beaffb2cc68bcc7526dbdfa2916f67edce45e/9788726702736.mp3
   web: https://tonies.com/de-de/audio-content/hello-kitty/hello-kitty-wycieczka-szkolna/
   shop-id: 9cd579de-3271-45b7-9f65-b4c65bab0be2
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
   ids: []

@@ -6,13 +6,25 @@ data:
   episode: Tomek i przyjaciele - Zbiór bajek 5 minut przed snem
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/c4e2be7d5279ede34feb8f95dd69f2b4aac9285c18d53c6ff0e10370/3_TCYpjn8cG0w5GhtG/thomas_the_tank_engine_tomek_i_przyjaciele_zbi_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/83e7894145c262aef938e9952828534fc853cf6f8f8943673295017b/9788726868173.mp3
   web: https://tonies.com/de-de/audio-content/thomas-seine-freunde/tomek-i-przyjaciele-zbior-bajek-5-minut-przed-snem/
   shop-id: 47c9fe60-c1a1-4af4-bff3-310db93adbb1
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
+  - Chapter 8
+  - Chapter 9
+  - Chapter 10
+  - Chapter 11
+  - Chapter 12
   ids: []

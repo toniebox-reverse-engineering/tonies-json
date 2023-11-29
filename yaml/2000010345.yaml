@@ -6,13 +6,27 @@ data:
   episode: Tomek i przyjaciele - Kolejowe Opowieści Tomka
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/052c9fe1a61e4b29d72d3c535ef5bce8b4b4614318fd3452cdc5de14/3_xbD2GZ824Fj2BJ-Z/thomas_seine_freunde_tomek_i_przyjaciele_kol_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/1d35da36e763b1dd2fabc30c70bb0b953a632817b5918940b111bd37/9788726868135.mp3
   web: https://tonies.com/de-de/audio-content/thomas-seine-freunde/tomek-i-przyjaciele-kolejowe-opowiesci-tomka/
   shop-id: fbdc7af4-0a42-42a9-bef2-2b527af45c92
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
+  - Chapter 8
+  - Chapter 9
+  - Chapter 10
+  - Chapter 11
+  - Chapter 12
+  - Chapter 13
+  - Chapter 14
   ids: []

@@ -6,13 +6,15 @@ data:
   episode: FC Mezzi 2 - Walka do końca
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 8
   origin: tunes
   image: https://cdn.tonies.de/o/images/012c2e64a031bb69614f2ea29fc81ea3c94ca126f6e569695b95c054/3_dxs_.5DMB6r-gwSN/fc_mezzi_002_fc_mezzi_2_walka_do_konca_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/6d51ee6d51be8e73e73a26d1f3d1537c0a477982efc3fbcf24888a9c/9788726170344.mp3
   web: https://tonies.com/de-de/audio-content/fc-mezzi/fc-mezzi-2-walka-do-konca/
   shop-id: 2330ec35-2aa6-4512-8770-f133a56ab2ab
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
   ids: []

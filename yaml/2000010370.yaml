@@ -6,13 +6,28 @@ data:
   episode: Mumitrolden 1 - De små trolde og den store oversvømmelse
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
   image: https://cdn.tonies.de/o/images/4e0b994ccdae3d4ef01c3dbde506041655aa243bc28427d2a903939f/3_.DPRVcsGj3R3wZMb/moomins_001_mumitrolden_1_de_sma_trolde_og_d_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/de884a9d3652af9a69e017d554aa798a0a5c2eb193496ce376f2d21d/9788711409022.mp3
   web: https://tonies.com/de-de/audio-content/mumins/mumitrolden-1-de-sma-trolde-og-den-store-oversvmme/
   shop-id: ac32cb1d-5c1e-4df7-8bb4-95d652a93930
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
+  - Chapter 8
+  - Chapter 9
+  - Chapter 10
+  - Chapter 11
+  - Chapter 12
+  - Chapter 13
+  - Chapter 14
+  - Chapter 15
   ids: []

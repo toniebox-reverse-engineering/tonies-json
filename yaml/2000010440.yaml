@@ -6,13 +6,18 @@ data:
   episode: Hello Kitty - Przygoda na farmie
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/96aab4c7f8be03bab477624f9dbc3bab79f419a908740fcc9b4431c7/3_mPQ4VC_C~dDmZvyk/hello_kitty_hello_kitty_przygoda_na_farmie_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/dcf799e3de06946dc5ac302bbc735ffd8b1205547dea29a7d3ae12b1/9788726702743.mp3
   web: https://tonies.com/de-de/audio-content/hello-kitty/hello-kitty-przygoda-na-farmie/
   shop-id: 43a095be-802c-46cf-90a2-237fb593109c
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
   ids: []

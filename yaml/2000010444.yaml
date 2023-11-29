@@ -6,13 +6,19 @@ data:
   episode: Hello Kitty - Klub przyjaciół
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/84f55f88ff64d07990084f22f03820ce56b715175c526f828b959d32/3_D1lBpLWsSGdkkGC7/hello_kitty_hello_kitty_klub_przyjacio_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/b936eaa915336acec2c1211fb25764738b2d82897d9135bcecdaa607/9788726702828.mp3
   web: https://tonies.com/de-de/audio-content/hello-kitty/hello-kitty-klub-przyjacio/
   shop-id: 5b158723-82f0-458e-a34b-f4520941a492
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
   ids: []

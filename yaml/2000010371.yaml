@@ -6,13 +6,54 @@ data:
   episode: Mumitrolden 2 - Kometen kommer
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
   image: https://cdn.tonies.de/o/images/7516b7b5d65ec0713e9623a1f31c50dfe6b1f23ac1079f2bb13e902a/3_3GCJdsplGHptcG09/moomins_002_mumitrolden_2_kometen_kommer_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/e7f83ba7b26529d5b101dc2b4d4634be4ea5f3c17afa77bb9d0b6870/9788711409039.mp3
   web: https://tonies.com/de-de/audio-content/mumins/mumitrolden-2-kometen-kommer/
   shop-id: fe3d3b13-aef4-472b-8935-bcdb4509d310
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
+  - Chapter 8
+  - Chapter 9
+  - Chapter 10
+  - Chapter 11
+  - Chapter 12
+  - Chapter 13
+  - Chapter 14
+  - Chapter 15
+  - Chapter 16
+  - Chapter 17
+  - Chapter 18
+  - Chapter 19
+  - Chapter 20
+  - Chapter 21
+  - Chapter 22
+  - Chapter 23
+  - Chapter 24
+  - Chapter 25
+  - Chapter 26
+  - Chapter 27
+  - Chapter 28
+  - Chapter 29
+  - Chapter 30
+  - Chapter 31
+  - Chapter 32
+  - Chapter 33
+  - Chapter 34
+  - Chapter 35
+  - Chapter 36
+  - Chapter 37
+  - Chapter 38
+  - Chapter 39
+  - Chapter 40
+  - Chapter 41
   ids: []

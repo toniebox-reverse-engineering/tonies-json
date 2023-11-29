@@ -6,13 +6,26 @@ data:
   episode: Toy Story
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_6c93c57f780bce72a90f0f8a5b8d008bdf30a864270bed4f1ffd21bb/3_1pC-qpJWRv_Fz.Z_/disney_001_toy_story_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/93ff629229641a771ea24c6dcb2a5a95de0fb58c15f0074b228545ae/9788726757750.mp3
   web: https://tonies.com/de-de/audio-content/disney/toy-story-se/
   shop-id: 76eaf0dc-f219-4d00-8f3a-fa71a7663076
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
+  - Chapter 8
+  - Chapter 9
+  - Chapter 10
+  - Chapter 11
+  - Chapter 12
+  - Chapter 13
   ids: []

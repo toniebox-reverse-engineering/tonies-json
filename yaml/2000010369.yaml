@@ -6,13 +6,42 @@ data:
   episode: Vejen til Mumidalen - og andre fortællinger af Tove Jansson
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
   image: https://cdn.tonies.de/o/images/ab4a1a5a013fe8e789779336df466bc1ae8a4378ad1954c6665f41ba/3_rpxcLKJf1N-__91X/moomins_vejen_til_mumidalen_og_andre_fortllin_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/5833086ec5bec7102a79083f683c4d64e011778a75726b406869680a/9788726087994.mp3
   web: https://tonies.com/de-de/audio-content/mumins/vejen-til-mumidalen-og-andre-fortllinger-af-tove-j/
   shop-id: 59da5d50-67ec-4360-b1a5-d3c6005b0d72
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
+  - Chapter 8
+  - Chapter 9
+  - Chapter 10
+  - Chapter 11
+  - Chapter 12
+  - Chapter 13
+  - Chapter 14
+  - Chapter 15
+  - Chapter 16
+  - Chapter 17
+  - Chapter 18
+  - Chapter 19
+  - Chapter 20
+  - Chapter 21
+  - Chapter 22
+  - Chapter 23
+  - Chapter 24
+  - Chapter 25
+  - Chapter 26
+  - Chapter 27
+  - Chapter 28
+  - Chapter 29
   ids: []

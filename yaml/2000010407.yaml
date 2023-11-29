@@ -6,13 +6,15 @@ data:
   episode: FC Mezzi 3 - Nożyce
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 9
   origin: tunes
   image: https://cdn.tonies.de/o/images/2743ed74e58ee76210a26dd7661aaf361d7ff6f7ee8f7d3615702d2c/3_1RdKKnh3n2hkwkxr/fc_mezzi_003_fc_mezzi_3_nozyce_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/3694ff3ba0bd49fe571b0b0d61c8ded1474d8c42d8d28c68c15c961d/9788726170337.mp3
   web: https://tonies.com/de-de/audio-content/fc-mezzi/fc-mezzi-3-nozyce/
   shop-id: 7996d3df-cb59-44af-aa33-ad17393f8d89
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
   ids: []

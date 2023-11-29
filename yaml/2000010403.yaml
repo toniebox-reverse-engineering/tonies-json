@@ -6,13 +6,15 @@ data:
   episode: FC Mezzi 6 - Pożegnanie z Kingo
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 8
   origin: tunes
   image: https://cdn.tonies.de/o/images/c61264f8e3d6db32581dc6d2e89501d863864a8bc7f77ae221b73d99/3_LyW.TTPv2Tcjz5sF/fc_mezzi_006_fc_mezzi_6_pozegnanie_z_kingo_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/fd539dcba0b76697a4b9798c9e396e3462ed9e2fe7c9f171e80b7c8f/9788726170306.mp3
   web: https://tonies.com/de-de/audio-content/fc-mezzi/fc-mezzi-6-pozegnanie-z-kingo/
   shop-id: 309fc661-27ad-4134-b3d5-4445534cb64e
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
   ids: []

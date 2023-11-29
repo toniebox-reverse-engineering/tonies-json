@@ -6,13 +6,25 @@ data:
   episode: Tre minutter i godnat - Pyjamasheltene
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/04e0da4998efaddbe8f541212a47526342b5053e4fb8ba49a3e93412/3_bct3gs_q3cjStd5k/pj_masks_tre_minutter_i_godnat_pyjamasheltene_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/599bb1e19d25275a98dc7b6753bbf523fcb3e806f6ce8365e7212bbf/9788726808735.mp3
   web: https://tonies.com/de-de/audio-content/pj-masks/tre-minutter-i-godnat-pyjamasheltene/
   shop-id: 91e1c49c-534a-4556-a73c-f82ed517792f
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
+  - Chapter 8
+  - Chapter 9
+  - Chapter 10
+  - Chapter 11
+  - Chapter 12
   ids: []

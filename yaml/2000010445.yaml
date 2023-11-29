@@ -6,13 +6,19 @@ data:
   episode: Hello Kitty - Poszukiwanie skarbów
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/95c2d065404b7687c73a8e360b2e1d1b0c5dafcfcf2e40926b4be3ea/3_dbcDkGJk~DKGGvDW/hello_kitty_hello_kitty_poszukiwanie_skarbow_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/2977193371691751cde0b4024e00438130e3e7b09bdbc55047b2571a/9788726702774.mp3
   web: https://tonies.com/de-de/audio-content/hello-kitty/hello-kitty-poszukiwanie-skarbow/
   shop-id: 3213270e-01d0-4bce-a841-a3eac7d4e928
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
   ids: []

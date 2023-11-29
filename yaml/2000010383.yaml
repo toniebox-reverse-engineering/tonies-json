@@ -6,13 +6,15 @@ data:
   episode: Bamse ja merirosvot
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/82a67ef831667a98cd475e72f49f969c529474d19050d7228521d17c/3_2dvXqCFFJ-gH~qHC/bamse_036_bamse_ja_merirosvot_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/be6c04e112a0419690e83068017a828ae26f1092fa3c02f3e120951b/9788728089811.mp3
   web: https://tonies.com/de-de/audio-content/bamse/bamse-ja-merirosvot/
   shop-id: da824314-b4b5-4acf-89fe-12984821547b
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
   ids: []

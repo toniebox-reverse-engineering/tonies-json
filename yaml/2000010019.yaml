@@ -6,13 +6,25 @@ data:
   episode: Nasreddin Hoca - İlk maceraları
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_6af1229c146fad37c544a2aa43409af9cd51a74f9f2253e42767199e/3__x62z664HmZtxfzC/nasreddin_hodscha_nasreddin_hoca_ilk_maceralar_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/6b982dfbd1cc9b59c0fadc2afe410a997a79b086eeac7017de0d4489/nasreddin_hoca_hoerprobe.wav
   web: https://tonies.com/de-de/audio-content/nasreddin-hodscha/nasreddin-hoca-ilk-maceralari/
   shop-id: 5b6f01dd-85e1-4c45-84c5-3c31f7f8cf4f
-  track-desc: []
+  track-desc:
+  - Çok uzun zaman önce...
+  - Büyük hayaller
+  - Bu kız da kim?
+  - Düşünen hindi
+  - Ayı ve hırsızı kurtarmak
+  - Yolculuk başlıyor
+  - Uzun kulaklı arkadaş
+  - Padişahlar bile yıkanır
+  - Cimri Fatma
+  - Sınav günü
+  - Nasri pes etmiyor!
+  - Filin sırtında
   ids: []

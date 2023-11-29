@@ -6,13 +6,19 @@ data:
   episode: Tomek i przyjaciele - Ulubione Bajki Tomka
   release: 0
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/852bc0b0cf3491e70266343ca1c5ab89df79b67824376ecb493920c5/3_ylGwfqrsxNsyRWzJ/thomas_the_tank_engine_tomek_i_przyjaciele_ulu_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/7b336515893ddb46b48eb57fca80290fc0e853de6a9c5296984e8f2e/9788726868142.mp3
   web: https://tonies.com/de-de/audio-content/thomas-seine-freunde/tomek-i-przyjaciele-ulubione-bajki-tomka/
   shop-id: a334b302-7180-4a7a-8601-0fe1f4b2180b
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
   ids: []
