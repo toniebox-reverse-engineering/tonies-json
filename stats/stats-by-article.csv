@@ -501,7 +501,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000635,Creative-Tonie,,Wizard,en-us,creative-tonie,stock,8056754176151,,1,0,0,0
 10000637,Creative-Tonie,,Yeti,en-us,creative-tonie,stock,7274255974551,,1,0,0,0
 10000638,Disney,,Mickey Mouse,en-us,Tonie,stock,7099444002967,,1,0,0,0
-10000640,Mog the Forgetful Cat,mog-the-forgetful-cat,Die schönsten Geschichten,de-de,audio-book,stock,f0948097-0468-45ef-a2d5-7870973b7f00,https://tonies.com/de-de/tonies/mog-the-forgetful-cat/die-schnsten-geschichten/,1,1,1,2
+10000640,"Mog, der vergessliche Kater",mog-the-forgetful-cat,Die schönsten Geschichten,de-de,audio-book,stock,f0948097-0468-45ef-a2d5-7870973b7f00,https://tonies.com/de-de/tonies/mog-the-forgetful-cat/die-schnsten-geschichten/,1,1,1,2
 10000641,Miraculous,,Tales of Ladybug & Cat Noir,en-us,Tonie,stock,7565339787415,,1,0,0,0
 10000642,The Snowman & the Snow Dog,,,en-us,Tonie,stock,7269035802775,,1,0,0,0
 10000646,PJ Masks,,Owlette,en-us,Tonie,stock,7745044775063,,1,0,0,0
@@ -4549,6 +4549,10 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 2000010654,Die drei ??? Kids,die-drei-kids,Falsche Vampire,,,tunes,ae342cf5-61b5-4150-bd94-6096dc6fa84f,https://tonies.com/de-de/audio-content/die-drei-kids/die-drei-kids-folge-94-falsche-vampire/,1,0,0,0
 2000010655,Die drei ??? Kids,die-drei-kids,Spuk im Leuchtturm,,,tunes,971bee55-4a6e-4c11-9c4e-7ab3b84380b3,https://tonies.com/de-de/audio-content/die-drei-kids/die-drei-kids-folge-92-spuk-im-leuchtturm/,1,0,0,0
 2000010656,Die drei ??? Kids,die-drei-kids,Die Geistermühle,,,tunes,d21559b5-aa79-4b82-8db4-e8b8840a9748,https://tonies.com/de-de/audio-content/die-drei-kids/die-drei-kids-folge-93-die-geistermuhle/,1,0,0,0
+2000010657,Der junge Sherlock Holmes,der-junge-sherlock-holmes,Das Medaillon von Shadwell,de-de,audio-play,tunes,0d5310f9-c82b-469e-ae55-bd75b1f8d05c,https://tonies.com/de-de/audio-content/der-junge-sherlock-holmes/der-junge-sherlock-holmes-folge-15-das-medaillon-v/,1,0,0,0
+2000010658,Der junge Sherlock Holmes,der-junge-sherlock-holmes,Ricoletti und seine sonderbare Frau,de-de,audio-play,tunes,19665b16-718f-46b8-b08f-3ee7755f7db4,https://tonies.com/de-de/audio-content/der-junge-sherlock-holmes/der-junge-sherlock-holmes-folge-16-ricoletti-und-s/,1,0,0,0
+2000010659,Der kleine Vampir,der-kleine-vampir,"Der kleine Vampir hat Geburtstag - Der kleine Vampir, Band 18 (Ungekürzte Lesung)",de-de,audio-play,tunes,a2f4e960-04a4-40c6-b630-90b8b590af9c,https://tonies.com/de-de/audio-content/der-kleine-vampir/der-kleine-vampir-hat-geburtstag-der-kleine-vampir/,1,0,0,0
+2000010660,Der kleine Vampir,der-kleine-vampir,"Der kleine Vampir und die Gruselnacht - Der kleine Vampir, Band 19 (Ungekürzte Lesung)",de-de,audio-play,tunes,cb327354-dc29-4b9a-a47a-0679a1c72169,https://tonies.com/de-de/audio-content/der-kleine-vampir/der-kleine-vampir-und-die-gruselnacht-der-kleine-v/,1,0,0,0
 99-0001,Kreativ-Tonie,,(Platzhalter) - DE,de-de,creative-tonie,stock,,,1,1,0,0
 99-0002,Creative-Tonie,,Creativ-Tonie (DUMMY) - UK,en-gb,creative-tonie,stock,,,1,1,0,0
 99-0003,Creative-Tonie,,Creativ-Tonie (DUMMY) - US,en-gb,creative-tonie,stock,,,1,1,0,0
