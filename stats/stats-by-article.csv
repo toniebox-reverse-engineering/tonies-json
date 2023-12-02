@@ -978,7 +978,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001901,Séléna Sans Chichis Ni Tralala,selena-sans-chichis-ni-tralala,Plongée Insolite Dans Moby Dick,fr-fr,audio-play-songs,stock,15772168-b7eb-43d1-bc22-7539315ded9a,https://tonies.com/fr-fr/tonies/selena-sans-chichis-ni-tralala/plongee-insolite-dans-moby-dick/,1,0,0,0
 10001903,Mes Mythes Préférés,mes-mythes-preferes,La Mythologie Grecque,fr-fr,audio-play,stock,28584337-8fda-4c43-816f-958a17158260,https://tonies.com/fr-fr/tonies/mes-mythes-preferes/la-mythologie-grecque/,1,0,0,0
 10001904,Mes Mythes Préférés,mes-mythes-preferes,La Mythologie Égyptienne,fr-fr,audio-play,stock,4ec4c9d6-cbff-4c1c-80cb-e7c97ab26b65,https://tonies.com/fr-fr/tonies/mes-mythes-preferes/la-mythologie-egyptienne/,1,0,0,0
-10001910,Arsène Lupin,,Arsène Lupin,fr-fr,audio-play,stock,dfd2974f-b06b-4bff-9db7-3f2e6c6a6236,https://tonies.com/fr-fr/tonies/arsene-lupin/,1,0,0,0
+10001910,Arsène Lupin,secrets-daventure,Arsène Lupin,fr-fr,audio-play,stock,dfd2974f-b06b-4bff-9db7-3f2e6c6a6236,https://tonies.com/fr-fr/tonies/arsene-lupin/,1,0,0,0
 10001913,Les Schtroumpfs,les-schtroumpfs,Les Schtroumpfs Et Le Livre Qui Dit Tout,fr-fr,audio-play,stock,cd6a2efb-af13-4d3f-b8d3-8afc48ade206,https://tonies.com/fr-fr/tonies/les-schtroumpfs/les-schtroumpfs-et-le-livre-qui-dit-tout/,1,0,0,0
 10001930,Favourite Children's Songs,favourite-children-s-songs,Healthy Habits,en-gb,music,stock,a796431c-7058-4c24-b64c-f30cae164a15,https://tonies.com/en-gb/tonies/favourite-children-s-songs/healthy-habits/,1,0,0,0
 10001933,Yakka Dee,yakka-dee,Yakka Dee,en-gb,audio-play,stock,a8a30e86-94f1-4ae5-9f78-fe4204069286,https://tonies.com/en-gb/tonies/yakka-dee/yakka-dee/,1,0,0,0
@@ -4536,6 +4536,9 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 2000010635,Peppa Pig,peppa-pig,Sachen suchen,de-de,audio-play,tunes,2f079555-9f94-4e24-8a51-462880054f6f,https://tonies.com/de-de/audio-content/peppa-pig/peppa-pig-folge-49-sachen-suchen/,1,0,0,0
 2000010636,Peppa Pig,peppa-pig,Wenn wir groß sind,de-de,audio-play,tunes,c6c7abc6-53a9-4358-8619-93f4793b74f1,https://tonies.com/de-de/audio-content/peppa-pig/peppa-pig-folge-47-wenn-wir-gro-sind/,1,0,0,0
 2000010637,Peppa Pig,peppa-pig,Die Feuerwehr-Übung,de-de,audio-play,tunes,a402bd47-07be-4149-8d73-19417a049200,https://tonies.com/de-de/audio-content/peppa-pig/peppa-pig-folge-48-die-feuerwehr-ubung/,1,0,0,0
+2000010638,Spekulatius,spekulatius,"Spekulatius, der Weihnachtsdrache rettet das Fest",de-de,audio-play,tunes,3a5771d0-c60b-40fd-8c95-7cf06c5826c0,https://tonies.com/de-de/audio-content/spekulatius/spekulatius-der-weihnachtsdrache-rettet-das-fest-s/,1,0,0,0
+2000010639,Spekulatius,spekulatius,Spekulatius der Weihnachtsdrache,de-de,audio-play,tunes,25ddc03d-0af4-4f8c-b355-7f681d268a11,https://tonies.com/de-de/audio-content/spekulatius/spekulatius-der-weihnachtsdrache-ungekurzte-lesung/,1,0,0,0
+2000010640,Spekulatius,spekulatius,"Spekulatius und Bammelchen, der Osterhase",de-de,audio-play,tunes,f3ecf2ac-a5de-4ae0-9a98-918036aa7464,https://tonies.com/de-de/audio-content/spekulatius/spekulatius-ungekurzte-lesung/,1,0,0,0
 2000010641,Feuerwehrmann Sam,feuerwehrmann-sam,Immer wieder Norman,de-de,audio-play,tunes,b2101f4e-da34-45c9-9636-173e1a8f721b,https://tonies.com/de-de/audio-content/feuerwehrmann-sam/folgen-133-136-immer-wieder-norman/,1,0,0,0
 2000010642,Feuerwehrmann Sam,feuerwehrmann-sam,Ein Hoch auf die jungen Retter,de-de,audio-play,tunes,be2ca02b-0523-4bcc-b0d7-94eae956432b,https://tonies.com/de-de/audio-content/feuerwehrmann-sam/folgen-137-141-ein-hoch-auf-die-jungen-retter/,1,0,0,0
 2000010643,Feuerwehrmann Sam,feuerwehrmann-sam,Gefährliche Wanderung,de-de,audio-play,tunes,dc7ff26c-6535-4b1a-8395-ead27bb6f4fe,https://tonies.com/de-de/audio-content/feuerwehrmann-sam/folgen-147-150-gefahrliche-wanderung/,1,0,0,0
@@ -4553,6 +4556,11 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 2000010658,Der junge Sherlock Holmes,der-junge-sherlock-holmes,Ricoletti und seine sonderbare Frau,de-de,audio-play,tunes,19665b16-718f-46b8-b08f-3ee7755f7db4,https://tonies.com/de-de/audio-content/der-junge-sherlock-holmes/der-junge-sherlock-holmes-folge-16-ricoletti-und-s/,1,0,0,0
 2000010659,Der kleine Vampir,der-kleine-vampir,"Der kleine Vampir hat Geburtstag - Der kleine Vampir, Band 18 (Ungekürzte Lesung)",de-de,audio-play,tunes,a2f4e960-04a4-40c6-b630-90b8b590af9c,https://tonies.com/de-de/audio-content/der-kleine-vampir/der-kleine-vampir-hat-geburtstag-der-kleine-vampir/,1,0,0,0
 2000010660,Der kleine Vampir,der-kleine-vampir,"Der kleine Vampir und die Gruselnacht - Der kleine Vampir, Band 19 (Ungekürzte Lesung)",de-de,audio-play,tunes,cb327354-dc29-4b9a-a47a-0679a1c72169,https://tonies.com/de-de/audio-content/der-kleine-vampir/der-kleine-vampir-und-die-gruselnacht-der-kleine-v/,1,0,0,0
+2000010661,Aumio,aumio,Winterliche Gute Nacht Geschichten,,,tunes,1bfdba4e-0176-4519-9612-a06b88cc85b9,https://tonies.com/de-de/audio-content/aumio/aumio-winterliche-gute-nacht-geschichten/,1,0,0,0
+2000010662,Aumio,aumio,Traumreise in die Mindu Galaxie,,,tunes,f601ec8c-86ea-4181-b1bc-3be367ecb796,https://tonies.com/de-de/audio-content/aumio/aumio-traumreise-in-die-mindu-galaxie/,1,0,0,0
+2000010663,Aumio,aumio,Traumreise in die Traumzirkus-Galaxie,,,tunes,b4bbafcc-a252-49f1-bf3f-2c5626d3ae2b,https://tonies.com/de-de/audio-content/aumio/aumio-traumreise-in-die-traumzirkus-galaxie/,1,0,0,0
+2000010664,Aumio,aumio,Traumreise in die Wolkengalaxie,,,tunes,3d37a4d0-7eba-4609-85b3-34c8705add50,https://tonies.com/de-de/audio-content/aumio/aumio-traumreise-in-die-wolkengalaxie/,1,0,0,0
+2000010665,Aumio,aumio,Einschlafmeditationen aus der Dschungel-Galaxie,,,tunes,3d7519af-d475-44e6-af20-62fdf1e50563,https://tonies.com/de-de/audio-content/aumio/einschlafmeditationen-aus-der-dschungel-galaxie/,1,0,0,0
 99-0001,Kreativ-Tonie,,(Platzhalter) - DE,de-de,creative-tonie,stock,,,1,1,0,0
 99-0002,Creative-Tonie,,Creativ-Tonie (DUMMY) - UK,en-gb,creative-tonie,stock,,,1,1,0,0
 99-0003,Creative-Tonie,,Creativ-Tonie (DUMMY) - US,en-gb,creative-tonie,stock,,,1,1,0,0
