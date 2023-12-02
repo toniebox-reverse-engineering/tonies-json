@@ -2,7 +2,7 @@ article: '10001910'
 lock-data: false
 data:
 - series: Arsène Lupin
-  series-id: null
+  series-id: secrets-daventure
   episode: Arsène Lupin
   release: 1701907200
   language: fr-fr
@@ -11,7 +11,7 @@ data:
   age: 6
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/50005999-Tonie_Shado-ZPrfgymT.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/b2cc5c55165ceb6cc7bd70f397337e7fb1339f0a8a7aaca8598fba56/10001910_secrets_d_aventure_arsenelupin.mp3
   web: https://tonies.com/fr-fr/tonies/arsene-lupin/
   shop-id: dfd2974f-b06b-4bff-9db7-3f2e6c6a6236
   track-desc:
