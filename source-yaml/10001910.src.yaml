@@ -2,8 +2,8 @@ article: '10001910'
 lock-data: false
 data:
 - series: ''
-  series-id: ''
-  episode: tonies-shopapi-fr-fr,
+  series-id: tonies-shopapi-fr-fr,
+  episode: ''
   release: ''
   language: ''
   category: ''
@@ -11,7 +11,7 @@ data:
   age: ''
   origin: ''
   image: ''
-  sample: ''
+  sample: tonies-shopapi-fr-fr,
   web: ''
   shop-id: ''
   track-desc: ''
