@@ -1,18 +1,18 @@
 article: '11000319'
 lock-data: false
 data:
-- series: ''
-  series-id: tonies-shopapi-fr-fr,
+- series: tonies-json-fr-fr,
+  series-id: ''
   episode: ''
   release: ''
   language: ''
   category: ''
-  runtime: ''
+  runtime: tonies-json-fr-fr,
   age: ''
   origin: ''
-  image: ''
-  sample: tonies-shopapi-fr-fr,
-  web: ''
+  image: tonies-json-fr-fr,
+  sample: ''
+  web: tonies-json-fr-fr,
   shop-id: ''
-  track-desc: ''
+  track-desc: tonies-json-fr-fr,
   ids: []
