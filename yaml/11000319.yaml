@@ -1,19 +1,22 @@
 article: '11000319'
 lock-data: false
 data:
-- series: Les Belles Lisses Poires
+- series: Le Prince De Motordu
   series-id: le-prince-de-motordu
   episode: Les Belles Lisses Poires
   release: 1701907200
   language: fr-fr
   category: audio-play
-  runtime: 40
+  runtime: 39
   age: 6
   origin: stock
-  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/51001052-Tonie_Shado-GPKGwrHb.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/51001052-Tonie_Shado-cfIFv4cN.png
   sample: https://cdn.tonies.de/o/audio_samples/98823fb718b89ce048807dfdccbf0e045f54a2c8949b40b2b1b54c7c/11000319_le_prince_de_motordu_extraitmp3.mp3
-  web: https://tonies.com/fr-fr/tonies/les-belles-lisses-poires/
+  web: https://tonies.com/fr-fr/tonies/le-prince-de-motordu/les-belles-lisses-poires/
   shop-id: 21f65037-f556-4f94-a3ab-f7080af7ca12
   track-desc:
-  - TBD
+  - La belle lisse poire du prince de Motordu
+  - Motordu papa
+  - Le petit Motordu
+  - Au loup tordu !
   ids: []
