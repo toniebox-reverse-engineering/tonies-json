@@ -12,7 +12,7 @@ data:
   origin: stock
   image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/Blue_Creative-Tonie_-QycLF1dq.png
   sample: null
-  web: null
-  shop-id: null
+  web: https://tonies.com/de-de///
+  shop-id: 2b8c45fd-06ca-471f-8a55-35ad8fc12f7c
   track-desc: []
   ids: []

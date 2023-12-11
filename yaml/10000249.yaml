@@ -12,8 +12,8 @@ data:
   origin: stock
   image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000249-50001242-b-hVynSgG9.png
   sample: null
-  web: null
-  shop-id: null
+  web: https://tonies.com/de-de///
+  shop-id: 5dc6eb33-9352-4eb0-8dfa-003c531e955e
   track-desc: []
   ids:
   - audio-id: 1

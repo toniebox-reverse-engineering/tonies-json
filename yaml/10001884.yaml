@@ -12,7 +12,7 @@ data:
   origin: stock
   image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10001884-50005894-ST-NwGKpJpf.png
   sample: null
-  web: null
-  shop-id: null
+  web: https://tonies.com/de-de///
+  shop-id: db51b6ef-8239-4fde-9177-8c0f7a321b7d
   track-desc: []
   ids: []
