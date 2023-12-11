@@ -22,4 +22,9 @@ data:
   - 'Kapitel 05: Alles steht Kopf'
   - 'Kapitel 06: Alles steht Kopf'
   - 'Kapitel 07: Alles steht Kopf'
-  ids: []
+  ids:
+  - audio-id: 1701031771
+    hash: 021dedda846c836a7ff6f88471b42fdf088bff7c
+    size: 52599949
+    tracks: 7
+    confidence: 1

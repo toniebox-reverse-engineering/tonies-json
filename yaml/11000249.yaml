@@ -22,4 +22,9 @@ data:
   - 'Kapitel 05: Tiggers Großes Abenteuer'
   - 'Kapitel 06: Tiggers Großes Abenteuer'
   - 'Kapitel 07: Tiggers Großes Abenteuer'
-  ids: []
+  ids:
+  - audio-id: 1699434320
+    hash: a43483012426b448ab6dc45654ae07cfa43f9e0c
+    size: 30823978
+    tracks: 7
+    confidence: 1
