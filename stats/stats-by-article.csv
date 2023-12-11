@@ -224,20 +224,20 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000029,The Three ???,,Night among Wolves,en-gb,audio-book,stock,,,1,0,0,0
 10000030,The Ballalloes,,Duel by Flood Light,en-gb,audio-play,stock,,,1,0,0,0
 10000031,Creative-Tonie,,Princess,en-gb,creative-tonie,stock,,,1,0,0,0
-10000032,Creative-Tonie,,Pirate,en-gb,creative-tonie,stock,,,1,0,0,0
-10000033,Creative-Tonie,,Mermaid,en-gb,creative-tonie,stock,,,1,0,0,0
-10000034,Creative-Tonie,,Spooky,en-gb,creative-tonie,stock,,,1,0,0,0
-10000035,Creative-Tonie,,Grandad,en-gb,creative-tonie,stock,,,1,0,0,0
-10000036,Creative-Tonie,,Grandma,en-gb,creative-tonie,stock,,,1,0,0,0
+10000032,Creative-Tonie,,Pirate,en-gb,creative-tonie,stock,7ab7e407-b666-4e42-bfc8-6376d0a20553,https://tonies.com/de-de///,1,0,0,0
+10000033,Creative-Tonie,,Mermaid,en-gb,creative-tonie,stock,df8d5da2-5d91-4594-9472-1c65bc3c34e7,https://tonies.com/de-de///,1,0,0,0
+10000034,Creative-Tonie,,Spooky,en-gb,creative-tonie,stock,3149a2e9-2ba7-42d6-9837-503128c28c6a,https://tonies.com/de-de///,1,0,0,0
+10000035,Creative-Tonie,,Grandad,en-gb,creative-tonie,stock,75c489a2-02f1-42c3-898a-b930fa177bba,https://tonies.com/de-de///,1,0,0,0
+10000036,Creative-Tonie,,Grandma,en-gb,creative-tonie,stock,149180fc-496f-434e-b99b-9723b1568273,https://tonies.com/de-de///,1,0,0,0
 10000037,Creative-Tonie,,Unicorn,en-gb,creative-tonie,stock,,,1,0,0,0
-10000038,Creative-Tonie,,Footballer,en-gb,creative-tonie,stock,,,1,0,0,0
-10000039,Creative-Tonie,,Fireman,en-gb,creative-tonie,stock,,,1,0,0,0
+10000038,Creative-Tonie,,Footballer,en-gb,creative-tonie,stock,5a14d205-ad27-4d8d-8afc-22126faa9d87,https://tonies.com/de-de///,1,0,0,0
+10000039,Creative-Tonie,,Fireman,en-gb,creative-tonie,stock,337d3212-cdb6-4135-a115-6846f98592b8,https://tonies.com/de-de///,1,0,0,0
 10000040,Creative-Tonie,,Father Christmas,en-gb,creative-tonie,stock,,,1,0,0,0
 10000097,Kreativ-Tonie,,Osterhase,de-de,creative-tonie,stock,d5850a60-be2f-4b38-9367-b19de4b6d776,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-osterhase/,1,1,0,0
 10000110,Creative-Tonie,,Blank,en-gb,creative-tonie,stock,,,1,0,0,0
 10000111,Favourite Tales,,Rapunzel and other fairy tales,en-gb,audio-book,stock,,,1,0,0,0
 10000112,Favourite Children’s Songs,,Birthday Songs,en-gb,music,stock,,,1,0,0,0
-10000113,Creative-Tonie,,Sweetheart,en-gb,creative-tonie,stock,,,1,1,0,0
+10000113,Creative-Tonie,,Sweetheart,en-gb,creative-tonie,stock,b910395d-d5f6-47e7-a962-5b2c859dc789,https://tonies.com/de-de///,1,1,0,0
 10000117,Kreativ-Tonie,,Clown,de-de,creative-tonie,stock,251bf3a7-5e59-4941-8257-6041c3240aea,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-clown/,1,1,0,0
 10000118,Kreativ-Tonie,,Vampir,de-de,creative-tonie,stock,,,1,1,0,0
 10000119,Disney,disney,Aladdin,de-de,audio-play-songs,stock,6dd72d92-b865-4bed-b49a-4537138876a5,https://tonies.com/de-de/tonies/disney/aladdin/,1,1,1,3
@@ -273,7 +273,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000156,TKKG Junior,,Der rote Retter,de-de,audio-play,stock,,,1,1,1,1
 10000157,Wickie,wickie,Tanz mit dem Wolf und sechs weitere Episoden,de-de,audio-play,stock,4deb87fa-9827-44ec-a47f-37ec82a020c6,https://tonies.com/de-de/tonies/wickie/tanz-mit-dem-wolf-und-sechs-weitere-episoden/,2,6,3,1
 10000158,Die drei ???,die-drei-fragezeichen,Der Super-Papagei,de-de,audio-play,stock,659caea6-36b9-43c1-a38e-525d12383798,https://tonies.com/de-de/tonies/die-drei-fragezeichen/der-super-papagei/,4,8,5,2
-10000159,Creative-Tonie,,Builder,en-gb,creative-tonie,stock,,,1,0,0,0
+10000159,Creative-Tonie,,Builder,en-gb,creative-tonie,stock,356f8cd4-a58a-4d5c-9422-7696b0c6fda2,https://tonies.com/de-de///,1,0,0,0
 10000160,Favourite Children’s Songs,,Animal Songs,en-gb,audio-play,stock,,,1,1,1,2
 10000161,Favourite Classics,,Peter Pan and other classic stories,en-gb,audio-play,stock,,,1,0,0,0
 10000163,Kreativ-Tonie,,Pink (Beige),de-de,creative-tonie,stock,,,1,1,0,0
@@ -281,16 +281,16 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000165,TKKG Junior,,Giftige Schokolade,de-de,audio-play,stock,,,1,1,1,2
 10000166,HOW AND WHY,,Whales and Dolphins / Secrets of the Deep Sea,en-gb,audio-play-educational,stock,,,1,0,0,0
 10000168,Favourite Children’s Songs,,Sing-Along Songs,en-gb,music,stock,,,1,1,0,0
-10000169,Creative-Tonie,,Clown,en-gb,creative-tonie,stock,,,1,0,0,0
-10000170,Creative-Tonie,,Skater,en-gb,creative-tonie,stock,,,1,0,0,0
+10000169,Creative-Tonie,,Clown,en-gb,creative-tonie,stock,8df3500f-21d1-4c57-a200-dc145e94441a,https://tonies.com/de-de///,1,0,0,0
+10000170,Creative-Tonie,,Skater,en-gb,creative-tonie,stock,eede5b3b-7982-4b3a-8004-86e95d42c6b4,https://tonies.com/de-de///,1,0,0,0
 10000172,Favourite Children's Songs,favourite-children-s-songs,Travelling Songs,en-gb,audio-play,stock,8e84a3f6-e1f1-4913-9efd-64a0a3ed13cf,https://tonies.com/en-gb/tonies/favourite-children-s-songs/travelling-songs/,1,0,0,0
 10000173,HOW AND WHY,,Space Travel / The Moon,en-gb,audio-play-educational,stock,,,1,0,0,0
 10000174,Maya the Bee,maya-the-bee,The birth of Maya,en-gb,audio-play,stock,6ea8c325-ce5c-4ece-a68b-4252d121ada2,https://tonies.com/en-gb/tonies/maya-the-bee/the-birth-of-maya/,1,0,0,0
 10000175,Kosmo und Klax,,Freundschaftsgeschichten,de-de,audio-book-songs,stock,,,1,1,1,1
-10000178,Creative-Tonie,,Superhero Boy,en-gb,creative-tonie,stock,,,1,0,0,0
-10000179,Creative-Tonie,,Superhero Girl,en-gb,creative-tonie,stock,,,1,0,0,0
-10000184,Creative-Tonie,,Vampire,en-gb,creative-tonie,stock,,,1,0,0,0
-10000194,Creative-Tonie,,Yeti,en-gb,creative-tonie,stock,,,1,0,0,0
+10000178,Creative-Tonie,,Superhero Boy,en-gb,creative-tonie,stock,fd1f469d-d6f8-4474-a43a-e94ae93a9212,https://tonies.com/de-de///,1,0,0,0
+10000179,Creative-Tonie,,Superhero Girl,en-gb,creative-tonie,stock,ff60ac90-c443-4e85-aaac-b449b61c3ffa,https://tonies.com/de-de///,1,0,0,0
+10000184,Creative-Tonie,,Vampire,en-gb,creative-tonie,stock,a69203af-7f45-40c8-8ea7-2107e7d375ff,https://tonies.com/de-de///,1,0,0,0
+10000194,Creative-Tonie,,Yeti,en-gb,creative-tonie,stock,23bdd6b1-40cd-4784-8230-cfba5b98dcb5,https://tonies.com/de-de///,1,0,0,0
 10000195,Favourite Children's Songs,favourite-children-s-songs,A Christmas Carol and other classic stories,en-gb,audio-book,stock,dc3408c3-8c5d-42f6-a058-8d1dfb5380e5,https://tonies.com/en-gb/tonies/favourite-children-s-songs/a-christmas-carol/,1,0,0,0
 10000196,Favourite Children’s Songs,,Bedtime Songs & Lullabies 2,en-gb,music,stock,,,1,0,0,0
 10000197,Favourite Children’s Songs,,Counting Songs / Times,en-gb,music,stock,,,1,0,0,0
@@ -300,7 +300,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000202,Benjamin Blümchen,benjamin-bluemchen,Die Märchennacht im Zoo,de-de,audio-play,stock,ee868e35-e0e8-44d5-8368-1655c0ce7096,https://tonies.com/de-de/tonies/benjamin-bluemchen/maerchennacht-im-zoo/,1,1,1,2
 10000203,Kreativ-Tonie,,Dirigent,de-de,creative-tonie,stock,52305f10-e880-4856-b65d-4b2e2250b303,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-dirigent/,1,1,0,0
 10000204,Kreativ-Tonie,,Lufthansa,de-de,creative-tonie,stock,,,1,1,0,0
-10000205,Creative-Tonie,,Conductor,en-gb,creative-tonie,stock,,,1,0,0,0
+10000205,Creative-Tonie,,Conductor,en-gb,creative-tonie,stock,2fd15152-abff-4b8e-a707-e6db486c9b65,https://tonies.com/de-de///,1,0,0,0
 10000209,Disney,disney,Mulan,de-de,audio-play-songs,stock,936418a2-dc36-461d-81ac-d4e5d650b82e,https://tonies.com/de-de/tonies/disney/mulan/,1,1,1,3
 10000210,Disney,disney,Mulan,en-gb,audio-play-songs,stock,ef321c83-b494-4a4d-a63b-336a9febc720,https://tonies.com/en-gb/tonies/disney/mulan/,1,0,0,0
 10000215,Geschichten vom Löwen,,"Die Geschichte vom Löwen, der nicht schreiben konnte und zwei weitere Löwengeschichten",de-de,audio-book,stock,,,1,1,1,3
@@ -319,7 +319,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000246,Heavysaurus,heavysaurus,Rock'n Rarrr Music,de-de,music,stock,6e58e4b2-3afd-4f6f-bcb1-4924289baf5b,https://tonies.com/de-de/tonies/heavysaurus/rock-n-rarrr-music/,1,1,1,2
 10000247,Pumuckl,pumuckl,Spuk in der Werkstatt/Das verkaufte Bett,de-de,audio-play,stock,5e42ada7-f19e-4b58-8e80-48adcaac8d77,https://tonies.com/de-de/tonies/pumuckl/spuk-in-der-werkstatt-das-verkaufte-bett/,1,1,1,1
 10000248,Yakari,yakari,Best of Kleiner Donner,de-de,audio-play,stock,960ae3c8-3a47-4968-9d33-b7861e8193d0,https://tonies.com/de-de/tonies/yakari/best-of-kleiner-donner/,1,1,1,2
-10000249,Creative-Tonie,,Fairy,en-gb,creative-tonie,stock,,,1,1,0,0
+10000249,Creative-Tonie,,Fairy,en-gb,creative-tonie,stock,5dc6eb33-9352-4eb0-8dfa-003c531e955e,https://tonies.com/de-de///,1,1,0,0
 10000250,Disney,disney,Cinderella,en-gb,audio-play-songs,stock,72199863-f304-4999-819a-327207686eb5,https://tonies.com/en-gb/tonies/disney/cinderella/,1,1,1,1
 10000251,Favourite Children’s Songs,,Playtime and Action Songs 2,en-gb,music,stock,,,1,0,0,0
 10000252,Favourite Tales,favourite-tales,Puss in Boots and other fairy tales,en-gb,audio-book,stock,91a59dd3-b50e-42b0-b4c3-f739b8bde93d,https://tonies.com/en-gb/tonies/favourite-tales/puss-in-boots-and-other-fairy-tales/,1,0,0,0
@@ -376,7 +376,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000335,Disney,disney,Winnie the Pooh,en-gb,audio-play,stock,53257ccb-f419-4861-a037-028f49d8046f,https://tonies.com/en-gb/tonies/disney/winnie-the-pooh/,1,1,0,0
 10000336,Miffy,miffy,Miffy’s Adventures,en-gb,audio-play,stock,5e96fa44-c44b-45d1-8130-76baa52eae35,https://tonies.com/en-gb/tonies/miffy/miffys-adventures/,1,0,0,0
 10000337,Peter Hase und seine Freunde,peter-hase-und-seine-freunde,Ein Geschichten-Schatz,de-de,audio-book,stock,58cec730-5dce-4a62-b29f-fdadb6925187,https://tonies.com/de-de/tonies/peter-hase-und-seine-freunde/ein-geschichten-schatz/,1,1,1,1
-10000343,Creative-Tonie,,Doctor,en-gb,creative-tonie,stock,,,1,0,0,0
+10000343,Creative-Tonie,,Doctor,en-gb,creative-tonie,stock,8a14f8cf-c440-44b7-b647-4fe16c1b8abe,https://tonies.com/de-de///,1,0,0,0
 10000357,Shrek,shrek,Shrek,en-gb,audio-book,stock,0cacac68-2e72-463b-aa4b-f0a048bcf206,https://tonies.com/en-gb/tonies/shrek/shrek/,1,0,0,0
 10000358,Bob the Builder,bob-the-builder,Bob the Builder 1,en-gb,audio-play,stock,6620afd0-7fde-45fb-89f1-9685b0818a82,https://tonies.com/en-gb/tonies/bob-the-builder/bob-the-builder-1/,1,0,0,0
 10000360,"Wir sind nachher wieder da, wir müssen kurz nach Afrika",wir-sind-nachher-wieder-da-wir-muessen-kurz-nach-afrika,"Wir sind nachher wieder da, wir müssen kurz nach Afrika",de-de,audio-book,stock,a9b07ace-35f4-4371-8da4-fa5ab5d2e189,https://tonies.com/de-de/tonies/wir-sind-nachher-wieder-da-wir-muessen-kurz-nach-afrika/wir-sind-nachher-wieder-da-wir-muessen-kurz-nach-afrika/,1,1,1,2
@@ -684,18 +684,18 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000970,Kreativ-Tonie,,Blau (Dunkelbraun),de-de,creative-tonie,stock,2fa9008c-a2b0-4ecb-be84-a56fb3f5ff2f,https://tonies.com/de-de/kreativ-tonies/kt-blau-dunkelbraun/,1,0,0,0
 10000971,Kreativ-Tonie,,Anthrazit (Dunkelbraun),de-de,creative-tonie,stock,55a55439-f10c-4fbf-a571-40b919f16096,https://tonies.com/de-de/kreativ-tonies/kt-anthrazit-dunkelbraun/,1,0,0,0
 10000972,Kreativ-Tonie,,Pink (Dunkelbraun),de-de,creative-tonie,stock,8c44c0fa-c97b-4a42-ba40-482291b92618,https://tonies.com/de-de/kreativ-tonies/kt-pink-dunkelbraun/,1,0,0,0
-10000973,Creative-Tonie,,Purple (light brown),en-gb,creative-tonie,stock,,,1,0,0,0
-10000974,Creative-Tonie,,Red (light brown),en-gb,creative-tonie,stock,,,1,0,0,0
-10000975,Creative-Tonie,,Green (light brown),en-gb,creative-tonie,stock,,,1,0,0,0
-10000976,Creative-Tonie,,Light Blue (light brown),en-gb,creative-tonie,stock,,,1,0,0,0
-10000977,Creative-Tonie,,Grey (light brown),en-gb,creative-tonie,stock,,,1,0,0,0
-10000978,Creative-Tonie,,Pink (light brown),en-gb,creative-tonie,stock,,,1,0,0,0
-10000979,Creative-Tonie,,Purple (dark brown),en-gb,creative-tonie,stock,,,1,0,0,0
-10000980,Creative-Tonie,,Red (dark brown),en-gb,creative-tonie,stock,,,1,0,0,0
-10000981,Creative-Tonie,,Green (dark brown),en-gb,creative-tonie,stock,,,1,0,0,0
-10000982,Creative-Tonie,,Light Blue (dark brown),en-gb,creative-tonie,stock,,,1,0,0,0
-10000983,Creative-Tonie,,Grey (dark brown),en-gb,creative-tonie,stock,,,1,0,0,0
-10000984,Creative-Tonie,,Pink (dark brown),en-gb,creative-tonie,stock,,,1,0,0,0
+10000973,Creative-Tonie,,Purple (light brown),en-gb,creative-tonie,stock,fc5ef47e-023b-42d0-99e5-7faea126bdf4,https://tonies.com/de-de///,1,0,0,0
+10000974,Creative-Tonie,,Red (light brown),en-gb,creative-tonie,stock,f10dfc5f-e8d5-48ae-be54-0cfad54b9a00,https://tonies.com/de-de///,1,0,0,0
+10000975,Creative-Tonie,,Green (light brown),en-gb,creative-tonie,stock,b9d9202e-0020-41a8-82a7-cf1eecdcd911,https://tonies.com/de-de///,1,0,0,0
+10000976,Creative-Tonie,,Light Blue (light brown),en-gb,creative-tonie,stock,aa730cb9-8c45-47bb-b219-7bdaf35ed82c,https://tonies.com/de-de///,1,0,0,0
+10000977,Creative-Tonie,,Grey (light brown),en-gb,creative-tonie,stock,963581e3-2ddc-404a-b0a2-5317174b5a00,https://tonies.com/de-de///,1,0,0,0
+10000978,Creative-Tonie,,Pink (light brown),en-gb,creative-tonie,stock,d8084afd-a687-40f5-927a-74bcf11a1bcf,https://tonies.com/de-de///,1,0,0,0
+10000979,Creative-Tonie,,Purple (dark brown),en-gb,creative-tonie,stock,0aeca847-6eff-493f-aa3f-477bdf993afb,https://tonies.com/de-de///,1,0,0,0
+10000980,Creative-Tonie,,Red (dark brown),en-gb,creative-tonie,stock,62a1cbf6-d436-4ccb-a761-331e8dd3bf92,https://tonies.com/de-de///,1,0,0,0
+10000981,Creative-Tonie,,Green (dark brown),en-gb,creative-tonie,stock,171fe95c-fb2f-4fba-827b-70e57f37b516,https://tonies.com/de-de///,1,0,0,0
+10000982,Creative-Tonie,,Light Blue (dark brown),en-gb,creative-tonie,stock,5b6041eb-f533-4eaa-ab8b-7890e7f1cdd3,https://tonies.com/de-de///,1,0,0,0
+10000983,Creative-Tonie,,Grey (dark brown),en-gb,creative-tonie,stock,10d9d501-75a0-4dab-b358-96c1e4182ee4,https://tonies.com/de-de///,1,0,0,0
+10000984,Creative-Tonie,,Pink (dark brown),en-gb,creative-tonie,stock,547fdbd2-6596-4a48-9497-f371b98608f9,https://tonies.com/de-de///,1,0,0,0
 10000989,Disney,disney,Cars 2,de-de,audio-play,stock,bfc34250-a35a-4ccd-a42c-c99775e3714c,https://tonies.com/de-de/tonies/disney/cars-2/,1,1,1,1
 10000990,Lieblings-Kinderlieder,lieblings-kinderlieder,Jahreszeitenlieder,de-de,music,stock,79bce9e0-8dc8-4e45-b046-afa22033ff84,https://tonies.com/de-de/tonies/lieblings-kinderlieder/jahreszeitenlieder/,1,2,1,2
 10000991,Disney,disney,Toy Story 2,de-de,audio-play,stock,8222b0f3-31bf-4a31-9619-6a716a1b9c2b,https://tonies.com/de-de/tonies/disney/toy-story-2/,1,1,0,0
@@ -757,15 +757,15 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001085,Word Party,,,en-us,Tonie,stock,8007349600407,,1,0,0,0
 10001092,Ask the StoryBots,,Bo,en-us,Tonie,stock,8031914918039,,1,0,0,0
 10001098,Octonauts,octonauts,Kwazii,en-gb,audio-play-songs,stock,667edc9e-ca10-456b-b486-6ce3375b2cdc,https://tonies.com/en-gb/tonies/octonauts/kwazii/,1,0,0,0
-10001102,Creative-Tonie,,Purple (beige),en-gb,creative-tonie,stock,,,1,0,0,0
-10001103,Creative-Tonie,,Red (beige),en-gb,creative-tonie,stock,,,1,0,0,0
+10001102,Creative-Tonie,,Purple (beige),en-gb,creative-tonie,stock,5acf2d05-e7c7-4c19-9246-ba780d369e69,https://tonies.com/de-de///,1,0,0,0
+10001103,Creative-Tonie,,Red (beige),en-gb,creative-tonie,stock,74b1b68b-95b4-4e35-8cdb-666817dfd359,https://tonies.com/de-de///,1,0,0,0
 10001104,Disney,disney,Cendrillon,fr-fr,audio-play-songs,stock,843fc10b-e16e-4ee2-a8e1-1a187a2dd895,https://tonies.com/fr-fr/tonies/disney/cendrillon/,1,0,0,0
 10001106,Lieblings-Kinderlieder,lieblings-kinderlieder,Kindergartenlieder,de-de,music,stock,96c17f7f-7521-4af3-b22f-ab9faa080e68,https://tonies.com/de-de/tonies/lieblings-kinderlieder/kindergartenlieder-neuauflage-2022/,1,1,0,0
 10001107,Lieblings-Kinderlieder,lieblings-kinderlieder,Englische Kinderlieder (Neuauflage 2022),de-de,music,stock,34a2143e-b678-4983-83aa-64de8d5995cf,https://tonies.com/de-de/tonies/lieblings-kinderlieder/englische-kinderlieder-neuauflage2022/,1,1,1,1
-10001108,Creative-Tonie,,Green (beige),en-gb,creative-tonie,stock,,,1,0,0,0
-10001109,Creative-Tonie,,Light Blue (beige),en-gb,creative-tonie,stock,,,1,0,0,0
-10001110,Creative-Tonie,,Grey (beige),en-gb,creative-tonie,stock,,,1,0,0,0
-10001111,Creative-Tonie,,Pink (beige),en-gb,creative-tonie,stock,,,1,1,0,0
+10001108,Creative-Tonie,,Green (beige),en-gb,creative-tonie,stock,a56aab7d-3f98-4e2c-a8c5-f4cf31850d0d,https://tonies.com/de-de///,1,0,0,0
+10001109,Creative-Tonie,,Light Blue (beige),en-gb,creative-tonie,stock,2b8c45fd-06ca-471f-8a55-35ad8fc12f7c,https://tonies.com/de-de///,1,0,0,0
+10001110,Creative-Tonie,,Grey (beige),en-gb,creative-tonie,stock,332b2f67-22ba-4c70-ab61-a67c09f90076,https://tonies.com/de-de///,1,0,0,0
+10001111,Creative-Tonie,,Pink (beige),en-gb,creative-tonie,stock,86fcd540-18aa-4b8d-8878-a589e768c0b5,https://tonies.com/de-de///,1,1,0,0
 10001132,Disney,,Holiday Mickey,en-us,Tonie,stock,7801059999895,,1,0,0,0
 10001133,Disney,,Frozen: Olaf,en-us,Tonie,stock,7801040011415,,1,0,0,0
 10001134,Disney,,Sleeping Beauty,en-us,Tonie,stock,7806514233495,,1,0,0,0
@@ -966,12 +966,12 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001879,Peppa Pig,peppa-pig,Peppa's Bedtime Stories,en-gb,audio-play,stock,4941fa15-91d6-465a-9138-b7c037c2391d,https://tonies.com/en-gb/tonies/peppa-pig/peppas-bedtime-stories/,1,0,0,0
 10001880,Disney,disney,The Incredibles,en-gb,audio-play,stock,82bce644-230b-4271-a6c7-683329eeb30f,https://tonies.com/en-gb/tonies/disney/the-incredibles/,1,0,0,0
 10001881,Favourite Children's Songs,favourite-children-s-songs,Animal Songs (relaunch),en-gb,music,stock,c1759a33-c3f2-4da4-bd1e-729f08a49249,https://tonies.com/en-gb/tonies/favourite-children-s-songs/animal-songs-relaunch/,1,0,0,0
-10001884,Creative-Tonie,,Mermaid/dark brown,en-gb,creative-tonie,stock,,,1,0,0,0
-10001885,Creative-Tonie,,Sleepy/dark brown,en-gb,creative-tonie,stock,,,1,0,0,0
-10001886,Creative-Tonie,,Superhero Blue (dark-brown),en-gb,creative-tonie,stock,,,1,0,0,0
-10001888,Creative-Tonie,,Footballer/dark brown,en-gb,creative-tonie,stock,,,1,0,0,0
-10001889,Creative-Tonie,,Blank (relaunch),en-gb,creative-tonie,stock,,,1,1,1,1
-10001890,Creative-Tonie,,Firefighter (light-brown),en-gb,creative-tonie,stock,,,1,0,0,0
+10001884,Creative-Tonie,,Mermaid/dark brown,en-gb,creative-tonie,stock,db51b6ef-8239-4fde-9177-8c0f7a321b7d,https://tonies.com/de-de///,1,0,0,0
+10001885,Creative-Tonie,,Sleepy/dark brown,en-gb,creative-tonie,stock,171073cd-8dc2-450f-9874-af9f01692d39,https://tonies.com/de-de///,1,0,0,0
+10001886,Creative-Tonie,,Superhero Blue (dark-brown),en-gb,creative-tonie,stock,c46ca64f-d513-4076-95b4-9e7c01237554,https://tonies.com/de-de///,1,0,0,0
+10001888,Creative-Tonie,,Footballer/dark brown,en-gb,creative-tonie,stock,de84c22a-e968-44dd-a1e1-289e4f0955d8,https://tonies.com/de-de///,1,0,0,0
+10001889,Creative-Tonie,,Blank (relaunch),en-gb,creative-tonie,stock,db791279-cfba-47c0-8967-d44aa7199724,https://tonies.com/de-de///,1,1,1,1
+10001890,Creative-Tonie,,Firefighter (light-brown),en-gb,creative-tonie,stock,19e333af-d0dc-4380-9d5a-12b1d4fd796b,https://tonies.com/de-de///,1,0,0,0
 10001891,Disney,disney,Coco,en-gb,audio-play-songs,stock,c9e09f10-ea65-429e-b924-e8ec167def7b,https://tonies.com/en-gb/tonies/disney/coco/,1,0,0,0
 10001898,Lieblings-Kinderlieder,lieblings-kinderlieder,Reiselieder (Neuauflage 2023),de-de,music,stock,8449c928-c879-4ac3-b320-aa1c258cc607,https://tonies.com/de-de/tonies/lieblings-kinderlieder/reiselieder-neuauflage-2023/,1,0,0,0
 10001900,Yoohoo to the Rescue,,Pammee,en-us,Tonie,stock,7953348034711,,1,0,0,0
@@ -1115,7 +1115,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000445,Octonauts,,Peso,en-us,Tonie,stock,8031548899479,,1,0,0,0
 11000447,Planet Omar,,Accidental Trouble Magnet,en-us,Tonie,stock,7907850649751,,1,0,0,0
 11000457,Calm x tonies®,,,en-us,Tonie,stock,7806525866135,,1,0,0,0
-11000458,Calm,,,en-gb,,stock,,,1,0,0,0
+11000458,Calm,,Calm,en-gb,,stock,d7d0d398-f289-47f3-acff-8e0cb0a47158,https://tonies.com/de-de///,1,0,0,0
 11000462,MARVEL Spidey and His Amazing Friends,marvel-spidey-and-his-amazing-friends,Spidey und seine Super-Freunde - Das Spidey Team & 3 weitere spannende Abenteuer,de-de,audio-play,stock,fb34e8ef-b3e2-4360-b8e2-da048a87df28,https://tonies.com/de-de/tonies/marvel-spidey-and-his-amazing-friends/marvel-spidey-und-seine-super-freunde-das-spidey-team-3-weitere-spannende-abenteuer/,1,0,0,0
 11000465,MARVEL Spidey and His Amazing Friends,marvel-spidey-and-his-amazing-friends,Spidey und seine Super-Freunde - Doc Ocks Superoktopus & 3 weitere spannende Abenteuer,de-de,audio-play,stock,d0fa8fcb-072f-480b-b41c-1faa2f1d93e3,https://tonies.com/de-de/tonies/marvel-spidey-and-his-amazing-friends/spidey-und-seine-super-freunde-doc-ocks-superoktopus-3-weitere-spannende-abenteuer/,1,0,0,0
 11000466,MARVEL Spidey and His Amazing Friends,marvel-spidey-and-his-amazing-friends,Spidey und seine Super-Freunde - Kobzilla & 3 weitere spannende Abenteuer,de-de,audio-play,stock,2da830ca-4d8f-4c4a-b3cf-5d1ec5d299d4,https://tonies.com/de-de/tonies/marvel-spidey-and-his-amazing-friends/marvel-ghost-spider-dach/,1,0,0,0
