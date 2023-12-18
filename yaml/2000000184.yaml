@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Der Superhexspruch
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,15 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/der-superhexspruch/
   shop-id: fea679b5-3c62-4473-adeb-bc3601cdb3ee
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Ein Brief an Mami
+  - Aufregung in Neustadt
+  - Mamis Antwort
+  - Der Schülerrat
+  - Der Superhexspruch
+  - Bibi ist erschöpft
+  - Für immer ein Hase -
+  - Bibi erholt sich
+  - Zufriedene Neustädter
   ids: []

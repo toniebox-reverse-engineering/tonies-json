@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Das Amulett der Gräfin
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/das-amulett-der-grafin/
   shop-id: 2b7b3d8b-1632-4a04-8370-9b9286df3f67
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Ein überraschender Fund
+  - Zum Schloss
+  - Das Amulett kehrt zurück
+  - Übergriff im Wald
+  - Frau Martin in Sorge
+  - Glück oder kein Glück -
+  - Auf dem Pferderennen
+  - Nach dem Sieg
+  - Schreck auf dem Martinshof
+  - Das Amulett ist weg
+  - Die Verfolgung
+  - Marker
+  - Versöhnliches Ende
   ids: []

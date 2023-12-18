@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Die Pferdeprinzessin
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,16 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/die-pferdeprinzessin/
   shop-id: e111046f-55f5-4378-93eb-31a5c57bcaac
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Tempo, Amadeus
+  - Fliegende Pferde
+  - Einladung auf den Martinshof
+  - Tina wird eifersüchtig
+  - Zerbrochenes Porzellan
+  - Programmänderung
+  - Alte Schulfreunde
+  - Eine Blitzidee
+  - Alex soll büßen
+  - Rettung in letzter Sekunde
   ids: []

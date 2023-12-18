@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Städte der Zukunft / Wolkenkratzer
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,50 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/stadte-der-zukunft-wolkenkratzer/
   shop-id: fef71120-c9e2-4327-88e1-dc81603fd385
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Viele Fragen um die Städte der Zukunft'
+  - 'Thema 1: Wie die Menschen sesshaft wurden'
+  - 'Thema 1: Wie in Uruk die Berufe erfunden wurden'
+  - 'Thema 1: Gut gelegen am Fluss!'
+  - 'Thema 1: Ist Berlin eine Megacity?'
+  - 'Thema 1: Die Magnetkraft der Städte'
+  - 'Thema 1: Verkehrschaos in Kairo'
+  - 'Thema 1: Wohnungsnot in Kairo'
+  - 'Thema 1: Urban Mining: eine geniale Idee!'
+  - 'Thema 1: Ägyptens neue Planhauptstadt'
+  - 'Thema 1: Die großen Transportnetzwerke'
+  - 'Thema 1: Der Flächengigant Los Angeles'
+  - 'Thema 1: Die Stadt wächst um den Stadtkern'
+  - 'Thema 1: Wenn es zu weite Wege gibt'
+  - 'Thema 1: Dicht bebaut ist ökologisch'
+  - 'Thema 1: Alles ist in der Nähe'
+  - 'Thema 1: Tokio funktioniert'
+  - 'Thema 1: Japan: Pusher in der U-Bahn'
+  - 'Thema 1: Leitungen im Untergrund'
+  - 'Thema 1: Die komplett gesteuerte Stadt'
+  - 'Thema 1: Skyfarming: Landwirtschaft im Hochhaus'
+  - 'Thema 1: Kapselhotel'
+  - 'Thema 1: Masdar City: Ökostadt in der Wüste'
+  - 'Thema 1: Das uralte Wissen arabischer Architektur'
+  - 'Thema 1: Nachhaltige Energie in Masdar City'
+  - 'Thema 1: Zukunftsvision: schwimmende Metropolen'
+  - 'Thema 1: Lilypad und Klimawandel'
+  - 'Thema 2: Viele Fragen um Wolkenkratzer'
+  - 'Thema 2: Zikkurate, Pyramiden und Kathedralen'
+  - 'Thema 2: Wie hoch sind Wolkenkratzer?'
+  - 'Thema 2: Zu Fuß nach oben?'
+  - 'Thema 2: Elisha Graves Otis, Erfinder des sicheren Aufzugs'
+  - 'Thema 2: Genialer Stahlskelettbau'
+  - 'Thema 2: Woolworth Hochhaus, Bank of Manhattan und Chrysler Building'
+  - 'Thema 2: Der Bau des Empire State Building und die Mohawk Indianer'
+  - 'Thema 2: Deutscher Marmor im Empire State Building'
+  - 'Thema 2: Auf der Aussichtsplattform im Empire State Building'
+  - 'Thema 2: Taipei 101 und der Shanghai Tower'
+  - 'Thema 2: Burj Khalifa in Dubai: 828 Meter'
+  - 'Thema 2: Spezialbetonpumpen und Techniketagen'
+  - 'Thema 2: Gewölbte Glitzerfassade putzen'
+  - 'Thema 2: Luxus: Riesenaquarium, Swimmingpools und Blitzaufzüge'
+  - 'Thema 2: Die Stahlnadel auf der Spitze'
+  - 'Thema 2: Kingdom Tower: der 1 Kilometer Gigant'
+  - 'Thema 2: Kluge, ökologische Hochhäuser'
   ids: []

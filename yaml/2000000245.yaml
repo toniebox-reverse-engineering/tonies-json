@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Papa ist weg
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,17 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/papa-ist-weg/
   shop-id: a63c9e54-4161-4627-88c5-87d737f53429
-  track-desc: []
+  track-desc:
+  - Titellied
+  - Papas Bett ist leer
+  - Mami erzählt
+  - Frau Kohl
+  - Bibi fragt
+  - Ein Blick in die Hexenkugel
+  - Per Besen nach Mallorca
+  - Angekommen
+  - Zwei Hexen pirschen sich an
+  - Die Blocksberg-Fliegen
+  - Papa Plüschpuschel
+  - Nie wieder streiten
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: im Zirkus
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,17 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/im-zirkus/
   shop-id: 5c8e9422-cc24-42f2-9839-0a651b24be10
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Am Sonntagmorgen
+  - Freikarten
+  - Nette Hexereien
+  - Zauberer trifft Hexe
+  - Neue Freunde
+  - Viel dicke Luft
+  - Die Zirkus-Vorstellung
+  - Der Löwen-Bürgermeister
+  - Der Höhepunkt
+  - Rettung in letzter Sekunde
+  - Besenflug zu zweit
   ids: []

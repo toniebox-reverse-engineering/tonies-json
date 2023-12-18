@@ -4,9 +4,9 @@ data:
 - series: Benjamin Blümchen
   series-id: benjamin-bluemchen
   episode: Das Seifenkistenrennen
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/das-seifenkistenrennen/
   shop-id: faf3be3b-996b-4764-bc0a-fd7f8189ebf2
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Auf dem Sportfest
+  - Moritz und Niklas
+  - Otto ist traurig
+  - Unter der Bettdecke
+  - Karla Kolumnas Neuigkeit
+  - Wir bauen eine Seifenkiste!
+  - Viele Farben und ein Name
+  - Hartes Training
+  - Unerwartete Konkurrenz
+  - Vor dem Rennen
+  - Es geht los!
+  - Ottos rasante Schlitterfahrt
+  - Nie mehr lahme Ente!
   ids: []

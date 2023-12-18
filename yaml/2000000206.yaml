@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Die neue Schule
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,15 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/die-neue-schule/
   shop-id: b9cd80a2-719d-47cb-aac7-0c9680bffcd1
-  track-desc: []
+  track-desc:
+  - Bibi Song
+  - Der verhinderte Schulstreik
+  - Brief an den Bürgermeister
+  - Alles abgelehnt- !
+  - Karla greift ein
+  - Ein Schloss für den Bürgermeister
+  - Das Maß ist voll
+  - Vertauschte Rollen
+  - Die Demonstration
+  - Die Grundsteinlegung
   ids: []

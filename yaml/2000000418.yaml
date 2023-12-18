@@ -4,9 +4,9 @@ data:
 - series: Der kleine Rabe Socke
   series-id: der-kleine-rabe-socke
   episode: Alles rabenstark!, Alles aufgeräumt!, Alles kaputt!
-  release: 0
+  release: 1443744000
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,29 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/der-kleine-rabe-socke/alles-rabenstark-alles-aufgeraumt-alles-kaputt/
   shop-id: 43f0d430-6e24-435b-bd4a-4941586f4678
-  track-desc: []
+  track-desc:
+  - Alles rabenstark! - Kapitel 1
+  - Alles rabenstark! - Kapitel 2
+  - Alles rabenstark! - Kapitel 3
+  - Alles rabenstark! - Kapitel 4
+  - Alles rabenstark! - Kapitel 5
+  - Alles rabenstark! - Kapitel 6
+  - Alles rabenstark! - Kapitel 7
+  - Alles rabenstark! - Kapitel 8
+  - Alles rabenstark! - Kapitel 9
+  - Alles rabenstark! - Kapitel 10
+  - Alles rabenstark! - Kapitel 11
+  - Alles aufgeräumt! - Kapitel 1
+  - Alles aufgeräumt! - Kapitel 2
+  - Alles aufgeräumt! - Kapitel 3
+  - Alles aufgeräumt! - Kapitel 4
+  - Alles aufgeräumt! - Kapitel 5
+  - Alles aufgeräumt! - Kapitel 6
+  - Alles kaputt! - Kapitel 1
+  - Alles kaputt! - Kapitel 2
+  - Alles kaputt! - Kapitel 3
+  - Alles kaputt! - Kapitel 4
+  - Alles kaputt! - Kapitel 5
+  - Alles kaputt! - Kapitel 6
+  - Alles kaputt! - Kapitel 7
   ids: []

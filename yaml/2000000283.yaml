@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Das Filmteam
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/das-filmteam/
   shop-id: 0d8fcd46-74ab-4eb2-93b6-00e9d4a938e5
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Überraschender Auftritt
+  - In der Küche
+  - Die Filmcrew ist da!
+  - Dreh im Steinbruch
+  - Tinas Textänderung
+  - Zwei neue Doubles
+  - Hinterlistige Sonja
+  - Der Plan misslingt
+  - Wo sind die Sättel-
+  - Das Geständnis
+  - Annäherungen
+  - Bibitou und Tinoca
   ids: []

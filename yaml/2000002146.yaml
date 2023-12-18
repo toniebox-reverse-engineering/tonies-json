@@ -4,9 +4,9 @@ data:
 - series: Conni
   series-id: conni
   episode: Conni und die große Eiszeit
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
@@ -14,5 +14,48 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/conni/conni-und-die-groe-eiszeit/
   shop-id: 7b1a3e22-cd27-4b98-a67f-88bc5bdff745
-  track-desc: []
+  track-desc:
+  - Meine beste Freundin Conni
+  - Conni und die große Eiszeit - Teil 01
+  - Conni und die große Eiszeit - Teil 02
+  - Conni und die große Eiszeit - Teil 03
+  - Conni und die große Eiszeit - Teil 04
+  - Conni und die große Eiszeit - Teil 05
+  - Conni und die große Eiszeit - Teil 06
+  - Conni und die große Eiszeit - Teil 07
+  - Conni und die große Eiszeit - Teil 08
+  - Conni und die große Eiszeit - Teil 09
+  - Conni und die große Eiszeit - Teil 10
+  - Conni und die große Eiszeit - Teil 11
+  - Conni und die große Eiszeit - Teil 12
+  - Conni und die große Eiszeit - Teil 13
+  - Conni und die große Eiszeit - Teil 14
+  - Conni und die große Eiszeit - Teil 15
+  - Conni und die große Eiszeit - Teil 16
+  - Conni und die große Eiszeit - Teil 17
+  - Conni und die große Eiszeit - Teil 18
+  - Conni und die große Eiszeit - Teil 19
+  - Conni und die große Eiszeit - Teil 20
+  - Conni und die große Eiszeit - Teil 21
+  - Conni und die große Eiszeit - Teil 22
+  - Conni und die große Eiszeit - Teil 23
+  - Conni und die große Eiszeit - Teil 24
+  - Conni und die große Eiszeit - Teil 25
+  - Conni und die große Eiszeit - Teil 26
+  - Conni und die große Eiszeit - Teil 27
+  - Conni und die große Eiszeit - Teil 28
+  - Conni und die große Eiszeit - Teil 29
+  - Conni und die große Eiszeit - Teil 30
+  - Conni und die große Eiszeit - Teil 31
+  - Conni und die große Eiszeit - Teil 32
+  - Conni und die große Eiszeit - Teil 33
+  - Conni und die große Eiszeit - Teil 34
+  - Conni und die große Eiszeit - Teil 35
+  - Conni und die große Eiszeit - Teil 36
+  - Conni und die große Eiszeit - Teil 37
+  - Conni und die große Eiszeit - Teil 38
+  - Conni und die große Eiszeit - Teil 39
+  - Conni und die große Eiszeit - Teil 40
+  - Conni und die große Eiszeit - Teil 41
+  - Meine beste Freundin Conni
   ids: []

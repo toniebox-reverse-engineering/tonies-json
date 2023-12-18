@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Die Hundebabys
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,15 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/die-hundebabys/
   shop-id: 6ec8375f-044b-4610-bfe6-1e24eda931cb
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Die Überraschung in der Tasche
+  - Wo sind die Hundeeltern -
+  - Geräusche in der Nacht
+  - Mit den Hundebabys in der Schule
+  - Die Hundediebe
+  - Die Verfolgungsjagd
+  - So viele Hunde!
+  - Susi ist glücklich
+  - Unverhofftes Wiedersehen
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 79: Pumuckl sieht alles'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,24 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-sieht-alles-das-original-aus-dem-fernsehen/
   shop-id: b8dda9e8-62e2-4427-a803-537024505ec3
-  track-desc: []
+  track-desc:
+  - Pumuckl sieht alles - Teil 01
+  - Pumuckl sieht alles - Teil 02
+  - Pumuckl sieht alles - Teil 03
+  - Pumuckl sieht alles - Teil 04
+  - Pumuckl sieht alles - Teil 05
+  - Pumuckl sieht alles - Teil 06
+  - Pumuckl sieht alles - Teil 07
+  - Pumuckl sieht alles - Teil 08
+  - Pumuckl sieht alles - Teil 09
+  - Pumuckl sieht alles - Teil 10
+  - Pumuckl sieht alles - Teil 11
+  - Pumuckl sieht alles - Teil 12
+  - Pumuckl sieht alles - Teil 13
+  - Pumuckl sieht alles - Teil 14
+  - Pumuckl sieht alles - Teil 15
+  - Pumuckl sieht alles - Teil 16
+  - Pumuckl sieht alles - Teil 17
+  - Pumuckl sieht alles - Teil 18
+  - Pumuckl sieht alles - Teil 19
   ids: []

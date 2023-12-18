@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 72: Der verdrehte Tag'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,20 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/der-verdrehte-tag-das-original-aus-dem-fernsehen/
   shop-id: c1adc976-7afc-45f3-813a-3cdcccb1c72d
-  track-desc: []
+  track-desc:
+  - Der verdrehte Tag - Teil 01
+  - Der verdrehte Tag - Teil 02
+  - Der verdrehte Tag - Teil 03
+  - Der verdrehte Tag - Teil 04
+  - Der verdrehte Tag - Teil 05
+  - Der verdrehte Tag - Teil 06
+  - Der verdrehte Tag - Teil 07
+  - Der verdrehte Tag - Teil 08
+  - Der verdrehte Tag - Teil 09
+  - Der verdrehte Tag - Teil 10
+  - Der verdrehte Tag - Teil 11
+  - Der verdrehte Tag - Teil 12
+  - Der verdrehte Tag - Teil 13
+  - Der verdrehte Tag - Teil 14
+  - Der verdrehte Tag - Teil 15
   ids: []

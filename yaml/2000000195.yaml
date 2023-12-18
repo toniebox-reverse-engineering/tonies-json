@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Die Geheimsprache
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/die-geheimsprache/
   shop-id: 540fff92-c741-4c06-8fc5-c5e1077aff54
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Dreifach abgeworfen
+  - Nervende Zwillinge
+  - Funktioniert nicht
+  - Das gibt Rache!
+  - Der Trick
+  - Die Verwandlung
+  - Die Schreiprobe
+  - Fremde Männer
+  - Wo sind Tim und Tom-
+  - Die Entfesselung
+  - Die Flucht
+  - Überlistet!
+  - Ein heldenhafter Sieg!
   ids: []

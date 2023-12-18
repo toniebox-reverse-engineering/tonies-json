@@ -4,9 +4,9 @@ data:
 - series: Aumio
   series-id: aumio
   episode: Traumreise in die Wolkengalaxie
-  release: 0
-  language: null
-  category: null
+  release: 1701820800
+  language: de-de
+  category: audio-book
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,7 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/aumio/aumio-traumreise-in-die-wolkengalaxie/
   shop-id: 3d37a4d0-7eba-4609-85b3-34c8705add50
-  track-desc: []
+  track-desc:
+  - Die Viilis und das Einschlafen
+  - Klänge der Wolkengalaxie
   ids: []

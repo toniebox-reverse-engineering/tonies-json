@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Das Gestüt in England
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/das-gestut-in-england/
   shop-id: 6bae0211-4f1b-45f9-bb83-dc2d010c96fc
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Wettreiten in England
+  - Lebendige Vergangenheit
+  - Tom wird Trainer
+  - Kein Gentleman
+  - Eine folgenreiche Wette
+  - Hartes Training
+  - Jetzt erst recht!
+  - Bibi und Tina gewinnen
+  - Tom gibt alles
+  - Ein gemeiner Trick
+  - Geheimnisvolle Kette
+  - Ein fairer Verlierer
   ids: []

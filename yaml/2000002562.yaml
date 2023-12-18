@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Die Wikinger / Völkerwanderung
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,35 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/die-wikinger-volkerwanderung/
   shop-id: a40b1dde-c77e-4737-8240-bf973c0e4b5a
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Einleitung'
+  - 'Thema 1: Die Wikinger - Furchterregende Männer aus dem Norden?'
+  - 'Thema 1: Die Heimat der Wikinger'
+  - 'Thema 1: Das Wikinger-Wohnhaus'
+  - 'Thema 1: Die Kleidung der Wikinger'
+  - 'Thema 1: Die Schmuckherstellung - Was ist eine Fibel?'
+  - 'Thema 1: Die Gesellschaft - Verteidigung der Ehre'
+  - 'Thema 1: Der Anführer der Wikinger'
+  - 'Thema 1: Plünderfahrten und Piratenzüge'
+  - 'Thema 1: Wie die Wikinger ihre Schiffe bauten'
+  - 'Thema 1: Der Angriff - Die Waffen der Krieger'
+  - 'Thema 1: Brutaler Überfall'
+  - 'Thema 1: Die Götter der Wikinger'
+  - 'Thema 1: Wie sich die Wikinger auf der See zurechtfanden'
+  - 'Thema 1: Das Handelsnetz der Wikinger'
+  - 'Thema 2: Einleitung'
+  - 'Thema 2: Wer sind die Hunnen?'
+  - 'Thema 2: Unruhen im Römischen Reich'
+  - 'Thema 2: Germanische Völker'
+  - 'Thema 2: Der Alltag der Germanen'
+  - 'Thema 2: Wie der germanische Stamm aufgebaut ist'
+  - 'Thema 2: Die Kleidung der Germanen'
+  - 'Thema 2: Als die Hunnen nach Europa kamen'
+  - 'Thema 2: Der Sieg über die Hunnen'
+  - 'Thema 2: Die Kampfausstattung der Germanen'
+  - 'Thema 2: Wie es zur ostgotischen Herrschaft kam'
+  - 'Thema 2: Wie die Westgoten die Römer bekriegten'
+  - 'Thema 2: Das Volk der Vandalen'
+  - 'Thema 2: Die Langobarden - Die Eroberung Italiens'
+  - 'Thema 2: Die Aufteilung Europas durch germanische Reiche'
   ids: []

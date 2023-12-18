@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Fit durch Sport / Ernährung
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,31 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/fit-durch-sport-ernahrung/
   shop-id: a1c95ba9-7f18-4eb2-ad5a-8edcd1b302af
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Sport'
+  - 'Thema 1: Was ist Sport?'
+  - 'Thema 1: Entstehung des Sports'
+  - 'Thema 1: Die Olympischen-Spiele'
+  - 'Thema 1: Heutige Disziplinen erinnern noch an Früher'
+  - 'Thema 1: Olympische Spiele der Neuzeit'
+  - 'Thema 1: Leichtathletik'
+  - 'Thema 1: Was ist Doping?'
+  - 'Thema 1: Fans'
+  - 'Thema 1: Wann sind die verschiedenen Sportarten entstanden?'
+  - 'Thema 1: Was sind Trendsportarten?'
+  - 'Thema 1: Sportartenentstehung durch vorhande Sportarten'
+  - 'Thema 1: Apnoetauchen'
+  - 'Thema 2: Ernährung'
+  - 'Thema 2: Hungergefühl als Signal für mangelnde Energie'
+  - 'Thema 2: Die Zunge'
+  - 'Thema 2: Schmecken ist immer auch Riechen'
+  - 'Thema 2: Verdauung'
+  - 'Thema 2: Was passiert im Magen?'
+  - 'Thema 2: Der Dünn- und Dickdarm'
+  - 'Thema 2: Das Essen der Piraten'
+  - 'Thema 2: Was sind sekundäre Pflanzenstoffe?'
+  - 'Thema 2: Wichtig für den Körper: Mineralstoffe'
+  - 'Thema 2: Energiereiche Nahrung'
+  - 'Thema 2: Genügend Nahrungsmittel für Alle'
+  - 'Thema 2: Durch Hitze Lebensmittel länger haltbar machen'
   ids: []

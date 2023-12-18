@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Überraschung für Mami
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,17 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/uberraschung-fur-mami/
   shop-id: 6f01485b-a0ca-4779-b7a0-fcdc6ca3eacd
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Dicke Luft
+  - Ein Experte aus Paris
+  - Bernhard wird zum Hahn
+  - Oder vielleicht Yoga-
+  - Zwei Verrückte
+  - Mike Muscles
+  - Fitness ohne Ende
+  - Das Chaos ist perfekt
+  - Oma Grete schnell herbei!
+  - Alle wieder weg
+  - Friede, Freude, Streuselkuchen
   ids: []

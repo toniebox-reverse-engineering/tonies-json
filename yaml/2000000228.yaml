@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: im Dschungel
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/im-dschungel/
   shop-id: 541f3b03-05f3-44b1-8c20-c1bc6d098d8d
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Bibi allein zu Haus
+  - Auf dem Dachboden
+  - Im Hexendschungel
+  - Nashorn mit Zorn
+  - Schnatt, Schniebelhut und Bienenbein
+  - Streitlustige Forscher
+  - Gehexte Leckereien
+  - Turbulente Floßfahrt
+  - Flug über den Wasserfall
+  - Das aufgeschlagene Buch
+  - Von Mami zurückgehext
+  - Nächtlicher Presserummel
   ids: []

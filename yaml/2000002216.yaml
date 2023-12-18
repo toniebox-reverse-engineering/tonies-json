@@ -4,9 +4,9 @@ data:
 - series: Die kleine Schnecke Monika Häuschen
   series-id: die-kleine-schnecke-monika-haeuschen
   episode: Warum waschen Waschbären?
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,37 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/die-kleine-schnecke-monika-haeuschen/warum-waschen-waschbaren/
   shop-id: 7d460a9c-5d8a-4cfa-a580-889a9c0f6478
-  track-desc: []
+  track-desc:
+  - Die kleine Schnecke Monika Häuschen - Titellied
+  - Warum waschen Waschbären? - Teil 01
+  - Warum waschen Waschbären? - Teil 02
+  - Warum waschen Waschbären? - Teil 03
+  - Warum waschen Waschbären? - Teil 04
+  - Warum waschen Waschbären? - Teil 05
+  - Warum waschen Waschbären? - Teil 06
+  - Warum waschen Waschbären? - Teil 07
+  - Warum waschen Waschbären? - Teil 08
+  - Warum waschen Waschbären? - Teil 09
+  - Warum waschen Waschbären? - Teil 10
+  - Warum waschen Waschbären? - Teil 11
+  - Warum waschen Waschbären? - Teil 12
+  - Warum waschen Waschbären? - Teil 13
+  - Warum waschen Waschbären? - Teil 14
+  - Warum waschen Waschbären? - Teil 15
+  - Warum waschen Waschbären? - Teil 16
+  - Warum waschen Waschbären? - Teil 17
+  - Warum waschen Waschbären? - Teil 18
+  - Warum waschen Waschbären? - Teil 19
+  - Warum waschen Waschbären? - Teil 20
+  - Warum waschen Waschbären? - Teil 21
+  - Warum waschen Waschbären? - Teil 22
+  - Warum waschen Waschbären? - Teil 23
+  - Warum waschen Waschbären? - Teil 24
+  - Warum waschen Waschbären? - Teil 25
+  - Warum waschen Waschbären? - Teil 26
+  - Warum waschen Waschbären? - Teil 27
+  - Warum waschen Waschbären? - Teil 28
+  - Warum waschen Waschbären? - Teil 29
+  - Warum waschen Waschbären? - Teil 30
+  - Warum waschen Waschbären? - Teil 31
   ids: []

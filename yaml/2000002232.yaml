@@ -4,9 +4,9 @@ data:
 - series: Die Schule der magischen Tiere
   series-id: die-schule-der-magischen-tiere
   episode: Voll verknallt!
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,58 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/die-schule-der-magischen-tiere/voll-verknallt/
   shop-id: d5c6c146-cbf4-483d-bc66-f979cd6f3cc9
-  track-desc: []
+  track-desc:
+  - Voll verknallt!
+  - Titellied Willkommen in der Schule der magischen Tiere
+  - '08: Voll verknallt! - Teil 01'
+  - '08: Voll verknallt! - Teil 02'
+  - '08: Voll verknallt! - Teil 03'
+  - '08: Voll verknallt! - Teil 04'
+  - '08: Voll verknallt! - Teil 05'
+  - '08: Voll verknallt! - Teil 06'
+  - '08: Voll verknallt! - Teil 07'
+  - '08: Voll verknallt! - Teil 08'
+  - '08: Voll verknallt! - Teil 09'
+  - '08: Voll verknallt! - Teil 10'
+  - '08: Voll verknallt! - Teil 11'
+  - '08: Voll verknallt! - Teil 12'
+  - '08: Voll verknallt! - Teil 13'
+  - '08: Voll verknallt! - Teil 14'
+  - '08: Voll verknallt! - Teil 15'
+  - '08: Voll verknallt! - Teil 16'
+  - '08: Voll verknallt! - Teil 17'
+  - '08: Voll verknallt! - Teil 18'
+  - '08: Voll verknallt! - Teil 19'
+  - '08: Voll verknallt! - Teil 20'
+  - '08: Voll verknallt! - Teil 21'
+  - '08: Voll verknallt! - Teil 22'
+  - '08: Voll verknallt! - Teil 23'
+  - '08: Voll verknallt! - Teil 24'
+  - '08: Voll verknallt! - Teil 25'
+  - '08: Voll verknallt! - Teil 26'
+  - '08: Voll verknallt! - Teil 27'
+  - '08: Voll verknallt! - Teil 28'
+  - '08: Voll verknallt! - Teil 29'
+  - '08: Voll verknallt! - Teil 30'
+  - '08: Voll verknallt! - Teil 31'
+  - '08: Voll verknallt! - Teil 32'
+  - '08: Voll verknallt! - Teil 33'
+  - '08: Voll verknallt! - Teil 34'
+  - '08: Voll verknallt! - Teil 35'
+  - '08: Voll verknallt! - Teil 36'
+  - '08: Voll verknallt! - Teil 37'
+  - '08: Voll verknallt! - Teil 38'
+  - '08: Voll verknallt! - Teil 39'
+  - '08: Voll verknallt! - Teil 40'
+  - '08: Voll verknallt! - Teil 41'
+  - '08: Voll verknallt! - Teil 42'
+  - '08: Voll verknallt! - Teil 43'
+  - '08: Voll verknallt! - Teil 44'
+  - '08: Voll verknallt! - Teil 45'
+  - '08: Voll verknallt! - Teil 46'
+  - '08: Voll verknallt! - Teil 47'
+  - '08: Voll verknallt! - Teil 48'
+  - '08: Voll verknallt! - Teil 49'
+  - '08: Voll verknallt! - Teil 50'
+  - Willkommen in der Schule der magischen Tiere
   ids: []

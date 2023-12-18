@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: wird entführt
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,15 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/wird-entfuhrt/
   shop-id: 26eddb6b-d7db-4562-abc4-c927ace66031
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Eltern merken alles
+  - Dreimal bestraft
+  - Ein seltsames Loch
+  - Bibi wird entführt
+  - Geheime Pläne
+  - Lösegeld für Bibi
+  - Aus Spiel wird Ernst
+  - Unverhoffte Hilfe
+  - In die Falle getappt
   ids: []

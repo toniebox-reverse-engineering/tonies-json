@@ -4,9 +4,9 @@ data:
 - series: Feuerwehrmann Sam
   series-id: feuerwehrmann-sam
   episode: Einsatz in den Bergen
-  release: 0
+  release: 1641427200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,23 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/feuerwehrmann-sam/einsatz-den-bergen/
   shop-id: 54132fd3-9b86-4751-8524-01b68df21e39
-  track-desc: []
+  track-desc:
+  - Gwendolyns Millionster Kunde Teil 1
+  - Gwendolyns Millionster Kunde Teil 2
+  - Gwendolyns Millionster Kunde Teil 3
+  - Norman Erobert Jupiter Teil 1
+  - Norman Erobert Jupiter Teil 2
+  - Norman Erobert Jupiter Teil 3
+  - Elvis Und Die Riesengitarre Teil 1
+  - Elvis Und Die Riesengitarre Teil 2
+  - Elvis Und Die Riesengitarre Teil 3
+  - Großes Tamtam Für Den Neuen Bahnhof Teil 1
+  - Großes Tamtam Für Den Neuen Bahnhof Teil 2
+  - Großes Tamtam Für Den Neuen Bahnhof Teil 3
+  - Verschollen Auf Dem Pontypandy-Berg Teil 1
+  - Verschollen Auf Dem Pontypandy-Berg Teil 2
+  - Verschollen Auf Dem Pontypandy-Berg Teil 3
+  - Gefahr Im Pontypandy-Express Teil 1
+  - Gefahr Im Pontypandy-Express Teil 2
+  - Gefahr Im Pontypandy-Express Teil 3
   ids: []

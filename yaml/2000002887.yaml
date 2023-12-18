@@ -4,9 +4,9 @@ data:
 - series: Feuerwehrmann Sam
   series-id: feuerwehrmann-sam
   episode: Falscher Alarm
-  release: 0
+  release: 1641427200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,20 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/feuerwehrmann-sam/falscher-alarm/
   shop-id: 58b36087-fe9d-4ad1-af63-6cce19bb0bea
-  track-desc: []
+  track-desc:
+  - Falscher Alarm Teil 1
+  - Falscher Alarm Teil 2
+  - Falscher Alarm Teil 3
+  - Norman Der Rennfahrer Teil 1
+  - Norman Der Rennfahrer Teil 2
+  - Norman Der Rennfahrer Teil 3
+  - Eine Klebrige Angelegenheit Teil 1
+  - Eine Klebrige Angelegenheit Teil 2
+  - Eine Klebrige Angelegenheit Teil 3
+  - Ein Weihnachtsmann Auf Abwegen Teil 1
+  - Ein Weihnachtsmann Auf Abwegen Teil 2
+  - Ein Weihnachtsmann Auf Abwegen Teil3
+  - Busfahrt Mit Hindernissen Teil 1
+  - Busfahrt Mit Hindernissen Teil 2
+  - Busfahrt Mit Hindernissen Teil 3
   ids: []

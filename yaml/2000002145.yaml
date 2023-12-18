@@ -4,9 +4,9 @@ data:
 - series: Conni
   series-id: conni
   episode: Conni und die Detektive
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
@@ -14,5 +14,40 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/conni/conni-und-die-detektive/
   shop-id: 508a54b4-45e1-483e-bc57-08c73ab72a6e
-  track-desc: []
+  track-desc:
+  - Meine beste Freundin Conni
+  - Conni und die Detekive - Teil 01
+  - Conni und die Detekive - Teil 02
+  - Conni und die Detekive - Teil 03
+  - Conni und die Detekive - Teil 04
+  - Conni und die Detekive - Teil 05
+  - Conni und die Detekive - Teil 06
+  - Conni und die Detekive - Teil 07
+  - Conni und die Detekive - Teil 08
+  - Conni und die Detekive - Teil 09
+  - Conni und die Detekive - Teil 10
+  - Conni und die Detekive - Teil 11
+  - Conni und die Detekive - Teil 12
+  - Conni und die Detekive - Teil 13
+  - Conni und die Detekive - Teil 14
+  - Conni und die Detekive - Teil 15
+  - Conni und die Detekive - Teil 16
+  - Conni und die Detekive - Teil 17
+  - Conni und die Detekive - Teil 18
+  - Conni und die Detekive - Teil 19
+  - Conni und die Detekive - Teil 20
+  - Conni und die Detekive - Teil 21
+  - Conni und die Detekive - Teil 22
+  - Conni und die Detekive - Teil 23
+  - Conni und die Detekive - Teil 24
+  - Conni und die Detekive - Teil 25
+  - Conni und die Detekive - Teil 26
+  - Conni und die Detekive - Teil 27
+  - Conni und die Detekive - Teil 28
+  - Conni und die Detekive - Teil 29
+  - Conni und die Detekive - Teil 30
+  - Conni und die Detekive - Teil 31
+  - Conni und die Detekive - Teil 32
+  - Conni und die Detekive - Teil 33
+  - Meine beste Freundin Conni
   ids: []

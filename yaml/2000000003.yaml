@@ -4,9 +4,9 @@ data:
 - series: Benjamin Blümchen
   series-id: benjamin-bluemchen
   episode: als Bäcker
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/als-backer/
   shop-id: ac5b7a4c-5e0e-4523-8b56-46a2481d7a60
-  track-desc: []
+  track-desc:
+  - Titellied
+  - Keine Brötchen für Herrn Tierlieb
+  - Besuch bei Manni
+  - Morgenstund` hat Gold im Mund
+  - Zu Frau Kolumna
+  - Vollkorn statt Weißmehl
+  - Bei der Polizei
+  - Benjamins Plan
+  - An die Arbeit
+  - Backen wie die Weltmeister
+  - Karla voll in Fahrt
+  - Überraschung zum Geburtstag
+  - Ein Brötchen für Erwin
   ids: []

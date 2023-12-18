@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Die Lipizzaner
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/die-lipizzaner/
   shop-id: e2b6dc0d-2ec2-49e8-b010-892c94ad38a9
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Eine spannende Entdeckung
+  - Lipizzaner!
+  - Prominente Vierbeiner
+  - Neuigkeiten
+  - Ein seltsamer Besucher
+  - Das Telefonat
+  - Rätselraten um den Leutnant
+  - In Bibis und Tinas Zimmer
+  - Am nächsten Tag
+  - Der doppelte Esterhazy
+  - Verfolgungsjagd mi Tücken
+  - Bühne frei!
   ids: []

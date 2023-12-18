@@ -4,9 +4,9 @@ data:
 - series: Die Schule der magischen Tiere
   series-id: die-schule-der-magischen-tiere
   episode: Wilder, wilder Wald!
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,49 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/die-schule-der-magischen-tiere/wilder-wilder-wald/
   shop-id: bf4d98c0-278e-4aac-88f2-22f45e5b34ae
-  track-desc: []
+  track-desc:
+  - Wilder, wilder Wald! - Intro
+  - Wilder, wilder Wald! - Teil 01
+  - Wilder, wilder Wald! - Teil 02
+  - Wilder, wilder Wald! - Teil 03
+  - Wilder, wilder Wald! - Teil 04
+  - Wilder, wilder Wald! - Teil 05
+  - Wilder, wilder Wald! - Teil 06
+  - Wilder, wilder Wald! - Teil 07
+  - Wilder, wilder Wald! - Teil 08
+  - Wilder, wilder Wald! - Teil 09
+  - Wilder, wilder Wald! - Teil 10
+  - Wilder, wilder Wald! - Teil 11
+  - Wilder, wilder Wald! - Teil 12
+  - Wilder, wilder Wald! - Teil 13
+  - Wilder, wilder Wald! - Teil 14
+  - Wilder, wilder Wald! - Teil 15
+  - Wilder, wilder Wald! - Teil 16
+  - Wilder, wilder Wald! - Teil 17
+  - Wilder, wilder Wald! - Teil 18
+  - Wilder, wilder Wald! - Teil 19
+  - Wilder, wilder Wald! - Teil 20
+  - Wilder, wilder Wald! - Teil 21
+  - Wilder, wilder Wald! - Teil 22
+  - Wilder, wilder Wald! - Teil 23
+  - Wilder, wilder Wald! - Teil 24
+  - Wilder, wilder Wald! - Teil 25
+  - Wilder, wilder Wald! - Teil 26
+  - Wilder, wilder Wald! - Teil 27
+  - Wilder, wilder Wald! - Teil 28
+  - Wilder, wilder Wald! - Teil 29
+  - Wilder, wilder Wald! - Teil 30
+  - Wilder, wilder Wald! - Teil 31
+  - Wilder, wilder Wald! - Teil 32
+  - Wilder, wilder Wald! - Teil 33
+  - Wilder, wilder Wald! - Teil 34
+  - Wilder, wilder Wald! - Teil 35
+  - Wilder, wilder Wald! - Teil 36
+  - Wilder, wilder Wald! - Teil 37
+  - Wilder, wilder Wald! - Teil 38
+  - Wilder, wilder Wald! - Teil 39
+  - Wilder, wilder Wald! - Teil 40
+  - Wilder, wilder Wald! - Teil 41
+  - Wilder, wilder Wald! - Teil 42
+  - Willkommen in der Schule der magischen Tiere
   ids: []

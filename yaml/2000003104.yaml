@@ -4,9 +4,9 @@ data:
 - series: Sternenschweif
   series-id: sternenschweif
   episode: 'Teil 53: Magisches Einhorntunier'
-  release: 0
+  release: 1649808000
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,35 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/sternenschweif/teil-53-magisches-einhorntunier/
   shop-id: 4b0d81d4-68f5-4e5b-bf22-fdfbde830a6a
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
+  - Kapitel 20
+  - Kapitel 21
+  - Kapitel 22
+  - Kapitel 23
+  - Kapitel 24
+  - Kapitel 25
+  - Kapitel 26
+  - Kapitel 27
+  - Kapitel 28
+  - Kapitel 29
+  - Kapitel 30
   ids: []

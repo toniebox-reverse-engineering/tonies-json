@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: in Amerika
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/in-amerika/
   shop-id: 61f07ee0-287c-4c44-87f3-c2e905641126
-  track-desc: []
+  track-desc:
+  - Titellied
+  - Einladung nach New York
+  - Am Flughafen
+  - Flug über den Atlantik
+  - Ein netter Empfang
+  - Tolle Gastgeber
+  - In Carolyns Zimmer
+  - Hexerei vorm Schlafengehen
+  - Ein Strand im Badezimmer
+  - Auf dem Besen durch Manhattan
+  - Bibi sorgt für Wirbel
+  - In den Nachrichten
+  - Überraschender Besuch
   ids: []

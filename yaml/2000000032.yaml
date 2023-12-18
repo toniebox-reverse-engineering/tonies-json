@@ -4,9 +4,9 @@ data:
 - series: Benjamin Blümchen
   series-id: benjamin-bluemchen
   episode: als Tierarzt
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/als-tierarzt/
   shop-id: b8a3f0a7-b470-4374-8d95-0a9d9fefdca0
-  track-desc: []
+  track-desc:
+  - Lied
+  - Gogo verletzt sich
+  - Dr. Hilfreich fällt aus
+  - Ein neuer Zoobewohner
+  - Ein neuer Tierarzt
+  - Armes Herzilein
+  - Überall Hickserei
+  - Die afrikanische Schluckauf-Krankheit
+  - Freiheit für Herzilein
+  - Hausmittel
+  - Ottos Heilung
+  - Allgemeines Erschrecken
+  - Friede-Freude-Eierkuchen
   ids: []

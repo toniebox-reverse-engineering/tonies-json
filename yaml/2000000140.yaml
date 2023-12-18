@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: als Babysitter
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/als-babysitter/
   shop-id: 06f38db5-dda1-4789-93db-b981d985bfb9
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Mehr Taschengeld
+  - Frau Schaller braucht Hilfe
+  - Kleine Nervensägen
+  - Lauter Notfälle
+  - Der Wachstums-Hexspruch
+  - Doppelt so alt
+  - Die Zwillinge reißen aus
+  - Trubel in Neustadt
+  - Auf dem Polizeirevier
+  - Bibis verzweifelte Suche
+  - Mami greift ein
+  - Frau Schaller ist zufrieden
   ids: []

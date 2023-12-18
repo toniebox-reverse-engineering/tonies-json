@@ -4,9 +4,9 @@ data:
 - series: Conni
   series-id: conni
   episode: Conni macht einen Ausflug / Conni geht auf Reisen
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,38 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/conni/conni-macht-einen-ausflug-conni-geht-auf-reisen/
   shop-id: f92fa08e-57a8-45d8-ada9-72012da88666
-  track-desc: []
+  track-desc:
+  - Meine beste Freundin Conni
+  - Conni macht einen Ausflug - Teil 01
+  - Conni macht einen Ausflug - Teil 02
+  - Conni macht einen Ausflug - Teil 03
+  - Conni macht einen Ausflug - Teil 04
+  - Conni macht einen Ausflug - Teil 05
+  - Conni macht einen Ausflug - Teil 06
+  - Conni macht einen Ausflug - Teil 07
+  - Conni macht einen Ausflug - Teil 08
+  - Conni macht einen Ausflug - Teil 09
+  - Conni macht einen Ausflug - Teil 10
+  - Conni macht einen Ausflug - Teil 11
+  - Conni macht einen Ausflug - Teil 12
+  - Conni macht einen Ausflug - Teil 13
+  - Conni geht auf Reisen - Teil 01
+  - Conni geht auf Reisen - Teil 02
+  - Conni geht auf Reisen - Teil 03
+  - Conni geht auf Reisen - Teil 04
+  - Conni geht auf Reisen - Teil 05
+  - Conni geht auf Reisen - Teil 06
+  - Conni geht auf Reisen - Teil 07
+  - Conni geht auf Reisen - Teil 08
+  - Conni geht auf Reisen - Teil 09
+  - Conni geht auf Reisen - Teil 10
+  - Conni geht auf Reisen - Teil 11
+  - Conni geht auf Reisen - Teil 12
+  - Conni geht auf Reisen - Teil 13
+  - Conni geht auf Reisen - Teil 14
+  - Conni geht auf Reisen - Teil 15
+  - Conni geht auf Reisen - Teil 16
+  - Conni geht auf Reisen - Teil 17
+  - Conni geht auf Reisen - Teil 18
+  - Meine beste Freundin Conni
   ids: []

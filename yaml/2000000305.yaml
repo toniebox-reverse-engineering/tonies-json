@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Das Zirkuspony
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,13 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/das-zirkuspony/
   shop-id: 4ade8db0-67a2-490f-af6b-0181937ac925
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Snoopys Rettung
+  - Zirkus Rondelli
+  - Ärger mit dem Zirkuspony
+  - Snoopy wird entführt
+  - Auf der Suche
+  - Rondelli lügt!
+  - Die Wahrheit kommt raus
   ids: []

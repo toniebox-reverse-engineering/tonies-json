@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 30: Pumuckl und die Kartenspieler'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,22 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-und-die-kartenspieler-das-original-aus-dem/
   shop-id: 079b9ca5-9226-4ce7-8e20-482a2072f808
-  track-desc: []
+  track-desc:
+  - Pumuckl und die Kartenspieler - Teil 01
+  - Pumuckl und die Kartenspieler - Teil 02
+  - Pumuckl und die Kartenspieler - Teil 03
+  - Pumuckl und die Kartenspieler - Teil 04
+  - Pumuckl und die Kartenspieler - Teil 05
+  - Pumuckl und die Kartenspieler - Teil 06
+  - Pumuckl und die Kartenspieler - Teil 07
+  - Pumuckl und die Kartenspieler - Teil 08
+  - Pumuckl und die Kartenspieler - Teil 09
+  - Pumuckl und die Kartenspieler - Teil 10
+  - Pumuckl und die Kartenspieler - Teil 11
+  - Pumuckl und die Kartenspieler - Teil 12
+  - Pumuckl und die Kartenspieler - Teil 13
+  - Pumuckl und die Kartenspieler - Teil 14
+  - Pumuckl und die Kartenspieler - Teil 15
+  - Pumuckl und die Kartenspieler - Teil 16
+  - Pumuckl und die Kartenspieler - Teil 17
   ids: []

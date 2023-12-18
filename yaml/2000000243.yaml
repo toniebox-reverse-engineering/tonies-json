@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Oma Grete in Gefahr
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/oma-grete-in-gefahr/
   shop-id: bc9df176-c744-40bc-9799-5407ad3e9a46
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Pickelalarm!
+  - Oma Gretes Hexlabor
+  - Die Papula-Ex-Tinktur
+  - Ein falscher Hexspruch
+  - Malicias verrückter Plan
+  - Bibi und Flauipaui in Sorge
+  - Eine List schlägt fehlt
+  - Safran wird entführt
+  - In der Tropfsteinhöhle
+  - Zweimal das gleiche Ziel
+  - Malicias Auftritt
+  - Bibi greift ein
+  - Oma Grete wird befreit-
   ids: []

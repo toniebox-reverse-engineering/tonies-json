@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Das Wettfliegen
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/das-wettfliegen/
   shop-id: 6a60f014-70ed-4404-a521-a1155f1b07ec
-  track-desc: []
+  track-desc:
+  - Bibi Song
+  - Ein unbekanntes Flugobjekt
+  - Konkurrenten
+  - Keine Diskussion!
+  - In Eddies Erfinderwerkstatt
+  - Wettkampfvorbereitungen
+  - Gute Nacht
+  - Saboteure
+  - Alles startklar !
+  - Bibis Hexenehrenwort
+  - Turbulenzen
+  - Baron in Not
+  - Ein unerwarteter Sieger
+  - Flug mit goldenem Propeller
   ids: []

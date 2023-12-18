@@ -1,0 +1,29 @@
+article: '2000010614'
+lock-data: false
+data:
+- series: Nijntjes avonturen, groot en klein
+  series-id: nijntjes-avonturen
+  episode: Nijntje en vriendjes
+  release: 0
+  language: nl-nl
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_5c2330e104352baeec33a2a60d51b7df980fd4e2b3f1626545011a43/3_-88p5M2Gc9sn5VGz/nijntjes_avonturen_nijntje_en_vriendjes_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/abef25eec947b5f9b15990613895420992d0e1c73366de12433caef4/audiosample_nijntje.wav
+  web: https://tonies.com/de-de/audio-content/nijntjes-avonturen/nijntje/
+  shop-id: c2879698-5bee-4824-b6f4-16287788225e
+  track-desc:
+  - Nijntje Intro
+  - Nijntje en de plassen
+  - Nijntje en de draak
+  - Nijntje en de vogel
+  - Nijntje wordt boer
+  - Nijntje en de tenniswedstrijd
+  - Nijntje de fee
+  - Knorretje de ballerina
+  - Nijntje en de bladeren
+  - Het kampeeravontuur van nijntje
+  - De kar van nijntje
+  ids: []

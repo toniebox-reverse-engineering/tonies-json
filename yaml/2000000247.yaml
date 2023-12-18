@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: reißt aus
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/reit-aus/
   shop-id: b2d4b87a-fe66-40f1-91c2-8d4860ccd3ad
-  track-desc: []
+  track-desc:
+  - Titellied
+  - Schwarzer Tag für Bibi
+  - Jetzt reicht’s
+  - Bibi reißt aus
+  - Im Stall mit Tommy
+  - Wieder zu Hause
+  - Ein aufregender Plan
+  - Der Ausreißerbauernhof
+  - Besuch beim Bürgermeister
+  - Überzeugungshexereien
+  - Die Genehmigung
+  - Eine Riesensensation
+  - Kleine Handwerker
+  - Kein Zutritt für Erwachsene
   ids: []

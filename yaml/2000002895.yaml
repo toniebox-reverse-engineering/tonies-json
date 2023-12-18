@@ -4,9 +4,9 @@ data:
 - series: Feuerwehrmann Sam
   series-id: feuerwehrmann-sam
   episode: Helden auf dem Wasser
-  release: 0
+  release: 1641427200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,20 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/feuerwehrmann-sam/helden-auf-dem-wasser/
   shop-id: ed78f34b-6ef4-4053-9335-14ea8e1641ba
-  track-desc: []
+  track-desc:
+  - Mandy In Seenot Teil 1
+  - Mandy In Seenot Teil 2
+  - Mandy In Seenot Teil 3
+  - Dilys, Die Seeplage Teil 1
+  - Dilys, Die Seeplage Teil 2
+  - Dilys, Die Seeplage Teil 3
+  - Brüder Durch Dick Und Dünn Teil 1
+  - Brüder Durch Dick Und Dünn Teil 2
+  - Brüder Durch Dick Und Dünn Teil 3
+  - Lily Ist Verschwunden Teil 1
+  - Lily Ist Verschwunden Teil 2
+  - Lily Ist Verschwunden Teil 3
+  - Auf, Auf Und Davon! Teil 1
+  - Auf, Auf Und Davon! Teil 2
+  - Auf, Auf Und Davon! Teil 3
   ids: []

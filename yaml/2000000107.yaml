@@ -4,9 +4,9 @@ data:
 - series: Benjamin Blümchen
   series-id: benjamin-bluemchen
   episode: Meine schönsten Lieder
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,17 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/meine-schonsten-lieder/
   shop-id: 0ca2962e-15b8-4e20-b5a9-d3f614db5967
-  track-desc: []
+  track-desc:
+  - Ramba Zamba
+  - Ich bin der Butler Benjamin
+  - '''ne Ballonfahrt,die ist luftig'
+  - Wo ist Otto?
+  - Das Steinzeitlied
+  - Törööö, die Feuerwehr
+  - Der Bauerntanz
+  - Heut kocht für uns ein Elefant
+  - Wir sausen durch das Wolkenmeer
+  - Ritter Benjamin
+  - Hallo, Taxi!
+  - Auf hoher See
   ids: []

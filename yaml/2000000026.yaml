@@ -4,9 +4,9 @@ data:
 - series: Benjamin Blümchen
   series-id: benjamin-bluemchen
   episode: als Polizist
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/als-polizist/
   shop-id: fc529f9b-8d1a-4c2b-93cb-57f25d252a6a
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Die Polizei braucht Hilfe
+  - Neue Polizisten
+  - Der Rüssel-Rüffel
+  - Falsch geholfen
+  - Bürgermeister aus dem Häuschen
+  - Lukas und sein Hoppel
+  - Hilfe, der Gemüsedieb!
+  - Lukas war‘s nicht
+  - Die Blumen-Raser-Bremse
+  - Karla unter Verdacht
+  - Wo ist Hoppel-
+  - Des Rätsels Lösung
   ids: []

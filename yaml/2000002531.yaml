@@ -4,9 +4,9 @@ data:
 - series: Rund um die Welt mit Fuchs und Schaf
   series-id: rund-um-die-welt-mit-fuchs-und-schaf
   episode: Ottawa
-  release: 0
+  release: 1623888000
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,9 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/rund-um-die-welt-mit-fuchs-und-schaf/ottawa/
   shop-id: b89f29ef-9993-47f0-a3c8-9bbba18bb258
-  track-desc: []
+  track-desc:
+  - Titelsong „Rund um die Welt“
+  - “Heiko!”
+  - Der Chaos-Garten
+  - Zusammen schaffen wir das
   ids: []

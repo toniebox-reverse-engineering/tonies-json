@@ -4,9 +4,9 @@ data:
 - series: Sternenschweif
   series-id: sternenschweif
   episode: 'Teil 21: Magische Kräfte'
-  release: 0
+  release: 1649808000
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,17 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/sternenschweif/teil-21-magische-krafte/
   shop-id: d3b60379-cf4b-43f6-80ff-68d55d10c037
-  track-desc: []
+  track-desc:
+  - Kpaitel 1
+  - Kpaitel 2
+  - Kpaitel 3
+  - Kpaitel 4
+  - Kpaitel 5
+  - Kpaitel 6
+  - Kpaitel 7
+  - Kpaitel 8
+  - Kpaitel 9
+  - Kpaitel 10
+  - Kpaitel 11
+  - Kpaitel 12
   ids: []

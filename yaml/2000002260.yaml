@@ -5,9 +5,9 @@ data:
   series-id: meine-freundin-conni
   episode: Conni beim Frisör / Conni auf Waldsafari / Conni auf der Burg / Conni und
     das Froschkonzert (Vier Hörspiele zur TV-Serie)
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -15,5 +15,40 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/meine-freundin-conni/conni-beim-frisor-conni-auf-waldsafari-conni-auf-d/
   shop-id: 688fe48f-f081-4722-ad9d-249934ab1110
-  track-desc: []
+  track-desc:
+  - Intro Theme Song "Meine Freundin Conni"
+  - Conni beim Frisör - Teil 01
+  - Conni beim Frisör - Teil 02
+  - Conni beim Frisör - Teil 03
+  - Conni beim Frisör - Teil 04
+  - Conni beim Frisör - Teil 05
+  - Conni beim Frisör - Teil 06
+  - Conni beim Frisör - Teil 07
+  - Conni beim Frisör - Teil 08
+  - Conni auf Waldsafari - Teil 01
+  - Conni auf Waldsafari - Teil 02
+  - Conni auf Waldsafari - Teil 03
+  - Conni auf Waldsafari - Teil 04
+  - Conni auf Waldsafari - Teil 05
+  - Conni auf Waldsafari - Teil 06
+  - Conni auf Waldsafari - Teil 07
+  - Conni auf Waldsafari - Teil 08
+  - Conni auf der Burg - Teil 01
+  - Conni auf der Burg - Teil 02
+  - Conni auf der Burg - Teil 03
+  - Conni auf der Burg - Teil 04
+  - Conni auf der Burg - Teil 05
+  - Conni auf der Burg - Teil 06
+  - Conni auf der Burg - Teil 07
+  - Conni auf der Burg - Teil 08
+  - Conni auf der Burg - Teil 09
+  - Conni auf der Burg - Teil 10
+  - Conni und das Froschkonzert - Teil 01
+  - Conni und das Froschkonzert - Teil 02
+  - Conni und das Froschkonzert - Teil 03
+  - Conni und das Froschkonzert - Teil 04
+  - Conni und das Froschkonzert - Teil 05
+  - Conni und das Froschkonzert - Teil 06
+  - Conni und das Froschkonzert - Teil 07
+  - Conni und das Froschkonzert - Teil 08
   ids: []

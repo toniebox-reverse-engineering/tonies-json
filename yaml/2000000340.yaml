@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Eine Freundin für Felix
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,15 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/eine-freundin-fur-felix/
   shop-id: 872d97f5-cf9c-4b49-8203-6f242d619b8d
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Wettreiten mit Felix
+  - Ankunft von Fatima
+  - Bibis und Tinas Idee
+  - Der gestrenge Herr Graf
+  - Fatima soll weg
+  - Informationen von Jakob
+  - Bibi und Tina greifen ein
+  - Alex hilft
+  - Happy End!
   ids: []

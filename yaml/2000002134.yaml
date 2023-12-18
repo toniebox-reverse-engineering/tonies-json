@@ -4,9 +4,9 @@ data:
 - series: Conni
   series-id: conni
   episode: Conni und das Klassencamp
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,45 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/conni/conni-und-das-klassencamp/
   shop-id: d0000179-0406-4cda-8fd8-b7616a8d5341
-  track-desc: []
+  track-desc:
+  - Meine beste Freundin Conni
+  - Conni und das Klassencamp - Teil 01
+  - Conni und das Klassencamp - Teil 02
+  - Conni und das Klassencamp - Teil 03
+  - Conni und das Klassencamp - Teil 04
+  - Conni und das Klassencamp - Teil 05
+  - Conni und das Klassencamp - Teil 06
+  - Conni und das Klassencamp - Teil 07
+  - Conni und das Klassencamp - Teil 08
+  - Conni und das Klassencamp - Teil 09
+  - Conni und das Klassencamp - Teil 10
+  - Conni und das Klassencamp - Teil 11
+  - Conni und das Klassencamp - Teil 12
+  - Conni und das Klassencamp - Teil 13
+  - Conni und das Klassencamp - Teil 14
+  - Conni und das Klassencamp - Teil 15
+  - Conni und das Klassencamp - Teil 16
+  - Conni und das Klassencamp - Teil 17
+  - Conni und das Klassencamp - Teil 18
+  - Conni und das Klassencamp - Teil 19
+  - Conni und das Klassencamp - Teil 20
+  - Conni und das Klassencamp - Teil 21
+  - Conni und das Klassencamp - Teil 22
+  - Conni und das Klassencamp - Teil 23
+  - Conni und das Klassencamp - Teil 24
+  - Conni und das Klassencamp - Teil 25
+  - Conni und das Klassencamp - Teil 26
+  - Conni und das Klassencamp - Teil 27
+  - Conni und das Klassencamp - Teil 28
+  - Conni und das Klassencamp - Teil 29
+  - Conni und das Klassencamp - Teil 30
+  - Conni und das Klassencamp - Teil 31
+  - Conni und das Klassencamp - Teil 32
+  - Conni und das Klassencamp - Teil 33
+  - Conni und das Klassencamp - Teil 34
+  - Conni und das Klassencamp - Teil 35
+  - Conni und das Klassencamp - Teil 36
+  - Conni und das Klassencamp - Teil 37
+  - Conni und das Klassencamp - Teil 38
+  - Meine beste Freundin Conni
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Der Hexenball
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,20 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/der-hexenball/
   shop-id: fe2a0e7e-ea52-4afa-9cef-6a69e8ef6336
-  track-desc: []
+  track-desc:
+  - Titelmusik
+  - Hexenball nein danke!
+  - Total verrückte Mode
+  - Karlas Kontakte
+  - Überraschender Besuch
+  - Mode-Hexereien
+  - Neue Kleider
+  - Die Verwandlung
+  - Viele Feuerproben
+  - Auf dem Blocksberg
+  - Hinter den Kulissen
+  - Die Modenschau
+  - Ein Meisterstück
+  - Originella fliegt auf
+  - Der Hexenball
   ids: []

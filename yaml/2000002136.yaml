@@ -4,9 +4,9 @@ data:
 - series: Conni
   series-id: conni
   episode: Conni und das Ponyabenteuer
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
@@ -14,5 +14,42 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/conni/conni-und-das-ponyabenteuer/
   shop-id: 2f6af1e2-35ac-4662-86b6-9a9c8d5b7e00
-  track-desc: []
+  track-desc:
+  - Meine beste Freundin Conni
+  - Conni und das Ponyabenteuer - Teil 01
+  - Conni und das Ponyabenteuer - Teil 02
+  - Conni und das Ponyabenteuer - Teil 03
+  - Conni und das Ponyabenteuer - Teil 04
+  - Conni und das Ponyabenteuer - Teil 05
+  - Conni und das Ponyabenteuer - Teil 06
+  - Conni und das Ponyabenteuer - Teil 07
+  - Conni und das Ponyabenteuer - Teil 08
+  - Conni und das Ponyabenteuer - Teil 09
+  - Conni und das Ponyabenteuer - Teil 10
+  - Conni und das Ponyabenteuer - Teil 11
+  - Conni und das Ponyabenteuer - Teil 12
+  - Conni und das Ponyabenteuer - Teil 13
+  - Conni und das Ponyabenteuer - Teil 14
+  - Conni und das Ponyabenteuer - Teil 15
+  - Conni und das Ponyabenteuer - Teil 16
+  - Conni und das Ponyabenteuer - Teil 17
+  - Conni und das Ponyabenteuer - Teil 18
+  - Conni und das Ponyabenteuer - Teil 19
+  - Conni und das Ponyabenteuer - Teil 20
+  - Conni und das Ponyabenteuer - Teil 21
+  - Conni und das Ponyabenteuer - Teil 22
+  - Conni und das Ponyabenteuer - Teil 23
+  - Conni und das Ponyabenteuer - Teil 24
+  - Conni und das Ponyabenteuer - Teil 25
+  - Conni und das Ponyabenteuer - Teil 26
+  - Conni und das Ponyabenteuer - Teil 27
+  - Conni und das Ponyabenteuer - Teil 28
+  - Conni und das Ponyabenteuer - Teil 29
+  - Conni und das Ponyabenteuer - Teil 30
+  - Conni und das Ponyabenteuer - Teil 31
+  - Conni und das Ponyabenteuer - Teil 32
+  - Conni und das Ponyabenteuer - Teil 33
+  - Conni und das Ponyabenteuer - Teil 34
+  - Conni und das Ponyabenteuer - Teil 35
+  - Meine beste Freundin Conni
   ids: []

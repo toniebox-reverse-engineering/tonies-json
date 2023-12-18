@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Welt der Fische / Wunder der Ozeane
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,28 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/welt-der-fische-wunder-der-ozeane/
   shop-id: 9c093bf0-9cbb-47d8-a826-175044603c74
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Fische'
+  - 'Thema 1: Vielfalt der Fische'
+  - 'Thema 1: Körperbau und -funktionen'
+  - 'Thema 1: Die Schwimmblase'
+  - 'Thema 1: Meeres- und Süßwasserfische'
+  - 'Thema 1: Einfallsreiche Jäger'
+  - 'Thema 1: Die Nahrungskette'
+  - 'Thema 1: Feines Gehör'
+  - 'Thema 1: Die Seitenlinie'
+  - 'Thema 1: Geschmacks- und Geruchssinn'
+  - 'Thema 1: Vom Aussterben bedroht'
+  - 'Thema 2: Meereskunde'
+  - 'Thema 2: Der blaue Planet'
+  - 'Thema 2: Von Meeren und Ozeanen'
+  - 'Thema 2: Forschungsinstrumente in der Meereskunde'
+  - 'Thema 2: Unterseeische Täler und Berge'
+  - 'Thema 2: Meersalz'
+  - 'Thema 2: Wieso ist das Meer blau?'
+  - 'Thema 2: Das Wasserwerk der Erde'
+  - 'Thema 2: Strömungen'
+  - 'Thema 2: Korallenriffe - Heimat vieler Tiere'
+  - 'Thema 2: Von Quallen und Tintenfischen'
+  - 'Thema 2: Licht in der Dunkelheit'
   ids: []

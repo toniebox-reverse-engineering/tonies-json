@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 51: Pumuckl und die Maus'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,20 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-und-die-maus-das-original-aus-dem-fernsehe/
   shop-id: 6256e04d-88c8-430f-82a2-c4d198f3191d
-  track-desc: []
+  track-desc:
+  - Pumuckl und die Maus - Teil 01
+  - Pumuckl und die Maus - Teil 02
+  - Pumuckl und die Maus - Teil 03
+  - Pumuckl und die Maus - Teil 04
+  - Pumuckl und die Maus - Teil 05
+  - Pumuckl und die Maus - Teil 06
+  - Pumuckl und die Maus - Teil 07
+  - Pumuckl und die Maus - Teil 08
+  - Pumuckl und die Maus - Teil 09
+  - Pumuckl und die Maus - Teil 10
+  - Pumuckl und die Maus - Teil 11
+  - Pumuckl und die Maus - Teil 12
+  - Pumuckl und die Maus - Teil 13
+  - Pumuckl und die Maus - Teil 14
+  - Pumuckl und die Maus - Teil 15
   ids: []

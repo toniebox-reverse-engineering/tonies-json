@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Der Hexenfluch
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,20 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/der-hexenfluch/
   shop-id: acb817d7-ae2f-4c24-894c-9d05be245f32
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Hexischer Eilbrief
+  - Zum Blocksberg
+  - Skandal um Mania
+  - Der Hexenfluch
+  - Hexen in Aufruhr
+  - Winter ohne Ende
+  - Mania bleibt verschwunden
+  - Bibi greift ein
+  - Die Spürkatze
+  - In der Berghöhle
+  - Mania gibt nicht nach
+  - Weich gehext
+  - Mania gibt nach
+  - Endlich Frühling
   ids: []

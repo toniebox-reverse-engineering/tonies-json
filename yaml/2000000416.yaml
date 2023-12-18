@@ -4,9 +4,9 @@ data:
 - series: Der kleine Rabe Socke
   series-id: der-kleine-rabe-socke
   episode: Alles meins!, Alles zurückgegeben! Alles fliegt!
-  release: 0
+  release: 1448582400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,32 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/der-kleine-rabe-socke/alles-meins-alles-zuruckgegeben-alles-fliegt/
   shop-id: 12e8959c-bab5-45fe-9ccf-5691a3b6f5a7
-  track-desc: []
+  track-desc:
+  - Alles meins! - Kapitel 1
+  - Alles meins! - Kapitel 2
+  - Alles meins! - Kapitel 3
+  - Alles meins! - Kapitel 4
+  - Alles meins! - Kapitel 5
+  - Alles meins! - Kapitel 6
+  - Alles meins! - Kapitel 7
+  - Alles meins! - Kapitel 8
+  - Alles meins! - Kapitel 9
+  - Alles meins! - Kapitel 10
+  - Alles meins! - Kapitel 11
+  - Alles meins! - Kapitel 12
+  - Alles meins! - Kapitel 13
+  - Alles meins! - Kapitel 14
+  - Alles meins! - Kapitel 15
+  - Alles meins! - Kapitel 16
+  - Alles zurückgegeben! - Kapitel 1
+  - Alles zurückgegeben! - Kapitel 2
+  - Alles zurückgegeben! - Kapitel 3
+  - Alles zurückgegeben! - Kapitel 4
+  - Alles zurückgegeben! - Kapitel 5
+  - Alles fliegt! - Kapitel 1
+  - Alles fliegt! - Kapitel 2
+  - Alles fliegt! - Kapitel 3
+  - Alles fliegt! - Kapitel 4
+  - Alles fliegt! - Kapitel 5
+  - Alles fliegt! - Kapitel 6
   ids: []

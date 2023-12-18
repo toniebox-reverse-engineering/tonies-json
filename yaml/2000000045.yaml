@@ -4,9 +4,9 @@ data:
 - series: Benjamin Blümchen
   series-id: benjamin-bluemchen
   episode: auf Kreuzfahrt
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,17 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/auf-kreuzfahrt/
   shop-id: 1803f2ea-12ec-481f-b10d-765be808f922
-  track-desc: []
+  track-desc:
+  - Titellied
+  - Kreuzfahrt für zwei
+  - Willkommen an Bord
+  - In der Kabine
+  - An Deck
+  - Nichts als Langeweile
+  - Mittagessen im Freien
+  - Benjamin macht Stimmung
+  - Der Eisberg
+  - Benjamin, der Retter
+  - Picknick auf hoher See
+  - Im Heimathafen
   ids: []

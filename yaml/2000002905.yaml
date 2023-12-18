@@ -4,9 +4,9 @@ data:
 - series: Feuerwehrmann Sam
   series-id: feuerwehrmann-sam
   episode: Sams Geburtstag
-  release: 0
+  release: 1641427200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,30 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/feuerwehrmann-sam/sams-geburtstag/
   shop-id: 7f517c95-c344-4e22-a15e-151bf1d15ba6
-  track-desc: []
+  track-desc:
+  - Sams Geburtstag Teil 1
+  - Sams Geburtstag Teil 2
+  - Sams Geburtstag Teil 3
+  - Sams Geburtstag Teil 4
+  - Sams Geburtstag Teil 5
+  - James, Der Pizzabäcker Teil 1
+  - James, Der Pizzabäcker Teil 2
+  - James, Der Pizzabäcker Teil 3
+  - James, Der Pizzabäcker Teil 4
+  - James, Der Pizzabäcker Teil 5
+  - Die Gruselparty Teil 1
+  - Die Gruselparty Teil 2
+  - Die Gruselparty Teil 3
+  - Die Gruselparty Teil 4
+  - Die Gruselparty Teil 5
+  - Das Kajakrennen Teil 1
+  - Das Kajakrennen Teil 2
+  - Das Kajakrennen Teil 3
+  - Das Kajakrennen Teil 4
+  - Das Kajakrennen Teil 5
+  - Das Pontypandy-Parkfest Teil 1
+  - Das Pontypandy-Parkfest Teil 2
+  - Das Pontypandy-Parkfest Teil 3
+  - Das Pontypandy-Parkfest Teil 4
+  - Das Pontypandy-Parkfest Teil 5
   ids: []

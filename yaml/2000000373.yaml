@@ -4,9 +4,9 @@ data:
 - series: Die Olchis
   series-id: die-olchis
   episode: Die Olchis feiern Weihnachten
-  release: 0
+  release: 1167609600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
@@ -14,5 +14,13 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/die-olchis/die-olchis-feiern-weihnachten/
   shop-id: e2c3e936-ddb9-470d-a33c-c3edb868fa3b
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
   ids: []

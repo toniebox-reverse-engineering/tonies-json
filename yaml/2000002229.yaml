@@ -4,9 +4,9 @@ data:
 - series: Die Schule der magischen Tiere
   series-id: die-schule-der-magischen-tiere
   episode: Top oder Flop!
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,60 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/die-schule-der-magischen-tiere/top-oder-flop/
   shop-id: be4b11ae-99a0-472f-9ca1-cdb5bc90f278
-  track-desc: []
+  track-desc:
+  - Top oder Flop!
+  - Titellied Willkommen in der Schule der magischen Tiere
+  - '05: Top oder Flop! - Teil 01'
+  - '05: Top oder Flop! - Teil 02'
+  - '05: Top oder Flop! - Teil 03'
+  - '05: Top oder Flop! - Teil 04'
+  - '05: Top oder Flop! - Teil 05'
+  - '05: Top oder Flop! - Teil 06'
+  - '05: Top oder Flop! - Teil 07'
+  - '05: Top oder Flop! - Teil 08'
+  - '05: Top oder Flop! - Teil 09'
+  - '05: Top oder Flop! - Teil 10'
+  - '05: Top oder Flop! - Teil 11'
+  - '05: Top oder Flop! - Teil 12'
+  - '05: Top oder Flop! - Teil 13'
+  - '05: Top oder Flop! - Teil 14'
+  - '05: Top oder Flop! - Teil 15'
+  - '05: Top oder Flop! - Teil 16'
+  - '05: Top oder Flop! - Teil 17'
+  - '05: Top oder Flop! - Teil 18'
+  - '05: Top oder Flop! - Teil 19'
+  - '05: Top oder Flop! - Teil 20'
+  - '05: Top oder Flop! - Teil 21'
+  - '05: Top oder Flop! - Teil 22'
+  - '05: Top oder Flop! - Teil 23'
+  - '05: Top oder Flop! - Teil 24'
+  - '05: Top oder Flop! - Teil 25'
+  - '05: Top oder Flop! - Teil 26'
+  - '05: Top oder Flop! - Teil 27'
+  - '05: Top oder Flop! - Teil 28'
+  - '05: Top oder Flop! - Teil 29'
+  - '05: Top oder Flop! - Teil 30'
+  - '05: Top oder Flop! - Teil 31'
+  - '05: Top oder Flop! - Teil 32'
+  - '05: Top oder Flop! - Teil 33'
+  - '05: Top oder Flop! - Teil 34'
+  - '05: Top oder Flop! - Teil 35'
+  - '05: Top oder Flop! - Teil 36'
+  - '05: Top oder Flop! - Teil 37'
+  - '05: Top oder Flop! - Teil 38'
+  - '05: Top oder Flop! - Teil 39'
+  - '05: Top oder Flop! - Teil 40'
+  - '05: Top oder Flop! - Teil 41'
+  - '05: Top oder Flop! - Teil 42'
+  - '05: Top oder Flop! - Teil 43'
+  - '05: Top oder Flop! - Teil 44'
+  - '05: Top oder Flop! - Teil 45'
+  - '05: Top oder Flop! - Teil 46'
+  - '05: Top oder Flop! - Teil 47'
+  - '05: Top oder Flop! - Teil 48'
+  - '05: Top oder Flop! - Teil 49'
+  - '05: Top oder Flop! - Teil 50'
+  - '05: Top oder Flop! - Teil 51'
+  - '05: Top oder Flop! - Teil 52'
+  - Willkommen in der Schule der magischen Tiere
   ids: []

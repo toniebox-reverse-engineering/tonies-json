@@ -4,9 +4,9 @@ data:
 - series: Conni & Co
   series-id: conni-co
   episode: Conni & Co - Das Original-Hörspiel zum Kinofilm
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 8
   origin: tunes
@@ -14,5 +14,57 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/conni-co/conni-co-das-original-horspiel-zum-kinofilm/
   shop-id: b13600b7-a79e-4a88-a857-fd0651f2e3f9
-  track-desc: []
+  track-desc:
+  - Conni & Co - Teil 01
+  - Conni & Co - Teil 02
+  - Conni & Co - Teil 03
+  - Conni & Co - Teil 04
+  - Conni & Co - Teil 05
+  - Conni & Co - Teil 06
+  - Conni & Co - Teil 07
+  - Conni & Co - Teil 08
+  - Conni & Co - Teil 09
+  - Conni & Co - Teil 10
+  - Conni & Co - Teil 11
+  - Conni & Co - Teil 12
+  - Conni & Co - Teil 13
+  - Conni & Co - Teil 14
+  - Conni & Co - Teil 15
+  - Conni & Co - Teil 16
+  - Conni & Co - Teil 17
+  - Conni & Co - Teil 18
+  - Conni & Co - Teil 19
+  - Conni & Co - Teil 20
+  - Conni & Co - Teil 21
+  - Conni & Co - Teil 22
+  - Conni & Co - Teil 23
+  - Conni & Co - Teil 24
+  - Conni & Co - Teil 25
+  - Conni & Co - Teil 26
+  - Conni & Co - Teil 27
+  - Conni & Co - Teil 28
+  - Conni & Co - Teil 29
+  - Conni & Co - Teil 30
+  - Conni & Co - Teil 31
+  - Conni & Co - Teil 32
+  - Conni & Co - Teil 33
+  - Conni & Co - Teil 34
+  - Conni & Co - Teil 35
+  - Conni & Co - Teil 36
+  - Conni & Co - Teil 37
+  - Conni & Co - Teil 38
+  - Conni & Co - Teil 39
+  - Conni & Co - Teil 40
+  - Conni & Co - Teil 41
+  - Conni & Co - Teil 42
+  - Conni & Co - Teil 43
+  - Conni & Co - Teil 44
+  - Conni & Co - Teil 45
+  - Conni & Co - Teil 46
+  - Conni & Co - Teil 47
+  - Conni & Co - Teil 48
+  - Conni & Co - Teil 49
+  - Conni & Co - Teil 50
+  - Conni & Co - Teil 51
+  - Conni & Co - Teil 52
   ids: []

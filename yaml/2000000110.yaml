@@ -4,9 +4,9 @@ data:
 - series: Benjamin Blümchen
   series-id: benjamin-bluemchen
   episode: Ottos kleines Geheimnis
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/ottos-kleines-geheimnis/
   shop-id: d28adbe6-22fa-4f31-a0a1-7bce36790872
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Frühling in Neustadt
+  - Interview mit Hindernissen
+  - Was ist mit Otto los -
+  - Ein Geheimnis
+  - Benjamin und Stella auf geheimer Mission
+  - Zum Konservatorium
+  - Hausmeister-Alarm
+  - Zu Otto nach Hause
+  - Otto ist verliebt
+  - Freikarten für alle!
+  - Das Konzert
+  - Applaus für Otto
   ids: []

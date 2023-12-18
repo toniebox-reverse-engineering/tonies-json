@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Wölfe in der Puszta
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,15 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/wolfe-in-der-puszta/
   shop-id: 6d1165e0-2efc-4bab-a75b-504071197a2b
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Wintergrüße aus Ungarn
+  - Die Mär vom bösen Wolf
+  - Janosch unter Druck
+  - Ein Schneeball in der Manteltasche
+  - Die Lage spitzt sich zu
+  - Der -wölfische Hexenmagen
+  - Der Hund im Wolfspelz
+  - Verschollen im Schnee
+  - Schneeballs- Entscheidung
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Ausritt mit Folgen
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/austritt-mit-folgen/
   shop-id: d39513d5-8c78-4c06-8c2b-e08ab2c2e52c
-  track-desc: []
+  track-desc:
+  - Titellied
+  - Gute Stimmung
+  - Der Reitunfall
+  - Nächtliche Schleicherei
+  - Besuch bei Dr. Brüse
+  - Große Neugierde
+  - Lilly lernt reiten
+  - Der erste Ausritt
+  - Endlich Springtraining
+  - Heimlichkeiten in der Nacht
+  - Beginnende Auflehnung
+  - Ein gutes Gefühl
+  - Lilly in Gefahr
+  - Geständnisse
   ids: []

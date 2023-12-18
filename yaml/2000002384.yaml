@@ -4,9 +4,9 @@ data:
 - series: PAW Patrol
   series-id: paw-patrol
   episode: 'Folgen 141-143: Das Sumpfmonster'
-  release: 0
+  release: 1620345600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,28 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-141-143-das-sumpfmonster/
   shop-id: 2db4541c-6fb0-4e46-a5fe-9be2d4d2c216
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Das Sumpfmonster (Folge 141)'
+  - 'Kapitel 02: Das Sumpfmonster (Folge 141)'
+  - 'Kapitel 03: Das Sumpfmonster (Folge 141)'
+  - 'Kapitel 04: Das Sumpfmonster (Folge 141)'
+  - 'Kapitel 05: Das Sumpfmonster (Folge 141)'
+  - 'Kapitel 06: Das Sumpfmonster (Folge 141)'
+  - 'Kapitel 01: Der Goldknochen (Folge 142)'
+  - 'Kapitel 02: Der Goldknochen (Folge 142)'
+  - 'Kapitel 03: Der Goldknochen (Folge 142)'
+  - 'Kapitel 04: Der Goldknochen (Folge 142)'
+  - 'Kapitel 05: Der Goldknochen (Folge 142)'
+  - 'Kapitel 06: Der Goldknochen (Folge 142)'
+  - 'Kapitel 01: Die verschwundene Sternwarte (Folge 143)'
+  - 'Kapitel 02: Die verschwundene Sternwarte (Folge 143)'
+  - 'Kapitel 03: Die verschwundene Sternwarte (Folge 143)'
+  - 'Kapitel 04: Die verschwundene Sternwarte (Folge 143)'
+  - 'Kapitel 05: Die verschwundene Sternwarte (Folge 143)'
+  - 'Kapitel 06: Die verschwundene Sternwarte (Folge 143)'
+  - 'Kapitel 07: Die verschwundene Sternwarte (Folge 143)'
+  - 'Kapitel 08: Die verschwundene Sternwarte (Folge 143)'
+  - 'Kapitel 09: Die verschwundene Sternwarte (Folge 143)'
+  - 'Kapitel 10: Die verschwundene Sternwarte (Folge 143)'
+  - 'Kapitel 11: Die verschwundene Sternwarte (Folge 143)'
   ids: []

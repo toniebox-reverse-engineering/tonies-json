@@ -4,9 +4,9 @@ data:
 - series: Die kleine Schnecke Monika Häuschen
   series-id: die-kleine-schnecke-monika-haeuschen
   episode: Warum verlieren Eidechsen ihren Schwanz?
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,33 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/die-kleine-schnecke-monika-haeuschen/warum-verlieren-eidechsen-ihren-schwanz/
   shop-id: 68c01cf4-d1b2-409c-8ff5-d3deb1d5b25c
-  track-desc: []
+  track-desc:
+  - Die kleine Schnecke Monika Häuschen - Titellied
+  - Warum verlieren Eidechsen ihren Schwanz? - Teil 01
+  - Warum verlieren Eidechsen ihren Schwanz? - Teil 02
+  - Warum verlieren Eidechsen ihren Schwanz? - Teil 03
+  - Warum verlieren Eidechsen ihren Schwanz? - Teil 04
+  - Warum verlieren Eidechsen ihren Schwanz? - Teil 05
+  - Warum verlieren Eidechsen ihren Schwanz? - Teil 06
+  - Warum verlieren Eidechsen ihren Schwanz? - Teil 07
+  - Warum verlieren Eidechsen ihren Schwanz? - Teil 08
+  - Warum verlieren Eidechsen ihren Schwanz? - Teil 09
+  - Warum verlieren Eidechsen ihren Schwanz? - Teil 10
+  - Warum verlieren Eidechsen ihren Schwanz? - Teil 11
+  - Warum verlieren Eidechsen ihren Schwanz? - Teil 12
+  - Warum verlieren Eidechsen ihren Schwanz? - Teil 13
+  - Warum verlieren Eidechsen ihren Schwanz? - Teil 14
+  - Warum verlieren Eidechsen ihren Schwanz? - Teil 15
+  - Warum verlieren Eidechsen ihren Schwanz? - Teil 16
+  - Warum verlieren Eidechsen ihren Schwanz? - Teil 17
+  - Warum verlieren Eidechsen ihren Schwanz? - Teil 18
+  - Warum verlieren Eidechsen ihren Schwanz? - Teil 19
+  - Warum verlieren Eidechsen ihren Schwanz? - Teil 20
+  - Warum verlieren Eidechsen ihren Schwanz? - Teil 21
+  - Warum verlieren Eidechsen ihren Schwanz? - Teil 22
+  - Warum verlieren Eidechsen ihren Schwanz? - Teil 23
+  - Warum verlieren Eidechsen ihren Schwanz? - Teil 24
+  - Warum verlieren Eidechsen ihren Schwanz? - Teil 25
+  - Warum verlieren Eidechsen ihren Schwanz? - Teil 26
+  - Warum verlieren Eidechsen ihren Schwanz? - Teil 27
   ids: []

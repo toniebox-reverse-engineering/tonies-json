@@ -4,9 +4,9 @@ data:
 - series: Die unendliche Geschichte
   series-id: die-unendliche-geschichte
   episode: 'Teil 2: Das Zeichen der Kindlichen Kaiserin'
-  release: 0
+  release: 1666224000
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 10
   origin: tunes
@@ -14,5 +14,13 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/die-unendliche-geschichte/die-unendliche-geschichte-2/
   shop-id: 380ab5e9-9bbd-42cd-9591-2b187567ba91
-  track-desc: []
+  track-desc:
+  - Die Spukstadt
+  - Fuchur rettet Atréju
+  - Die kindliche Kaiserin
+  - Der Alte vom wandernden Berge
+  - Perelin, der Nachtwald
+  - Goab, die Wüste der Farben
+  - Die Erstarrung Graógramáns
+  - Bastian trifft Atreju und Fuchur
   ids: []

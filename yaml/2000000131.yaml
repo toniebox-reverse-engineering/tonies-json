@@ -4,9 +4,9 @@ data:
 - series: Benjamin Blümchen
   series-id: benjamin-bluemchen
   episode: und die Schnitzeljagd
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/und-die-schnitzeljagd/
   shop-id: 1b25cb82-bc77-44ac-a662-e4f9a0e245e1
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Das Kinderfest
+  - Zwei Mannschaften
+  - Umschlagsuche
+  - Haltet das Boot!
+  - Am Stadttor
+  - Schwierige Suche
+  - Streit bei Frau Stellini
+  - Die Krumme Gasse
+  - Schilderverdrehung
+  - Im Rathaus
+  - Hinki und Pinki!
+  - Alle sind Sieger!
   ids: []

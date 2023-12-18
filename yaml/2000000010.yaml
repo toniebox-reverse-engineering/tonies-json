@@ -4,9 +4,9 @@ data:
 - series: Benjamin Blümchen
   series-id: benjamin-bluemchen
   episode: als Butler
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/als-butler/
   shop-id: 20c99f82-1f53-4f24-89e7-01043daa0956
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Der liebe Karl
+  - Dachschaden
+  - Ebbe in der Zookasse
+  - Ein Job für Benjamin
+  - Zur alten Villa
+  - Graf von Meisenheim
+  - Die Probestunde
+  - In der Galerie
+  - Gemeine Tricks
+  - Nur ein Wunschtraum
+  - Der Abend ist gerettet
+  - Frau Hurtig darf bleiben
   ids: []

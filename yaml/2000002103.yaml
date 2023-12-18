@@ -4,9 +4,9 @@ data:
 - series: Conni
   series-id: conni
   episode: Conni geht auf Klassenfahrt
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
@@ -14,5 +14,34 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/conni/conni-geht-auf-klassenfahrt/
   shop-id: 5bee8c4d-a5ec-4827-898b-1504700284fa
-  track-desc: []
+  track-desc:
+  - Meine beste Freundin Conni
+  - Conni geht auf Klassenfahrt - Teil 01
+  - Conni geht auf Klassenfahrt - Teil 02
+  - Conni geht auf Klassenfahrt - Teil 03
+  - Conni geht auf Klassenfahrt - Teil 04
+  - Conni geht auf Klassenfahrt - Teil 05
+  - Conni geht auf Klassenfahrt - Teil 06
+  - Conni geht auf Klassenfahrt - Teil 07
+  - Conni geht auf Klassenfahrt - Teil 08
+  - Conni geht auf Klassenfahrt - Teil 09
+  - Conni geht auf Klassenfahrt - Teil 10
+  - Conni geht auf Klassenfahrt - Teil 11
+  - Conni geht auf Klassenfahrt - Teil 12
+  - Conni geht auf Klassenfahrt - Teil 13
+  - Conni geht auf Klassenfahrt - Teil 14
+  - Conni geht auf Klassenfahrt - Teil 15
+  - Conni geht auf Klassenfahrt - Teil 16
+  - Conni geht auf Klassenfahrt - Teil 17
+  - Conni geht auf Klassenfahrt - Teil 18
+  - Conni geht auf Klassenfahrt - Teil 19
+  - Conni geht auf Klassenfahrt - Teil 20
+  - Conni geht auf Klassenfahrt - Teil 21
+  - Conni geht auf Klassenfahrt - Teil 22
+  - Conni geht auf Klassenfahrt - Teil 23
+  - Conni geht auf Klassenfahrt - Teil 24
+  - Conni geht auf Klassenfahrt - Teil 25
+  - Conni geht auf Klassenfahrt - Teil 26
+  - Conni geht auf Klassenfahrt - Teil 27
+  - Meine beste Freundin Conni
   ids: []

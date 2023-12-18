@@ -4,9 +4,9 @@ data:
 - series: Der magische Blumenladen
   series-id: der-magische-blumenladen
   episode: Die verzauberte Hochzeit
-  release: 0
+  release: 1659571200
   language: de-de
-  category: null
+  category: audio-book
   runtime: 0
   age: 7
   origin: tunes
@@ -14,5 +14,23 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/der-magische-blumenladen/die-verzauberte-hochzeit/
   shop-id: 5476aaea-b3e5-4977-9c84-043e09da54f9
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
   ids: []

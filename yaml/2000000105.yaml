@@ -4,9 +4,9 @@ data:
 - series: Benjamin Blümchen
   series-id: benjamin-bluemchen
   episode: kauft ein
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,17 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/kauft-ein/
   shop-id: 48d640eb-5034-4064-9761-3c1453280899
-  track-desc: []
+  track-desc:
+  - Titellied
+  - Benjamin will einkaufen
+  - Laster kaputt
+  - Willkommen im Großmarkt
+  - Alles, was das herz begehrt
+  - Kaufen, kaufen, kaufen
+  - Eiermatsch und Mehlstaub
+  - Der Werbe-Elefant
+  - Schreck für Herrn Tierlieb
+  - Großes Picknick im Zoo
+  - Kinderreiten mit Benjamin
+  - Den Rüssel voll vom Einkaufen
   ids: []

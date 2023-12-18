@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Der Millionär
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,15 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/der-millionar/
   shop-id: c195ff81-39d0-4adb-b6b2-7ebab088f41e
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Wettstreit mit Hindernissen
+  - Was für ein Ekeltyp !
+  - Gefahr für die alte Mühle
+  - Dr. Fleischers Pläne
+  - Schock für Frau Martin
+  - Bibi und Tina geben nicht auf !
+  - Überfall im Wald !
+  - Na wunderbar, die Idee
+  - Ein Betrüger wird entlarvt !
   ids: []

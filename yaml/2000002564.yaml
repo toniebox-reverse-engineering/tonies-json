@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Im Reich der Insekten / Bienen und Ameisen
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,40 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/im-reich-der-insekten-bienen-und-ameisen/
   shop-id: 4f902de3-5394-4626-80a9-a5afd89b3000
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Einleitung'
+  - 'Thema 1: Regieren Insekten die Welt?'
+  - 'Thema 1: Gliederfüßer'
+  - 'Thema 1: Insektenordnungen'
+  - 'Thema 1: Lebensräume'
+  - 'Thema 1: Wirbellose Tiere'
+  - 'Thema 1: Wie atmen Insekten?'
+  - 'Thema 1: Mundwerkzeuge'
+  - 'Thema 1: Zirpen'
+  - 'Thema 1: Die Sinne der Insekten'
+  - 'Thema 1: Metamorphose'
+  - 'Thema 1: Nahrung'
+  - 'Thema 1: Verteidigungsstrategien'
+  - 'Thema 1: Überwintern'
+  - 'Thema 1: Warum Insekten nützlich sind'
+  - 'Thema 1: Natur und Umwelt'
+  - 'Thema 2: Einleitung'
+  - 'Thema 2: Rolle in der Natur'
+  - 'Thema 2: Hautflügler'
+  - 'Thema 2: Anpassungsfähigkeit'
+  - 'Thema 2: Bienenarten'
+  - 'Thema 2: Bienenvolk'
+  - 'Thema 2: Bienenwabe'
+  - 'Thema 2: Wie entsteht Honig?'
+  - 'Thema 2: Rundtanz'
+  - 'Thema 2: Schwänzeltanz'
+  - 'Thema 2: Sammeln von Pollen'
+  - 'Thema 2: Bienengift'
+  - 'Thema 2: Wespenarten'
+  - 'Thema 2: Wespenpapier'
+  - 'Thema 2: Ameisenvolk'
+  - 'Thema 2: Ameisennest'
+  - 'Thema 2: Duftstoffe der Ameisen'
+  - 'Thema 2: Ameisenkolonie'
+  - 'Thema 2: Ameisensäure'
   ids: []

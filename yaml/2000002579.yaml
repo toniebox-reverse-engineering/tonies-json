@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Der Traum vom Fliegen / Helikopter im Einsatz
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,40 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/der-traum-vom-fliegen-helikopter-im-einsatz/
   shop-id: 6ce8737a-ec5c-452d-bc17-f837f2d9efc1
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Flugzeuge und der Traum vom Fliegen'
+  - 'Thema 1: Leichter als Luft'
+  - 'Thema 1: Wer sind die Meister im Fliegen?'
+  - 'Thema 1: Die ersten Flugapparate'
+  - 'Thema 1: Was ist entscheidend beim Fliegen?'
+  - 'Thema 1: Der Antrieb für Flugzeuge'
+  - 'Thema 1: Fortschritte des Motorfluges'
+  - 'Thema 1: Vorbereitungen für den Flug'
+  - 'Thema 1: Die Checkliste'
+  - 'Thema 1: Eine Mindestgeschwindigkeit fürs Abheben'
+  - 'Thema 1: Wie steuert man ein Flugzeug?'
+  - 'Thema 1: Was bedeutet "weich fliegen" ?'
+  - 'Thema 1: Der Anstellwinkel'
+  - 'Thema 1: Starthilfe nötig?'
+  - 'Thema 1: Was ist die Thermik?'
+  - 'Thema 1: Die Motoren der Flugzeuge'
+  - 'Thema 1: Düsenflugzeuge'
+  - 'Thema 1: A380'
+  - 'Thema 2: Helikopter'
+  - 'Thema 2: Was sind Helikopter?'
+  - 'Thema 2: Die Idee des Helikopters'
+  - 'Thema 2: Der Auftrieb'
+  - 'Thema 2: Was ist der Pitch Hebel?'
+  - 'Thema 2: Das Drehen des Helikopters verhindern'
+  - 'Thema 2: Ist es schwierig einen Hubschrauber zu fliegen?'
+  - 'Thema 2: Triebwerkausfall'
+  - 'Thema 2: Die Geschwindigkeit eines Helikopters'
+  - 'Thema 2: Fliegende Kräne'
+  - 'Thema 2: Lufttransport'
+  - 'Thema 2: Die Helikopter im Gebirge'
+  - 'Thema 2: Wie hoch kann ein Hubschrauber fliegen?'
+  - 'Thema 2: Beeindruckende Filmaufnahmen durch Helikopter'
+  - 'Thema 2: Die Bergwacht'
+  - 'Thema 2: Helikopter als Lebensretter'
+  - 'Thema 2: Die Luftpolizei'
   ids: []

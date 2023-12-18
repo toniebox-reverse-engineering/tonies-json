@@ -4,9 +4,9 @@ data:
 - series: Feuerwehrmann Sam
   series-id: feuerwehrmann-sam
   episode: Der tapfere Retter
-  release: 0
+  release: 1641427200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,20 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/feuerwehrmann-sam/der-tapfere-retter/
   shop-id: 10d89c24-ed21-4f91-b586-aafe3ff9ad0b
-  track-desc: []
+  track-desc:
+  - Norris, Das Meerschweinchen Teil 1
+  - Norris, Das Meerschweinchen Teil 2
+  - Norris, Das Meerschweinchen Teil 3
+  - Normans Halloween-Trick Teil 1
+  - Normans Halloween-Trick Teil 2
+  - Normans Halloween-Trick Teil 3
+  - Bessie Eilt Zur Rettung Teil 1
+  - Bessie Eilt Zur Rettung Teil 2
+  - Bessie Eilt Zur Rettung Teil 3
+  - Babysitter In Not Teil 1
+  - Babysitter In Not Teil 2
+  - Babysitter In Not Teil 3
+  - Bessie In Gefahr Teil 1
+  - Bessie In Gefahr Teil 2
+  - Bessie In Gefahr Teil 3
   ids: []

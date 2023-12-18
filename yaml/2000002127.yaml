@@ -4,9 +4,9 @@ data:
 - series: Conni
   series-id: conni
   episode: Conni und das Baumhaus
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,44 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/conni/conni-und-das-baumhaus/
   shop-id: 6142779c-1622-47a8-9e2b-18f185719baa
-  track-desc: []
+  track-desc:
+  - Meine beste Freundin Conni
+  - Conni und das Baumhaus - Teil 01
+  - Conni und das Baumhaus - Teil 02
+  - Conni und das Baumhaus - Teil 03
+  - Conni und das Baumhaus - Teil 04
+  - Conni und das Baumhaus - Teil 05
+  - Conni und das Baumhaus - Teil 06
+  - Conni und das Baumhaus - Teil 07
+  - Conni und das Baumhaus - Teil 08
+  - Conni und das Baumhaus - Teil 09
+  - Conni und das Baumhaus - Teil 10
+  - Conni und das Baumhaus - Teil 11
+  - Conni und das Baumhaus - Teil 12
+  - Conni und das Baumhaus - Teil 13
+  - Conni und das Baumhaus - Teil 14
+  - Conni und das Baumhaus - Teil 15
+  - Conni und das Baumhaus - Teil 16
+  - Conni und das Baumhaus - Teil 17
+  - Conni und das Baumhaus - Teil 18
+  - Conni und das Baumhaus - Teil 19
+  - Conni und das Baumhaus - Teil 20
+  - Conni und das Baumhaus - Teil 21
+  - Conni und das Baumhaus - Teil 22
+  - Conni und das Baumhaus - Teil 23
+  - Conni und das Baumhaus - Teil 24
+  - Conni und das Baumhaus - Teil 25
+  - Conni und das Baumhaus - Teil 26
+  - Conni und das Baumhaus - Teil 27
+  - Conni und das Baumhaus - Teil 28
+  - Conni und das Baumhaus - Teil 29
+  - Conni und das Baumhaus - Teil 30
+  - Conni und das Baumhaus - Teil 31
+  - Conni und das Baumhaus - Teil 32
+  - Conni und das Baumhaus - Teil 33
+  - Conni und das Baumhaus - Teil 34
+  - Conni und das Baumhaus - Teil 35
+  - Conni und das Baumhaus - Teil 36
+  - Conni und das Baumhaus - Teil 37
+  - Meine beste Freundin Conni
   ids: []

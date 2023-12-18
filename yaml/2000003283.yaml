@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 38: Die Bank vor der Werkstatt'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,21 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/die-bank-vor-der-werkstatt-das-original-aus-dem-fe/
   shop-id: 74b4b653-57d8-419b-be0a-d3d251bc0cb1
-  track-desc: []
+  track-desc:
+  - Die Bank vor der Werkstatt - Teil 01
+  - Die Bank vor der Werkstatt - Teil 02
+  - Die Bank vor der Werkstatt - Teil 03
+  - Die Bank vor der Werkstatt - Teil 04
+  - Die Bank vor der Werkstatt - Teil 05
+  - Die Bank vor der Werkstatt - Teil 06
+  - Die Bank vor der Werkstatt - Teil 07
+  - Die Bank vor der Werkstatt - Teil 08
+  - Die Bank vor der Werkstatt - Teil 09
+  - Die Bank vor der Werkstatt - Teil 10
+  - Die Bank vor der Werkstatt - Teil 11
+  - Die Bank vor der Werkstatt - Teil 12
+  - Die Bank vor der Werkstatt - Teil 13
+  - Die Bank vor der Werkstatt - Teil 14
+  - Die Bank vor der Werkstatt - Teil 15
+  - Die Bank vor der Werkstatt - Teil 16
   ids: []

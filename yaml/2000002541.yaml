@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Unser Körper / Das Gehirn
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,38 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/unser-korper-das-gehirn/
   shop-id: ae08a0eb-1902-4a7c-bc6f-b0977ac6b105
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Einleitung Unser Körper'
+  - 'Thema 1: Der menschliche Körper'
+  - 'Thema 1: Die Füße'
+  - 'Thema 1: Wie ist der Körper aufgebaut?'
+  - 'Thema 1: Die Hände'
+  - 'Thema 1: Das Skelett'
+  - 'Thema 1: Unsere Knochen'
+  - 'Thema 1: Unsere Muskeln'
+  - 'Thema 1: Aufgaben der Muskeln'
+  - 'Thema 1: Das Sinnesorgan Ohr'
+  - 'Thema 1: Das Sinnesorgan Auge'
+  - 'Thema 1: Das Sinnesorgan Haut'
+  - 'Thema 1: Neue Energie durch Essen und Trinken'
+  - 'Thema 1: Wie wir essen: Vom Mund bis in den Magen'
+  - 'Thema 1: Die Verdauung, das Herz und lebenswichtiger Sauerstoff'
+  - 'Thema 1: Warum wir schlafen'
+  - 'Thema 1: Das Gehirn und unser Gedächtnis'
+  - 'Thema 1: Das Gehirn verarbeitet Reize'
+  - 'Thema 1: Der menschliche Körper - ein Wunder der Natur'
+  - 'Thema 2: Einleitung Das Gehirn'
+  - 'Thema 2: Das menschliche Gehirn'
+  - 'Thema 2: Das Großhirn'
+  - 'Thema 2: Kleinhirn, Stammhirn und limbisches System'
+  - 'Thema 2: Der Unfall des Phineas Gage'
+  - 'Thema 2: Die Neuronen'
+  - 'Thema 2: Wie misst man Hirnströme?'
+  - 'Thema 2: Das Mädchen mit dem halben Gehirn'
+  - 'Thema 2: Besser als jeder Computer'
+  - 'Thema 2: Was passiert, wenn wir schlafen?'
+  - 'Thema 2: Kurz- und Langzeitgedächtnis'
+  - 'Thema 2: Übung macht den Meister'
+  - 'Thema 2: Besser lernen durch Bewegung'
+  - 'Thema 2: Gehirn und Gefühle'
   ids: []

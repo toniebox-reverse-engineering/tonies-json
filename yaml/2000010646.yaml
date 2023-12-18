@@ -4,9 +4,9 @@ data:
 - series: TKKG Junior
   series-id: tkkg-junior
   episode: Adventskalender - Der widerliche Weihnachtswichtel
-  release: 0
-  language: null
-  category: null
+  release: 1701043200
+  language: de-de
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,36 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/tkkg-junior/tkkg-junior-adventskalender-der-widerliche-weihnac/
   shop-id: 06c8adf1-fa22-43d0-ab60-27ad42242cdd
-  track-desc: []
+  track-desc:
+  - Der widerliche Weihnachtswichtel (Inhaltsangabe)
+  - TKKG Junior Titelsong
+  - 1. Dezember - Der widerliche Weihnachtswichtel
+  - 2. Dezember - Der widerliche Weihnachtswichtel
+  - 3. Dezember - Der widerliche Weihnachtswichtel
+  - 4. Dezember - Der widerliche Weihnachtswichtel
+  - 5. Dezember - Der widerliche Weihnachtswichtel
+  - 6. Dezember - Der widerliche Weihnachtswichtel
+  - 7. Dezember - Der widerliche Weihnachtswichtel
+  - 8. Dezember - Der widerliche Weihnachtswichtel
+  - 9. Dezember - Der widerliche Weihnachtswichtel
+  - 10. Dezember - Der widerliche Weihnachtswichtel
+  - 11. Dezember - Der widerliche Weihnachtswichtel
+  - 12. Dezember - Der widerliche Weihnachtswichtel
+  - 13. Dezember - Der widerliche Weihnachtswichtel
+  - 14. Dezember - Der widerliche Weihnachtswichtel
+  - 15. Dezember - Der widerliche Weihnachtswichtel
+  - 16. Dezember - Der widerliche Weihnachtswichtel
+  - 17. Dezember - Der widerliche Weihnachtswichtel
+  - 18. Dezember - Der widerliche Weihnachtswichtel
+  - 19. Dezember - Der widerliche Weihnachtswichtel
+  - 20. Dezember - Der widerliche Weihnachtswichtel
+  - 21. Dezember - Der widerliche Weihnachtswichtel (Teil 1)
+  - 21. Dezember - Der widerliche Weihnachtswichtel (Teil 2)
+  - 22. Dezember - Der widerliche Weihnachtswichtel
+  - 23. Dezember - Der widerliche Weihnachtswichtel (Teil 1)
+  - 23. Dezember - Der widerliche Weihnachtswichtel (Teil 2)
+  - 24. Dezember - Der widerliche Weihnachtswichtel (Teil 1)
+  - 24. Dezember - Der widerliche Weihnachtswichtel (Teil 2)
+  - TKKG Junior Schlußsong
+  - Der widerliche Weihnachtswichtel (Outro)
   ids: []

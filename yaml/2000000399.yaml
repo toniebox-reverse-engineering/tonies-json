@@ -4,9 +4,9 @@ data:
 - series: Dr. Brumm
   series-id: dr-brumm
   episode: Dr. Brumm fährt Zug / Dr. Brumm geht wandern
-  release: 0
+  release: 1525046400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,25 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/dr-brumm/dr-brumm-fahrt-zug-dr-brumm-geht-wandern/
   shop-id: 0ccbdc58-27c3-42c6-aa03-81cbd36d49ff
-  track-desc: []
+  track-desc:
+  - Dr. Brumm fährt Zug - Kapitel 1
+  - Dr. Brumm fährt Zug - Kapitel 2
+  - Dr. Brumm fährt Zug - Kapitel 3
+  - Dr. Brumm fährt Zug - Kapitel 4
+  - Dr. Brumm fährt Zug - Kapitel 5
+  - Dr. Brumm fährt Zug - Kapitel 6
+  - Dr. Brumm fährt Zug - Kapitel 7
+  - Dr. Brumm fährt Zug - Kapitel 8
+  - Dr. Brumm geht wandern - Kapitel 1
+  - Dr. Brumm geht wandern - Kapitel 2
+  - Dr. Brumm geht wandern - Kapitel 3
+  - Dr. Brumm geht wandern - Kapitel 4
+  - Dr. Brumm geht wandern - Kapitel 5
+  - Dr. Brumm geht wandern - Kapitel 6
+  - Dr. Brumm geht wandern - Kapitel 7
+  - Dr. Brumm geht wandern - Kapitel 8
+  - Dr. Brumm geht wandern - Kapitel 9
+  - Dr. Brumm geht wandern - Kapitel 10
+  - Dr. Brumm geht wandern - Kapitel 11
+  - Dr. Brumm geht wandern - Kapitel 12
   ids: []

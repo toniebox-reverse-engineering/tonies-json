@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Die Olympischen Spiele / Die alten Griechen
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,27 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/die-olympischen-spiele-die-alten-griechen/
   shop-id: a6c980ec-14b7-4137-8e52-dc01e69326d5
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Einleitung'
+  - 'Thema 1: Entstehung'
+  - 'Thema 1: Olympische Spiele der Antike'
+  - 'Thema 1: Disziplinen'
+  - 'Thema 1: Faustkampf'
+  - 'Thema 1: Teilnehmer'
+  - 'Thema 1: Winter- und Sommerolympiade'
+  - 'Thema 1: Paralympics'
+  - 'Thema 1: Doping'
+  - 'Thema 1: Fair Play'
+  - 'Thema 2: Einleitung'
+  - 'Thema 2: Griechische Stämme'
+  - 'Thema 2: Heldensagen'
+  - 'Thema 2: Griechische Götter'
+  - 'Thema 2: Philosophen'
+  - 'Thema 2: Sokrates'
+  - 'Thema 2: Aristoteles'
+  - 'Thema 2: Wettstreit'
+  - 'Thema 2: Komödien und Tragödien'
+  - 'Thema 2: Athen'
+  - 'Thema 2: Athenische Demokratie'
+  - 'Thema 2: Alexander der Große'
   ids: []

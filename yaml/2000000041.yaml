@@ -4,9 +4,9 @@ data:
 - series: Benjamin Blümchen
   series-id: benjamin-bluemchen
   episode: auf dem Rummel
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,17 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/auf-dem-rummel/
   shop-id: 9dbc50c0-d332-408f-901d-0dc05fa3147c
-  track-desc: []
+  track-desc:
+  - Titellied
+  - Auf zum Rummel
+  - Karussell und Zuckerwatte
+  - Der Zuckerwatte-Rüssel
+  - Wo ist Paulchen-
+  - Benjamins Aufruf
+  - Auf der Suche
+  - In der Geisterbahn
+  - Vom Riesenrad zur Märchenbahn
+  - Acht Zwerge
+  - Gefunden!
+  - Glückliches Wiedersehen
   ids: []

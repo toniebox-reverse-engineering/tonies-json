@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 4: Das Schlossgespenst'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,22 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/das-schlossgespenst-das-original-aus-dem-fernsehen/
   shop-id: 86891e53-01a3-4edf-9f28-5475d5c5b6b5
-  track-desc: []
+  track-desc:
+  - Das Schlossgespenst - Teil 01
+  - Das Schlossgespenst - Teil 02
+  - Das Schlossgespenst - Teil 03
+  - Das Schlossgespenst - Teil 04
+  - Das Schlossgespenst - Teil 05
+  - Das Schlossgespenst - Teil 06
+  - Das Schlossgespenst - Teil 07
+  - Das Schlossgespenst - Teil 08
+  - Das Schlossgespenst - Teil 09
+  - Das Schlossgespenst - Teil 10
+  - Das Schlossgespenst - Teil 11
+  - Das Schlossgespenst - Teil 12
+  - Das Schlossgespenst - Teil 13
+  - Das Schlossgespenst - Teil 14
+  - Das Schlossgespenst - Teil 15
+  - Das Schlossgespenst - Teil 16
+  - Das Schlossgespenst - Teil 17
   ids: []

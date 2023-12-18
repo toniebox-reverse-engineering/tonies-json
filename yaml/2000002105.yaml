@@ -4,9 +4,9 @@ data:
 - series: Conni
   series-id: conni
   episode: Conni geht verloren / Conni in den Bergen
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,28 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/conni/conni-geht-verloren-conni-in-den-bergen/
   shop-id: 6d7daea4-6c61-4591-8841-650294cde260
-  track-desc: []
+  track-desc:
+  - Meine beste Freundin Conni
+  - Conni geht verloren - Teil 01
+  - Conni geht verloren - Teil 02
+  - Conni geht verloren - Teil 03
+  - Conni geht verloren - Teil 04
+  - Conni geht verloren - Teil 05
+  - Conni geht verloren - Teil 06
+  - Conni geht verloren - Teil 07
+  - Conni geht verloren - Teil 08
+  - Conni geht verloren - Teil 09
+  - Conni in den Bergen - Teil 01
+  - Conni in den Bergen - Teil 02
+  - Conni in den Bergen - Teil 03
+  - Conni in den Bergen - Teil 04
+  - Conni in den Bergen - Teil 05
+  - Conni in den Bergen - Teil 06
+  - Conni in den Bergen - Teil 07
+  - Conni in den Bergen - Teil 08
+  - Conni in den Bergen - Teil 09
+  - Conni in den Bergen - Teil 10
+  - Conni in den Bergen - Teil 11
+  - Conni in den Bergen - Teil 12
+  - Meine beste Freundin Conni
   ids: []

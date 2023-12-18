@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Der Glücksbringer
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,15 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/der-glucksbringer/
   shop-id: 1c2ae75f-7848-4ad6-8039-168fd8380e30
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Baronesse von Schwanstein
+  - Hufeisenglücksbringer
+  - Ernste Absichten
+  - Mami hat Glück
+  - Alte Freunde
+  - Anstand und Etikette
+  - Freddys Geschäftsidee
+  - Der Graf sieht klar
+  - Drei Musketiere
   ids: []

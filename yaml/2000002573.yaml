@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Bagger & Traktoren / Mechanik
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,21 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/bagger-traktoren-mechanik/
   shop-id: a7c9ce88-950d-4cd4-b6eb-15ecf9541e5f
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Bagger, LKW und Traktoren'
+  - 'Thema 1: Woher kommt die Kraft beim Bagger?'
+  - 'Thema 1: Das Führerhaus des Baggers'
+  - 'Thema 1: Die Innenausstattung eines LKWs'
+  - 'Thema 1: Wo gibt es die größten LKWs?'
+  - 'Thema 1: Was hat Diesel mit dem LKW zu tun?'
+  - 'Thema 1: Die Räder des Traktors'
+  - 'Thema 1: Der Motor eines Traktors'
+  - 'Thema 2: Mechanik'
+  - 'Thema 2: Galileo Galilei und Isaac Newton'
+  - 'Thema 2: Was ist die Schwerkraft?'
+  - 'Thema 2: Was passiert wenn es keine Schwerkraft gibt?'
+  - 'Thema 2: Bestimmung der Geschwindigkeit eines Körpers'
+  - 'Thema 2: Energie kann nicht verloren gehen'
+  - 'Thema 2: Gibt es eine Maschine die endlos läuft?'
+  - 'Thema 2: Die Gravitation'
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Die wilde Meute
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,15 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/die-wilde-meute/
   shop-id: e50b8555-1822-4e84-b049-ff5207267c77
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Wettreiten mit fliegendem Wechsel
+  - Frau Martin hat Ärger
+  - Buddy und Holly
+  - Janosch- ist weg
+  - Freddy kommt
+  - Die wilde Meute
+  - Eene meene immer nasser.
+  - Der geklaute Ponywagen
+  - Böse Buben im Heuhaufen
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 15: Das Spanferkelessen'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,20 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/das-spanferkelessen-das-original-aus-dem-fernsehen/
   shop-id: 260b9aae-47c0-491a-8003-ba191fd15802
-  track-desc: []
+  track-desc:
+  - Das Spanferkelessen - Teil 01
+  - Das Spanferkelessen - Teil 02
+  - Das Spanferkelessen - Teil 03
+  - Das Spanferkelessen - Teil 04
+  - Das Spanferkelessen - Teil 05
+  - Das Spanferkelessen - Teil 06
+  - Das Spanferkelessen - Teil 07
+  - Das Spanferkelessen - Teil 08
+  - Das Spanferkelessen - Teil 09
+  - Das Spanferkelessen - Teil 10
+  - Das Spanferkelessen - Teil 11
+  - Das Spanferkelessen - Teil 12
+  - Das Spanferkelessen - Teil 13
+  - Das Spanferkelessen - Teil 14
+  - Das Spanferkelessen - Teil 15
   ids: []

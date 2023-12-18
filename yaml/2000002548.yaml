@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Im Reich der Bären / Wölfen auf der Spur
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,30 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/im-reich-der-baren-wolfen-auf-der-spur/
   shop-id: 0e1f26ff-6429-41f8-965d-eea45cbe02dd
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Einleitung'
+  - 'Thema 1: Groß- und Kleinbären'
+  - 'Thema 1: Großbärenarten'
+  - 'Thema 1: Lebensräume der Großbären'
+  - 'Thema 1: Unterschiede - Großbären'
+  - 'Thema 1: Winterruhezeit'
+  - 'Thema 1: Bärenhunger'
+  - 'Thema 1: Im Bärengebiet'
+  - 'Thema 1: Nachwuchs'
+  - 'Thema 1: Verhaltensregeln'
+  - 'Thema 1: Einzelgänger'
+  - 'Thema 1: Bedrohte Arten'
+  - 'Thema 1: Kleinbärenarten'
+  - 'Thema 2: Einleitung'
+  - 'Thema 2: Vorfahren'
+  - 'Thema 2: Menschen und Wölfe'
+  - 'Thema 2: Ausrottung'
+  - 'Thema 2: Wolfsarten'
+  - 'Thema 2: Jagdmethoden'
+  - 'Thema 2: Schützer der Natur'
+  - 'Thema 2: Wolfsrudel'
+  - 'Thema 2: Paarung und Geburt'
+  - 'Thema 2: Nachwuchs'
+  - 'Thema 2: Wolfswanderungen'
+  - 'Thema 2: Wölfe in Deutschland'
   ids: []

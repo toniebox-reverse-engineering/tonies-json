@@ -4,9 +4,9 @@ data:
 - series: Die Schule der magischen Tiere
   series-id: die-schule-der-magischen-tiere
   episode: Voller Löcher!
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,53 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/die-schule-der-magischen-tiere/voller-locher/
   shop-id: 06825cbd-bac3-40e0-baa5-24e1e051782c
-  track-desc: []
+  track-desc:
+  - Intro & Titellied Willkommen in der Schule der magischen Tiere
+  - '02: Voller Löcher! - Teil 01'
+  - '02: Voller Löcher! - Teil 02'
+  - '02: Voller Löcher! - Teil 03'
+  - '02: Voller Löcher! - Teil 04'
+  - '02: Voller Löcher! - Teil 05'
+  - '02: Voller Löcher! - Teil 06'
+  - '02: Voller Löcher! - Teil 07'
+  - '02: Voller Löcher! - Teil 08'
+  - '02: Voller Löcher! - Teil 09'
+  - '02: Voller Löcher! - Teil 10'
+  - '02: Voller Löcher! - Teil 11'
+  - '02: Voller Löcher! - Teil 12'
+  - '02: Voller Löcher! - Teil 13'
+  - '02: Voller Löcher! - Teil 14'
+  - '02: Voller Löcher! - Teil 15'
+  - '02: Voller Löcher! - Teil 16'
+  - '02: Voller Löcher! - Teil 17'
+  - '02: Voller Löcher! - Teil 18'
+  - '02: Voller Löcher! - Teil 19'
+  - '02: Voller Löcher! - Teil 20'
+  - '02: Voller Löcher! - Teil 21'
+  - '02: Voller Löcher! - Teil 22'
+  - '02: Voller Löcher! - Teil 23'
+  - '02: Voller Löcher! - Teil 24'
+  - '02: Voller Löcher! - Teil 25'
+  - '02: Voller Löcher! - Teil 26'
+  - '02: Voller Löcher! - Teil 27'
+  - '02: Voller Löcher! - Teil 28'
+  - '02: Voller Löcher! - Teil 29'
+  - '02: Voller Löcher! - Teil 30'
+  - '02: Voller Löcher! - Teil 31'
+  - '02: Voller Löcher! - Teil 32'
+  - '02: Voller Löcher! - Teil 33'
+  - '02: Voller Löcher! - Teil 34'
+  - '02: Voller Löcher! - Teil 35'
+  - '02: Voller Löcher! - Teil 36'
+  - '02: Voller Löcher! - Teil 37'
+  - '02: Voller Löcher! - Teil 38'
+  - '02: Voller Löcher! - Teil 39'
+  - '02: Voller Löcher! - Teil 40'
+  - '02: Voller Löcher! - Teil 41'
+  - '02: Voller Löcher! - Teil 42'
+  - '02: Voller Löcher! - Teil 43'
+  - '02: Voller Löcher! - Teil 44'
+  - '02: Voller Löcher! - Teil 45'
+  - '02: Voller Löcher! - Teil 46'
+  - Willkommen in der Schule der magischen Tiere
   ids: []

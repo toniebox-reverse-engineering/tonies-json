@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Die Computerhexe
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/die-computerhexe/
   shop-id: 7ac4d21b-3b13-4b4c-8ff0-091dc5e06462
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Schularbeiten
+  - Alle spielen nur Computer
+  - Die Computerhexe ist los
+  - Vom Pressehaus zum Rathaus
+  - Computer-Chaos in Neustadt
+  - Interview im Rathaus
+  - Wo ist die Computerhexe-
+  - Freiheit für alle Computerhexen
+  - Verzweifelter Bürgermeister
+  - Krisensitzung im Rathaus
+  - Hexenfext bei Flori
+  - Marker
   ids: []

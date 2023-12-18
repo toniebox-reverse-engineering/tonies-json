@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 23: Pumuckl und die Bergtour'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,22 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-und-die-bergtour-das-original-aus-dem-fern/
   shop-id: 3d42ba7c-19b9-45b0-ba13-3a16fd3e5550
-  track-desc: []
+  track-desc:
+  - Pumuckl und die Bergtour - Teil 01
+  - Pumuckl und die Bergtour - Teil 02
+  - Pumuckl und die Bergtour - Teil 03
+  - Pumuckl und die Bergtour - Teil 04
+  - Pumuckl und die Bergtour - Teil 05
+  - Pumuckl und die Bergtour - Teil 06
+  - Pumuckl und die Bergtour - Teil 07
+  - Pumuckl und die Bergtour - Teil 08
+  - Pumuckl und die Bergtour - Teil 09
+  - Pumuckl und die Bergtour - Teil 10
+  - Pumuckl und die Bergtour - Teil 11
+  - Pumuckl und die Bergtour - Teil 12
+  - Pumuckl und die Bergtour - Teil 13
+  - Pumuckl und die Bergtour - Teil 14
+  - Pumuckl und die Bergtour - Teil 15
+  - Pumuckl und die Bergtour - Teil 16
+  - Pumuckl und die Bergtour - Teil 17
   ids: []

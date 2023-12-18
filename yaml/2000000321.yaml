@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Der rote Hahn
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,17 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/der-rote-hahn/
   shop-id: e38b7841-eba2-4cdc-8503-2333da8152c1
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Ausschlafen
+  - Eine Überraschung
+  - Neunmalkluger Conrad
+  - Zwei Nervensägen auf dem Hof
+  - Eine alte Legende
+  - Hahn Hubert dreht durch
+  - Bibi greift ein
+  - Ausritt zur Ruine
+  - Vergangenheits-Hexereien
+  - Der Schatz im Hahn
+  - Alles wieder wie immer
   ids: []

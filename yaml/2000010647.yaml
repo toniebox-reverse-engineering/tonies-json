@@ -4,9 +4,9 @@ data:
 - series: Die drei ???
   series-id: die-drei-fragezeichen
   episode: Adventskalender - Böser die Glocken nie klingen
-  release: 0
-  language: null
-  category: null
+  release: 1701043200
+  language: de-de
+  category: audio-play
   runtime: 0
   age: 8
   origin: tunes
@@ -14,5 +14,65 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/die-drei-fragezeichen/die-drei-adventskalender-boser-die-glocken-nie-kli/
   shop-id: df41add5-d786-4e3e-af74-098e544b9ce1
-  track-desc: []
+  track-desc:
+  - Böser die Glocken nie klingen (Inhaltsangabe)
+  - Böser die Glocken nie klingen (Titelmusik)
+  - Tag 01 - Unbekannter Herkunft (Teil 01)
+  - Tag 01 - Unbekannter Herkunft (Teil 02)
+  - Tag 01 - Unbekannter Herkunft (Teil 03)
+  - Tag 02 - Alarm (Teil 01)
+  - Tag 02 - Alarm (Teil 02)
+  - Tag 02 - Alarm (Teil 03)
+  - Tag 03 - Tante Mathildas beste Freundin
+  - Tag 04 - Ein viertes Fragezeichen
+  - Tag 05 - Fairer Deal (Teil 01)
+  - Tag 05 - Fairer Deal (Teil 02)
+  - Tag 05 - Fairer Deal (Teil 03)
+  - Tag 06 - Auf in den Kampf (Teil 01)
+  - Tag 06 - Auf in den Kampf (Teil 02)
+  - Tag 07 - Zimmer 7 (Teil 01)
+  - Tag 07 - Zimmer 7 (Teil 02)
+  - Tag 07 - Zimmer 7 (Teil 03)
+  - Tag 08 - Erwischt! (Teil 01)
+  - Tag 08 - Erwischt! (Teil 02)
+  - Tag 08 - Erwischt! (Teil 03)
+  - Tag 08 - Erwischt! (Teil 04)
+  - Tag 09 - Heftiger Streit (Teil 01)
+  - Tag 09 - Heftiger Streit (Teil 02)
+  - Tag 10 - Dicht auf der Spur (Teil 01)
+  - Tag 10 - Dicht auf der Spur (Teil 02)
+  - Tag 11 - Hausdurchsuchung (Teil 01)
+  - Tag 11 - Hausdurchsuchung (Teil 02)
+  - Tag 12 - Observation
+  - Tag 13 - Bittere Realität (Teil 01)
+  - Tag 13 - Bittere Realität (Teil 02)
+  - Tag 14 - Razzia
+  - Tag 15 - Stich ins Wespennest (Teil 01)
+  - Tag 15 - Stich ins Wespennest (Teil 02)
+  - Tag 16 - Effektive Strategie
+  - Tag 17 - Der Verzweiflung nah (Teil 01)
+  - Tag 17 - Der Verzweiflung nah (Teil 02)
+  - Tag 18 - Heißes Eisen (Teil 01)
+  - Tag 18 - Heißes Eisen (Teil 02)
+  - Tag 18 - Heißes Eisen (Teil 03)
+  - Tag 18 - Heißes Eisen (Teil 04)
+  - Tag 19 - Wie im Märchen (Teil 01)
+  - Tag 19 - Wie im Märchen (Teil 02)
+  - Tag 19 - Wie im Märchen (Teil 03)
+  - Tag 19 - Wie im Märchen (Teil 04)
+  - Tag 20 - Verzweiflungstat (Teil 01)
+  - Tag 20 - Verzweiflungstat (Teil 02)
+  - Tag 20 - Verzweiflungstat (Teil 03)
+  - Tag 20 - Verzweiflungstat (Teil 04)
+  - Tag 20 - Verzweiflungstat (Teil 05)
+  - Tag 20 - Verzweiflungstat (Teil 06)
+  - Tag 21 - Polizeieinsatz
+  - Tag 22 - Verdacht (Teil 01)
+  - Tag 22 - Verdacht (Teil 02)
+  - Tag 23 - Stockender Atem (Teil 01)
+  - Tag 23 - Stockender Atem (Teil 02)
+  - Tag 23 - Stockender Atem (Teil 03)
+  - Tag 24 - Beichte (Teil 01)
+  - Tag 24 - Beichte (Teil 02)
+  - Böser die Glocken nie klingen (Outro)
   ids: []

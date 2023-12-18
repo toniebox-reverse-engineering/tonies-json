@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: und Dino
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,17 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/und-dino/
   shop-id: 4b6495b2-b549-4092-b53f-2b9c6b2218fa
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Dino soll wachsen
+  - Bibi ist sauer
+  - Bibi haut ab
+  - Saurier-Schau
+  - Der dreiunddreißigste Vergrößerungsspruch
+  - Eine Katastrophe
+  - Im Hexenwald
+  - Ein fressendes Ungeheuer
+  - Unzulässige Konkurrenz
+  - Dino in Neustadt
+  - Abschied
   ids: []

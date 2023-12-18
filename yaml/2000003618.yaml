@@ -4,9 +4,9 @@ data:
 - series: Conni
   series-id: conni
   episode: Conni traut sich was / Conni bastelt für ihre Freunde / Connis Weihnachtsbäckerei
-  release: 0
+  release: 1663113600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,42 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/conni/conni-traut-sich-was-conni-bastelt-fur-ihre-freund/
   shop-id: 8372433f-1829-42e3-8cd8-4afcded581dc
-  track-desc: []
+  track-desc:
+  - Meine beste Freundin Conni
+  - Conni traut sich was - Teil 01
+  - Conni traut sich was - Teil 02
+  - Conni traut sich was - Teil 03
+  - Conni traut sich was - Teil 04
+  - Conni traut sich was - Teil 05
+  - Conni traut sich was - Teil 06
+  - Conni traut sich was - Teil 07
+  - Conni traut sich was - Teil 08
+  - Conni traut sich was - Teil 09
+  - Conni traut sich was - Teil 10
+  - Conni traut sich was - Teil 11
+  - Conni traut sich was - Teil 12
+  - Conni traut sich was - Teil 13
+  - Conni traut sich was - Teil 14
+  - Conni traut sich was - Teil 15
+  - Conni traut sich was - Teil 16
+  - Conni traut sich was - Teil 17
+  - Conni traut sich was - Teil 18
+  - Conni traut sich was - Teil 19
+  - Conni traut sich was - Teil 20
+  - Conni traut sich was - Teil 21
+  - Conni traut sich was - Teil 22
+  - Conni traut sich was - Teil 23
+  - Conni bastelt für ihre Freunde - Teil 01
+  - Conni bastelt für ihre Freunde - Teil 02
+  - Conni bastelt für ihre Freunde - Teil 03
+  - Conni bastelt für ihre Freunde - Teil 04
+  - Conni bastelt für ihre Freunde - Teil 05
+  - Conni bastelt für ihre Freunde - Teil 06
+  - Conni bastelt für ihre Freunde - Teil 07
+  - Connis Weihnachtsbäckerei - Teil 01
+  - Connis Weihnachtsbäckerei - Teil 02
+  - Connis Weihnachtsbäckerei - Teil 03
+  - Connis Weihnachtsbäckerei - Teil 04
+  - Connis Weihnachtsbäckerei - Teil 05
+  - Meine beste Freundin Conni
   ids: []

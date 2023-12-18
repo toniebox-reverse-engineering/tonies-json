@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Gladiatoren / Germanen
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,31 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/gladiatoren-germanen/
   shop-id: e5bde6b7-3ff4-4dad-ba70-4dcbc4d7564e
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Einleitung'
+  - 'Thema 1: Gladiatorenkämpfe'
+  - 'Thema 1: Beerdigungen'
+  - 'Thema 1: Amphitheater'
+  - 'Thema 1: Römische Kaiserzeit'
+  - 'Thema 1: Gladiatorendienst'
+  - 'Thema 1: Gladiatorenschule'
+  - 'Thema 1: Bewaffnung und Schutz'
+  - 'Thema 1: Publikum'
+  - 'Thema 1: Kolosseum'
+  - 'Thema 1: Unterhaltung'
+  - 'Thema 1: Regeln'
+  - 'Thema 1: Ende der Kämpfe'
+  - 'Thema 2: Einleitung'
+  - 'Thema 2: Lebensbedingungen'
+  - 'Thema 2: Stämme'
+  - 'Thema 2: Siedlungen'
+  - 'Thema 2: Häuser'
+  - 'Thema 2: Ackerbau und Viehzucht'
+  - 'Thema 2: Nahrung'
+  - 'Thema 2: Haarpflege'
+  - 'Thema 2: Auf dem Weg in den Süden'
+  - 'Thema 2: Schlacht mit den Römern'
+  - 'Thema 2: Sieg der Germanen'
+  - 'Thema 2: Eroberung Germaniens'
+  - 'Thema 2: Entstehung von Großstämmen'
   ids: []

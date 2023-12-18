@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Das gestohlene Hexenkraut
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,16 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/das-gestohlene-hexenkraut/
   shop-id: e22dce57-e470-4b9b-99ed-76fe8ace533d
-  track-desc: []
+  track-desc:
+  - Bibi Song
+  - Karla ist krank
+  - Bibis Erkältungstrunk
+  - Die Medizin wirkt
+  - Der falsche Rückhexspruch
+  - Mania greift ein
+  - Das verschwundene Rosenöl
+  - Eine heiße Spur
+  - Bekanntschaft mit Zickia
+  - Die Vertretung
+  - Pichlers Rede
   ids: []

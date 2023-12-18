@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Mami siegt
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,16 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/mami-siegt/
   shop-id: de7fcc7b-d3dd-4619-98e9-6a3995202875
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Topsy auf der Überholspur
+  - Mütter gegen Töchter
+  - Ein halber Sieg
+  - Schwesternschaft
+  - Verhextes Wettreiten
+  - Im alten Gewölbe
+  - Das Gegenturnier
+  - Eine tolle Idee
+  - Die doppelte Bibi
+  - Mami siegt
   ids: []

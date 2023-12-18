@@ -4,9 +4,9 @@ data:
 - series: Benjamin Blümchen
   series-id: benjamin-bluemchen
   episode: und die Spaßmaschine
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/und-die-spamaschine/
   shop-id: c2952d5a-1eee-4133-8493-f4febb387194
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - So viel zu tun!
+  - Besuch bei Eddi Eddison
+  - Bauen macht Krach
+  - Sie läuft!
+  - Umzug auf die Zoowiese
+  - Aus Ernst wird Spass
+  - Noch mehr Krach!
+  - Entschiedener Protest
+  - Der Zoo-o-mat dreht durch
+  - Überraschung beim Baron
+  - Ein Geständnis
+  - Es funktioniert!
   ids: []

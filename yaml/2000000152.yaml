@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Das Hexenhoroskop
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,16 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/das-hexenhoroskop/
   shop-id: 2fa2d5df-8bba-4db0-8785-0980d1e44ab5
-  track-desc: []
+  track-desc:
+  - Titellied
+  - Am Frühsrückstisch
+  - Was ist ein Hexenhoroskop -
+  - Heimlichkeiten
+  - Das Sternbild wird lebendig
+  - Ach du großer Schreck !
+  - Ein Flugdrache über Neustadt
+  - Hilfe naht
+  - Chaos auf dem Marktplatz
+  - Mania und Barbara greifen ein
+  - Ende gut - alles gut
   ids: []

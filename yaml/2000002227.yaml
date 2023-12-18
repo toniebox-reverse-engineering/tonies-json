@@ -4,9 +4,9 @@ data:
 - series: Die Schule der magischen Tiere
   series-id: die-schule-der-magischen-tiere
   episode: Licht aus!
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,55 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/die-schule-der-magischen-tiere/licht-aus/
   shop-id: 7aede2c4-0c57-4c9c-979e-e26ea0e38a63
-  track-desc: []
+  track-desc:
+  - Licht aus!
+  - Titellied Willkommen in der Schule der magischen Tiere
+  - '03: Licht aus! - Teil 01'
+  - '03: Licht aus! - Teil 02'
+  - '03: Licht aus! - Teil 03'
+  - '03: Licht aus! - Teil 04'
+  - '03: Licht aus! - Teil 05'
+  - '03: Licht aus! - Teil 06'
+  - '03: Licht aus! - Teil 07'
+  - '03: Licht aus! - Teil 08'
+  - '03: Licht aus! - Teil 09'
+  - '03: Licht aus! - Teil 10'
+  - '03: Licht aus! - Teil 11'
+  - '03: Licht aus! - Teil 12'
+  - '03: Licht aus! - Teil 13'
+  - '03: Licht aus! - Teil 14'
+  - '03: Licht aus! - Teil 15'
+  - '03: Licht aus! - Teil 16'
+  - '03: Licht aus! - Teil 17'
+  - '03: Licht aus! - Teil 18'
+  - '03: Licht aus! - Teil 19'
+  - '03: Licht aus! - Teil 20'
+  - '03: Licht aus! - Teil 21'
+  - '03: Licht aus! - Teil 22'
+  - '03: Licht aus! - Teil 23'
+  - '03: Licht aus! - Teil 24'
+  - '03: Licht aus! - Teil 25'
+  - '03: Licht aus! - Teil 26'
+  - '03: Licht aus! - Teil 27'
+  - '03: Licht aus! - Teil 28'
+  - '03: Licht aus! - Teil 29'
+  - '03: Licht aus! - Teil 30'
+  - '03: Licht aus! - Teil 31'
+  - '03: Licht aus! - Teil 32'
+  - '03: Licht aus! - Teil 33'
+  - '03: Licht aus! - Teil 34'
+  - '03: Licht aus! - Teil 35'
+  - '03: Licht aus! - Teil 36'
+  - '03: Licht aus! - Teil 37'
+  - '03: Licht aus! - Teil 38'
+  - '03: Licht aus! - Teil 39'
+  - '03: Licht aus! - Teil 40'
+  - '03: Licht aus! - Teil 41'
+  - '03: Licht aus! - Teil 42'
+  - '03: Licht aus! - Teil 43'
+  - '03: Licht aus! - Teil 44'
+  - '03: Licht aus! - Teil 45'
+  - '03: Licht aus! - Teil 46'
+  - '03: Licht aus! - Teil 47'
+  - Willkommen in der Schule der magischen Tiere
   ids: []

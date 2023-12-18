@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Das Pferd in der Schule
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,15 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/das-pferd-in-der-schule/
   shop-id: 466890d1-2258-4148-896f-ae54ba030221
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Typisch Krähe
+  - Bibi soll hexen
+  - Sabrina in der Klasse
+  - Sprachschwierigkeiten
+  - Schnell verstecken
+  - Tierisch viel Probleme
+  - Mami hilft
+  - Abwarten und Kaffeetrinken
+  - Keine Angst vor großen Tieren
   ids: []

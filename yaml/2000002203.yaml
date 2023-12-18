@@ -4,9 +4,9 @@ data:
 - series: Die kleine Schnecke Monika Häuschen
   series-id: die-kleine-schnecke-monika-haeuschen
   episode: Warum schmecken Kirschen süß?
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,36 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/die-kleine-schnecke-monika-haeuschen/warum-schmecken-kirschen-su/
   shop-id: 674b200f-e94a-4ee6-a656-d5297db69edb
-  track-desc: []
+  track-desc:
+  - Die kleine Schnecke Monika Häuschen - Titellied
+  - Warum schmecken Kirschen süß? - Teil 01
+  - Warum schmecken Kirschen süß? - Teil 02
+  - Warum schmecken Kirschen süß? - Teil 03
+  - Warum schmecken Kirschen süß? - Teil 04
+  - Warum schmecken Kirschen süß? - Teil 05
+  - Warum schmecken Kirschen süß? - Teil 06
+  - Warum schmecken Kirschen süß? - Teil 07
+  - Warum schmecken Kirschen süß? - Teil 08
+  - Warum schmecken Kirschen süß? - Teil 09
+  - Warum schmecken Kirschen süß? - Teil 10
+  - Warum schmecken Kirschen süß? - Teil 11
+  - Warum schmecken Kirschen süß? - Teil 12
+  - Warum schmecken Kirschen süß? - Teil 13
+  - Warum schmecken Kirschen süß? - Teil 14
+  - Warum schmecken Kirschen süß? - Teil 15
+  - Warum schmecken Kirschen süß? - Teil 16
+  - Warum schmecken Kirschen süß? - Teil 17
+  - Warum schmecken Kirschen süß? - Teil 18
+  - Warum schmecken Kirschen süß? - Teil 19
+  - Warum schmecken Kirschen süß? - Teil 20
+  - Warum schmecken Kirschen süß? - Teil 21
+  - Warum schmecken Kirschen süß? - Teil 22
+  - Warum schmecken Kirschen süß? - Teil 23
+  - Warum schmecken Kirschen süß? - Teil 24
+  - Warum schmecken Kirschen süß? - Teil 25
+  - Warum schmecken Kirschen süß? - Teil 26
+  - Warum schmecken Kirschen süß? - Teil 27
+  - Warum schmecken Kirschen süß? - Teil 28
+  - Warum schmecken Kirschen süß? - Teil 29
+  - Warum schmecken Kirschen süß? - Teil 30
   ids: []

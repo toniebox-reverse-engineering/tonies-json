@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Rätselhafte Mumien / Glanz der Pharaonen
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,40 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/ratselhafte-mumien-glanz-der-pharaonen/
   shop-id: 5f2edb52-ca59-4270-a063-73ce9b896961
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Einleitung'
+  - 'Thema 1: Das alte Ägypten: Land der Pyramiden'
+  - 'Thema 1: Was ist eine Mumie?'
+  - 'Thema 1: Moorleichen'
+  - 'Thema 1: Mumie aus dem Eis: Ötzi'
+  - 'Thema 1: Was Mumien verraten'
+  - 'Thema 1: Gräber in der Wüste'
+  - 'Thema 1: Leben und Tod des Tutanchamun'
+  - 'Thema 1: Wer war Howard Carter?'
+  - 'Thema 1: Die Mumie des Tutanchamun'
+  - 'Thema 1: Das Tal der Könige und die Pyramiden von Gizeh'
+  - 'Thema 1: Im Schutz der Pyramide'
+  - 'Thema 1: Wozu Mumifizierung?'
+  - 'Thema 1: Die Kunst der Mumifizierung im alten Ägypten'
+  - 'Thema 1: Was gehörte alles in die Grabkammer?'
+  - 'Thema 1: Die Suche nach Mumien geht weiter'
+  - 'Thema 2: Einleitung'
+  - 'Thema 2: Das alte Ägypten und seine Pharaonen'
+  - 'Thema 2: Ramses II.'
+  - 'Thema 2: Vom Kind zum Pharao'
+  - 'Thema 2: König, Priester und Kriegsherr'
+  - 'Thema 2: Arm und Reich'
+  - 'Thema 2: Lebensader Nil'
+  - 'Thema 2: Schwarzes Land'
+  - 'Thema 2: Die Kleidung des Pharao'
+  - 'Thema 2: Im Tempel des Sonnengotts'
+  - 'Thema 2: Die Kronen des Pharao'
+  - 'Thema 2: Wertvolles Getreide'
+  - 'Thema 2: Geschenke an den Pharao'
+  - 'Thema 2: Der Königspalast'
+  - 'Thema 2: Körperpflege im alten Ägypten'
+  - 'Thema 2: Die Familie des Pharao'
+  - 'Thema 2: Jagd auf Nilpferde'
+  - 'Thema 2: Der Tempel von Abu Simbel'
+  - 'Thema 2: Das Ende des alten Ägyptens'
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Conni
   series-id: conni
   episode: Conni und die Ponyspiele
-  release: 0
+  release: 1634774400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
@@ -14,5 +14,47 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/conni/conni-und-die-ponyspiele/
   shop-id: b6dfebb7-06b9-43a1-964e-52aeb3257bd9
-  track-desc: []
+  track-desc:
+  - Meine beste Freundin Conni
+  - Conni und die Ponyspiele - Teil 01
+  - Conni und die Ponyspiele - Teil 02
+  - Conni und die Ponyspiele - Teil 03
+  - Conni und die Ponyspiele - Teil 04
+  - Conni und die Ponyspiele - Teil 05
+  - Conni und die Ponyspiele - Teil 06
+  - Conni und die Ponyspiele - Teil 07
+  - Conni und die Ponyspiele - Teil 08
+  - Conni und die Ponyspiele - Teil 09
+  - Conni und die Ponyspiele - Teil 10
+  - Conni und die Ponyspiele - Teil 11
+  - Conni und die Ponyspiele - Teil 12
+  - Conni und die Ponyspiele - Teil 13
+  - Conni und die Ponyspiele - Teil 14
+  - Conni und die Ponyspiele - Teil 15
+  - Conni und die Ponyspiele - Teil 16
+  - Conni und die Ponyspiele - Teil 17
+  - Conni und die Ponyspiele - Teil 18
+  - Conni und die Ponyspiele - Teil 19
+  - Conni und die Ponyspiele - Teil 20
+  - Conni und die Ponyspiele - Teil 21
+  - Conni und die Ponyspiele - Teil 22
+  - Conni und die Ponyspiele - Teil 23
+  - Conni und die Ponyspiele - Teil 24
+  - Conni und die Ponyspiele - Teil 25
+  - Conni und die Ponyspiele - Teil 26
+  - Conni und die Ponyspiele - Teil 27
+  - Conni und die Ponyspiele - Teil 28
+  - Conni und die Ponyspiele - Teil 29
+  - Conni und die Ponyspiele - Teil 30
+  - Conni und die Ponyspiele - Teil 31
+  - Conni und die Ponyspiele - Teil 32
+  - Conni und die Ponyspiele - Teil 33
+  - Conni und die Ponyspiele - Teil 34
+  - Conni und die Ponyspiele - Teil 35
+  - Conni und die Ponyspiele - Teil 36
+  - Conni und die Ponyspiele - Teil 37
+  - Conni und die Ponyspiele - Teil 38
+  - Conni und die Ponyspiele - Teil 39
+  - Conni und die Ponyspiele - Teil 40
+  - Meine beste Freundin Conni
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 41: Pumuckl und die Gummi-Ente'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,21 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-und-die-gummi-ente-das-original-aus-dem-fe/
   shop-id: 5d1fe1ea-4488-4e69-b6ff-2c63e6dc1c35
-  track-desc: []
+  track-desc:
+  - Pumuckl und die Gummi-Ente - Teil 01
+  - Pumuckl und die Gummi-Ente - Teil 02
+  - Pumuckl und die Gummi-Ente - Teil 03
+  - Pumuckl und die Gummi-Ente - Teil 04
+  - Pumuckl und die Gummi-Ente - Teil 05
+  - Pumuckl und die Gummi-Ente - Teil 06
+  - Pumuckl und die Gummi-Ente - Teil 07
+  - Pumuckl und die Gummi-Ente - Teil 08
+  - Pumuckl und die Gummi-Ente - Teil 09
+  - Pumuckl und die Gummi-Ente - Teil 10
+  - Pumuckl und die Gummi-Ente - Teil 11
+  - Pumuckl und die Gummi-Ente - Teil 12
+  - Pumuckl und die Gummi-Ente - Teil 13
+  - Pumuckl und die Gummi-Ente - Teil 14
+  - Pumuckl und die Gummi-Ente - Teil 15
+  - Pumuckl und die Gummi-Ente - Teil 16
   ids: []

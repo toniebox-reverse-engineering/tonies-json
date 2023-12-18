@@ -4,9 +4,9 @@ data:
 - series: PAW Patrol
   series-id: paw-patrol
   episode: 'Folgen 133-136: Rüsselchens Rettung'
-  release: 0
+  release: 1617926400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,28 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-133-136-russelchens-rettung/
   shop-id: e77460f9-8e9a-4df5-ba04-898c206eaf1c
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Rüsselchens Rettung (Folge 133)'
+  - 'Kapitel 02: Rüsselchens Rettung (Folge 133)'
+  - 'Kapitel 03: Rüsselchens Rettung (Folge 133)'
+  - 'Kapitel 04: Rüsselchens Rettung (Folge 133)'
+  - 'Kapitel 05: Rüsselchens Rettung (Folge 133)'
+  - 'Kapitel 06: Rüsselchens Rettung (Folge 133)'
+  - 'Kapitel 01: Die Goldsuche (Folge 134)'
+  - 'Kapitel 02: Die Goldsuche (Folge 134)'
+  - 'Kapitel 03: Die Goldsuche (Folge 134)'
+  - 'Kapitel 04: Die Goldsuche (Folge 134)'
+  - 'Kapitel 05: Die Goldsuche (Folge 134)'
+  - 'Kapitel 01: Das spezielle Mittagessen (Folge 135)'
+  - 'Kapitel 02: Das spezielle Mittagessen (Folge 135)'
+  - 'Kapitel 03: Das spezielle Mittagessen (Folge 135)'
+  - 'Kapitel 04: Das spezielle Mittagessen (Folge 135)'
+  - 'Kapitel 05: Das spezielle Mittagessen (Folge 135)'
+  - 'Kapitel 06: Das spezielle Mittagessen (Folge 135)'
+  - 'Kapitel 01: Bärenhunger (Folge 136)'
+  - 'Kapitel 02: Bärenhunger (Folge 136)'
+  - 'Kapitel 03: Bärenhunger (Folge 136)'
+  - 'Kapitel 04: Bärenhunger (Folge 136)'
+  - 'Kapitel 05: Bärenhunger (Folge 136)'
+  - 'Kapitel 06: Bärenhunger (Folge 136)'
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Pumuckl Weihnachten
   series-id: pumuckl-weihnachten
   episode: Der erste Schnee
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,22 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl-weihnachten/weihnachten-der-erste-schnee-das-original-aus-dem/
   shop-id: 1c8f7987-92af-4da2-99ab-dc0a7cf0852a
-  track-desc: []
+  track-desc:
+  - Der erste Schnee - Teil 01
+  - Der erste Schnee - Teil 02
+  - Der erste Schnee - Teil 03
+  - Der erste Schnee - Teil 04
+  - Der erste Schnee - Teil 05
+  - Der erste Schnee - Teil 06
+  - Der erste Schnee - Teil 07
+  - Der erste Schnee - Teil 08
+  - Der erste Schnee - Teil 09
+  - Der erste Schnee - Teil 10
+  - Der erste Schnee - Teil 11
+  - Der erste Schnee - Teil 12
+  - Der erste Schnee - Teil 13
+  - Der erste Schnee - Teil 14
+  - Der erste Schnee - Teil 15
+  - Der erste Schnee - Teil 16
+  - Der erste Schnee - Teil 17
   ids: []

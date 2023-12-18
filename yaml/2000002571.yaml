@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Wirtschaft / Geld
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,33 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/wirtschaft-geld/
   shop-id: b3010ba7-f0a3-4602-b14b-44f64182d9cc
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Wirtschaft'
+  - 'Thema 1: Was ist Wirtschaft?'
+  - 'Thema 1: Was hat Taschengeld mit der Wirtschaft zu tun?'
+  - 'Thema 1: Was bedeutet wirtschaften?'
+  - 'Thema 1: Die Märkte'
+  - 'Thema 1: Unsichtbare Märkte'
+  - 'Thema 1: Wie wichtig ist das Internet?'
+  - 'Thema 1: Arm oder Reich durch Aktien?'
+  - 'Thema 1: Was ist die Spekulationsblase?'
+  - 'Thema 1: Die Versteigerung'
+  - 'Thema 1: Werbung: Ein wichtiger Bestandteil'
+  - 'Thema 1: Globale Wirtschaft'
+  - 'Thema 1: Das Leben hinter den billigen Produkten'
+  - 'Thema 1: Fairtrade'
+  - 'Thema 2: Geld'
+  - 'Thema 2: Was ist Geld?'
+  - 'Thema 2: Die Entstehung des Geldes'
+  - 'Thema 2: Das Tauschmittel'
+  - 'Thema 2: Was ist Naturalgeld?'
+  - 'Thema 2: Das größte Kleingeld der Welt'
+  - 'Thema 2: Die Kaurischnecke'
+  - 'Thema 2: Von Metallbarren zur Münze'
+  - 'Thema 2: Die Geschichte des Papiergeldes'
+  - 'Thema 2: Das Buchgeld'
+  - 'Thema 2: Die Bank'
+  - 'Thema 2: Was sind Zinsen?'
+  - 'Thema 2: Strafen für Falschgeld'
+  - 'Thema 2: Die verschiedenen Währungen'
   ids: []

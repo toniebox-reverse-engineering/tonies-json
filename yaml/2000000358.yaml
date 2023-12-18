@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Reiten verboten!
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/reiten-verboten/
   shop-id: 3f8425ec-722e-41de-8692-5318038842e7
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Mitten ins Picknick
+  - Die Abkürzung
+  - Noch ein Unfall
+  - Das Reitverbot
+  - Bibis und Tinas Plan
+  - Die Entschuldigung
+  - Besuch bei Alexander
+  - Das Training
+  - Felicitas und Dominic büxen aus
+  - Vergebliche Suche
+  - Auf dem Heuboden
+  - Alles auf Anfang
+  - Extra- Frau Martin
   ids: []

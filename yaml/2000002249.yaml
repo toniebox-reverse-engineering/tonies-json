@@ -4,9 +4,9 @@ data:
 - series: Felix
   series-id: felix
   episode: Neue Briefe von Felix
-  release: 0
+  release: 1607817600
   language: de-de
-  category: null
+  category: audio-book-songs
   runtime: 0
   age: 5
   origin: tunes
@@ -14,5 +14,40 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/felix/neue-briefe-von-felix/
   shop-id: 18ff598a-d4ba-46fe-8320-00ceb737f08b
-  track-desc: []
+  track-desc:
+  - Briefe von Felix
+  - Felix im Mittelalter - Teil 01
+  - Felix im Mittelalter - Teil 02
+  - Felix im Mittelalter - Teil 03
+  - Felix im Mittelalter - Teil 04
+  - Felix im Mittelalter - Teil 05
+  - Felix im Mittelalter - Teil 06
+  - Felix im Mittelalter - Teil 07
+  - Ritter Pups
+  - Felix bei den Wikingern - Teil 01
+  - Felix bei den Wikingern - Teil 02
+  - Felix bei den Wikingern - Teil 03
+  - Felix bei den Wikingern - Teil 04
+  - Wir sind die Wikinger
+  - Felix bei den Indianern - Teil 01
+  - Felix bei den Indianern - Teil 02
+  - Felix bei den Indianern - Teil 03
+  - Felix bei den Indianern - Teil 04
+  - Yippie, Yippie, Yippie
+  - Felix im Fernen Osten - Teil 01
+  - Felix im Fernen Osten - Teil 02
+  - Felix im Fernen Osten - Teil 03
+  - Felix im Fernen Osten - Teil 04
+  - Ein Lama in Yokohama
+  - Felix im alten Griechenland - Teil 01
+  - Felix im alten Griechenland - Teil 02
+  - Felix im alten Griechenland - Teil 03
+  - Im alten Griechenland
+  - Felix in der Steinzeit - Teil 01
+  - Felix in der Steinzeit - Teil 02
+  - Felix in der Steinzeit - Teil 03
+  - Felix in der Steinzeit - Teil 04
+  - Felix in der Steinzeit - Teil 05
+  - Steinzeit-Steine-Band
+  - Felix in der Steinzeit - Teil 06
   ids: []

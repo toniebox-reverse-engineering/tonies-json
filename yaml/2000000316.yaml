@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Der Pferdedieb
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,16 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/der-pferdedieb/
   shop-id: 8f20be65-a885-4553-bb5c-94c8f3bd660d
-  track-desc: []
+  track-desc:
+  - Song
+  - Blitz und Donner
+  - Kakao und Butterbrötchen
+  - Max und Moritz
+  - Bibis Hexennase juckt
+  - Der Pferdedieb
+  - Vergebliche Suche
+  - Kopfzerbrechen
+  - Die Superfalle
+  - Rettung in letzter Sekunde
+  - Der Wahrheitshexspruch
   ids: []

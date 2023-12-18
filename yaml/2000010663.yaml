@@ -4,9 +4,9 @@ data:
 - series: Aumio
   series-id: aumio
   episode: Traumreise in die Traumzirkus-Galaxie
-  release: 0
-  language: null
-  category: null
+  release: 1701820800
+  language: de-de
+  category: audio-book
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,7 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/aumio/aumio-traumreise-in-die-traumzirkus-galaxie/
   shop-id: b4bbafcc-a252-49f1-bf3f-2c5626d3ae2b
-  track-desc: []
+  track-desc:
+  - In Sternenlicht baden
+  - Träumen im Traumzirkus
   ids: []

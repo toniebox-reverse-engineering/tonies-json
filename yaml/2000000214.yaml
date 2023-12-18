@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Die vertauschte Hexenkugel
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,15 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/die-vertauschte-hexenkugel/
   shop-id: 12e3a3ef-1e5e-4a10-a36b-171d79028bc5
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Der Hexenkongress
+  - Barbaras Wette
+  - Ein übler Plan
+  - Nächtliche Nachforschungen
+  - Enteneier und Wasserrosen
+  - Böse Überraschungen
+  - Das Gute liegt so nah
+  - Noch eine Vertausch-Aktion
+  - Die Wahrheit kommt ans Licht
   ids: []

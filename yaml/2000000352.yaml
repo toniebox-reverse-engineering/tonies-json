@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Konkurrenz für Alex
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,16 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/konkurrenz-fur-alex/
   shop-id: c5869a23-fdf4-4cce-8cde-396fc8e1560c
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Schneller, Amadeus
+  - Knatsch mit Alex
+  - Der neue Feriengast
+  - Bibi auf Schloss Falkenstein
+  - Verhextes Abendessen
+  - Tina und Pierre - Bibi und Alex
+  - Sommertheater und Theaterdonner
+  - Nur eine Ferienbekanntschaft
+  - Echte Freunde
+  - Versöhnung auf dem Martinshof
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Der fliegende Sattel
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/der-fliegende-sattel/
   shop-id: b5c6b48a-fd68-4c1d-a243-303bd31d7934
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Der Königskinder-Sattel
+  - Tinas Verabredung
+  - Auf dem Schloss
+  - Trödel-Geschichten
+  - Ein wertvolles Geschäft
+  - Hexensattel
+  - Ein halbes Buch
+  - Interessante Neuigkeiten
+  - Der fliegende Graf
+  - Der verschwundene Sattel
+  - Im Reitermuseum
+  - Eine gute Fälschung
   ids: []

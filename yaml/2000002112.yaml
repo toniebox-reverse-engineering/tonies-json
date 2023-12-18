@@ -4,9 +4,9 @@ data:
 - series: Conni
   series-id: conni
   episode: Conni im Krankenhaus / Conni tanzt
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,36 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/conni/conni-im-krankenhaus-conni-tanzt/
   shop-id: 405df42a-2b6e-4cdc-949e-fb9c33d86b15
-  track-desc: []
+  track-desc:
+  - Meine beste Freundin Conni
+  - Conni im Krankenhaus - Teil 01
+  - Conni im Krankenhaus - Teil 02
+  - Conni im Krankenhaus - Teil 03
+  - Conni im Krankenhaus - Teil 04
+  - Conni im Krankenhaus - Teil 05
+  - Conni im Krankenhaus - Teil 06
+  - Conni im Krankenhaus - Teil 07
+  - Conni im Krankenhaus - Teil 08
+  - Conni im Krankenhaus - Teil 09
+  - Conni im Krankenhaus - Teil 10
+  - Conni im Krankenhaus - Teil 11
+  - Conni im Krankenhaus - Teil 12
+  - Conni im Krankenhaus - Teil 13
+  - Conni im Krankenhaus - Teil 14
+  - Conni im Krankenhaus - Teil 15
+  - Conni tanzt - Teil 01
+  - Conni tanzt - Teil 02
+  - Conni tanzt - Teil 03
+  - Conni tanzt - Teil 04
+  - Conni tanzt - Teil 05
+  - Conni tanzt - Teil 06
+  - Conni tanzt - Teil 07
+  - Conni tanzt - Teil 08
+  - Conni tanzt - Teil 09
+  - Conni tanzt - Teil 10
+  - Conni tanzt - Teil 11
+  - Conni tanzt - Teil 12
+  - Conni tanzt - Teil 13
+  - Conni tanzt - Teil 14
+  - Meine beste Freundin Conni
   ids: []

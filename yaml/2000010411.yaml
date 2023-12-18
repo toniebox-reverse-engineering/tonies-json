@@ -4,9 +4,9 @@ data:
 - series: Piccolo, Saxo et Compagnie
   series-id: piccolo-saxo-et-compagnie
   episode: Piccolo, Saxo et Compagnie
-  release: 0
+  release: 1693353600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
@@ -14,5 +14,7 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/piccolo-saxo-et-compagnie/piccolo-saxo-et-compagnie/
   shop-id: 8aa73347-91ea-4c5e-8767-82831985e1b1
-  track-desc: []
+  track-desc:
+  - Chapter 1
+  - Chapter 2
   ids: []

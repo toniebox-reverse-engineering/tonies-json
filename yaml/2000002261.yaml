@@ -5,9 +5,9 @@ data:
   series-id: meine-freundin-conni
   episode: Conni fährt Ski / Conni und der Osterhase / Conni geht zum Kinderarzt /
     Conni spielt Fußball (Vier Hörspiele zur TV-Serie)
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -15,5 +15,40 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/meine-freundin-conni/conni-fahrt-ski-conni-und-der-osterhase-conni-geht/
   shop-id: 4a96a0be-8a31-4007-b7d2-822f2ccb81ce
-  track-desc: []
+  track-desc:
+  - Intro Theme Song "Meine Freundin Conni"
+  - Conni fährt Ski - Teil 01
+  - Conni fährt Ski - Teil 02
+  - Conni fährt Ski - Teil 03
+  - Conni fährt Ski - Teil 04
+  - Conni fährt Ski - Teil 05
+  - Conni fährt Ski - Teil 06
+  - Conni fährt Ski - Teil 07
+  - Conni fährt Ski - Teil 08
+  - Conni fährt Ski - Teil 09
+  - Conni und der Osterhase - Teil 01
+  - Conni und der Osterhase - Teil 02
+  - Conni und der Osterhase - Teil 03
+  - Conni und der Osterhase - Teil 04
+  - Conni und der Osterhase - Teil 05
+  - Conni und der Osterhase - Teil 06
+  - Conni und der Osterhase - Teil 07
+  - Conni und der Osterhase - Teil 08
+  - Conni geht zum Kinderarzt - Teil 01
+  - Conni geht zum Kinderarzt - Teil 02
+  - Conni geht zum Kinderarzt - Teil 03
+  - Conni geht zum Kinderarzt - Teil 04
+  - Conni geht zum Kinderarzt - Teil 05
+  - Conni geht zum Kinderarzt - Teil 06
+  - Conni geht zum Kinderarzt - Teil 07
+  - Conni geht zum Kinderarzt - Teil 08
+  - Conni spielt Fußball - Teil 01
+  - Conni spielt Fußball - Teil 02
+  - Conni spielt Fußball - Teil 03
+  - Conni spielt Fußball - Teil 04
+  - Conni spielt Fußball - Teil 05
+  - Conni spielt Fußball - Teil 06
+  - Conni spielt Fußball - Teil 07
+  - Conni spielt Fußball - Teil 08
+  - Conni spielt Fußball - Teil 09
   ids: []

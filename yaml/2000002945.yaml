@@ -4,9 +4,9 @@ data:
 - series: Die Schule der magischen Tiere
   series-id: die-schule-der-magischen-tiere
   episode: Voll das Chaos!
-  release: 0
+  release: 1644451200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,50 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/die-schule-der-magischen-tiere/voll-das-chaos/
   shop-id: 341eac8f-23af-4135-9b6a-714aa1d5efbb
-  track-desc: []
+  track-desc:
+  - Voll das Chaos! - Intro
+  - Voll das Chaos! - Teil 01
+  - Voll das Chaos! - Teil 02
+  - Voll das Chaos! - Teil 03
+  - Voll das Chaos! - Teil 04
+  - Voll das Chaos! - Teil 05
+  - Voll das Chaos! - Teil 06
+  - Voll das Chaos! - Teil 07
+  - Voll das Chaos! - Teil 08
+  - Voll das Chaos! - Teil 09
+  - Voll das Chaos! - Teil 10
+  - Voll das Chaos! - Teil 11
+  - Voll das Chaos! - Teil 12
+  - Voll das Chaos! - Teil 13
+  - Voll das Chaos! - Teil 14
+  - Voll das Chaos! - Teil 15
+  - Voll das Chaos! - Teil 16
+  - Voll das Chaos! - Teil 17
+  - Voll das Chaos! - Teil 18
+  - Voll das Chaos! - Teil 19
+  - Voll das Chaos! - Teil 20
+  - Voll das Chaos! - Teil 21
+  - Voll das Chaos! - Teil 22
+  - Voll das Chaos! - Teil 23
+  - Voll das Chaos! - Teil 24
+  - Voll das Chaos! - Teil 25
+  - Voll das Chaos! - Teil 26
+  - Voll das Chaos! - Teil 27
+  - Voll das Chaos! - Teil 28
+  - Voll das Chaos! - Teil 29
+  - Voll das Chaos! - Teil 30
+  - Voll das Chaos! - Teil 31
+  - Voll das Chaos! - Teil 32
+  - Voll das Chaos! - Teil 33
+  - Voll das Chaos! - Teil 34
+  - Voll das Chaos! - Teil 35
+  - Voll das Chaos! - Teil 36
+  - Voll das Chaos! - Teil 37
+  - Voll das Chaos! - Teil 38
+  - Voll das Chaos! - Teil 39
+  - Voll das Chaos! - Teil 40
+  - Voll das Chaos! - Teil 41
+  - Voll das Chaos! - Teil 42
+  - Voll das Chaos! - Teil 43
+  - Willkommen in der Schule der magischen Tiere
   ids: []

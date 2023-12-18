@@ -4,9 +4,9 @@ data:
 - series: Conni
   series-id: conni
   episode: Conni bekommt eine Katze / Conni hat Geburtstag
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,35 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/conni/conni-bekommt-eine-katze-conni-hat-geburtstag/
   shop-id: c3f8cef8-a99a-43ca-ab7b-d0623cb3d0b7
-  track-desc: []
+  track-desc:
+  - Meine beste Freundin Conni
+  - Conni bekommt eine Katze - Teil 01
+  - Conni bekommt eine Katze - Teil 02
+  - Conni bekommt eine Katze - Teil 03
+  - Conni bekommt eine Katze - Teil 04
+  - Conni bekommt eine Katze - Teil 05
+  - Conni bekommt eine Katze - Teil 06
+  - Conni bekommt eine Katze - Teil 07
+  - Conni bekommt eine Katze - Teil 08
+  - Conni bekommt eine Katze - Teil 09
+  - Conni bekommt eine Katze - Teil 10
+  - Conni bekommt eine Katze - Teil 11
+  - Conni bekommt eine Katze - Teil 12
+  - Conni bekommt eine Katze - Teil 13
+  - Conni bekommt eine Katze - Teil 14
+  - Conni hat Geburtstag - Teil 01
+  - Conni hat Geburtstag - Teil 02
+  - Conni hat Geburtstag - Teil 03
+  - Conni hat Geburtstag - Teil 04
+  - Conni hat Geburtstag - Teil 05
+  - Conni hat Geburtstag - Teil 06
+  - Conni hat Geburtstag - Teil 07
+  - Conni hat Geburtstag - Teil 08
+  - Conni hat Geburtstag - Teil 09
+  - Conni hat Geburtstag - Teil 10
+  - Conni hat Geburtstag - Teil 11
+  - Conni hat Geburtstag - Teil 12
+  - Conni hat Geburtstag - Teil 13
+  - Heut ist dein Geburtstag
+  - Meine beste Freundin Conni
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Das Lufttaxi
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,17 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/das-lufttaxi/
   shop-id: aa277305-b08c-4af5-ae1c-b5a8c5f89a1e
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - T-Shirt - Träume
+  - Der Leihhexspruch
+  - Zwei schlechtgelaunte Mädchen
+  - Conny F. Schinkenburger
+  - Bibi als Stadtführerin
+  - Beim Bürgermeister
+  - Das Bild
+  - Ein böses Erwachen
+  - Der Bürgermeister handelt
+  - Versöhnliches Ende
+  - Überraschung für Bibi
   ids: []

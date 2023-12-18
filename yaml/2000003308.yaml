@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 63: Das Gespenst im Gartenhaus'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,21 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/das-gespenst-im-gartenhaus-das-original-aus-dem-fe/
   shop-id: c6ae8de7-64c7-44f7-82a7-e53f08bd4ce2
-  track-desc: []
+  track-desc:
+  - Das Gespenst im Gartenhaus - Teil 01
+  - Das Gespenst im Gartenhaus - Teil 02
+  - Das Gespenst im Gartenhaus - Teil 03
+  - Das Gespenst im Gartenhaus - Teil 04
+  - Das Gespenst im Gartenhaus - Teil 05
+  - Das Gespenst im Gartenhaus - Teil 06
+  - Das Gespenst im Gartenhaus - Teil 07
+  - Das Gespenst im Gartenhaus - Teil 08
+  - Das Gespenst im Gartenhaus - Teil 09
+  - Das Gespenst im Gartenhaus - Teil 10
+  - Das Gespenst im Gartenhaus - Teil 11
+  - Das Gespenst im Gartenhaus - Teil 12
+  - Das Gespenst im Gartenhaus - Teil 13
+  - Das Gespenst im Gartenhaus - Teil 14
+  - Das Gespenst im Gartenhaus - Teil 15
+  - Das Gespenst im Gartenhaus - Teil 16
   ids: []

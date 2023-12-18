@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Schatzsuche / Das alte China
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,33 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/schatzsuche-das-alte-china/
   shop-id: 8a468b88-1c21-4285-b956-9d33d0e78f8e
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Einleitung'
+  - 'Thema 1: Schätze gibt es überall'
+  - 'Thema 1: Warum Reichtümer früher versteckt wurden'
+  - 'Thema 1: Verschollene Schätze'
+  - 'Thema 1: Der Goldschatz von Lima'
+  - 'Thema 1: Warum Schätze schwer zu finden sind'
+  - 'Thema 1: Vorbereitungen für die Schatzsuche'
+  - 'Thema 1: Erfolgreiche Schatzsucher'
+  - 'Thema 1: Versunkene Schiffe'
+  - 'Thema 1: Welche Werkzeuge man für die Schatzsuche braucht'
+  - 'Thema 1: Was passiert am Fundort?'
+  - 'Thema 1: Wofür ist ein Metalldetektor gut?'
+  - 'Thema 1: Misslungene Schatzsuche'
+  - 'Thema 1: Schätze in Deutschland'
+  - 'Thema 1: Zufällig gefundene Schätze'
+  - 'Thema 2: Einleitung'
+  - 'Thema 2: China: Das Land der Erfinder'
+  - 'Thema 2: Wissenschaften und technischer Fortschritt in China'
+  - 'Thema 2: Der Peking-Mensch'
+  - 'Thema 2: Die ersten Städte Chinas'
+  - 'Thema 2: Menschenopferungen im alten China'
+  - 'Thema 2: Der erste Kaiser von China'
+  - 'Thema 2: Gigantische Grabanlage'
+  - 'Thema 2: Archäologische Funde'
+  - 'Thema 2: Wie China zur Weltmacht wurde'
+  - 'Thema 2: Herrschaft der Mongolen'
+  - 'Thema 2: Die verbotene Stadt'
+  - 'Thema 2: Das Ende des Kaiserreichs'
   ids: []

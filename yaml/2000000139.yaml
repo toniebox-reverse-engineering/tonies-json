@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: 3x schwarzer Kater
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/3x-schwarzer-kater/
   shop-id: 694d194c-4dcc-4190-9275-d6da5e73aede
-  track-desc: []
+  track-desc:
+  - Titellied
+  - Bibi will ein Haustier
+  - Ein frecher Papagei
+  - Der gehexte Elefant
+  - Mami hilft
+  - Ein Paket von Oma Grete
+  - Hexenkater Sylvester
+  - Ein ordentlicher Kater
+  - Siegeleier nachts um zwei
+  - Perplexe Blocksbergs
+  - Sylvester geht zu weit
+  - Der Brief
+  - Ein ganz normales Kätzchen
+  - Schnuffi
   ids: []

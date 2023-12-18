@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Faszination Autos / Eisenbahn
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/faszination-autos-eisenbahn/
   shop-id: be2679fc-483f-4c1c-8061-7e3964fb51e4
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Einleitung'
+  - 'Thema 1: Die Erfindung des Automobils'
+  - 'Thema 1: Der Motor'
+  - 'Thema 1: Verkehrsregeln'
+  - 'Thema 1: Der Produktionsprozess'
+  - 'Thema 1: Crashtests'
+  - 'Thema 1: Das Auto der Zukunft'
+  - 'Thema 2: Einleitung - Der Bahnhof'
+  - 'Thema 2: Erfindung der Eisenbahn'
+  - 'Thema 2: Luxuriöse Lokomotiven'
+  - 'Thema 2: Die Dampflok'
+  - 'Thema 2: E-Loks: Moderne Züge'
+  - 'Thema 2: Das Betriebswerk'
+  - 'Thema 2: Eisenbahnen der Zukunft'
   ids: []

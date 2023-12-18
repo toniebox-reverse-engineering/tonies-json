@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Das alte Ägypten / Pyramiden
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,40 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/das-alte-agypten-pyramiden/
   shop-id: b7156433-0618-47b9-b6b1-468b0a05de2c
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Das alte Aegypten'
+  - 'Thema 1: Wo liegt Aegypten?'
+  - 'Thema 1: Von Nomaden zu Siedlern'
+  - 'Thema 1: Kleopatra'
+  - 'Thema 1: Die Wueste und der Nil'
+  - 'Thema 1: Was versteht man unter dem schwarzen Land?'
+  - 'Thema 1: Bewaesserung der Felder'
+  - 'Thema 1: Der Staudamm'
+  - 'Thema 1: Wie lebten die Aegypter?'
+  - 'Thema 1: Die Ernaehrung im alten Aegypten'
+  - 'Thema 1: Wichtig für die Aegypter: Gutes Essen'
+  - 'Thema 1: Tausch der Waren'
+  - 'Thema 1: Was spielten die Kinder von damals?'
+  - 'Thema 1: Die Schreiberschule'
+  - 'Thema 1: Was ist Papyrus?'
+  - 'Thema 1: Hieroglyphen'
+  - 'Thema 1: Das Lesen der Hieroglyphen'
+  - 'Thema 2: Pyramiden'
+  - 'Thema 2: Was sind Pyramiden?'
+  - 'Thema 2: Die Pyramide von Sakara'
+  - 'Thema 2: Was versteht man unter einer Mastaba?'
+  - 'Thema 2: Die Meidum-Pyramide'
+  - 'Thema 2: Eine Katastrophe'
+  - 'Thema 2: Die erste echte Pyramide'
+  - 'Thema 2: Ab nach Gizeh'
+  - 'Thema 2: Wie lang dauerte der Bau einer Pyramide?'
+  - 'Thema 2: Koenigliche Insignien'
+  - 'Thema 2: Was ist das Totenbuch?'
+  - 'Thema 2: Bau für die Ewigkeit'
+  - 'Thema 2: Viel Muskelkraft noetig'
+  - 'Thema 2: Wie viele Menschen arbeiteten an einer Pyramide?'
+  - 'Thema 2: Der Pharao'
+  - 'Thema 2: Die Mumifizierung'
+  - 'Thema 2: Achtung, Eindringlinge!'
+  - 'Thema 2: Die amerikanischen Pyramiden'
   ids: []

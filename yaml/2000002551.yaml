@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Versunkene Städte / Sieben Weltwunder
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,39 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/versunkene-stadte-sieben-weltwunder/
   shop-id: 0d4ac6af-906b-4b54-93a5-1fe8b3d19945
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Versunkene Städte'
+  - 'Thema 1: Was bedeutet "Archäologie"?'
+  - 'Thema 1: Die Spuren der Vergangenheit'
+  - 'Thema 1: Was passsiert bei Ausgrabungen?'
+  - 'Thema 1: Die Sumerer'
+  - 'Thema 1: Steinregen'
+  - 'Thema 1: Gefährdung der Kulturstätten'
+  - 'Thema 1: Lange Forschungen'
+  - 'Thema 1: Wer sind die Olmeken?'
+  - 'Thema 1: Die Maya'
+  - 'Thema 1: Machu Picchu'
+  - 'Thema 1: Die Sonnenpyramide'
+  - 'Thema 1: Heraklion'
+  - 'Thema 2: Die sieben Weltwunder'
+  - 'Thema 2: Was sind die sieben Weltwunder?'
+  - 'Thema 2: Die Cheops-Pyramide'
+  - 'Thema 2: Der Bau der Pyramide'
+  - 'Thema 2: Wieso baute man Pyramiden?'
+  - 'Thema 2: Die hängenden Gärten'
+  - 'Thema 2: Das Bewässerungssystem'
+  - 'Thema 2: Wer ist Zeus?'
+  - 'Thema 2: Die Olympiade'
+  - 'Thema 2: Die Zeusstatue'
+  - 'Thema 2: Der Artemis-Tempel'
+  - 'Thema 2: Die Zerstörung des Tempels'
+  - 'Thema 2: Das Grabmal von Mausolos'
+  - 'Thema 2: Eigenartige Bauweise'
+  - 'Thema 2: Was passierte mit der Ruine?'
+  - 'Thema 2: Der Koloss von Rhodos'
+  - 'Thema 2: Fakten über die Statue'
+  - 'Thema 2: Die Trümmer'
+  - 'Thema 2: Der Leuchtturm von Alexandria'
+  - 'Thema 2: Wie weit schien das Signallicht?'
+  - 'Thema 2: Ausstattung des Turmes'
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Der Urmensch / Eiszeiten
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,33 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/der-urmensch-eiszeiten/
   shop-id: aefe62cd-9e0f-429c-a270-9597f1da032f
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Einleitung'
+  - 'Thema 1: Evolution auf der Erde'
+  - 'Thema 1: Menschenähnliche Wesen'
+  - 'Thema 1: Das Leben der Südaffen'
+  - 'Thema 1: Der Homo habilis'
+  - 'Thema 1: Der Homo erectus'
+  - 'Thema 1: Die Kunst des Feuermachens'
+  - 'Thema 1: Eiszeiten und die Entwicklung des Neandertalers'
+  - 'Thema 1: Neandertaler: Jäger der Steinzeit'
+  - 'Thema 1: Homo sapiens: Der moderne Mensch'
+  - 'Thema 1: Malereien des Homo sapiens'
+  - 'Thema 1: Die Schwelle eines neuen Zeitalters'
+  - 'Thema 2: Einleitung'
+  - 'Thema 2: Theorien über die Eiszeitalter'
+  - 'Thema 2: Was die Spuren in den Eisschichten über die Eiszeiten sagen'
+  - 'Thema 2: Ursachen und Gründe für die Entstehung von Eiszeiten'
+  - 'Thema 2: Welche Auswirkungen die Eiszeiten auf die Erde hatten'
+  - 'Thema 2: Die Entstehung von Gletschern'
+  - 'Thema 2: Verschiedene Gletschertypen'
+  - 'Thema 2: Die Folgen von schmelzendem Eis'
+  - 'Thema 2: Kaltzeiten: Sinkender Meeresspiegel'
+  - 'Thema 2: Die Bedeutung von Gebirgen in der Eiszeit'
+  - 'Thema 2: Tiere in der Eiszeit'
+  - 'Thema 2: Das Leben eines Mammuts'
+  - 'Thema 2: Das Aussterben vieler Säugetiere'
+  - 'Thema 2: Welche Fähigkeiten dem Menschen beim Überleben halfen'
+  - 'Thema 2: Die ersten Künstler der Menschheit'
+  - 'Thema 2: Welchen Einfluss die Menschen auf die Temperaturen der Erde haben'
   ids: []

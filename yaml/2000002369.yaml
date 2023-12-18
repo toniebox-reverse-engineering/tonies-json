@@ -4,9 +4,9 @@ data:
 - series: Geschichten vom Löwen
   series-id: geschichten-vom-loewen
   episode: Der Löwe, der nicht schlafen konnte und zwei weitere Geschichten!
-  release: 0
+  release: 1623196800
   language: de-de
-  category: null
+  category: audio-book
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,8 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/geschichten-vom-loewen/der-lowe-der-nicht-schlafen-konnte-und-zwei-weiter/
   shop-id: d8a1ca01-34e1-45c7-81d7-10f225c60332
-  track-desc: []
+  track-desc:
+  - Die Geschichte vom Löwen, der nicht schlafen konnte
+  - Löwenherzen weinen nicht
+  - Die Geschichte vom Löwen, der nicht kochen konnte
   ids: []

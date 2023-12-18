@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Inuit - Jäger im Eis / Abenteuer Arktis
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,39 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/inuit-jager-im-eis-abenteuer-arktis/
   shop-id: c464a39f-7b45-4b45-a80c-417a11c1ada9
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Inuit, Jäger im Eis'
+  - 'Thema 1: Grönland  Heimat der Inuit'
+  - 'Thema 1: So viel Eis!'
+  - 'Thema 1: Willkommen in Grönland!'
+  - 'Thema 1: Inuit-Häuser'
+  - 'Thema 1: Reisen in Grönland'
+  - 'Thema 1: Die Kleidung der Inuit'
+  - 'Thema 1: Starke Grönlandhunde'
+  - 'Thema 1: Hundeschlitten'
+  - 'Thema 1: Musch-Musch! Es geht los!'
+  - 'Thema 1: Pemmikan'
+  - 'Thema 1: Wie baut man einen Iglu?'
+  - 'Thema 1: Leben im Iglu'
+  - 'Thema 1: Fleisch und Fisch'
+  - 'Thema 1: Robbenjagd und Eislochfischen'
+  - 'Thema 1: Der Fisch hat angebissen'
+  - 'Thema 1: Inuit-Geschichten'
+  - 'Thema 2: Abenteuer Arktis'
+  - 'Thema 2: Auf zum Nordpol!'
+  - 'Thema 2: Mitternachtssonne und Polarnacht'
+  - 'Thema 2: Am Polarkreis'
+  - 'Thema 2: Das Polarlicht'
+  - 'Thema 2: Pflanzen der Arktis'
+  - 'Thema 2: Millionen von Mücken'
+  - 'Thema 2: Vögel der Arktis'
+  - 'Thema 2: Flüsse und Fjorde'
+  - 'Thema 2: Rentiere'
+  - 'Thema 2: Der Arktische Ozean'
+  - 'Thema 2: Eisbrecher'
+  - 'Thema 2: Wale und andere Meeressäuger'
+  - 'Thema 2: Eisbärenland Spitzbergen'
+  - 'Thema 2: Das Meereis'
+  - 'Thema 2: Leben unter dem Eis'
+  - 'Thema 2: Am Nordpol'
   ids: []

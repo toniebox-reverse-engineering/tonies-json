@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Die Hexenschule
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/die-hexenschule/
   shop-id: 08536d4e-a0d0-47d9-be89-603e61617ea9
-  track-desc: []
+  track-desc:
+  - Bibi Song
+  - Bernhard, der Heimwerker
+  - Die misslungenen Hausaufgaben
+  - Schlechte Ausreden
+  - Ein rosa Drache
+  - Hexenstrafen
+  - Der ungebetene Gast
+  - Bernhard ist sauer
+  - Im Hexlabor
+  - Mami hilft
+  - Erste Erfolge
+  - Wo ist Pinky-
+  - Pinky, der Zauberdrache
+  - Ende gut - alles gut!
   ids: []

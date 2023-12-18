@@ -4,9 +4,9 @@ data:
 - series: Rund um die Welt mit Fuchs und Schaf
   series-id: rund-um-die-welt-mit-fuchs-und-schaf
   episode: Massachusetts
-  release: 0
+  release: 1623888000
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,9 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/rund-um-die-welt-mit-fuchs-und-schaf/massachusetts/
   shop-id: 943f11c0-0a4c-4b65-915a-ed2ce9be3174
-  track-desc: []
+  track-desc:
+  - Titelsong „Rund um die Welt“
+  - Viel zu windig
+  - Die liebste Lieblings-Cousine
+  - Cranberries
   ids: []

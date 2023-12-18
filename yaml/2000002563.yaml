@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Klima / Natur schützen
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,40 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/klima-natur-schutzen/
   shop-id: f202b0b2-ea54-4b19-8b95-5e504fe50986
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Einleitung Klima'
+  - 'Thema 1: Extreme Wetterphänomene'
+  - 'Thema 1: Der Unterschied zwischen Klima und Wetter'
+  - 'Thema 1: Klimamotor Sonne und unsere Athmosphäre'
+  - 'Thema 1: Der Wasserkreislauf'
+  - 'Thema 1: Wie entstehen Winde?'
+  - 'Thema 1: Entstehung und Funktion von Meeresströmungen'
+  - 'Thema 1: Der Golfstrom'
+  - 'Thema 1: Die Klimazonen'
+  - 'Thema 1: Tropen, Subtropen und gemäßigte Zone'
+  - 'Thema 1: Merkmale der Klimazonen'
+  - 'Thema 1: Das Klima in den verschiedenen Erdzeitaltern'
+  - 'Thema 1: Das aktuelle Weltklima'
+  - 'Thema 1: Spuren der letzten Eiszeiten'
+  - 'Thema 1: Klimazeugen'
+  - 'Thema 1: Der Treibhauseffekt'
+  - 'Thema 1: Erneuerbare Energiegewinnung'
+  - 'Thema 1: Brandrodung der Wälder'
+  - 'Thema 2: Einleitung Natur schützen'
+  - 'Thema 2: Was ist Natur?'
+  - 'Thema 2: Ausrüstung zur Naturbeobachtung'
+  - 'Thema 2: Die Natur im Frühling und Sommer'
+  - 'Thema 2: Die Natur im Herbst und Winter'
+  - 'Thema 2: Tiere in Gärten und Parks'
+  - 'Thema 2: Vögel beobachten'
+  - 'Thema 2: Vogelfütterung im Winter'
+  - 'Thema 2: Greifvögel'
+  - 'Thema 2: Tiere in der Stadt'
+  - 'Thema 2: Wasservögel'
+  - 'Thema 2: Nestflüchter und Nesthocker'
+  - 'Thema 2: Wälder als Lebensräume'
+  - 'Thema 2: Der Waldboden'
+  - 'Thema 2: Tierfährten lesen'
+  - 'Thema 2: Entdeckungen am Strand'
+  - 'Thema 2: Die Umwelt schützen'
   ids: []

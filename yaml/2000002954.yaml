@@ -4,9 +4,9 @@ data:
 - series: Pixi Wissen
   series-id: pixi-wissen
   episode: Titanic
-  release: 0
+  release: 1645660800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,13 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pixi-wissen/titanic/
   shop-id: 0c17ebe4-ad2a-4b59-b091-137a903a0c92
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
   ids: []

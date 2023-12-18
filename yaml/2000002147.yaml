@@ -4,9 +4,9 @@ data:
 - series: Conni
   series-id: conni
   episode: Conni und die Jungs von nebenan
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
@@ -14,5 +14,40 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/conni/conni-und-die-jungs-von-nebenan/
   shop-id: 86464f32-8965-4a92-a506-0de0adfab199
-  track-desc: []
+  track-desc:
+  - Meine beste Freundin Conni
+  - Conni und die Jungs von nebenan - Teil 01
+  - Conni und die Jungs von nebenan - Teil 02
+  - Conni und die Jungs von nebenan - Teil 03
+  - Conni und die Jungs von nebenan - Teil 04
+  - Conni und die Jungs von nebenan - Teil 05
+  - Conni und die Jungs von nebenan - Teil 06
+  - Conni und die Jungs von nebenan - Teil 07
+  - Conni und die Jungs von nebenan - Teil 08
+  - Conni und die Jungs von nebenan - Teil 09
+  - Conni und die Jungs von nebenan - Teil 10
+  - Conni und die Jungs von nebenan - Teil 11
+  - Conni und die Jungs von nebenan - Teil 12
+  - Conni und die Jungs von nebenan - Teil 13
+  - Conni und die Jungs von nebenan - Teil 14
+  - Conni und die Jungs von nebenan - Teil 15
+  - Conni und die Jungs von nebenan - Teil 16
+  - Conni und die Jungs von nebenan - Teil 17
+  - Conni und die Jungs von nebenan - Teil 18
+  - Conni und die Jungs von nebenan - Teil 19
+  - Conni und die Jungs von nebenan - Teil 20
+  - Conni und die Jungs von nebenan - Teil 21
+  - Conni und die Jungs von nebenan - Teil 22
+  - Conni und die Jungs von nebenan - Teil 23
+  - Conni und die Jungs von nebenan - Teil 24
+  - Conni und die Jungs von nebenan - Teil 25
+  - Conni und die Jungs von nebenan - Teil 26
+  - Conni und die Jungs von nebenan - Teil 27
+  - Conni und die Jungs von nebenan - Teil 28
+  - Conni und die Jungs von nebenan - Teil 29
+  - Conni und die Jungs von nebenan - Teil 30
+  - Conni und die Jungs von nebenan - Teil 31
+  - Conni und die Jungs von nebenan - Teil 32
+  - Conni und die Jungs von nebenan - Teil 33
+  - Meine beste Freundin Conni
   ids: []

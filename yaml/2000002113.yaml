@@ -4,9 +4,9 @@ data:
 - series: Conni
   series-id: conni
   episode: Conni in der großen Stadt
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
@@ -14,5 +14,46 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/conni/conni-in-der-groen-stadt/
   shop-id: fd869a2f-e6b5-4663-bcbb-367dd9587bc8
-  track-desc: []
+  track-desc:
+  - Meine beste Freundin Conni
+  - Conni in der großen Stadt - Teil 01
+  - Conni in der großen Stadt - Teil 02
+  - Conni in der großen Stadt - Teil 03
+  - Conni in der großen Stadt - Teil 04
+  - Conni in der großen Stadt - Teil 05
+  - Conni in der großen Stadt - Teil 06
+  - Conni in der großen Stadt - Teil 07
+  - Conni in der großen Stadt - Teil 08
+  - Conni in der großen Stadt - Teil 09
+  - Conni in der großen Stadt - Teil 10
+  - Conni in der großen Stadt - Teil 11
+  - Conni in der großen Stadt - Teil 12
+  - Conni in der großen Stadt - Teil 13
+  - Conni in der großen Stadt - Teil 14
+  - Conni in der großen Stadt - Teil 15
+  - Conni in der großen Stadt - Teil 16
+  - Conni in der großen Stadt - Teil 17
+  - Conni in der großen Stadt - Teil 18
+  - Conni in der großen Stadt - Teil 19
+  - Conni in der großen Stadt - Teil 20
+  - Conni in der großen Stadt - Teil 21
+  - Conni in der großen Stadt - Teil 22
+  - Conni in der großen Stadt - Teil 23
+  - Conni in der großen Stadt - Teil 24
+  - Conni in der großen Stadt - Teil 25
+  - Conni in der großen Stadt - Teil 26
+  - Conni in der großen Stadt - Teil 27
+  - Conni in der großen Stadt - Teil 28
+  - Conni in der großen Stadt - Teil 29
+  - Conni in der großen Stadt - Teil 30
+  - Conni in der großen Stadt - Teil 31
+  - Conni in der großen Stadt - Teil 32
+  - Conni in der großen Stadt - Teil 33
+  - Conni in der großen Stadt - Teil 34
+  - Conni in der großen Stadt - Teil 35
+  - Conni in der großen Stadt - Teil 36
+  - Conni in der großen Stadt - Teil 37
+  - Conni in der großen Stadt - Teil 38
+  - Conni in der großen Stadt - Teil 39
+  - Meine beste Freundin Conni
   ids: []

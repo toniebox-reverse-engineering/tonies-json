@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Weltreligionen / Die Bibel
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,30 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/weltreligionen-die-bibel/
   shop-id: eab66644-576f-4124-9bc8-b16456eb551b
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Einleitung'
+  - 'Thema 1: Naturreligionen'
+  - 'Thema 1: Hinduismus - Die älteste Weltreligion'
+  - 'Thema 1: An was und wen glauben Hindus?'
+  - 'Thema 1: Buddhismus - Die Religion ohne Götter'
+  - 'Thema 1: Was glaubt ein Buddhist?'
+  - 'Thema 1: Judentum - Das Volk Israel'
+  - 'Thema 1: Wie sieht der jüdische Glaube aus?'
+  - 'Thema 1: Christentum - Die Religion mit den meisten Anhängern'
+  - 'Thema 1: Wie sehen christliche Predigten aus?'
+  - 'Thema 1: Islam - Hingabe an Gott'
+  - 'Thema 1: Der Koran - Das heilige Buch der Muslime'
+  - 'Thema 2: Einleitung'
+  - 'Thema 2: Die Bibel - Das Buch der Bücher'
+  - 'Thema 2: Worum es in der Bibel geht'
+  - 'Thema 2: Die vielen Textformen der Bibel'
+  - 'Thema 2: Wie Gott die Welt schuf - Auszug aus der Bibel'
+  - 'Thema 2: Die Geschichte der Arche Noah'
+  - 'Thema 2: Vom Mythos zur Bibel'
+  - 'Thema 2: Verkündung der Zehn Gebote'
+  - 'Thema 2: Propheten - Die Stimme Gottes'
+  - 'Thema 2: Gab es Jesus Christus wirklich?'
+  - 'Thema 2: Das Leben von Jesus - Die Vier Evangelien'
+  - 'Thema 2: Das neue Testament - Auszüge aus den Evangelien'
+  - 'Thema 2: Sind die Geschichten der Bibel wirklich wahr?'
   ids: []

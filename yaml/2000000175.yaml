@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Der Hexengeburtstag
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/der-hexengeburtstag/
   shop-id: d11e3e19-fc22-4ad0-a6a4-952c0eeecd98
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Einladung zum Hexengeburtstag
+  - Eine Weltsensation
+  - Karlas und Bibis Verschwörung
+  - Der Unsichtbarkeits-Spruch
+  - Vorbereitungen
+  - Flug zum Blocksberg
+  - Geburtstagswünsche
+  - Wetthexen der Jugend
+  - Armer Eduard
+  - Karla als Märchenhexe
+  - Srafe muß sein
+  - Quatsch in der Zeitung
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Die kleine Spürnase
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/die-kleine-spurnase/
   shop-id: 94014c27-267c-4c4f-9db1-ca52cd753611
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Der Würstchendieb
+  - Verfolgungsjagd
+  - Leckerli für Oskar
+  - Ein toller Spürhund
+  - Beweis vor Ort
+  - Würstchen aus der Pfanne
+  - Die Jungs im Wald
+  - Im alten Waldhaus
+  - Florian in Gefahr!
+  - Oskar gibt Gas
+  - Rettung in letzter Minute
+  - Der Held des Tages
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Musikinstrumente / Die Welt der Töne
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,33 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/musikinstrumente-die-welt-der-tone/
   shop-id: efb2617b-4c61-47f1-97d8-e6ffef8934ae
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Einleitung'
+  - 'Thema 1: Was ist ein Musikinstrument?'
+  - 'Thema 1: Wie wir selbst Töne und Klänge erzeugen können'
+  - 'Thema 1: Welche Musikinstrumente gibt es?'
+  - 'Thema 1: Das erste Musikinstrument'
+  - 'Thema 1: Notenschrift - Die Aufzeichnung von Musik'
+  - 'Thema 1: Das Holzblasinstrument'
+  - 'Thema 1: Das Blechblasinstrument'
+  - 'Thema 1: Das Streichinstrument'
+  - 'Thema 1: Das Tasteninstrument'
+  - 'Thema 1: Mundharmonika und Akkordeon'
+  - 'Thema 1: Elektrische und elektronische Instrumente'
+  - 'Thema 1: Mit Gegenständen Musik erzeugen'
+  - 'Thema 1: Ein musikalischer Witz'
+  - 'Thema 2: Einleitung'
+  - 'Thema 2: Geräusche und Klänge in unserer Umgebung'
+  - 'Thema 2: Wie Schall entsteht'
+  - 'Thema 2: Die Wahrnehmung von Schwingungen'
+  - 'Thema 2: Die Entstehung von Schallwellen'
+  - 'Thema 2: Blitz und Donner - Warum Licht schneller als Schall ist'
+  - 'Thema 2: Die Frequenz von Schwingungen'
+  - 'Thema 2: Warum gleiche Töne unterschiedlich klingen können'
+  - 'Thema 2: Die menschliche Stimme'
+  - 'Thema 2: Was unsere Stimme über uns aussagt'
+  - 'Thema 2: Die Funktion der Stimmbänder'
+  - 'Thema 2: Warum jeder Mensch eine eigene Stimme besitzt'
+  - 'Thema 2: Die Erfindung des Telefons'
+  - 'Thema 2: Die Aufzeichnung von Tönen'
   ids: []

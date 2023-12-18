@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Das traurige Einhorn
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/das-traurige-einhorn/
   shop-id: febc3ef7-beac-49f3-b1d9-b569ce651568
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Zum Waldlehrpfad
+  - Hannibal, bei Fuß!
+  - Ein echtes Einhorn
+  - Goldhörnchen
+  - Auf ins Abenteuer
+  - Tiefer in den Wald
+  - Unheimliches Moor
+  - Gefährliche Höhle
+  - Am steinernen Tor
+  - Der richtige Hexspruch
+  - Eine Glückssträhne
+  - Im Bus nach Hause
   ids: []

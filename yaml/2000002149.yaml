@@ -4,9 +4,9 @@ data:
 - series: Conni
   series-id: conni
   episode: Conni und die Nacht im Museum
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,52 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/conni/conni-und-die-nacht-im-museum/
   shop-id: 847ce934-a9fc-400f-b503-80eb936ea3f8
-  track-desc: []
+  track-desc:
+  - Meine beste Freundin Conni
+  - Conni und die Nacht im Museum - Teil 01
+  - Conni und die Nacht im Museum - Teil 02
+  - Conni und die Nacht im Museum - Teil 03
+  - Conni und die Nacht im Museum - Teil 04
+  - Conni und die Nacht im Museum - Teil 05
+  - Conni und die Nacht im Museum - Teil 06
+  - Conni und die Nacht im Museum - Teil 07
+  - Conni und die Nacht im Museum - Teil 08
+  - Conni und die Nacht im Museum - Teil 09
+  - Conni und die Nacht im Museum - Teil 10
+  - Conni und die Nacht im Museum - Teil 11
+  - Conni und die Nacht im Museum - Teil 12
+  - Conni und die Nacht im Museum - Teil 13
+  - Conni und die Nacht im Museum - Teil 14
+  - Conni und die Nacht im Museum - Teil 15
+  - Conni und die Nacht im Museum - Teil 16
+  - Conni und die Nacht im Museum - Teil 17
+  - Conni und die Nacht im Museum - Teil 18
+  - Conni und die Nacht im Museum - Teil 19
+  - Conni und die Nacht im Museum - Teil 20
+  - Conni und die Nacht im Museum - Teil 21
+  - Conni und die Nacht im Museum - Teil 22
+  - Conni und die Nacht im Museum - Teil 23
+  - Conni und die Nacht im Museum - Teil 24
+  - Conni und die Nacht im Museum - Teil 25
+  - Conni und die Nacht im Museum - Teil 26
+  - Conni und die Nacht im Museum - Teil 27
+  - Conni und die Nacht im Museum - Teil 28
+  - Conni und die Nacht im Museum - Teil 29
+  - Conni und die Nacht im Museum - Teil 30
+  - Conni und die Nacht im Museum - Teil 31
+  - Conni und die Nacht im Museum - Teil 32
+  - Conni und die Nacht im Museum - Teil 33
+  - Conni und die Nacht im Museum - Teil 34
+  - Conni und die Nacht im Museum - Teil 35
+  - Conni und die Nacht im Museum - Teil 36
+  - Conni und die Nacht im Museum - Teil 37
+  - Conni und die Nacht im Museum - Teil 38
+  - Conni und die Nacht im Museum - Teil 39
+  - Conni und die Nacht im Museum - Teil 40
+  - Conni und die Nacht im Museum - Teil 41
+  - Conni und die Nacht im Museum - Teil 42
+  - Conni und die Nacht im Museum - Teil 43
+  - Conni und die Nacht im Museum - Teil 44
+  - Conni und die Nacht im Museum - Teil 45
+  - Meine beste Freundin Conni
   ids: []

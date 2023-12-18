@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 74: Das Parfümfläschchen'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,21 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/das-parfumflaschchen-das-original-aus-dem-fernsehe/
   shop-id: 0363abe3-9872-4225-8257-21c376d435d2
-  track-desc: []
+  track-desc:
+  - Das Parfümfläschchen - Teil 01
+  - Das Parfümfläschchen - Teil 02
+  - Das Parfümfläschchen - Teil 03
+  - Das Parfümfläschchen - Teil 04
+  - Das Parfümfläschchen - Teil 05
+  - Das Parfümfläschchen - Teil 06
+  - Das Parfümfläschchen - Teil 07
+  - Das Parfümfläschchen - Teil 08
+  - Das Parfümfläschchen - Teil 09
+  - Das Parfümfläschchen - Teil 10
+  - Das Parfümfläschchen - Teil 11
+  - Das Parfümfläschchen - Teil 12
+  - Das Parfümfläschchen - Teil 13
+  - Das Parfümfläschchen - Teil 14
+  - Das Parfümfläschchen - Teil 15
+  - Das Parfümfläschchen - Teil 16
   ids: []

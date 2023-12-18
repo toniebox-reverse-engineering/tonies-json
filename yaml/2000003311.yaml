@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 66: Pumuckl hütet die Fische'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,22 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-hutet-die-fische-das-original-aus-dem-fern/
   shop-id: fcb766de-078f-4655-be06-a00328341add
-  track-desc: []
+  track-desc:
+  - Pumuckl hütet die Fische - Teil 01
+  - Pumuckl hütet die Fische - Teil 02
+  - Pumuckl hütet die Fische - Teil 03
+  - Pumuckl hütet die Fische - Teil 04
+  - Pumuckl hütet die Fische - Teil 05
+  - Pumuckl hütet die Fische - Teil 06
+  - Pumuckl hütet die Fische - Teil 07
+  - Pumuckl hütet die Fische - Teil 08
+  - Pumuckl hütet die Fische - Teil 09
+  - Pumuckl hütet die Fische - Teil 10
+  - Pumuckl hütet die Fische - Teil 11
+  - Pumuckl hütet die Fische - Teil 12
+  - Pumuckl hütet die Fische - Teil 13
+  - Pumuckl hütet die Fische - Teil 14
+  - Pumuckl hütet die Fische - Teil 15
+  - Pumuckl hütet die Fische - Teil 16
+  - Pumuckl hütet die Fische - Teil 17
   ids: []

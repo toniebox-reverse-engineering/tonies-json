@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 32: Und jetzt erst recht'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,22 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/und-jetzt-erst-recht-das-original-aus-dem-fernsehe/
   shop-id: ba64a033-8c83-47d7-a7d0-d85fb5fa6afe
-  track-desc: []
+  track-desc:
+  - Und jetzt erst recht - Teil 01
+  - Und jetzt erst recht - Teil 02
+  - Und jetzt erst recht - Teil 03
+  - Und jetzt erst recht - Teil 04
+  - Und jetzt erst recht - Teil 05
+  - Und jetzt erst recht - Teil 06
+  - Und jetzt erst recht - Teil 07
+  - Und jetzt erst recht - Teil 08
+  - Und jetzt erst recht - Teil 09
+  - Und jetzt erst recht - Teil 10
+  - Und jetzt erst recht - Teil 11
+  - Und jetzt erst recht - Teil 12
+  - Und jetzt erst recht - Teil 13
+  - Und jetzt erst recht - Teil 14
+  - Und jetzt erst recht - Teil 15
+  - Und jetzt erst recht - Teil 16
+  - Und jetzt erst recht - Teil 17
   ids: []

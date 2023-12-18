@@ -4,9 +4,9 @@ data:
 - series: Feuerwehrmann Sam
   series-id: feuerwehrmann-sam
   episode: Norman außer Rand und Band
-  release: 0
+  release: 1641427200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,30 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/feuerwehrmann-sam/norman-ausser-rand-und-band/
   shop-id: c7dfe70d-7f64-4518-b9a7-79a0a85a0488
-  track-desc: []
+  track-desc:
+  - Der Zauberhafte Normansky Teil 1
+  - Der Zauberhafte Normansky Teil 2
+  - Der Zauberhafte Normansky Teil 3
+  - Der Zauberhafte Normansky Teil 4
+  - Der Zauberhafte Normansky Teil 5
+  - Die Beste Pyjama-Party Aller Zeiten Teil 1
+  - Die Beste Pyjama-Party Aller Zeiten Teil 2
+  - Die Beste Pyjama-Party Aller Zeiten Teil 3
+  - Die Beste Pyjama-Party Aller Zeiten Teil 4
+  - Die Beste Pyjama-Party Aller Zeiten Teil 5
+  - Wer Schafft Den Rekord? Teil 1
+  - Wer Schafft Den Rekord? Teil 2
+  - Wer Schafft Den Rekord? Teil 3
+  - Wer Schafft Den Rekord? Teil 4
+  - Wer Schafft Den Rekord? Teil 5
+  - Norman-Man Und Atomic Boy Teil 1
+  - Norman-Man Und Atomic Boy Teil 2
+  - Norman-Man Und Atomic Boy Teil 3
+  - Norman-Man Und Atomic Boy Teil 4
+  - Norman-Man Und Atomic Boy Teil 5
+  - Norman-Man Und Atomic Boy Teil 6
+  - Norman-Man Und Atomic Boy Teil 7
+  - Norman-Man Und Atomic Boy Teil 8
+  - Norman-Man Und Atomic Boy Teil 9
+  - Norman-Man Und Atomic Boy Teil 10
   ids: []

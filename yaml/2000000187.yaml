@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Der verhexte Wandertag
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/der-verhexte-wandertag/
   shop-id: e5019af7-0d96-471c-bd8e-d93ce92d51a2
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Allgemeiner Aufbruch
+  - Die Mär vom Runkelgroll
+  - Willkommen im Gurgeltal
+  - Feuerholz sammeln
+  - Gerede vom Berggeist
+  - Was für ein Schreck!
+  - Unheimliche Spuren
+  - Abtauchen und Auftauchen
+  - Wanderung zum See
+  - Wir bleiben!
+  - Wasserleuchten
+  - Das Grauen am Grünsee
+  - Gemeinsames Lagerfeuer
   ids: []

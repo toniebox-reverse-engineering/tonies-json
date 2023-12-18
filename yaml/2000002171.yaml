@@ -4,9 +4,9 @@ data:
 - series: Die kleine Schnecke Monika Häuschen
   series-id: die-kleine-schnecke-monika-haeuschen
   episode: Warum gurren Tauben?
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,31 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/die-kleine-schnecke-monika-haeuschen/warum-gurren-tauben/
   shop-id: 11ecf6d2-84c6-4454-be28-4a6832f4332a
-  track-desc: []
+  track-desc:
+  - Die kleine Schnecke Monika Häuschen - Titellied
+  - Warum gurren Tauben? - Teil 01
+  - Warum gurren Tauben? - Teil 02
+  - Warum gurren Tauben? - Teil 03
+  - Warum gurren Tauben? - Teil 04
+  - Warum gurren Tauben? - Teil 05
+  - Warum gurren Tauben? - Teil 06
+  - Warum gurren Tauben? - Teil 07
+  - Warum gurren Tauben? - Teil 08
+  - Warum gurren Tauben? - Teil 09
+  - Warum gurren Tauben? - Teil 10
+  - Warum gurren Tauben? - Teil 11
+  - Warum gurren Tauben? - Teil 12
+  - Warum gurren Tauben? - Teil 13
+  - Warum gurren Tauben? - Teil 14
+  - Warum gurren Tauben? - Teil 15
+  - Warum gurren Tauben? - Teil 16
+  - Warum gurren Tauben? - Teil 17
+  - Warum gurren Tauben? - Teil 18
+  - Warum gurren Tauben? - Teil 19
+  - Warum gurren Tauben? - Teil 20
+  - Warum gurren Tauben? - Teil 21
+  - Warum gurren Tauben? - Teil 22
+  - Warum gurren Tauben? - Teil 23
+  - Warum gurren Tauben? - Teil 24
+  - Warum gurren Tauben? - Teil 25
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Die Reise der Titanic / Expedition Tauchboot
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,43 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/die-reise-der-titanic-expedition-tauchboot/
   shop-id: fb5d19f4-340e-4630-a895-635453cbc830
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Die Reise der Titanic'
+  - 'Thema 1: Mit Luxusschiffen über den Atlantik'
+  - 'Thema 1: Nach Belfast zur Werft'
+  - 'Thema 1: Von Dampfschiffen und Rettungsbooten'
+  - 'Thema 1: Aus einem Schiff wird ein Luxushotel'
+  - 'Thema 1: Letzte Vorbereitungen'
+  - 'Thema 1: Die Passagiere gehen an Bord'
+  - 'Thema 1: Auf der Brücke mit Käpt''n Smith'
+  - 'Thema 1: Die Titanic legt ab'
+  - 'Thema 1: Luxuskabinen'
+  - 'Thema 1: Im Bauch des Luxusliners'
+  - 'Thema 1: Heizer und Trimmer'
+  - 'Thema 1: Das Personal der Titanic'
+  - 'Thema 1: Auf den Promenadendecks'
+  - 'Thema 1: Reiten und Schwimmen auf der Titanic'
+  - 'Thema 1: Zu schnell unterwegs'
+  - 'Thema 1: Was die Bordzeitung druckt'
+  - 'Thema 1: Eisbergwarnung'
+  - 'Thema 1: Der große Auftritt'
+  - 'Thema 1: Dinner im Speisesaal'
+  - 'Thema 1: Die Titanic rammt den Eisberg'
+  - 'Thema 1: Die Titanic sinkt'
+  - 'Thema 1: Die Schifffahrt wird sicherer'
+  - 'Thema 2: Expedition Tauchboot'
+  - 'Thema 2: Wasser macht Druck'
+  - 'Thema 2: Geniale Idee: Der Unterwasserballon'
+  - 'Thema 2: Zur tiefsten Stelle der Ozeane'
+  - 'Thema 2: Ein Tauchboot für drei Personen'
+  - 'Thema 2: Weltberühmt: Alvin'
+  - 'Thema 2: Was Alvin alles kann'
+  - 'Thema 2: Ferngesteuerte Tauchroboter (ROV)'
+  - 'Thema 2: Selbständige Tauchroboter (AUV)'
+  - 'Thema 2: Das Mutterschiff'
+  - 'Thema 2: Gebirge im Meer'
+  - 'Thema 2: Ab in die Tiefe'
+  - 'Thema 2: Atmen in der Tiefe'
+  - 'Thema 2: Schwarze Raucher'
+  - 'Thema 2: Zum Wrack der Titanic'
   ids: []

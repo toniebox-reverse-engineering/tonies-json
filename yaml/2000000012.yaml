@@ -4,9 +4,9 @@ data:
 - series: Benjamin Blümchen
   series-id: benjamin-bluemchen
   episode: als Detektiv
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/als-detektiv/
   shop-id: f24ad167-21f4-4a1d-8cd0-a0062a1122fb
-  track-desc: []
+  track-desc:
+  - Titellied
+  - Wo ist das Pandababy-
+  - Bei Herrn Tierlieb
+  - Benjamin wird Detektiv
+  - Hautkommissar Ratlos
+  - Eine heiße Spur
+  - Im Bonbonladen
+  - Beweisstücke sammeln
+  - Des Rätsels Lösung
+  - Ein Plüschpanda für Claudi
+  - Der Panda-Austausch
+  - Armer Herr Ratlos
+  - Es lebe der Meisterdetektiv!
   ids: []

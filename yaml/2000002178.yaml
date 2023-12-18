@@ -4,9 +4,9 @@ data:
 - series: Die kleine Schnecke Monika Häuschen
   series-id: die-kleine-schnecke-monika-haeuschen
   episode: Warum haben Marienkäfer Punkte?
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,33 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/die-kleine-schnecke-monika-haeuschen/warum-haben-marienkafer-punkte/
   shop-id: 4b4a509e-1ad7-4cec-8677-f2bb5ab31b1c
-  track-desc: []
+  track-desc:
+  - Die kleine Schnecke Monika Häuschen - Titellied
+  - Warum haben Marienkäfer Punkte? - Teil 01
+  - Warum haben Marienkäfer Punkte? - Teil 02
+  - Warum haben Marienkäfer Punkte? - Teil 03
+  - Warum haben Marienkäfer Punkte? - Teil 04
+  - Warum haben Marienkäfer Punkte? - Teil 05
+  - Warum haben Marienkäfer Punkte? - Teil 06
+  - Warum haben Marienkäfer Punkte? - Teil 07
+  - Warum haben Marienkäfer Punkte? - Teil 08
+  - Warum haben Marienkäfer Punkte? - Teil 09
+  - Warum haben Marienkäfer Punkte? - Teil 10
+  - Warum haben Marienkäfer Punkte? - Teil 11
+  - Warum haben Marienkäfer Punkte? - Teil 12
+  - Warum haben Marienkäfer Punkte? - Teil 13
+  - Warum haben Marienkäfer Punkte? - Teil 14
+  - Warum haben Marienkäfer Punkte? - Teil 15
+  - Warum haben Marienkäfer Punkte? - Teil 16
+  - Warum haben Marienkäfer Punkte? - Teil 17
+  - Warum haben Marienkäfer Punkte? - Teil 18
+  - Warum haben Marienkäfer Punkte? - Teil 19
+  - Warum haben Marienkäfer Punkte? - Teil 20
+  - Warum haben Marienkäfer Punkte? - Teil 21
+  - Warum haben Marienkäfer Punkte? - Teil 22
+  - Warum haben Marienkäfer Punkte? - Teil 23
+  - Warum haben Marienkäfer Punkte? - Teil 24
+  - Warum haben Marienkäfer Punkte? - Teil 25
+  - Warum haben Marienkäfer Punkte? - Teil 26
+  - Warum haben Marienkäfer Punkte? - Teil 27
   ids: []

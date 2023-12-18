@@ -4,9 +4,9 @@ data:
 - series: Dr. Brumm
   series-id: dr-brumm
   episode: Dr. Brumm feiert Geburtstag / Dr. Brumm auf Hula Hula
-  release: 0
+  release: 1525046400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,27 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/dr-brumm/dr-brumm-feiert-geburtstag-dr-brumm-auf-hula-hula/
   shop-id: ad9a15d4-d9f0-4d90-8308-b9a253d7c75a
-  track-desc: []
+  track-desc:
+  - Dr. Brumm feiert Geburtstag - Kapitel 1
+  - Dr. Brumm feiert Geburtstag - Kapitel 2
+  - Dr. Brumm feiert Geburtstag - Kapitel 3
+  - Dr. Brumm feiert Geburtstag - Kapitel 4
+  - Dr. Brumm feiert Geburtstag - Kapitel 5
+  - Dr. Brumm feiert Geburtstag - Kapitel 6
+  - Dr. Brumm feiert Geburtstag - Kapitel 7
+  - Dr. Brumm feiert Geburtstag - Kapitel 8
+  - Dr. Brumm feiert Geburtstag - Kapitel 9
+  - Dr. Brumm feiert Geburtstag - Kapitel 10
+  - Dr. Brumm feiert Geburtstag - Kapitel 11
+  - Dr. Brumm feiert Geburtstag - Kapitel 12
+  - Dr. Brumm auf Hula Hula - Kapitel 1
+  - Dr. Brumm auf Hula Hula - Kapitel 2
+  - Dr. Brumm auf Hula Hula - Kapitel 3
+  - Dr. Brumm auf Hula Hula - Kapitel 4
+  - Dr. Brumm auf Hula Hula - Kapitel 5
+  - Dr. Brumm auf Hula Hula - Kapitel 6
+  - Dr. Brumm auf Hula Hula - Kapitel 7
+  - Dr. Brumm auf Hula Hula - Kapitel 8
+  - Dr. Brumm auf Hula Hula - Kapitel 9
+  - Dr. Brumm auf Hula Hula - Kapitel 10
   ids: []

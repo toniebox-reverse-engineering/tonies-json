@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Maya & Azteken / Inka
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,24 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/maya-azteken-inka/
   shop-id: 82456ce6-bde2-48cc-b7a3-97ff0882a549
-  track-desc: []
+  track-desc:
+  - 'Titel:  Thema 1: Einleitung'
+  - 'Titel:  Thema 1: Völker und Kulturen Amerikas'
+  - 'Titel:  Thema 1: Das Kerngebiet der Maya'
+  - 'Titel:  Thema 1: Goldenes Zeitalter der Maya-Kultur'
+  - 'Titel:  Thema 1: Wie Maya die Zeit berechneten'
+  - 'Titel:  Thema 1: Das Rätsel der Maya-Schrift'
+  - 'Titel:  Thema 1: Die Legende der Azteken'
+  - 'Titel:  Thema 1: Wie die Azteken lebten'
+  - 'Titel:  Thema 1: Die Azteken: Große Erfinder'
+  - 'Titel:  Thema 1: Die Ausbildung der Azteken-Kinder'
+  - 'Titel:  Thema 1: Die Azteken: Gefürchtete Krieger'
+  - 'Titel:  Thema 1: Wie die Spanier die Azteken besiegten'
+  - 'Titel:  Thema 2: Einleitung'
+  - 'Titel:  Thema 2: Die ersten Menschen in Südamerika'
+  - 'Titel:  Thema 2: Machu Picchu: Auf der Suche nach der verlorenen Inka-Stadt'
+  - 'Titel:  Thema 2: Das Inka-Reich: Ein riesiges Land'
+  - 'Titel:  Thema 2: Wie die Inka Straßen und Brücken bauten'
+  - 'Titel:  Thema 2: Wie die Inka Nachrichten austauschten'
+  - 'Titel:  Thema 2: Der Untergang der Inka'
   ids: []

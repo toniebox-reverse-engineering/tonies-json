@@ -4,9 +4,9 @@ data:
 - series: Conni
   series-id: conni
   episode: Conni geht auf Schatzsuche
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,53 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/conni/conni-geht-auf-schatzsuche/
   shop-id: 51baa03b-8eaf-4c4b-95e4-3ebad3f597e1
-  track-desc: []
+  track-desc:
+  - Meine beste Freundin Conni
+  - Conni geht auf Schatzsuche - Teil 01
+  - Conni geht auf Schatzsuche - Teil 02
+  - Conni geht auf Schatzsuche - Teil 03
+  - Conni geht auf Schatzsuche - Teil 04
+  - Conni geht auf Schatzsuche - Teil 05
+  - Conni geht auf Schatzsuche - Teil 06
+  - Conni geht auf Schatzsuche - Teil 07
+  - Conni geht auf Schatzsuche - Teil 08
+  - Conni geht auf Schatzsuche - Teil 09
+  - Conni geht auf Schatzsuche - Teil 10
+  - Conni geht auf Schatzsuche - Teil 11
+  - Conni geht auf Schatzsuche - Teil 12
+  - Conni geht auf Schatzsuche - Teil 13
+  - Conni geht auf Schatzsuche - Teil 14
+  - Conni geht auf Schatzsuche - Teil 15
+  - Conni geht auf Schatzsuche - Teil 16
+  - Conni geht auf Schatzsuche - Teil 17
+  - Conni geht auf Schatzsuche - Teil 18
+  - Conni geht auf Schatzsuche - Teil 19
+  - Conni geht auf Schatzsuche - Teil 20
+  - Conni geht auf Schatzsuche - Teil 21
+  - Conni geht auf Schatzsuche - Teil 22
+  - Conni geht auf Schatzsuche - Teil 23
+  - Conni geht auf Schatzsuche - Teil 24
+  - Conni geht auf Schatzsuche - Teil 25
+  - Conni geht auf Schatzsuche - Teil 26
+  - Conni geht auf Schatzsuche - Teil 27
+  - Conni geht auf Schatzsuche - Teil 28
+  - Conni geht auf Schatzsuche - Teil 29
+  - Conni geht auf Schatzsuche - Teil 30
+  - Conni geht auf Schatzsuche - Teil 31
+  - Conni geht auf Schatzsuche - Teil 32
+  - Conni geht auf Schatzsuche - Teil 33
+  - Conni geht auf Schatzsuche - Teil 34
+  - Conni geht auf Schatzsuche - Teil 35
+  - Conni geht auf Schatzsuche - Teil 36
+  - Conni geht auf Schatzsuche - Teil 37
+  - Conni geht auf Schatzsuche - Teil 38
+  - Conni geht auf Schatzsuche - Teil 39
+  - Conni geht auf Schatzsuche - Teil 40
+  - Conni geht auf Schatzsuche - Teil 41
+  - Conni geht auf Schatzsuche - Teil 42
+  - Conni geht auf Schatzsuche - Teil 43
+  - Conni geht auf Schatzsuche - Teil 44
+  - Conni geht auf Schatzsuche - Teil 45
+  - Conni geht auf Schatzsuche - Teil 46
+  - Meine beste Freundin Conni
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 33: Pumuckl und die Obstbäume'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,22 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-und-die-obstbaume-das-original-aus-dem-fer/
   shop-id: 7f3c13fc-c070-4670-b9ae-9c6cac309208
-  track-desc: []
+  track-desc:
+  - Pumuckl und die Obstbäume - Teil 01
+  - Pumuckl und die Obstbäume - Teil 02
+  - Pumuckl und die Obstbäume - Teil 03
+  - Pumuckl und die Obstbäume - Teil 04
+  - Pumuckl und die Obstbäume - Teil 05
+  - Pumuckl und die Obstbäume - Teil 06
+  - Pumuckl und die Obstbäume - Teil 07
+  - Pumuckl und die Obstbäume - Teil 08
+  - Pumuckl und die Obstbäume - Teil 09
+  - Pumuckl und die Obstbäume - Teil 10
+  - Pumuckl und die Obstbäume - Teil 11
+  - Pumuckl und die Obstbäume - Teil 12
+  - Pumuckl und die Obstbäume - Teil 13
+  - Pumuckl und die Obstbäume - Teil 14
+  - Pumuckl und die Obstbäume - Teil 15
+  - Pumuckl und die Obstbäume - Teil 16
+  - Pumuckl und die Obstbäume - Teil 17
   ids: []

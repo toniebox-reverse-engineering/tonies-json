@@ -5,9 +5,9 @@ data:
   series-id: janosch
   episode: Jetzt wird geschlafen, Freunde! Gutenachtgeschichten mit Tiger und Bär.
     Teil 2
-  release: 0
+  release: 1691712000
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -15,5 +15,35 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/janosch/jetzt-wird-geschlafen-freunde-gutenachtgeschicht-4/
   shop-id: d5b4ae9b-df0e-47ba-8ecd-7d5046e064d1
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Als der Specht einmal den Mond herholen wollte'
+  - 'Kapitel 02: Als der Specht einmal den Mond herholen wollte'
+  - 'Kapitel 03: Als der Specht einmal den Mond herholen wollte'
+  - 'Kapitel 04: Als der Specht einmal den Mond herholen wollte'
+  - 'Kapitel 05: Als der Specht einmal den Mond herholen wollte'
+  - 'Kapitel 06: Als der Specht einmal den Mond herholen wollte'
+  - 'Kapitel 07: Als der Specht einmal den Mond herholen wollte'
+  - 'Kapitel 08: Als der Specht einmal den Mond herholen wollte'
+  - 'Kapitel 09: Als der Specht einmal den Mond herholen wollte'
+  - 'Kapitel 10: Als der Specht einmal den Mond herholen wollte'
+  - 'Kapitel 01: Wie der kleine Tiger einmal Laubpuffer baute'
+  - 'Kapitel 02: Wie der kleine Tiger einmal Laubpuffer baute'
+  - 'Kapitel 03: Wie der kleine Tiger einmal Laubpuffer baute'
+  - 'Kapitel 04: Wie der kleine Tiger einmal Laubpuffer baute'
+  - 'Kapitel 05: Wie der kleine Tiger einmal Laubpuffer baute'
+  - 'Kapitel 06: Wie der kleine Tiger einmal Laubpuffer baute'
+  - 'Kapitel 07: Wie der kleine Tiger einmal Laubpuffer baute'
+  - 'Kapitel 08: Wie der kleine Tiger einmal Laubpuffer baute'
+  - 'Kapitel 01: Von Glühwürmchenketten und einer Glühwürmchengans'
+  - 'Kapitel 02: Von Glühwürmchenketten und einer Glühwürmchengans'
+  - 'Kapitel 03: Von Glühwürmchenketten und einer Glühwürmchengans'
+  - 'Kapitel 04: Von Glühwürmchenketten und einer Glühwürmchengans'
+  - 'Kapitel 05: Von Glühwürmchenketten und einer Glühwürmchengans'
+  - 'Kapitel 06: Von Glühwürmchenketten und einer Glühwürmchengans'
+  - 'Kapitel 07: Von Glühwürmchenketten und einer Glühwürmchengans'
+  - 'Kapitel 08: Von Glühwürmchenketten und einer Glühwürmchengans'
+  - 'Kapitel 09: Von Glühwürmchenketten und einer Glühwürmchengans'
+  - 'Kapitel 10: Von Glühwürmchenketten und einer Glühwürmchengans'
+  - 'Kapitel 11: Von Glühwürmchenketten und einer Glühwürmchengans'
+  - 'Kapitel 12: Von Glühwürmchenketten und einer Glühwürmchengans'
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Benjamin Blümchen
   series-id: benjamin-bluemchen
   episode: Die Wunderblume
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,15 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/die-wunderblume/
   shop-id: 4ee1cc01-215b-41fd-8391-d246062641b4
-  track-desc: []
+  track-desc:
+  - Lied
+  - Die Orchis Stimulantia -
+  - Ganovenpläne
+  - Angst vor Mäusen
+  - Diebstahl
+  - Wann kommt der Maharadscha
+  - Lügengeschichten
+  - Benjamin in der Grube
+  - Auf zum Hafen
+  - Der Maharadscha erwacht
   ids: []

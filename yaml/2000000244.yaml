@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Oma Grete sorgt für Wirbel
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/oma-grete-sorgt-fur-wirbel/
   shop-id: ab9396eb-89ba-49ff-bb92-6b6be43e5985
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Schreck im Physikunterricht
+  - Überraschender Besuch
+  - Bibi kommt nach Hause
+  - Zwei Rückhexsprüche
+  - Oma Gretes Hexerei
+  - Kolumbus höchstpersönlich
+  - Holzarbeiten
+  - Santa Maria im Garten
+  - Lehrstunde am Gartenteich
+  - Der große Knall
+  - Happy-End für alle
+  - Tschüss, Oma Grete
   ids: []

@@ -5,9 +5,9 @@ data:
   series-id: meine-freundin-conni
   episode: Conni hat Geburtstag / Conni backt Pizza / Conni geht in den Zoo / Conni
     geht verloren (Vier Hörspiele zur TV-Serie)
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -15,5 +15,38 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/meine-freundin-conni/conni-hat-geburtstag-conni-backt-pizza-conni-geht/
   shop-id: fc99542f-ef40-47fa-9821-9eb12e053bbc
-  track-desc: []
+  track-desc:
+  - Intro Theme Song "Meine Freundin Conni"
+  - Conni hat Geburtstag - Teil 01
+  - Conni hat Geburtstag - Teil 02
+  - Conni hat Geburtstag - Teil 03
+  - Conni hat Geburtstag - Teil 04
+  - Conni hat Geburtstag - Teil 05
+  - Conni hat Geburtstag - Teil 06
+  - Conni hat Geburtstag - Teil 07
+  - Conni hat Geburtstag - Teil 08
+  - Conni backt Pizza - Teil 01
+  - Conni backt Pizza - Teil 02
+  - Conni backt Pizza - Teil 03
+  - Conni backt Pizza - Teil 04
+  - Conni backt Pizza - Teil 05
+  - Conni backt Pizza - Teil 06
+  - Conni backt Pizza - Teil 07
+  - Conni backt Pizza - Teil 08
+  - Conni backt Pizza - Teil 09
+  - Conni geht in den Zoo - Teil 01
+  - Conni geht in den Zoo - Teil 02
+  - Conni geht in den Zoo - Teil 03
+  - Conni geht in den Zoo - Teil 04
+  - Conni geht in den Zoo - Teil 05
+  - Conni geht in den Zoo - Teil 06
+  - Conni geht in den Zoo - Teil 07
+  - Conni geht in den Zoo - Teil 08
+  - Conni geht verloren - Teil 01
+  - Conni geht verloren - Teil 02
+  - Conni geht verloren - Teil 03
+  - Conni geht verloren - Teil 04
+  - Conni geht verloren - Teil 05
+  - Conni geht verloren - Teil 06
+  - Conni geht verloren - Teil 07
   ids: []

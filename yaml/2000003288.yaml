@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 43: Ein Knüller für die Zeitung'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,23 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/ein-knuller-fur-die-zeitung-das-original-aus-dem-f/
   shop-id: e540391d-0d85-4e94-a848-0aee99604e42
-  track-desc: []
+  track-desc:
+  - Ein Knüller für die Zeitung - Teil 01
+  - Ein Knüller für die Zeitung - Teil 02
+  - Ein Knüller für die Zeitung - Teil 03
+  - Ein Knüller für die Zeitung - Teil 04
+  - Ein Knüller für die Zeitung - Teil 05
+  - Ein Knüller für die Zeitung - Teil 06
+  - Ein Knüller für die Zeitung - Teil 07
+  - Ein Knüller für die Zeitung - Teil 08
+  - Ein Knüller für die Zeitung - Teil 09
+  - Ein Knüller für die Zeitung - Teil 10
+  - Ein Knüller für die Zeitung - Teil 11
+  - Ein Knüller für die Zeitung - Teil 12
+  - Ein Knüller für die Zeitung - Teil 13
+  - Ein Knüller für die Zeitung - Teil 14
+  - Ein Knüller für die Zeitung - Teil 15
+  - Ein Knüller für die Zeitung - Teil 16
+  - Ein Knüller für die Zeitung - Teil 17
+  - Ein Knüller für die Zeitung - Teil 18
   ids: []

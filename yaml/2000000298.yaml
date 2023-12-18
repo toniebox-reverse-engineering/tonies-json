@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Das Ritterturnier
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/das-ritterturnier/
   shop-id: 43953881-bd46-4493-88e3-c9a18700a380
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Unverhofft kommt oft
+  - Neue alte Rüstungen
+  - Lauter Besucher
+  - Narr und Esel
+  - Die Eröffnung
+  - Der erste Wettkampf
+  - Aufruhr in der Nacht
+  - Ein falscher Verdacht
+  - Die Konfrontation
+  - Goldonis zwei Gesichter
+  - Amadeus und Sabrina in Gefahr
+  - Die Rettung
+  - Geschafft!
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Die Playmos
   series-id: die-playmos
   episode: Auf der Jagd nach dem goldenen Schlüssel
-  release: 0
+  release: 1614124800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
@@ -14,5 +14,44 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/die-playmos/auf-der-jagd-nach-dem-goldenen-schlussel/
   shop-id: 170dec60-83b3-4de9-a926-0ae972f8f48c
-  track-desc: []
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  - Teil 5
+  - Teil 6
+  - Teil 7
+  - Teil 8
+  - Teil 9
+  - Teil 10
+  - Teil 11
+  - Teil 12
+  - Teil 13
+  - Teil 14
+  - Teil 15
+  - Teil 16
+  - Teil 17
+  - Teil 18
+  - Teil 19
+  - Teil 20
+  - Teil 21
+  - Teil 22
+  - Teil 23
+  - Teil 24
+  - Teil 25
+  - Teil 26
+  - Teil 27
+  - Teil 28
+  - Teil 29
+  - Teil 30
+  - Teil 31
+  - Teil 32
+  - Teil 33
+  - Teil 34
+  - Teil 35
+  - Teil 36
+  - Teil 37
+  - Teil 38
+  - Teil 39
   ids: []

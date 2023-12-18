@@ -4,9 +4,9 @@ data:
 - series: Feuerwehrmann Sam
   series-id: feuerwehrmann-sam
   episode: Der Retter von Pontypandy
-  release: 0
+  release: 1641427200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,20 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/feuerwehrmann-sam/der-retter-von-pontypandy/
   shop-id: f35fe825-c1dc-470a-8d09-02641be053ac
-  track-desc: []
+  track-desc:
+  - Trevor Im Schlamassel Teil 1
+  - Trevor Im Schlamassel Teil 2
+  - Trevor Im Schlamassel Teil 3
+  - Elvis Grosser Auftritt Teil 1
+  - Elvis Grosser Auftritt Teil 2
+  - Elvis Grosser Auftritt Teil 3
+  - Ärger Im Doppelpack Teil 1
+  - Ärger Im Doppelpack Teil 2
+  - Ärger Im Doppelpack Teil 3
+  - Feuerwehrmann James Teil 1
+  - Feuerwehrmann James Teil 2
+  - Feuerwehrmann James Teil 3
+  - Überraschungsparty Teil 1
+  - Überraschungsparty Teil 2
+  - Überraschungsparty Teil 3
   ids: []

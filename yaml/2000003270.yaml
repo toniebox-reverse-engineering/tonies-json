@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 25: Pumuckls Rache'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,21 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/pumuckls-rache-das-original-aus-dem-fernsehen/
   shop-id: 8a4c60a9-b425-4b3e-aca3-fe65e5206552
-  track-desc: []
+  track-desc:
+  - Pumuckls Rache - Teil 01
+  - Pumuckls Rache - Teil 02
+  - Pumuckls Rache - Teil 03
+  - Pumuckls Rache - Teil 04
+  - Pumuckls Rache - Teil 05
+  - Pumuckls Rache - Teil 06
+  - Pumuckls Rache - Teil 07
+  - Pumuckls Rache - Teil 08
+  - Pumuckls Rache - Teil 09
+  - Pumuckls Rache - Teil 10
+  - Pumuckls Rache - Teil 11
+  - Pumuckls Rache - Teil 12
+  - Pumuckls Rache - Teil 13
+  - Pumuckls Rache - Teil 14
+  - Pumuckls Rache - Teil 15
+  - Pumuckls Rache - Teil 16
   ids: []

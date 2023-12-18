@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Die Sterne / Die Zeit
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,30 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/die-sterne-die-zeit/
   shop-id: 3334e34e-d26e-44c4-b758-5bef676b7006
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Die Sterne'
+  - 'Thema 1: Was sind Sterne?'
+  - 'Thema 1: Die Erde kreist um die Sonne'
+  - 'Thema 1: Die Planeten'
+  - 'Thema 1: Was ist der Urknall?'
+  - 'Thema 1: Die ersten vier Planeten'
+  - 'Thema 1: Welcher Planet ist der Größte?'
+  - 'Thema 1: Der Mond'
+  - 'Thema 1: Was ist eine Supernova?'
+  - 'Thema 1: Das schwarze Loch'
+  - 'Thema 1: Lichtgeschwindigkeit'
+  - 'Thema 1: Der Stern'
+  - 'Thema 1: Leben im Universum?'
+  - 'Thema 2: Die Zeit'
+  - 'Thema 2: Was ist die Zeit?'
+  - 'Thema 2: Regelmäßige Ereignisse'
+  - 'Thema 2: Wie entstehen die Jahreszeiten?'
+  - 'Thema 2: Die Woche'
+  - 'Thema 2: Die verschiedenen Kalender'
+  - 'Thema 2: Was ist die Sanduhr?'
+  - 'Thema 2: Sonnenuhr'
+  - 'Thema 2: Die Pendeluhr'
+  - 'Thema 2: Welche Uhr ist genauer als die mechanische Uhr?'
+  - 'Thema 2: Was versteht man unter der inneren Uhr?'
+  - 'Thema 2: Das Experiment'
   ids: []

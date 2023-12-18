@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 7: Pumuckl macht Ferien'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,22 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-macht-ferien-das-original-aus-der-fernsehs/
   shop-id: a49656f7-55fa-46d7-a31d-8eeefd1c6f3b
-  track-desc: []
+  track-desc:
+  - Pumuckl macht Ferien - Teil 01
+  - Pumuckl macht Ferien - Teil 02
+  - Pumuckl macht Ferien - Teil 03
+  - Pumuckl macht Ferien - Teil 04
+  - Pumuckl macht Ferien - Teil 05
+  - Pumuckl macht Ferien - Teil 06
+  - Pumuckl macht Ferien - Teil 07
+  - Pumuckl macht Ferien - Teil 08
+  - Pumuckl macht Ferien - Teil 09
+  - Pumuckl macht Ferien - Teil 10
+  - Pumuckl macht Ferien - Teil 11
+  - Pumuckl macht Ferien - Teil 12
+  - Pumuckl macht Ferien - Teil 13
+  - Pumuckl macht Ferien - Teil 14
+  - Pumuckl macht Ferien - Teil 15
+  - Pumuckl macht Ferien - Teil 16
+  - Pumuckl macht Ferien - Teil 17
   ids: []

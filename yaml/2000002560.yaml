@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Menschenaffen / Elefanten
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,37 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/menschenaffen-elefanten/
   shop-id: 59e36422-c99d-4b60-b1b6-4a29dcc5df0b
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Einleitung'
+  - 'Thema 1: Ähnlichkeiten zwischen Menschen und Affen'
+  - 'Thema 1: Schimpansen'
+  - 'Thema 1: Die Geschicklichkeit der Schimpansen'
+  - 'Thema 1: Schimpansen in der Gruppe'
+  - 'Thema 1: Die Intelligenz von Menschenaffen'
+  - 'Thema 1: Die Heimat der Bonobos'
+  - 'Thema 1: Das Leben in der Horde'
+  - 'Thema 1: Die Kultur der Menschenaffen'
+  - 'Thema 1: Wie kommunizieren Menschenaffen?'
+  - 'Thema 1: Wie leben Orang-Utans?'
+  - 'Thema 1: Warum sind Orang-Utans Einzelgänger?'
+  - 'Thema 1: Orang-Utans auf Futtersuche'
+  - 'Thema 1: Die Vorfahren der Menschen und Menschenaffen'
+  - 'Thema 1: Der Lebensraum von Gorillas'
+  - 'Thema 1: Berggorillas: Sanfte Tiere'
+  - 'Thema 2: Einleitung'
+  - 'Thema 2: Das Verhältnis von Mensch und Elefant'
+  - 'Thema 2: Welche Elefantenarten gibt es?'
+  - 'Thema 2: Die Verwandten der Elefanten'
+  - 'Thema 2: Die Stoßzähne - Jagd auf Elfenbein'
+  - 'Thema 2: Wofür brauchen Elefanten einen Rüssel?'
+  - 'Thema 2: Außergewöhnlicher Tastsinn'
+  - 'Thema 2: Warum haben Elefanten große Ohren?'
+  - 'Thema 2: Wie sich Elefanten verständigen'
+  - 'Thema 2: Das exzellente Elefantengedächtnis'
+  - 'Thema 2: Elefanten auf Wassersuche'
+  - 'Thema 2: Wie Elefantenbabys großgezogen werden'
+  - 'Thema 2: Die Tanten des Elefantennachwuchs'
+  - 'Thema 2: Wann greifen Elefanten an?'
+  - 'Thema 2: Wie bewegen sich Elefanten?'
+  - 'Thema 2: Warum müssen Elefanten geschützt werden?'
   ids: []

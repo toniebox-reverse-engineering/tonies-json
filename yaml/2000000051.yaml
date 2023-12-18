@@ -4,9 +4,9 @@ data:
 - series: Benjamin Blümchen
   series-id: benjamin-bluemchen
   episode: Das neue Müllauto
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,20 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/das-neue-mullauto/
   shop-id: e4cc269a-172f-47bd-84b2-a20a571e8729
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Auf dem Sommerfest
+  - Benjamins Missgeschick
+  - Das neue Müllauto
+  - In der Sortieranlage
+  - Viele kleine Unfälle
+  - Die goldene Figur
+  - Hinterher!
+  - Der Bürgermeister steckt fest
+  - Die Verfolgungsjagd
+  - Da ist es!
+  - Pichler im Müllauto
+  - Alles nur kleine Blechschäden
+  - Es ist nicht alles Gold was glänzt
+  - Ganz ohne Kratzer
   ids: []

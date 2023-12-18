@@ -4,9 +4,9 @@ data:
 - series: Bakabu
   series-id: bakabu
   episode: Bakabu und die (nicht ganz) Stille Nacht
-  release: 0
+  release: 1643846400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
@@ -14,5 +14,17 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bakabu/bakabu-und-die-nicht-ganz-stille-nacht/
   shop-id: d19cd240-12a5-4368-84ff-213b996f4d8e
-  track-desc: []
+  track-desc:
+  - Vorgeschichte
+  - Eine Kranke Orgel
+  - Schneechaos Im Singeland
+  - Mimi Lou Und Schneeflöckchen
+  - Wer Kennt Ein Weihnachtslied
+  - Reise Zur Erde
+  - Das Erste Weihnachtsfest
+  - Zur Kirche
+  - Eine Stille Nacht
+  - Zurück Ins Singeland
+  - Weihnachten In Hornhausen
+  - Stille Nacht Singeland Version
   ids: []

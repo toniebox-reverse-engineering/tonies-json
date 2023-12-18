@@ -4,9 +4,9 @@ data:
 - series: Benjamin Blümchen
   series-id: benjamin-bluemchen
   episode: in Schottland
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/in-schottland/
   shop-id: be09dc66-1507-474e-8018-818499ec3e68
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Flug nach Schottland
+  - In Schieflage
+  - Regen und Linksverkehr
+  - Die Sorgen der MacDonnellys
+  - Benjamin will helfen
+  - Schottisches Frühstück
+  - Ausflug zum Loch Ness
+  - Bei Kieran MacDermott
+  - Lagerfeuer und Butterkekse
+  - Nessies Wehklage
+  - Nur geträumt-
+  - Glücklicher MacDonnelly
+  - Das Dudelsack-Festival
   ids: []

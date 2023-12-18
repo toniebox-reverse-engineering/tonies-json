@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Der Reiterhof - Teil 1
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/der-reiterhof-teil-1/
   shop-id: 06448d5e-5733-4f50-a440-660806c42b09
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Besenflug statt Zugfahrt
+  - Keiner am Bahnhof
+  - Willkommen auf dem Martinshof
+  - Familiengeschichte
+  - Ein Zigenritt für den Grafen
+  - Nicht hexen!
+  - Schimmelstute Sabrina
+  - Tinas Besenritt
+  - Das sprechende Pferd
+  - Die Polizei auf dem Hof
+  - Ein Brief von den Tieren
+  - Die Martins dürfen bleiben
   ids: []

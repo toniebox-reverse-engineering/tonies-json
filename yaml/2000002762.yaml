@@ -4,9 +4,9 @@ data:
 - series: Bakabu
   series-id: bakabu
   episode: Bakabu und der geheimnisvolle Jodel-Yeti
-  release: 0
+  release: 1643846400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
@@ -14,5 +14,16 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bakabu/bakabu-und-der-geheimnisvolle-jodel-yeti/
   shop-id: a1e0c1b0-d5d0-40ff-9a8e-ec586a913c6f
-  track-desc: []
+  track-desc:
+  - Verlorene Schafe
+  - Die Yeti-Legende
+  - Begegnung Mit Einem Groll-Troll
+  - Spuren Im Schnee
+  - In Der Yeti-Höhle
+  - Die Zauberkugel
+  - Ein Schweinisches Gefängnis
+  - Tontaube Im Anflug
+  - Die Schaflawinen
+  - Jodelhüte Für Alle
+  - I Bin Da Jodel-Yeti
   ids: []

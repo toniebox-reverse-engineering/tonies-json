@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Schlangen & Echsen / Wunderwelt Vögel
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,35 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/schlangen-echsen-wunderwelt-vogel/
   shop-id: 895601ef-86f7-4f2b-ada9-a3236aecb185
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Einleitung'
+  - 'Thema 1: Lebensräume'
+  - 'Thema 1: Wirbeltiere'
+  - 'Thema 1: Schlangenkörper'
+  - 'Thema 1: Auf Jagd'
+  - 'Thema 1: Wie hören Schlangen?'
+  - 'Thema 1: Schlangenzunge'
+  - 'Thema 1: Riechapparat'
+  - 'Thema 1: Grubenorgane'
+  - 'Thema 1: Schlangenhaut'
+  - 'Thema 1: Tarnung'
+  - 'Thema 1: Giftschlangen'
+  - 'Thema 1: Kreuzotter'
+  - 'Thema 1: Echsenarten'
+  - 'Thema 1: Komodowaran'
+  - 'Thema 1: Fressfeinde'
+  - 'Thema 2: Einleitung'
+  - 'Thema 2: Entwicklung von Vögeln'
+  - 'Thema 2: Vorfahren'
+  - 'Thema 2: Federn'
+  - 'Thema 2: Vogelflug'
+  - 'Thema 2: Flugstart'
+  - 'Thema 2: Strauße'
+  - 'Thema 2: Vogeleier'
+  - 'Thema 2: Embryos'
+  - 'Thema 2: Paarung'
+  - 'Thema 2: Brutverhalten'
+  - 'Thema 2: Nestbau'
+  - 'Thema 2: Trottellummeneier'
+  - 'Thema 2: Besondere Nester'
   ids: []

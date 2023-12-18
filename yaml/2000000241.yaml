@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Maritas Geheimnis
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/maritas-geheimnis/
   shop-id: 3a8c55fe-6629-4ad3-ad82-0b46c2cea275
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Beste Freundinnen
+  - Marita und Stefan
+  - Ein heimliches Treffen
+  - Enttäuschte Gefühle!
+  - Oma Gretes Hexenkugel
+  - Eine falsche Fährte
+  - Gardinengespenster
+  - Bibi außer Rand und Band
+  - Meerschweinchen
+  - Sinomara, Sinomara!
+  - Entschuldigung angenommen
+  - Große Versöhnung!
   ids: []

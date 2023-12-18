@@ -4,9 +4,9 @@ data:
 - series: Rund um die Welt mit Fuchs und Schaf
   series-id: rund-um-die-welt-mit-fuchs-und-schaf
   episode: Schwarzwald
-  release: 0
+  release: 1623888000
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,9 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/rund-um-die-welt-mit-fuchs-und-schaf/schwarzwald/
   shop-id: ed00273a-f195-49af-ae1e-e6d4aa4ffbc5
-  track-desc: []
+  track-desc:
+  - Titelsong „Rund um die Welt“
+  - Überraschung
+  - Alle sind sie da
+  - Bye bye! Ciao! Auf Wiedersehen!
   ids: []

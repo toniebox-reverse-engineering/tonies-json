@@ -4,9 +4,9 @@ data:
 - series: Der kleine Rabe Socke
   series-id: der-kleine-rabe-socke
   episode: Alles echt wahr!, Macht ja nix!
-  release: 0
+  release: 1424908800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,31 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/der-kleine-rabe-socke/alles-echt-wahr-macht-ja-nix/
   shop-id: 9ed194a3-2971-4514-828a-fd4604c8e985
-  track-desc: []
+  track-desc:
+  - Alles echt wahr! - Kapitel 1
+  - Alles echt wahr! - Kapitel 2
+  - Alles echt wahr! - Kapitel 3
+  - Alles echt wahr! - Kapitel 4
+  - Alles echt wahr! - Kapitel 5
+  - Alles echt wahr! - Kapitel 6
+  - Alles echt wahr! - Kapitel 7
+  - Alles echt wahr! - Kapitel 8
+  - Alles echt wahr! - Kapitel 9
+  - Alles echt wahr! - Kapitel 10
+  - Alles echt wahr! - Kapitel 11
+  - Alles echt wahr! - Kapitel 12
+  - Alles echt wahr! - Kapitel 13
+  - Alles echt wahr! - Kapitel 14
+  - Alles echt wahr! - Kapitel 15
+  - Macht ja nix! - Kapitel 1
+  - Macht ja nix! - Kapitel 2
+  - Macht ja nix! - Kapitel 3
+  - Macht ja nix! - Kapitel 4
+  - Macht ja nix! - Kapitel 5
+  - Macht ja nix! - Kapitel 6
+  - Macht ja nix! - Kapitel 7
+  - Macht ja nix! - Kapitel 8
+  - Macht ja nix! - Kapitel 9
+  - Macht ja nix! - Kapitel 10
+  - Macht ja nix! - Kapitel 11
   ids: []

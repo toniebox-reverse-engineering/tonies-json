@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Rennpferd in Not
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/rennpferd-in-not/
   shop-id: 1c28712a-21d6-415c-9833-58b8b39ba9aa
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Das Pferd im Vorgarten
+  - Zum Martinshof
+  - Überzeugungsarbeit
+  - Pferd in Pflege
+  - Erster Erfolg
+  - Ausritt mit Folgen
+  - Geständnis im Stall
+  - Sorge und Streit
+  - In der Nacht
+  - Viele Überraschungen
+  - Theo Schubert
+  - Blackbird ist geheilt
   ids: []

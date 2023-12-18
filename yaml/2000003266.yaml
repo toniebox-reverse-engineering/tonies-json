@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 21: Pumuckl und das Segelboot'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,24 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-und-das-segelboot-das-original-aus-dem-fer/
   shop-id: 318fa608-dd76-42d1-bc22-a199e1f99875
-  track-desc: []
+  track-desc:
+  - Pumuckl und das Segelboot - Teil 01
+  - Pumuckl und das Segelboot - Teil 02
+  - Pumuckl und das Segelboot - Teil 03
+  - Pumuckl und das Segelboot - Teil 04
+  - Pumuckl und das Segelboot - Teil 05
+  - Pumuckl und das Segelboot - Teil 06
+  - Pumuckl und das Segelboot - Teil 07
+  - Pumuckl und das Segelboot - Teil 08
+  - Pumuckl und das Segelboot - Teil 09
+  - Pumuckl und das Segelboot - Teil 10
+  - Pumuckl und das Segelboot - Teil 11
+  - Pumuckl und das Segelboot - Teil 12
+  - Pumuckl und das Segelboot - Teil 13
+  - Pumuckl und das Segelboot - Teil 14
+  - Pumuckl und das Segelboot - Teil 15
+  - Pumuckl und das Segelboot - Teil 16
+  - Pumuckl und das Segelboot - Teil 17
+  - Pumuckl und das Segelboot - Teil 18
+  - Pumuckl und das Segelboot - Teil 19
   ids: []

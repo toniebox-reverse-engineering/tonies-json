@@ -4,9 +4,9 @@ data:
 - series: Die Schule der magischen Tiere
   series-id: die-schule-der-magischen-tiere
   episode: Nass und nasser
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,55 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/die-schule-der-magischen-tiere/nass-und-nasser/
   shop-id: 4c5d92ae-3c84-4d78-9c82-77e046232012
-  track-desc: []
+  track-desc:
+  - Intro & Titellied Willkommen in der Schule der magischen Tiere
+  - '06: Nass und nasser - Teil 01'
+  - '06: Nass und nasser - Teil 02'
+  - '06: Nass und nasser - Teil 03'
+  - '06: Nass und nasser - Teil 04'
+  - '06: Nass und nasser - Teil 05'
+  - '06: Nass und nasser - Teil 06'
+  - '06: Nass und nasser - Teil 07'
+  - '06: Nass und nasser - Teil 08'
+  - '06: Nass und nasser - Teil 09'
+  - '06: Nass und nasser - Teil 10'
+  - '06: Nass und nasser - Teil 11'
+  - '06: Nass und nasser - Teil 12'
+  - '06: Nass und nasser - Teil 13'
+  - '06: Nass und nasser - Teil 14'
+  - '06: Nass und nasser - Teil 15'
+  - '06: Nass und nasser - Teil 16'
+  - '06: Nass und nasser - Teil 17'
+  - '06: Nass und nasser - Teil 18'
+  - '06: Nass und nasser - Teil 19'
+  - '06: Nass und nasser - Teil 20'
+  - '06: Nass und nasser - Teil 21'
+  - '06: Nass und nasser - Teil 22'
+  - '06: Nass und nasser - Teil 23'
+  - '06: Nass und nasser - Teil 24'
+  - '06: Nass und nasser - Teil 25'
+  - '06: Nass und nasser - Teil 26'
+  - '06: Nass und nasser - Teil 27'
+  - '06: Nass und nasser - Teil 28'
+  - '06: Nass und nasser - Teil 29'
+  - '06: Nass und nasser - Teil 30'
+  - '06: Nass und nasser - Teil 31'
+  - '06: Nass und nasser - Teil 32'
+  - '06: Nass und nasser - Teil 33'
+  - '06: Nass und nasser - Teil 34'
+  - '06: Nass und nasser - Teil 35'
+  - '06: Nass und nasser - Teil 36'
+  - '06: Nass und nasser - Teil 37'
+  - '06: Nass und nasser - Teil 38'
+  - '06: Nass und nasser - Teil 39'
+  - '06: Nass und nasser - Teil 40'
+  - '06: Nass und nasser - Teil 41'
+  - '06: Nass und nasser - Teil 42'
+  - '06: Nass und nasser - Teil 43'
+  - '06: Nass und nasser - Teil 44'
+  - '06: Nass und nasser - Teil 45'
+  - '06: Nass und nasser - Teil 46'
+  - '06: Nass und nasser - Teil 47'
+  - '06: Nass und nasser - Teil 48'
+  - Willkommen in der Schule der magischen Tiere
   ids: []

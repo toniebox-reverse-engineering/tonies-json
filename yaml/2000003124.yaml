@@ -4,9 +4,9 @@ data:
 - series: Mein Lotta-Leben
   series-id: mein-lotta-leben
   episode: Den Letzten knutschen die Elche!
-  release: 0
+  release: 1658966400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 8
   origin: tunes
@@ -14,5 +14,25 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/mein-lotta-leben/den-letzten-knutschen-die-elche/
   shop-id: 7187ff23-aa02-4b31-8f52-e9f13c97967d
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
+  - Kapitel 20
   ids: []

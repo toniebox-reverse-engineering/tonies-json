@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Wilde Wälder / Lebendiger Boden
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,45 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/wilde-walder-lebendiger-boden/
   shop-id: 8b483f17-364a-4fcf-909f-e23e7bca3a0b
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Viele Fragen rund um den Wald'
+  - 'Thema 1: Die Riesenmammutbäume in Kalifornien'
+  - 'Thema 1: Wassertransport im Baumstamm und Fotosynthese der Blätter'
+  - 'Thema 1: Laub- und Nadelbäume in Herbst und Winter'
+  - 'Thema 1: Tannenzapfen, Fichtenzapfen'
+  - 'Thema 1: Was alles kann man mit Holz herstellen?'
+  - 'Thema 1: Kraftwunder Holzerntemaschine'
+  - 'Thema 1: Mischwald ist der beste Wald'
+  - 'Thema 1: Waldschaden durch Buchdrucker'
+  - 'Thema 1: Wieso klopft der Specht?'
+  - 'Thema 1: Clever: Specht bekommt nie Kopfschmerzen'
+  - 'Thema 1: Waldvögel: Kleiber, Waldkauz'
+  - 'Thema 1: Eichhörnchen als Gärtner des Waldes'
+  - 'Thema 1: Wertvolles Totholz im gesunden Wald'
+  - 'Thema 1: Feuersalamander, Spitzmäuse, Wildkatze'
+  - 'Thema 1: In der Dachsburg'
+  - 'Thema 1: Die Fuchsfamilie'
+  - 'Thema 1: Von der Taiga zum Regenwald: die großen Waldgürtel der Erde'
+  - 'Thema 1: Der Wald schützt unser Leben'
+  - 'Thema 1: Sind Wildschweine gefährlich?'
+  - 'Thema 2: Viele Fragen rund um den Boden'
+  - 'Thema 2: Am Anfang gab es nur Fels'
+  - 'Thema 2: Wasser und Wind knacken mit der Zeit jeden Stein'
+  - 'Thema 2: Starke Zerkleinerer: Flechten und Grünalgen'
+  - 'Thema 2: Im Gebirge: Boden unterhalb des nackten Fels'
+  - 'Thema 2: Bodenerzeuger Gletscher der Eiszeit'
+  - 'Thema 2: Gesunde Böden für die Landwirtschaft'
+  - 'Thema 2: Wertvoller Humus'
+  - 'Thema 2: Bodenschichten und Bodenarten'
+  - 'Thema 2: Von Leben wimmelnder Boden'
+  - 'Thema 2: Boden: der am dichtesten besiedelte Lebensraum der Erde'
+  - 'Thema 2: Fleissige Zersetzer: Pilze'
+  - 'Thema 2: Winzling Springschwanz: Rekord der Sprungkraft'
+  - 'Thema 2: Welche Supernahrung fressen Springschwänze?'
+  - 'Thema 2: Regenwurmröhren belüften die Erde'
+  - 'Thema 2: Regenwurmfarmen statt Kunstdünger'
+  - 'Thema 2: Ein drolliger Nützling: der Maulwurf'
+  - 'Thema 2: Der Boden hilft dem Wasserkreislauf'
+  - 'Thema 2: Was, wenn Boden verloren geht?'
+  - 'Thema 2: Gigantischer Kohlenstoffspeicher Boden'
   ids: []

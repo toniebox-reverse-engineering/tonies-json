@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Der Flohmarkt
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/der-flohmarkt/
   shop-id: 38f3799f-645c-4785-af79-1632cd339ea3
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Hilfe für Anna und Issam
+  - Bibi ist empört
+  - Zoff mit dem Bürgermeister
+  - Ein großartiger Plan
+  - Kinderzimmer aufräumen
+  - Karla ist begeistert
+  - Hexerei im Rathaus
+  - Benjamin macht mit
+  - Her mit der Polizei!
+  - Einfach ausgetrickst
+  - Ein voller Erfolg
+  - Ende gut – alles gut!
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 78: Pumuckl wartet auf die Bescherung'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,23 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-wartet-auf-die-bescherung-das-original-aus/
   shop-id: fdbb55b7-67dc-48f1-9135-0fc4de3f7798
-  track-desc: []
+  track-desc:
+  - Pumuckl wartet auf die Bescherung - Teil 01
+  - Pumuckl wartet auf die Bescherung - Teil 02
+  - Pumuckl wartet auf die Bescherung - Teil 03
+  - Pumuckl wartet auf die Bescherung - Teil 04
+  - Pumuckl wartet auf die Bescherung - Teil 05
+  - Pumuckl wartet auf die Bescherung - Teil 06
+  - Pumuckl wartet auf die Bescherung - Teil 07
+  - Pumuckl wartet auf die Bescherung - Teil 08
+  - Pumuckl wartet auf die Bescherung - Teil 09
+  - Pumuckl wartet auf die Bescherung - Teil 10
+  - Pumuckl wartet auf die Bescherung - Teil 11
+  - Pumuckl wartet auf die Bescherung - Teil 12
+  - Pumuckl wartet auf die Bescherung - Teil 13
+  - Pumuckl wartet auf die Bescherung - Teil 14
+  - Pumuckl wartet auf die Bescherung - Teil 15
+  - Pumuckl wartet auf die Bescherung - Teil 16
+  - Pumuckl wartet auf die Bescherung - Teil 17
+  - Pumuckl wartet auf die Bescherung - Teil 18
   ids: []

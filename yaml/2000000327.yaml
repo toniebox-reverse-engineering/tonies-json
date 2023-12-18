@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Die junge Schäferin
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,20 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/die-junge-schaferin/
   shop-id: 6bc75ab0-c899-474c-9638-0334c614be10
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Die Schafherde
+  - In der Bibliothek
+  - Willkommen!
+  - Das Gespräch im Stall
+  - Herr Kupsch ist krank
+  - Erste Bewährungsprobe
+  - An der Alten Eiche
+  - Die Schafe sind weg!
+  - Auf den Gleisen
+  - Johanna wirft hin
+  - Bibis Plan
+  - Überrumpelt
+  - Johanna, die Schäferin
+  - Extra- Wanderschäferei
   ids: []

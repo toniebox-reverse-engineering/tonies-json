@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Das Liebeskraut
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,16 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/das-liebeskraut/
   shop-id: f2b4de82-8606-4564-ab19-d9dc44134e9c
-  track-desc: []
+  track-desc:
+  - Song
+  - Auch Pferde haben Streit
+  - Eene meene Feuerwehr
+  - Gute Miene zum bösen Spiel
+  - Schönwetterhexerei
+  - Karla Kolumna kommt
+  - Programmbesprechung
+  - Überredungskünste
+  - Ausgebüchst
+  - Mitternachtsparty
+  - Sternenfunkeln
   ids: []

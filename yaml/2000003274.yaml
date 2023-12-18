@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 29: Pumuckl und der Finderlohn'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,21 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-und-der-finderlohn-das-original-aus-dem-fe/
   shop-id: d02fccb5-72da-4fae-a627-41f00a4a80e7
-  track-desc: []
+  track-desc:
+  - Pumuckl und der Finderlohn - Teil 01
+  - Pumuckl und der Finderlohn - Teil 02
+  - Pumuckl und der Finderlohn - Teil 03
+  - Pumuckl und der Finderlohn - Teil 04
+  - Pumuckl und der Finderlohn - Teil 05
+  - Pumuckl und der Finderlohn - Teil 06
+  - Pumuckl und der Finderlohn - Teil 07
+  - Pumuckl und der Finderlohn - Teil 08
+  - Pumuckl und der Finderlohn - Teil 09
+  - Pumuckl und der Finderlohn - Teil 10
+  - Pumuckl und der Finderlohn - Teil 11
+  - Pumuckl und der Finderlohn - Teil 12
+  - Pumuckl und der Finderlohn - Teil 13
+  - Pumuckl und der Finderlohn - Teil 14
+  - Pumuckl und der Finderlohn - Teil 15
+  - Pumuckl und der Finderlohn - Teil 16
   ids: []

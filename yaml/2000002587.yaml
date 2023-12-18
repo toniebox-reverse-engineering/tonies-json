@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Superschlaue Tiere / Tricks der Pflanzen
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,40 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/superschlaue-tiere-tricks-der-pflanzen/
   shop-id: a49fc94c-3202-494d-a60d-0f814136cf63
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Superschlaue Tiere'
+  - 'Thema 1: Theo, Einstein und der Regenwurm'
+  - 'Thema 1: Schimpansen lösen ein Problem'
+  - 'Thema 1: Vom ersten Werkzeug zur Naturwissenschaft'
+  - 'Thema 1: Gorillamädchen Koko lernt Zeichensprache'
+  - 'Thema 1: Die Sache mit den Zahlen'
+  - 'Thema 1: Die Welt verstehen'
+  - 'Thema 1: Gruppe macht schlau'
+  - 'Thema 1: Spielen ist wichtig'
+  - 'Thema 1: Der clevere Oktopus'
+  - 'Thema 1: Der praktische "Schnauzenschuh"'
+  - 'Thema 1: Schlaue Vögel'
+  - 'Thema 1: Das Experiment'
+  - 'Thema 1: Hol die Nuss!'
+  - 'Thema 1: Wenn Kakadus Tresore knacken'
+  - 'Thema 1: Gefiederte Werkzeugmacher'
+  - 'Thema 1: Was Vögel schreiben'
+  - 'Thema 2: Tricks der Pflanzen'
+  - 'Thema 2: Mit Pflanzen reden'
+  - 'Thema 2: Pflanzen sind anders'
+  - 'Thema 2: Pilze sind keine Pflanzen'
+  - 'Thema 2: Dicke Freunde - Pilze und Bäume'
+  - 'Thema 2: Der Teufelszwirn liebt Tomaten'
+  - 'Thema 2: Wenn Pflanzen riechen'
+  - 'Thema 2: Venusfliegenfalle - die "Schnapppflanze"'
+  - 'Thema 2: Sonnentau - Vorsicht klebt!'
+  - 'Thema 2: Kannenpflanzen in Borneo'
+  - 'Thema 2: Albomarginata - die gefräßigste Pflanze der Welt'
+  - 'Thema 2: Schöner Stinker'
+  - 'Thema 2: Tierische Bewacher'
+  - 'Thema 2: Fressalarm!'
+  - 'Thema 2: Limabohne - die Tierflüsterin'
+  - 'Thema 2: Die Tricks der Mimose'
+  - 'Thema 2: Weg da oder ich pupse!'
+  - 'Thema 2: Gurken im Wald'
   ids: []

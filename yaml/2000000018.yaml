@@ -4,9 +4,9 @@ data:
 - series: Benjamin Blümchen
   series-id: benjamin-bluemchen
   episode: als Gespenst
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,17 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/als-gespenst/
   shop-id: 08527d58-87f2-44fb-a143-32407ce1bd8c
-  track-desc: []
+  track-desc:
+  - Lied
+  - Das Hüpfgespenst
+  - Gespenstersorgen
+  - Kommen und gehen
+  - Die Vertretung
+  - Die neuen Besitzer
+  - Frau Krause weint
+  - Geisterstunde
+  - Das Gespenst wird entlarvt
+  - Der fliegende Elefant
+  - Das Gruselfest
+  - Kasimir kommt zurück
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Benjamin Blümchen
   series-id: benjamin-bluemchen
   episode: Das fleißige Faultier
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/das-fleiige-faultier/
   shop-id: 3164c28d-80a0-4de7-a744-a7855e1c0d61
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Affenzirkus
+  - Eine Attraktion für den Zoo
+  - Herrn Bärmann versteht
+  - Die Kiste am Bahnhof
+  - Eine böse Überraschung
+  - Der Faultier-Ersatz
+  - Seltsamer Herr Toretti
+  - Nächtliche Ruhestörung
+  - Mit dem Faultier ist was faul
+  - Ein Affe
+  - Die rettende Idee
+  - Eine tolle Show
+  - Jetzt wird gefeiert
   ids: []

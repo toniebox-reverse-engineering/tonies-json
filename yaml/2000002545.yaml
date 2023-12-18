@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Große Entdecker / Polargebiete
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,34 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/groe-entdecker-polargebiete/
   shop-id: 677dfa18-0680-493f-a321-293fa993ff75
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Intro'
+  - 'Thema 1: Der Mensch entdeckt die Welt'
+  - 'Thema 1: Seefahrt - Eine lange Geschichte'
+  - 'Thema 1: Marco Polo in China'
+  - 'Thema 1: Die chinesische Hochkultur'
+  - 'Thema 1: Ein Handelsweg zum fernen Osten'
+  - 'Thema 1: Seeroute um Afrika'
+  - 'Thema 1: Vasco da Gama'
+  - 'Thema 1: Christoph Columbus´ Reise nach Westen'
+  - 'Thema 1: Spaniens Aufstieg'
+  - 'Thema 1: Die Magellanstraße - Der Eingang zum Pazifik'
+  - 'Thema 1: Nansen und Peary - Reise zum Nordpol'
+  - 'Thema 1: Amundsen entdeckt die Antarktis'
+  - 'Thema 1: James Cook in der Südsee / Outro'
+  - 'Thema 2: Intro'
+  - 'Thema 2: Landschaften aus Eis und Schnee'
+  - 'Thema 2: Arktis - Land des kleinen Bären'
+  - 'Thema 2: Antarktis - Dicke Eisschichten'
+  - 'Thema 2: Pausenloser Sonnenschein'
+  - 'Thema 2: Tierwelt der Polare'
+  - 'Thema 2: Gegen Kälte geschützt'
+  - 'Thema 2: Nahrungskette der Polarwelt'
+  - 'Thema 2: Tarnung im Wasser'
+  - 'Thema 2: Der Eisbär'
+  - 'Thema 2: Die Inuit'
+  - 'Thema 2: Gigantische Eiswüste'
+  - 'Thema 2: Die Tiere der Antarktis'
+  - 'Thema 2: Pinguine'
+  - 'Thema 2: Bibliothek der Natur / Outro'
   ids: []

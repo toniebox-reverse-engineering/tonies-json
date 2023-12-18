@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Die Hexenküche
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/die-hexenkuche/
   shop-id: c4eae34b-5f68-4747-9950-cfcd93e13831
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Schlechte Nachricht
+  - Der Preis ist heiß
+  - Wir machen mit!
+  - Tiramisas Kochbuch
+  - Heimlich am Morgen
+  - Die Hexenküche
+  - Der Clou des Bürgermeisters
+  - Es wird ernst
+  - Die Konkurrenz
+  - Alles geht schief
+  - Müller-Riebensehl greift ein
+  - Gewonnen!
+  - Marker
   ids: []

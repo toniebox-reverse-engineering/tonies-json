@@ -4,9 +4,9 @@ data:
 - series: Sternenschweif
   series-id: sternenschweif
   episode: 'Teil 41: Verzauberte Herzen'
-  release: 0
+  release: 1649808000
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,23 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/sternenschweif/teil-41-verzauberte-herzen/
   shop-id: e0091988-9966-4069-902f-97d6403733af
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
   ids: []

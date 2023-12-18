@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Zauberer & Hexen / Phänomene
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,26 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/zauberer-hexen-phanomene/
   shop-id: 92703770-2b8f-49d2-84e4-e3dde6c207ef
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Zauberer, Hexen und Magie'
+  - 'Thema 1: Was ist Magie?'
+  - 'Thema 1: Woher kommen die Begriffe Zauberer und Hexe?'
+  - 'Thema 1: Stein der Weisen'
+  - 'Thema 1: Hexen'
+  - 'Thema 1: Märchenhexen'
+  - 'Thema 1: Was sind Hilfsgeister?'
+  - 'Thema 1: Die Zauberrituale'
+  - 'Thema 1: Die Ausstattung einer Hexe'
+  - 'Thema 1: Die Hexenverfolgung'
+  - 'Thema 2: Geklärte und ungeklärte Phänomene'
+  - 'Thema 2: Was sind Phänomene?'
+  - 'Thema 2: Gibt es noch Lebewesen auf anderen Planeten?'
+  - 'Thema 2: Gibt es Ufos wirklich?'
+  - 'Thema 2: Außerirdisches Leben'
+  - 'Thema 2: Atlantis'
+  - 'Thema 2: Der Steinkreis von Stonehenge'
+  - 'Thema 2: Vielseitiges Stonehenge'
+  - 'Thema 2: Experimente mit dem Steinkreis'
+  - 'Thema 2: Die Sterndeutung'
+  - 'Thema 2: Der Glaube an Geister'
   ids: []

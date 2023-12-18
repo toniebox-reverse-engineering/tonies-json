@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: und der Feuerdrache
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/und-der-feuerdrache/
   shop-id: 9b64498c-7a66-401f-bb14-b06c6ed6a36f
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Viel Hexerei
+  - Verschwunden
+  - Gefangen im Verlies
+  - Der Schluessel
+  - Unterwegs
+  - Arme Bauersleut
+  - Nach Neudorf
+  - Eine flammende Rede
+  - Falscher Drache
+  - Reue und Versoehnung
+  - Tschuess Vergangenheit
+  - Strafe muss sein
   ids: []

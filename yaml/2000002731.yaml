@@ -4,9 +4,9 @@ data:
 - series: Rico und Oskar
   series-id: rico-und-oskar
   episode: 'Rico und Oskar 4: Rico, Oskar und das Vomhimmelhoch - Das Hörspiel'
-  release: 0
+  release: 1634169600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 8
   origin: tunes
@@ -14,5 +14,31 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/rico-und-oskar/rico-und-oskar-4-rico-oskar-und-das-vomhimmelhoch/
   shop-id: 74ef1315-c2ab-470a-938b-f9ffdc5287c5
-  track-desc: []
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  - Teil 5
+  - Teil 6
+  - Teil 7
+  - Teil 8
+  - Teil 9
+  - Teil 10
+  - Teil 11
+  - Teil 12
+  - Teil 13
+  - Teil 14
+  - Teil 15
+  - Teil 16
+  - Teil 17
+  - Teil 18
+  - Teil 19
+  - Teil 20
+  - Teil 21
+  - Teil 22
+  - Teil 23
+  - Teil 24
+  - Teil 25
+  - Teil 26
   ids: []

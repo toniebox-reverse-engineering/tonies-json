@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Das Geheimnis der alte Mühle
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/das-geheimnis-der-alte-muhle/
   shop-id: bd8d63f5-a86c-41d7-b3a9-033dded8e322
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Heimliches Training
+  - Ottokars Pergament
+  - Tina wird schwach
+  - Graf Falko weiß alles
+  - Alle im Goldrausch
+  - Was jetzt-
+  - Der Plan
+  - Alles kommt anders
+  - Zurück zur Alten Mühle
+  - Rettung naht
+  - Der Auftritt
+  - Zum Narren gehalten
   ids: []

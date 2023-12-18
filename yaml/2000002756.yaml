@@ -4,9 +4,9 @@ data:
 - series: Bakabu
   series-id: bakabu
   episode: Bakabu und der Goldene Notenschlüssel
-  release: 0
+  release: 1643846400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,31 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bakabu/bakabu-und-der-goldene-notenschluessel/
   shop-id: 3ce690fa-4064-4c37-ae1a-cf4a25bb5ca4
-  track-desc: []
+  track-desc:
+  - Singeland Ouvertüre
+  - Hornhausen
+  - Bakabu Und Charlie Gru
+  - Der Goldene Notenschlüssel
+  - Das Unwetter
+  - Die Donnerinsel
+  - Die Reise Beginnt
+  - Jack Embalo
+  - Ukuleila
+  - Onkel Kornett
+  - Bakabus Schiff
+  - Der Aufbruch
+  - Schiffbruch
+  - Die Rettung
+  - Auf Der Donnerinsel
+  - Die Donnertrommler
+  - Bikibis Fundstück
+  - Charlie Grus Rucksack
+  - Die Heimreise
+  - Kammerton A
+  - Das Singefest I
+  - Baka Boogie
+  - Das Singefest II
+  - Auf Bald
+  - Radio Antenne Hornhausen
+  - Beste Freunde
   ids: []

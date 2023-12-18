@@ -4,9 +4,9 @@ data:
 - series: Liliane Susewind
   series-id: liliane-susewind
   episode: Extra-Punkte für den Dalmatiner
-  release: 0
+  release: 1648684800
   language: de-de
-  category: null
+  category: audio-book
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/liliane-susewind/liliane-susewind-extra-punkte-fur-den-dalmatiner/
   shop-id: 376a147e-ce94-4cc6-a427-ac8480849f70
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
   ids: []

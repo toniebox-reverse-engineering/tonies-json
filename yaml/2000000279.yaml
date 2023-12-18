@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Amadeus ist krank
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,13 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/amadeus-ist-krank/
   shop-id: a8186703-1480-46ef-ae04-52d4363d07b8
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Hexerei im Kuhstall
+  - Wettreiten mit Hindernissen
+  - Die Kuh in der Grube
+  - Die kranken Pferde
+  - Rätselraten
+  - Vergiftetes Wasser
+  - Strafe muss sein!
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 42: Der Blutfleck auf dem Stuhl'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,22 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/der-blutfleck-auf-dem-stuhl-das-original-aus-dem-f/
   shop-id: d0d9d4f5-06c5-47a9-81aa-1a4b23d1a790
-  track-desc: []
+  track-desc:
+  - Der Blutfleck auf dem Stuhl - Teil 01
+  - Der Blutfleck auf dem Stuhl - Teil 02
+  - Der Blutfleck auf dem Stuhl - Teil 03
+  - Der Blutfleck auf dem Stuhl - Teil 04
+  - Der Blutfleck auf dem Stuhl - Teil 05
+  - Der Blutfleck auf dem Stuhl - Teil 06
+  - Der Blutfleck auf dem Stuhl - Teil 07
+  - Der Blutfleck auf dem Stuhl - Teil 08
+  - Der Blutfleck auf dem Stuhl - Teil 09
+  - Der Blutfleck auf dem Stuhl - Teil 10
+  - Der Blutfleck auf dem Stuhl - Teil 11
+  - Der Blutfleck auf dem Stuhl - Teil 12
+  - Der Blutfleck auf dem Stuhl - Teil 13
+  - Der Blutfleck auf dem Stuhl - Teil 14
+  - Der Blutfleck auf dem Stuhl - Teil 15
+  - Der Blutfleck auf dem Stuhl - Teil 16
+  - Der Blutfleck auf dem Stuhl - Teil 17
   ids: []

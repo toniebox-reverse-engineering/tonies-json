@@ -4,9 +4,9 @@ data:
 - series: Benjamin Blümchen
   series-id: benjamin-bluemchen
   episode: Das Zoojubiläum
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,17 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/das-zoojubilaum/
   shop-id: 093ddf9f-983b-4e99-9f99-38acb9923002
-  track-desc: []
+  track-desc:
+  - Lied
+  - Wie alt ist eigentlich...-
+  - Die Forscher
+  - Ins Stadtarchiv
+  - Schildkröten-Schulze gesucht
+  - Karla Kolumna hilft
+  - Wie Schubi Schildkröte in den Zoo kam
+  - Quicky Quasselstrippe
+  - Ein Doppeljubiläum
+  - Fest geplant
+  - Ärger mit dem Bürgermeister
+  - Schubi wird 150
   ids: []

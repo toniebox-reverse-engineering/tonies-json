@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Schätze der Erde / Kristalle
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,33 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/schatze-der-erde-kristalle/
   shop-id: 7c558348-f233-46c1-9351-39bf00e628bb
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Die Schätze der Erde'
+  - 'Thema 1: Was sind Bodenschätze?'
+  - 'Thema 1: Der Feuerstein'
+  - 'Thema 1: Wie kommen Bodenschätze in den Boden?'
+  - 'Thema 1: Die Lagerstätte'
+  - 'Thema 1: Was sind Fossile Brennstoffe?'
+  - 'Thema 1: Woraus entstanden Erdöl und Erdgas?'
+  - 'Thema 1: Was ist Rohöl?'
+  - 'Thema 1: Methoden zum Finden von Erdöl'
+  - 'Thema 1: Erneuerbare Energie nutzen!'
+  - 'Thema 1: Die Arbeit im Bergwerk'
+  - 'Thema 1: Erfindung der Dampfmaschine'
+  - 'Thema 1: Eisenerz'
+  - 'Thema 2: Die Wunderwelt der Kristalle'
+  - 'Thema 2: Die Mineralogie'
+  - 'Thema 2: Was sind Mineralien?'
+  - 'Thema 2: Das Mineral, ohne das wir nicht leben könnten'
+  - 'Thema 2: Kupfer'
+  - 'Thema 2: Bronzezeit und Eisenzeit'
+  - 'Thema 2: Was sind Edelsteine?'
+  - 'Thema 2: Der Diamant'
+  - 'Thema 2: Wo entstehen Diamanten?'
+  - 'Thema 2: Die Herstellung von künstlichen Diamanten und Kristallen'
+  - 'Thema 2: Metamorphe Gesteine'
+  - 'Thema 2: Wie entstand Marmor?'
+  - 'Thema 2: Meteoriten'
+  - 'Thema 2: Die verschiedenen Meteoriten'
+  - 'Thema 2: Mondgestein'
   ids: []

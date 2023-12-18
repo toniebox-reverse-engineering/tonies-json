@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Ein verhexter Urlaub
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/ein-verhexter-urlaub/
   shop-id: a8e16289-d047-494e-8965-79d4dd4aabf4
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Die Besen müssen mit
+  - Hubertus und Mathilda Drösel
+  - Endlich im Hotel
+  - Koffer leicht gemacht
+  - Hexerei beim Abendessen
+  - Hilfe für Eugen
+  - Der Zaun muß weg !
+  - Bibis Plan geht auf
+  - Was für ein Ferienspaß !
+  - Das große Lampionfest
+  - Rettung in letzter Sekunde
+  - Einladung an Ulli
   ids: []

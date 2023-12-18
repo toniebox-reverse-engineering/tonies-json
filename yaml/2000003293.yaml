@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 48: Pumuckl und die Blechbüchsen'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,20 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-und-die-blechbuchsen-das-original-aus-dem/
   shop-id: bdaabfde-7e5e-4957-9454-28c6da02f8cf
-  track-desc: []
+  track-desc:
+  - Pumuckl und die Blechbüchsen - Teil 01
+  - Pumuckl und die Blechbüchsen - Teil 02
+  - Pumuckl und die Blechbüchsen - Teil 03
+  - Pumuckl und die Blechbüchsen - Teil 04
+  - Pumuckl und die Blechbüchsen - Teil 05
+  - Pumuckl und die Blechbüchsen - Teil 06
+  - Pumuckl und die Blechbüchsen - Teil 07
+  - Pumuckl und die Blechbüchsen - Teil 08
+  - Pumuckl und die Blechbüchsen - Teil 09
+  - Pumuckl und die Blechbüchsen - Teil 10
+  - Pumuckl und die Blechbüchsen - Teil 11
+  - Pumuckl und die Blechbüchsen - Teil 12
+  - Pumuckl und die Blechbüchsen - Teil 13
+  - Pumuckl und die Blechbüchsen - Teil 14
+  - Pumuckl und die Blechbüchsen - Teil 15
   ids: []

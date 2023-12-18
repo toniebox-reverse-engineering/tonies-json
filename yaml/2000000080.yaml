@@ -4,9 +4,9 @@ data:
 - series: Benjamin Blümchen
   series-id: benjamin-bluemchen
   episode: Die Gespensterkinder
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,16 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/die-gespensterkinder/
   shop-id: 169375c0-69fb-422e-8c35-9b24fdc91eef
-  track-desc: []
+  track-desc:
+  - Lied
+  - Burgführung
+  - Die Zeitmaschine
+  - Der Geheimgang
+  - Der falsche Verdacht
+  - Das Unsichtbarkeitsspray
+  - Komplizen
+  - Diamantenfieber
+  - Der blaue Saphir
+  - Es brennt !
+  - Nur ein Traum -
   ids: []

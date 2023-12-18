@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Ursprung des Lebens / Sind wir allein im All?
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,44 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/ursprung-des-lebens-sind-wir-allein-im-all/
   shop-id: 29236ab2-e1a3-491a-8bdb-c76cdc8f7013
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Ursprung des Lebens'
+  - 'Thema 1: Schöpfungsmythen'
+  - 'Thema 1: Evolution - alles verändert sich'
+  - 'Thema 1: Sind die Dinos wirklich ausgestorben?'
+  - 'Thema 1: Fossilien - versteinerte Zeugen'
+  - 'Thema 1: Im Steinbruch - versteinertes Meer'
+  - 'Thema 1: Der Fisch - einer unserer Vorfahren'
+  - 'Thema 1: Explosion des Lebens im Kambrium'
+  - 'Thema 1: Uralte Sedimente in Grönland'
+  - 'Thema 1: Was sind Stromatolithen?'
+  - 'Thema 1: Sensation: 3,8 Milliarden Jahre alte Lebensspuren'
+  - 'Thema 1: Die Zelle als Baustein des Lebens'
+  - 'Thema 1: Wie sich Pantoffeltierchen teilen'
+  - 'Thema 1: Urerde, Urozean, Uratmosphäre'
+  - 'Thema 1: Ursuppe im Labor von Stanley Miller'
+  - 'Thema 1: Neue Moleküle aber kein Leben'
+  - 'Thema 1: Warum sind Erbmoleküle wichtig?'
+  - 'Thema 1: Hat sich das Leben in der Tiefsee gebildet?'
+  - 'Thema 1: Rätsel der ersten lebenden Zelle'
+  - 'Thema 1: Kam das Leben aus dem All?'
+  - 'Thema 2: Sind wir allein im All?'
+  - 'Thema 2: Science Fiction'
+  - 'Thema 2: Von Marskanälen und Marsmenschen'
+  - 'Thema 2: Die acht Planeten'
+  - 'Thema 2: Heißer Merkur'
+  - 'Thema 2: Höllenplanet Venus'
+  - 'Thema 2: Roter Planet Mars'
+  - 'Thema 2: Monde mit Eisozeanen'
+  - 'Thema 2: Exoplaneten'
+  - 'Thema 2: Blaurotblaurot: wenn Sterne wobbeln'
+  - 'Thema 2: Exoplanetenjäger mit der Bedeckungsmethode'
+  - 'Thema 2: Gasplaneten und Gesteinsplaneten'
+  - 'Thema 2: Die habitable Zone'
+  - 'Thema 2: Wasser und Sauerstoff'
+  - 'Thema 2: Proxima Centauri: nächstes Ziel!'
+  - 'Thema 2: Mit SETI Aliens belauschen'
+  - 'Thema 2: Das WOW Signal'
+  - 'Thema 2: Arecibo-Radioteleskop: Erde an Aliens'
+  - 'Thema 2: Der erste Kontakt?'
   ids: []

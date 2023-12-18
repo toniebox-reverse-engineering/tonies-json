@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 14: Der große Krach und seine Folgen'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,22 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/der-groe-krach-und-seine-folgen-das-original-aus-d/
   shop-id: 45e309bc-0098-48e6-9a05-dceee5f35f02
-  track-desc: []
+  track-desc:
+  - Der große Krach und seine Folgen - Teil 01
+  - Der große Krach und seine Folgen - Teil 02
+  - Der große Krach und seine Folgen - Teil 03
+  - Der große Krach und seine Folgen - Teil 04
+  - Der große Krach und seine Folgen - Teil 05
+  - Der große Krach und seine Folgen - Teil 06
+  - Der große Krach und seine Folgen - Teil 07
+  - Der große Krach und seine Folgen - Teil 08
+  - Der große Krach und seine Folgen - Teil 09
+  - Der große Krach und seine Folgen - Teil 10
+  - Der große Krach und seine Folgen - Teil 11
+  - Der große Krach und seine Folgen - Teil 12
+  - Der große Krach und seine Folgen - Teil 13
+  - Der große Krach und seine Folgen - Teil 14
+  - Der große Krach und seine Folgen - Teil 15
+  - Der große Krach und seine Folgen - Teil 16
+  - Der große Krach und seine Folgen - Teil 17
   ids: []

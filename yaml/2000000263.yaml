@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Verhexte Weihnachten
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,15 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/verhexte-weihnachten/
   shop-id: 2292749e-1e41-4808-926e-10647222b2b7
-  track-desc: []
+  track-desc:
+  - Bibi Song
+  - Eine Tanne für den Bürgermeister
+  - Große und kleine Bäume
+  - Der Riesenhexspruch
+  - Hexspruch verzweifelt gesucht !
+  - Besuch bei Eddi Eddison
+  - Die Schneekanone
+  - Bibi hat eine Idee
+  - Süßer Schnee
+  - Fröhliche Weihnachten
   ids: []

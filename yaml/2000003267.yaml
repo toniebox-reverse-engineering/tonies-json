@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 22: Pumuckl und das Spielzeugauto'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,20 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-und-das-spielzeugauto-das-original-aus-dem/
   shop-id: e0658b55-b40e-4aed-b130-602302ddc2a1
-  track-desc: []
+  track-desc:
+  - Pumuckl und das Spielzeugauto - Teil 01
+  - Pumuckl und das Spielzeugauto - Teil 02
+  - Pumuckl und das Spielzeugauto - Teil 03
+  - Pumuckl und das Spielzeugauto - Teil 04
+  - Pumuckl und das Spielzeugauto - Teil 05
+  - Pumuckl und das Spielzeugauto - Teil 06
+  - Pumuckl und das Spielzeugauto - Teil 07
+  - Pumuckl und das Spielzeugauto - Teil 08
+  - Pumuckl und das Spielzeugauto - Teil 09
+  - Pumuckl und das Spielzeugauto - Teil 10
+  - Pumuckl und das Spielzeugauto - Teil 11
+  - Pumuckl und das Spielzeugauto - Teil 12
+  - Pumuckl und das Spielzeugauto - Teil 13
+  - Pumuckl und das Spielzeugauto - Teil 14
+  - Pumuckl und das Spielzeugauto - Teil 15
   ids: []

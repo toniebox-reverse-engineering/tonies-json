@@ -4,9 +4,9 @@ data:
 - series: Die kleine Schnecke Monika Häuschen
   series-id: die-kleine-schnecke-monika-haeuschen
   episode: Warum verbuddeln Eichhörnchen Nüsse?
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,32 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/die-kleine-schnecke-monika-haeuschen/warum-verbuddeln-eichhornchen-nusse/
   shop-id: f8266720-1f2f-486f-b400-f08d76ce8296
-  track-desc: []
+  track-desc:
+  - Die kleine Schnecke Monika Häuschen - Titellied
+  - Warum verbuddeln Eichhörnchen Nüsse? - Teil 01
+  - Warum verbuddeln Eichhörnchen Nüsse? - Teil 02
+  - Warum verbuddeln Eichhörnchen Nüsse? - Teil 03
+  - Warum verbuddeln Eichhörnchen Nüsse? - Teil 04
+  - Warum verbuddeln Eichhörnchen Nüsse? - Teil 05
+  - Warum verbuddeln Eichhörnchen Nüsse? - Teil 06
+  - Warum verbuddeln Eichhörnchen Nüsse? - Teil 07
+  - Warum verbuddeln Eichhörnchen Nüsse? - Teil 08
+  - Warum verbuddeln Eichhörnchen Nüsse? - Teil 09
+  - Warum verbuddeln Eichhörnchen Nüsse? - Teil 10
+  - Warum verbuddeln Eichhörnchen Nüsse? - Teil 11
+  - Warum verbuddeln Eichhörnchen Nüsse? - Teil 12
+  - Warum verbuddeln Eichhörnchen Nüsse? - Teil 13
+  - Warum verbuddeln Eichhörnchen Nüsse? - Teil 14
+  - Warum verbuddeln Eichhörnchen Nüsse? - Teil 15
+  - Warum verbuddeln Eichhörnchen Nüsse? - Teil 16
+  - Warum verbuddeln Eichhörnchen Nüsse? - Teil 17
+  - Warum verbuddeln Eichhörnchen Nüsse? - Teil 18
+  - Warum verbuddeln Eichhörnchen Nüsse? - Teil 19
+  - Warum verbuddeln Eichhörnchen Nüsse? - Teil 20
+  - Warum verbuddeln Eichhörnchen Nüsse? - Teil 21
+  - Warum verbuddeln Eichhörnchen Nüsse? - Teil 22
+  - Warum verbuddeln Eichhörnchen Nüsse? - Teil 23
+  - Warum verbuddeln Eichhörnchen Nüsse? - Teil 24
+  - Warum verbuddeln Eichhörnchen Nüsse? - Teil 25
+  - Warum verbuddeln Eichhörnchen Nüsse? - Teil 26
   ids: []

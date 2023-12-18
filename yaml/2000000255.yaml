@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: und die kleine Elfe
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/und-die-kleine-elfe/
   shop-id: fe6ef63d-efb1-4235-acd1-f555bbb72fe3
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Das fliegende Licht
+  - Unterwegs mit einer Elfe
+  - Weiter geht-s
+  - Träume werden wahr
+  - In Bibis Zimmer
+  - Hexprobleme!
+  - Ein altes Kinderlied
+  - Von Mania zu Walpurgia
+  - Das Hexenarchiv
+  - Die Traum-Lösung
+  - Nochmals zu Mania
+  - Zurück zu Walpurgia
+  - Auf Wiedersehen!
   ids: []

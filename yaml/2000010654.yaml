@@ -4,9 +4,9 @@ data:
 - series: Die drei ??? Kids
   series-id: die-drei-kids
   episode: Falsche Vampire
-  release: 0
-  language: null
-  category: null
+  release: 1701216000
+  language: de-de
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,32 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/die-drei-kids/die-drei-kids-folge-94-falsche-vampire/
   shop-id: ae342cf5-61b5-4150-bd94-6096dc6fa84f
-  track-desc: []
+  track-desc:
+  - 94 - Falsche Vampire (Inhaltsangabe)
+  - Die drei ??? Kids Titelsong
+  - 94 - Falsche Vampire (Teil 01)
+  - 94 - Falsche Vampire (Teil 02)
+  - 94 - Falsche Vampire (Teil 03)
+  - 94 - Falsche Vampire (Teil 04)
+  - 94 - Falsche Vampire (Teil 05)
+  - 94 - Falsche Vampire (Teil 06)
+  - 94 - Falsche Vampire (Teil 07)
+  - 94 - Falsche Vampire (Teil 08)
+  - 94 - Falsche Vampire (Teil 09)
+  - 94 - Falsche Vampire (Teil 10)
+  - 94 - Falsche Vampire (Teil 11)
+  - 94 - Falsche Vampire (Teil 12)
+  - 94 - Falsche Vampire (Teil 13)
+  - 94 - Falsche Vampire (Teil 14)
+  - 94 - Falsche Vampire (Teil 15)
+  - 94 - Falsche Vampire (Teil 16)
+  - 94 - Falsche Vampire (Teil 17)
+  - 94 - Falsche Vampire (Teil 18)
+  - 94 - Falsche Vampire (Teil 19)
+  - 94 - Falsche Vampire (Teil 20)
+  - 94 - Falsche Vampire (Teil 21)
+  - 94 - Falsche Vampire (Teil 22)
+  - 94 - Falsche Vampire (Teil 23)
+  - Die drei ??? Kids Schlußsong
+  - 94 - Falsche Vampire (Outro)
   ids: []

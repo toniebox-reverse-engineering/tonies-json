@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 77: Alte Liebe und Alleskleber'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,23 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/alte-liebe-und-alleskleber-das-original-aus-dem-fe/
   shop-id: ee127f40-5aef-47f5-9032-ad62fcfadd9b
-  track-desc: []
+  track-desc:
+  - Alte Liebe und Alleskleber - Teil 01
+  - Alte Liebe und Alleskleber - Teil 02
+  - Alte Liebe und Alleskleber - Teil 03
+  - Alte Liebe und Alleskleber - Teil 04
+  - Alte Liebe und Alleskleber - Teil 05
+  - Alte Liebe und Alleskleber - Teil 06
+  - Alte Liebe und Alleskleber - Teil 07
+  - Alte Liebe und Alleskleber - Teil 08
+  - Alte Liebe und Alleskleber - Teil 09
+  - Alte Liebe und Alleskleber - Teil 10
+  - Alte Liebe und Alleskleber - Teil 11
+  - Alte Liebe und Alleskleber - Teil 12
+  - Alte Liebe und Alleskleber - Teil 13
+  - Alte Liebe und Alleskleber - Teil 14
+  - Alte Liebe und Alleskleber - Teil 15
+  - Alte Liebe und Alleskleber - Teil 16
+  - Alte Liebe und Alleskleber - Teil 17
+  - Alte Liebe und Alleskleber - Teil 18
   ids: []

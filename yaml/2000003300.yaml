@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 55: Pumuckl spielt mit dem Feuer'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,23 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-spielt-mit-dem-feuer-das-original-aus-dem/
   shop-id: 4fbf446e-4dd5-4016-88db-6ecde98f64af
-  track-desc: []
+  track-desc:
+  - Pumuckl spielt mit dem Feuer - Teil 01
+  - Pumuckl spielt mit dem Feuer - Teil 02
+  - Pumuckl spielt mit dem Feuer - Teil 03
+  - Pumuckl spielt mit dem Feuer - Teil 04
+  - Pumuckl spielt mit dem Feuer - Teil 05
+  - Pumuckl spielt mit dem Feuer - Teil 06
+  - Pumuckl spielt mit dem Feuer - Teil 07
+  - Pumuckl spielt mit dem Feuer - Teil 08
+  - Pumuckl spielt mit dem Feuer - Teil 09
+  - Pumuckl spielt mit dem Feuer - Teil 10
+  - Pumuckl spielt mit dem Feuer - Teil 11
+  - Pumuckl spielt mit dem Feuer - Teil 12
+  - Pumuckl spielt mit dem Feuer - Teil 13
+  - Pumuckl spielt mit dem Feuer - Teil 14
+  - Pumuckl spielt mit dem Feuer - Teil 15
+  - Pumuckl spielt mit dem Feuer - Teil 16
+  - Pumuckl spielt mit dem Feuer - Teil 17
+  - Pumuckl spielt mit dem Feuer - Teil 18
   ids: []

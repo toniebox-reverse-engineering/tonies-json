@@ -4,9 +4,9 @@ data:
 - series: Benjamin Blümchen
   series-id: benjamin-bluemchen
   episode: Die neue Zooheizung
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,15 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/die-neue-zooheizung/
   shop-id: e9de141e-47d5-469a-99f6-3a08049e60f9
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Frühlingsgefühle
+  - Die Heizung ist kaputt
+  - Benjamin wird Heizungsmonteur
+  - Die Überraschung
+  - Nicky Nasenbär ist weg
+  - Bruno Brenner hilft
+  - Wo ist der Haken -
+  - Bruno Brenner klärt auf
+  - Karla geht in Herrn Tierliebs' Büro
   ids: []

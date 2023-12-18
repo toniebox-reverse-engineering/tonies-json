@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Faszination Haie / Korallenriffe
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,44 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/faszination-haie-korallenriffe/
   shop-id: 30c7a130-0f67-4550-b149-e3ee4e3be28a
-  track-desc: []
+  track-desc:
+  - 'Titel:  Thema 1: Einleitung'
+  - 'Titel:  Thema 1: Räuber der Weltmeere'
+  - 'Titel:  Thema 1: Haiforschung'
+  - 'Titel:  Thema 1: Hai-Kinderstuben'
+  - 'Titel:  Thema 1: Nachwuchs'
+  - 'Titel:  Thema 1: Wie werden Haie gefangen?'
+  - 'Titel:  Thema 1: Revolvergebiss'
+  - 'Titel:  Thema 1: Beute'
+  - 'Titel:  Thema 1: Walhai'
+  - 'Titel:  Thema 1: Weißer Hai auf Jagd'
+  - 'Titel:  Thema 1: Lorenzinische Ampullen'
+  - 'Titel:  Thema 1: Blutrausch'
+  - 'Titel:  Thema 1: Kiemen'
+  - 'Titel:  Thema 1: Hautzähne'
+  - 'Titel:  Thema 1: Registrierung von Haien'
+  - 'Titel:  Thema 1: Jagd auf Haie'
+  - 'Titel:  Thema 1: Verhalten in der Nähe von Haien'
+  - 'Titel:  Thema 1: Warum greifen Haie Menschen an?'
+  - 'Titel:  Thema 1: Tipps gegen Haigefahr'
+  - 'Titel:  Thema 2: Einleitung'
+  - 'Titel:  Thema 2: Vulkaninseln'
+  - 'Titel:  Thema 2: Regenwälder der Meere'
+  - 'Titel:  Thema 2: Entstehung'
+  - 'Titel:  Thema 2: Photosynthese'
+  - 'Titel:  Thema 2: Papageifisch'
+  - 'Titel:  Thema 2: Great Barrier Reef'
+  - 'Titel:  Thema 2: Symbiose'
+  - 'Titel:  Thema 2: Knallkrebs'
+  - 'Titel:  Thema 2: Seeanemone'
+  - 'Titel:  Thema 2: Klang der Riffe'
+  - 'Titel:  Thema 2: Farben und Muster der Fische'
+  - 'Titel:  Thema 2: Tarnung im Korallenriff'
+  - 'Titel:  Thema 2: Oktopus'
+  - 'Titel:  Thema 2: Arten von Korallen'
+  - 'Titel:  Thema 2: Seepferdchen'
+  - 'Titel:  Thema 2: Korallenkolonien'
+  - 'Titel:  Thema 2: Nachts im Korallenriff'
+  - 'Titel:  Thema 2: Besonderer Schlafplatz'
+  - 'Titel:  Thema 2: Weißspitzen-Riffhai'
   ids: []

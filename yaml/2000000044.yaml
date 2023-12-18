@@ -4,9 +4,9 @@ data:
 - series: Benjamin Blümchen
   series-id: benjamin-bluemchen
   episode: auf hoher See
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,13 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/auf-hoher-see/
   shop-id: 8714302a-2116-4eab-9c88-2b723f766abb
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Ein heißer Tag
+  - Piratenspiel mit Folgen
+  - Blinde Passagiere
+  - Seekrank
+  - Elefant auf Tauchgang
+  - Der Schatz wird geborgen
+  - Ein Goldbarren für Benjamin
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: und Elea Eluanda
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/und-elea-eluanda/
   shop-id: 99ac0106-cd4e-493d-bc1f-30677f60c80e
-  track-desc: []
+  track-desc:
+  - Bibi Song
+  - Ankunft in Altenberg
+  - Besuch in der -Vierten Welt-
+  - Blaue Eule
+  - Der Wettbewerb
+  - Wo bleibt der Schnee -
+  - Die kaputte Schneekanone
+  - Das rote Hexbuch
+  - Schneekanonen-Hexerei
+  - Schneesturm
+  - Elea rettet Bibi
+  - Der Suchtrupp
+  - Das Rennen
   ids: []

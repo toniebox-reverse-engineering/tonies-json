@@ -4,9 +4,9 @@ data:
 - series: Feuerwehrmann Sam
   series-id: feuerwehrmann-sam
   episode: Der Tag des Pinguins
-  release: 0
+  release: 1641427200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,30 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/feuerwehrmann-sam/der-tag-des-pinguins/
   shop-id: 8a7f515e-6223-411d-9cf1-dcf2a97b7f68
-  track-desc: []
+  track-desc:
+  - Der König Der Drachen Teil 1
+  - Der König Der Drachen Teil 2
+  - Der König Der Drachen Teil 3
+  - Der König Der Drachen Teil 4
+  - Der König Der Drachen Teil 5
+  - Ein Hund Für Norman Teil 1
+  - Ein Hund Für Norman Teil 2
+  - Ein Hund Für Norman Teil 3
+  - Ein Hund Für Norman Teil 4
+  - Ein Hund Für Norman Teil 5
+  - Geheimagent Jake Pond Teil 1
+  - Geheimagent Jake Pond Teil 2
+  - Geheimagent Jake Pond Teil 3
+  - Geheimagent Jake Pond Teil 4
+  - Geheimagent Jake Pond Teil 5
+  - Der Fuchs Ist Los Teil 1
+  - Der Fuchs Ist Los Teil 2
+  - Der Fuchs Ist Los Teil 3
+  - Der Fuchs Ist Los Teil 4
+  - Der Fuchs Ist Los Teil 5
+  - Norman Und Der Pinguin Teil 1
+  - Norman Und Der Pinguin Teil 2
+  - Norman Und Der Pinguin Teil 3
+  - Norman Und Der Pinguin Teil 4
+  - Norman Und Der Pinguin Teil 5
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Auf der Märcheninsel
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/auf-der-marcheninsel/
   shop-id: 29e7f518-bacc-4cfd-9449-e59ed98b3ff7
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Ein weißer Fleck auf der Karte
+  - Nach dem Essen
+  - Überraschendes Treffen
+  - Karla Kolumna kommt mit
+  - Auf der Märcheninsel
+  - Zwerge mit Anhang
+  - Rumpelstilzchen
+  - Der Prinz wird entführt
+  - Im Hexenhaus
+  - Hin-und-her-Hexerei
+  - Ein großes Versprechen
+  - Zurück nach Hause
   ids: []

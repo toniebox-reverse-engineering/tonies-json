@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: UFOs über Neustadt
-  release: 0
+  release: 1651017600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,20 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/ufos-uber-neustadt/
   shop-id: 39ef442a-760f-4320-a9a8-2ae8c39b2f19
-  track-desc: []
+  track-desc:
+  - Bibi Blocksberg Lied
+  - Alles wie immer!
+  - Das grüne Wesen im UFO
+  - Ganz in Gold
+  - Gastgeschenke
+  - Sanddiebe auf dem Spielplatz
+  - Ein güldener Hut
+  - Achtung, Liegendiebe!
+  - Karla auf heißer Spur
+  - Die absolute Wahrheit
+  - UFO-Jagd
+  - Es rieselt vom Zylinder
+  - Echte Außerirdische
+  - Schwämmchen drüber!
+  - 'Bonus: Schubia'
   ids: []

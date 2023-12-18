@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 61: Pumuckl und die Ostereier'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,22 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-und-die-ostereier-das-original-aus-dem-fer/
   shop-id: a4f13a7c-967e-4184-90bb-a8ea60521f80
-  track-desc: []
+  track-desc:
+  - Pumuckl und die Ostereier - Teil 01
+  - Pumuckl und die Ostereier - Teil 02
+  - Pumuckl und die Ostereier - Teil 03
+  - Pumuckl und die Ostereier - Teil 04
+  - Pumuckl und die Ostereier - Teil 05
+  - Pumuckl und die Ostereier - Teil 06
+  - Pumuckl und die Ostereier - Teil 07
+  - Pumuckl und die Ostereier - Teil 08
+  - Pumuckl und die Ostereier - Teil 09
+  - Pumuckl und die Ostereier - Teil 10
+  - Pumuckl und die Ostereier - Teil 11
+  - Pumuckl und die Ostereier - Teil 12
+  - Pumuckl und die Ostereier - Teil 13
+  - Pumuckl und die Ostereier - Teil 14
+  - Pumuckl und die Ostereier - Teil 15
+  - Pumuckl und die Ostereier - Teil 16
+  - Pumuckl und die Ostereier - Teil 17
   ids: []

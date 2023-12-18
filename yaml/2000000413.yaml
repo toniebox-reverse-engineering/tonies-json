@@ -4,9 +4,9 @@ data:
 - series: Der kleine Rabe Socke
   series-id: der-kleine-rabe-socke
   episode: 'Alles Frühling!: Alles Freunde!, Alles wächst!, Alles gefärbt!'
-  release: 0
+  release: 1548892800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,14 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/der-kleine-rabe-socke/alles-fruhling-alles-freunde-alles-wachst-alles-ge/
   shop-id: 1399992b-50bc-4d7d-a3b0-2c423c87dc5d
-  track-desc: []
+  track-desc:
+  - 'Der kleine Rabe Socke: Alles Freunde!, Kapitel 1'
+  - 'Der kleine Rabe Socke: Alles Freunde!, Kapitel 2'
+  - 'Der kleine Rabe Socke: Alles Freunde!, Kapitel 3'
+  - 'Der kleine Rabe Socke: Alles wächst!, Kapitel 4'
+  - 'Der kleine Rabe Socke: Alles wächst!, Kapitel 5'
+  - 'Der kleine Rabe Socke: Alles gefärbt!, Kapitel 6'
+  - 'Der kleine Rabe Socke: Alles gefärbt!, Kapitel 7'
+  - 'Der kleine Rabe Socke: Alles gefärbt!, Kapitel 8'
+  - 'Der kleine Rabe Socke: Alles gefärbt!, Kapitel 9'
   ids: []

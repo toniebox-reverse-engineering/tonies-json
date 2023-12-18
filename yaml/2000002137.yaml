@@ -4,9 +4,9 @@ data:
 - series: Conni
   series-id: conni
   episode: Conni und das tanzende Pony
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
@@ -14,5 +14,47 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/conni/conni-und-das-tanzende-pony/
   shop-id: 247f1192-53ac-4d19-a1ec-567074e094ac
-  track-desc: []
+  track-desc:
+  - Meine beste Freundin Conni
+  - Conni und das tanzende Pony - Teil 01
+  - Conni und das tanzende Pony - Teil 02
+  - Conni und das tanzende Pony - Teil 03
+  - Conni und das tanzende Pony - Teil 04
+  - Conni und das tanzende Pony - Teil 05
+  - Conni und das tanzende Pony - Teil 06
+  - Conni und das tanzende Pony - Teil 07
+  - Conni und das tanzende Pony - Teil 08
+  - Conni und das tanzende Pony - Teil 09
+  - Conni und das tanzende Pony - Teil 10
+  - Conni und das tanzende Pony - Teil 11
+  - Conni und das tanzende Pony - Teil 12
+  - Conni und das tanzende Pony - Teil 13
+  - Conni und das tanzende Pony - Teil 14
+  - Conni und das tanzende Pony - Teil 15
+  - Conni und das tanzende Pony - Teil 16
+  - Conni und das tanzende Pony - Teil 17
+  - Conni und das tanzende Pony - Teil 18
+  - Conni und das tanzende Pony - Teil 19
+  - Conni und das tanzende Pony - Teil 20
+  - Conni und das tanzende Pony - Teil 21
+  - Conni und das tanzende Pony - Teil 22
+  - Conni und das tanzende Pony - Teil 23
+  - Conni und das tanzende Pony - Teil 24
+  - Conni und das tanzende Pony - Teil 25
+  - Conni und das tanzende Pony - Teil 26
+  - Conni und das tanzende Pony - Teil 27
+  - Conni und das tanzende Pony - Teil 28
+  - Conni und das tanzende Pony - Teil 29
+  - Conni und das tanzende Pony - Teil 30
+  - Conni und das tanzende Pony - Teil 31
+  - Conni und das tanzende Pony - Teil 32
+  - Conni und das tanzende Pony - Teil 33
+  - Conni und das tanzende Pony - Teil 34
+  - Conni und das tanzende Pony - Teil 35
+  - Conni und das tanzende Pony - Teil 36
+  - Conni und das tanzende Pony - Teil 37
+  - Conni und das tanzende Pony - Teil 38
+  - Conni und das tanzende Pony - Teil 39
+  - Conni und das tanzende Pony - Teil 40
+  - Meine beste Freundin Conni
   ids: []

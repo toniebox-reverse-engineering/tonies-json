@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: und die Vampire
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,17 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/und-die-vampire/
   shop-id: bf6fcd87-2136-419a-8e8f-9858f2514512
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Kostenloser Urlaub
+  - Tollkühner Bernhard
+  - Grusel Tours
+  - Schlosshotel Dracula
+  - Frank Frankenstein
+  - Bernhard muß sich gruseln
+  - Kitzeln und lachen
+  - Geisterstunde
+  - Henker und Särge
+  - Familie Blocksberg reist ab
+  - Richtiger Urlaub
   ids: []

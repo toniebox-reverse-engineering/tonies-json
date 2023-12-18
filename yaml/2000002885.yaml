@@ -4,9 +4,9 @@ data:
 - series: Feuerwehrmann Sam
   series-id: feuerwehrmann-sam
   episode: Der neue Held von nebenan
-  release: 0
+  release: 1641427200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,20 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/feuerwehrmann-sam/der-neue-held-von-nebenan/
   shop-id: 70ec294f-b062-41d8-bce9-02d106de9991
-  track-desc: []
+  track-desc:
+  - Feuer In Der Feuerwache Teil 1
+  - Feuer In Der Feuerwache Teil 2
+  - Feuer In Der Feuerwache Teil 3
+  - Schnuffis Guter Riecher Teil 1
+  - Schnuffis Guter Riecher Teil 2
+  - Schnuffis Guter Riecher Teil 3
+  - Feurige Schauermärchen Teil 1
+  - Feurige Schauermärchen Teil 2
+  - Feurige Schauermärchen Teil 3
+  - Auf Gefährlichen Pfaden Teil 1
+  - Auf Gefährlichen Pfaden Teil 2
+  - Auf Gefährlichen Pfaden Teil 3
+  - Superhelden In Not Teil 1
+  - Superhelden In Not Teil 2
+  - Superhelden In Not Teil 3
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Spione & Agenten / Kriminalistik
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,37 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/spione-agenten-kriminalistik/
   shop-id: 0bd307da-9386-4639-8d83-7828c238d55e
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Spione und Agenten'
+  - 'Thema 1: Was machen Spione?'
+  - 'Thema 1: Die Suche nach neuen Agenten'
+  - 'Thema 1: Der perfekte Kandidat'
+  - 'Thema 1: Agent 007'
+  - 'Thema 1: Was versteht man unter beschatten?'
+  - 'Thema 1: Die Beobachtung'
+  - 'Thema 1: Kameras als Hilfsmittel'
+  - 'Thema 1: Gespräche abhören'
+  - 'Thema 1: Was ist eine falsche Identität?'
+  - 'Thema 1: Der Müll eines Menschens'
+  - 'Thema 1: Seidenraupen'
+  - 'Thema 1: Entschlüsselung der Nachrichten'
+  - 'Thema 1: Was sind tote Briefkästen?'
+  - 'Thema 2: Kriminalistik'
+  - 'Thema 2: Was sind Indizien?'
+  - 'Thema 2: Die Hilfsinstrumente'
+  - 'Thema 2: Wann gab es die erste Polizei?'
+  - 'Thema 2: Der Verbrecherkönig'
+  - 'Thema 2: Überblick verschaffen!'
+  - 'Thema 2: Augenzeugen befragen'
+  - 'Thema 2: Jeder Täter hinterlässt Spuren am Tatort'
+  - 'Thema 2: Was versteht man unter der Dokumentation des Tatorts?'
+  - 'Thema 2: Der Fingerabdruck'
+  - 'Thema 2: Wichtige Spurensammlung'
+  - 'Thema 2: Unsichtbare Fingerabdrücke'
+  - 'Thema 2: Moderne Technik'
+  - 'Thema 2: Was ist die DNA?'
+  - 'Thema 2: Viele Möglichkeiten um den Täter zu identifizieren'
+  - 'Thema 2: Die Stimmanalyse'
+  - 'Thema 2: Durch die Schrift den Täter finden'
+  - 'Thema 2: Tatanalyse'
   ids: []

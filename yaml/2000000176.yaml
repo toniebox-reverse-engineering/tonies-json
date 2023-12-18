@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Der Hexenschatz
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/der-hexenschatz/
   shop-id: 0ffe2882-05c6-48c4-9087-bfc94c6272f8
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Florian braucht Hilfe
+  - Weggehext
+  - Mit Sina zum Palast
+  - Ein geheimer Eingang
+  - Im Labyrinth der Steine
+  - Nützliches Efeu
+  - Braue den Hexentrank!
+  - Die hexische Melodie
+  - Ist da noch jemand-
+  - Vor dem goldenen Tor
+  - In der Hexenfalle
+  - Die Schatzkarte
+  - Auf Wiedersehen
   ids: []

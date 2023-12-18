@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Deutschland / Europa
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,32 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/deutschland-europa/
   shop-id: 3930e7fd-2775-419a-b043-0657abbf28d9
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Deutschland'
+  - 'Thema 1: Allgemeines über Deutschland'
+  - 'Thema 1: Die deutsche Sprache'
+  - 'Thema 1: Das Klima in Deutschland'
+  - 'Thema 1: Die Bevölkerung'
+  - 'Thema 1: Entstehung von Deutschland'
+  - 'Thema 1: Katholisch und Evangelisch'
+  - 'Thema 1: Wer ist Friedrich der Große?'
+  - 'Thema 1: Der erste Weltkrieg'
+  - 'Thema 1: Der zweite Weltkrieg'
+  - 'Thema 1: Die Mauer in Deutschland'
+  - 'Thema 1: Was ist das deutsche Grundgesetz?'
+  - 'Thema 1: Immer weniger Geburten'
+  - 'Thema 2: Europa'
+  - 'Thema 2: Was ist Europa?'
+  - 'Thema 2: Von Natur zu Kultur'
+  - 'Thema 2: Die Geschichte Europas'
+  - 'Thema 2: Welche ist die Hauptstadt Europas?'
+  - 'Thema 2: Was ist die Europäische Union?'
+  - 'Thema 2: Die Mitgliedsstaaten'
+  - 'Thema 2: Das vereinigte Königreich'
+  - 'Thema 2: Wer stimmt über Entscheidungen der EU ab?'
+  - 'Thema 2: Was versteht man unter dem Motor und Hüter der EU?'
+  - 'Thema 2: Die Sprachen der EU'
+  - 'Thema 2: Die Gelder Europas'
+  - 'Thema 2: Was hat die Türkei mit der EU zu tun?'
+  - 'Thema 2: Die größte Handelsmacht der Welt'
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Benjamin Blümchen
   series-id: benjamin-bluemchen
   episode: als Schornsteinfeger
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/als-schornsteinfeger/
   shop-id: ec3a05ed-adf3-45af-be83-a2ce4cde6002
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Völlig übermüdet
+  - Benjamins Idee
+  - Arme Frau Überzweck
+  - Der Brief
+  - Die rettende Idee
+  - Aufs Dach
+  - Benjamin steckt fest
+  - Jetzt heißt es warten
+  - Krach mit dem Hausbesitzer
+  - Alles wird gut
+  - Reumütigkeit
+  - Zurück im Zoo
   ids: []

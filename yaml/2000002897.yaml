@@ -4,9 +4,9 @@ data:
 - series: Feuerwehrmann Sam
   series-id: feuerwehrmann-sam
   episode: Abenteuer im Schnee
-  release: 0
+  release: 1641427200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,20 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/feuerwehrmann-sam/abenteuer-im-schnee/
   shop-id: 05799aa1-3f83-4ebf-9dc7-d9689e7597b3
-  track-desc: []
+  track-desc:
+  - Ein Schal Für Den Schneemann Teil 1
+  - Ein Schal Für Den Schneemann Teil 2
+  - Ein Schal Für Den Schneemann Teil 3
+  - Sam Und Der Eisbär Teil 1
+  - Sam Und Der Eisbär Teil 2
+  - Sam Und Der Eisbär Teil 3
+  - Frostige Zeiten In Pontypandy Teil 1
+  - Frostige Zeiten In Pontypandy Teil 2
+  - Frostige Zeiten In Pontypandy Teil 3
+  - Norman Und Das Snowboard Teil 1
+  - Norman Und Das Snowboard Teil 2
+  - Norman Und Das Snowboard Teil 3
+  - Lichterkettenwettkampf Teil 1
+  - Lichterkettenwettkampf Teil 2
+  - Lichterkettenwettkampf Teil 3
   ids: []

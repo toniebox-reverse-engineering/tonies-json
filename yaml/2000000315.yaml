@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Der neue Reiterhof
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/der-neue-reiterhof/
   shop-id: 2ca35ccc-f8c8-40f3-9a95-e5111fbe4a50
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Der Neffe der Alten Trine
+  - Fragen über Fragen
+  - Wiedersehensfreude
+  - Der Anruf
+  - Bennys Überraschung
+  - Mithelfer gesucht
+  - Alexanders Bedenken
+  - Es geht los!
+  - Die Absage
+  - Alexanders Neuigkeiten
+  - Die Konfrontation
+  - Ein genialer Schachzug
   ids: []

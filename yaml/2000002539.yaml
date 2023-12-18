@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Welt der Piraten / Schiffe
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,44 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/welt-der-piraten-schiffe/
   shop-id: 4551fade-f2ba-454e-9ec6-f447eda217db
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Einleitung'
+  - 'Thema 1: Rebellen der Weltmeere'
+  - 'Thema 1: Abenteuerlust'
+  - 'Thema 1: Geschichte der Seeräuber'
+  - 'Thema 1: Kaperbriefe'
+  - 'Thema 1: Rückzug in die Karibik'
+  - 'Thema 1: Kapitän'
+  - 'Thema 1: Gefürchtete Seeräuber'
+  - 'Thema 1: Piratinnen'
+  - 'Thema 1: Piratenflagge'
+  - 'Thema 1: Kleidung'
+  - 'Thema 1: Waffen'
+  - 'Thema 1: Verletzungen und Krankheiten'
+  - 'Thema 1: Regeln für den Raubzug'
+  - 'Thema 1: Zeitvertreib auf dem Schiff'
+  - 'Thema 1: Harter Alltag'
+  - 'Thema 1: Angriff'
+  - 'Thema 1: Eroberung'
+  - 'Thema 1: Verteilung der Beute'
+  - 'Thema 1: Nach der Kaperfahrt'
+  - 'Thema 1: Piraten heute'
+  - 'Thema 2: Einleitung'
+  - 'Thema 2: Verkehrsmittel auf dem Wasser'
+  - 'Thema 2: Verschiedene Schiffstypen'
+  - 'Thema 2: U-Boote'
+  - 'Thema 2: Containerschiffe'
+  - 'Thema 2: Warentransport'
+  - 'Thema 2: Vor der Abfahrt'
+  - 'Thema 2: Was macht der Schiffslotse?'
+  - 'Thema 2: Nahrung für die Schiffsbesatzung'
+  - 'Thema 2: Schiffskoch'
+  - 'Thema 2: Matrosen'
+  - 'Thema 2: Navigation'
+  - 'Thema 2: Orientierung auf dem Meer'
+  - 'Thema 2: Schiffsmotor'
+  - 'Thema 2: Segelschiffe'
+  - 'Thema 2: Sicherheitsübung'
+  - 'Thema 2: Ozeanriesen'
+  - 'Thema 2: Ankunft am Ziel'
   ids: []

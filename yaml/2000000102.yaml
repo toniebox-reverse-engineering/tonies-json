@@ -4,9 +4,9 @@ data:
 - series: Benjamin Blümchen
   series-id: benjamin-bluemchen
   episode: in der Steinzeit
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/in-der-steinzeit/
   shop-id: 5ef3ccbf-4301-40b9-aae2-8d7d924add13
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Auf ins Museum
+  - Probleme an der Tür
+  - Benjamins ur-ur-uropa
+  - In der Steinzeit
+  - Ein Dinosaurier
+  - Die Höhlenmenschen
+  - In der Höhle
+  - Bei den Mammuts
+  - Um das Feuer
+  - Die Erfindung des Rades
+  - Aufgewacht
+  - Eine Elefantenportion Eis
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Benjamin Blümchen
   series-id: benjamin-bluemchen
   episode: und der Weihnachtsmann
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,16 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/und-der-weihnachtsmann/
   shop-id: c06d14c1-7aa7-423e-a85c-79bdfdf594b9
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Benjamins Wunschzettel
+  - Weihnachten ohne Otto
+  - Ankunft in Emmental
+  - Plätzchenbacken im Zoo
+  - Lawinengefahr
+  - Wo ist Otto-
+  - Benjamins zweiter Wunschzettel
+  - Benjamin ist unterwegs
+  - Die Rettung
+  - Besuch aus Neustadt
   ids: []

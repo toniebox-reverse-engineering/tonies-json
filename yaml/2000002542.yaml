@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Das Wetter / Die Jahreszeiten
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,31 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/das-wetter-die-jahreszeiten/
   shop-id: 093fd696-3998-4e6a-8315-0ef9ca8cb341
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Wetterbericht: Wie man das Wetter vorhersagen kann'
+  - 'Thema 1: Wie Wetter entsteht'
+  - 'Thema 1: Bewegung der Luft: Tief- und Hochdruckgebiete'
+  - 'Thema 1: Wie sich Wolken bilden'
+  - 'Thema 1: Wie Gewitter entstehen'
+  - 'Thema 1: Warum Stürme sehr gefährlich sein können'
+  - 'Thema 2: Einleitung'
+  - 'Thema 2: Die Entstehung von Jahreszeiten'
+  - 'Thema 2: Warum die Jahreszeiten nicht überall gleich sind'
+  - 'Thema 2: Wer legt den Beginn einer Jahreszeit fest?'
+  - 'Thema 2: Wie es zu Überschwemmungen kommt'
+  - 'Thema 2: Wie sich Tiere an die Jahreszeiten anpassen'
+  - 'Thema 2: Welchen Einfluss die Sonne auf Pflanzen hat'
+  - 'Thema 2: Wieso werden Pflanzen grün?'
+  - 'Thema 2: Warum Gewitter hauptsächlich im Sommer entstehen'
+  - 'Thema 2: Wie entsteht Hagel?'
+  - 'Thema 2: Was sich im Herbst verändert'
+  - 'Thema 2: Warum Blätter im Herbst bunt werden'
+  - 'Thema 2: Warum Bäume ihr Laub abwerfen'
+  - 'Thema 2: Die Verbreitung von Samen'
+  - 'Thema 2: Wie Tiere den Winter überstehen'
+  - 'Thema 2: Was passiert, wenn Teiche und Seen zufrieren?'
+  - 'Thema 2: Der Winterschlaf der Siebenschläfer'
+  - 'Thema 2: Die Winterstarre von Fischen'
+  - 'Thema 2: Wie sich Eisschichten bilden'
+  - 'Thema 2: Von was ernähren sich Waldtiere im Winter?'
   ids: []

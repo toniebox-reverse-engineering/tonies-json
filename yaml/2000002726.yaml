@@ -4,9 +4,9 @@ data:
 - series: Die Schule der magischen Tiere
   series-id: die-schule-der-magischen-tiere
   episode: 'Endlich Ferien 6: Hatice und Mette-Maja'
-  release: 0
+  release: 1622160000
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,44 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/die-schule-der-magischen-tiere/endlich-ferien-6-hatice-und-mette-maja/
   shop-id: 11a95e17-6a9f-43cf-9430-cfc33c93173d
-  track-desc: []
+  track-desc:
+  - Hatice und Mette-Maja - Intro
+  - Titellied Willkommen in der Schule der magischen Tiere
+  - 'Endlich Ferien 06: Hatice und Mette-Maja - Teil 01'
+  - 'Endlich Ferien 06: Hatice und Mette-Maja - Teil 02'
+  - 'Endlich Ferien 06: Hatice und Mette-Maja - Teil 03'
+  - 'Endlich Ferien 06: Hatice und Mette-Maja - Teil 04'
+  - 'Endlich Ferien 06: Hatice und Mette-Maja - Teil 05'
+  - 'Endlich Ferien 06: Hatice und Mette-Maja - Teil 06'
+  - 'Endlich Ferien 06: Hatice und Mette-Maja - Teil 07'
+  - 'Endlich Ferien 06: Hatice und Mette-Maja - Teil 08'
+  - 'Endlich Ferien 06: Hatice und Mette-Maja - Teil 09'
+  - 'Endlich Ferien 06: Hatice und Mette-Maja - Teil 10'
+  - 'Endlich Ferien 06: Hatice und Mette-Maja - Teil 11'
+  - 'Endlich Ferien 06: Hatice und Mette-Maja - Teil 12'
+  - 'Endlich Ferien 06: Hatice und Mette-Maja - Teil 13'
+  - 'Endlich Ferien 06: Hatice und Mette-Maja - Teil 14'
+  - 'Endlich Ferien 06: Hatice und Mette-Maja - Teil 15'
+  - 'Endlich Ferien 06: Hatice und Mette-Maja - Teil 16'
+  - 'Endlich Ferien 06: Hatice und Mette-Maja - Teil 17'
+  - 'Endlich Ferien 06: Hatice und Mette-Maja - Teil 18'
+  - 'Endlich Ferien 06: Hatice und Mette-Maja - Teil 19'
+  - 'Endlich Ferien 06: Hatice und Mette-Maja - Teil 20'
+  - 'Endlich Ferien 06: Hatice und Mette-Maja - Teil 21'
+  - 'Endlich Ferien 06: Hatice und Mette-Maja - Teil 22'
+  - 'Endlich Ferien 06: Hatice und Mette-Maja - Teil 23'
+  - 'Endlich Ferien 06: Hatice und Mette-Maja - Teil 24'
+  - 'Endlich Ferien 06: Hatice und Mette-Maja - Teil 25'
+  - 'Endlich Ferien 06: Hatice und Mette-Maja - Teil 26'
+  - 'Endlich Ferien 06: Hatice und Mette-Maja - Teil 27'
+  - 'Endlich Ferien 06: Hatice und Mette-Maja - Teil 28'
+  - 'Endlich Ferien 06: Hatice und Mette-Maja - Teil 29'
+  - 'Endlich Ferien 06: Hatice und Mette-Maja - Teil 30'
+  - 'Endlich Ferien 06: Hatice und Mette-Maja - Teil 31'
+  - 'Endlich Ferien 06: Hatice und Mette-Maja - Teil 32'
+  - 'Endlich Ferien 06: Hatice und Mette-Maja - Teil 33'
+  - 'Endlich Ferien 06: Hatice und Mette-Maja - Teil 34'
+  - 'Endlich Ferien 06: Hatice und Mette-Maja - Teil 35'
+  - 'Endlich Ferien 06: Hatice und Mette-Maja - Teil 36'
+  - Willkommen in der Schule der magischen Tiere
   ids: []

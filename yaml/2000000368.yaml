@@ -4,9 +4,9 @@ data:
 - series: Das Sams
   series-id: das-sams
   episode: Ein Sams für Martin Taschenbier
-  release: 0
+  release: 1104537600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,9 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/das-sams/ein-sams-fur-martin-taschenbier/
   shop-id: 833c849c-b25f-4d60-b807-e64c83709f80
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
   ids: []

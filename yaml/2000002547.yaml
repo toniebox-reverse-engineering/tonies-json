@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Feuerwehr / Polizei
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,32 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/feuerwehr-polizei/
   shop-id: fcdd2337-efee-4d68-915f-f8683ee50ee4
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Die Feuerwehr'
+  - 'Thema 1: Was macht die Feuerwehr?'
+  - 'Thema 1: Die Kraft des Feuers'
+  - 'Thema 1: Die Entstehung der Feuerwehr'
+  - 'Thema 1: Berufs- und freiwillige Feuerwehren'
+  - 'Thema 1: Wie ist eine Feuerwehr aufgebaut?'
+  - 'Thema 1: Die Feuerwehreinsätze'
+  - 'Thema 1: Wie entstehen Waldbrände?'
+  - 'Thema 1: Der Notruf'
+  - 'Thema 1: Wie entfacht Feuer?'
+  - 'Thema 1: Die Löschung des Feuers'
+  - 'Thema 1: Der spezielle Schutzanzug der Feuerwehrmänner'
+  - 'Thema 1: Wasser marsch!'
+  - 'Thema 1: Die Jugendfeuerwehr'
+  - 'Thema 2: Polizei'
+  - 'Thema 2: Was macht die Polizei?'
+  - 'Thema 2: Welche Polizei ist für was zuständig?'
+  - 'Thema 2: Die Schutzpolizei'
+  - 'Thema 2: Die Ausrüstung eines Polizisten'
+  - 'Thema 2: 110'
+  - 'Thema 2: Sicherheit im Straßenverkehr'
+  - 'Thema 2: Alkohol am Steuer'
+  - 'Thema 2: Gibt es auch auf dem Wasser eine Polizei?'
+  - 'Thema 2: Die Polizei in der Luft'
+  - 'Thema 2: Wann kommt die Kriminalpolizei zum Einsatz?'
+  - 'Thema 2: Das Spezialeinsatzkommando'
+  - 'Thema 2: Traumberuf Polizist?'
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Verloren im Schnee
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/verloren-im-schnee/
   shop-id: b96f634c-d5ea-4d5d-b2ae-640b20ef8f53
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Mikosch ist da
+  - Der Skijöring-Test
+  - Die Schneeballschlacht
+  - Es gibt viel zu tun
+  - Ohne Ende Schnee
+  - Kühe auf dem Eis
+  - Die erste Rettungsaktion
+  - Wo ist Förster Buchfink-
+  - In der Schneewehe
+  - Nochmals in die Kälte
+  - Der verstauchte Fuß
+  - Gerettet und gelobt
+  - Ein reumütiger Graf
   ids: []

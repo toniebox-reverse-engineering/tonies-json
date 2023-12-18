@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: und Piraten-Lilly
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,21 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/und-piraten-lilly/
   shop-id: c6461618-2e00-4ad3-b4cc-34bdbc217fda
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Piratenfest bei Oma Grete
+  - Unter Piratinnen
+  - Bernhard unter Deck
+  - Ein Geheimnis
+  - Der  Schatz
+  - Das Geständnis
+  - Ein Geist an Deck
+  - Bibi hilft mit Hexerei
+  - Die List
+  - Bernhard wird Köder
+  - Auf dem fremden Schiff
+  - Die fehlende Münze
+  - Piratinnen gegen Piraten
+  - Schiffbruch
+  - Jetzt wird gefeiert
   ids: []

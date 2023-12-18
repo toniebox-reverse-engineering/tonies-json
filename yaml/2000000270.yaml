@@ -4,9 +4,9 @@ data:
 - series: Benjamin Blümchen
   series-id: benjamin-bluemchen
   episode: 'Sonderedition: als Apotheker'
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/sonderedition-als-apotheker/
   shop-id: 7a0bc69e-bcc9-4748-b1a6-6841d3591666
-  track-desc: []
+  track-desc:
+  - Benjamin Blümchen Lied
+  - Der Wanderrucksack
+  - Benjamins Idee
+  - Benjamin wird Apothekerbote
+  - Bei Frau Blagmann
+  - Ein Brief für Herrn Edelweiß
+  - Schlimme Neuigkeiten
+  - Die drei Apothekenhelfer
+  - Eine falsche Salbenzutat
+  - Wo wohnt Frau Höflinger -
+  - Hin und her und zurück
+  - Glück gehabt !
+  - Ein Irrtum
+  - Ende gut, alles gut !
   ids: []

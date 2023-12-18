@@ -4,9 +4,9 @@ data:
 - series: Conni
   series-id: conni
   episode: Conni hat Kummer / Conni lernt die Uhrzeit
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,28 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/conni/conni-hat-kummer-conni-lernt-die-uhrzeit/
   shop-id: 58790493-30d4-4414-9d54-d066e4a1f9ce
-  track-desc: []
+  track-desc:
+  - Meine beste Freundin Conni
+  - Conni hat Kummer - Teil 01
+  - Conni hat Kummer - Teil 02
+  - Conni hat Kummer - Teil 03
+  - Conni hat Kummer - Teil 04
+  - Conni hat Kummer - Teil 05
+  - Conni hat Kummer - Teil 06
+  - Conni hat Kummer - Teil 07
+  - Conni hat Kummer - Teil 08
+  - Conni hat Kummer - Teil 09
+  - Conni lernt die Uhrzeit - Teil 01
+  - Conni lernt die Uhrzeit - Teil 02
+  - Conni lernt die Uhrzeit - Teil 03
+  - Conni lernt die Uhrzeit - Teil 04
+  - Conni lernt die Uhrzeit - Teil 05
+  - Conni lernt die Uhrzeit - Teil 06
+  - Conni lernt die Uhrzeit - Teil 07
+  - Conni lernt die Uhrzeit - Teil 08
+  - Conni lernt die Uhrzeit - Teil 09
+  - Conni lernt die Uhrzeit - Teil 10
+  - Conni lernt die Uhrzeit - Teil 11
+  - Conni lernt die Uhrzeit - Teil 12
+  - Meine beste Freundin Conni
   ids: []

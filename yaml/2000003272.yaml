@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 27: Pumuckl und das goldene Herz'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,22 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-und-das-goldene-herz-das-original-aus-dem/
   shop-id: d6c08f42-0721-4e67-b034-3ce5cb28ba62
-  track-desc: []
+  track-desc:
+  - Pumuckl und das goldene Herz - Teil 01
+  - Pumuckl und das goldene Herz - Teil 02
+  - Pumuckl und das goldene Herz - Teil 03
+  - Pumuckl und das goldene Herz - Teil 04
+  - Pumuckl und das goldene Herz - Teil 05
+  - Pumuckl und das goldene Herz - Teil 06
+  - Pumuckl und das goldene Herz - Teil 07
+  - Pumuckl und das goldene Herz - Teil 08
+  - Pumuckl und das goldene Herz - Teil 09
+  - Pumuckl und das goldene Herz - Teil 10
+  - Pumuckl und das goldene Herz - Teil 11
+  - Pumuckl und das goldene Herz - Teil 12
+  - Pumuckl und das goldene Herz - Teil 13
+  - Pumuckl und das goldene Herz - Teil 14
+  - Pumuckl und das goldene Herz - Teil 15
+  - Pumuckl und das goldene Herz - Teil 16
+  - Pumuckl und das goldene Herz - Teil 17
   ids: []

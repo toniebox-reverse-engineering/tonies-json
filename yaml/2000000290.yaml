@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Das große Unwetter
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,17 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/das-groe-unwetter/
   shop-id: 9188e9a8-8245-4c1f-b69e-85d2b537647b
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Wetterfühlige Tiere
+  - Der Anruf
+  - Krisen-Management
+  - Suchen und Sichern
+  - Zwei Ziele erreicht
+  - Auf nach Falkenstein
+  - Sabrina büxt aus
+  - Gemeinsam zurück
+  - Vorerst in Sicherheit
+  - Die Windhose
+  - Alles überstanden
   ids: []

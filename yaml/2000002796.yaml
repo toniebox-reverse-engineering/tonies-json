@@ -4,9 +4,9 @@ data:
 - series: Leo Lausemaus
   series-id: leo-lausemaus
   episode: 'Folge 09: Will nicht groß sein'
-  release: 0
+  release: 1637798400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,11 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/leo-lausemaus/folge-09-will-nicht-gro-sein/
   shop-id: c1b6f051-4706-4efb-866a-aa40efd0b68c
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Leo Lausemaus will nicht groß sein
+  - Leo Lausemaus übernachtet bei Didi
+  - Leo Lausemaus mag nicht warten
+  - Bekommt ein Baumhaus
+  - Schlussmusik
   ids: []

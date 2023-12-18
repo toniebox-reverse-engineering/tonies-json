@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Der Flaschengeist
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,15 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/der-flaschengeist/
   shop-id: 6cff3f82-6d69-49d3-a642-616a82e7ee2c
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Müll zu Müll und Glas zu Glas
+  - Bibis Hexennase juckt
+  - Salem Aleikum !
+  - Der Zahn der Zeit
+  - Termin beim Zahnarzt
+  - Vorsicht Betrüger !
+  - Flaschi ist weg !
+  - Der Nächste bitte !
+  - Zappelphilipp in der Himbeergeistflasche
   ids: []

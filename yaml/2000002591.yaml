@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Wunder Evolution / Darwins Weltreise
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,40 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/wunder-evolution-darwins-weltreise/
   shop-id: 769d0760-907f-48d3-95b5-78f5d855a179
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Das Wunder der Evolution'
+  - 'Thema 1: Unglaubliche Artenvielfalt'
+  - 'Thema 1: Evolution - Prinzip des Lebens'
+  - 'Thema 1: Charles Darwin: Vater der Evolutionstheorie'
+  - 'Thema 1: Kleine Unterschiede'
+  - 'Thema 1: Fressen und gefressen werden'
+  - 'Thema 1: Der lange Hals der Giraffe'
+  - 'Thema 1: Die DNA - das Erbmolekül'
+  - 'Thema 1: Gen-Misch-Masch und Mutationen'
+  - 'Thema 1: Artenexplosion im Kambrium'
+  - 'Thema 1: Bizarre Wesen des Kambriums'
+  - 'Thema 1: Vom Wasser aufs Land'
+  - 'Thema 1: Ein Fisch erobert sich Land'
+  - 'Thema 1: Vom Land zurück ins Wasser'
+  - 'Thema 1: Sahara: Im Tal der Wale'
+  - 'Thema 1: Die Evolution des Menschen'
+  - 'Thema 1: Kann der Mensch in die Evolution eingreifen?'
+  - 'Thema 1: Danke Tiktaalik'
+  - 'Thema 2: Darwins Weltreise'
+  - 'Thema 2: Charles Darwin und Robert FitzRoy'
+  - 'Thema 2: Zur "Beagle" ins Jahr 1831'
+  - 'Thema 2: Die neuen Assistenten'
+  - 'Thema 2: Seekranker Darwin'
+  - 'Thema 2: Die Vulkaninseln von Kap Verde'
+  - 'Thema 2: Gewaltige Landmassen in Bewegung'
+  - 'Thema 2: Äquatortaufe'
+  - 'Thema 2: Endlich in Brasilien'
+  - 'Thema 2: Der Regenwald'
+  - 'Thema 2: Das Riesenfaultier'
+  - 'Thema 2: Kaltes Feuerland'
+  - 'Thema 2: Das grosse Erdbeben'
+  - 'Thema 2: Die Galapagos-Inseln'
+  - 'Thema 2: Berühmte Darwin-Finken'
+  - 'Thema 2: Die Südsee'
+  - 'Thema 2: Zurück in England'
   ids: []

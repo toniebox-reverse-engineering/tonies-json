@@ -4,9 +4,9 @@ data:
 - series: Benjamin Blümchen
   series-id: benjamin-bluemchen
   episode: Die Zoo-Feuerwehr
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/die-zoo-feuerwehr/
   shop-id: 04afd903-8cf8-4022-b2c1-6c279b632cfb
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Krach im Zoo
+  - Anruf beim Bürgermeister
+  - Disput am Zootor
+  - Benjamins Idee
+  - Noch mehr Krach im Zoo
+  - Ein wütender Baron
+  - Die Löschkette
+  - Sabotage!
+  - Das Üben geht weiter
+  - Beruhigungstee und Duftkerze
+  - Amtliche Abnahme
+  - Es brennt wirklich!
+  - Auf gute Nachbarschaft
   ids: []

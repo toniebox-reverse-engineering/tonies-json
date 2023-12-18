@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Die Urlaubsüberraschung
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/die-urlaubsuberraschung/
   shop-id: cb6f72ce-720b-4517-a0f9-80447e397652
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Der erste Preis
+  - Urlaub für Frau Martin
+  - Noch eine Überraschung
+  - Das kann ja heiter werden!
+  - Tante Paula ist zurück
+  - Schwieriger Reitunterricht
+  - Der Anruf
+  - Nächtliche Geräusche
+  - Büroarbeit
+  - Hühnerfutter ohne Ende
+  - Ruhe vor dem Sturm
+  - Hilfe, Überschwemmung!
+  - Alles kommt ins Lot
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Die Ballett-Tanzgruppe
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/die-ballett-tanzgruppe/
   shop-id: 2cd5c9a8-2397-4e9b-b941-9f3ba7225ef9
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Neuigkeiten
+  - Die Gruppen-Einteilung
+  - Musik bitte
+  - Gehexter Spitzentanz
+  - Barbaras Ermahnung
+  - In der Balletschule
+  - Lauter Grundpositionen
+  - Üben, üben, üben
+  - Tolle Tanz-Ideen
+  - Die Vorbereitungen
+  - Der Auftritt
+  - Letzte Motivation
+  - Ein Knalleffekt am Ende
   ids: []

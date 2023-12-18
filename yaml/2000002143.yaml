@@ -4,9 +4,9 @@ data:
 - series: Conni
   series-id: conni
   episode: Conni und der verschwundene Hund
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
@@ -14,5 +14,35 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/conni/conni-und-der-verschwundene-hund/
   shop-id: 0b66bbe4-1b91-4d4c-9f1b-5b0a78c50024
-  track-desc: []
+  track-desc:
+  - Meine beste Freundin Conni
+  - Conni und der verschwundene Hund - Teil 01
+  - Conni und der verschwundene Hund - Teil 02
+  - Conni und der verschwundene Hund - Teil 03
+  - Conni und der verschwundene Hund - Teil 04
+  - Conni und der verschwundene Hund - Teil 05
+  - Conni und der verschwundene Hund - Teil 06
+  - Conni und der verschwundene Hund - Teil 07
+  - Conni und der verschwundene Hund - Teil 08
+  - Conni und der verschwundene Hund - Teil 09
+  - Conni und der verschwundene Hund - Teil 10
+  - Conni und der verschwundene Hund - Teil 11
+  - Conni und der verschwundene Hund - Teil 12
+  - Conni und der verschwundene Hund - Teil 13
+  - Conni und der verschwundene Hund - Teil 14
+  - Conni und der verschwundene Hund - Teil 15
+  - Conni und der verschwundene Hund - Teil 16
+  - Conni und der verschwundene Hund - Teil 17
+  - Conni und der verschwundene Hund - Teil 18
+  - Conni und der verschwundene Hund - Teil 19
+  - Conni und der verschwundene Hund - Teil 20
+  - Conni und der verschwundene Hund - Teil 21
+  - Conni und der verschwundene Hund - Teil 22
+  - Conni und der verschwundene Hund - Teil 23
+  - Conni und der verschwundene Hund - Teil 24
+  - Conni und der verschwundene Hund - Teil 25
+  - Conni und der verschwundene Hund - Teil 26
+  - Conni und der verschwundene Hund - Teil 27
+  - Conni und der verschwundene Hund - Teil 28
+  - Meine beste Freundin Conni
   ids: []

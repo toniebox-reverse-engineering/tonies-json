@@ -4,9 +4,9 @@ data:
 - series: Conni
   series-id: conni
   episode: Conni und die Nixen
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,49 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/conni/conni-und-die-nixen/
   shop-id: 8923512f-6746-4085-b8c7-c0a99e81d782
-  track-desc: []
+  track-desc:
+  - Meine beste Freundin Conni
+  - Conni und die Nixen - Teil 01
+  - Conni und die Nixen - Teil 02
+  - Conni und die Nixen - Teil 03
+  - Conni und die Nixen - Teil 04
+  - Conni und die Nixen - Teil 05
+  - Conni und die Nixen - Teil 06
+  - Conni und die Nixen - Teil 07
+  - Conni und die Nixen - Teil 08
+  - Conni und die Nixen - Teil 09
+  - Conni und die Nixen - Teil 10
+  - Conni und die Nixen - Teil 11
+  - Conni und die Nixen - Teil 12
+  - Conni und die Nixen - Teil 13
+  - Conni und die Nixen - Teil 14
+  - Conni und die Nixen - Teil 15
+  - Conni und die Nixen - Teil 16
+  - Conni und die Nixen - Teil 17
+  - Conni und die Nixen - Teil 18
+  - Conni und die Nixen - Teil 19
+  - Conni und die Nixen - Teil 20
+  - Conni und die Nixen - Teil 21
+  - Conni und die Nixen - Teil 22
+  - Conni und die Nixen - Teil 23
+  - Conni und die Nixen - Teil 24
+  - Conni und die Nixen - Teil 25
+  - Conni und die Nixen - Teil 26
+  - Conni und die Nixen - Teil 27
+  - Conni und die Nixen - Teil 28
+  - Conni und die Nixen - Teil 29
+  - Conni und die Nixen - Teil 30
+  - Conni und die Nixen - Teil 31
+  - Conni und die Nixen - Teil 32
+  - Conni und die Nixen - Teil 33
+  - Conni und die Nixen - Teil 34
+  - Conni und die Nixen - Teil 35
+  - Conni und die Nixen - Teil 36
+  - Conni und die Nixen - Teil 37
+  - Conni und die Nixen - Teil 38
+  - Conni und die Nixen - Teil 39
+  - Conni und die Nixen - Teil 40
+  - Conni und die Nixen - Teil 41
+  - Conni und die Nixen - Teil 42
+  - Meine beste Freundin Conni
   ids: []

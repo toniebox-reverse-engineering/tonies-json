@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 11: Der Wollpullover'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/der-wollpullover-das-original-aus-dem-fernsehen/
   shop-id: b2f16c17-5181-4c83-bf97-1d493f2e1aa5
-  track-desc: []
+  track-desc:
+  - Der Wollpullover - Teil 01
+  - Der Wollpullover - Teil 02
+  - Der Wollpullover - Teil 03
+  - Der Wollpullover - Teil 04
+  - Der Wollpullover - Teil 05
+  - Der Wollpullover - Teil 06
+  - Der Wollpullover - Teil 07
+  - Der Wollpullover - Teil 08
+  - Der Wollpullover - Teil 09
+  - Der Wollpullover - Teil 10
+  - Der Wollpullover - Teil 11
+  - Der Wollpullover - Teil 12
+  - Der Wollpullover - Teil 13
+  - Der Wollpullover - Teil 14
   ids: []

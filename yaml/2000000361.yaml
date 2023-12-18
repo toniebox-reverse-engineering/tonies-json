@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Spuk im Wald
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/spuk-im-wald/
   shop-id: 353ed0f0-8d64-4987-8da8-745318eea85a
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Gerede über Geister
+  - Zelten im Wald
+  - Schlechter Versuch
+  - Na wartet!
+  - Eine blöde Idee
+  - Der Anruf
+  - Die Falle im Stall
+  - Ann-Kathrin und Lars
+  - Bardolino in aller Munde
+  - In der Zwickmühle
+  - Der rettende Einfall
+  - Alles geht gut aus
+  - Ein Schreck am Ende
   ids: []

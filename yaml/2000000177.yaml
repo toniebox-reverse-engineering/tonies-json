@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Der kleine Hexer
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,17 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/der-kleine-hexer/
   shop-id: 9c8a6bac-aace-4ddd-a28c-a29e2d00b928
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Seltsame Nachrichten
+  - Endlich passiert was
+  - Zur Schule
+  - Vierundzwanzig zu null
+  - Bibi nimmt die Verfolgung auf
+  - Bei Carlo zu Hause
+  - Der kleine Hexer
+  - Besenflug zu zweit
+  - Wilde Hexereien
+  - Bibis Mannschaft gewinnt
+  - Die Revanche
   ids: []

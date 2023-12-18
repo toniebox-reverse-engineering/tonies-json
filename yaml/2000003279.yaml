@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 34: Pumuckl passt auf'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-passt-auf-das-original-aus-dem-fernsehen/
   shop-id: c2bed160-0f83-437c-81b9-6b5df3d9290e
-  track-desc: []
+  track-desc:
+  - Pumuckl passt auf - Teil 01
+  - Pumuckl passt auf - Teil 02
+  - Pumuckl passt auf - Teil 03
+  - Pumuckl passt auf - Teil 04
+  - Pumuckl passt auf - Teil 05
+  - Pumuckl passt auf - Teil 06
+  - Pumuckl passt auf - Teil 07
+  - Pumuckl passt auf - Teil 08
+  - Pumuckl passt auf - Teil 09
+  - Pumuckl passt auf - Teil 10
+  - Pumuckl passt auf - Teil 11
+  - Pumuckl passt auf - Teil 12
+  - Pumuckl passt auf - Teil 13
+  - Pumuckl passt auf - Teil 14
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Die Schule der magischen Tiere
   series-id: die-schule-der-magischen-tiere
   episode: Versteinert!
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,57 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/die-schule-der-magischen-tiere/versteinert/
   shop-id: 24522227-11e1-473f-a037-1763aebaf76a
-  track-desc: []
+  track-desc:
+  - Versteinert!
+  - Titellied Willkommen in der Schule der magischen Tiere
+  - '09: Versteinert! - Teil 01'
+  - '09: Versteinert! - Teil 02'
+  - '09: Versteinert! - Teil 03'
+  - '09: Versteinert! - Teil 04'
+  - '09: Versteinert! - Teil 05'
+  - '09: Versteinert! - Teil 06'
+  - '09: Versteinert! - Teil 07'
+  - '09: Versteinert! - Teil 08'
+  - '09: Versteinert! - Teil 09'
+  - '09: Versteinert! - Teil 10'
+  - '09: Versteinert! - Teil 11'
+  - '09: Versteinert! - Teil 12'
+  - '09: Versteinert! - Teil 13'
+  - '09: Versteinert! - Teil 14'
+  - '09: Versteinert! - Teil 15'
+  - '09: Versteinert! - Teil 16'
+  - '09: Versteinert! - Teil 17'
+  - '09: Versteinert! - Teil 18'
+  - '09: Versteinert! - Teil 19'
+  - '09: Versteinert! - Teil 20'
+  - '09: Versteinert! - Teil 21'
+  - '09: Versteinert! - Teil 22'
+  - '09: Versteinert! - Teil 23'
+  - '09: Versteinert! - Teil 24'
+  - '09: Versteinert! - Teil 25'
+  - '09: Versteinert! - Teil 26'
+  - '09: Versteinert! - Teil 27'
+  - '09: Versteinert! - Teil 28'
+  - '09: Versteinert! - Teil 29'
+  - '09: Versteinert! - Teil 30'
+  - '09: Versteinert! - Teil 31'
+  - '09: Versteinert! - Teil 32'
+  - '09: Versteinert! - Teil 33'
+  - '09: Versteinert! - Teil 34'
+  - '09: Versteinert! - Teil 35'
+  - '09: Versteinert! - Teil 36'
+  - '09: Versteinert! - Teil 37'
+  - '09: Versteinert! - Teil 38'
+  - '09: Versteinert! - Teil 39'
+  - '09: Versteinert! - Teil 40'
+  - '09: Versteinert! - Teil 41'
+  - '09: Versteinert! - Teil 42'
+  - '09: Versteinert! - Teil 43'
+  - '09: Versteinert! - Teil 44'
+  - '09: Versteinert! - Teil 45'
+  - '09: Versteinert! - Teil 46'
+  - '09: Versteinert! - Teil 47'
+  - '09: Versteinert! - Teil 48'
+  - '09: Versteinert! - Teil 49'
+  - Willkommen in der Schule der magischen Tiere
   ids: []

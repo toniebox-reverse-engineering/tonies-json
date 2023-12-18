@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Das Herbst-Turnier
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/das-herbst-turnier/
   shop-id: 49c29303-6af3-47e5-b435-6596e385cfd4
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Ganz offiziel gehext
+  - Überbfall im Wald
+  - Bibi spielt erkältet
+  - Ach du dickes Bein!
+  - Freddy kommt vorbei
+  - Training mit Gipsbein
+  - Zurück zum Martinshof
+  - Mamis Kräuterkur
+  - Geduld und Hexerei
+  - Zurück auf die Liste
+  - Das Herbst-Turnier
+  - Überraschung auf dem Podest
   ids: []

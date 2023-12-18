@@ -4,9 +4,9 @@ data:
 - series: Rund um die Welt mit Fuchs und Schaf
   series-id: rund-um-die-welt-mit-fuchs-und-schaf
   episode: Paris
-  release: 0
+  release: 1623888000
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,9 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/rund-um-die-welt-mit-fuchs-und-schaf/paris/
   shop-id: f9d58454-7d92-4f2a-941b-e963cade42f1
-  track-desc: []
+  track-desc:
+  - Titelsong „Rund um die Welt“
+  - Verkehrschaos
+  - Der rettende Anruf
+  - Ende Dill, alles Dill!
   ids: []

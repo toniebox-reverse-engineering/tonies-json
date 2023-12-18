@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Das Fohlen
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,15 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/das-fohlen/
   shop-id: 449af805-933a-419b-ab32-35b2da2e5f2b
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Ein Baby
+  - Schnell zum Martinshof
+  - Übernachtung im Pferdestall
+  - Sabrinas Fohlen
+  - Hey, Cowboy !
+  - Felix ist krank
+  - Verhexte Stallarbeit
+  - Freddy in Not
+  - Friede - Freude - Eierkuchen
   ids: []

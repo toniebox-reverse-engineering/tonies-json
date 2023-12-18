@@ -4,9 +4,9 @@ data:
 - series: Sternenschweif
   series-id: sternenschweif
   episode: 'Teil 35: Der silberne Stern'
-  release: 0
+  release: 1649808000
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/sternenschweif/teil-35-der-silberne-stern/
   shop-id: 071e0aab-6416-4130-8834-7a39b210ce3c
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
   ids: []

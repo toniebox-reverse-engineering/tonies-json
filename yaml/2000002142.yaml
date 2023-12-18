@@ -4,9 +4,9 @@ data:
 - series: Conni
   series-id: conni
   episode: Conni und der Osterhase / Conni spielt Fußball
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,34 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/conni/conni-und-der-osterhase-conni-spielt-fuball/
   shop-id: fec0cb18-41aa-46d7-ac2b-b76699c46ef8
-  track-desc: []
+  track-desc:
+  - Meine beste Freundin Conni
+  - Conni und der Osterhase - Teil 01
+  - Conni und der Osterhase - Teil 02
+  - Conni und der Osterhase - Teil 03
+  - Conni und der Osterhase - Teil 04
+  - Conni und der Osterhase - Teil 05
+  - Conni und der Osterhase - Teil 06
+  - Conni und der Osterhase - Teil 07
+  - Conni und der Osterhase - Teil 08
+  - Conni und der Osterhase - Teil 09
+  - Conni und der Osterhase - Teil 10
+  - Conni und der Osterhase - Teil 11
+  - Conni und der Osterhase - Teil 12
+  - Conni und der Osterhase - Teil 13
+  - Conni spielt Fußball - Teil 01
+  - Conni spielt Fußball - Teil 02
+  - Conni spielt Fußball - Teil 03
+  - Conni spielt Fußball - Teil 04
+  - Conni spielt Fußball - Teil 05
+  - Conni spielt Fußball - Teil 06
+  - Conni spielt Fußball - Teil 07
+  - Conni spielt Fußball - Teil 08
+  - Conni spielt Fußball - Teil 09
+  - Conni spielt Fußball - Teil 10
+  - Conni spielt Fußball - Teil 11
+  - Conni spielt Fußball - Teil 12
+  - Conni spielt Fußball - Teil 13
+  - Conni spielt Fußball - Teil 14
+  - Meine beste Freundin Conni
   ids: []

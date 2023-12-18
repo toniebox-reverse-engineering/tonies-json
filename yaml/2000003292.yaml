@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 47: Pumuckl und der Geburtstag'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,21 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-und-der-geburtstag-das-original-aus-dem-fe/
   shop-id: ab0423a9-a4e8-490e-9cf1-975a1d43d8eb
-  track-desc: []
+  track-desc:
+  - Pumuckl und der Geburtstag - Teil 01
+  - Pumuckl und der Geburtstag - Teil 02
+  - Pumuckl und der Geburtstag - Teil 03
+  - Pumuckl und der Geburtstag - Teil 04
+  - Pumuckl und der Geburtstag - Teil 05
+  - Pumuckl und der Geburtstag - Teil 06
+  - Pumuckl und der Geburtstag - Teil 07
+  - Pumuckl und der Geburtstag - Teil 08
+  - Pumuckl und der Geburtstag - Teil 09
+  - Pumuckl und der Geburtstag - Teil 10
+  - Pumuckl und der Geburtstag - Teil 11
+  - Pumuckl und der Geburtstag - Teil 12
+  - Pumuckl und der Geburtstag - Teil 13
+  - Pumuckl und der Geburtstag - Teil 14
+  - Pumuckl und der Geburtstag - Teil 15
+  - Pumuckl und der Geburtstag - Teil 16
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Benjamin Blümchen
   series-id: benjamin-bluemchen
   episode: Die Halloween-Nacht
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,20 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/die-halloween-nacht/
   shop-id: ea761a7c-4c58-4ea6-8022-aa5434f5a856
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Kürbisernte im Zoo
+  - Verkleidung gesucht
+  - Vorbereitungen
+  - Das große Klappern
+  - An Herrn Tierliebs Tür
+  - Maries gefüllter Beutel
+  - Die traurige Marie
+  - Herr Magermilch tobt
+  - Die Falle
+  - Der falsche Mann
+  - Zwei Küxie-Diebe
+  - Die Entschuldigung
+  - Versöhnliches Ende
+  - EXTRA- Kürbisse
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Conni
   series-id: conni
   episode: Conni übernachtet bei Julia / Conni geht nicht mit Fremden mit
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,27 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/conni/conni-ubernachtet-bei-julia-geht-nicht-fremden/
   shop-id: 4618fdbb-3d62-48b8-8b1a-42b85cdc862d
-  track-desc: []
+  track-desc:
+  - Meine beste Freundin Conni
+  - Conni übernachtet bei Julia - Teil 01
+  - Conni übernachtet bei Julia - Teil 02
+  - Conni übernachtet bei Julia - Teil 03
+  - Conni übernachtet bei Julia - Teil 04
+  - Conni übernachtet bei Julia - Teil 05
+  - Conni übernachtet bei Julia - Teil 06
+  - Conni übernachtet bei Julia - Teil 07
+  - Conni übernachtet bei Julia - Teil 08
+  - Conni übernachtet bei Julia - Teil 09
+  - Conni übernachtet bei Julia - Teil 10
+  - Conni übernachtet bei Julia - Teil 11
+  - Conni geht nicht mit Fremden mit - Teil 01
+  - Conni geht nicht mit Fremden mit - Teil 02
+  - Conni geht nicht mit Fremden mit - Teil 03
+  - Conni geht nicht mit Fremden mit - Teil 04
+  - Conni geht nicht mit Fremden mit - Teil 05
+  - Conni geht nicht mit Fremden mit - Teil 06
+  - Conni geht nicht mit Fremden mit - Teil 07
+  - Conni geht nicht mit Fremden mit - Teil 08
+  - Conni geht nicht mit Fremden mit - Teil 09
+  - Meine beste Freundin Conni
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Leben der Ritter / Mächtige Burgen
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,38 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/leben-der-ritter-machtige-burgen/
   shop-id: 95496399-f896-45c3-89a5-1e4a3b380882
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Ritter'
+  - 'Thema 1: Was sind Ritter?'
+  - 'Thema 1: Das Training der Ritter'
+  - 'Thema 1: Was ist ein sogenanntes Gestech?'
+  - 'Thema 1: Die Ausbildung zu einem Ritter'
+  - 'Thema 1: Lernen von Manieren und Umgangformen'
+  - 'Thema 1: Die Nachricht vom Boten'
+  - 'Thema 1: Der Ritterschlag'
+  - 'Thema 1: Aus was besteht die Rüstung?'
+  - 'Thema 1: Wann lebten die Ritter?'
+  - 'Thema 1: Aussterben der Ritter'
+  - 'Thema 1: Große Feste'
+  - 'Thema 2: Burgen'
+  - 'Thema 2: Was ist eine Burg?'
+  - 'Thema 2: Wann gab es die ersten Burgen?'
+  - 'Thema 2: Alles aus Stein'
+  - 'Thema 2: Der Bau einer Burg'
+  - 'Thema 2: Wie lang dauerte der Bau einer Burg?'
+  - 'Thema 2: Die Gebäude einer Burg'
+  - 'Thema 2: Wasser ist wichtig'
+  - 'Thema 2: Viele Krabbeltiere'
+  - 'Thema 2: Was passiert in den Werkstätten?'
+  - 'Thema 2: Der Kerker'
+  - 'Thema 2: Was ist der Palas?'
+  - 'Thema 2: Die Fenster'
+  - 'Thema 2: Das Spielzeug in der Ritterzeit'
+  - 'Thema 2: Was gab es zum Essen?'
+  - 'Thema 2: Mit den Fingern essen'
+  - 'Thema 2: Die Wachen in der Burg'
+  - 'Thema 2: Angriff'
+  - 'Thema 2: Viele verschiedene Angriffsmöglichkeiten'
+  - 'Thema 2: Was ist der Bergfried?'
+  - 'Thema 2: Das Ende der Ritterzeit'
   ids: []

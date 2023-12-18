@@ -4,9 +4,9 @@ data:
 - series: Felix
   series-id: felix
   episode: Weihnachtsbriefe von Felix
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-book-songs
   runtime: 0
   age: 5
   origin: tunes
@@ -14,5 +14,41 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/felix/weihnachtsbriefe-von-felix/
   shop-id: c7ccadc7-3e4c-42f6-a44e-f6dfe56d1d7d
-  track-desc: []
+  track-desc:
+  - Briefe von Felix
+  - Felix schreibt dem Weihnachtsmann - Teil 01
+  - Felix schreibt dem Weihnachtsmann - Teil 02
+  - Felix schreibt dem Weihnachtsmann - Teil 03
+  - Felix schreibt dem Weihnachtsmann - Teil 04
+  - Felix schreibt dem Weihnachtsmann - Teil 05
+  - Lieber Weihnachtsmann
+  - Post für Felix - Teil 01
+  - Post für Felix - Teil 02
+  - Post für Felix - Teil 03
+  - Post für Felix - Teil 04
+  - Post für Felix - Teil 05
+  - Post für Felix - Teil 06
+  - Post für Felix - Teil 07
+  - Auf dem Weihnachtsmarkt
+  - Felix besucht den Weihnachtsmann - Teil 01
+  - Felix besucht den Weihnachtsmann - Teil 02
+  - Felix besucht den Weihnachtsmann - Teil 03
+  - Felix besucht den Weihnachtsmann - Teil 04
+  - Am Nordpol
+  - Mit dem Weihnachtsmann unterwegs - Teil 01
+  - Mit dem Weihnachtsmann unterwegs - Teil 02
+  - Mit dem Weihnachtsmann unterwegs - Teil 03
+  - Mit dem Weihnachtsmann unterwegs - Teil 04
+  - Weihnachtstanz
+  - Felix führt Tagebuch - Teil 01
+  - Felix führt Tagebuch - Teil 02
+  - Weihnachten in Südamerika
+  - Felix führt Tagebuch - Teil 03
+  - Felix führt Tagebuch - Teil 04
+  - Felix kommt nach Hause - Teil 01
+  - Felix kommt nach Hause - Teil 02
+  - Felix hilft dem Weihnachtsmann
+  - Felix kommt nach Hause - Teil 03
+  - Felix kommt nach Hause - Teil 04
+  - Felix kommt nach Hause - Teil 05
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 45: Pumuckl will eine Uhr haben'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,23 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-will-eine-uhr-haben-das-original-aus-dem-f/
   shop-id: 0b33b375-1969-4c23-93e8-7dd6e8a09014
-  track-desc: []
+  track-desc:
+  - Pumuckl will eine Uhr haben - Teil 01
+  - Pumuckl will eine Uhr haben - Teil 02
+  - Pumuckl will eine Uhr haben - Teil 03
+  - Pumuckl will eine Uhr haben - Teil 04
+  - Pumuckl will eine Uhr haben - Teil 05
+  - Pumuckl will eine Uhr haben - Teil 06
+  - Pumuckl will eine Uhr haben - Teil 07
+  - Pumuckl will eine Uhr haben - Teil 08
+  - Pumuckl will eine Uhr haben - Teil 09
+  - Pumuckl will eine Uhr haben - Teil 10
+  - Pumuckl will eine Uhr haben - Teil 11
+  - Pumuckl will eine Uhr haben - Teil 12
+  - Pumuckl will eine Uhr haben - Teil 13
+  - Pumuckl will eine Uhr haben - Teil 14
+  - Pumuckl will eine Uhr haben - Teil 15
+  - Pumuckl will eine Uhr haben - Teil 16
+  - Pumuckl will eine Uhr haben - Teil 17
+  - Pumuckl will eine Uhr haben - Teil 18
   ids: []

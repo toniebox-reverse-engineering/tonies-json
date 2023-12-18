@@ -4,9 +4,9 @@ data:
 - series: Conni
   series-id: conni
   episode: Conni und die Reise ans Meer
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
@@ -14,5 +14,54 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/conni/conni-und-die-reise-ans-meer/
   shop-id: 45751bae-f879-48b6-a5ab-ebab8c8d06a9
-  track-desc: []
+  track-desc:
+  - Meine beste Freundin Conni
+  - Conni und die Reise ans Meer - Teil 01
+  - Conni und die Reise ans Meer - Teil 02
+  - Conni und die Reise ans Meer - Teil 03
+  - Conni und die Reise ans Meer - Teil 04
+  - Conni und die Reise ans Meer - Teil 05
+  - Conni und die Reise ans Meer - Teil 06
+  - Conni und die Reise ans Meer - Teil 07
+  - Conni und die Reise ans Meer - Teil 08
+  - Conni und die Reise ans Meer - Teil 09
+  - Conni und die Reise ans Meer - Teil 10
+  - Conni und die Reise ans Meer - Teil 11
+  - Conni und die Reise ans Meer - Teil 12
+  - Conni und die Reise ans Meer - Teil 13
+  - Conni und die Reise ans Meer - Teil 14
+  - Conni und die Reise ans Meer - Teil 15
+  - Conni und die Reise ans Meer - Teil 16
+  - Conni und die Reise ans Meer - Teil 17
+  - Conni und die Reise ans Meer - Teil 18
+  - Conni und die Reise ans Meer - Teil 19
+  - Conni und die Reise ans Meer - Teil 20
+  - Conni und die Reise ans Meer - Teil 21
+  - Conni und die Reise ans Meer - Teil 22
+  - Conni und die Reise ans Meer - Teil 23
+  - Conni und die Reise ans Meer - Teil 24
+  - Conni und die Reise ans Meer - Teil 25
+  - Conni und die Reise ans Meer - Teil 26
+  - Conni und die Reise ans Meer - Teil 27
+  - Conni und die Reise ans Meer - Teil 28
+  - Conni und die Reise ans Meer - Teil 29
+  - Conni und die Reise ans Meer - Teil 30
+  - Conni und die Reise ans Meer - Teil 31
+  - Conni und die Reise ans Meer - Teil 32
+  - Conni und die Reise ans Meer - Teil 33
+  - Conni und die Reise ans Meer - Teil 34
+  - Conni und die Reise ans Meer - Teil 35
+  - Conni und die Reise ans Meer - Teil 36
+  - Conni und die Reise ans Meer - Teil 37
+  - Conni und die Reise ans Meer - Teil 38
+  - Conni und die Reise ans Meer - Teil 39
+  - Conni und die Reise ans Meer - Teil 40
+  - Conni und die Reise ans Meer - Teil 41
+  - Conni und die Reise ans Meer - Teil 42
+  - Conni und die Reise ans Meer - Teil 43
+  - Conni und die Reise ans Meer - Teil 44
+  - Conni und die Reise ans Meer - Teil 45
+  - Conni und die Reise ans Meer - Teil 46
+  - Conni und die Reise ans Meer - Teil 47
+  - Meine beste Freundin Conni
   ids: []

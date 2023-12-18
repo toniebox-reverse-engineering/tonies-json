@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Ein schlimmer Verdacht
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/ein-schlimmer-verdacht/
   shop-id: e90323ed-bbce-498f-9e0f-943875e65a1e
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Auf dem Marktplatz
+  - Die Kette
+  - Geburtstags-Überraschungen
+  - Gestohlen!
+  - Unter Verdacht
+  - Drei Detektive
+  - Ein wichtiger Hinweis
+  - Erfolgloses Suchen
+  - Wer ist da draußen-
+  - Der fremde Junge
+  - Trödel-Hannes taucht auf
+  - Ende gut, alles gut!
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 75: Pumuckl und der blaue Klabauter'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,24 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-und-der-blaue-klabauter-das-original-aus-d/
   shop-id: a622f62e-4dd2-4fca-86a3-94262f0e8c92
-  track-desc: []
+  track-desc:
+  - Pumuckl und der blaue Klabauter - Teil 01
+  - Pumuckl und der blaue Klabauter - Teil 02
+  - Pumuckl und der blaue Klabauter - Teil 03
+  - Pumuckl und der blaue Klabauter - Teil 04
+  - Pumuckl und der blaue Klabauter - Teil 05
+  - Pumuckl und der blaue Klabauter - Teil 06
+  - Pumuckl und der blaue Klabauter - Teil 07
+  - Pumuckl und der blaue Klabauter - Teil 08
+  - Pumuckl und der blaue Klabauter - Teil 09
+  - Pumuckl und der blaue Klabauter - Teil 10
+  - Pumuckl und der blaue Klabauter - Teil 11
+  - Pumuckl und der blaue Klabauter - Teil 12
+  - Pumuckl und der blaue Klabauter - Teil 13
+  - Pumuckl und der blaue Klabauter - Teil 14
+  - Pumuckl und der blaue Klabauter - Teil 15
+  - Pumuckl und der blaue Klabauter - Teil 16
+  - Pumuckl und der blaue Klabauter - Teil 17
+  - Pumuckl und der blaue Klabauter - Teil 18
+  - Pumuckl und der blaue Klabauter - Teil 19
   ids: []

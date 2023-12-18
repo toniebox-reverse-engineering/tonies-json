@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Der Freundschaftstag
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/der-freundschaftstag/
   shop-id: 6ab81e7c-12c8-4eaf-bdca-dbb300dd875c
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Zur Alten Eiche
+  - Weißt du noch
+  - Alexander braucht Hilfe
+  - Bei Trödel Hannes
+  - Das verlorene Kitz
+  - Problem gelöst
+  - Der Hilferuf
+  - Unverhoffter Besuch
+  - Hilfe für den Förster
+  - Warten und Beobachten
+  - Rettung naht
+  - In der Abendsonne
+  - Überraschung!
   ids: []

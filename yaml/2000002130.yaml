@@ -4,9 +4,9 @@ data:
 - series: Conni
   series-id: conni
   episode: Conni und das Geheimnis der Koi
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
@@ -14,5 +14,43 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/conni/conni-und-das-geheimnis-der-koi/
   shop-id: 50d6a872-a6c8-4ec8-b51a-e5583d2b2469
-  track-desc: []
+  track-desc:
+  - Meine beste Freundin Conni
+  - Conni und das Geheimnis der Koi - Teil 01
+  - Conni und das Geheimnis der Koi - Teil 02
+  - Conni und das Geheimnis der Koi - Teil 03
+  - Conni und das Geheimnis der Koi - Teil 04
+  - Conni und das Geheimnis der Koi - Teil 05
+  - Conni und das Geheimnis der Koi - Teil 06
+  - Conni und das Geheimnis der Koi - Teil 07
+  - Conni und das Geheimnis der Koi - Teil 08
+  - Conni und das Geheimnis der Koi - Teil 09
+  - Conni und das Geheimnis der Koi - Teil 10
+  - Conni und das Geheimnis der Koi - Teil 11
+  - Conni und das Geheimnis der Koi - Teil 12
+  - Conni und das Geheimnis der Koi - Teil 13
+  - Conni und das Geheimnis der Koi - Teil 14
+  - Conni und das Geheimnis der Koi - Teil 15
+  - Conni und das Geheimnis der Koi - Teil 16
+  - Conni und das Geheimnis der Koi - Teil 17
+  - Conni und das Geheimnis der Koi - Teil 18
+  - Conni und das Geheimnis der Koi - Teil 19
+  - Conni und das Geheimnis der Koi - Teil 20
+  - Conni und das Geheimnis der Koi - Teil 21
+  - Conni und das Geheimnis der Koi - Teil 22
+  - Conni und das Geheimnis der Koi - Teil 23
+  - Conni und das Geheimnis der Koi - Teil 24
+  - Conni und das Geheimnis der Koi - Teil 25
+  - Conni und das Geheimnis der Koi - Teil 26
+  - Conni und das Geheimnis der Koi - Teil 27
+  - Conni und das Geheimnis der Koi - Teil 28
+  - Conni und das Geheimnis der Koi - Teil 29
+  - Conni und das Geheimnis der Koi - Teil 30
+  - Conni und das Geheimnis der Koi - Teil 31
+  - Conni und das Geheimnis der Koi - Teil 32
+  - Conni und das Geheimnis der Koi - Teil 33
+  - Conni und das Geheimnis der Koi - Teil 34
+  - Conni und das Geheimnis der Koi - Teil 35
+  - Conni und das Geheimnis der Koi - Teil 36
+  - Meine beste Freundin Conni
   ids: []

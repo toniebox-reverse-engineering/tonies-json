@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Tina in Gefahr
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/tina-in-gefahr/
   shop-id: 50d50e81-bed7-4c86-a66e-8da8cbee0dad
-  track-desc: []
+  track-desc:
+  - Titellied
+  - Schnitzeljagdfieber
+  - Irrwege legen
+  - Ein kleiner Streit
+  - Tina wird entführt
+  - Diebe unter sich
+  - Freddy unter Verdacht
+  - Bösewichter unter sich
+  - In Gefangenschaft
+  - Tinas Trick
+  - In großer Gefahr!
+  - Freddy hilft
+  - Ende gut alles gut
   ids: []

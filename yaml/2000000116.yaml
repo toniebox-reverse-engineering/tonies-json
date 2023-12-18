@@ -4,9 +4,9 @@ data:
 - series: Benjamin Blümchen
   series-id: benjamin-bluemchen
   episode: singt Weihnachtslieder
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,17 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/singt-weihnachtslieder/
   shop-id: 3900c0cd-891e-42fa-a5b0-bc7c60ccc6c3
-  track-desc: []
+  track-desc:
+  - Zoowinter
+  - Kling Glöckchen, klingelingeling
+  - Warten auf Weihnachten
+  - Leise rieselt der Schnee
+  - Das Wunschzettellied
+  - Ihr Kinderlein, kommet
+  - Eisbärtanz
+  - O Tannenbaum
+  - Benjamins Schlittenfahrt
+  - O du fröhliche
+  - Weihnachten im Zoo
+  - Stille Nacht
   ids: []

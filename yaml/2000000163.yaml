@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Das wilde Schlittenrennen
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,20 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/das-wilde-schlittenrennen/
   shop-id: 4476491a-91a9-4e6c-b78a-3c8526f21b1e
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Auf zum Rodelberg
+  - Am Start
+  - Station Schneemann
+  - Kopf an Kopf
+  - Lauter Schummeleien
+  - Neue Regeln
+  - Bibi verhext sich
+  - Im Irgendwo
+  - Das Zottelmonster
+  - Yaki braucht Hilfe
+  - Die Rettung!
+  - Alle gewinnen
+  - Schlittenrennen Song
+  - Add On
   ids: []

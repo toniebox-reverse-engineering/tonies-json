@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Die Osterferien
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,17 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/die-osterferien/
   shop-id: 9059903e-8afa-4f9d-bae4-519194ca2530
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Drei neue Gäste
+  - Nicole nervt
+  - Ostervorbereitungen
+  - Wo ist Nicole-
+  - Osterlämmer in Gefahr
+  - Die Entführung
+  - Nichts als Ärger
+  - Heimliche Lauscher
+  - Noch zwei Retter
+  - Osterwasser-Superhexkraft
+  - Gerettet!
   ids: []

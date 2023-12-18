@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Besuch aus Spanien
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/besuch-aus-spanien/
   shop-id: 9dc70331-ce36-4937-9e45-d713731acc17
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Junge Füchse
+  - Besuch aus Spanien
+  - Eingebildeter Carlos
+  - Spanisches Reitkunst
+  - Das Missverständnis
+  - Wo ist Carlos-
+  - Alles klärt sich auf
+  - Zurück auf dem Besen
+  - Showvorbereitungen
+  - Schreck im Stall
+  - Der Ochse sieht rot
+  - Ein super Auftritt
   ids: []

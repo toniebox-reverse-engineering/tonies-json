@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: im Orient
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,16 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/im-orient/
   shop-id: 54e0a4c7-2b23-4e49-8c53-4677b4b7cf62
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Hexerei am Frühstückstisch
+  - Eine große Überraschung
+  - Auf in den Orient
+  - Der fliegende Teppich
+  - Ein Spielzeug für den Sultan
+  - Im Harem
+  - Ein geheimnisvolles Geschenk
+  - Der Flaschengeist
+  - Ein Schatz wird verhext
+  - Belehrung für Papi
   ids: []

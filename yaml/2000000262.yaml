@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Urlaub in der Hexenpension
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/urlaub-in-der-hexenpension/
   shop-id: 5ee2b41e-27f6-4202-a0d4-11a5a83408ac
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Holperige Anreise
+  - Nicht wundern!
+  - Erste Eindrücke
+  - Eine neue Freundin
+  - In den Garten
+  - Hexenglück mit Schummelei
+  - Wo ist Bernhards Schlüssel-
+  - Wo ist Bibis Armreif-
+  - Hexische Spionage
+  - Eine unruhige Nacht
+  - Herumschleichen
+  - Entdeckung und Geständnis
+  - Schluss und vorbei
   ids: []

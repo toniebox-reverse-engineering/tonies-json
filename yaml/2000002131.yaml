@@ -4,9 +4,9 @@ data:
 - series: Conni
   series-id: conni
   episode: Conni und das große Bergabenteuer
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,44 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/conni/conni-und-das-groe-bergabenteuer/
   shop-id: 45bebb05-202c-433b-a27e-002494ecd7d6
-  track-desc: []
+  track-desc:
+  - Meine beste Freundin Conni
+  - Conni und das große Bergabenteuer - Teil 01
+  - Conni und das große Bergabenteuer - Teil 02
+  - Conni und das große Bergabenteuer - Teil 03
+  - Conni und das große Bergabenteuer - Teil 04
+  - Conni und das große Bergabenteuer - Teil 05
+  - Conni und das große Bergabenteuer - Teil 06
+  - Conni und das große Bergabenteuer - Teil 07
+  - Conni und das große Bergabenteuer - Teil 08
+  - Conni und das große Bergabenteuer - Teil 09
+  - Conni und das große Bergabenteuer - Teil 10
+  - Conni und das große Bergabenteuer - Teil 11
+  - Conni und das große Bergabenteuer - Teil 12
+  - Conni und das große Bergabenteuer - Teil 13
+  - Conni und das große Bergabenteuer - Teil 14
+  - Conni und das große Bergabenteuer - Teil 15
+  - Conni und das große Bergabenteuer - Teil 16
+  - Conni und das große Bergabenteuer - Teil 17
+  - Conni und das große Bergabenteuer - Teil 18
+  - Conni und das große Bergabenteuer - Teil 19
+  - Conni und das große Bergabenteuer - Teil 20
+  - Conni und das große Bergabenteuer - Teil 21
+  - Conni und das große Bergabenteuer - Teil 22
+  - Conni und das große Bergabenteuer - Teil 23
+  - Conni und das große Bergabenteuer - Teil 24
+  - Conni und das große Bergabenteuer - Teil 25
+  - Conni und das große Bergabenteuer - Teil 26
+  - Conni und das große Bergabenteuer - Teil 27
+  - Conni und das große Bergabenteuer - Teil 28
+  - Conni und das große Bergabenteuer - Teil 29
+  - Conni und das große Bergabenteuer - Teil 30
+  - Conni und das große Bergabenteuer - Teil 31
+  - Conni und das große Bergabenteuer - Teil 32
+  - Conni und das große Bergabenteuer - Teil 33
+  - Conni und das große Bergabenteuer - Teil 34
+  - Conni und das große Bergabenteuer - Teil 35
+  - Conni und das große Bergabenteuer - Teil 36
+  - Conni und das große Bergabenteuer - Teil 37
+  - Meine beste Freundin Conni
   ids: []

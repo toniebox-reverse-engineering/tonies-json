@@ -4,9 +4,9 @@ data:
 - series: Der kleine Rabe Socke
   series-id: der-kleine-rabe-socke
   episode: Alles gefärbt!, Alles wächst! Alles verwünscht!
-  release: 0
+  release: 1422576000
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,29 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/der-kleine-rabe-socke/alles-gefarbt-alles-wachst-alles-verwunscht/
   shop-id: 76a64bf8-0c77-4908-afdc-2a26a0e16bb2
-  track-desc: []
+  track-desc:
+  - Alles gefärbt! - Kapitel 1
+  - Alles gefärbt! - Kapitel 2
+  - Alles gefärbt! - Kapitel 3
+  - Alles gefärbt! - Kapitel 4
+  - Alles gefärbt! - Kapitel 5
+  - Alles gefärbt! - Kapitel 6
+  - Alles gefärbt! - Kapitel 7
+  - Alles wächst! - Kapitel 1
+  - Alles wächst! - Kapitel 2
+  - Alles wächst! - Kapitel 3
+  - Alles wächst! - Kapitel 4
+  - Alles wächst! - Kapitel 5
+  - Alles wächst! - Kapitel 6
+  - Alles verwünscht! - Kapitel 1
+  - Alles verwünscht! - Kapitel 2
+  - Alles verwünscht! - Kapitel 3
+  - Alles verwünscht! - Kapitel 4
+  - Alles verwünscht! - Kapitel 5
+  - Alles verwünscht! - Kapitel 6
+  - Alles verwünscht! - Kapitel 7
+  - Alles verwünscht! - Kapitel 8
+  - Alles verwünscht! - Kapitel 9
+  - Alles verwünscht! - Kapitel 10
+  - Alles verwünscht! - Kapitel 11
   ids: []

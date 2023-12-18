@@ -4,9 +4,9 @@ data:
 - series: Benjamin Blümchen
   series-id: benjamin-bluemchen
   episode: Spuk im Zoo
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/spuk-im-zoo/
   shop-id: 19bac8a3-cd48-4e6e-9322-e744b4f4e1d8
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Hallo, Kasimir!
+  - Dachboden gesucht
+  - So geht das nicht!
+  - Zum Aquarium
+  - Ritter mit Harke
+  - Quietschende Türen
+  - Gespenster-Übungen
+  - Vergraulte Besucher
+  - Die zerstörte Tür
+  - Ein trauriger Elefant
+  - Herr Tierliebs Idee
+  - Die Spuk-Show
+  - Ein gruseliger Erfolg
   ids: []

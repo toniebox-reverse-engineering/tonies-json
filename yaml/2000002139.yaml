@@ -4,9 +4,9 @@ data:
 - series: Conni
   series-id: conni
   episode: Conni und der Ferienzirkus
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
@@ -14,5 +14,57 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/conni/conni-und-der-ferienzirkus/
   shop-id: 88d6c671-9832-4c67-9202-14c94cb95390
-  track-desc: []
+  track-desc:
+  - Meine beste Freundin Conni
+  - Conni und der Ferienzirkus - Teil 01
+  - Conni und der Ferienzirkus - Teil 02
+  - Conni und der Ferienzirkus - Teil 03
+  - Conni und der Ferienzirkus - Teil 04
+  - Conni und der Ferienzirkus - Teil 05
+  - Conni und der Ferienzirkus - Teil 06
+  - Conni und der Ferienzirkus - Teil 07
+  - Conni und der Ferienzirkus - Teil 08
+  - Conni und der Ferienzirkus - Teil 09
+  - Conni und der Ferienzirkus - Teil 10
+  - Conni und der Ferienzirkus - Teil 11
+  - Conni und der Ferienzirkus - Teil 12
+  - Conni und der Ferienzirkus - Teil 13
+  - Conni und der Ferienzirkus - Teil 14
+  - Conni und der Ferienzirkus - Teil 15
+  - Conni und der Ferienzirkus - Teil 16
+  - Conni und der Ferienzirkus - Teil 17
+  - Conni und der Ferienzirkus - Teil 18
+  - Conni und der Ferienzirkus - Teil 19
+  - Conni und der Ferienzirkus - Teil 20
+  - Conni und der Ferienzirkus - Teil 21
+  - Conni und der Ferienzirkus - Teil 22
+  - Conni und der Ferienzirkus - Teil 23
+  - Conni und der Ferienzirkus - Teil 24
+  - Conni und der Ferienzirkus - Teil 25
+  - Conni und der Ferienzirkus - Teil 26
+  - Conni und der Ferienzirkus - Teil 27
+  - Conni und der Ferienzirkus - Teil 28
+  - Conni und der Ferienzirkus - Teil 29
+  - Conni und der Ferienzirkus - Teil 30
+  - Conni und der Ferienzirkus - Teil 31
+  - Conni und der Ferienzirkus - Teil 32
+  - Conni und der Ferienzirkus - Teil 33
+  - Conni und der Ferienzirkus - Teil 34
+  - Conni und der Ferienzirkus - Teil 35
+  - Conni und der Ferienzirkus - Teil 36
+  - Conni und der Ferienzirkus - Teil 37
+  - Conni und der Ferienzirkus - Teil 38
+  - Conni und der Ferienzirkus - Teil 39
+  - Conni und der Ferienzirkus - Teil 40
+  - Conni und der Ferienzirkus - Teil 41
+  - Conni und der Ferienzirkus - Teil 42
+  - Conni und der Ferienzirkus - Teil 43
+  - Conni und der Ferienzirkus - Teil 44
+  - Conni und der Ferienzirkus - Teil 45
+  - Conni und der Ferienzirkus - Teil 46
+  - Conni und der Ferienzirkus - Teil 47
+  - Conni und der Ferienzirkus - Teil 48
+  - Conni und der Ferienzirkus - Teil 49
+  - Conni und der Ferienzirkus - Teil 50
+  - Meine beste Freundin Conni
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Rund um die Welt mit Fuchs und Schaf
   series-id: rund-um-die-welt-mit-fuchs-und-schaf
   episode: Puerto Rico
-  release: 0
+  release: 1630022400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,9 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/rund-um-die-welt-mit-fuchs-und-schaf/rund-um-die-welt-mit-fuchs-und-schaf-puerto-rico-1/
   shop-id: de6da62c-2831-48a4-918f-c6d20a1d0a6c
-  track-desc: []
+  track-desc:
+  - Puerto Rico Teil 1
+  - Puerto Rico Teil 2
+  - Puerto Rico Teil 3
+  - Puerto Rico Teil 4
   ids: []

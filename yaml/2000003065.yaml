@@ -4,9 +4,9 @@ data:
 - series: Sternenschweif
   series-id: sternenschweif
   episode: 'Teil 14: Der goldene Schlüssel'
-  release: 0
+  release: 1649808000
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/sternenschweif/teil-14-der-goldene-schlussel/
   shop-id: b43ab187-ee5c-47d6-a4db-76e62e50927c
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
   ids: []

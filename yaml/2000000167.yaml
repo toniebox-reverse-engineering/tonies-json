@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Der Brieffreund
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,15 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/der-brieffreund/
   shop-id: 5d54f6c7-fb3b-4603-b80a-f457e4ede6ca
-  track-desc: []
+  track-desc:
+  - Bibi Song
+  - Wer ist Daniel Donnerkeil -
+  - Schubias Geheimnis
+  - Neue Post
+  - Empfänger unbekannt
+  - Der Hexencode
+  - Erste Begegnung
+  - Die gefährliche Senkrechtspirale
+  - Angst um Felix
+  - Der Retter in der Not
   ids: []

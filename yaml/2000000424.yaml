@@ -4,9 +4,9 @@ data:
 - series: Der kleine Rabe Socke
   series-id: der-kleine-rabe-socke
   episode: 'Alles Weihnachten!: Alles Advent!, Alles gebacken!, Alles verschenkt!'
-  release: 0
+  release: 1538092800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,26 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/der-kleine-rabe-socke/alles-weihnachten-alles-verschenkt-alles-gebacken/
   shop-id: 19ed95d3-a957-4cfc-bfdf-b6ffea90ce70
-  track-desc: []
+  track-desc:
+  - Alles Advent! - Kapitel 1
+  - Alles Advent! - Kapitel 2
+  - Alles Advent! - Kapitel 3
+  - Alles Advent! - Kapitel 4
+  - Alles Advent! - Kapitel 5
+  - Alles Advent! - Kapitel 6
+  - Alles Advent! - Kapitel 7
+  - Alles gebacken! - Kapitel 1
+  - Alles gebacken! - Kapitel 2
+  - Alles gebacken! - Kapitel 3
+  - Alles gebacken! - Kapitel 4
+  - Alles gebacken! - Kapitel 5
+  - Alles gebacken! - Kapitel 6
+  - Alles gebacken! - Kapitel 7
+  - Alles verschenkt! - Kapitel 1
+  - Alles verschenkt! - Kapitel 2
+  - Alles verschenkt! - Kapitel 3
+  - Alles verschenkt! - Kapitel 4
+  - Alles verschenkt! - Kapitel 5
+  - Alles verschenkt! - Kapitel 6
+  - Alles verschenkt! - Kapitel 7
   ids: []

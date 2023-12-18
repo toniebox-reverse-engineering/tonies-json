@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Versunkene Schätze / Abenteuer Tauchen
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,43 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/versunkene-schatze-abenteuer-tauchen/
   shop-id: 888e893b-3277-4f08-9890-962997f25f75
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Versunkene Schätze'
+  - 'Thema 1: Wie viele Schiffe liegen auf dem Meeresboden?'
+  - 'Thema 1: Was versteht man unter Tribut?'
+  - 'Thema 1: Ausstattung eines Tauchers'
+  - 'Thema 1: Was ist eine Amphore?'
+  - 'Thema 1: Was hatten Schiffe alles an Bord?'
+  - 'Thema 1: Versunkene Städte'
+  - 'Thema 1: Eine Stadt im Meer'
+  - 'Thema 1: Schätze in der Karibik'
+  - 'Thema 1: Gold und Silber am Meeresgrund'
+  - 'Thema 1: Unentdeckte Wracks'
+  - 'Thema 1: Wer ist der erfolgreichste Unterwasserschatzsucher?'
+  - 'Thema 1: 101 Tage zum Suchen'
+  - 'Thema 1: Das Magnetometer'
+  - 'Thema 1: Der Schatz'
+  - 'Thema 1: Wie teuer ist eine Schatzsuche?'
+  - 'Thema 1: Schweizer Käse'
+  - 'Thema 1: Das Höhlentauchen'
+  - 'Thema 1: Ort der Angst'
+  - 'Thema 2: Tauchen'
+  - 'Thema 2: Was ist Schnorcheln?'
+  - 'Thema 2: Abtauchen in die Tiefe'
+  - 'Thema 2: Die Flossen'
+  - 'Thema 2: Was ist die natürlichste Form des Tauchens?'
+  - 'Thema 2: Neoprenanzug'
+  - 'Thema 2: Pressluftflaschen'
+  - 'Thema 2: Was versteht man unter dem Atemregler?'
+  - 'Thema 2: Das Schweben im Wasser'
+  - 'Thema 2: Befreien aus Leinen'
+  - 'Thema 2: Aus was besteht Luft?'
+  - 'Thema 2: Der Stickstoff'
+  - 'Thema 2: Was ist der Tauchcomputer?'
+  - 'Thema 2: Die Handsignale'
+  - 'Thema 2: Nichts anfassen!'
+  - 'Thema 2: Der Berufstaucher'
+  - 'Thema 2: Was ist Unterwasserarchäologie?'
+  - 'Thema 2: Die Ausbilung zum Berufstaucher'
+  - 'Thema 2: Arbeiten unter Wasser'
   ids: []

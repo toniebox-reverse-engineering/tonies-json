@@ -4,9 +4,9 @@ data:
 - series: Die kleine Schnecke Monika Häuschen
   series-id: die-kleine-schnecke-monika-haeuschen
   episode: Warum haben Prachtkäfer einen Feuermelder?
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,31 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/die-kleine-schnecke-monika-haeuschen/warum-haben-prachtkafer-einen-feuermelder/
   shop-id: 3a0c0870-32f7-4354-a4a4-c7b387e4f1c2
-  track-desc: []
+  track-desc:
+  - Die kleine Schnecke Monika Häuschen - Titellied
+  - Warum haben Prachtkäfer einen Feuermelder? - Teil 01
+  - Warum haben Prachtkäfer einen Feuermelder? - Teil 02
+  - Warum haben Prachtkäfer einen Feuermelder? - Teil 03
+  - Warum haben Prachtkäfer einen Feuermelder? - Teil 04
+  - Warum haben Prachtkäfer einen Feuermelder? - Teil 05
+  - Warum haben Prachtkäfer einen Feuermelder? - Teil 06
+  - Warum haben Prachtkäfer einen Feuermelder? - Teil 07
+  - Warum haben Prachtkäfer einen Feuermelder? - Teil 08
+  - Warum haben Prachtkäfer einen Feuermelder? - Teil 09
+  - Warum haben Prachtkäfer einen Feuermelder? - Teil 10
+  - Warum haben Prachtkäfer einen Feuermelder? - Teil 11
+  - Warum haben Prachtkäfer einen Feuermelder? - Teil 12
+  - Warum haben Prachtkäfer einen Feuermelder? - Teil 13
+  - Warum haben Prachtkäfer einen Feuermelder? - Teil 14
+  - Warum haben Prachtkäfer einen Feuermelder? - Teil 15
+  - Warum haben Prachtkäfer einen Feuermelder? - Teil 16
+  - Warum haben Prachtkäfer einen Feuermelder? - Teil 17
+  - Warum haben Prachtkäfer einen Feuermelder? - Teil 18
+  - Warum haben Prachtkäfer einen Feuermelder? - Teil 19
+  - Warum haben Prachtkäfer einen Feuermelder? - Teil 20
+  - Warum haben Prachtkäfer einen Feuermelder? - Teil 21
+  - Warum haben Prachtkäfer einen Feuermelder? - Teil 22
+  - Warum haben Prachtkäfer einen Feuermelder? - Teil 23
+  - Warum haben Prachtkäfer einen Feuermelder? - Teil 24
+  - Warum haben Prachtkäfer einen Feuermelder? - Teil 25
   ids: []

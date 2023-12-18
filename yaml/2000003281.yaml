@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 36: Der silberne Kegel'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,21 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/der-silberne-kegel-das-original-aus-dem-fernsehen/
   shop-id: aff34d82-0bf3-4f61-83bd-1e0eca96b854
-  track-desc: []
+  track-desc:
+  - Der silberne Kegel - Teil 01
+  - Der silberne Kegel - Teil 02
+  - Der silberne Kegel - Teil 03
+  - Der silberne Kegel - Teil 04
+  - Der silberne Kegel - Teil 05
+  - Der silberne Kegel - Teil 06
+  - Der silberne Kegel - Teil 07
+  - Der silberne Kegel - Teil 08
+  - Der silberne Kegel - Teil 09
+  - Der silberne Kegel - Teil 10
+  - Der silberne Kegel - Teil 11
+  - Der silberne Kegel - Teil 12
+  - Der silberne Kegel - Teil 13
+  - Der silberne Kegel - Teil 14
+  - Der silberne Kegel - Teil 15
+  - Der silberne Kegel - Teil 16
   ids: []

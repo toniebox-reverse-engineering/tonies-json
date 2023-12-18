@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Die schwarzen Vier
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/die-schwarzen-vier/
   shop-id: 8fd0db59-e397-41b3-ad43-f0562172e2a4
-  track-desc: []
+  track-desc:
+  - Titellied
+  - Schlimme Streiche
+  - Lehrer Ohne Hose
+  - In Der Küche
+  - Herr Schumanns Verdacht
+  - Bibi Schmiedet Pläne
+  - Stinkbombe Und Plattfüße
+  - Badeschaum Im Büro
+  - Auf Heißer Spur
+  - Gefangen Und Gefesselt
+  - Die Schwarzen Vier Packen Aus
+  - Zurück Zur Schule
+  - Eine Prima Strafe
   ids: []

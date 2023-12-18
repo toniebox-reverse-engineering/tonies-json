@@ -4,9 +4,9 @@ data:
 - series: Conni
   series-id: conni
   episode: Conni feiert Geburtstag
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
@@ -14,5 +14,39 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/conni/conni-feiert-geburtstag/
   shop-id: b5cf0379-2a73-49eb-9dec-590326bd1854
-  track-desc: []
+  track-desc:
+  - Meine beste Freundin Conni
+  - Conni feiert Geburtstag - Teil 01
+  - Conni feiert Geburtstag - Teil 02
+  - Conni feiert Geburtstag - Teil 03
+  - Conni feiert Geburtstag - Teil 04
+  - Conni feiert Geburtstag - Teil 05
+  - Conni feiert Geburtstag - Teil 06
+  - Conni feiert Geburtstag - Teil 07
+  - Conni feiert Geburtstag - Teil 08
+  - Conni feiert Geburtstag - Teil 09
+  - Conni feiert Geburtstag - Teil 10
+  - Conni feiert Geburtstag - Teil 11
+  - Conni feiert Geburtstag - Teil 12
+  - Conni feiert Geburtstag - Teil 13
+  - Conni feiert Geburtstag - Teil 14
+  - Conni feiert Geburtstag - Teil 15
+  - Conni feiert Geburtstag - Teil 16
+  - Conni feiert Geburtstag - Teil 17
+  - Conni feiert Geburtstag - Teil 18
+  - Conni feiert Geburtstag - Teil 19
+  - Conni feiert Geburtstag - Teil 20
+  - Conni feiert Geburtstag - Teil 21
+  - Conni feiert Geburtstag - Teil 22
+  - Conni feiert Geburtstag - Teil 23
+  - Conni feiert Geburtstag - Teil 24
+  - Conni feiert Geburtstag - Teil 25
+  - Conni feiert Geburtstag - Teil 26
+  - Conni feiert Geburtstag - Teil 27
+  - Conni feiert Geburtstag - Teil 28
+  - Conni feiert Geburtstag - Teil 29
+  - Conni feiert Geburtstag - Teil 30
+  - Conni feiert Geburtstag - Teil 31
+  - Conni feiert Geburtstag - Teil 32
+  - Meine beste Freundin Conni
   ids: []

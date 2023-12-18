@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Regenwald / Leben in der Wüste
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,37 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/regenwald-leben-in-der-wuste/
   shop-id: aca6806b-7647-4216-b041-89d6c4b50bd1
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Der Regenwald'
+  - 'Thema 1: Was ist der tropische Regenwald?'
+  - 'Thema 1: Die drei Formen des Regenwaldes'
+  - 'Thema 1: Liane: Die Kletterpflanze'
+  - 'Thema 1: Die Wurzeln der Bäume'
+  - 'Thema 1: Besonderheiten der Blätter'
+  - 'Thema 1: Was ist die Würgefeige?'
+  - 'Thema 1: Die Tierwelt im Regenwald'
+  - 'Thema 1: Akrobaten und Meister im Springen: Die Affen'
+  - 'Thema 1: Der Pfeilgiftfrosch'
+  - 'Thema 1: Wer ist der König des Regenwaldes?'
+  - 'Thema 1: Was sind Termiten?'
+  - 'Thema 1: Die Blattschneiderameisen'
+  - 'Thema 1: Wo befinden sich die Regenwälder?'
+  - 'Thema 1: Menschenleben im Regenwald?'
+  - 'Thema 1: Warum vernichten die Menschen den Regenwald?'
+  - 'Thema 1: Viele Bodenschätze'
+  - 'Thema 2: Wüsten'
+  - 'Thema 2: Was ist eine Wüste?'
+  - 'Thema 2: Entstehung der Wüste'
+  - 'Thema 2: Die Fläche der Wüsten'
+  - 'Thema 2: Wie entsteht eine trocken Wüste?'
+  - 'Thema 2: Was ist eine Oase?'
+  - 'Thema 2: Pflanzen in der Wüste'
+  - 'Thema 2: Der Kaktus'
+  - 'Thema 2: Die Tiere der Wüste'
+  - 'Thema 2: Fähigkeiten der Wüstentiere'
+  - 'Thema 2: Wieso sind die Nächte so kalt in den Wüsten?'
+  - 'Thema 2: Was sind Wanderdünen?'
+  - 'Thema 2: Die Nomaden'
+  - 'Thema 2: Die Stämme der Wüste'
+  - 'Thema 2: Was versteht man unter der Desertifikation?'
   ids: []

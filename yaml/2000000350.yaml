@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Hilfe für die Tierpension
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,14 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/hilfe-fur-die-tierpension/
   shop-id: 9de4db5f-57de-4d02-9559-81d01b8f2ddf
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Findelkater Tom
+  - Herbie und Bello
+  - Lüge und Wahrheit
+  - Die alte Hannah
+  - Herr Moser mosert
+  - Die Schuppen-Lösung
+  - Gemeine Sabotage!
+  - Ein unverhofftes Ende
   ids: []

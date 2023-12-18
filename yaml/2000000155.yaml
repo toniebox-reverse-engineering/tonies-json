@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Das Schmusekätzchen
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,15 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/das-schmusekatzchen/
   shop-id: b1c5b78d-fdbd-4b07-a816-b6396ae7a854
-  track-desc: []
+  track-desc:
+  - Titellied
+  - Ein niedlicher Besuch
+  - Kleine Katastrophen
+  - Kätzchen entlaufen!
+  - Eine Nacht im Schuppen
+  - Barbaras Verbot
+  - Hilfe, eine Maus!
+  - Leo und Susi
+  - Wo ist Schmusi?
+  - Wieder zu Hause
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Das wilde Fohlen
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/das-wilde-fohlen/
   shop-id: 8356cd91-4d67-4eed-8517-319268404c5d
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Wettreiten durch die Puszta
+  - Ramóna Almássy
+  - Das Fohlen Milan
+  - Frische Langos
+  - Mikosch flippt aus
+  - Wo ist das Fohlen
+  - Die Suche
+  - Bibi hext
+  - Überraschung im Stall
+  - Ausgebüxt und erwischt
+  - Milan spielt verrückt
+  - Späte Einsicht
+  - Extra- Mikosch und Janosch
   ids: []

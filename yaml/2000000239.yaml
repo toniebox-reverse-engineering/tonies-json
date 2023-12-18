@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Mamis Geburtstag
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,16 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/mamis-geburtstag/
   shop-id: bb06878d-b79f-4277-8876-f33925be651f
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Basteln für Mami -
+  - Frauen ins Rathaus
+  - Geburtstagsvorbereitungen
+  - Keine Hexkraft mehr
+  - Pichlers Urlaubsvertretung
+  - Der erste Arbeitstag
+  - Bibis Plan
+  - Eine wirkungsvolle Erfrischung
+  - Ein weiterer Plan
+  - Zwei Hexen und ein Papagei
   ids: []

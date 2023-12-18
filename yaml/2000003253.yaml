@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 8: Der Geist des Wasser'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,21 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/der-geist-des-wasser-das-original-aus-dem-fernsehe/
   shop-id: ff2bfa64-4d09-44a2-8df6-811cfdc501ac
-  track-desc: []
+  track-desc:
+  - Der Geist des Wassers - Teil 01
+  - Der Geist des Wassers - Teil 02
+  - Der Geist des Wassers - Teil 03
+  - Der Geist des Wassers - Teil 04
+  - Der Geist des Wassers - Teil 05
+  - Der Geist des Wassers - Teil 06
+  - Der Geist des Wassers - Teil 07
+  - Der Geist des Wassers - Teil 08
+  - Der Geist des Wassers - Teil 09
+  - Der Geist des Wassers - Teil 10
+  - Der Geist des Wassers - Teil 11
+  - Der Geist des Wassers - Teil 12
+  - Der Geist des Wassers - Teil 13
+  - Der Geist des Wassers - Teil 14
+  - Der Geist des Wassers - Teil 15
+  - Der Geist des Wassers - Teil 16
   ids: []

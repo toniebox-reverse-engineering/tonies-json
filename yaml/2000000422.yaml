@@ -4,9 +4,9 @@ data:
 - series: Der kleine Rabe Socke
   series-id: der-kleine-rabe-socke
   episode: Alles verschenkt!, Alles Winter!, Alles gebacken!, Alles taut!
-  release: 0
+  release: 1475107200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,33 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/der-kleine-rabe-socke/alles-verschenkt-alles-winter-alles-gebacken-alles/
   shop-id: 1f900b99-830a-4e8e-9e5d-4af07c4091dd
-  track-desc: []
+  track-desc:
+  - Alles verschenkt! - Kapitel 1
+  - Alles verschenkt! - Kapitel 2
+  - Alles verschenkt! - Kapitel 3
+  - Alles verschenkt! - Kapitel 4
+  - Alles verschenkt! - Kapitel 5
+  - Alles verschenkt! - Kapitel 6
+  - Alles verschenkt! - Kapitel 7
+  - Alles taut! - Kapitel 1
+  - Alles taut! - Kapitel 2
+  - Alles taut! - Kapitel 3
+  - Alles taut! - Kapitel 4
+  - Alles taut! - Kapitel 5
+  - Alles Winter! - Kapitel 1
+  - Alles Winter! - Kapitel 2
+  - Alles Winter! - Kapitel 3
+  - Alles Winter! - Kapitel 4
+  - Alles Winter! - Kapitel 5
+  - Alles Winter! - Kapitel 6
+  - Alles Winter! - Kapitel 7
+  - Alles gebacken! - Kapitel 1
+  - Alles gebacken! - Kapitel 2
+  - Alles gebacken! - Kapitel 3
+  - Alles gebacken! - Kapitel 4
+  - Alles gebacken! - Kapitel 5
+  - Alles gebacken! - Kapitel 6
+  - Alles gebacken! - Kapitel 7
+  - Alles gebacken! - Kapitel 8
+  - Alles gebacken! - Kapitel 9
   ids: []

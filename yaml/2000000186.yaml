@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Der verhexte Kalender
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,15 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/der-verhexte-kalender/
   shop-id: 7fff15ce-b479-4f12-be5d-fbe1d3b81a40
-  track-desc: []
+  track-desc:
+  - Bibi Song
+  - Die Überraschung
+  - Sylvester im Doppelpack
+  - Der Bürgermeister in Not
+  - Der Ehrengast
+  - Besuch aus der Zukunft
+  - Oberste Intelligenzstufe
+  - Die Zeit steht still
+  - Alles auf Anfang
+  - Endlich Neujahr !
   ids: []

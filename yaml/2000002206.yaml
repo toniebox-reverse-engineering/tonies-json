@@ -4,9 +4,9 @@ data:
 - series: Die kleine Schnecke Monika Häuschen
   series-id: die-kleine-schnecke-monika-haeuschen
   episode: Warum sind Raupen so verfressen?
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,37 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/die-kleine-schnecke-monika-haeuschen/warum-sind-raupen-so-verfressen/
   shop-id: 92ddad56-5e6f-4405-b495-6c6ba3d68f41
-  track-desc: []
+  track-desc:
+  - Die kleine Schnecke Monika Häuschen - Titellied
+  - Warum sind Raupen so verfressen? - Teil 01
+  - Warum sind Raupen so verfressen? - Teil 02
+  - Warum sind Raupen so verfressen? - Teil 03
+  - Warum sind Raupen so verfressen? - Teil 04
+  - Warum sind Raupen so verfressen? - Teil 05
+  - Warum sind Raupen so verfressen? - Teil 06
+  - Warum sind Raupen so verfressen? - Teil 07
+  - Warum sind Raupen so verfressen? - Teil 08
+  - Warum sind Raupen so verfressen? - Teil 09
+  - Warum sind Raupen so verfressen? - Teil 10
+  - Warum sind Raupen so verfressen? - Teil 11
+  - Warum sind Raupen so verfressen? - Teil 12
+  - Warum sind Raupen so verfressen? - Teil 13
+  - Warum sind Raupen so verfressen? - Teil 14
+  - Warum sind Raupen so verfressen? - Teil 15
+  - Warum sind Raupen so verfressen? - Teil 16
+  - Warum sind Raupen so verfressen? - Teil 17
+  - Warum sind Raupen so verfressen? - Teil 18
+  - Warum sind Raupen so verfressen? - Teil 19
+  - Warum sind Raupen so verfressen? - Teil 20
+  - Warum sind Raupen so verfressen? - Teil 21
+  - Warum sind Raupen so verfressen? - Teil 22
+  - Warum sind Raupen so verfressen? - Teil 23
+  - Warum sind Raupen so verfressen? - Teil 24
+  - Warum sind Raupen so verfressen? - Teil 25
+  - Warum sind Raupen so verfressen? - Teil 26
+  - Warum sind Raupen so verfressen? - Teil 27
+  - Warum sind Raupen so verfressen? - Teil 28
+  - Warum sind Raupen so verfressen? - Teil 29
+  - Warum sind Raupen so verfressen? - Teil 30
+  - Warum sind Raupen so verfressen? - Teil 31
   ids: []

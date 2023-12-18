@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: verliebt sich
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,17 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/verliebt-sich/
   shop-id: 03bb4d89-c93c-463a-a849-ac9b2f2e0f8f
-  track-desc: []
+  track-desc:
+  - Titellied
+  - Bibi vermisst Boris
+  - Hausmeister Müller
+  - Zum ersten mal verliebt
+  - Mami versteht
+  - Einfach abgeblitzt
+  - Auf Schönheit kommt`s nicht an
+  - Zurückweisung
+  - Die Liebeshexerei
+  - Die Eltern als Zeugen
+  - Verabredung zum Eisessen
+  - Bibi hilft beim Umzug
   ids: []

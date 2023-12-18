@@ -4,9 +4,9 @@ data:
 - series: PAW Patrol
   series-id: paw-patrol
   episode: 'Folgen 137-140: Das Kätzchen-Rettungsteam'
-  release: 0
+  release: 1619136000
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,28 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-137-140-das-katzchen-rettungsteam/
   shop-id: 682c3066-9e3a-46a4-a4fc-3401ca4701da
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Das Kätzchen-Rettungsteam (Folge 137)'
+  - 'Kapitel 02: Das Kätzchen-Rettungsteam (Folge 137)'
+  - 'Kapitel 03: Das Kätzchen-Rettungsteam (Folge 137)'
+  - 'Kapitel 04: Das Kätzchen-Rettungsteam (Folge 137)'
+  - 'Kapitel 05: Das Kätzchen-Rettungsteam (Folge 137)'
+  - 'Kapitel 06: Das Kätzchen-Rettungsteam (Folge 137)'
+  - 'Kapitel 07: Das Kätzchen-Rettungsteam (Folge 137)'
+  - 'Kapitel 01: Oskar, der Strauss (Folge 138)'
+  - 'Kapitel 02: Oskar, der Strauss (Folge 138)'
+  - 'Kapitel 03: Oskar, der Strauss (Folge 138)'
+  - 'Kapitel 04: Oskar, der Strauss (Folge 138)'
+  - 'Kapitel 05: Oskar, der Strauss (Folge 138)'
+  - 'Kapitel 01: Riesen-Tatze (Folge 139)'
+  - 'Kapitel 02: Riesen-Tatze (Folge 139)'
+  - 'Kapitel 03: Riesen-Tatze (Folge 139)'
+  - 'Kapitel 04: Riesen-Tatze (Folge 139)'
+  - 'Kapitel 05: Riesen-Tatze (Folge 139)'
+  - 'Kapitel 01: Der Besserwisser-Roller (Folge 140)'
+  - 'Kapitel 02: Der Besserwisser-Roller (Folge 140)'
+  - 'Kapitel 03: Der Besserwisser-Roller (Folge 140)'
+  - 'Kapitel 04: Der Besserwisser-Roller (Folge 140)'
+  - 'Kapitel 05: Der Besserwisser-Roller (Folge 140)'
+  - 'Kapitel 06: Der Besserwisser-Roller (Folge 140)'
   ids: []

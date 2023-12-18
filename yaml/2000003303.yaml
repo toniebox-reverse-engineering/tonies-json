@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 58: Pumuckl soll Ordnung lernen'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-soll-ordnung-lernen-das-original-aus-dem-f/
   shop-id: fc9d0622-0fa0-446c-847e-e0d1075c9fa9
-  track-desc: []
+  track-desc:
+  - Pumuckl soll Ordnung lernen - Teil 01
+  - Pumuckl soll Ordnung lernen - Teil 02
+  - Pumuckl soll Ordnung lernen - Teil 03
+  - Pumuckl soll Ordnung lernen - Teil 04
+  - Pumuckl soll Ordnung lernen - Teil 05
+  - Pumuckl soll Ordnung lernen - Teil 06
+  - Pumuckl soll Ordnung lernen - Teil 07
+  - Pumuckl soll Ordnung lernen - Teil 08
+  - Pumuckl soll Ordnung lernen - Teil 09
+  - Pumuckl soll Ordnung lernen - Teil 10
+  - Pumuckl soll Ordnung lernen - Teil 11
+  - Pumuckl soll Ordnung lernen - Teil 12
+  - Pumuckl soll Ordnung lernen - Teil 13
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Unsere Erde / Vulkane
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,28 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/unsere-erde-vulkane/
   shop-id: ed169b9c-75f8-4461-8f6f-ebcb8198d3c6
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Unsere Erde'
+  - 'Thema 1: Der blaue Planet'
+  - 'Thema 1: Was ist der Äquator?'
+  - 'Thema 1: Der Kontinent Europa'
+  - 'Thema 1: Aufbau der Erde'
+  - 'Thema 1: Amerika'
+  - 'Thema 1: Welcher Teil der Erde ist am kältesten?'
+  - 'Thema 2: Vulkane'
+  - 'Thema 2: Was sind Vulkane?'
+  - 'Thema 2: Schlafender Vulkan'
+  - 'Thema 2: Anzeichen für einen Vulkanausbruch'
+  - 'Thema 2: Der Vulkanausbruch'
+  - 'Thema 2: Wieso bricht ein Vulkan aus?'
+  - 'Thema 2: Gewaltige Mengen an Magma'
+  - 'Thema 2: Begraben durch Asche'
+  - 'Thema 2: Keine Chance zum fliehen'
+  - 'Thema 2: Der Vesuv'
+  - 'Thema 2: Wie tritt die Lava aus dem Vulkan aus?'
+  - 'Thema 2: Können Vulkane nützlich sein?'
+  - 'Thema 2: Absteigen in die tiefen des Vulkans'
+  - 'Thema 2: Forschungen im Vulkan'
+  - 'Thema 2: Erschreckende Erkenntnis'
+  - 'Thema 2: Kann man einen Vulkanausbruch verhindern?'
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Allein im Schloss
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/allein-im-schloss/
   shop-id: a69ff295-16c8-4d59-8a87-2b5dc8c6098d
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Alexanders Absage
+  - Besuch auf dem Schloss
+  - Die Halloween-Idee
+  - Absage an Freddy
+  - Der Ritter ohne Kopf
+  - Aus Spass wird Ernst
+  - Wo sind die Pferde
+  - Freddy und Theresa
+  - Tief unter dem Schloss
+  - Der Graf kehrt zurück
+  - Zu Hilfe!
+  - Der Beweis
   ids: []

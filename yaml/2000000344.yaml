@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Falsches Spiel mit Alex
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/falsches-spiel-mit-alex/
   shop-id: 74dac181-1897-4308-845c-d4f3166b20c7
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Blaublütige Überraschung
+  - Elisabeth von Thurm
+  - Verwirrter Graf
+  - Eine blöde Bemerkung
+  - Tina ist verunsichert
+  - Hartnäckige Elisabeth
+  - Alex wird bezirzt
+  - Falsches Spiel
+  - Der Bruch
+  - Auf der ersten Etappe
+  - Provokationen
+  - Bella büxt aus
+  - Doppelte Versöhnung
   ids: []

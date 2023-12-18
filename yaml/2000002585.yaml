@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Bienen und Natur / Welt der Ameisen
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,46 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/bienen-und-natur-welt-der-ameisen/
   shop-id: 69b943b0-725f-4fa9-b34c-09d925b02d0e
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Bienen und Natur'
+  - 'Thema 1: Pflanzennektar und Bienenspucke'
+  - 'Thema 1: Die Honigbiene'
+  - 'Thema 1: Wie Bienen sehen'
+  - 'Thema 1: Vielseitige Antennen'
+  - 'Thema 1: Noch mehr Bienensinne'
+  - 'Thema 1: Blüten und ihre Ladenzeiten'
+  - 'Thema 1: Das Bienenvolk'
+  - 'Thema 1: Ein Bienenvolk schwärmt aus'
+  - 'Thema 1: Ein Bienenvolk einfangen'
+  - 'Thema 1: Schöne Sechsecke bauen'
+  - 'Thema 1: Die Königin legt Eier'
+  - 'Thema 1: Gelée Royale - königliches Futter'
+  - 'Thema 1: Der Innendienst beginnt'
+  - 'Thema 1: Leckeres Bienenbrot'
+  - 'Thema 1: Füttern, bauen, bewachen und endlich sammeln'
+  - 'Thema 1: Der Schwänzeltanz'
+  - 'Thema 1: Aus Nektar wird Honig'
+  - 'Thema 1: Gut, dass es Bienen gibt'
+  - 'Thema 1: Superbienen'
+  - 'Thema 2: Welt der Ameisen'
+  - 'Thema 2: Ameisenalarm - flügellose Wespen'
+  - 'Thema 2: Kopf, Brust und Po'
+  - 'Thema 2: Starke Kiefer, starke Füße'
+  - 'Thema 2: Sehen und Fühlen'
+  - 'Thema 2: Keine Ohren, oh weh!'
+  - 'Thema 2: Die Rote Waldameise'
+  - 'Thema 2: Das Ameisennest'
+  - 'Thema 2: Die Königin'
+  - 'Thema 2: Der Hochzeitsflug'
+  - 'Thema 2: Auf zur Futtersuche'
+  - 'Thema 2: Faulsein muss auch sein'
+  - 'Thema 2: Ameisen, die sich Haustiere halten'
+  - 'Thema 2: Räuberische Ameisen'
+  - 'Thema 2: Wanderameisen im Dschungel'
+  - 'Thema 2: Auf Beutezug'
+  - 'Thema 2: Urwald-Pflaster'
+  - 'Thema 2: Feuerameisen'
+  - 'Thema 2: Blattschneiderameisen'
+  - 'Thema 2: Buckelfliegen-Alaaaaarm!'
+  - 'Thema 2: Pilzzucht'
   ids: []

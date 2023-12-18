@@ -4,9 +4,9 @@ data:
 - series: Felix
   series-id: felix
   episode: Abenteuerliche Briefe von Felix
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-book-songs
   runtime: 0
   age: 5
   origin: tunes
@@ -14,5 +14,40 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/felix/abenteuerliche-briefe-von-felix/
   shop-id: 41d63d97-bcb0-4018-9d2b-1c34e8005f3f
-  track-desc: []
+  track-desc:
+  - Briefe von Felix
+  - Felix fliegt davon - Teil 01
+  - Felix fliegt davon - Teil 02
+  - Felix fliegt davon - Teil 03
+  - Felix fliegt davon - Teil 04
+  - Felix fliegt davon - Teil 05
+  - Felix fliegt davon - Teil 06
+  - Felix fliegt davon - Teil 07
+  - Felix fliegt davon - Teil 08
+  - Felix fliegt davon - Teil 09
+  - Im Planetarium
+  - Astronaut Felix landet auf dem Mond - Teil 01
+  - Astronaut Felix landet auf dem Mond - Teil 02
+  - Felix in der Mondrakete
+  - Astronaut Felix landet auf dem Mond - Teil 03
+  - Am Nordpol - Teil 01
+  - Am Nordpol - Teil 02
+  - Am Nordpol - Teil 03
+  - Ein Pinguin
+  - Am Nordpol - Teil 04
+  - Felix in der Karibik - Teil 01
+  - Felix in der Karibik - Teil 02
+  - Unter Wasser
+  - Felix in der Karibik - Teil 03
+  - Felix erforscht den Regenwald - Teil 01
+  - Felix erforscht den Regenwald - Teil 02
+  - Felix erforscht den Regenwald - Teil 03
+  - Im Regenwald
+  - Felix erforscht den Regenwald - Teil 04
+  - Felix in Australien - Teil 01
+  - Felix in Australien - Teil 02
+  - Felix in Australien - Teil 03
+  - Känguru
+  - Felix in Australien - Teil 04
+  - Felix in Australien - Teil 05
   ids: []

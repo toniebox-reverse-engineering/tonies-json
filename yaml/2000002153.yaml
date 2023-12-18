@@ -4,9 +4,9 @@ data:
 - series: Conni
   series-id: conni
   episode: Conni und die verflixte 13
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
@@ -14,5 +14,45 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/conni/conni-und-die-verflixte-13/
   shop-id: a2f7c698-31df-43fe-8d94-4703d132db9a
-  track-desc: []
+  track-desc:
+  - Meine beste Freundin Conni
+  - Conni und die verflixte 13 - Teil 01
+  - Conni und die verflixte 13 - Teil 02
+  - Conni und die verflixte 13 - Teil 03
+  - Conni und die verflixte 13 - Teil 04
+  - Conni und die verflixte 13 - Teil 05
+  - Conni und die verflixte 13 - Teil 06
+  - Conni und die verflixte 13 - Teil 07
+  - Conni und die verflixte 13 - Teil 08
+  - Conni und die verflixte 13 - Teil 09
+  - Conni und die verflixte 13 - Teil 10
+  - Conni und die verflixte 13 - Teil 11
+  - Conni und die verflixte 13 - Teil 12
+  - Conni und die verflixte 13 - Teil 13
+  - Conni und die verflixte 13 - Teil 14
+  - Conni und die verflixte 13 - Teil 15
+  - Conni und die verflixte 13 - Teil 16
+  - Conni und die verflixte 13 - Teil 17
+  - Conni und die verflixte 13 - Teil 18
+  - Conni und die verflixte 13 - Teil 19
+  - Conni und die verflixte 13 - Teil 20
+  - Conni und die verflixte 13 - Teil 21
+  - Conni und die verflixte 13 - Teil 22
+  - Conni und die verflixte 13 - Teil 23
+  - Conni und die verflixte 13 - Teil 24
+  - Conni und die verflixte 13 - Teil 25
+  - Conni und die verflixte 13 - Teil 26
+  - Conni und die verflixte 13 - Teil 27
+  - Conni und die verflixte 13 - Teil 28
+  - Conni und die verflixte 13 - Teil 29
+  - Conni und die verflixte 13 - Teil 30
+  - Conni und die verflixte 13 - Teil 31
+  - Conni und die verflixte 13 - Teil 32
+  - Conni und die verflixte 13 - Teil 33
+  - Conni und die verflixte 13 - Teil 34
+  - Conni und die verflixte 13 - Teil 35
+  - Conni und die verflixte 13 - Teil 36
+  - Conni und die verflixte 13 - Teil 37
+  - Conni und die verflixte 13 - Teil 38
+  - Meine beste Freundin Conni
   ids: []

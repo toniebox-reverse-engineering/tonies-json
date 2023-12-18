@@ -4,9 +4,9 @@ data:
 - series: Conni
   series-id: conni
   episode: Conni und der Dinoknochen
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
@@ -14,5 +14,45 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/conni/conni-und-der-dinoknochen/
   shop-id: 6f7ab5c9-c64c-479b-8322-5b65b5a8ea62
-  track-desc: []
+  track-desc:
+  - Meine beste Freundin Conni
+  - Conni und der Dinoknochen - Teil 01
+  - Conni und der Dinoknochen - Teil 02
+  - Conni und der Dinoknochen - Teil 03
+  - Conni und der Dinoknochen - Teil 04
+  - Conni und der Dinoknochen - Teil 05
+  - Conni und der Dinoknochen - Teil 06
+  - Conni und der Dinoknochen - Teil 07
+  - Conni und der Dinoknochen - Teil 08
+  - Conni und der Dinoknochen - Teil 09
+  - Conni und der Dinoknochen - Teil 10
+  - Conni und der Dinoknochen - Teil 11
+  - Conni und der Dinoknochen - Teil 12
+  - Conni und der Dinoknochen - Teil 13
+  - Conni und der Dinoknochen - Teil 14
+  - Conni und der Dinoknochen - Teil 15
+  - Conni und der Dinoknochen - Teil 16
+  - Conni und der Dinoknochen - Teil 17
+  - Conni und der Dinoknochen - Teil 18
+  - Conni und der Dinoknochen - Teil 19
+  - Conni und der Dinoknochen - Teil 20
+  - Conni und der Dinoknochen - Teil 21
+  - Conni und der Dinoknochen - Teil 22
+  - Conni und der Dinoknochen - Teil 23
+  - Conni und der Dinoknochen - Teil 24
+  - Conni und der Dinoknochen - Teil 25
+  - Conni und der Dinoknochen - Teil 26
+  - Conni und der Dinoknochen - Teil 27
+  - Conni und der Dinoknochen - Teil 28
+  - Conni und der Dinoknochen - Teil 29
+  - Conni und der Dinoknochen - Teil 30
+  - Conni und der Dinoknochen - Teil 31
+  - Conni und der Dinoknochen - Teil 32
+  - Conni und der Dinoknochen - Teil 33
+  - Conni und der Dinoknochen - Teil 34
+  - Conni und der Dinoknochen - Teil 35
+  - Conni und der Dinoknochen - Teil 36
+  - Conni und der Dinoknochen - Teil 37
+  - Conni und der Dinoknochen - Teil 38
+  - Meine beste Freundin Conni
   ids: []

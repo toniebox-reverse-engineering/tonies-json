@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Naturgewalten / Luft und Wasser
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,27 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/naturgewalten-luft-und-wasser/
   shop-id: 71f5d8be-9fff-42f1-b70e-d3c42f7881c8
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Einleitung Naturgewalten'
+  - 'Thema 1: Was sind Naturkatastrophen?'
+  - 'Thema 1: Was versteht man unter einem Wirbelsturm?'
+  - 'Thema 1: Tornado'
+  - 'Thema 1: Wie entstehen Erdbeben?'
+  - 'Thema 1: Durch Instrumente ein Erdbeben feststellen'
+  - 'Thema 1: Tsunami'
+  - 'Thema 1: Wie kommt es zu Überschwemmungen?'
+  - 'Thema 1: Die Magmakammern'
+  - 'Thema 1: Der Vulkanausbruch'
+  - 'Thema 2: Einleitung Luft und Wasser'
+  - 'Thema 2: Die Luft'
+  - 'Thema 2: Das Wasser'
+  - 'Thema 2: Die Gase der Luft'
+  - 'Thema 2: Was sind Moleküle?'
+  - 'Thema 2: Was versteht man unter Atomen?'
+  - 'Thema 2: Der Wasserdampf'
+  - 'Thema 2: Die Anomalie des Wassers'
+  - 'Thema 2: Wie entstehen Wolken?'
+  - 'Thema 2: Die Atmosphäre'
+  - 'Thema 2: Das Gewicht der Luft'
+  - 'Thema 2: Die Photosynthese'
   ids: []
