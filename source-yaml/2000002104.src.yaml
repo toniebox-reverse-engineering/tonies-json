@@ -4,9 +4,9 @@ data:
 - series: ''
   series-id: ''
   episode: ''
-  release: ''
+  release: tonies-shopapi-de-de,
   language: ''
-  category: tonies-shopapi-de-de,
+  category: ''
   runtime: ''
   age: ''
   origin: ''
@@ -14,5 +14,5 @@ data:
   sample: ''
   web: ''
   shop-id: ''
-  track-desc: tonies-shopapi-de-de,
+  track-desc: ''
   ids: []

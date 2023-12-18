@@ -4,15 +4,15 @@ data:
 - series: ''
   series-id: ''
   episode: ''
-  release: ''
+  release: tonies-shopapi-de-de,
   language: ''
-  category: ''
+  category: tonies-shopapi-de-de,
   runtime: ''
-  age: tonies-shopapi-de-de,,
+  age: ''
   origin: ''
   image: ''
   sample: ''
   web: ''
   shop-id: ''
-  track-desc: ''
+  track-desc: tonies-shopapi-de-de,
   ids: []
