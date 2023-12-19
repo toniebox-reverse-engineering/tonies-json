@@ -4,9 +4,9 @@ data:
 - series: Die unendliche Geschichte
   series-id: die-unendliche-geschichte
   episode: 'Teil 3: Die Reise zum Elfenbeinturm'
-  release: 0
+  release: 1666224000
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 10
   origin: tunes
@@ -14,5 +14,14 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/die-unendliche-geschichte/die-unendliche-geschichte-3/
   shop-id: ace5305c-4855-4f17-a246-6dc72029ee9d
-  track-desc: []
+  track-desc:
+  - Auf dem Weg zum Elfenbeinturm
+  - Die Botschaft von Xayide
+  - Der Gürtel Gémmal
+  - Die Schlacht um den Elfenbeinturm
+  - Die alte Kaiserstadt
+  - Dame Aiuóla
+  - Das Wasser des Lebens
+  - Bastian ist wieder zurück
+  - Im Buchladen
   ids: []

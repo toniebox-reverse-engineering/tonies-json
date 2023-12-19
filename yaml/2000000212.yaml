@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Die verhexte Hitparade
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/die-verhexte-hitparade/
   shop-id: bdd81372-e34b-4bc9-affd-a909fd443862
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Bibi wird entdeckt
+  - Nach Hause
+  - Hexerei im Studio
+  - Bibi singt
+  - Papi spielt sich auf
+  - Ehrgeizige Pläne
+  - Gesangsunterricht
+  - Bibi ist sauer
+  - Vor dem großen Auftritt
+  - Rockröhre Bibi
+  - Bibis Pop-Song
+  - Keine Lust aufs Berühmtsein
   ids: []

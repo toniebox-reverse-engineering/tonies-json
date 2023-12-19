@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Das Reitturnier
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/das-reitturnier/
   shop-id: a6a4a473-4b40-4bc0-a2eb-020a50760dd0
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Einladung auf den Martinshof
+  - Blick  in die Zukunft
+  - Schlechte Nachricht
+  - Zickige Cornelia
+  - Hexerei auf dem Übungsplatz
+  - Karla Kolumna kommt
+  - Strenge Frau Martin
+  - Dicke Luft
+  - Ein spannendes Turnier
+  - Live-Reportage
+  - Sabrina fliegt, Tina siegt
+  - Disqualifikation
   ids: []

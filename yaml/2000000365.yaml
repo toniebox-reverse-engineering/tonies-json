@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Wildgänse-Alarm
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/wildganse-alarm/
   shop-id: 63ff062a-061f-4ba9-acfa-50d4d6e73a3a
-  track-desc: []
+  track-desc:
+  - Titelsong-01
+  - Die Wildgänse sind da!-02
+  - Holzfällen schwer gemacht-03
+  - Der lärmende Bauer-04
+  - Die verletzte Gans-05
+  - Alexander setzt sich durch-06
+  - Beim Tierarzt-07
+  - Ein Platz für Milla-08
+  - Die Gänse-Konferenz-09
+  - Das Wildgänse-Sanatorium-10
+  - Gänserich-Attacken-11
+  - Milla wird gesund-12
+  - Extra
   ids: []

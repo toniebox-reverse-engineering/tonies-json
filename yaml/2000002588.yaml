@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Essen der Zukunft / Was die Welt isst
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,38 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/essen-der-zukunft-was-die-welt-isst/
   shop-id: 89713f7c-e756-4338-b7e1-c368b85adf31
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Essen der Zukunft - Intro'
+  - 'Thema 1: Essen früher und heute'
+  - 'Thema 1: Pommes-Skandal!'
+  - 'Thema 1: Essen in der Steinzeit'
+  - 'Thema 1: Immer mehr Menschen'
+  - 'Thema 1: Weshalb ist weniger Fleisch gut?'
+  - 'Thema 1: Essen aus dem Labor'
+  - 'Thema 1: Mahlzeit aus dem 3-D-Drucker'
+  - 'Thema 1: Testessen'
+  - 'Thema 1: Bessere Pflanzen mit Gentechnik?'
+  - 'Thema 1: Käfer statt Kühe'
+  - 'Thema 1: Frittierte Heuschrecken & Wurmkräcker'
+  - 'Thema 1: Lecker Algen'
+  - 'Thema 1: Projekt Grünes Steak'
+  - 'Thema 1: Landwirtschaft im Hochhaus'
+  - 'Thema 2: Was die Welt isst - Intro'
+  - 'Thema 2: Warum müssen wir essen?'
+  - 'Thema 2: Kochen, braten, backen'
+  - 'Thema 2: Gemeinsam Essen macht Spaß'
+  - 'Thema 2: Religiöse Essensregeln'
+  - 'Thema 2: Einwanderungsland USA: bunte Küche'
+  - 'Thema 2: American Breakfast'
+  - 'Thema 2: Fast Food - schnelles Essen'
+  - 'Thema 2: Bei den Inuit: nur Rohfleischkost'
+  - 'Thema 2: Jäger im Eis'
+  - 'Thema 2: Robbenjagd'
+  - 'Thema 2: Australiens Ureinwohner'
+  - 'Thema 2: Aborigines: Essen finden im Busch'
+  - 'Thema 2: Leckere Maden, süsse Ameisen'
+  - 'Thema 2: Sushi, die japanische Essensspezialität'
+  - 'Thema 2: Algen und mehr aus dem Meer'
+  - 'Thema 2: Verrückte Klebebohnen'
+  - 'Thema 2: Monsieur Mangetout, Michel Lolito'
   ids: []

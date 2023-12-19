@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 44: Pumuckl und das eigene Zimmer'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,21 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-und-das-eigene-zimmer-das-original-aus-dem/
   shop-id: fcb8b98e-d297-4ebc-be28-6b35da0c6c8c
-  track-desc: []
+  track-desc:
+  - Pumuckl und das eigene Zimmer - Teil 01
+  - Pumuckl und das eigene Zimmer - Teil 02
+  - Pumuckl und das eigene Zimmer - Teil 03
+  - Pumuckl und das eigene Zimmer - Teil 04
+  - Pumuckl und das eigene Zimmer - Teil 05
+  - Pumuckl und das eigene Zimmer - Teil 06
+  - Pumuckl und das eigene Zimmer - Teil 07
+  - Pumuckl und das eigene Zimmer - Teil 08
+  - Pumuckl und das eigene Zimmer - Teil 09
+  - Pumuckl und das eigene Zimmer - Teil 10
+  - Pumuckl und das eigene Zimmer - Teil 11
+  - Pumuckl und das eigene Zimmer - Teil 12
+  - Pumuckl und das eigene Zimmer - Teil 13
+  - Pumuckl und das eigene Zimmer - Teil 14
+  - Pumuckl und das eigene Zimmer - Teil 15
+  - Pumuckl und das eigene Zimmer - Teil 16
   ids: []

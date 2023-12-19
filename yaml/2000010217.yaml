@@ -4,9 +4,9 @@ data:
 - series: Ralph Ruthe
   series-id: ralph-ruthe
   episode: 'DIE HNO-WG: Drei Detektive und ein verschwundener Graf'
-  release: 0
+  release: 1687910400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 7
   origin: tunes
@@ -14,5 +14,14 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/ralph-ruthe/die-hno-wg-drei-detektive-und-ein-verschwundener-g/
   shop-id: 2b126205-d140-427d-abe2-cbe82efd4db5
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: DIE HNO-WG: Drei Detektive und ein verschwundener Graf'
+  - 'Kapitel 02: DIE HNO-WG: Drei Detektive und ein verschwundener Graf'
+  - 'Kapitel 03: DIE HNO-WG: Drei Detektive und ein verschwundener Graf'
+  - 'Kapitel 04: DIE HNO-WG: Drei Detektive und ein verschwundener Graf'
+  - 'Kapitel 05: DIE HNO-WG: Drei Detektive und ein verschwundener Graf'
+  - 'Kapitel 06: DIE HNO-WG: Drei Detektive und ein verschwundener Graf'
+  - 'Kapitel 07: DIE HNO-WG: Drei Detektive und ein verschwundener Graf'
+  - 'Kapitel 08: DIE HNO-WG: Drei Detektive und ein verschwundener Graf'
+  - 'Kapitel 09: DIE HNO-WG: Drei Detektive und ein verschwundener Graf'
   ids: []

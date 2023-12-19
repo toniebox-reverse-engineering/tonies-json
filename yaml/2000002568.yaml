@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Erfindungen / Bionik
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,30 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/erfindungen-bionik/
   shop-id: 5e92b6d9-9a69-4fa2-a248-0e4bf36ad2d3
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Einführung Erfindungen'
+  - 'Thema 1: Entdeckungen'
+  - 'Thema 1: Erfindungen'
+  - 'Thema 1: Draisine'
+  - 'Thema 1: Da Vinci'
+  - 'Thema 1: Feuer'
+  - 'Thema 1: Rad'
+  - 'Thema 1: Karren'
+  - 'Thema 1: Schrift'
+  - 'Thema 1: Buchdruck'
+  - 'Thema 1: Rechenmaschine'
+  - 'Thema 1: MP3'
+  - 'Thema 1: Perpetuum Mobile'
+  - 'Thema 2: Einführung Bionik'
+  - 'Thema 2: Vogelflug'
+  - 'Thema 2: Spinnenfäden'
+  - 'Thema 2: Klettverschluss'
+  - 'Thema 2: Lotusblume 1'
+  - 'Thema 2: Lotusblume 2'
+  - 'Thema 2: Haihaut 1'
+  - 'Thema 2: Haihaut 2'
+  - 'Thema 2: Pinguine'
+  - 'Thema 2: Adler'
+  - 'Thema 2: Evolution'
+  - 'Thema 2: Laufbewegung'
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Wo ist Kartoffelbrei?
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,15 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/wo-ist-kartoffelbrei/
   shop-id: 516d443c-77a0-40a9-9a70-17c8dfd55477
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Hexenkaffeeklatsch
+  - Ein Missgeschick mit Folgen
+  - Wo ist Kartoffelbrei -
+  - Ohne jede Spur
+  - Flugversuche
+  - Zu Besuch bei Mania
+  - Zwölf Besen
+  - El Flitzo
+  - Wieder vereint
   ids: []

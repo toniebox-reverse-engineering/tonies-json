@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Die Weihnachtsmänner
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,17 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/die-weihnachtsmanner/
   shop-id: 80927794-ec6f-48b1-9602-7fed225c9e63
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Volles Haus bei Blocksbergs
+  - Weihnachten in Gefahr
+  - Bibis Entscheidung
+  - Ein geheimer Ort
+  - Niesende Weihnachtsmänner
+  - Bibis Erkältungskur
+  - Aufräumen
+  - Karla fliegt zum Nordpol
+  - Da liegt Kartoffelbrei
+  - Im Rentierschlitten
+  - Ein fröhliches Fest
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Expedition zum Mars / Kometen und Asteroiden
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,46 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/expedition-zum-mars-kometen-und-asteroiden/
   shop-id: 1b59ef77-26ca-4bbc-afd4-b0dbc1f62cd2
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Expedition zum Mars'
+  - 'Thema 1: Mumps und ansteckender Schluckauf'
+  - 'Thema 1: Große und kleine Marsraumschiffe'
+  - 'Thema 1: Die Ersatz-Ersatz-Mannschaft'
+  - 'Thema 1: Vierter Planet des Sonnensystems'
+  - 'Thema 1: Der Rote Planet'
+  - 'Thema 1: Keine Kanäle, dafür zwei Monde'
+  - 'Thema 1: Marssonden'
+  - 'Thema 1: Astronautentraining'
+  - 'Thema 1: Der Start'
+  - 'Thema 1: Unterwegs zum Mars'
+  - 'Thema 1: Probleme im All'
+  - 'Thema 1: Von Robotern und Astronauten'
+  - 'Thema 1: Im Marsorbit'
+  - 'Thema 1: Der Abstieg zur Marsoberfläche'
+  - 'Thema 1: Sich an den Mars gewöhnen'
+  - 'Thema 1: Die Marsatmosphäre'
+  - 'Thema 1: Alles so rot'
+  - 'Thema 1: Das neue Zuhause'
+  - 'Thema 1: Alltag auf dem Mars'
+  - 'Thema 1: Unterwegs mit dem Rover'
+  - 'Thema 1: Proben nehmen und Löcher bohren'
+  - 'Thema 1: Marstomaten'
+  - 'Thema 1: Zurück zur Erde'
+  - 'Thema 2: Kometen und Asteroiden'
+  - 'Thema 2: Kursänderung zum Asteroiden'
+  - 'Thema 2: Woher stammen Asteroiden?'
+  - 'Thema 2: Doppelasteroiden und Asteroidenmonde'
+  - 'Thema 2: Weltraumspaziergang'
+  - 'Thema 2: Bergbau im Weltall'
+  - 'Thema 2: Der Komet'
+  - 'Thema 2: Schmutzige Schneebälle'
+  - 'Thema 2: Wo die Kometen herkommen'
+  - 'Thema 2: Staubproben'
+  - 'Thema 2: Mission »Rosetta«'
+  - 'Thema 2: Es könnte heiß werden'
+  - 'Thema 2: Meteoroiden, Meteore und Meteoriten'
+  - 'Thema 2: Gefahr aus dem All'
+  - 'Thema 2: Meteoriten finden'
+  - 'Thema 2: Erdnahe Objekte'
+  - 'Thema 2: Konfettiparade'
   ids: []

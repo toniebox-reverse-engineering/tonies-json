@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 54: Pumuckl und die Katze'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,24 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-und-die-katze-das-original-aus-dem-fernseh/
   shop-id: 9e14d238-1c2d-4b6b-b459-2c8bdfdffb15
-  track-desc: []
+  track-desc:
+  - Pumuckl und die Katze - Teil 01
+  - Pumuckl und die Katze - Teil 02
+  - Pumuckl und die Katze - Teil 03
+  - Pumuckl und die Katze - Teil 04
+  - Pumuckl und die Katze - Teil 05
+  - Pumuckl und die Katze - Teil 06
+  - Pumuckl und die Katze - Teil 07
+  - Pumuckl und die Katze - Teil 08
+  - Pumuckl und die Katze - Teil 09
+  - Pumuckl und die Katze - Teil 10
+  - Pumuckl und die Katze - Teil 11
+  - Pumuckl und die Katze - Teil 12
+  - Pumuckl und die Katze - Teil 13
+  - Pumuckl und die Katze - Teil 14
+  - Pumuckl und die Katze - Teil 15
+  - Pumuckl und die Katze - Teil 16
+  - Pumuckl und die Katze - Teil 17
+  - Pumuckl und die Katze - Teil 18
+  - Pumuckl und die Katze - Teil 19
   ids: []

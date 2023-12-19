@@ -5,9 +5,9 @@ data:
   series-id: meine-freundin-conni
   episode: Conni lernt reiten / Conni am Strand / Conni in den Bergen / Conni macht
     Musik (Vier Hörspiele zur TV-Serie)
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -15,5 +15,43 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/meine-freundin-conni/conni-lernt-reiten-conni-am-strand-conni-in-den-be/
   shop-id: cfda3a86-1a5b-4d50-8377-bfe740ec62a7
-  track-desc: []
+  track-desc:
+  - Intro Theme Song "Meine Freundin Conni"
+  - Conni lernt reiten - Teil 01
+  - Conni lernt reiten - Teil 02
+  - Conni lernt reiten - Teil 03
+  - Conni lernt reiten - Teil 04
+  - Conni lernt reiten - Teil 05
+  - Conni lernt reiten - Teil 06
+  - Conni lernt reiten - Teil 07
+  - Conni lernt reiten - Teil 08
+  - Conni lernt reiten - Teil 09
+  - Conni am Strand - Teil 01
+  - Conni am Strand - Teil 02
+  - Conni am Strand - Teil 03
+  - Conni am Strand - Teil 04
+  - Conni am Strand - Teil 05
+  - Conni am Strand - Teil 06
+  - Conni am Strand - Teil 07
+  - Conni am Strand - Teil 08
+  - Conni am Strand - Teil 09
+  - Conni am Strand - Teil 10
+  - Conni in den Bergen - Teil 01
+  - Conni in den Bergen - Teil 02
+  - Conni in den Bergen - Teil 03
+  - Conni in den Bergen - Teil 04
+  - Conni in den Bergen - Teil 05
+  - Conni in den Bergen - Teil 06
+  - Conni in den Bergen - Teil 07
+  - Conni in den Bergen - Teil 08
+  - Conni in den Bergen - Teil 09
+  - Conni macht Musik - Teil 01
+  - Conni macht Musik - Teil 02
+  - Conni macht Musik - Teil 03
+  - Conni macht Musik - Teil 04
+  - Conni macht Musik - Teil 05
+  - Conni macht Musik - Teil 06
+  - Conni macht Musik - Teil 07
+  - Conni macht Musik - Teil 08
+  - Conni macht Musik - Teil 09
   ids: []

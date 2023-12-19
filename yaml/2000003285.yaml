@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 40: Pumuckl wird reich'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,25 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-wird-reich-das-original-aus-dem-fernsehen/
   shop-id: 30490e6e-fe72-4736-ab7f-a67d56993710
-  track-desc: []
+  track-desc:
+  - Pumuckl wird reich - Teil 01
+  - Pumuckl wird reich - Teil 02
+  - Pumuckl wird reich - Teil 03
+  - Pumuckl wird reich - Teil 04
+  - Pumuckl wird reich - Teil 05
+  - Pumuckl wird reich - Teil 06
+  - Pumuckl wird reich - Teil 07
+  - Pumuckl wird reich - Teil 08
+  - Pumuckl wird reich - Teil 09
+  - Pumuckl wird reich - Teil 10
+  - Pumuckl wird reich - Teil 11
+  - Pumuckl wird reich - Teil 12
+  - Pumuckl wird reich - Teil 13
+  - Pumuckl wird reich - Teil 14
+  - Pumuckl wird reich - Teil 15
+  - Pumuckl wird reich - Teil 16
+  - Pumuckl wird reich - Teil 17
+  - Pumuckl wird reich - Teil 18
+  - Pumuckl wird reich - Teil 19
+  - Pumuckl wird reich - Teil 20
   ids: []

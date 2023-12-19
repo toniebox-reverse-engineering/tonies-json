@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 19: Pumuckl im Zoo'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,22 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-im-zoo-das-original-aus-dem-fernsehen/
   shop-id: fbfef66b-9aa7-472a-806f-d8f4b1fbea69
-  track-desc: []
+  track-desc:
+  - Pumuckl im Zoo - Teil 01
+  - Pumuckl im Zoo - Teil 02
+  - Pumuckl im Zoo - Teil 03
+  - Pumuckl im Zoo - Teil 04
+  - Pumuckl im Zoo - Teil 05
+  - Pumuckl im Zoo - Teil 06
+  - Pumuckl im Zoo - Teil 07
+  - Pumuckl im Zoo - Teil 08
+  - Pumuckl im Zoo - Teil 09
+  - Pumuckl im Zoo - Teil 10
+  - Pumuckl im Zoo - Teil 11
+  - Pumuckl im Zoo - Teil 12
+  - Pumuckl im Zoo - Teil 13
+  - Pumuckl im Zoo - Teil 14
+  - Pumuckl im Zoo - Teil 15
+  - Pumuckl im Zoo - Teil 16
+  - Pumuckl im Zoo - Teil 17
   ids: []

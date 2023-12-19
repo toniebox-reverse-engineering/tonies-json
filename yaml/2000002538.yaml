@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Roboter & Androiden / Supercomputer
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,39 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/roboter-androiden-supercomputer/
   shop-id: 492cf473-e950-4331-81d6-ab8685fb77ab
-  track-desc: []
+  track-desc:
+  - 'Titel:  Thema 1: Einführung'
+  - 'Titel:  Thema 1: Superroboter'
+  - 'Titel:  Thema 1: Robotergesetz'
+  - 'Titel:  Thema 1: Industrieroboter'
+  - 'Titel:  Thema 1: Androider Roboter'
+  - 'Titel:  Thema 1: Saugroboter'
+  - 'Titel:  Thema 1: Dante II'
+  - 'Titel:  Thema 1: Asimo'
+  - 'Titel:  Thema 1: Roboter-Fußball'
+  - 'Titel:  Thema 1: Berührungssensoren und Augen'
+  - 'Titel:  Thema 1: Spracherkennung'
+  - 'Titel:  Thema 1: R2-D2'
+  - 'Titel:  Thema 1: Intelligenz'
+  - 'Titel:  Thema 1: Neuronale Netzwerke'
+  - 'Titel:  Thema 1: Schwarmintelligenz'
+  - 'Titel:  Thema 1: Nano Bots'
+  - 'Titel:  Thema 1: Gefühle und Beziehungen'
+  - 'Titel:  Thema 1: Roboboy'
+  - 'Titel:  Thema 2: Einführung'
+  - 'Titel:  Thema 2: Zuse Z1'
+  - 'Titel:  Thema 2: Zuse Z2'
+  - 'Titel:  Thema 2: Elektronenröhren'
+  - 'Titel:  Thema 2: Transistoren'
+  - 'Titel:  Thema 2: Silizium'
+  - 'Titel:  Thema 2: Silicon Valley'
+  - 'Titel:  Thema 2: Chip-Fertigung'
+  - 'Titel:  Thema 2: Waver'
+  - 'Titel:  Thema 2: PC'
+  - 'Titel:  Thema 2: Cray One'
+  - 'Titel:  Thema 2: Supercomputer'
+  - 'Titel:  Thema 2: Schach und Watson'
+  - 'Titel:  Thema 2: Wasserkühlung'
+  - 'Titel:  Thema 2: Menschliches Gehirn'
+  - 'Titel:  Thema 2: 3D-Modelle'
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Der Pferdegeburtstag
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,15 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/der-pferdegeburtsta_ag/
   shop-id: 9102309d-c378-4653-a89f-d322b98f6ac6
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Ein Kräuterhexenwaldgeist
+  - Wettreiten mit dem Grafen
+  - Wer hat Geburtstag-
+  - Bei der Weidenhofbäuerin
+  - Melinda- ist krank!
+  - Eene-meene Mondenschein.
+  - Heilende Kräuter
+  - Der Graf tobt!
+  - Zum Geburtstag viel Glück
   ids: []

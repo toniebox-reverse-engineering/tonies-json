@@ -4,9 +4,9 @@ data:
 - series: Felix
   series-id: felix
   episode: Mit Felix auf großer Deutschlandreise
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-book-songs
   runtime: 0
   age: 5
   origin: tunes
@@ -14,5 +14,49 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/felix/mit-felix-auf-groer-deutschlandreise/
   shop-id: 6b8d8276-2599-4fbc-8df1-1395eaeb1af6
-  track-desc: []
+  track-desc:
+  - Briefe von Felix
+  - Mit Felix auf großer Deutschlandreise - Teil 01
+  - Mit Felix auf großer Deutschlandreise - Teil 02
+  - Mit Felix auf großer Deutschlandreise - Teil 03
+  - Mit Felix auf großer Deutschlandreise - Teil 04
+  - Mit Felix auf großer Deutschlandreise - Teil 05
+  - Mit Felix auf großer Deutschlandreise - Teil 06
+  - Mit Felix auf großer Deutschlandreise - Teil 07
+  - Mit Felix auf großer Deutschlandreise - Teil 08
+  - Mit Felix auf großer Deutschlandreise - Teil 09
+  - Siebenmeilenstiefel
+  - Mit Felix auf großer Deutschlandreise - Teil 10
+  - Hexentanz
+  - Mit Felix auf großer Deutschlandreise - Teil 11
+  - Mit Felix auf großer Deutschlandreise - Teil 12
+  - Mit Felix auf großer Deutschlandreise - Teil 13
+  - Mit Felix auf großer Deutschlandreise - Teil 14
+  - Mit Felix auf großer Deutschlandreise - Teil 15
+  - Mit Felix auf großer Deutschlandreise - Teil 16
+  - Mit Felix auf großer Deutschlandreise - Teil 17
+  - Mit Felix auf großer Deutschlandreise - Teil 18
+  - Mit Felix auf großer Deutschlandreise - Teil 19
+  - Mit Felix auf großer Deutschlandreise - Teil 20
+  - Mit Felix auf großer Deutschlandreise - Teil 21
+  - Mit Felix auf großer Deutschlandreise - Teil 22
+  - Mit Felix auf großer Deutschlandreise - Teil 23
+  - Mit Felix auf großer Deutschlandreise - Teil 24
+  - Bayernpolka
+  - Mit Felix auf großer Deutschlandreise - Teil 25
+  - Mit Felix auf großer Deutschlandreise - Teil 26
+  - Mit Felix auf großer Deutschlandreise - Teil 27
+  - Deutschland ist bunt
+  - Mit Felix auf großer Deutschlandreise - Teil 28
+  - Mit Felix auf großer Deutschlandreise - Teil 29
+  - Mit Felix auf großer Deutschlandreise - Teil 30
+  - Mit Felix auf großer Deutschlandreise - Teil 31
+  - Mit Felix auf großer Deutschlandreise - Teil 32
+  - Der Kölner Dom
+  - Mit Felix auf großer Deutschlandreise - Teil 33
+  - Mit Felix auf großer Deutschlandreise - Teil 34
+  - Mit Felix auf großer Deutschlandreise - Teil 35
+  - Ruhrpott Song
+  - Mit Felix auf großer Deutschlandreise - Teil 36
+  - Mit Felix auf großer Deutschlandreise - Teil 37
   ids: []

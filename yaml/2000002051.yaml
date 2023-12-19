@@ -4,9 +4,9 @@ data:
 - series: Die Playmos
   series-id: die-playmos
   episode: Die Macht der Kürbislaterne
-  release: 0
+  release: 1614124800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
@@ -14,5 +14,42 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/die-playmos/die-macht-der-kurbislaterne/
   shop-id: 0d3a8d72-ab03-4b90-badf-16821606a9d5
-  track-desc: []
+  track-desc:
+  - 'Teil 1 - Folge 69: Die Macht der Kürbislaterne'
+  - 'Teil 2 - Folge 69: Die Macht der Kürbislaterne'
+  - 'Teil 3 - Folge 69: Die Macht der Kürbislaterne'
+  - 'Teil 4 - Folge 69: Die Macht der Kürbislaterne'
+  - 'Teil 5 - Folge 69: Die Macht der Kürbislaterne'
+  - 'Teil 6 - Folge 69: Die Macht der Kürbislaterne'
+  - 'Teil 7 - Folge 69: Die Macht der Kürbislaterne'
+  - 'Teil 8 - Folge 69: Die Macht der Kürbislaterne'
+  - 'Teil 9 - Folge 69: Die Macht der Kürbislaterne'
+  - 'Teil 10 - Folge 69: Die Macht der Kürbislaterne'
+  - 'Teil 11 - Folge 69: Die Macht der Kürbislaterne'
+  - 'Teil 12 - Folge 69: Die Macht der Kürbislaterne'
+  - 'Teil 13 - Folge 69: Die Macht der Kürbislaterne'
+  - 'Teil 14 - Folge 69: Die Macht der Kürbislaterne'
+  - 'Teil 15 - Folge 69: Die Macht der Kürbislaterne'
+  - 'Teil 16 - Folge 69: Die Macht der Kürbislaterne'
+  - 'Teil 17 - Folge 69: Die Macht der Kürbislaterne'
+  - 'Teil 18 - Folge 69: Die Macht der Kürbislaterne'
+  - 'Teil 19 - Folge 69: Die Macht der Kürbislaterne'
+  - 'Teil 20 - Folge 69: Die Macht der Kürbislaterne'
+  - 'Teil 21 - Folge 69: Die Macht der Kürbislaterne'
+  - 'Teil 22 - Folge 69: Die Macht der Kürbislaterne'
+  - 'Teil 23 - Folge 69: Die Macht der Kürbislaterne'
+  - 'Teil 24 - Folge 69: Die Macht der Kürbislaterne'
+  - 'Teil 25 - Folge 69: Die Macht der Kürbislaterne'
+  - 'Teil 26 - Folge 69: Die Macht der Kürbislaterne'
+  - 'Teil 27 - Folge 69: Die Macht der Kürbislaterne'
+  - 'Teil 28 - Folge 69: Die Macht der Kürbislaterne'
+  - 'Teil 29 - Folge 69: Die Macht der Kürbislaterne'
+  - 'Teil 30 - Folge 69: Die Macht der Kürbislaterne'
+  - 'Teil 31 - Folge 69: Die Macht der Kürbislaterne'
+  - 'Teil 32 - Folge 69: Die Macht der Kürbislaterne'
+  - 'Teil 33 - Folge 69: Die Macht der Kürbislaterne'
+  - 'Teil 34 - Folge 69: Die Macht der Kürbislaterne'
+  - 'Teil 35 - Folge 69: Die Macht der Kürbislaterne'
+  - 'Teil 36 - Folge 69: Die Macht der Kürbislaterne'
+  - 'Teil 37 - Folge 69: Die Macht der Kürbislaterne'
   ids: []

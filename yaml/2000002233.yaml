@@ -4,9 +4,9 @@ data:
 - series: Die Schule der magischen Tiere
   series-id: die-schule-der-magischen-tiere
   episode: Wo ist Mr. M?
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,56 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/die-schule-der-magischen-tiere/wo-ist-mr-m/
   shop-id: a1bcd0ea-43b1-44c4-9b1e-f86dc716a6bb
-  track-desc: []
+  track-desc:
+  - Wo ist Mr. M?
+  - Titellied Willkommen in der Schule der magischen Tiere
+  - '07: Wo ist Mr. M? - Teil 01'
+  - '07: Wo ist Mr. M? - Teil 02'
+  - '07: Wo ist Mr. M? - Teil 03'
+  - '07: Wo ist Mr. M? - Teil 04'
+  - '07: Wo ist Mr. M? - Teil 05'
+  - '07: Wo ist Mr. M? - Teil 06'
+  - '07: Wo ist Mr. M? - Teil 07'
+  - '07: Wo ist Mr. M? - Teil 08'
+  - '07: Wo ist Mr. M? - Teil 09'
+  - '07: Wo ist Mr. M? - Teil 10'
+  - '07: Wo ist Mr. M? - Teil 11'
+  - '07: Wo ist Mr. M? - Teil 12'
+  - '07: Wo ist Mr. M? - Teil 13'
+  - '07: Wo ist Mr. M? - Teil 14'
+  - '07: Wo ist Mr. M? - Teil 15'
+  - '07: Wo ist Mr. M? - Teil 16'
+  - '07: Wo ist Mr. M? - Teil 17'
+  - '07: Wo ist Mr. M? - Teil 18'
+  - '07: Wo ist Mr. M? - Teil 19'
+  - '07: Wo ist Mr. M? - Teil 20'
+  - '07: Wo ist Mr. M? - Teil 21'
+  - '07: Wo ist Mr. M? - Teil 22'
+  - '07: Wo ist Mr. M? - Teil 23'
+  - '07: Wo ist Mr. M? - Teil 24'
+  - '07: Wo ist Mr. M? - Teil 25'
+  - '07: Wo ist Mr. M? - Teil 26'
+  - '07: Wo ist Mr. M? - Teil 27'
+  - '07: Wo ist Mr. M? - Teil 28'
+  - '07: Wo ist Mr. M? - Teil 29'
+  - '07: Wo ist Mr. M? - Teil 30'
+  - '07: Wo ist Mr. M? - Teil 31'
+  - '07: Wo ist Mr. M? - Teil 32'
+  - '07: Wo ist Mr. M? - Teil 33'
+  - '07: Wo ist Mr. M? - Teil 34'
+  - '07: Wo ist Mr. M? - Teil 35'
+  - '07: Wo ist Mr. M? - Teil 36'
+  - '07: Wo ist Mr. M? - Teil 37'
+  - '07: Wo ist Mr. M? - Teil 38'
+  - '07: Wo ist Mr. M? - Teil 39'
+  - '07: Wo ist Mr. M? - Teil 40'
+  - '07: Wo ist Mr. M? - Teil 41'
+  - '07: Wo ist Mr. M? - Teil 42'
+  - '07: Wo ist Mr. M? - Teil 43'
+  - '07: Wo ist Mr. M? - Teil 44'
+  - '07: Wo ist Mr. M? - Teil 45'
+  - '07: Wo ist Mr. M? - Teil 46'
+  - '07: Wo ist Mr. M? - Teil 47'
+  - '07: Wo ist Mr. M? - Teil 48'
+  - Willkommen in der Schule der magischen Tiere
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 12: Eder bekommt Besuch'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/eder-bekommt-besuch-das-original-aus-dem-fernsehen/
   shop-id: d6f8efbc-597f-4684-8f37-323b318c2b49
-  track-desc: []
+  track-desc:
+  - Eder bekommt Besuch - Teil 01
+  - Eder bekommt Besuch - Teil 02
+  - Eder bekommt Besuch - Teil 03
+  - Eder bekommt Besuch - Teil 04
+  - Eder bekommt Besuch - Teil 05
+  - Eder bekommt Besuch - Teil 06
+  - Eder bekommt Besuch - Teil 07
+  - Eder bekommt Besuch - Teil 08
+  - Eder bekommt Besuch - Teil 09
+  - Eder bekommt Besuch - Teil 10
+  - Eder bekommt Besuch - Teil 11
+  - Eder bekommt Besuch - Teil 12
+  - Eder bekommt Besuch - Teil 13
+  - Eder bekommt Besuch - Teil 14
   ids: []

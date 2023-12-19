@@ -4,9 +4,9 @@ data:
 - series: Lauras Stern
   series-id: lauras-stern
   episode: Abenteuerliche Gutenacht-Geschichten
-  release: 0
+  release: 1646870400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
@@ -14,5 +14,13 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/lauras-stern/lauras-stern-tonspur-der-tv-serie-teil-11-abenteue/
   shop-id: b88c6f6e-f3dc-4961-8590-d601ee1c7153
-  track-desc: []
+  track-desc:
+  - Laura verirrt sich (Teil 1)
+  - Laura verirrt sich (Teil 2)
+  - Laura verirrt sich (Teil 3)
+  - Ein Geschenk für Frau Federlein (Teil 1)
+  - Ein Geschenk für Frau Federlein (Teil 2)
+  - Ein Geschenk für Frau Federlein (Teil 3)
+  - Der Unglückstag (Teil 1)
+  - Der Unglückstag (Teil 2)
   ids: []

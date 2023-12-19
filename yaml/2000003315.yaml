@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 70: Pumuckl will Schreiner werden'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,26 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-will-schreiner-werden-das-original-aus-dem/
   shop-id: b299c3d6-e21c-4685-afb7-c46cd7f57eb7
-  track-desc: []
+  track-desc:
+  - Pumuckl will Schreiner werden - Teil 01
+  - Pumuckl will Schreiner werden - Teil 02
+  - Pumuckl will Schreiner werden - Teil 03
+  - Pumuckl will Schreiner werden - Teil 04
+  - Pumuckl will Schreiner werden - Teil 05
+  - Pumuckl will Schreiner werden - Teil 06
+  - Pumuckl will Schreiner werden - Teil 07
+  - Pumuckl will Schreiner werden - Teil 08
+  - Pumuckl will Schreiner werden - Teil 09
+  - Pumuckl will Schreiner werden - Teil 10
+  - Pumuckl will Schreiner werden - Teil 11
+  - Pumuckl will Schreiner werden - Teil 12
+  - Pumuckl will Schreiner werden - Teil 13
+  - Pumuckl will Schreiner werden - Teil 14
+  - Pumuckl will Schreiner werden - Teil 15
+  - Pumuckl will Schreiner werden - Teil 16
+  - Pumuckl will Schreiner werden - Teil 17
+  - Pumuckl will Schreiner werden - Teil 18
+  - Pumuckl will Schreiner werden - Teil 19
+  - Pumuckl will Schreiner werden - Teil 20
+  - Pumuckl will Schreiner werden - Teil 21
   ids: []

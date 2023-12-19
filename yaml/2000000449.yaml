@@ -4,9 +4,9 @@ data:
 - series: Pettersson und Findus
   series-id: pettersson-und-findus
   episode: Ein Feuerwerk für den Fuchs
-  release: 0
+  release: 1388534400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,14 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pettersson-und-findus/ein-feuerwerk-fur-den-fuchs/
   shop-id: 5e7fbc12-e07f-4d23-834b-17597c38c5ec
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
   ids: []

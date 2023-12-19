@@ -4,9 +4,9 @@ data:
 - series: Pettersson und Findus
   series-id: pettersson-und-findus
   episode: Schau mal, was ich kann, Pettersson!
-  release: 0
+  release: 1563753600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,13 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pettersson-und-findus/schau-mal-was-ich-kann-pettersson/
   shop-id: 28e16833-acf2-4170-be3d-ece761578f14
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Der Verehrer
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,15 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/der-verehrer/
   shop-id: 6e2b8be5-bead-49d6-9223-03342842ce72
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Frau Martin im Glück
+  - Geschniegelt und geleckt
+  - Frau Martin geht aus
+  - Große Pläne
+  - Herr Weber-Schneider-Wagner
+  - Der Heubodenschatz
+  - Auf der Lauer
+  - Lustige Gangsterjagd
+  - Rosen für Susanne Martin
   ids: []

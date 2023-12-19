@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 64: Die abgerissenen Tulpen'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,20 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/die-abgerissenen-tulpen-das-original-aus-dem-ferns/
   shop-id: b95b8adb-17b0-43b3-91b4-9a546a689052
-  track-desc: []
+  track-desc:
+  - Die abgerissenen Tulpen - Teil 01
+  - Die abgerissenen Tulpen - Teil 02
+  - Die abgerissenen Tulpen - Teil 03
+  - Die abgerissenen Tulpen - Teil 04
+  - Die abgerissenen Tulpen - Teil 05
+  - Die abgerissenen Tulpen - Teil 06
+  - Die abgerissenen Tulpen - Teil 07
+  - Die abgerissenen Tulpen - Teil 08
+  - Die abgerissenen Tulpen - Teil 09
+  - Die abgerissenen Tulpen - Teil 10
+  - Die abgerissenen Tulpen - Teil 11
+  - Die abgerissenen Tulpen - Teil 12
+  - Die abgerissenen Tulpen - Teil 13
+  - Die abgerissenen Tulpen - Teil 14
+  - Die abgerissenen Tulpen - Teil 15
   ids: []

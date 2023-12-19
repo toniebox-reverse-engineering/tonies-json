@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 80: Pumuckl setzt sich nicht durch'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,23 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-setzt-sich-nicht-durch-das-original-aus-de/
   shop-id: a3c22733-4a1c-4599-ac03-9d7c40359bd8
-  track-desc: []
+  track-desc:
+  - Pumuckl setzt sich nicht durch - Teil 01
+  - Pumuckl setzt sich nicht durch - Teil 02
+  - Pumuckl setzt sich nicht durch - Teil 03
+  - Pumuckl setzt sich nicht durch - Teil 04
+  - Pumuckl setzt sich nicht durch - Teil 05
+  - Pumuckl setzt sich nicht durch - Teil 06
+  - Pumuckl setzt sich nicht durch - Teil 07
+  - Pumuckl setzt sich nicht durch - Teil 08
+  - Pumuckl setzt sich nicht durch - Teil 09
+  - Pumuckl setzt sich nicht durch - Teil 10
+  - Pumuckl setzt sich nicht durch - Teil 11
+  - Pumuckl setzt sich nicht durch - Teil 12
+  - Pumuckl setzt sich nicht durch - Teil 13
+  - Pumuckl setzt sich nicht durch - Teil 14
+  - Pumuckl setzt sich nicht durch - Teil 15
+  - Pumuckl setzt sich nicht durch - Teil 16
+  - Pumuckl setzt sich nicht durch - Teil 17
+  - Pumuckl setzt sich nicht durch - Teil 18
   ids: []

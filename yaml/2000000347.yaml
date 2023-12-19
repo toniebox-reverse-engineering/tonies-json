@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Freddy verliebt sich
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/freddy-verliebt-sich/
   shop-id: 389cd06a-f3e9-469a-a859-6e1e148d9dea
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Überraschungen im Wald
+  - Freddy bleibt dran-
+  - Ein guter Tipp
+  - Am nächsten Tag
+  - Noch mehr gute Tipps
+  - Das Blumen-Chaos
+  - Die Ausflug-Idee
+  - Alles geht schief
+  - Im Mädchenzelt
+  - Freddys Einladung
+  - Ein echter Schnösel!
+  - Raus mit der Wahrheit
+  - Zwei Herzen werden eins
   ids: []

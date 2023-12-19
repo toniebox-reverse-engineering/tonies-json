@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Der verhexte Bürgermeister
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/der-verhexte-burgermeister/
   shop-id: aabde324-9ad6-4edd-ae80-cea791d47357
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Das große Los
+  - Pichler wird Bürgermeister
+  - Noch mehr Besuch
+  - Traurige Zustände
+  - Ein gutes Team
+  - Im Freibad
+  - Schrott-Hexereien
+  - Vielseitig begabt
+  - In Bibis Schule
+  - Zurück zum Rathaus
+  - Lautstarker Protest
+  - Die Überraschung!
   ids: []

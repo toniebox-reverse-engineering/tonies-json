@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Gefahr für Falkenstein
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,16 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/gefahr-fur-falkenstein/
   shop-id: 9d777628-da3a-44cf-b776-9b21f93b24db
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Wettreiten
+  - Vom Sturm entwurzelt
+  - Nur für Clubmitglieder
+  - Dunkle Wolken über Falkenstein
+  - Bibi und Tina ermitteln
+  - Der Liebesschwur
+  - Sein oder Nichtssein
+  - Hilfe für den Grafen
+  - Scheich Khan Del
+  - Ein Grund zum Feiern
   ids: []

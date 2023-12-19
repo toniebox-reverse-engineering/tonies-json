@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: als Prinzessin
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/als-prinzessin/
   shop-id: 6b4d9a4f-f0b6-44b2-a43b-2c74c985461b
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Im Schloss Klunkerburg
+  - Bibis Tagtraum
+  - Reise in die Vergangenheit
+  - Wirbel im Schloss
+  - Comtesse Dumont
+  - Willkommen in der Gegenwart
+  - Die Eilkutsche
+  - Beim Bürgermeister
+  - Ganz Neustadt wird verhext
+  - Chaos ohne Ende
+  - Der Rückhexspruch
+  - Bibi ist wieder Bibi
   ids: []

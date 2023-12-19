@@ -4,9 +4,9 @@ data:
 - series: Der kleine Rabe Socke
   series-id: der-kleine-rabe-socke
   episode: Alles Freunde!, Alles wieder gut!
-  release: 0
+  release: 1424908800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,29 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/der-kleine-rabe-socke/alles-freunde-alles-wieder-gut/
   shop-id: 719a507e-93f4-497c-820e-5bcddc7c223c
-  track-desc: []
+  track-desc:
+  - Alles Freunde! - Kapitel 1
+  - Alles Freunde! - Kapitel 2
+  - Alles Freunde! - Kapitel 3
+  - Alles Freunde! - Kapitel 4
+  - Alles Freunde! - Kapitel 5
+  - Alles Freunde! - Kapitel 6
+  - Alles Freunde! - Kapitel 7
+  - Alles Freunde! - Kapitel 8
+  - Alles Freunde! - Kapitel 9
+  - Alles wieder gut! - Kapitel 1
+  - Alles wieder gut! - Kapitel 2
+  - Alles wieder gut! - Kapitel 3
+  - Alles wieder gut! - Kapitel 4
+  - Alles wieder gut! - Kapitel 5
+  - Alles wieder gut! - Kapitel 6
+  - Alles wieder gut! - Kapitel 7
+  - Alles wieder gut! - Kapitel 8
+  - Alles wieder gut! - Kapitel 9
+  - Alles wieder gut! - Kapitel 10
+  - Alles wieder gut! - Kapitel 11
+  - Alles wieder gut! - Kapitel 12
+  - Alles wieder gut! - Kapitel 13
+  - Alles wieder gut! - Kapitel 14
+  - Alles wieder gut! - Kapitel 15
   ids: []

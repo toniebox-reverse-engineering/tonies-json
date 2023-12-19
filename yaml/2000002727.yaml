@@ -4,9 +4,9 @@ data:
 - series: Die kleine Schnecke Monika Häuschen
   series-id: die-kleine-schnecke-monika-haeuschen
   episode: Warum kauen Kühe immerzu?
-  release: 0
+  release: 1633564800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,32 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/die-kleine-schnecke-monika-haeuschen/warum-kauen-kuhe-immerzu/
   shop-id: f3d5d127-787b-41a3-80be-a66192162bb1
-  track-desc: []
+  track-desc:
+  - Die kleine Schnecke Monika Häuschen - Titellied
+  - Warum kauen Kühe immerzu? - Teil 01
+  - Warum kauen Kühe immerzu? - Teil 02
+  - Warum kauen Kühe immerzu? - Teil 03
+  - Warum kauen Kühe immerzu? - Teil 04
+  - Warum kauen Kühe immerzu? - Teil 05
+  - Warum kauen Kühe immerzu? - Teil 06
+  - Warum kauen Kühe immerzu? - Teil 07
+  - Warum kauen Kühe immerzu? - Teil 08
+  - Warum kauen Kühe immerzu? - Teil 09
+  - Warum kauen Kühe immerzu? - Teil 10
+  - Warum kauen Kühe immerzu? - Teil 11
+  - Warum kauen Kühe immerzu? - Teil 12
+  - Warum kauen Kühe immerzu? - Teil 13
+  - Warum kauen Kühe immerzu? - Teil 14
+  - Warum kauen Kühe immerzu? - Teil 15
+  - Warum kauen Kühe immerzu? - Teil 16
+  - Warum kauen Kühe immerzu? - Teil 17
+  - Warum kauen Kühe immerzu? - Teil 18
+  - Warum kauen Kühe immerzu? - Teil 19
+  - Warum kauen Kühe immerzu? - Teil 20
+  - Warum kauen Kühe immerzu? - Teil 21
+  - Warum kauen Kühe immerzu? - Teil 22
+  - Warum kauen Kühe immerzu? - Teil 23
+  - Warum kauen Kühe immerzu? - Teil 24
+  - Warum kauen Kühe immerzu? - Teil 25
+  - Warum kauen Kühe immerzu? - Teil 26
   ids: []

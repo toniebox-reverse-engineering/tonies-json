@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Der neue Schulgarten
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,20 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/der-neue-schulgarten/
   shop-id: 1d6d80bb-7dcb-4852-8e28-a9d47a262ab0
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - In der Klasse
+  - Haarige Probleme
+  - Am Marktstand
+  - Auf Kräutersuche
+  - Heimliche Hexerei
+  - Üppige Kräuterpracht
+  - Kichern und Schlafen
+  - Auf Ursachensuche
+  - Des Rätsels Lösung
+  - Her mit dem Mann!
+  - Ein Kuss mit Folgen
+  - Lauter Verwechslungen
+  - Mania hilft
+  - Verräterisches Foto
   ids: []

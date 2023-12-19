@@ -4,9 +4,9 @@ data:
 - series: Benjamin Blümchen
   series-id: benjamin-bluemchen
   episode: und der sprechende Papagei
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/und-der-sprechende-papagei/
   shop-id: c07a3177-c496-46af-b734-e1a9e1f13086
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - In der Eisdiele
+  - Hallo, Papageno!
+  - Eine neue Unterkunft
+  - Sensatiönchen gesucht
+  - So viele Sprüche
+  - Ein Piratenschatz-
+  - Los geht’s!
+  - Weg nach Buddelsand
+  - Zum Leuchtturm
+  - In die Höhle
+  - Lauter Irrtümer
+  - Jubiläumsfest mit Piraten
+  - Föhn dir den Hut breit
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Der Hufschmied
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/der-hufschmied/
   shop-id: 5290ae1b-1f60-4188-a258-f135e2ae8dcf
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Auf dem Weg zum Schmied
+  - Ein unfreundlicher Geselle
+  - Freddy, der Sheriff
+  - Sabrina lahmt
+  - Feuer in der Schmiede
+  - Der Verdacht
+  - Wahrheit im Feuerschein
+  - Frau Martin greift ein
+  - Bibis Entdeckung
+  - Freddy in der Klemme
+  - Alles wird gut
+  - Geschenk für Freddy
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Die Playmos
   series-id: die-playmos
   episode: Angriff der Drachenritter
-  release: 0
+  release: 1614124800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
@@ -14,5 +14,38 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/die-playmos/angriff-der-drachenritter/
   shop-id: e0f3c6f3-03fc-4dc8-a809-f91fa42b64e2
-  track-desc: []
+  track-desc:
+  - 'Kapitel 1 - Folge 2: Angriff der Drachenritter (Das Original Playmobil Hörspiel)'
+  - 'Kapitel 2 - Folge 2: Angriff der Drachenritter (Das Original Playmobil Hörspiel)'
+  - 'Kapitel 3 - Folge 2: Angriff der Drachenritter (Das Original Playmobil Hörspiel)'
+  - 'Kapitel 4 - Folge 2: Angriff der Drachenritter (Das Original Playmobil Hörspiel)'
+  - 'Kapitel 5 - Folge 2: Angriff der Drachenritter (Das Original Playmobil Hörspiel)'
+  - 'Kapitel 6 - Folge 2: Angriff der Drachenritter (Das Original Playmobil Hörspiel)'
+  - 'Kapitel 7 - Folge 2: Angriff der Drachenritter (Das Original Playmobil Hörspiel)'
+  - 'Kapitel 8 - Folge 2: Angriff der Drachenritter (Das Original Playmobil Hörspiel)'
+  - 'Kapitel 9 - Folge 2: Angriff der Drachenritter (Das Original Playmobil Hörspiel)'
+  - 'Kapitel 10 - Folge 2: Angriff der Drachenritter (Das Original Playmobil Hörspiel)'
+  - 'Kapitel 11 - Folge 2: Angriff der Drachenritter (Das Original Playmobil Hörspiel)'
+  - 'Kapitel 12 - Folge 2: Angriff der Drachenritter (Das Original Playmobil Hörspiel)'
+  - 'Kapitel 13 - Folge 2: Angriff der Drachenritter (Das Original Playmobil Hörspiel)'
+  - 'Kapitel 14 - Folge 2: Angriff der Drachenritter (Das Original Playmobil Hörspiel)'
+  - 'Kapitel 15 - Folge 2: Angriff der Drachenritter (Das Original Playmobil Hörspiel)'
+  - 'Kapitel 16 - Folge 2: Angriff der Drachenritter (Das Original Playmobil Hörspiel)'
+  - 'Kapitel 17 - Folge 2: Angriff der Drachenritter (Das Original Playmobil Hörspiel)'
+  - 'Kapitel 18 - Folge 2: Angriff der Drachenritter (Das Original Playmobil Hörspiel)'
+  - 'Kapitel 19 - Folge 2: Angriff der Drachenritter (Das Original Playmobil Hörspiel)'
+  - 'Kapitel 20 - Folge 2: Angriff der Drachenritter (Das Original Playmobil Hörspiel)'
+  - 'Kapitel 21 - Folge 2: Angriff der Drachenritter (Das Original Playmobil Hörspiel)'
+  - 'Kapitel 22 - Folge 2: Angriff der Drachenritter (Das Original Playmobil Hörspiel)'
+  - 'Kapitel 23 - Folge 2: Angriff der Drachenritter (Das Original Playmobil Hörspiel)'
+  - 'Kapitel 24 - Folge 2: Angriff der Drachenritter (Das Original Playmobil Hörspiel)'
+  - 'Kapitel 25 - Folge 2: Angriff der Drachenritter (Das Original Playmobil Hörspiel)'
+  - 'Kapitel 26 - Folge 2: Angriff der Drachenritter (Das Original Playmobil Hörspiel)'
+  - 'Kapitel 27 - Folge 2: Angriff der Drachenritter (Das Original Playmobil Hörspiel)'
+  - 'Kapitel 28 - Folge 2: Angriff der Drachenritter (Das Original Playmobil Hörspiel)'
+  - 'Kapitel 29 - Folge 2: Angriff der Drachenritter (Das Original Playmobil Hörspiel)'
+  - 'Kapitel 30 - Folge 2: Angriff der Drachenritter (Das Original Playmobil Hörspiel)'
+  - 'Kapitel 31 - Folge 2: Angriff der Drachenritter (Das Original Playmobil Hörspiel)'
+  - 'Kapitel 32 - Folge 2: Angriff der Drachenritter (Das Original Playmobil Hörspiel)'
+  - 'Kapitel 33 - Folge 2: Angriff der Drachenritter (Das Original Playmobil Hörspiel)'
   ids: []

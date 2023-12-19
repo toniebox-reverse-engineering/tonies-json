@@ -4,9 +4,9 @@ data:
 - series: Pettersson und Findus
   series-id: pettersson-und-findus
   episode: Eine Geburtstagstorte für die Katze
-  release: 0
+  release: 1388534400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,14 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pettersson-und-findus/eine-geburtstagstorte-fur-die-katze/
   shop-id: 69567faf-f887-4ea5-91cd-32e51a63d9db
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Benjamin Blümchen
   series-id: benjamin-bluemchen
   episode: Der Doppelgänger
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/der-doppelganger/
   shop-id: f2ed0f26-23e6-4ba3-9273-a5289bf033ac
-  track-desc: []
+  track-desc:
+  - Titellied
+  - Seltsame Neuigkeiten
+  - Auf nach Zwiebelstadt!
+  - Ein verwirrter Elefant
+  - Anruf bei Frau Kolumna
+  - Auf nach Zwiebelstadt
+  - Der Doppelgänger
+  - Ein falscher Otto
+  - Der Trick mit dem Tonband
+  - Eine technische Störung
+  - Die ganze Wahrheit
+  - Alles klärt sich
+  - Viele gut Ideen
   ids: []

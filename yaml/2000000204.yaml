@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Die Kuh im Schlafzimmer
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,17 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/die-kuh-im-schlafzimmer/
   shop-id: 3425e6b1-97d3-4b4c-b0ae-fe6fc66cc22d
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Schon wieder hexisches Essen
+  - Dicke Luft bei Blocksbergs
+  - Lecker, oder nicht-
+  - Papis neuer Plan
+  - Eine Kuh muss her
+  - Raus aufs Land
+  - Wie transportiert man eine Kuh-
+  - Stopp! Polizei!
+  - Zenzi im Schlafzimmer
+  - Ärger im Hochhaus
+  - Jetzt hilft nur noch Hexerei
   ids: []

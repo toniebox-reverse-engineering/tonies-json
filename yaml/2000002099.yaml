@@ -4,9 +4,9 @@ data:
 - series: Conni & Co
   series-id: conni-co
   episode: Conni & Co 2 - Das Geheimnis des T-Rex - Das Original-Hörspiel zum Kinofilm
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 8
   origin: tunes
@@ -14,5 +14,50 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/conni-co/conni-co-2-das-geheimnis-des-t-rex-das-original-ho/
   shop-id: 3deca8bf-d001-446f-b881-e5c77a805854
-  track-desc: []
+  track-desc:
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 01
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 02
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 03
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 04
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 05
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 06
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 07
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 08
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 09
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 10
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 11
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 12
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 13
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 14
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 15
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 16
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 17
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 18
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 19
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 20
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 21
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 22
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 23
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 24
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 25
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 26
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 27
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 28
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 29
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 30
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 31
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 32
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 33
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 34
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 35
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 36
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 37
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 38
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 39
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 40
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 41
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 42
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 43
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 44
+  - Conni & Co 2 - Das Geheimnis des T-Rex - Teil 45
   ids: []

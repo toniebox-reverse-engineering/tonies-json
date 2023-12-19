@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 5: Die abergläubische Putzfrau'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,24 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/die-aberglaubische-putzfrau-das-original-aus-dem-f/
   shop-id: 458c5bdc-818b-4790-86ba-41aca5b3720a
-  track-desc: []
+  track-desc:
+  - Die abergläubische Putzfrau - Teil 01
+  - Die abergläubische Putzfrau - Teil 02
+  - Die abergläubische Putzfrau - Teil 03
+  - Die abergläubische Putzfrau - Teil 04
+  - Die abergläubische Putzfrau - Teil 05
+  - Die abergläubische Putzfrau - Teil 06
+  - Die abergläubische Putzfrau - Teil 07
+  - Die abergläubische Putzfrau - Teil 08
+  - Die abergläubische Putzfrau - Teil 09
+  - Die abergläubische Putzfrau - Teil 10
+  - Die abergläubische Putzfrau - Teil 11
+  - Die abergläubische Putzfrau - Teil 12
+  - Die abergläubische Putzfrau - Teil 13
+  - Die abergläubische Putzfrau - Teil 14
+  - Die abergläubische Putzfrau - Teil 15
+  - Die abergläubische Putzfrau - Teil 16
+  - Die abergläubische Putzfrau - Teil 17
+  - Die abergläubische Putzfrau - Teil 18
+  - Die abergläubische Putzfrau - Teil 19
   ids: []

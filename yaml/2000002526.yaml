@@ -4,9 +4,9 @@ data:
 - series: Rund um die Welt mit Fuchs und Schaf
   series-id: rund-um-die-welt-mit-fuchs-und-schaf
   episode: Tibet
-  release: 0
+  release: 1623888000
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,9 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/rund-um-die-welt-mit-fuchs-und-schaf/tibet/
   shop-id: a4671511-5632-4806-aad9-8f1ee8255767
-  track-desc: []
+  track-desc:
+  - Titelsong „Rund um die Welt“
+  - 'Nächster Halt: Mount Everest'
+  - Eingeschneit
+  - Namaste
   ids: []

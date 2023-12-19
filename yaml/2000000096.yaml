@@ -4,9 +4,9 @@ data:
 - series: Benjamin Blümchen
   series-id: benjamin-bluemchen
   episode: im Krankenhaus
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/im-krankenhaus/
   shop-id: 6cd7fd30-a0c9-4081-a3d2-f244798a8d81
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Rüsselbruch
+  - Im Krankenhaus
+  - Oberschwester Jutta
+  - Otto spielt krank
+  - Ein Neuzugang
+  - Traurige Patienten
+  - Große Langeweile
+  - Geheimes Treffen
+  - Zirkus im Krankenhaus
+  - Alles gelingt
+  - Vorzeitige Entlassung
+  - Weg mit dem Gips!
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Die rätselhafte Schatzsuche
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,17 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/die-ratselhafte-schatzsuche/
   shop-id: 7b12fd05-b68f-496f-886f-c583b9d33d16
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Was für eine Hitze
+  - Mädchen gegen Jungs
+  - Die rätselhafte Schatzkarte
+  - Wenig Wasser
+  - Alle Nerven liegen blank
+  - Weiter rätseln
+  - Hufabdruck mit Folgen
+  - Verschwörung der Erwachsenen
+  - Feuer auf dem Martinshof
+  - Ende des Streits
+  - Der größte Schatz der Welt
   ids: []

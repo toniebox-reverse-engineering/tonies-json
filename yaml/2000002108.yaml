@@ -4,9 +4,9 @@ data:
 - series: Conni
   series-id: conni
   episode: Conni geht zum Kinderarzt (neu)/Conni besucht Oma und Opa
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,34 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/conni/conni-geht-zum-kinderarzt-neuconni-besucht-oma-und/
   shop-id: 392d2aea-e5c0-4e7f-90f4-88672c12f553
-  track-desc: []
+  track-desc:
+  - Meine beste Freundin Conni
+  - Conni geht zum Kinderarzt (neu) - Teil 01
+  - Conni geht zum Kinderarzt (neu) - Teil 02
+  - Conni geht zum Kinderarzt (neu) - Teil 03
+  - Conni geht zum Kinderarzt (neu) - Teil 04
+  - Conni geht zum Kinderarzt (neu) - Teil 05
+  - Conni geht zum Kinderarzt (neu) - Teil 06
+  - Conni geht zum Kinderarzt (neu) - Teil 07
+  - Conni geht zum Kinderarzt (neu) - Teil 08
+  - Conni geht zum Kinderarzt (neu) - Teil 09
+  - Conni geht zum Kinderarzt (neu) - Teil 10
+  - Conni geht zum Kinderarzt (neu) - Teil 11
+  - Conni geht zum Kinderarzt (neu) - Teil 12
+  - Conni geht zum Kinderarzt (neu) - Teil 13
+  - Conni besucht Oma und Opa - Teil 01
+  - Conni besucht Oma und Opa - Teil 02
+  - Conni besucht Oma und Opa - Teil 03
+  - Conni besucht Oma und Opa - Teil 04
+  - Conni besucht Oma und Opa - Teil 05
+  - Conni besucht Oma und Opa - Teil 06
+  - Conni besucht Oma und Opa - Teil 07
+  - Conni besucht Oma und Opa - Teil 08
+  - Conni besucht Oma und Opa - Teil 09
+  - Conni besucht Oma und Opa - Teil 10
+  - Conni besucht Oma und Opa - Teil 11
+  - Conni besucht Oma und Opa - Teil 12
+  - Conni besucht Oma und Opa - Teil 13
+  - Conni besucht Oma und Opa - Teil 14
+  - Meine beste Freundin Conni
   ids: []

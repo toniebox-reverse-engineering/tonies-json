@@ -4,9 +4,9 @@ data:
 - series: Ralph Ruthe
   series-id: ralph-ruthe
   episode: 'Der Christkind Code: Ein Monster unterm Tannenbaum'
-  release: 0
+  release: 1687910400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 7
   origin: tunes
@@ -14,5 +14,24 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/ralph-ruthe/der-christkind-code-ein-monster-unterm-tannenbaum/
   shop-id: e454ea97-b584-4679-8787-0e679bb55f43
-  track-desc: []
+  track-desc:
+  - 'Kapitel 01: Der Christkind Code: Ein Monster unterm Tannenbaum'
+  - 'Kapitel 02: Der Christkind Code: Ein Monster unterm Tannenbaum'
+  - 'Kapitel 03: Der Christkind Code: Ein Monster unterm Tannenbaum'
+  - 'Kapitel 04: Der Christkind Code: Ein Monster unterm Tannenbaum'
+  - 'Kapitel 05: Der Christkind Code: Ein Monster unterm Tannenbaum'
+  - 'Kapitel 06: Der Christkind Code: Ein Monster unterm Tannenbaum'
+  - 'Kapitel 07: Der Christkind Code: Ein Monster unterm Tannenbaum'
+  - 'Kapitel 08: Der Christkind Code: Ein Monster unterm Tannenbaum'
+  - 'Kapitel 09: Der Christkind Code: Ein Monster unterm Tannenbaum'
+  - 'Kapitel 10: Der Christkind Code: Ein Monster unterm Tannenbaum'
+  - 'Kapitel 11: Der Christkind Code: Ein Monster unterm Tannenbaum'
+  - 'Kapitel 12: Der Christkind Code: Ein Monster unterm Tannenbaum'
+  - 'Kapitel 13: Der Christkind Code: Ein Monster unterm Tannenbaum'
+  - 'Kapitel 14: Der Christkind Code: Ein Monster unterm Tannenbaum'
+  - 'Kapitel 15: Der Christkind Code: Ein Monster unterm Tannenbaum'
+  - 'Kapitel 16: Der Christkind Code: Ein Monster unterm Tannenbaum'
+  - 'Kapitel 17: Der Christkind Code: Ein Monster unterm Tannenbaum'
+  - 'Kapitel 18: Der Christkind Code: Ein Monster unterm Tannenbaum'
+  - 'Kapitel 19: Der Christkind Code: Ein Monster unterm Tannenbaum'
   ids: []

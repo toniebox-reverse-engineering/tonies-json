@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Abenteuer Höhlen / Faszination Berge
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,31 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/abenteuer-hohlen-faszination-berge/
   shop-id: 6470782d-4dc7-40b2-b7af-79b0f5d1a5d7
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Einleitung'
+  - 'Thema 1: Ausrüstung für eine Höhlenerkundung'
+  - 'Thema 1: Höhlenmalereien'
+  - 'Thema 1: Lebten Menschen in Höhlen?'
+  - 'Thema 1: Wie entstehen Höhlen?'
+  - 'Thema 1: Tropfsteine'
+  - 'Thema 1: Geschickte Fledermäuse'
+  - 'Thema 1: Lebensraum Höhle'
+  - 'Thema 1: Perfekt angepasste Höhlentiere'
+  - 'Thema 1: Sagen und Geschichte'
+  - 'Thema 1: Gibt es Pflanzen in Höhlen?'
+  - 'Thema 1: Überflutete Höhlen in Mexiko'
+  - 'Thema 1: Die Halbinsel Yucatán'
+  - 'Thema 1: Wasserspeicher der Maya'
+  - 'Thema 1: Funde aus Höhlen'
+  - 'Thema 2: Einleitung'
+  - 'Thema 2: Innenleben der Erde'
+  - 'Thema 2: Die Platten der Erdkruste'
+  - 'Thema 2: Was passiert bei einem Vulkanausbruch?'
+  - 'Thema 2: Entstehung der Alpen und des Himalaya'
+  - 'Thema 2: Bergsteigen und Tierwelt'
+  - 'Thema 2: Dünne Luft'
+  - 'Thema 2: Gletscher'
+  - 'Thema 2: Wasser aus den Bergen'
+  - 'Thema 2: Das Klima der Hochgebirge'
+  - 'Thema 2: Der Mount Everest'
   ids: []

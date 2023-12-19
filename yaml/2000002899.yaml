@@ -4,9 +4,9 @@ data:
 - series: Feuerwehrmann Sam
   series-id: feuerwehrmann-sam
   episode: Mann über Bord
-  release: 0
+  release: 1641427200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,23 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/feuerwehrmann-sam/mann-uber-bord/
   shop-id: ab0b5b1b-6b58-49b2-88ee-7f725ed18787
-  track-desc: []
+  track-desc:
+  - Feuer Auf See Teil 1
+  - Feuer Auf See Teil 2
+  - Feuer Auf See Teil 3
+  - Wal In Sicht Teil 1
+  - Wal In Sicht Teil 2
+  - Wal In Sicht Teil 3
+  - Der Pontypandy Gokart-Club Teil 1
+  - Der Pontypandy Gokart-Club Teil 2
+  - Der Pontypandy Gokart-Club Teil 3
+  - Mandy Und Die Seeschildkröte Teil 1
+  - Mandy Und Die Seeschildkröte Teil 2
+  - Mandy Und Die Seeschildkröte Teil 3
+  - Der Schatz Von Pontypandy Pete Teil 1
+  - Der Schatz Von Pontypandy Pete Teil 2
+  - Der Schatz Von Pontypandy Pete Teil 3
+  - Bühne Frei Für Feuerwehrmann Sam Teil 1
+  - Bühne Frei Für Feuerwehrmann Sam Teil 2
+  - Bühne Frei Für Feuerwehrmann Sam Teil 3
   ids: []

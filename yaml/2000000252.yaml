@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: und der Autostau
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/und-der-autostau/
   shop-id: b829a505-948e-44a6-b2d7-07d3e86d0cff
-  track-desc: []
+  track-desc:
+  - Titellied
+  - Dicke Luft auf der Autobahn
+  - Die Kinder büchsen aus
+  - Picknick auf der Autobahn
+  - Die Eltern wundern sich
+  - Suche per Besen
+  - Verblüffte Polizisten
+  - Autos ohne Menschen
+  - Stuhltanz statt Stau
+  - Amtsperson in Nöten
+  - Hier spricht die Polizei!
+  - Fliegen statt fahren
+  - Weiterflug ans Meer
   ids: []

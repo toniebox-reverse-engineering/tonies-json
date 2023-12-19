@@ -4,9 +4,9 @@ data:
 - series: Die Schule der magischen Tiere
   series-id: die-schule-der-magischen-tiere
   episode: Abgefahren!
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,58 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/die-schule-der-magischen-tiere/abgefahren/
   shop-id: 45e170c2-56f3-4287-a8ca-56309f724c3a
-  track-desc: []
+  track-desc:
+  - Abgefahren!
+  - Titellied Willkommen in der Schule der magischen Tiere
+  - '04: Abgefahren! - Teil 01'
+  - '04: Abgefahren! - Teil 02'
+  - '04: Abgefahren! - Teil 03'
+  - '04: Abgefahren! - Teil 04'
+  - '04: Abgefahren! - Teil 05'
+  - '04: Abgefahren! - Teil 06'
+  - '04: Abgefahren! - Teil 07'
+  - '04: Abgefahren! - Teil 08'
+  - '04: Abgefahren! - Teil 09'
+  - '04: Abgefahren! - Teil 10'
+  - '04: Abgefahren! - Teil 11'
+  - '04: Abgefahren! - Teil 12'
+  - '04: Abgefahren! - Teil 13'
+  - '04: Abgefahren! - Teil 14'
+  - '04: Abgefahren! - Teil 15'
+  - '04: Abgefahren! - Teil 16'
+  - '04: Abgefahren! - Teil 17'
+  - '04: Abgefahren! - Teil 18'
+  - '04: Abgefahren! - Teil 19'
+  - '04: Abgefahren! - Teil 20'
+  - '04: Abgefahren! - Teil 21'
+  - '04: Abgefahren! - Teil 22'
+  - '04: Abgefahren! - Teil 23'
+  - '04: Abgefahren! - Teil 24'
+  - '04: Abgefahren! - Teil 25'
+  - '04: Abgefahren! - Teil 26'
+  - '04: Abgefahren! - Teil 27'
+  - '04: Abgefahren! - Teil 28'
+  - '04: Abgefahren! - Teil 29'
+  - '04: Abgefahren! - Teil 30'
+  - '04: Abgefahren! - Teil 31'
+  - '04: Abgefahren! - Teil 32'
+  - '04: Abgefahren! - Teil 33'
+  - '04: Abgefahren! - Teil 34'
+  - '04: Abgefahren! - Teil 35'
+  - '04: Abgefahren! - Teil 36'
+  - '04: Abgefahren! - Teil 37'
+  - '04: Abgefahren! - Teil 38'
+  - '04: Abgefahren! - Teil 39'
+  - '04: Abgefahren! - Teil 40'
+  - '04: Abgefahren! - Teil 41'
+  - '04: Abgefahren! - Teil 42'
+  - '04: Abgefahren! - Teil 43'
+  - '04: Abgefahren! - Teil 44'
+  - '04: Abgefahren! - Teil 45'
+  - '04: Abgefahren! - Teil 46'
+  - '04: Abgefahren! - Teil 47'
+  - '04: Abgefahren! - Teil 48'
+  - '04: Abgefahren! - Teil 49'
+  - '04: Abgefahren! - Teil 50'
+  - Willkommen in der Schule der magischen Tiere
   ids: []

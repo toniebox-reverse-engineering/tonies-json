@@ -4,9 +4,9 @@ data:
 - series: Conni
   series-id: conni
   episode: Conni und das Hochzeitsfest
-  release: 0
+  release: 1617148800
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
@@ -14,5 +14,41 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/conni/conni-und-das-hochzeitsfest/
   shop-id: 55a145e7-26f8-43cc-bd9f-98dd7c09298e
-  track-desc: []
+  track-desc:
+  - Meine beste Freundin Conni
+  - Conni und das Hochzeitsfest - Teil 01
+  - Conni und das Hochzeitsfest - Teil 02
+  - Conni und das Hochzeitsfest - Teil 03
+  - Conni und das Hochzeitsfest - Teil 04
+  - Conni und das Hochzeitsfest - Teil 05
+  - Conni und das Hochzeitsfest - Teil 06
+  - Conni und das Hochzeitsfest - Teil 07
+  - Conni und das Hochzeitsfest - Teil 08
+  - Conni und das Hochzeitsfest - Teil 09
+  - Conni und das Hochzeitsfest - Teil 10
+  - Conni und das Hochzeitsfest - Teil 11
+  - Conni und das Hochzeitsfest - Teil 12
+  - Conni und das Hochzeitsfest - Teil 13
+  - Conni und das Hochzeitsfest - Teil 14
+  - Conni und das Hochzeitsfest - Teil 15
+  - Conni und das Hochzeitsfest - Teil 16
+  - Conni und das Hochzeitsfest - Teil 17
+  - Conni und das Hochzeitsfest - Teil 18
+  - Conni und das Hochzeitsfest - Teil 19
+  - Conni und das Hochzeitsfest - Teil 20
+  - Conni und das Hochzeitsfest - Teil 21
+  - Conni und das Hochzeitsfest - Teil 22
+  - Conni und das Hochzeitsfest - Teil 23
+  - Conni und das Hochzeitsfest - Teil 24
+  - Conni und das Hochzeitsfest - Teil 25
+  - Conni und das Hochzeitsfest - Teil 26
+  - Conni und das Hochzeitsfest - Teil 27
+  - Conni und das Hochzeitsfest - Teil 28
+  - Conni und das Hochzeitsfest - Teil 29
+  - Conni und das Hochzeitsfest - Teil 30
+  - Conni und das Hochzeitsfest - Teil 31
+  - Conni und das Hochzeitsfest - Teil 32
+  - Conni und das Hochzeitsfest - Teil 33
+  - Conni und das Hochzeitsfest - Teil 34
+  - Meine beste Freundin Conni
   ids: []

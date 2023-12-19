@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: retten die Biber
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/retten-die-biber/
   shop-id: d03299c3-4010-449d-8c59-abbae87fa1c9
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Nachwuchs bei den Bibern
+  - Zwei forsche junge Damen
+  - Überraschung
+  - Land unter!
+  - Ein Machtwort
+  - Der Förster-Praktikant
+  - Geheime Nachtaktion
+  - Konfrontation
+  - In größter Sorge
+  - Hinterher!
+  - In der Falle !
+  - Ein altes neues Zuhause
   ids: []

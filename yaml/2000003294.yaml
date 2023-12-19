@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 49: Pumuckl und die Silberblumen'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-und-die-silberblumen-das-original-aus-dem/
   shop-id: 31a55944-10be-46de-8ce8-97d20c33e19d
-  track-desc: []
+  track-desc:
+  - Pumuckl und die Silberblumen - Teil 01
+  - Pumuckl und die Silberblumen - Teil 02
+  - Pumuckl und die Silberblumen - Teil 03
+  - Pumuckl und die Silberblumen - Teil 04
+  - Pumuckl und die Silberblumen - Teil 05
+  - Pumuckl und die Silberblumen - Teil 06
+  - Pumuckl und die Silberblumen - Teil 07
+  - Pumuckl und die Silberblumen - Teil 08
+  - Pumuckl und die Silberblumen - Teil 09
+  - Pumuckl und die Silberblumen - Teil 10
+  - Pumuckl und die Silberblumen - Teil 11
+  - Pumuckl und die Silberblumen - Teil 12
+  - Pumuckl und die Silberblumen - Teil 13
+  - Pumuckl und die Silberblumen - Teil 14
   ids: []

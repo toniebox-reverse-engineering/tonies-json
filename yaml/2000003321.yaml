@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 76: Pumuckl und der Wellensittich'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-und-der-wellensittich-das-original-aus-dem/
   shop-id: e3b4bff2-d437-4308-bc4b-c2ee84669b52
-  track-desc: []
+  track-desc:
+  - Pumuckl und der Wellensittich - Teil 01
+  - Pumuckl und der Wellensittich - Teil 02
+  - Pumuckl und der Wellensittich - Teil 03
+  - Pumuckl und der Wellensittich - Teil 04
+  - Pumuckl und der Wellensittich - Teil 05
+  - Pumuckl und der Wellensittich - Teil 06
+  - Pumuckl und der Wellensittich - Teil 07
+  - Pumuckl und der Wellensittich - Teil 08
+  - Pumuckl und der Wellensittich - Teil 09
+  - Pumuckl und der Wellensittich - Teil 10
+  - Pumuckl und der Wellensittich - Teil 11
+  - Pumuckl und der Wellensittich - Teil 12
+  - Pumuckl und der Wellensittich - Teil 13
+  - Pumuckl und der Wellensittich - Teil 14
   ids: []

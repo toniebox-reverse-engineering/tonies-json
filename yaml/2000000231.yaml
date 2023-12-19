@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Im Wald der Hexenbesen
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/im-wald-der-hexenbesen/
   shop-id: b4bf5589-3242-49a7-9282-76af1a044c1c
-  track-desc: []
+  track-desc:
+  - Kapitel 01
+  - Kapitel 02
+  - Kapitel 03
+  - Kapitel 04
+  - Kapitel 05
+  - Kapitel 06
+  - Kapitel 07
+  - Kapitel 08
+  - Kapitel 09
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
   ids: []

@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: zieht aus
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,20 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/zieht-aus/
   shop-id: e65a0788-cea7-4ed4-94e0-a6064a188668
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Alle im Wohnzimmer
+  - Der Streit
+  - Auf ins Baumhaus
+  - Hin-und-her-Hexerei
+  - Überraschungsbesuch
+  - Eine gute Idee
+  - Grillspaß überall
+  - Zwei Fronten
+  - Hat schon besser geschmeckt
+  - Papi im Baumhaus
+  - Überlegungen
+  - Alles wieder gut
+  - Das Versöhnungs-Grillfest
+  - Extra
   ids: []

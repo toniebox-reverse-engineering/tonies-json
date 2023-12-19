@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Die weißen Enten
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,18 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/die-weien-enten/
   shop-id: 56c8abef-22ff-4bd4-bdd7-7f93e06d8e9a
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Unterwegs nach Neustadt
+  - Falscher Hexspruch
+  - Aufregung bei den Blocksbergs
+  - Nochmal Glück gehabt
+  - Entenjagd
+  - Allein zu Haus
+  - Bibi rettet die Enten
+  - Anhängliche Tiere
+  - Endlich erkannt!
+  - Komplizierte Rückhexerei
+  - Die böse Nachbarin
+  - Ente gut, alles gut!
   ids: []

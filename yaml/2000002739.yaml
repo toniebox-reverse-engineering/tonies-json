@@ -4,9 +4,9 @@ data:
 - series: Conni
   series-id: conni
   episode: Conni kümmert sich um die Umwelt / Conni entdeckt die Bücher
-  release: 0
+  release: 1634774400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
@@ -14,5 +14,31 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/conni/conni-kummert-sich-um-die-umwelt-conni-entdeckt-di/
   shop-id: 199323a4-42ae-4d99-88c2-c9239b1b7916
-  track-desc: []
+  track-desc:
+  - Meine beste Freundin Conni
+  - Conni kümmert sich um die Umwelt - Teil 01
+  - Conni kümmert sich um die Umwelt - Teil 02
+  - Conni kümmert sich um die Umwelt - Teil 03
+  - Conni kümmert sich um die Umwelt - Teil 04
+  - Conni kümmert sich um die Umwelt - Teil 05
+  - Conni kümmert sich um die Umwelt - Teil 06
+  - Conni kümmert sich um die Umwelt - Teil 07
+  - Conni kümmert sich um die Umwelt - Teil 08
+  - Conni kümmert sich um die Umwelt - Teil 09
+  - Conni kümmert sich um die Umwelt - Teil 10
+  - Conni kümmert sich um die Umwelt - Teil 11
+  - Conni kümmert sich um die Umwelt - Teil 12
+  - Conni kümmert sich um die Umwelt - Teil 13
+  - Conni kümmert sich um die Umwelt - Teil 14
+  - Conni kümmert sich um die Umwelt - Teil 15
+  - Conni kümmert sich um die Umwelt - Teil 16
+  - Conni entdeckt die Bücher - Teil 01
+  - Conni entdeckt die Bücher - Teil 02
+  - Conni entdeckt die Bücher - Teil 03
+  - Conni entdeckt die Bücher - Teil 04
+  - Conni entdeckt die Bücher - Teil 05
+  - Conni entdeckt die Bücher - Teil 06
+  - Conni entdeckt die Bücher - Teil 07
+  - Conni entdeckt die Bücher - Teil 08
+  - Meine beste Freundin Conni
   ids: []

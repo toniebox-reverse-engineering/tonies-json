@@ -4,9 +4,9 @@ data:
 - series: Die Olchis
   series-id: die-olchis
   episode: Witze aus der Pfütze
-  release: 0
+  release: 1356998400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 5
   origin: tunes
@@ -14,5 +14,14 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/die-olchis/witze-aus-der-pfutze/
   shop-id: 6c1f4030-9e35-416f-868b-a997cc9b4e5c
-  track-desc: []
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
   ids: []

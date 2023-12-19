@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Das Kürbisfest
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,16 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/das-kurbisfest/
   shop-id: 12a8d550-d237-4501-a9e9-4fb5db3301cf
-  track-desc: []
+  track-desc:
+  - Lied
+  - So viele Kürbisse
+  - Eine Kutsche auf Kufen
+  - Bei Freddy in der Schmiede
+  - Neue Ferienfreunde
+  - Die Festkomiteesitzung
+  - Unsere Mieze Minki
+  - Der große Bruder
+  - Viele fleißige Hände
+  - Festtagsüberraschungen
+  - Das große Kürbiswettreiten
   ids: []

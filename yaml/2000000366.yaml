@@ -4,9 +4,9 @@ data:
 - series: Bibi & Tina
   series-id: bibi-tina
   episode: Wo ist Felix?
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,19 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-tina/wo-ist-felix/
   shop-id: a39be54c-377f-4c6e-98d2-20f29755cf15
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Felix will mit
+  - Zur Koppel des Grafen
+  - Unaufmerksamkeiten
+  - Ein falscher Verdacht
+  - Bibi hext
+  - Sigurd schlägt zu
+  - Beim Mühlenhofbauer
+  - Erwischt!
+  - Nach Rotenbrunn
+  - Schon wieder weg
+  - Auf dem Wochenmarkt
+  - In der Brauerei
+  - Endlich nach Hause
   ids: []

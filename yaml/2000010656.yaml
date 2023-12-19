@@ -4,9 +4,9 @@ data:
 - series: Die drei ??? Kids
   series-id: die-drei-kids
   episode: Die Geistermühle
-  release: 0
-  language: null
-  category: null
+  release: 1701216000
+  language: de-de
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,29 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/die-drei-kids/die-drei-kids-folge-93-die-geistermuhle/
   shop-id: d21559b5-aa79-4b82-8db4-e8b8840a9748
-  track-desc: []
+  track-desc:
+  - 93 - Die Geistermühle (Inhaltsangabe)
+  - Die drei ??? Kids Titelsong
+  - 93 - Die Geistermühle (Teil 01)
+  - 93 - Die Geistermühle (Teil 02)
+  - 93 - Die Geistermühle (Teil 03)
+  - 93 - Die Geistermühle (Teil 04)
+  - 93 - Die Geistermühle (Teil 05)
+  - 93 - Die Geistermühle (Teil 06)
+  - 93 - Die Geistermühle (Teil 07)
+  - 93 - Die Geistermühle (Teil 08)
+  - 93 - Die Geistermühle (Teil 09)
+  - 93 - Die Geistermühle (Teil 10)
+  - 93 - Die Geistermühle (Teil 11)
+  - 93 - Die Geistermühle (Teil 12)
+  - 93 - Die Geistermühle (Teil 13)
+  - 93 - Die Geistermühle (Teil 14)
+  - 93 - Die Geistermühle (Teil 15)
+  - 93 - Die Geistermühle (Teil 16)
+  - 93 - Die Geistermühle (Teil 17)
+  - 93 - Die Geistermühle (Teil 18)
+  - 93 - Die Geistermühle (Teil 19)
+  - 93 - Die Geistermühle (Teil 20)
+  - Die drei ??? Kids Schlußsong
+  - 93 - Die Geistermühle (Outro)
   ids: []

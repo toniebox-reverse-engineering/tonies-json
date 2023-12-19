@@ -4,9 +4,9 @@ data:
 - series: WAS IST WAS
   series-id: was-ist-was
   episode: Orcas / Polarmeere
-  release: 0
+  release: 1626307200
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 6
   origin: tunes
@@ -14,5 +14,36 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/was-ist-was/orcas-polarmeere/
   shop-id: 7fe799cc-44cb-4855-8fdb-ace731a2c197
-  track-desc: []
+  track-desc:
+  - 'Thema 1: Einleitung'
+  - 'Thema 1: Orcas: Beeindruckende Meeresbewohner'
+  - 'Thema 1: Wale als Säugetiere'
+  - 'Thema 1: Der Blas: Wie atmen Orcas?'
+  - 'Thema 1: Warum springen Orcas?'
+  - 'Thema 1: Wie leben Orcas?'
+  - 'Thema 1: Wie sich Orcas verständigen'
+  - 'Thema 1: Was sind Klicklaute?'
+  - 'Thema 1: Was essen Orcas?'
+  - 'Thema 1: Die Jagdtechnik der Orcas'
+  - 'Thema 1: Wie Orcas ihre Beute fangen'
+  - 'Thema 1: Orcas: Wölfe der Meere'
+  - 'Thema 1: Orcas in Gefangenschaft'
+  - 'Thema 2: Einleitung'
+  - 'Thema 2: Arktis und Antarktis'
+  - 'Thema 2: Warum es an den Polarregionen so kalt ist'
+  - 'Thema 2: Wie entstehen Polarlichter?'
+  - 'Thema 2: Wie sich Eisschollen bilden'
+  - 'Thema 2: Heimat der Eisbären'
+  - 'Thema 2: Wie entstehen Eisberge?'
+  - 'Thema 2: Wofür sind Eisbrecher gut?'
+  - 'Thema 2: Wale in den Polarmeeren'
+  - 'Thema 2: Forschungsgebiet Antarktis'
+  - 'Thema 2: Die stärkste Strömung der Welt'
+  - 'Thema 2: Starke Winde am Südpolarmeer'
+  - 'Thema 2: Blauwale: Die größten Tiere der Welt'
+  - 'Thema 2: Wanderalbatrosse: Jäger am Südpol'
+  - 'Thema 2: Koloss-Kalmar: Bewohner der Antarktis'
+  - 'Thema 2: Algen: Nahrung in den Polarmeeren'
+  - 'Thema 2: Eisige Temperaturen'
+  - 'Thema 2: Wie leben Pinguine?'
   ids: []

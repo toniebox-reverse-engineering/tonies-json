@@ -4,9 +4,9 @@ data:
 - series: Bibi Blocksberg
   series-id: bibi-blocksberg
   episode: Die Zauberlimonade
-  release: 0
+  release: 1595721600
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,16 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/bibi-blocksberg/die-zauberlimonade/
   shop-id: 79cf7019-a6cd-4f64-a9bd-18adfbf40032
-  track-desc: []
+  track-desc:
+  - Titelsong
+  - Sorge um Boris
+  - Lügt der Bürgermeister -
+  - Bibi wird aktiv !
+  - Die Zauberlimonade
+  - Chaos auf den Straßen
+  - Die Limonade wirkt !
+  - Gegenmittel verzweifelt gesucht !
+  - Bibi im Rathaus
+  - Der Bürgermeister gesteht
+  - Viele neue Fahrradwege
   ids: []

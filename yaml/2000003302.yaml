@@ -4,9 +4,9 @@ data:
 - series: Pumuckl
   series-id: pumuckl
   episode: 'Folge 57: Pumuckl und das Geld'
-  release: 0
+  release: 1652918400
   language: de-de
-  category: null
+  category: audio-play
   runtime: 0
   age: 4
   origin: tunes
@@ -14,5 +14,17 @@ data:
   sample: null
   web: https://tonies.com/de-de/audio-content/pumuckl/pumuckl-und-das-geld-das-original-aus-dem-fernsehe/
   shop-id: 06e9fbd1-683c-4f5f-8ae4-a782d9b3c8de
-  track-desc: []
+  track-desc:
+  - Pumuckl und das Geld - Teil 01
+  - Pumuckl und das Geld - Teil 02
+  - Pumuckl und das Geld - Teil 03
+  - Pumuckl und das Geld - Teil 04
+  - Pumuckl und das Geld - Teil 05
+  - Pumuckl und das Geld - Teil 06
+  - Pumuckl und das Geld - Teil 07
+  - Pumuckl und das Geld - Teil 08
+  - Pumuckl und das Geld - Teil 09
+  - Pumuckl und das Geld - Teil 10
+  - Pumuckl und das Geld - Teil 11
+  - Pumuckl und das Geld - Teil 12
   ids: []
