@@ -1,0 +1,44 @@
+article: '2000010678'
+lock-data: false
+data:
+- series: LEGO Ninjago
+  series-id: lego-ninjago
+  episode: 'Folgen 215-216: Die Schicksalsschreibenden'
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/a56f9f6d32484bbcb3c221aae7cb7df1c979a2afb37a7fa2fc4c199d/3_8cyth7XyYHgTkkv_/lego_ninjago_215_folgen_215_216__die_schicksal_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/a7db4de020afdf5475579110c6497b41b9b1da1b4c1519bfeff38ddf/4013575951024_preview.mp3
+  web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-215-216-die-schicksalsschreibenden/
+  shop-id: 7ebb6804-9dd1-4b9d-89d2-3c1057d56830
+  track-desc:
+  - 'Kapitel 01: Die Schicksalsschreibenden (Folge 215)'
+  - 'Kapitel 02: Die Schicksalsschreibenden (Folge 215)'
+  - 'Kapitel 03: Die Schicksalsschreibenden (Folge 215)'
+  - 'Kapitel 04: Die Schicksalsschreibenden (Folge 215)'
+  - 'Kapitel 05: Die Schicksalsschreibenden (Folge 215)'
+  - 'Kapitel 06: Die Schicksalsschreibenden (Folge 215)'
+  - 'Kapitel 07: Die Schicksalsschreibenden (Folge 215)'
+  - 'Kapitel 08: Die Schicksalsschreibenden (Folge 215)'
+  - 'Kapitel 09: Die Schicksalsschreibenden (Folge 215)'
+  - 'Kapitel 10: Die Schicksalsschreibenden (Folge 215)'
+  - 'Kapitel 11: Die Schicksalsschreibenden (Folge 215)'
+  - 'Kapitel 12: Die Schicksalsschreibenden (Folge 215)'
+  - 'Kapitel 13: Die Schicksalsschreibenden (Folge 215)'
+  - 'Kapitel 01: Rückkehr nach Imperium (Folge 216)'
+  - 'Kapitel 02: Rückkehr nach Imperium (Folge 216)'
+  - 'Kapitel 03: Rückkehr nach Imperium (Folge 216)'
+  - 'Kapitel 04: Rückkehr nach Imperium (Folge 216)'
+  - 'Kapitel 05: Rückkehr nach Imperium (Folge 216)'
+  - 'Kapitel 06: Rückkehr nach Imperium (Folge 216)'
+  - 'Kapitel 07: Rückkehr nach Imperium (Folge 216)'
+  - 'Kapitel 08: Rückkehr nach Imperium (Folge 216)'
+  - 'Kapitel 09: Rückkehr nach Imperium (Folge 216)'
+  - 'Kapitel 10: Rückkehr nach Imperium (Folge 216)'
+  - 'Kapitel 11: Rückkehr nach Imperium (Folge 216)'
+  - 'Kapitel 12: Rückkehr nach Imperium (Folge 216)'
+  - 'Kapitel 13: Rückkehr nach Imperium (Folge 216)'
+  ids: []

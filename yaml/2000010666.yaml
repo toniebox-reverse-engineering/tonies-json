@@ -1,0 +1,20 @@
+article: '2000010666'
+lock-data: false
+data:
+- series: Aumio
+  series-id: aumio
+  episode: Cozy Bedtime Stories
+  release: 0
+  language: en-gb
+  category: audio-book
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_fb9d1bb127dba0925d60c2558d242405712ff2068e953fb47d6bb69e/3_4.WgJD800ZL1MsJT/aumio_006_cozy_bedtime_stories_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/fa291c91289caf3f71695ac96c42b7082d2d46f9123f10b05fdd8e81/en_sr95_teaser_slumber_party_in_the_enchanted_forest.wav
+  web: https://tonies.com/de-de/audio-content/aumio/aumio-cozy-bedtime-stories/
+  shop-id: ba85a896-431f-4573-b001-7b99567252e2
+  track-desc:
+  - Slumber Party in the Enchanted Forest
+  - Dreaming in the Fairy Forest
+  ids: []

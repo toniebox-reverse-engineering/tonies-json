@@ -1,0 +1,45 @@
+article: '2000010677'
+lock-data: false
+data:
+- series: LEGO Ninjago
+  series-id: lego-ninjago
+  episode: 'Folgen 217-218: Wyldfyre'
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/154127af14ab69feb01861b58ddaf60be12adaaed7e7e59323e4b2ea/3_n1_-C76KQk~Kpz-d/lego_ninjago_217_folgen_217_218__wyldfyre_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/32031494303612621d114486ed7b4bfeddcc7e9562a1436608b07df3/4013575951109_preview.mp3
+  web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-217-218-wyldfyre/
+  shop-id: d9bad663-c9c6-4b96-9c7f-89e23f08eaf1
+  track-desc:
+  - 'Kapitel 01: Wyldfyre (Folge 217)'
+  - 'Kapitel 02: Wyldfyre (Folge 217)'
+  - 'Kapitel 03: Wyldfyre (Folge 217)'
+  - 'Kapitel 04: Wyldfyre (Folge 217)'
+  - 'Kapitel 05: Wyldfyre (Folge 217)'
+  - 'Kapitel 06: Wyldfyre (Folge 217)'
+  - 'Kapitel 07: Wyldfyre (Folge 217)'
+  - 'Kapitel 08: Wyldfyre (Folge 217)'
+  - 'Kapitel 09: Wyldfyre (Folge 217)'
+  - 'Kapitel 10: Wyldfyre (Folge 217)'
+  - 'Kapitel 11: Wyldfyre (Folge 217)'
+  - 'Kapitel 12: Wyldfyre (Folge 217)'
+  - 'Kapitel 13: Wyldfyre (Folge 217)'
+  - 'Kapitel 14: Wyldfyre (Folge 217)'
+  - 'Kapitel 01: Ich bin die Gefahr! (Folge 218)'
+  - 'Kapitel 02: Ich bin die Gefahr! (Folge 218)'
+  - 'Kapitel 03: Ich bin die Gefahr! (Folge 218)'
+  - 'Kapitel 04: Ich bin die Gefahr! (Folge 218)'
+  - 'Kapitel 05: Ich bin die Gefahr! (Folge 218)'
+  - 'Kapitel 06: Ich bin die Gefahr! (Folge 218)'
+  - 'Kapitel 07: Ich bin die Gefahr! (Folge 218)'
+  - 'Kapitel 08: Ich bin die Gefahr! (Folge 218)'
+  - 'Kapitel 09: Ich bin die Gefahr! (Folge 218)'
+  - 'Kapitel 10: Ich bin die Gefahr! (Folge 218)'
+  - 'Kapitel 11: Ich bin die Gefahr! (Folge 218)'
+  - 'Kapitel 12: Ich bin die Gefahr! (Folge 218)'
+  - 'Kapitel 13: Ich bin die Gefahr! (Folge 218)'
+  ids: []

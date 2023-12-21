@@ -1,0 +1,20 @@
+article: '2000010669'
+lock-data: false
+data:
+- series: Aumio
+  series-id: aumio
+  episode: Sleep Journey to the Cloud Galaxy
+  release: 0
+  language: en-gb
+  category: audio-book
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_26dcd2a799299cdf81714fc04405685b650dc6b854bf255580676e40/3_tty7JMQgzBtGV9Cl/aumio_009_sleep_journey_to_the_cloud_galaxy_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/4dadff604790d985da0353a1a2fc37bcaf5ea6a05b78d8996d406462/en_ps_sr53_teaser_the_villis_fall_asleep.wav
+  web: https://tonies.com/de-de/audio-content/aumio/aumio-sleep-journey-to-the-cloud-galaxy/
+  shop-id: dd78fdb3-067c-4cb4-afe2-69327ad9f81c
+  track-desc:
+  - The Viillis fall asleep
+  - Sounds of the Cloud Galaxy
+  ids: []

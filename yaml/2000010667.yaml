@@ -1,0 +1,20 @@
+article: '2000010667'
+lock-data: false
+data:
+- series: Aumio
+  series-id: aumio
+  episode: Sleep Journey to the Mindu Galaxy
+  release: 0
+  language: en-gb
+  category: audio-book
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_46e564176ec02b14d8b6d6e8588618d997edf1dbfc656a097294e167/3_tX1HbJQnJ3ckKdyz/aumio_007_sleep_journey_to_the_mindu_galaxy_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/51ed7b960846f659f9b68a9d7162ca93be12390bf7bc68ac5b4dcbe3/sr65_teaser_the_rocket_tour.wav
+  web: https://tonies.com/de-de/audio-content/aumio/aumio-sleep-journey-to-the-mindu-galaxy/
+  shop-id: 58e33690-ae85-417f-aedc-8c2a8b4b651a
+  track-desc:
+  - The Rocket Tour
+  - Music from Mindu
+  ids: []

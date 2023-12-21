@@ -1,0 +1,20 @@
+article: '2000010668'
+lock-data: false
+data:
+- series: Aumio
+  series-id: aumio
+  episode: Sleep Journey to the Dream Circus Galaxy
+  release: 0
+  language: en-gb
+  category: audio-book
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_6b6d976a427ab52519eb177b2085563122803f954d96852b58e3f983/3_jH85TCr6yR0b.c1X/aumio_008_sleep_journey_to_the_dream_circus_ga_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/6947a60dc560289217d71e6611262b71aebcbd45557099a13b10d99d/en_ps_sr58_teaser_bathing_in_starlight.wav
+  web: https://tonies.com/de-de/audio-content/aumio/aumio-sleep-journey-to-the-dream-circus-galaxy/
+  shop-id: 12f93d33-fb59-481c-b8e5-19422aaf8c8d
+  track-desc:
+  - Bathing in Starlight
+  - Dream Circus Music Box
+  ids: []
