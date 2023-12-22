@@ -1,0 +1,18 @@
+article: '2000010695'
+lock-data: false
+data:
+- series: Dino Ranch
+  series-id: dino-ranch
+  episode: 'Folgen 17-20: Der Traum vom Fliegen'
+  release: 0
+  language: null
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/ada5a6b2fac64d959e2bd91767039ef6d96e60085007b8f68ba504a7/3_Gnx-Pb13wXjxBVd3/dino_ranch_017_folgen_17_20__der_traum_vom_fli_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/dino-ranch/folgen-17-20-der-traum-vom-fliegen/
+  shop-id: 295c1dcc-bc99-450a-81b4-fb2e5b976578
+  track-desc: []
+  ids: []

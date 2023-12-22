@@ -1,0 +1,18 @@
+article: '10000551'
+lock-data: false
+data:
+- series: The Pontypandy Pack
+  series-id: null
+  episode: Fireman Sam
+  release: 1703266076
+  language: en-us
+  category: Tonie
+  runtime: 0
+  age: 99
+  origin: stock
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tonies-PDP-Assets-firemansam-single.jpg?v=1702325222
+  sample: null
+  web: null
+  shop-id: '8134366888087'
+  track-desc: []
+  ids: []

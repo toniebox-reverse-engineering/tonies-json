@@ -1,0 +1,18 @@
+article: '2000010693'
+lock-data: false
+data:
+- series: Dino Ranch
+  series-id: dino-ranch
+  episode: 'Folgen 37-40: Dino-Ei-Alarm'
+  release: 0
+  language: null
+  category: null
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/7707f2ef42a6ab50cb8bd06396a9dae5d7dadf26cad1a046a4d7df2b/3_Gp2D4FlG6_bkfb2B/dino_ranch_037_folgen_37_40__dino_ei_alarm_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/dino-ranch/folgen-37-40-dino-ei-alarm/
+  shop-id: 995c3c52-652e-49df-ae8b-7789adc33a92
+  track-desc: []
+  ids: []
