@@ -1,0 +1,38 @@
+article: '2000010673'
+lock-data: false
+data:
+- series: Sternenfohlen
+  series-id: sternenfohlen
+  episode: 'Teil 20: Ein Liebesbrief für Wolke'
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/b3f288dcaad12f7c56aed57ed009ed690492f60c99439d564ad02485/3_NdhG_0pFs-Vw8kw1/sternenfohlen_020_teil_20__ein_liebesbrief_fur_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/84907bb6eec82dc2c026e2acf002ed618c0861f41b93bd4f0797c289/4066004600444_001_001_128.mp3
+  web: https://tonies.com/de-de/audio-content/sternenfohlen/sternenfohlen-teil-20-ein-liebesbrief-fur-wolke/
+  shop-id: ea24a0f2-ca95-40e8-93c5-2876db45cad1
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
+  - Kapitel 20
+  ids: []

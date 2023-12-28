@@ -1,0 +1,40 @@
+article: '2000010675'
+lock-data: false
+data:
+- series: Sternenfohlen
+  series-id: sternenfohlen
+  episode: 'Teil 22: Die Zwillingsfohlen'
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/3ea5825a243da23aa4fb3b1b4966da8528403060feab2f4583e1ff8c/3_HG3~gvyX3~8wKxDs/sternenfohlen_022_teil_22__die_zwillingsfohlen_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/b047297d94ba9e3455911e197127b2bd4ca6a942dcb13ee852a1c91a/4066004600420_001_001_128.mp3
+  web: https://tonies.com/de-de/audio-content/sternenfohlen/sternenfohlen-teil-22-die-zwillingsfohlen/
+  shop-id: e5e5a4cf-efc0-4c14-aa39-ea61da531bf7
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
+  - Kapitel 20
+  - Kapitel 21
+  - Kapitel 22
+  ids: []
