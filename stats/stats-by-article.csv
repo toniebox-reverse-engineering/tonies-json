@@ -283,9 +283,9 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000168,Favourite Children’s Songs,,Sing-Along Songs,en-gb,music,stock,,,1,1,0,0
 10000169,Creative-Tonie,,Clown,en-gb,creative-tonie,stock,8df3500f-21d1-4c57-a200-dc145e94441a,https://tonies.com/de-de///,1,0,0,0
 10000170,Creative-Tonie,,Skater,en-gb,creative-tonie,stock,eede5b3b-7982-4b3a-8004-86e95d42c6b4,https://tonies.com/de-de///,1,0,0,0
-10000172,Favourite Children's Songs,favourite-children-s-songs,Travelling Songs,en-gb,audio-play,stock,8e84a3f6-e1f1-4913-9efd-64a0a3ed13cf,https://tonies.com/en-gb/tonies/favourite-children-s-songs/travelling-songs/,1,0,0,0
+10000172,Favourite Children's Songs,favourite-children-s-songs,Travelling Songs,en-gb,audio-play,stock,8e84a3f6-e1f1-4913-9efd-64a0a3ed13cf,https://tonies.com/en-gb/tonies/favourite-children-s-songs/travelling-songs/,1,1,0,0
 10000173,HOW AND WHY,,Space Travel / The Moon,en-gb,audio-play-educational,stock,,,1,0,0,0
-10000174,Maya the Bee,maya-the-bee,The birth of Maya,en-gb,audio-play,stock,6ea8c325-ce5c-4ece-a68b-4252d121ada2,https://tonies.com/en-gb/tonies/maya-the-bee/the-birth-of-maya/,1,0,0,0
+10000174,Maya the Bee,maya-the-bee,The birth of Maya,en-gb,audio-play,stock,6ea8c325-ce5c-4ece-a68b-4252d121ada2,https://tonies.com/en-gb/tonies/maya-the-bee/the-birth-of-maya/,1,1,0,0
 10000175,Kosmo und Klax,,Freundschaftsgeschichten,de-de,audio-book-songs,stock,,,1,1,1,1
 10000178,Creative-Tonie,,Superhero Boy,en-gb,creative-tonie,stock,fd1f469d-d6f8-4474-a43a-e94ae93a9212,https://tonies.com/de-de///,1,0,0,0
 10000179,Creative-Tonie,,Superhero Girl,en-gb,creative-tonie,stock,ff60ac90-c443-4e85-aaac-b449b61c3ffa,https://tonies.com/de-de///,1,0,0,0
@@ -447,7 +447,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000537,Creative-Tonie,,Superhero - Blue/Red,en-us,creative-tonie,stock,6220672303255,,1,0,0,0
 10000538,Playtime Songs,,,en-us,Tonie,stock,5519401975959,,1,1,1,1
 10000539,Bedtime Songs & Lullabies,,,en-us,Tonie,stock,5519468626071,,1,1,1,1
-10000540,Celebration Songs,,,en-us,Tonie,stock,5519481045143,,1,0,0,0
+10000540,Celebration Songs,,,en-us,Tonie,stock,5519481045143,,1,1,0,0
 10000541,Julia Donaldson,,The Gruffalo,en-us,Tonie,stock,5458365776023,,1,0,0,0
 10000542,Peter Rabbit,,,en-us,Tonie,stock,6462410752151,,1,0,0,0
 10000543,Peppa Pig,,,en-us,Tonie,stock,6807578935447,,1,1,1,1
@@ -490,7 +490,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000616,Lieblings-Meisterstücke,lieblings-meisterstuecke,Schwanensee,de-de,audio-play-songs,stock,77af4cbc-2c2d-4e09-93d3-2afe83705e4d,https://tonies.com/de-de/tonies/lieblings-meisterstuecke/schwanensee/,1,1,1,1
 10000617,Miraculous,miraculous,Miraculous - Aller Anfang ist schwer,de-de,audio-play,stock,8008f7bb-6a1c-4a11-82ae-2940d1800467,https://tonies.com/de-de/tonies/miraculous/miraculous-aller-anfang-ist-schwer/,1,1,1,3
 10000620,Thomas & Friends,,Thomas the Tank Engine,en-us,Tonie,stock,8057956040855,,1,0,0,0
-10000623,Disney,,Moana,en-us,Tonie,stock,7168607551639,,1,0,0,0
+10000623,Disney,,Moana,en-us,Tonie,stock,7168607551639,,1,1,0,0
 10000624,Masha & the Bear,,,en-us,Tonie,stock,7099443478679,,1,0,0,0
 10000626,My Little Pony,,,en-us,Tonie,stock,7785751150743,,1,0,0,0
 10000628,Creative-Tonie,,Monster,en-us,creative-tonie,stock,8056753422487,,1,0,0,0
@@ -1071,7 +1071,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000199,Leos Tag,leos-tag,"1, 2, 3, sei beim Aufräumen dabei!",de-de,audio-play-songs,stock,2c4579b4-5eea-48ea-ac44-2578331a8eae,https://tonies.com/de-de/tonies/leos-tag/1-2-3-sei-beim-aufrumen-dabei/,1,1,0,0
 11000200,Potty Training,,,en-us,Tonie,stock,8134364266647,,1,0,0,0
 11000201,Die Sendung mit dem Elefanten,die-sendung-mit-dem-elefanten,Schlaf schön! (Neuauflage 2023),de-de,audio-book-songs,stock,fe510ac5-e375-4b01-a68f-5da58aee59e9,https://tonies.com/de-de/tonies/die-sendung-mit-dem-elefanten/schlaf-schon-neuauflage-2023/,1,0,0,0
-11000202,Disney,,Encanto,en-us,Tonie,stock,7988035354775,,1,0,0,0
+11000202,Disney,,Encanto,en-us,Tonie,stock,7988035354775,,1,1,0,0
 11000205,Disney,disney,Encanto,en-gb,audio-play-songs,stock,fe6b6a25-404f-42fd-9895-45b40582701c,https://tonies.com/en-gb/tonies/disney/encanto/,1,0,0,0
 11000212,Favorite Myths,,Egyptian Mythology,en-us,Tonie,stock,8041065250967,,1,0,0,0
 11000214,The Velveteen Rabbit,,,en-us,Tonie,stock,8072085471383,,1,0,0,0
@@ -1083,7 +1083,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000222,Octonauts,,Kwazii,en-us,Tonie,stock,8031614369943,,1,0,0,0
 11000223,Yoga,,,en-us,Tonie,stock,8134363644055,,1,0,0,0
 11000224,Paw Patrol,paw-patrol,Rocky,en-gb,audio-play,stock,4974cfd8-9943-41b0-bb38-0f8f30cfead3,https://tonies.com/en-gb/tonies/paw-patrol/rocky/,1,0,0,0
-11000244,Tiny Chef,,,en-us,Tonie,stock,8085915074711,,1,0,0,0
+11000244,Tiny Chef,,,en-us,Tonie,stock,8085915074711,,1,1,0,0
 11000245,Dino Ranch,,,en-us,Tonie,stock,8057958105239,,1,0,0,0
 11000247,PAW Patrol,paw-patrol,Die Hundeschau,de-de,audio-play,stock,d8593db8-ad2a-49e9-9d12-b10d5c3e18f9,https://tonies.com/de-de/tonies/paw-patrol/die-hundeschau/,1,1,0,0
 11000249,Disney,disney,Tiggers großes Abenteuer,de-de,audio-play,stock,af4b11b7-0713-4f58-b1b5-25e134092b6b,https://tonies.com/de-de/tonies/disney/disney-tigger-tiggers-groes-abenteuer/,1,1,1,1
@@ -1136,7 +1136,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000569,Mes Comptines Préférées,mes-comptines-preferees,Les Animaux,fr-fr,music,stock,937193cb-1373-4862-b40f-4ba2e115d24d,https://tonies.com/fr-fr/tonies/mes-comptines-preferees/les-animaux/,1,0,0,0
 11000608,Spidey Et Ses Amis Extraordinaires,spidey-et-ses-amis-extraordinaires,Ghost-Spider,fr-fr,audio-play-songs,stock,4b745f3a-0e10-42a9-990f-6c5b1ec0c8ad,https://tonies.com/fr-fr/tonies/spidey-et-ses-amis-extraordinaires/ghost-spider/,1,0,0,0
 11000609,Spidey Et Ses Amis Extraordinaires,spidey-et-ses-amis-extraordinaires,Miles Morales,fr-fr,audio-play-songs,stock,1b73316c-a179-4b6f-9e38-a773b8c3b606,https://tonies.com/fr-fr/tonies/spidey-et-ses-amis-extraordinaires/miles-morales/,1,0,0,0
-11000631,Advent calendar,advent-calendar,The Little Reindeer's Christmas Wish,en-gb,audio-play,stock,2fbcc068-b538-478b-9081-cac9565e3df9,https://tonies.com/en-gb/tonies/advent-calendar/the-little-reindeers-christmas-wish/,1,0,0,0
+11000631,Advent calendar,advent-calendar,The Little Reindeer's Christmas Wish,en-gb,audio-play,stock,2fbcc068-b538-478b-9081-cac9565e3df9,https://tonies.com/en-gb/tonies/advent-calendar/the-little-reindeers-christmas-wish/,1,1,0,0
 11000708,Clever Tonies Set,,Marine Life,en-us,Tonie,stock,8076775293079,,1,0,0,0
 11000709,Clever Tonies Set,,Kid Comedy,en-us,Tonie,stock,8076776112279,,1,0,0,0
 11000710,Clever Tonies Set,,Inventions and Innovation,en-us,Tonie,stock,8076775555223,,1,0,0,0
