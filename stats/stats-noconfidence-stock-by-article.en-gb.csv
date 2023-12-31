@@ -12,10 +12,10 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000018,Disney,disney,The Little Mermaid,en-gb,audio-play-songs,stock,0cf4f3f5-0479-4834-a8e7-83a2041bc065,https://tonies.com/en-gb/tonies/disney/the-little-mermaid/,1,1,0,0
 10000020,Disney,disney,The Lion King,en-gb,audio-play-songs,stock,a28f7907-a83b-499e-8e34-189f271609f4,https://tonies.com/en-gb/tonies/disney/the-lion-king/,1,1,0,0
 10000021,Hully Boo Spook'n Spell,,How Hully Boo got his rattling chain / Halloween at Palace Primary,en-gb,audio-play,stock,,,1,0,0,0
-10000022,Hully Boo Spook'n Spell,,Treasure hunt in the Museum / The Magic Championships,en-gb,audio-play,stock,,,1,0,0,0
+10000022,Hully Boo Spook'n Spell,,Treasure hunt in the Museum / The Magic Championships,en-gb,audio-play,stock,,,1,1,0,0
 10000023,The Fox Pack,,Mystery in the Garden/Tracks of a Giant,en-gb,audio-play,stock,,,1,0,0,0
 10000024,The Gnats,,Here come the Gnats!,en-gb,Audiobook,stock,,,1,0,0,0
-10000025,TKKG Junior,,Beware of the Beast,en-gb,audio-play,stock,,,1,0,0,0
+10000025,TKKG Junior,,Beware of the Beast,en-gb,audio-play,stock,,,1,1,0,0
 10000026,TKKG Junior,,Scary Sleepover,en-gb,audio-play,stock,,,1,0,0,0
 10000028,The Three Question Marks,,The Realm of Riddles,en-gb,Audiobook,stock,,,1,0,0,0
 10000029,The Three ???,,Night among Wolves,en-gb,audio-book,stock,,,1,0,0,0
@@ -42,7 +42,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000251,Favourite Children’s Songs,,Playtime and Action Songs 2,en-gb,music,stock,,,1,0,0,0
 10000252,Favourite Tales,favourite-tales,Puss in Boots and other fairy tales,en-gb,audio-book,stock,91a59dd3-b50e-42b0-b4c3-f739b8bde93d,https://tonies.com/en-gb/tonies/favourite-tales/puss-in-boots-and-other-fairy-tales/,1,0,0,0
 10000270,Favourite Children's Songs,favourite-children-s-songs,European Children's Songs,en-gb,music,stock,f89ef566-e3de-4f1a-aca4-93c9a53e0c65,https://tonies.com/en-gb/tonies/favourite-children-s-songs/european-childrens-songs/,1,0,0,0
-10000271,Favourite Masterpieces,favourite-masterpieces,Hansel and Gretel,en-gb,audio-play-songs,stock,8fd0afbd-0c3c-4c29-b0e1-8573d88a2ca3,https://tonies.com/en-gb/tonies/favourite-masterpieces/hansel-and-gretel/,1,0,0,0
+10000271,Favourite Masterpieces,favourite-masterpieces,Hansel and Gretel,en-gb,audio-play-songs,stock,8fd0afbd-0c3c-4c29-b0e1-8573d88a2ca3,https://tonies.com/en-gb/tonies/favourite-masterpieces/hansel-and-gretel/,1,1,0,0
 10000273,Peter Rabbit,peter-rabbit,The Peter Rabbit Collection,en-gb,audio-book,stock,92b11bf7-5357-430b-bd4c-df794c197263,https://tonies.com/en-gb/tonies/peter-rabbit/the-peter-rabbit-collection/,1,1,0,0
 10000274,Fun with Spot,fun-with-spot,Spot's Fun with Friends,en-gb,audio-play,stock,a544565f-6670-4cdc-b8d3-e0a06ef02591,https://tonies.com/en-gb/tonies/fun-with-spot/spots-fun-with-friends/,1,0,0,0
 10000294,Disney,disney,Monsters Inc.,en-gb,audio-play-songs,stock,f58f0b13-7db5-40c5-aa07-1c72f683d4c9,https://tonies.com/en-gb/tonies/disney/monsters/,1,0,0,0
@@ -79,14 +79,14 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000599,Oi Frog,oi-frog,Oi Frog and Friends,en-gb,audio-book,stock,300f01d0-6452-4c1b-94e5-dbc323bbd217,https://tonies.com/en-gb/tonies/oi-frog/oi-frog-and-friends/,1,0,0,0
 10000608,Octonauts,octonauts,Captain Barnacles,en-gb,audio-play-songs,stock,84096624-658b-47ed-aa4f-c955f01bda17,https://tonies.com/en-gb/tonies/octonauts/octonauts/,1,0,0,0
 10000648,Favourite Masterpieces,favourite-masterpieces,Swan Lake,en-gb,audio-book-songs,stock,d59fed98-fc84-444a-a159-c41076608112,https://tonies.com/en-gb/tonies/favourite-masterpieces/swan-lake/,1,0,0,0
-10000649,Mog the Forgetful Cat,mog-the-forgetful-cat,Mog,en-gb,audio-book,stock,e02a039f-7c9a-43e4-9cd3-9ef910d3e13d,https://tonies.com/en-gb/tonies/mog-the-forgetful-cat/mog/,1,0,0,0
+10000649,Mog the Forgetful Cat,mog-the-forgetful-cat,Mog,en-gb,audio-book,stock,e02a039f-7c9a-43e4-9cd3-9ef910d3e13d,https://tonies.com/en-gb/tonies/mog-the-forgetful-cat/mog/,1,1,0,0
 10000658,Disney,,Brave,en-gb,audio-play-songs,stock,,,1,0,0,0
 10000662,Magic Faraway Tree,magic-faraway-tree,Magic Faraway Tree - The Enchanted Wood,en-gb,audio-book,stock,71d0566a-2152-4878-b935-d6e3375326c2,https://tonies.com/en-gb/tonies/magic-faraway-tree/magic-faraway-tree/,1,0,0,0
 10000663,Mr Bean ,,Mr Bean,en-gb,music,stock,,,1,0,0,0
 10000664,Disney,disney,Minnie - When we grow up,en-gb,audio-play-songs,stock,995bb377-fe72-4ca1-9d0a-bc296538d4d7,https://tonies.com/en-gb/tonies/disney/minnie-mouse/,1,0,0,0
 10000667,Clangers,clangers,Clangers Radio,en-gb,audio-play,stock,a413a340-9d7a-45a4-b7d4-a132354ebfc4,https://tonies.com/en-gb/tonies/clangers/clangers-radio/,1,0,0,0
 10000669,Roald Dahl,roald-dahl,Revolting Rhymes and Dirty Beasts,en-gb,audio-book,stock,34d9f738-e578-4fb2-8239-8b72da313cef,https://tonies.com/en-gb/tonies/roald-dahl/revolting-rhymes/,1,0,0,0
-10000670,Bing,bing,Bing Bunny,en-gb,audio-play,stock,665b61f6-abf6-4e3f-9565-c152d524743f,https://tonies.com/en-gb/tonies/bing/bing/,1,0,0,0
+10000670,Bing,bing,Bing Bunny,en-gb,audio-play,stock,665b61f6-abf6-4e3f-9565-c152d524743f,https://tonies.com/en-gb/tonies/bing/bing/,1,1,0,0
 10000674,Disney,disney,Frozen 2,en-gb,audio-play-songs,stock,39bbbc2b-23d3-4c00-a453-c13c9480b861,https://tonies.com/en-gb/tonies/disney/frozen-2/,1,0,0,0
 10000675,Disney,disney,Bambi,en-gb,audio-play-songs,stock,140747e8-c61d-464a-a50e-a1ae45929ecc,https://tonies.com/en-gb/tonies/disney/bambi/,1,0,0,0
 10000676,Disney,disney,Beauty and the Beast,en-gb,audio-book-songs,stock,579360f6-840b-47f3-95ea-85bc7eda9a74,https://tonies.com/en-gb/tonies/disney/the-beauty-and-the-beast/,1,1,0,0
@@ -102,7 +102,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000725,PJ Masks,pj-masks,Catboy,en-gb,audio-play,stock,906093f0-f2e0-4505-a98d-0e620e6100cb,https://tonies.com/en-gb/tonies/pj-masks/catboy/,1,0,0,0
 10000728,PJ Masks,pj-masks,Gekko,en-gb,audio-play,stock,319804c0-453f-480e-a48d-3a81f06f5979,https://tonies.com/en-gb/tonies/pj-masks/gekko/,1,0,0,0
 10000730,Paw Patrol,paw-patrol,Marshall,en-gb,audio-play,stock,5fdd74cf-2f87-4b65-8b45-7e227d6f0796,https://tonies.com/en-gb/tonies/paw-patrol/marshall/,1,0,0,0
-10000733,Pippi Longstocking,pippi-longstocking,Pippi Longstocking,en-gb,audio-book,stock,2c461dc5-f399-44b6-a893-a4b6c6dcef40,https://tonies.com/en-gb/tonies/pippi-longstocking/pippi-longstocking/,1,0,0,0
+10000733,Pippi Longstocking,pippi-longstocking,Pippi Longstocking,en-gb,audio-book,stock,2c461dc5-f399-44b6-a893-a4b6c6dcef40,https://tonies.com/en-gb/tonies/pippi-longstocking/pippi-longstocking/,1,1,0,0
 10000807,The Wishing Chair,the-wishing-chair,The Wishing Chair,en-gb,audio-book,stock,4d8f44fc-5148-4b78-b580-a4d848b75575,https://tonies.com/en-gb/tonies/the-wishing-chair/the-wishing-chair/,1,0,0,0
 10000812,Julia Donaldson,julia-donaldson,The Snail and the Whale & The Smartest Giant in Town,en-gb,audio-book-songs,stock,1cee4a92-a50d-4395-88d0-facdab646dc2,https://tonies.com/en-gb/tonies/julia-donaldson/the-snail-and-the-whale-the-smartest-giant-in-town/,1,0,0,0
 10000826,Nap Time,nap-time,White Noise,en-gb,music,stock,0efb88a8-ffb9-4772-a880-3e3af0d5fd60,https://tonies.com/en-gb/tonies/nap-time/white-noise/,1,0,0,0
@@ -145,7 +145,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001324,Ben and Holly's Little Kingdom,ben-and-holly-s-little-kingdom,Holly,en-gb,audio-play,stock,4f47309b-b667-44a4-bd12-69f8f708d124,https://tonies.com/en-gb/tonies/ben-and-holly-s-little-kingdom/ben-and-hollys-little-kingdom/,1,0,0,0
 10001325,Monty & Co,monty-co,Monty & Co,en-gb,audio-play-songs,stock,2efe2757-43bd-41d3-9a04-803123340c29,https://tonies.com/en-gb/tonies/monty-co/monty-co/,1,0,0,0
 10001340,Sleepy Friends,sleepy-friends,Bedtime Stories with Sleepy Bear,en-gb,audio-book,stock,bcec13cb-2320-4ef8-a210-657aa394b4fa,https://tonies.com/en-gb/tonies/sleepy-friends/bedtime-stories-with-sleepy-bear/,1,0,0,0
-10001371,Cultural Tales,cultural-tales,Black British Tales,en-gb,audio-play,stock,853f6407-f79a-44b6-8f12-7e2bb57ac6e7,https://tonies.com/en-gb/tonies/cultural-tales/black-british-tales/,1,0,0,0
+10001371,Cultural Tales,cultural-tales,Black British Tales,en-gb,audio-play,stock,853f6407-f79a-44b6-8f12-7e2bb57ac6e7,https://tonies.com/en-gb/tonies/cultural-tales/black-british-tales/,1,1,0,0
 10001386,Peter Rabbit,peter-rabbit,Jemima Puddleduck,en-gb,audio-book,stock,0b111820-d33f-49b2-aae1-f7cd0f479caa,https://tonies.com/en-gb/tonies/peter-rabbit/jemima-puddleduck/,1,0,0,0
 10001387,Horrible Histories,horrible-histories,Terrible Tudors,en-gb,audio-play,stock,a1afc11e-4028-43a8-983f-aeb0a83faede,https://tonies.com/en-gb/tonies/horrible-histories/terrible-tudors/,1,0,0,0
 10001388,Cocomelon,cocomelon,CoComelon,en-gb,music,stock,f1ddb020-6f2f-4215-852d-40eb20096b1f,https://tonies.com/en-gb/tonies/cocomelon/cocomelon/,1,0,0,0
@@ -198,7 +198,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000174,Cocomelon,cocomelon,Getting Ready with JJ,en-gb,music,stock,eac46717-455f-40ac-b193-8ee7f12756be,https://tonies.com/en-gb/tonies/cocomelon/getting-ready-with-jj/,1,0,0,0
 11000177,Cocomelon,cocomelon,Outdoor Adventures with JJ,en-gb,music,stock,6ace88a8-9b66-46ce-8ada-73cec13118f7,https://tonies.com/en-gb/tonies/cocomelon/outdoor-adventures-with-jj/,1,0,0,0
 11000180,Claude,claude,The Claude Collection,en-gb,audio-book,stock,b49dfa77-8f14-42fe-bd88-52b5e5d3a412,https://tonies.com/en-gb/tonies/claude/the-claude-collection/,1,0,0,0
-11000187,Toto the Ninja Cat,toto-the-ninja-cat,Toto the Ninja Cat and the Great Snake Escape,en-gb,audio-book,stock,22173d9b-da47-4e03-92c3-6fc4f01417d2,https://tonies.com/en-gb/tonies/toto-the-ninja-cat/toto-the-ninja-cat-toto/,1,0,0,0
+11000187,Toto the Ninja Cat,toto-the-ninja-cat,Toto the Ninja Cat and the Great Snake Escape,en-gb,audio-book,stock,22173d9b-da47-4e03-92c3-6fc4f01417d2,https://tonies.com/en-gb/tonies/toto-the-ninja-cat/toto-the-ninja-cat-toto/,1,1,0,0
 11000193,Leo's Day,leo-s-day,Routines Music Album,en-gb,music,stock,fa42585d-47f2-4ff0-8a76-77946aafc98c,https://tonies.com/en-gb/tonies/leo-s-day/routines-music-album/,1,0,0,0
 11000194,Paw Patrol,paw-patrol,Rex,en-gb,audio-play,stock,8aa8eab0-a923-49b4-bf47-a49f254d423b,https://tonies.com/en-gb/tonies/paw-patrol/rex/,1,0,0,0
 11000195,Paw Patrol,paw-patrol,Zuma,en-gb,audio-play,stock,a9195fc5-a260-4191-b019-0a2de12ef923,https://tonies.com/en-gb/tonies/paw-patrol/zuma/,1,0,0,0
