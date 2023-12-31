@@ -26,4 +26,9 @@ data:
   - Pippi Goes to a Coffee Party
   - Pippi Becomes a Lifesaver
   - Pippi Celebrates Her Birthday
-  ids: []
+  ids:
+  - audio-id: 1634038403
+    hash: 22149859263fb04676308f389d2178f7fcec3a0b
+    size: 113726165
+    tracks: 11
+    confidence: 0
