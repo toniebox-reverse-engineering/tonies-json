@@ -21,4 +21,9 @@ data:
   - Oi Duck-billed Platypus!
   - Oi Puppies!
   - Oi Aardvark!
-  ids: []
+  ids:
+  - audio-id: 1620654118
+    hash: 7b79c2fa2236329c760ad02a47163665bbbc6c91
+    size: 26920238
+    tracks: 6
+    confidence: 0
