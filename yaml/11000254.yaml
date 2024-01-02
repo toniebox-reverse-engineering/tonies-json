@@ -1,0 +1,23 @@
+article: '11000254'
+lock-data: false
+data:
+- series: Paw Patrol
+  series-id: paw-patrol
+  episode: Tracker
+  release: 1706054400
+  language: en-gb
+  category: audio-play
+  runtime: 50
+  age: 3
+  origin: stock
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/Image%202-7qxknUXW.png
+  sample: null
+  web: https://tonies.com/en-gb/tonies/paw-patrol/tracker/
+  shop-id: 12e48faa-ff7d-4e3f-9cbe-9bb269e7dbff
+  track-desc:
+  - PAW Patrol Theme Song
+  - Tracker Joins the Pups
+  - Pups Save Big Hairy
+  - Pups Save the Mail
+  - Pups Save Big Paw
+  ids: []

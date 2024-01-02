@@ -1,0 +1,35 @@
+article: '11000605'
+lock-data: false
+data:
+- series: Trolls
+  series-id: trolls
+  episode: Viva
+  release: 1705881600
+  language: en-gb
+  category: audio-play-songs
+  runtime: 60
+  age: 3
+  origin: stock
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/Image%202-oPFcTPcq.png
+  sample: https://cdn.tonies.de/o/audio_samples/dd404a3004c30bd5160827fc7e40cf5716fb8ac40bd911cce4a1b5bb/viva_trolls_sample.wav
+  web: https://tonies.com/en-gb/tonies/trolls/viva/
+  shop-id: d22ca57c-4c41-4461-81b1-f8d558734784
+  track-desc:
+  - 'Chapter 1: The Family Band'
+  - 'Chapter : John Dory Returns'
+  - 'Chapter 3: Velvet and Veneer''s Plan'
+  - 'Chapter 4: On the Road'
+  - 'Chapter 5: Welcome to Vacay Island'
+  - 'Chapter 6: Meanwhile, At the Diamond Dome'
+  - 'Chapter 7: One Bro To Go'
+  - 'SONG: It Takes Two'
+  - 'Chapter 8: Viva Closes The Gates'
+  - 'Chapter 9: Floyd Tries to Escape'
+  - 'Chapter 10: Family Harmony Fail'
+  - 'Chapter 11: Brozone Hits the Rage Dome'
+  - 'Chapter 12: On The Red Carpet'
+  - 'Chapter 13: The Perfect Family Harmony'
+  - 'Chapter 14: Band Together'
+  - 'Chapter 15: The Biggest Family Reunion Ever'
+  - 'SONG: We Are Family'
+  ids: []

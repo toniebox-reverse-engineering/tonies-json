@@ -1,0 +1,21 @@
+article: '11000596'
+lock-data: false
+data:
+- series: Burpee Bears
+  series-id: burpee-bears
+  episode: Burpee Bears
+  release: 1705881600
+  language: en-gb
+  category: audio-book
+  runtime: 29
+  age: 3
+  origin: stock
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/Image%202-eWFRZ6uo.png
+  sample: https://cdn.tonies.de/o/audio_samples/6a0a840d43cc17556013e6cfd67447c5e2c277f3e0b29609069649ca/11000596_joe_wicks_burpee_bears_sample.wav
+  web: https://tonies.com/en-gb/tonies/burpee-bears/burpee-bears/
+  shop-id: d2414366-db00-42cb-b86e-3def2f9c073d
+  track-desc:
+  - Burpee Bears
+  - Bedtime For Burpee Bears
+  - Burpee Bears Christmas Adventure
+  ids: []

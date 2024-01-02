@@ -1,0 +1,29 @@
+article: '11000467'
+lock-data: false
+data:
+- series: Milo
+  series-id: milo-2
+  episode: Milo
+  release: 1706054400
+  language: en-gb
+  category: audio-play
+  runtime: 71
+  age: 3
+  origin: stock
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/Image%202-0UDfSsov.png
+  sample: https://cdn.tonies.de/o/audio_samples/8ce723457c0da639aa9d84d0e45cc0d1c8d5a61ec7b7231865aac154/11000467_milo_sample.wav
+  web: https://tonies.com/en-gb/tonies/milo-2/milo/
+  shop-id: 6bf176b2-713f-4e93-93d6-638079550586
+  track-desc:
+  - Intro
+  - The Racing Driver
+  - Interlude
+  - The Explorer
+  - Interlude
+  - The Botanist
+  - Interlude
+  - 08 The Astronaut
+  - Interlude
+  - The Archaeologist
+  - Outro
+  ids: []
