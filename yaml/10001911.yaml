@@ -1,0 +1,41 @@
+article: '10001911'
+lock-data: false
+data:
+- series: Mes Comptines Préférées
+  series-id: mes-comptines-preferees
+  episode: Pour Bouger
+  release: 1704326400
+  language: fr-fr
+  category: music
+  runtime: 40
+  age: 3
+  origin: stock
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/50005537-Tonie_Shado-7NEOl68g.png
+  sample: https://cdn.tonies.de/o/audio_samples/b13f6b9f05e0fb44fbb2efb4389edd15e94afacc39753778052de332/10001911_12_mcp_pour_bouger_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/mes-comptines-preferees/pour-bouger/
+  shop-id: 5b0d1abb-1474-4bb7-ab19-213c9c17cc37
+  track-desc:
+  - Présentation de Coach Hippo
+  - Au top de ma forme 🎵
+  - S'encourager avec des Affirmations
+  - Je brille aujourd’hui 🎵
+  - Faire de l’exercice
+  - Cours de sport 🎵
+  - Bien manger
+  - Je mange un arc-en-ciel 🎵
+  - Profiter du soleil
+  - Allons dehors 🎵
+  - Écouter ses émotions
+  - J’me sens bien ! 🎵
+  - Imaginer
+  - Sauras-tu ? 🎵
+  - S’hydrater
+  - Bois de l’eau ! 🎵
+  - Apprécier l’instant présent
+  - Vis l’instant présent 🎵
+  - Prendre le temps de respirer
+  - Inspire - Expire 🎵
+  - Se reposer
+  - Va dormir 🎵
+  - Au revoir
+  ids: []

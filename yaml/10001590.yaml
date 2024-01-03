@@ -1,0 +1,39 @@
+article: '10001590'
+lock-data: false
+data:
+- series: La journée de Léo
+  series-id: la-journee-de-leo
+  episode: Chansons Pour Se Brosser Les Dents
+  release: 1704326400
+  language: fr-fr
+  category: music
+  runtime: 49
+  age: 3
+  origin: stock
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/50004892-Tonie_Shado-Q-6bARsj.png
+  sample: https://cdn.tonies.de/o/audio_samples/2583e8836fbd2ef4f1ac7039955e0c01e2239ca0fa9e2e0ac37fe5c2/10001590_journeeleo_dents__extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/la-journee-de-leo/chansons-pour-se-brosser-les-dents/
+  shop-id: 511b74e6-2b86-4178-b31c-2d8af68370d9
+  track-desc:
+  - C'est l'heure de se lever
+  - Tchic Tchac, brosse-toi bien les dents 🎵
+  - Des intruses dans la bouche
+  - La chanson de Carie 🎵
+  - Pauvre petit Léo !
+  - La rencontre d'Ellie et Léo 🎵
+  - Quand Ellie est apparue comme par magie
+  - Des sottises dans la salle de bain
+  - Le rap des Glouglous 🎵
+  - Délicieux, mais est-ce bon pour les dents ?
+  - Le quiz des dents saines 🎵
+  - 'Une dent qui bouge #1'
+  - Le rock qui fait bouger les quenottes 🎵
+  - 'Une dent qui bouge #2'
+  - Poème de la Petite Souris
+  - 'N''aie pas peur Léo #1'
+  - Du rififi chez la dentiste 🎵
+  - 'N''aie pas peur Léo #2'
+  - Agent Phil, fil dentaire 🎵
+  - Ellie et Léo se chamaillent
+  - Ma brosse à dents parfaite 🎵
+  ids: []

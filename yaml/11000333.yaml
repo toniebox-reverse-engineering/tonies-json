@@ -1,0 +1,22 @@
+article: '11000333'
+lock-data: false
+data:
+- series: Les As De La Jungle
+  series-id: les-as-de-la-jungle
+  episode: Maurice
+  release: 1704326400
+  language: fr-fr
+  category: audio-play
+  runtime: 42
+  age: 5
+  origin: stock
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/51001095-Tonie_Shado-zBXdnN-k.png
+  sample: https://cdn.tonies.de/o/audio_samples/333a29d50ed8001bbf0a16b4ec8eb0d8947b9c68af9a4101387abb92/11000333_les_as_de_la_jungle_maurice_extraitmp3.mp3
+  web: https://tonies.com/fr-fr/tonies/les-as-de-la-jungle/maurice/
+  shop-id: fa395856-b929-4dd0-9ebf-61cddff2c262
+  track-desc:
+  - Le sable de feu
+  - Jungle Académie
+  - 21 Jungle Street
+  - Mémoire insuffisante
+  ids: []
