@@ -36,7 +36,12 @@ data:
   - Un éléphant
   - Tiens voilà main droite
   - Dans ma maison il y a...
-  ids: []
+  ids:
+  - audio-id: 1649151633
+    hash: cd9fc89d367bcdd232767c1b9e2416542d6d268d
+    size: 28484207
+    tracks: 21
+    confidence: 0
 - series: Mes Comptines Préférées
   series-id: null
   episode: Pour Faire la Fête
