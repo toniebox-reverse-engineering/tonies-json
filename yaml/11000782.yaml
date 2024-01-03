@@ -15,6 +15,7 @@ data:
   web: https://tonies.com/en-gb/tonies/today-with-tonies/today-with-tonies/
   shop-id: a742a774-63b0-450f-8303-6552b3c99bc9
   track-desc:
+  - Wednesday 3rd January
   - Tuesday 2nd January
   - Monday 1st January
   - Sunday 31st December
@@ -28,7 +29,6 @@ data:
   - Saturday 23rd December
   - Friday 22nd December
   - Thursday 21st December
-  - Wednesday 20th December
   - Today With Tonies Jingle
   ids:
   - audio-id: 1703635535
