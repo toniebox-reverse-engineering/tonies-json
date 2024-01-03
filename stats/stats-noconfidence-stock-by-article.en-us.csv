@@ -20,7 +20,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000549,Julia Donaldson,,Zog,en-us,Tonie,stock,5519634989207,,1,0,0,0
 10000550,Julia Donaldson,,Room on the Broom,en-us,Tonie,stock,6042920288407,,1,0,0,0
 10000551,The Pontypandy Pack,,Fireman Sam,en-us,Tonie,stock,8134366888087,,1,0,0,0
-10000553,Rapunzel & Other Fairy Tales,,,en-us,Tonie,stock,5519419768983,,1,0,0,0
+10000553,Rapunzel & Other Fairy Tales,,,en-us,Tonie,stock,5519419768983,,1,1,0,0
 10000554,A Christmas Carol & Tales,,,en-us,Tonie,stock,5519710683287,,1,1,0,0
 10000555,Elmer & Friends Story Collection,,,en-us,Tonie,stock,6220876841111,,1,1,0,0
 10000556,Guess How Much I Love You,,,en-us,Tonie,stock,6462409015447,,1,1,0,0
@@ -33,7 +33,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000570,How to Train Your Dragon,,,en-us,Tonie,stock,7011182805143,,1,0,0,0
 10000572,Paddington Bear,,,en-us,Tonie,stock,7269043372183,,1,0,0,0
 10000575,Shrek,,,en-us,Tonie,stock,7173724930199,,1,0,0,0
-10000620,Thomas & Friends,,Thomas the Tank Engine,en-us,Tonie,stock,8057956040855,,1,0,0,0
+10000620,Thomas & Friends,,Thomas the Tank Engine,en-us,Tonie,stock,8057956040855,,1,1,0,0
 10000623,Disney,,Moana,en-us,Tonie,stock,7168607551639,,1,1,0,0
 10000624,Masha & the Bear,,,en-us,Tonie,stock,7099443478679,,1,0,0,0
 10000626,My Little Pony,,,en-us,Tonie,stock,7785751150743,,1,1,0,0
@@ -68,7 +68,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000770,Beethoven's Wig,,,en-us,Tonie,stock,6897940005015,,1,1,0,0
 10000771,Dora the Explorer,,,en-us,Tonie,stock,7604694548631,,1,1,0,0
 10000773,Wild Kratts,,Martin,en-us,Tonie,stock,7395889021079,,1,1,0,0
-10000774,Elinor Wonders Why,,,en-us,Tonie,stock,7651198238871,,1,0,0,0
+10000774,Elinor Wonders Why,,,en-us,Tonie,stock,7651198238871,,1,1,0,0
 10000776,Blaze & the Monster Machines,,,en-us,Tonie,stock,7806504337559,,1,1,0,0
 10000777,Blue's Clues & You,,,en-us,Tonie,stock,7565380911255,,1,1,0,0
 10000778,Disney & Pixar,,Cars: Mater,en-us,Tonie,stock,7654007537815,,1,1,0,0
@@ -83,7 +83,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000797,Disney,,Baby Lullabies,en-us,Tonie,stock,7548265103511,,1,1,0,0
 10000799,National Geographic Kids,,Dinosaur,en-us,Tonie,stock,7326661083287,,1,1,0,0
 10000800,Eloise,,,en-us,Tonie,stock,7789733904535,,1,1,0,0
-10000801,Angelina Ballerina,,,en-us,Tonie,stock,7984580919447,,1,0,0,0
+10000801,Angelina Ballerina,,,en-us,Tonie,stock,7984580919447,,1,1,0,0
 10000802,Gabby's Dollhouse,,,en-us,Tonie,stock,7789658374295,,1,1,0,0
 10000804,Dragons Love Tacos,,,en-us,Tonie,stock,7907851600023,,1,1,0,0
 10000819,Laurie Berkner,,,en-us,Tonie,stock,7815911571607,,1,0,0,0
@@ -91,7 +91,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000821,Mindfulness,,,en-us,Tonie,stock,8134363578519,,1,0,0,0
 10000822,Mia,,,en-us,Tonie,stock,7912821817495,,1,1,0,0
 10000882,Wild Kratts,,Chris,en-us,Tonie,stock,7395915956375,,1,0,0,0
-10000888,Tee & Mo,,,en-us,Tonie,stock,7806564925591,,1,0,0,0
+10000888,Tee & Mo,,,en-us,Tonie,stock,7806564925591,,1,1,0,0
 10000925,LMNO Peas,,,en-us,Tonie,stock,7727258665111,,1,1,0,0
 10000926,Chicka Chicka Boom Boom,,,en-us,Tonie,stock,7465440411799,,1,1,0,0
 10000931,National Geographic Kids,,Horse,en-us,Tonie,stock,7806559486103,,1,1,0,0
@@ -101,18 +101,18 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001002,Xavier Riddle,,,en-us,Tonie,stock,7695091630231,,1,0,0,0
 10001039,National Geographic Kids,,Penguin,en-us,Tonie,stock,7326666096791,,1,1,0,0
 10001073,Disney & Pixar,,Brave,en-us,Tonie,stock,7806523342999,,1,1,0,0
-10001074,Disney,,Doc McStuffins,en-us,Tonie,stock,7789732528279,,1,0,0,0
-10001075,Arthur,,,en-us,Tonie,stock,7531730993303,,1,0,0,0
+10001074,Disney,,Doc McStuffins,en-us,Tonie,stock,7789732528279,,1,1,0,0
+10001075,Arthur,,,en-us,Tonie,stock,7531730993303,,1,1,0,0
 10001078,Super Why!,,,en-us,Tonie,stock,7806562599063,,1,0,0,0
-10001079,Let's Go Luna,,,en-us,Tonie,stock,7774607343767,,1,0,0,0
+10001079,Let's Go Luna,,,en-us,Tonie,stock,7774607343767,,1,1,0,0
 10001084,The 7 Habits of Happy Kids,,,en-us,Tonie,stock,8032007749783,,1,1,0,0
-10001085,Word Party,,,en-us,Tonie,stock,8007349600407,,1,0,0,0
+10001085,Word Party,,,en-us,Tonie,stock,8007349600407,,1,1,0,0
 10001092,Ask the StoryBots,,Bo,en-us,Tonie,stock,8031914918039,,1,1,0,0
 10001132,Disney,,Holiday Mickey,en-us,Tonie,stock,7801059999895,,1,1,0,0
 10001133,Disney,,Frozen: Olaf,en-us,Tonie,stock,7801040011415,,1,0,0,0
 10001134,Disney,,Sleeping Beauty,en-us,Tonie,stock,7806514233495,,1,1,0,0
 10001135,Brown Bear & Friends,,,en-us,Tonie,stock,7888456188055,,1,0,0,0
-10001140,Disney,,Tinker Bell,en-us,Tonie,stock,8057957023895,,1,0,0,0
+10001140,Disney,,Tinker Bell,en-us,Tonie,stock,8057957023895,,1,1,0,0
 10001149,John Henry & Other Stories,,,en-us,Tonie,stock,7629752696983,,1,1,0,0
 10001150,Pride,,,en-us,Tonie,stock,7604877262999,,1,1,0,0
 10001152,Annie Oakley,,,en-us,Tonie,stock,7789754515607,,1,1,0,0
@@ -137,18 +137,18 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001697,Ask the StoryBots,,Beep,en-us,Tonie,stock,8031929139351,,1,1,0,0
 10001711,Maestro,,,en-us,Tonie,stock,8072079147159,,1,1,0,0
 10001714,PAW Patrol,,Rubble,en-us,Tonie,stock,7806540546199,,1,1,0,0
-10001764,Favorite Children’s Songs,,Holiday Songs 2,en-us,Tonie,stock,8072072659095,,1,1,0,0
+10001764,Favorite Children’s Songs,,Holiday Songs 2,en-us,Tonie,stock,8072072659095,,1,2,0,0
 10001765,Healthy Habits,,,en-us,Tonie,stock,7955212730519,,1,1,0,0
 10001766,Halloween & Spooky Songs,,,en-us,Tonie,stock,7772295594135,,1,1,0,0
-10001776,Favorite Masterpieces,,The Nutcracker,en-us,Tonie,stock,8072076656791,,1,0,0,0
+10001776,Favorite Masterpieces,,The Nutcracker,en-us,Tonie,stock,8072076656791,,1,1,0,0
 10001786,Peppa Pig,,Peppa's Bedtime Stories,en-us,Tonie,stock,8006996394135,,1,1,0,0
 10001787,Disney,,Lady and the Tramp,en-us,Tonie,stock,8072083144855,,1,1,0,0
 10001788,Disney,,Tigger,en-us,Tonie,stock,8057957810327,,1,1,0,0
-10001830,Word Party Presents,,Math!,en-us,Tonie,stock,8007349731479,,1,0,0,0
+10001830,Word Party Presents,,Math!,en-us,Tonie,stock,8007349731479,,1,1,0,0
 10001870,Pete the Cat,,Rock On!,en-us,Tonie,stock,7806556897431,,1,1,0,0
 10001871,Disney & Pixar,,Soul,en-us,Tonie,stock,8134366855319,,1,0,0,0
 10001872,PAW Patrol,,Everest,en-us,Tonie,stock,7926752051351,,1,1,0,0
-10001900,Yoohoo to the Rescue,,Pammee,en-us,Tonie,stock,7953348034711,,1,0,0,0
+10001900,Yoohoo to the Rescue,,Pammee,en-us,Tonie,stock,7953348034711,,1,1,0,0
 10002001,Worldwide Tales,,West African Tales,en-us,Tonie,stock,7907849568407,,1,1,0,0
 10002030,The Little Engine That Could,,,en-us,Tonie,stock,7953347248279,,1,1,0,0
 10002031,European Children's Songs,,,en-us,Tonie,stock,7912819032215,,1,1,0,0
@@ -189,7 +189,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000479,PAW Patrol,,Liberty,en-us,Tonie,stock,8041408004247,,1,0,0,0
 11000526,Disney,,Wish,en-us,Tonie,stock,8124400664727,,1,1,0,0
 11000540,Trolls,,Viva,en-us,Tonie,stock,7806499094679,,1,0,0,0
-11000708,Clever Tonies Set,,Marine Life,en-us,Tonie,stock,8076775293079,,1,0,0,0
+11000708,Clever Tonies Set,,Marine Life,en-us,Tonie,stock,8076775293079,,1,4,0,0
 11000709,Clever Tonies Set,,Kid Comedy,en-us,Tonie,stock,8076776112279,,1,4,0,0
 11000710,Clever Tonies Set,,Inventions and Innovation,en-us,Tonie,stock,8076775555223,,1,4,0,0
-11000712,Clever Tonies Set,,Gentle Giant Dinosaurs,en-us,Tonie,stock,8076776341655,,1,0,0,0
+11000712,Clever Tonies Set,,Gentle Giant Dinosaurs,en-us,Tonie,stock,8076776341655,,1,4,0,0
