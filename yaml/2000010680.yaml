@@ -1,0 +1,45 @@
+article: '2000010680'
+lock-data: false
+data:
+- series: LEGO DreamZzz
+  series-id: lego-dreamzzz
+  episode: 'Folgen 09-10: Der Wettkampf'
+  release: 1704240000
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/3718b03f3fa053180f9261a606cce344a2761f2ec08a1e322beff33d/3_t1_sN~WmC2x_m7qj/lego_dreamzzz_009_folgen_09_10__der_wettkampf_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/fcf686faeb68842f9692d700475419c03aad22c3ef94196c842c1b87/4013575951567_preview.mp3
+  web: https://tonies.com/de-de/audio-content/lego-dreamzzz/folgen-09-10-der-wettkampf/
+  shop-id: b710b3c0-dc03-46ec-8c64-4ca0073c7013
+  track-desc:
+  - 'Kapitel 01: Der Wettkampf (Folge 09)'
+  - 'Kapitel 02: Der Wettkampf (Folge 09)'
+  - 'Kapitel 03: Der Wettkampf (Folge 09)'
+  - 'Kapitel 04: Der Wettkampf (Folge 09)'
+  - 'Kapitel 05: Der Wettkampf (Folge 09)'
+  - 'Kapitel 06: Der Wettkampf (Folge 09)'
+  - 'Kapitel 07: Der Wettkampf (Folge 09)'
+  - 'Kapitel 08: Der Wettkampf (Folge 09)'
+  - 'Kapitel 09: Der Wettkampf (Folge 09)'
+  - 'Kapitel 10: Der Wettkampf (Folge 09)'
+  - 'Kapitel 11: Der Wettkampf (Folge 09)'
+  - 'Kapitel 12: Der Wettkampf (Folge 09)'
+  - 'Kapitel 13: Der Wettkampf (Folge 09)'
+  - 'Kapitel 01: Die Flucht (Folge 10)'
+  - 'Kapitel 02: Die Flucht (Folge 10)'
+  - 'Kapitel 03: Die Flucht (Folge 10)'
+  - 'Kapitel 04: Die Flucht (Folge 10)'
+  - 'Kapitel 05: Die Flucht (Folge 10)'
+  - 'Kapitel 06: Die Flucht (Folge 10)'
+  - 'Kapitel 07: Die Flucht (Folge 10)'
+  - 'Kapitel 08: Die Flucht (Folge 10)'
+  - 'Kapitel 09: Die Flucht (Folge 10)'
+  - 'Kapitel 10: Die Flucht (Folge 10)'
+  - 'Kapitel 11: Die Flucht (Folge 10)'
+  - 'Kapitel 12: Die Flucht (Folge 10)'
+  - 'Kapitel 13: Die Flucht (Folge 10)'
+  - 'Kapitel 14: Die Flucht (Folge 10)'
+  ids: []
