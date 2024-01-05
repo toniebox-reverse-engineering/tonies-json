@@ -21,4 +21,9 @@ data:
   - 'Kapitel 04: Schneewittchen und die sieben Zwerge'
   - 'Kapitel 05: Schneewittchen und die sieben Zwerge'
   - 'Kapitel 06: Schneewittchen und die sieben Zwerge'
-  ids: []
+  ids:
+  - audio-id: 1699484451
+    hash: 6af72ddf5a4ac66bfaf6a0be222b3b0fec5c0af0
+    size: 41309924
+    tracks: 6
+    confidence: 0
