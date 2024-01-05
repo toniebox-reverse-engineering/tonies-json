@@ -25,4 +25,9 @@ data:
   - Chaos am Muttertag 2
   - Das nicht so spaßige Spaßhaus 1
   - Das nicht so spaßige Spaßhaus 2
-  ids: []
+  ids:
+  - audio-id: 1701031871
+    hash: 6e4f294628c256414f5e70db1b5f9957acb4c4f5
+    size: 39486836
+    tracks: 9
+    confidence: 0

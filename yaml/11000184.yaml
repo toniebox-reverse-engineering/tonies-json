@@ -22,4 +22,9 @@ data:
   - Das Fuchsmobil 2
   - Gemeinsam Statt Einsam 1
   - Gemeinsam Statt Einsam 2
-  ids: []
+  ids:
+  - audio-id: 1696971165
+    hash: 08cfcc8e82d007250ad3a7131a08b8ce0d5e70b7
+    size: 41027456
+    tracks: 7
+    confidence: 0

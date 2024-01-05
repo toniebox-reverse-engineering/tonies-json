@@ -32,4 +32,9 @@ data:
   - Die dicken Jungs (Karaoke Version)
   - Wiedersehn (Karaoke Version)
   - Outro und Hidden Furz (Karaoke Version)
-  ids: []
+  ids:
+  - audio-id: 1679502178
+    hash: dd5c194107980f71abbef65a5827f5a71608486c
+    size: 38085201
+    tracks: 17
+    confidence: 0
