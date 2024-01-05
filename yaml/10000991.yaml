@@ -20,13 +20,13 @@ data:
   - Toy Story 2
   - Toy Story 2
   ids:
-  - audio-id: 1630494599
-    hash: dd98c550ec9fe2ccfec7b1b6fceada4801463f60
-    size: 21249912
-    tracks: 5
-    confidence: 0
   - audio-id: 1651664260
     hash: de0ac754adfe70755689f1f252849a49e672cd3b
     size: 0
     tracks: 0
     confidence: 0
+  - audio-id: 1630494599
+    hash: dd98c550ec9fe2ccfec7b1b6fceada4801463f60
+    size: 21249912
+    tracks: 5
+    confidence: 1
