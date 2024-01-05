@@ -213,7 +213,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000017,Disney,disney,Cars,en-gb,audio-play-songs,stock,d64ecced-3227-4768-bdc6-7638967241af,https://tonies.com/en-gb/tonies/disney/cars/,1,0,0,0
 10000018,Disney,disney,The Little Mermaid,en-gb,audio-play-songs,stock,0cf4f3f5-0479-4834-a8e7-83a2041bc065,https://tonies.com/en-gb/tonies/disney/the-little-mermaid/,1,1,0,0
 10000020,Disney,disney,The Lion King,en-gb,audio-play-songs,stock,a28f7907-a83b-499e-8e34-189f271609f4,https://tonies.com/en-gb/tonies/disney/the-lion-king/,1,1,0,0
-10000021,Hully Boo Spook'n Spell,,How Hully Boo got his rattling chain / Halloween at Palace Primary,en-gb,audio-play,stock,,,1,2,1,2
+10000021,Hully Boo Spook'n Spell,,How Hully Boo got his rattling chain / Halloween at Palace Primary,en-gb,audio-play,stock,,,1,2,2,2
 10000022,Hully Boo Spook'n Spell,,Treasure hunt in the Museum / The Magic Championships,en-gb,audio-play,stock,,,1,1,0,0
 10000023,The Fox Pack,,Mystery in the Garden/Tracks of a Giant,en-gb,audio-play,stock,,,1,1,0,1
 10000024,The Gnats,,Here come the Gnats!,en-gb,Audiobook,stock,,,1,1,0,1
@@ -360,7 +360,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000303,Peppa Pig,peppa-pig,Die Ritterburg und 7 weitere Geschichten,de-de,audio-play,stock,7e91c8cf-3ddf-4b48-a9e0-45518399d4f7,https://tonies.com/de-de/tonies/peppa-pig/die-ritterburg/,1,1,0,0
 10000304,Rolf Zuckowski,rolf-zuckowski,In der Weihnachtsbäckerei,de-de,music,stock,b66d7654-2b23-4ad9-9a34-ab2a70255425,https://tonies.com/de-de/tonies/rolf-zuckowski/in-der-weihnachtsbaeckerei/,1,1,1,2
 10000308,How to train your Dragon,how-to-train-your-dragon,How to train your Dragon,en-gb,audio-book,stock,4df3f748-4e18-4813-9edf-e96e5f81cca4,https://tonies.com/en-gb/tonies/how-to-train-your-dragon/how-to-train-your-dragon/,1,0,0,0
-10000309,Favourite Masterpieces,favourite-masterpieces,The Magic Flute,en-gb,audio-play-songs,stock,7fba6edf-4e63-40ae-8d0d-68a0051c8dba,https://tonies.com/en-gb/tonies/favourite-masterpieces/the-magic-flute/,1,1,1,1
+10000309,Favourite Masterpieces,favourite-masterpieces,The Magic Flute,en-gb,audio-play-songs,stock,7fba6edf-4e63-40ae-8d0d-68a0051c8dba,https://tonies.com/en-gb/tonies/favourite-masterpieces/the-magic-flute/,1,2,2,1
 10000310,Favourite Masterpieces,favourite-masterpieces,The Nutcracker,en-gb,audio-play-songs,stock,69601fb3-6ae9-4e0b-975e-cf7faac65d68,https://tonies.com/en-gb/tonies/favourite-masterpieces/the-nutcracker/,1,1,0,1
 10000311,Peppa Pig,peppa-pig,On the Road with Peppa Pig,en-gb,audio-play-songs,stock,245a4151-913a-460d-9819-2ab9ff88ef83,https://tonies.com/en-gb/tonies/peppa-pig/on-the-road-with-peppa-pig/,1,0,0,0
 10000317,Diary of a Wimpy Kid,diary-of-a-wimpy-kid,Diary of a Wimpy Kid,en-gb,audio-book,stock,f3cb46d4-c01c-4ff9-89b3-f02876c4d198,https://tonies.com/en-gb/tonies/diary-of-a-wimpy-kid/diary-of-a-wimpy-kid/,1,0,0,0
@@ -1146,8 +1146,8 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000609,Spidey Et Ses Amis Extraordinaires,spidey-et-ses-amis-extraordinaires,Miles Morales,fr-fr,audio-play-songs,stock,1b73316c-a179-4b6f-9e38-a773b8c3b606,https://tonies.com/fr-fr/tonies/spidey-et-ses-amis-extraordinaires/miles-morales/,1,0,0,0
 11000631,Advent calendar,advent-calendar,The Little Reindeer's Christmas Wish,en-gb,audio-play,stock,2fbcc068-b538-478b-9081-cac9565e3df9,https://tonies.com/en-gb/tonies/advent-calendar/the-little-reindeers-christmas-wish/,1,1,0,1
 11000708,Clever Tonies Set,,Marine Life,en-us,Tonie,stock,8076775293079,,1,4,0,0
-11000709,Clever Tonies Set,,Kid Comedy,en-us,Tonie,stock,8076776112279,,1,4,3,4
-11000710,Clever Tonies Set,,Inventions and Innovation,en-us,Tonie,stock,8076775555223,,1,4,3,4
+11000709,Clever Tonies Set,,Kid Comedy,en-us,Tonie,stock,8076776112279,,1,4,4,4
+11000710,Clever Tonies Set,,Inventions and Innovation,en-us,Tonie,stock,8076775555223,,1,4,4,4
 11000712,Clever Tonies Set,,Gentle Giant Dinosaurs,en-us,Tonie,stock,8076776341655,,1,4,0,0
 11000782,Today with tonies,today-with-tonies,tonies® Podcast,en-gb,audio-play,stock,a742a774-63b0-450f-8303-6552b3c99bc9,https://tonies.com/en-gb/tonies/today-with-tonies/today-with-tonies/,1,2,1,1
 2000000000,Benjamin Blümchen,benjamin-bluemchen,5:0 für Benjamin,de-de,audio-play,tunes,216ab895-8d92-44e7-b3ae-cb085cf5ada7,https://tonies.com/de-de/audio-content/benjamin-bluemchen/50-fur-benjamin/,1,0,0,0
