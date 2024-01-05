@@ -25,14 +25,14 @@ data:
     hash: 763580291d12f222ce0c2ee9389bcbab28e5970d
     size: 7987923
     tracks: 1
-    confidence: 0
-  - audio-id: 1695064693
-    hash: 65ce9baeafcb371790b59db14f5060f4cb730824
-    size: 7425580
-    tracks: 1
-    confidence: 0
+    confidence: 1
   - audio-id: 1695064754
     hash: bbdc222bd06841b9cf0ff36dcf7262303b82b76f
     size: 6765154
     tracks: 1
-    confidence: 0
+    confidence: 1
+  - audio-id: 1695064693
+    hash: 65ce9baeafcb371790b59db14f5060f4cb730824
+    size: 7425580
+    tracks: 1
+    confidence: 1

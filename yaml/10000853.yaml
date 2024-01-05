@@ -33,4 +33,9 @@ data:
   - Entre le boeuf et l'âne gris
   - Neige, neige blanche
   - Douce nuit
-  ids: []
+  ids:
+  - audio-id: 1621348611
+    hash: fba99d966abcb42f892310a7e577c5c7bd03b6ff
+    size: 36244528
+    tracks: 18
+    confidence: 1
