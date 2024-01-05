@@ -20,7 +20,7 @@ data:
     hash: f29b9c0cac3af07048a265fb6ca01763a3d84e45
     size: 6841928
     tracks: 1
-    confidence: 0
+    confidence: 1
   - audio-id: 1695073818
     hash: 19618544ff629d3012f692f7c932880c7cd84ffb
     size: 6640517
