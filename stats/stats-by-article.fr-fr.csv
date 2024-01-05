@@ -1,7 +1,7 @@
 article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,id-sets,id-sets-confidence,auth-sets
-10000853,Mes Comptines Préférées,mes-comptines-preferees,De Noël,fr-fr,music,stock,ae04bc05-87f3-4212-88ac-5a66ace6138f,https://tonies.com/fr-fr/tonies/mes-comptines-preferees/de-noel/,1,0,0,0
+10000853,Mes Comptines Préférées,mes-comptines-preferees,De Noël,fr-fr,music,stock,ae04bc05-87f3-4212-88ac-5a66ace6138f,https://tonies.com/fr-fr/tonies/mes-comptines-preferees/de-noel/,1,1,1,1
 10000854,Mes Comptines Préférées,mes-comptines-preferees,Pour S'Endormir,fr-fr,music,stock,9bf6ee1e-0274-4281-9430-6c6f46d75e59,https://tonies.com/fr-fr/tonies/mes-comptines-preferees/pour-sendormir/,1,0,0,0
-10000855,Mes Comptines Préférées,mes-comptines-preferees,De La Maternelle,fr-fr,music,stock,ad3cbc3c-e047-49ac-a45a-20dbf09fa373,https://tonies.com/fr-fr/tonies/mes-comptines-preferees/de-la-maternelle/,1,1,0,0
+10000855,Mes Comptines Préférées,mes-comptines-preferees,De La Maternelle,fr-fr,music,stock,ad3cbc3c-e047-49ac-a45a-20dbf09fa373,https://tonies.com/fr-fr/tonies/mes-comptines-preferees/de-la-maternelle/,1,1,1,1
 10000858,Disney,disney,La Reine Des Neiges,fr-fr,audio-play-songs,stock,8fcd15ed-3848-41e0-bc08-e6ed53290266,https://tonies.com/fr-fr/tonies/disney/la-reine-des-neiges/,1,0,0,0
 10000859,Elmer,elmer,Elmer Et Ses Amis,fr-fr,audio-play,stock,258309b8-9662-4b9f-a7ff-e22849c6af73,https://tonies.com/fr-fr/tonies/elmer/elmer-et-ses-amis/,1,0,0,0
 10000860,Disney,disney,Le Monde de Nemo,fr-fr,audio-play,stock,393898d2-0aad-4838-b188-c1f180748fe7,https://tonies.com/fr-fr/tonies/disney/le-monde-de-nemo/,1,0,0,0
@@ -26,9 +26,9 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001016,C'Est Toujours Pas Sorcier,c-est-toujours-pas-sorcier,Sur Les Traces Des Dinosaures,fr-fr,audio-play-educational,stock,a5433bd6-3436-4dbb-aa0c-3e36b239f155,https://tonies.com/fr-fr/tonies/c-est-toujours-pas-sorcier/sur-les-traces-des-dinosaures/,1,0,0,0
 10001017,Mes Contes Préférés,mes-contes-preferes,Le Petit Chaperon Rouge Et 3 Autres Contes,fr-fr,audio-play,stock,e805a0d2-d351-4055-9971-4e0ecdad90ed,https://tonies.com/fr-fr/tonies/mes-contes-preferes/le-petit-chaperon-rouge-et-3-autres-contes/,1,0,0,0
 10001018,Mes Classiques Préférés,mes-classiques-preferes,Pinocchio Et 2 Autres Classiques,fr-fr,audio-play,stock,0367b6fd-d667-4283-8191-e6b5c9fd935b,https://tonies.com/fr-fr/tonies/mes-classiques-preferes/pinocchio-et-2-autres-classiques/,1,0,0,0
-10001019,Mes Comptines Préférées,mes-comptines-preferees,À Mimer,fr-fr,music,stock,24d9c453-5a60-4c36-8942-30e9ace867ac,https://tonies.com/fr-fr/tonies/mes-comptines-preferees/mimer/,1,0,0,0
+10001019,Mes Comptines Préférées,mes-comptines-preferees,À Mimer,fr-fr,music,stock,24d9c453-5a60-4c36-8942-30e9ace867ac,https://tonies.com/fr-fr/tonies/mes-comptines-preferees/mimer/,1,1,1,1
 10001020,Tonie Créatif,,Fée,fr-fr,creative-tonie,stock,d2bbc940-f776-43d7-80a4-278db6dc243e,https://tonies.com/fr-fr/tonies-creatifs/tonie-creatif-fee/,1,0,0,0
-10001021,Mes Comptines Préférées,mes-comptines-preferees,Pour Faire la Fête,fr-fr,music,stock,c7975780-dae2-4496-ae1c-beaea567a53b,https://tonies.com/fr-fr/tonies/mes-comptines-preferees/pour-faire-la-fete/,2,1,0,0
+10001021,Mes Comptines Préférées,mes-comptines-preferees,Pour Faire la Fête,fr-fr,music,stock,c7975780-dae2-4496-ae1c-beaea567a53b,https://tonies.com/fr-fr/tonies/mes-comptines-preferees/pour-faire-la-fete/,2,1,0,1
 10001041,Maya L'Abeille,maya-l-abeille,Maya L'Abeille,fr-fr,audio-play-songs,stock,bb7a2283-5b34-45fb-a7dd-fe31f9e6bb38,https://tonies.com/fr-fr/tonies/maya-l-abeille/maya-l-abeille/,1,0,0,0
 10001043,Heidi,heidi,Heidi,fr-fr,audio-play-songs,stock,a2fbe823-ac77-40a5-8d08-3242793c7ae9,https://tonies.com/fr-fr/tonies/heidi/heidi/,1,0,0,0
 10001104,Disney,disney,Cendrillon,fr-fr,audio-play-songs,stock,843fc10b-e16e-4ee2-a8e1-1a187a2dd895,https://tonies.com/fr-fr/tonies/disney/cendrillon/,1,0,0,0
