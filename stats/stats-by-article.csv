@@ -16,7 +16,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 01-0014,Benjamin Blümchen,benjamin-bluemchen,Benjamin als Baggerfahrer,de-de,audio-play,stock,ba8a6c9e-79b4-4160-8081-38b68210d2c5,https://tonies.com/de-de/tonies/benjamin-bluemchen/als-baggerfahrer/,1,1,1,1
 01-0018,Kleiner Eisbär,,"Lars, lass mich nicht allein! / Lars und der Angsthase",de-de,audio-play,stock,,,1,1,1,1
 01-0019,Der Grüffelo,,Der Grüffelo,de-de,audio-play,stock,,,1,1,1,1
-01-0020,Die Olchis,,Die Olchis werden Fußballmeister,de-de,audio-play,stock,,,1,1,1,2
+01-0020,Die Olchis,die-olchis,Die Olchis werden Fußballmeister,de-de,audio-play,stock,f5202347-4881-4e82-9f81-a0ebe56e1a68,https://tonies.com/de-de/tonies/die-olchis/die-olchis-werden-fussballmeister/,1,1,1,2
 01-0021,Unter meinem Bett,unter-meinem-bett,Unter meinem Bett 1,de-de,music,stock,ec25e761-99c0-44aa-b81f-698b19850cd7,https://tonies.com/de-de/tonies/unter-meinem-bett/neue-songs-fuer-kinder/,1,1,1,2
 01-0022,Janosch,janosch,"Ich mach dich gesund, sagte der Bär",de-de,audio-play,stock,a2469970-baff-406d-bdea-8738a1a7cf0b,https://tonies.com/de-de/tonies/janosch/ich-mach-dich-gesund-sagte-der-baer/,1,1,1,2
 01-0023,Der kleine Drache Kokosnuss,der-kleine-drache-kokosnuss,Hörspiel zur TV-Serie 01,de-de,audio-play,stock,bde413d8-ccaa-4a90-ba87-a04170e24f83,https://tonies.com/de-de/tonies/der-kleine-drache-kokosnuss/hoerspiel-zur-tv-serie/,1,1,1,3
@@ -83,7 +83,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 01-0119,Elmer,elmer,Kunterbunte Geschichten,de-de,audio-play,stock,dd93fb3c-2a1c-4894-8910-7e516fc0bb16,https://tonies.com/de-de/tonies/elmer/kunterbunte-geschichten/,1,1,1,3
 01-0120,Lieblings-Klassiker,,Pinocchio und 4 weitere Klassiker,de-de,audio-book,stock,,,1,1,1,2
 01-0122,Maulwurf,maulwurf,"Vom kleinen Maulwurf, der wissen wollte, wer ihm auf den Kopf gemacht hat/Die Rache des Hans-Heinerich",de-de,audio-play-songs,stock,2fc0dc0e-1abc-446a-b597-e99ff21ff516,https://tonies.com/de-de/tonies/maulwurf/wer-hat-mir-auf-den-kopf-gemacht/,1,2,1,2
-01-0123,Rotz 'n' Roll Radio,,"Jubel, Trubel, Heiserkeit",de-de,music,stock,,,1,1,1,2
+01-0123,Rotz 'n' Roll Radio,rotz-n-roll-radio,"Jubel, Trubel, Heiserkeit",de-de,music,stock,85be8553-0cc6-4cfa-b7a8-573109bfbd29,https://tonies.com/de-de/tonies/rotz-n-roll-radio/jubel-trubel-heiserkeit/,1,1,1,2
 01-0124,Lieblings-Kinderlieder,,Spiel- und Bewegungslieder,de-de,Musik,stock,,,1,1,1,2
 01-0125,Deine Freunde,deine-freunde,Das Gelbe von Drei,de-de,music,stock,a50251c2-c96c-4b2c-b995-9d5f522b585b,https://tonies.com/de-de/tonies/deine-freunde/das-gelbe-von-drei/,1,1,1,1
 01-0126,Die Gäng,,D!e Gäng,de-de,music,stock,,,1,1,1,1
@@ -120,7 +120,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 01-0167,Bobo Siebenschläfer,bobo-siebenschlaefer,Bobo beim Kinderarzt und weitere Folgen,de-de,audio-play,stock,416a71a8-74ab-4c3a-bae8-beea8c92d253,https://tonies.com/de-de/tonies/bobo-siebenschlaefer/bobo-beim-kinderarzt/,1,1,1,1
 01-0168,Der kleine Drache Kokosnuss,der-kleine-drache-kokosnuss,Hörspiel zur TV-Serie 04,de-de,audio-play,stock,b71088a8-9b0e-437d-b90b-f998634ee104,https://tonies.com/de-de/tonies/der-kleine-drache-kokosnuss/hoerspiel-zur-tv-serie-04/,1,1,1,2
 01-0169,Der kleine Hui Buh,,Schatzjagd im Museum/Magische Meisterschaft,de-de,audio-play,stock,,,1,1,1,2
-01-0170,Unter meinem Bett,,Unter meinem Bett 4,de-de,music,stock,,,1,1,1,2
+01-0170,Unter meinem Bett,unter-meinem-bett,Unter meinem Bett 4,de-de,music,stock,f9062ef2-ee57-45a7-9c90-e47cedc83b7e,https://tonies.com/de-de/tonies/unter-meinem-bett/unter-meinem-bett-4/,1,1,1,2
 01-0171,Lieblings-Kinderlieder,,Kindergartenlieder,de-de,music,stock,,,1,1,1,1
 01-0173,Benjamin Blümchen,benjamin-bluemchen,Benjamin Blümchen als Ritter,de-de,audio-play,stock,95a51add-4455-48c2-80bd-a3f2db1857be,https://tonies.com/de-de/tonies/benjamin-bluemchen/benjamin-bluemchen-als-ritter/,1,1,1,1
 01-0174,Bibi Blocksberg,bibi-blocksberg,Die Prinzessinnen von Thunderstorm,de-de,audio-play,stock,ff34f5c4-bf80-4df4-a4dd-546805d2f028,https://tonies.com/de-de/tonies/bibi-blocksberg/die-prinzessinnen-von-thunderstorm/,1,1,1,3
@@ -347,7 +347,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000283,Kasperli,kasperli,Es hät en Dieb im Zoo! / D Insle vom Pirat Ohnibart,de-de,audio-play,stock,063fb104-d79a-4e4d-99ab-632bc7ef7f7c,https://tonies.com/de-de/tonies/kasperli/im-zoo-pirat-ohnibart/,1,5,4,1
 10000284,Kreativ-Tonie,,Detektiv,de-de,creative-tonie,stock,f1262ddc-2617-4c7d-91c5-03526b2ecc5a,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-detektiv/,1,0,0,0
 10000285,Disney,disney,Die Monster AG,de-de,audio-play,stock,815f099f-ba36-4c5b-a990-d6a8d711c803,https://tonies.com/de-de/tonies/disney/die-monster-ag/,1,1,1,1
-10000287,Kai Lüftners Kürbiskopp,,Ein musikalisches Roadmovie,de-de,audio-book-songs,stock,,,1,1,1,1
+10000287,Kai Lüftners Kürbiskopp,kai-lueftners-kuerbiskopp,Ein musikalisches Roadmovie,de-de,audio-book-songs,stock,3a2c2194-55d3-4c1e-a55e-ad232e84394a,https://tonies.com/de-de/tonies/kai-lueftners-kuerbiskopp/ein-musikalisches-roadmovie/,1,1,1,1
 10000289,Lieblings-Kinderlieder,lieblings-kinderlieder,Halloween & Spuk,de-de,music,stock,3bae4615-455b-4af0-b7d4-1896ada14cff,https://tonies.com/de-de/tonies/lieblings-kinderlieder/halloween-und-spuk/,1,2,1,2
 10000291,WAS IST WAS Junior,was-ist-was-junior,Bauernhof,de-de,audio-play-songs,stock,da90bbbd-fd0c-4c4c-bcb8-7c2c4f9afd15,https://tonies.com/de-de/tonies/was-ist-was-junior/bauernhof/,1,1,1,1
 10000293,Elmer,elmer,Elmer and Friends Story Collection,en-gb,audio-book,stock,a10e863b-339f-4219-96d8-c3bc29fdec66,https://tonies.com/en-gb/tonies/elmer/elmer-and-friends-story-collection/,1,1,1,1
@@ -985,6 +985,8 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001910,Secrets D'Aventure,secrets-daventure,Arsène Lupin,fr-fr,audio-play,stock,dfd2974f-b06b-4bff-9db7-3f2e6c6a6236,https://tonies.com/fr-fr/tonies/secrets-daventure/arsene-lupin/,1,0,0,0
 10001911,Mes Comptines Préférées,mes-comptines-preferees,Pour Bouger,fr-fr,music,stock,5b0d1abb-1474-4bb7-ab19-213c9c17cc37,https://tonies.com/fr-fr/tonies/mes-comptines-preferees/pour-bouger/,1,0,0,0
 10001913,Les Schtroumpfs,les-schtroumpfs,Les Schtroumpfs Et Le Livre Qui Dit Tout,fr-fr,audio-play,stock,cd6a2efb-af13-4d3f-b8d3-8afc48ade206,https://tonies.com/fr-fr/tonies/les-schtroumpfs/les-schtroumpfs-et-le-livre-qui-dit-tout/,1,0,0,0
+10001921,Die Geggis,das-kleine-ich-bin-ich-die-geggis,Das kleine Ich bin Ich/Die Geggis,de-de,audio-book,stock,9528c83a-d524-46a8-8bf5-bfbb54e2ce84,https://tonies.com/de-de/tonies/das-kleine-ich-bin-ich-die-geggis/das-kleine-ich-bin-ich-die-geggis-dach/,1,0,0,0
+10001922,Jan und Henry,jan-und-henry,8 Rätsel und 2 Lieder,de-de,audio-play-songs,stock,fed0dd1b-7ee5-49ef-aad5-e7be3124436f,https://tonies.com/de-de/tonies/jan-und-henry/jan-henry-8-ratsel-und-2-lieder-dach/,1,0,0,0
 10001930,Favourite Children's Songs,favourite-children-s-songs,Healthy Habits,en-gb,music,stock,a796431c-7058-4c24-b64c-f30cae164a15,https://tonies.com/en-gb/tonies/favourite-children-s-songs/healthy-habits/,1,0,0,0
 10001933,Yakka Dee,yakka-dee,Yakka Dee,en-gb,audio-play,stock,a8a30e86-94f1-4ae5-9f78-fe4204069286,https://tonies.com/en-gb/tonies/yakka-dee/yakka-dee/,1,1,0,1
 10001934,Little Princess,little-princess,Little Princess Collection,en-gb,audio-play,stock,9d6054f4-45d8-471e-a28a-f64a174abe60,https://tonies.com/en-gb/tonies/little-princess/little-princess-collection/,1,1,0,1
@@ -1089,15 +1091,18 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000244,Tiny Chef,,,en-us,Tonie,stock,8085915074711,,1,1,0,0
 11000245,Dino Ranch,,,en-us,Tonie,stock,8057958105239,,1,0,0,0
 11000247,PAW Patrol,paw-patrol,Die Hundeschau,de-de,audio-play,stock,d8593db8-ad2a-49e9-9d12-b10d5c3e18f9,https://tonies.com/de-de/tonies/paw-patrol/die-hundeschau/,1,2,0,0
+11000248,PAW Patrol,paw-patrol,Zuma,de-de,audio-play,stock,48d1494c-f5f5-469e-94f1-2cc4b9bf4687,https://tonies.com/de-de/tonies/paw-patrol/zuma/,1,0,0,0
 11000249,Disney,disney,Tiggers großes Abenteuer,de-de,audio-play,stock,af4b11b7-0713-4f58-b1b5-25e134092b6b,https://tonies.com/de-de/tonies/disney/disney-tigger-tiggers-groes-abenteuer/,1,1,1,1
 11000251,Lichterkinder,lichterkinder,Laternen- und Herbstlieder,de-de,music,stock,74ecac51-38cc-450c-a405-166b68560670,https://tonies.com/de-de/tonies/lichterkinder/laternen-und-herbstlieder/,1,0,0,0
 11000254,Paw Patrol,paw-patrol,Tracker,en-gb,audio-play,stock,12e48faa-ff7d-4e3f-9cbe-9bb269e7dbff,https://tonies.com/en-gb/tonies/paw-patrol/tracker/,1,0,0,0
 11000266,PAW Patrol,,Tracker,en-us,Tonie,stock,8081283317911,,1,0,0,0
 11000279,Tabaluga,tabaluga,Drachen weinen nicht & Mondsüchtig,de-de,audio-play-songs,stock,d63d2e6c-3839-4d11-87b1-78e5de9f15ee,https://tonies.com/de-de/tonies/tabaluga/drachen-weinen-nicht-mondschtig/,1,1,1,1
+11000280,Lieblings-Kinderlieder,lieblings-kinderlieder,Frühlingslieder,de-de,music,stock,01b33faf-2232-4c86-9a7c-3feb7e438b5b,https://tonies.com/de-de/tonies/lieblings-kinderlieder/fruhlingslieder/,1,0,0,0
 11000290,Sing Kinderlieder,sing-kinderlieder,Bagger Mats & seine Freunde: Die schönsten Fahrzeuglieder,de-de,music,stock,b0b62e23-f0d7-46ff-ba88-3f52c59513d2,https://tonies.com/de-de/tonies/sing-kinderlieder/bagger-mats-seine-freunde-die-schonsten-fahrzeuglieder/,1,0,0,0
 11000291,Leos Tag,leos-tag,"Windel, Töpfchen, Klo - das geht so!",de-de,audio-play-songs,stock,d8665bc7-22e4-4247-8b43-8db25dbf15b5,https://tonies.com/de-de/tonies/leos-tag/windel-topfchen-klo-das-geht-so/,1,1,0,0
 11000292,Disney,disney,Encanto,de-de,audio-play,stock,4f891311-7cbc-4d7b-a5ef-e6b1f4c5d14b,https://tonies.com/de-de/tonies/disney/encanto/,1,1,1,1
 11000293,Contes Du Monde,contes-du-monde,Corée,fr-fr,audio-book,stock,4259ea21-46c9-4c18-98cd-29d453db5908,https://tonies.com/fr-fr/tonies/contes-du-monde/coree/,1,0,0,0
+11000294,Bullerbü,wir-kinder-aus-bullerbue,Immer lustig in Bullerbü,de-de,audio-play,stock,da5bc539-9456-4527-8e6b-d016d1c313b9,https://tonies.com/de-de/tonies/wir-kinder-aus-bullerbue/immer-lustig-in-bullerbu/,1,0,0,0
 11000296,Petit Malabar,petit-malabar,Science+Fiction=Aventure,fr-fr,audio-play,stock,ec75815f-d034-4566-90b5-8e3ac34c2be1,https://tonies.com/fr-fr/tonies/petit-malabar/science-fiction-aventure/,1,0,0,0
 11000297,Oggy Oggy,oggy-oggy,"1, 2, 3, Prêts ? Partez !",fr-fr,audio-play,stock,cd43f1f7-1d30-4d25-b111-774972316fcf,https://tonies.com/fr-fr/tonies/oggy-oggy/1-2-3-prets-partez/,1,0,0,0
 11000299,Gigantosaurus,gigantosaurus,Rocky,fr-fr,audio-play,stock,a2a4af44-431d-4c36-849f-c71235adbc0c,https://tonies.com/fr-fr/tonies/gigantosaurus/rocky-2/,1,0,0,0
