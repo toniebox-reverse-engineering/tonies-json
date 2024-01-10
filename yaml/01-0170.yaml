@@ -2,19 +2,34 @@ article: 01-0170
 lock-data: false
 data:
 - series: Unter meinem Bett
-  series-id: null
+  series-id: unter-meinem-bett
   episode: Unter meinem Bett 4
   release: 1572998400
   language: de-de
   category: music
-  runtime: 0
-  age: 99
+  runtime: 52
+  age: 4
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0170-50000601-b-9w8gEDm8.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/818eace1804b0677714655f45629579f30b94655058ac098324753cc/hoerprobe_unter_meinem_bett_4_ext.mp3
+  web: https://tonies.com/de-de/tonies/unter-meinem-bett/unter-meinem-bett-4/
+  shop-id: f9062ef2-ee57-45a7-9c90-e47cedc83b7e
+  track-desc:
+  - „Ich bin nicht niedlich“ von Larissa Pesch
+  - „Extrawurst“ von Theodor Shitstorm
+  - „Tier“ von Eule und Lerche (aka Lisa Bassenge und Boris Meinhold)
+  - „Monster & Drachen“ von Dota
+  - „Feige Nuss“ von Maike Rosa Vogel
+  - „Tiere im Wald“ von Alin Coen
+  - „Mensch ärger dich nicht“ von Karl die Große
+  - „Bestimmer“ von Locas in Love feat. Gorilla Club
+  - „Ich bin cool“ von Buddy Buxbaum
+  - „Alle alle sind Musik“ von Max Schröder & Die Chorinies
+  - „Im Wasser kann ich fliegen“ von Bernd Begemann und Belinda
+  - „Flattermaus“ von Die Schwarzen Tasten (mit Tobias Siebert von Klez.e
+  - „Alle fallen um“ von Maeckes
+  - „Das ist schon das Lied“ von Francesco Wilking, Moritz Krämer und Gysbert zu Knyphausen
+  - „Geschwisterlied“ von Sarah und Julian
   ids:
   - audio-id: 1571393591
     hash: 17431267ad06869c6d2510c90ef3ef2cb1e1c964

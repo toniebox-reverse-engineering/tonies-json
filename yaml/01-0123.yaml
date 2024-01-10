@@ -2,19 +2,37 @@ article: 01-0123
 lock-data: false
 data:
 - series: Rotz 'n' Roll Radio
-  series-id: null
+  series-id: rotz-n-roll-radio
   episode: Jubel, Trubel, Heiserkeit
   release: 1511222400
   language: de-de
   category: music
-  runtime: 0
-  age: 99
+  runtime: 79
+  age: 4
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0123-b-T06QPTxB.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/a0cc33299b22840859f20c3e06454c943c641551756cd088990fa5b0/rotz.mp3
+  web: https://tonies.com/de-de/tonies/rotz-n-roll-radio/jubel-trubel-heiserkeit/
+  shop-id: 85be8553-0cc6-4cfa-b7a8-573109bfbd29
+  track-desc:
+  - Keen Kinderlied
+  - Kinderzimmerhooligan
+  - Fürst Wasserzahn
+  - Das Leben ist nicht fair
+  - Sista Christa
+  - Der fast perfekte Song
+  - Nur die Liebe fehlt
+  - Der Zahnfee
+  - Nie getan
+  - I don't speak English
+  - Ans Meer
+  - Keine Angst
+  - Dann lies!
+  - Professor Huwanwau
+  - Hoffnungsschimmer
+  - Miep
+  - Abendrot
+  - Schlaflied
   ids:
   - audio-id: 1504025966
     hash: 6c0b924f1b5d4e898a2f2a8f23deef96a1f32d95

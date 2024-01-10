@@ -2,19 +2,46 @@ article: '10000287'
 lock-data: false
 data:
 - series: Kai Lüftners Kürbiskopp
-  series-id: null
+  series-id: kai-lueftners-kuerbiskopp
   episode: Ein musikalisches Roadmovie
   release: 1603324800
   language: de-de
   category: audio-book-songs
-  runtime: 0
-  age: 99
+  runtime: 80
+  age: 6
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000287-50001961-b-id83n-j3.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/4c7269fcb977bc777fde3f3adfb2cdfdf9e41d4ac60d0de057072bde/hoerprobe_kai_lueftners_kurbiskopp_ein_musikalisches_roadmovie_ext_1.mp3
+  web: https://tonies.com/de-de/tonies/kai-lueftners-kuerbiskopp/ein-musikalisches-roadmovie/
+  shop-id: 3a2c2194-55d3-4c1e-a55e-ad232e84394a
+  track-desc:
+  - Kapitel 1 "Spuk"
+  - Song "Ausrangiert"
+  - Kapitel 2
+  - Song "Dein Glück" und Kapitel 3
+  - Song "Unterwegs"
+  - Kapitel 4
+  - Kapitel 5
+  - Song "Nicht weit genug"
+  - Kapitel 6
+  - Song "Halloween"
+  - Kapitel 7
+  - Song "Du kennst mich nicht"
+  - Kapitel 8
+  - Song "Neue Zeit"
+  - Kapitel 9
+  - Song "Keine Angst haben"
+  - Kapitel 10
+  - Song "Rausgehen"
+  - 19- Kapitel 11
+  - Song "Kürbiskopp reichts"
+  - Kapitel 12
+  - Song "Wiederkommen"
+  - Kapitel 13
+  - Song "Du"
+  - Kapitel 14
+  - Song "Tage"
+  - Outro
   ids:
   - audio-id: 1602851914
     hash: 9ae807599cdda23b9fd896cbe19fc1b6887f25ac
