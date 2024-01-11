@@ -37,4 +37,9 @@ data:
   - Hejo, guter alter Mond
   - Wir sind Lichterkinder
   - Funkel, funkel kleiner Stern
-  ids: []
+  ids:
+  - audio-id: 1693817695
+    hash: 0fa4915a915904e089bddd234aaa72779f2ef702
+    size: 41334245
+    tracks: 22
+    confidence: 1
