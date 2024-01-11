@@ -4,15 +4,43 @@ data:
 - series: Dino Ranch
   series-id: dino-ranch
   episode: 'Folgen 21-24: Eine gute Wendung'
-  release: 0
-  language: null
-  category: null
+  release: 1704844800
+  language: de-de
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/fe05d18b8af7cdca9dc4f89af94769bf65f48542f7f1c16e05b175d9/3_-cFF-yQ1X~GT6dW0/dino_ranch_021_folgen_21_24__eine_gute_wendung_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/af70b59cb03b6823148c8f691f649c09255ee47ed12217ce7f40d082/4013575937370_preview.mp3
   web: https://tonies.com/de-de/audio-content/dino-ranch/folgen-21-24-eine-gute-wendung/
   shop-id: d7fe11c8-fcd4-40ae-b1a3-f53602986929
-  track-desc: []
+  track-desc:
+  - Dino Ranch Lied
+  - 'Kapitel 01: Jons Ballade (Folge 21)'
+  - 'Kapitel 02: Jons Ballade (Folge 21)'
+  - 'Kapitel 03: Jons Ballade (Folge 21)'
+  - 'Kapitel 04: Jons Ballade (Folge 21)'
+  - 'Kapitel 05: Jons Ballade (Folge 21)'
+  - 'Kapitel 06: Jons Ballade (Folge 21)'
+  - 'Kapitel 01: Eine gute Wendung (Folge 22)'
+  - 'Kapitel 02: Eine gute Wendung (Folge 22)'
+  - 'Kapitel 03: Eine gute Wendung (Folge 22)'
+  - 'Kapitel 04: Eine gute Wendung (Folge 22)'
+  - 'Kapitel 05: Eine gute Wendung (Folge 22)'
+  - 'Kapitel 06: Eine gute Wendung (Folge 22)'
+  - 'Kapitel 01: Gitarrenhelden (Folge 23)'
+  - 'Kapitel 02: Gitarrenhelden (Folge 23)'
+  - 'Kapitel 03: Gitarrenhelden (Folge 23)'
+  - 'Kapitel 04: Gitarrenhelden (Folge 23)'
+  - 'Kapitel 05: Gitarrenhelden (Folge 23)'
+  - 'Kapitel 06: Gitarrenhelden (Folge 23)'
+  - 'Kapitel 07: Gitarrenhelden (Folge 23)'
+  - 'Kapitel 01: Wilder freier Donnerfuß (Folge 24)'
+  - 'Kapitel 02: Wilder freier Donnerfuß (Folge 24)'
+  - 'Kapitel 03: Wilder freier Donnerfuß (Folge 24)'
+  - 'Kapitel 04: Wilder freier Donnerfuß (Folge 24)'
+  - 'Kapitel 05: Wilder freier Donnerfuß (Folge 24)'
+  - 'Kapitel 06: Wilder freier Donnerfuß (Folge 24)'
+  - 'Kapitel 07: Wilder freier Donnerfuß (Folge 24)'
+  - 'Kapitel 08: Wilder freier Donnerfuß (Folge 24)'
   ids: []

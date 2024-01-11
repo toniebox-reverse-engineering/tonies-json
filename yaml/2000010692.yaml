@@ -4,15 +4,42 @@ data:
 - series: Dino Ranch
   series-id: dino-ranch
   episode: 'Folgen 33-36: Auf der Überholspur'
-  release: 0
-  language: null
-  category: null
+  release: 1704844800
+  language: de-de
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/c3aef0ba0cfa3a680824204af2498008df948f90dbcaa84c88feb450/3_.xTHCQ9q1njJcjfJ/dino_ranch_033_folgen_33_36__auf_der_uberholsp_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/163d2e0cd397e5d40148f7b81ce3a701a10e251d5af9900e6602fad7/4013575942688_preview.mp3
   web: https://tonies.com/de-de/audio-content/dino-ranch/folgen-33-36-auf-der-uberholspur/
   shop-id: 5b0757b7-b204-443e-af4d-1fca44fcb668
-  track-desc: []
+  track-desc:
+  - Dino Ranch Lied
+  - 'Kapitel 01: Der Ptero-Angriff (Folge 33)'
+  - 'Kapitel 02: Der Ptero-Angriff (Folge 33)'
+  - 'Kapitel 03: Der Ptero-Angriff (Folge 33)'
+  - 'Kapitel 04: Der Ptero-Angriff (Folge 33)'
+  - 'Kapitel 05: Der Ptero-Angriff (Folge 33)'
+  - 'Kapitel 06: Der Ptero-Angriff (Folge 33)'
+  - 'Kapitel 01: Der Dinodieb (Folge 34)'
+  - 'Kapitel 02: Der Dinodieb (Folge 34)'
+  - 'Kapitel 03: Der Dinodieb (Folge 34)'
+  - 'Kapitel 04: Der Dinodieb (Folge 34)'
+  - 'Kapitel 05: Der Dinodieb (Folge 34)'
+  - 'Kapitel 06: Der Dinodieb (Folge 34)'
+  - 'Kapitel 07: Der Dinodieb (Folge 34)'
+  - 'Kapitel 01: Dinoweh (Folge 35)'
+  - 'Kapitel 02: Dinoweh (Folge 35)'
+  - 'Kapitel 03: Dinoweh (Folge 35)'
+  - 'Kapitel 04: Dinoweh (Folge 35)'
+  - 'Kapitel 05: Dinoweh (Folge 35)'
+  - 'Kapitel 06: Dinoweh (Folge 35)'
+  - 'Kapitel 01: Auf der Überholspur (Folge 36)'
+  - 'Kapitel 02: Auf der Überholspur (Folge 36)'
+  - 'Kapitel 03: Auf der Überholspur (Folge 36)'
+  - 'Kapitel 04: Auf der Überholspur (Folge 36)'
+  - 'Kapitel 05: Auf der Überholspur (Folge 36)'
+  - 'Kapitel 06: Auf der Überholspur (Folge 36)'
+  - 'Kapitel 07: Auf der Überholspur (Folge 36)'
   ids: []

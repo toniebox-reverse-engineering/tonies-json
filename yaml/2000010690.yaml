@@ -4,15 +4,43 @@ data:
 - series: Dino Ranch
   series-id: dino-ranch
   episode: 'Folgen 41-44: Die Ei-Verwechslung'
-  release: 0
-  language: null
-  category: null
+  release: 1704844800
+  language: de-de
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/b01f33b9d75241e5066a1cf77a36bb253e5c63910b44aa99f3b031b2/3_xP5Dmxhg-gHqQ1vm/dino_ranch_041_folgen_41_44__die_ei_verwechslu_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/cc4e0c7650def30dab56c9086358665010980ca25fe59051467ecc8c/4013575944507_preview.mp3
   web: https://tonies.com/de-de/audio-content/dino-ranch/folgen-41-44-die-ei-verwechslung/
   shop-id: e09c6286-e701-41e7-9a32-c7cdadb4295b
-  track-desc: []
+  track-desc:
+  - Dino Ranch Lied
+  - 'Kapitel 01: Streit in der Familie (Folge 41)'
+  - 'Kapitel 02: Streit in der Familie (Folge 41)'
+  - 'Kapitel 03: Streit in der Familie (Folge 41)'
+  - 'Kapitel 04: Streit in der Familie (Folge 41)'
+  - 'Kapitel 05: Streit in der Familie (Folge 41)'
+  - 'Kapitel 06: Streit in der Familie (Folge 41)'
+  - 'Kapitel 07: Streit in der Familie (Folge 41)'
+  - 'Kapitel 01: Platzmangel auf der Ranch (Folge 42)'
+  - 'Kapitel 02: Platzmangel auf der Ranch (Folge 42)'
+  - 'Kapitel 03: Platzmangel auf der Ranch (Folge 42)'
+  - 'Kapitel 04: Platzmangel auf der Ranch (Folge 42)'
+  - 'Kapitel 05: Platzmangel auf der Ranch (Folge 42)'
+  - 'Kapitel 06: Platzmangel auf der Ranch (Folge 42)'
+  - 'Kapitel 01: Die Ei-Verwechslung (Folge 43)'
+  - 'Kapitel 02: Die Ei-Verwechslung (Folge 43)'
+  - 'Kapitel 03: Die Ei-Verwechslung (Folge 43)'
+  - 'Kapitel 04: Die Ei-Verwechslung (Folge 43)'
+  - 'Kapitel 05: Die Ei-Verwechslung (Folge 43)'
+  - 'Kapitel 06: Die Ei-Verwechslung (Folge 43)'
+  - 'Kapitel 07: Die Ei-Verwechslung (Folge 43)'
+  - 'Kapitel 01: Müffelblumen-Attacke (Folge 44)'
+  - 'Kapitel 02: Müffelblumen-Attacke (Folge 44)'
+  - 'Kapitel 03: Müffelblumen-Attacke (Folge 44)'
+  - 'Kapitel 04: Müffelblumen-Attacke (Folge 44)'
+  - 'Kapitel 05: Müffelblumen-Attacke (Folge 44)'
+  - 'Kapitel 06: Müffelblumen-Attacke (Folge 44)'
+  - 'Kapitel 07: Müffelblumen-Attacke (Folge 44)'
   ids: []

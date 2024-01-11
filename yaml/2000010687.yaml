@@ -4,15 +4,42 @@ data:
 - series: Dino Ranch
   series-id: dino-ranch
   episode: 'Folgen 09-12: Der kleine Helfer'
-  release: 0
-  language: null
-  category: null
+  release: 1704844800
+  language: de-de
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/7c4f7308e360e937d51a16e8d6926506270c99d4136d7d4e7819174a/3_mRd3b5_nxXTt8nlR/dino_ranch_009_folgen_09_12__der_kleine_helfer_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/a30566b8b02d742b425348334af520122bb25657476dba4e3b037e7c/4013575936335_preview.mp3
   web: https://tonies.com/de-de/audio-content/dino-ranch/folgen-09-12-der-kleine-helfer/
   shop-id: cd69e0f4-afe6-4b8b-a973-f84d7091f6b3
-  track-desc: []
+  track-desc:
+  - Dino Ranch Lied
+  - 'Kapitel 01: Der kleine Helfer (Folge 9)'
+  - 'Kapitel 02: Der kleine Helfer (Folge 9)'
+  - 'Kapitel 03: Der kleine Helfer (Folge 9)'
+  - 'Kapitel 04: Der kleine Helfer (Folge 9)'
+  - 'Kapitel 05: Der kleine Helfer (Folge 9)'
+  - 'Kapitel 06: Der kleine Helfer (Folge 9)'
+  - 'Kapitel 07: Der kleine Helfer (Folge 9)'
+  - 'Kapitel 01: Der große Untersuchungs-Tag (Folge 10)'
+  - 'Kapitel 02: Der große Untersuchungs-Tag (Folge 10)'
+  - 'Kapitel 03: Der große Untersuchungs-Tag (Folge 10)'
+  - 'Kapitel 04: Der große Untersuchungs-Tag (Folge 10)'
+  - 'Kapitel 05: Der große Untersuchungs-Tag (Folge 10)'
+  - 'Kapitel 06: Der große Untersuchungs-Tag (Folge 10)'
+  - 'Kapitel 01: Immer Ärger mit den Tinhorns (Folge 11)'
+  - 'Kapitel 02: Immer Ärger mit den Tinhorns (Folge 11)'
+  - 'Kapitel 03: Immer Ärger mit den Tinhorns (Folge 11)'
+  - 'Kapitel 04: Immer Ärger mit den Tinhorns (Folge 11)'
+  - 'Kapitel 05: Immer Ärger mit den Tinhorns (Folge 11)'
+  - 'Kapitel 06: Immer Ärger mit den Tinhorns (Folge 11)'
+  - 'Kapitel 01: Rancheroo-Tag (Folge 12)'
+  - 'Kapitel 02: Rancheroo-Tag (Folge 12)'
+  - 'Kapitel 03: Rancheroo-Tag (Folge 12)'
+  - 'Kapitel 04: Rancheroo-Tag (Folge 12)'
+  - 'Kapitel 05: Rancheroo-Tag (Folge 12)'
+  - 'Kapitel 06: Rancheroo-Tag (Folge 12)'
+  - 'Kapitel 07: Rancheroo-Tag (Folge 12)'
   ids: []

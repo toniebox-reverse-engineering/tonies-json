@@ -1,0 +1,44 @@
+article: '2000010696'
+lock-data: false
+data:
+- series: Dino Ranch
+  series-id: dino-ranch
+  episode: 'Folgen 05-08: Ein langer Weg nach Hause'
+  release: 1704844800
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/712451ad80734544487fdae45ad465b30523626c06ab46a1d71ff539/3_fQjf7hX2vrQ_xPtc/dino_ranch_005_folgen_05_08__ein_langer_weg_na_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/dino-ranch/folgen-05-08-ein-langer-weg-nach-hause/
+  shop-id: 27dd66b4-3e62-45b0-8f5e-a89b285195b3
+  track-desc:
+  - Dino Ranch Lied
+  - 'Kapitel 01: Das perfekte Geschenk für Jane (Folge 5)'
+  - 'Kapitel 02: Das perfekte Geschenk für Jane (Folge 5)'
+  - 'Kapitel 03: Das perfekte Geschenk für Jane (Folge 5)'
+  - 'Kapitel 04: Das perfekte Geschenk für Jane (Folge 5)'
+  - 'Kapitel 05: Das perfekte Geschenk für Jane (Folge 5)'
+  - 'Kapitel 06: Das perfekte Geschenk für Jane (Folge 5)'
+  - Dino Ranch Lied
+  - 'Kapitel 01: Pteddys neues Nest (Folge 6)'
+  - 'Kapitel 02: Pteddys neues Nest (Folge 6)'
+  - 'Kapitel 03: Pteddys neues Nest (Folge 6)'
+  - 'Kapitel 04: Pteddys neues Nest (Folge 6)'
+  - 'Kapitel 05: Pteddys neues Nest (Folge 6)'
+  - Dino Ranch Lied
+  - 'Kapitel 01: Ein langer Weg nach Hause (Folge 7)'
+  - 'Kapitel 02: Ein langer Weg nach Hause (Folge 7)'
+  - 'Kapitel 03: Ein langer Weg nach Hause (Folge 7)'
+  - 'Kapitel 04: Ein langer Weg nach Hause (Folge 7)'
+  - 'Kapitel 05: Ein langer Weg nach Hause (Folge 7)'
+  - 'Kapitel 06: Ein langer Weg nach Hause (Folge 7)'
+  - Dino Ranch Lied
+  - 'Kapitel 01: Schatten unterm Apfelbaum (Folge 8)'
+  - 'Kapitel 02: Schatten unterm Apfelbaum (Folge 8)'
+  - 'Kapitel 03: Schatten unterm Apfelbaum (Folge 8)'
+  - 'Kapitel 04: Schatten unterm Apfelbaum (Folge 8)'
+  - 'Kapitel 05: Schatten unterm Apfelbaum (Folge 8)'
+  ids: []

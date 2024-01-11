@@ -4,15 +4,42 @@ data:
 - series: Dino Ranch
   series-id: dino-ranch
   episode: 'Folgen 37-40: Dino-Ei-Alarm'
-  release: 0
-  language: null
-  category: null
+  release: 1704844800
+  language: de-de
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/7707f2ef42a6ab50cb8bd06396a9dae5d7dadf26cad1a046a4d7df2b/3_Gp2D4FlG6_bkfb2B/dino_ranch_037_folgen_37_40__dino_ei_alarm_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/8ac1f06752be6c3886f3d4f4d7255016e212f23c0053bba7b742e25c/4013575942824_preview.mp3
   web: https://tonies.com/de-de/audio-content/dino-ranch/folgen-37-40-dino-ei-alarm/
   shop-id: 995c3c52-652e-49df-ae8b-7789adc33a92
-  track-desc: []
+  track-desc:
+  - Dino Ranch Lied
+  - 'Kapitel 01: Erst die Arbeit, dann das Vergnügen (Folge 37)'
+  - 'Kapitel 02: Erst die Arbeit, dann das Vergnügen (Folge 37)'
+  - 'Kapitel 03: Erst die Arbeit, dann das Vergnügen (Folge 37)'
+  - 'Kapitel 04: Erst die Arbeit, dann das Vergnügen (Folge 37)'
+  - 'Kapitel 05: Erst die Arbeit, dann das Vergnügen (Folge 37)'
+  - 'Kapitel 06: Erst die Arbeit, dann das Vergnügen (Folge 37)'
+  - 'Kapitel 07: Erst die Arbeit, dann das Vergnügen (Folge 37)'
+  - 'Kapitel 01: Jons Flugstunde (Folge 38)'
+  - 'Kapitel 02: Jons Flugstunde (Folge 38)'
+  - 'Kapitel 03: Jons Flugstunde (Folge 38)'
+  - 'Kapitel 04: Jons Flugstunde (Folge 38)'
+  - 'Kapitel 05: Jons Flugstunde (Folge 38)'
+  - 'Kapitel 06: Jons Flugstunde (Folge 38)'
+  - 'Kapitel 01: Der Dino-Tausch (Folge 39)'
+  - 'Kapitel 02: Der Dino-Tausch (Folge 39)'
+  - 'Kapitel 03: Der Dino-Tausch (Folge 39)'
+  - 'Kapitel 04: Der Dino-Tausch (Folge 39)'
+  - 'Kapitel 05: Der Dino-Tausch (Folge 39)'
+  - 'Kapitel 06: Der Dino-Tausch (Folge 39)'
+  - 'Kapitel 07: Der Dino-Tausch (Folge 39)'
+  - 'Kapitel 01: Dino-Ei-Alarm (Folge 40)'
+  - 'Kapitel 02: Dino-Ei-Alarm (Folge 40)'
+  - 'Kapitel 03: Dino-Ei-Alarm (Folge 40)'
+  - 'Kapitel 04: Dino-Ei-Alarm (Folge 40)'
+  - 'Kapitel 05: Dino-Ei-Alarm (Folge 40)'
+  - 'Kapitel 06: Dino-Ei-Alarm (Folge 40)'
   ids: []

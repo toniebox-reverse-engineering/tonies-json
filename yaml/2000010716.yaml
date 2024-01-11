@@ -1,0 +1,21 @@
+article: '2000010716'
+lock-data: false
+data:
+- series: Willa und Schnüff
+  series-id: willa-und-schnueff
+  episode: Der Fieberdrache
+  release: 1704844800
+  language: de-de
+  category: audio-book
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_95db6d41e0bab85ca4f40bfdd0b27f6aabd58d04370481082d7ae47e/3_v_7ChBx_kqGY78bY/willa_und_schnuff_der_fieberdrache_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/1b4a74e4be75885069c5b638fb4ae3b7998af97ebaf45972e7fc6db2/wus_horprobe_der_fieberdrache30sec.wav
+  web: https://tonies.com/de-de/audio-content/willa-und-schnueff/willa-schnueff-der-fieberdrache/
+  shop-id: 0f9e6412-8951-44b5-ae71-041d3419230b
+  track-desc:
+  - Der Fieberdrache (Teil 1)
+  - Der Fieberdrache (Teil 2)
+  - Der Fieberdrache (Teil 3)
+  ids: []

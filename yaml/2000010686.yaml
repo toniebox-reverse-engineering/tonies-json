@@ -4,15 +4,44 @@ data:
 - series: Dino Ranch
   series-id: dino-ranch
   episode: 'Folgen 25-28: Lauter kranke Dinos'
-  release: 0
-  language: null
-  category: null
+  release: 1704844800
+  language: de-de
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/34c01cb64894e29820aacf20c2a9ce61211ac9f97bb7cec67ea96f4e/3_bWV28hQm~5CxC8RN/dino_ranch_025_folgen_25_28__lauter_kranke_din_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/27142bbeff32434217023881f0a0f7295978bb7131c763b3c6debff9/4013575939886_preview.mp3
   web: https://tonies.com/de-de/audio-content/dino-ranch/folgen-25-28-lauter-kranke-dinos/
   shop-id: e5d4b083-fcbd-4427-851a-2bdc2aeef704
-  track-desc: []
+  track-desc:
+  - Dino Ranch Lied
+  - 'Kapitel 01: Ein seltener Dinosaurier (Folge 25)'
+  - 'Kapitel 02: Ein seltener Dinosaurier (Folge 25)'
+  - 'Kapitel 03: Ein seltener Dinosaurier (Folge 25)'
+  - 'Kapitel 04: Ein seltener Dinosaurier (Folge 25)'
+  - 'Kapitel 05: Ein seltener Dinosaurier (Folge 25)'
+  - 'Kapitel 06: Ein seltener Dinosaurier (Folge 25)'
+  - 'Kapitel 07: Ein seltener Dinosaurier (Folge 25)'
+  - 'Kapitel 01: Lauter kranke Dinos (Folge 26)'
+  - 'Kapitel 02: Lauter kranke Dinos (Folge 26)'
+  - 'Kapitel 03: Lauter kranke Dinos (Folge 26)'
+  - 'Kapitel 04: Lauter kranke Dinos (Folge 26)'
+  - 'Kapitel 05: Lauter kranke Dinos (Folge 26)'
+  - 'Kapitel 06: Lauter kranke Dinos (Folge 26)'
+  - 'Kapitel 07: Lauter kranke Dinos (Folge 26)'
+  - 'Kapitel 01: Goliaths kleiner Helfer (Folge 27)'
+  - 'Kapitel 02: Goliaths kleiner Helfer (Folge 27)'
+  - 'Kapitel 03: Goliaths kleiner Helfer (Folge 27)'
+  - 'Kapitel 04: Goliaths kleiner Helfer (Folge 27)'
+  - 'Kapitel 05: Goliaths kleiner Helfer (Folge 27)'
+  - 'Kapitel 06: Goliaths kleiner Helfer (Folge 27)'
+  - 'Kapitel 07: Goliaths kleiner Helfer (Folge 27)'
+  - 'Kapitel 01: Eine neue Herde (Folge 28)'
+  - 'Kapitel 02: Eine neue Herde (Folge 28)'
+  - 'Kapitel 03: Eine neue Herde (Folge 28)'
+  - 'Kapitel 04: Eine neue Herde (Folge 28)'
+  - 'Kapitel 05: Eine neue Herde (Folge 28)'
+  - 'Kapitel 06: Eine neue Herde (Folge 28)'
+  - 'Kapitel 07: Eine neue Herde (Folge 28)'
   ids: []

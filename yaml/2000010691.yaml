@@ -4,15 +4,40 @@ data:
 - series: Dino Ranch
   series-id: dino-ranch
   episode: 'Folgen 13-16: Tangos neue Freundin'
-  release: 0
-  language: null
-  category: null
+  release: 1704844800
+  language: de-de
+  category: audio-play
   runtime: 0
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/6d949bbcd18bd2af08d7d03634de4aaee70bfc21b365cf07c35f5ee7/3_cgnyNpfntDspkMsd/dino_ranch_013_folgen_13_16__tangos_neue_freun_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/a9f7d2ad30c21b63656913b1fe1af649b0414fc32c06814a37648135/4013575936359_preview.mp3
   web: https://tonies.com/de-de/audio-content/dino-ranch/folgen-13-16-tangos-neue-freundin/
   shop-id: 8c4cabb1-7141-4586-8ed6-82d4b28cd123
-  track-desc: []
+  track-desc:
+  - Dino Ranch Lied
+  - 'Kapitel 01: Clovers kleines Problem (Folge 13)'
+  - 'Kapitel 02: Clovers kleines Problem (Folge 13)'
+  - 'Kapitel 03: Clovers kleines Problem (Folge 13)'
+  - 'Kapitel 04: Clovers kleines Problem (Folge 13)'
+  - 'Kapitel 05: Clovers kleines Problem (Folge 13)'
+  - 'Kapitel 06: Clovers kleines Problem (Folge 13)'
+  - 'Kapitel 01: Tangos neue Freundin (Folge 14)'
+  - 'Kapitel 02: Tangos neue Freundin (Folge 14)'
+  - 'Kapitel 03: Tangos neue Freundin (Folge 14)'
+  - 'Kapitel 04: Tangos neue Freundin (Folge 14)'
+  - 'Kapitel 05: Tangos neue Freundin (Folge 14)'
+  - 'Kapitel 06: Tangos neue Freundin (Folge 14)'
+  - 'Kapitel 01: Zuhause in Freiheit (Folge 15)'
+  - 'Kapitel 02: Zuhause in Freiheit (Folge 15)'
+  - 'Kapitel 03: Zuhause in Freiheit (Folge 15)'
+  - 'Kapitel 04: Zuhause in Freiheit (Folge 15)'
+  - 'Kapitel 05: Zuhause in Freiheit (Folge 15)'
+  - 'Kapitel 06: Zuhause in Freiheit (Folge 15)'
+  - 'Kapitel 07: Zuhause in Freiheit (Folge 15)'
+  - 'Kapitel 01: Miguel und das Compi-Problem (Folge 16)'
+  - 'Kapitel 02: Miguel und das Compi-Problem (Folge 16)'
+  - 'Kapitel 03: Miguel und das Compi-Problem (Folge 16)'
+  - 'Kapitel 04: Miguel und das Compi-Problem (Folge 16)'
+  - 'Kapitel 05: Miguel und das Compi-Problem (Folge 16)'
   ids: []
