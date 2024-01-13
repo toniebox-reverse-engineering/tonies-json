@@ -333,7 +333,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000262,Kreativ-Tonie,,Polizist,de-de,creative-tonie,stock,,,1,0,0,0
 10000263,Lieblings-Kinderlieder,lieblings-kinderlieder,Europäische Kinderlieder,de-de,music,stock,d41e70e5-218c-4a50-aa30-b46cf1e15bef,https://tonies.com/de-de/tonies/lieblings-kinderlieder/europaeische-kinderlieder/,1,1,1,1
 10000265,WAS IST WAS,was-ist-was,Pinguine/Tiere im Zoo,de-de,audio-play-educational,stock,e25190b3-3343-41eb-aba2-5f42ae4e269a,https://tonies.com/de-de/tonies/was-ist-was/pinguine-tiere-im-zoo/,1,1,1,1
-10000266,Wieso? Weshalb? Warum? junior,wieso-weshalb-warum-junior-2,Der Wald,de-de,audio-play-songs,stock,7cf28044-9dda-40fa-a047-579d2ea6d579,https://tonies.com/de-de/tonies/wieso-weshalb-warum-junior-2/der-wald/,1,1,0,1
+10000266,Wieso? Weshalb? Warum? junior,wieso-weshalb-warum-junior-2,Der Wald,de-de,audio-play-songs,stock,7cf28044-9dda-40fa-a047-579d2ea6d579,https://tonies.com/de-de/tonies/wieso-weshalb-warum-junior-2/der-wald/,1,1,1,1
 10000267,Creative-Tonie,,Sleepy,en-gb,creative-tonie,stock,,,1,0,0,0
 10000269,Disney,disney,Finding Nemo,en-gb,audio-play-songs,stock,a8efa096-8af8-468a-8d09-faf7bc148d0e,https://tonies.com/en-gb/tonies/disney/finding-nemo/,1,1,1,3
 10000270,Favourite Children's Songs,favourite-children-s-songs,European Children's Songs,en-gb,music,stock,f89ef566-e3de-4f1a-aca4-93c9a53e0c65,https://tonies.com/en-gb/tonies/favourite-children-s-songs/european-childrens-songs/,1,0,0,0
@@ -863,7 +863,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001386,Peter Rabbit,peter-rabbit,Jemima Puddleduck,en-gb,audio-book,stock,0b111820-d33f-49b2-aae1-f7cd0f479caa,https://tonies.com/en-gb/tonies/peter-rabbit/jemima-puddleduck/,1,1,0,1
 10001387,Horrible Histories,horrible-histories,Terrible Tudors,en-gb,audio-play,stock,a1afc11e-4028-43a8-983f-aeb0a83faede,https://tonies.com/en-gb/tonies/horrible-histories/terrible-tudors/,1,1,0,1
 10001388,Cocomelon,cocomelon,CoComelon,en-gb,music,stock,f1ddb020-6f2f-4215-852d-40eb20096b1f,https://tonies.com/en-gb/tonies/cocomelon/cocomelon/,1,0,0,0
-10001396,Disney,disney,Woohoo! / Die Suche nach Atlantis,de-de,audio-play,stock,c7083d07-f05c-4c99-87ef-60ffd0cdaed8,https://tonies.com/de-de/tonies/disney/woohoo-die-suche-nach-atlantis/,1,1,0,1
+10001396,Disney,disney,Woohoo! / Die Suche nach Atlantis,de-de,audio-play,stock,c7083d07-f05c-4c99-87ef-60ffd0cdaed8,https://tonies.com/de-de/tonies/disney/woohoo-die-suche-nach-atlantis/,1,1,1,1
 10001397,Schlummerbande,schlummerbande,"Klassik zum Einschlafen - Träum schön, kleiner Schlummerhase",de-de,music,stock,c8225280-653e-4fa8-904c-566735f77a39,https://tonies.com/de-de/tonies/schlummerbande/klassik-zum-einschlafen-trum-schn-kleiner-schlummerhase/,1,1,0,0
 10001398,Super Wings,super-wings,Feuer im Wald,de-de,audio-play,stock,07e14381-a6ea-473b-851c-8c610e97fc75,https://tonies.com/de-de/tonies/super-wings/feuer-im-wald/,1,1,0,0
 10001406,Mouk,mouk,Découvre Le Monde Avec Mouk,fr-fr,audio-play,stock,cb8635f6-d118-4ff8-923c-efa46197a79e,https://tonies.com/fr-fr/tonies/mouk/decouvre-le-monde-avec-mouk/,1,0,0,0
@@ -1154,7 +1154,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000709,Clever Tonies Set,,Kid Comedy,en-us,Tonie,stock,8076776112279,,1,4,4,4
 11000710,Clever Tonies Set,,Inventions and Innovation,en-us,Tonie,stock,8076775555223,,1,4,4,4
 11000712,Clever Tonies Set,,Gentle Giant Dinosaurs,en-us,Tonie,stock,8076776341655,,1,4,0,0
-11000782,Today with tonies,today-with-tonies,tonies® Podcast,en-gb,audio-play,stock,a742a774-63b0-450f-8303-6552b3c99bc9,https://tonies.com/en-gb/tonies/today-with-tonies/today-with-tonies/,1,9,8,1
+11000782,Today with tonies,today-with-tonies,tonies® Podcast,en-gb,audio-play,stock,a742a774-63b0-450f-8303-6552b3c99bc9,https://tonies.com/en-gb/tonies/today-with-tonies/today-with-tonies/,1,10,9,1
 2000000000,Benjamin Blümchen,benjamin-bluemchen,5:0 für Benjamin,de-de,audio-play,tunes,216ab895-8d92-44e7-b3ae-cb085cf5ada7,https://tonies.com/de-de/audio-content/benjamin-bluemchen/50-fur-benjamin/,1,0,0,0
 2000000001,Benjamin Blümchen,benjamin-bluemchen,Abschied von Stella,de-de,audio-play,tunes,984c3380-84e8-4245-beea-5ba84587a9b6,https://tonies.com/de-de/audio-content/benjamin-bluemchen/abschied-von-stella/,1,0,0,0
 2000000002,Benjamin Blümchen,benjamin-bluemchen,Alle meine Freunde,de-de,music,tunes,e4335a48-fab8-449e-b01b-8b44a823f486,https://tonies.com/de-de/audio-content/benjamin-bluemchen/alle-meine-freunde/,1,0,0,0
