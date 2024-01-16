@@ -11,13 +11,18 @@ data:
   age: 3
   origin: stock
   image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/Image%202-7qxknUXW.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/6771db97d407c828892136be7220d7225fa33453fc021701aa7b156b/01_intro.wav
   web: https://tonies.com/en-gb/tonies/paw-patrol/tracker/
   shop-id: 12e48faa-ff7d-4e3f-9cbe-9bb269e7dbff
   track-desc:
-  - PAW Patrol Theme Song
-  - Tracker Joins the Pups
+  - Intro
+  - Paw Patrol Theme Tune
+  - Tracker Joins The Pups
+  - Interlude
   - Pups Save Big Hairy
-  - Pups Save the Mail
+  - Interlude
+  - Pups Save The Mail
+  - Interlude
   - Pups Save Big Paw
+  - Outro
   ids: []
