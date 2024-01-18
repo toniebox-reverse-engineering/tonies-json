@@ -1,0 +1,26 @@
+article: '2000010579'
+lock-data: false
+data:
+- series: Juf Roos
+  series-id: juf-roos-2
+  episode: Zing mee met Juf Roos
+  release: 1697673600
+  language: nl-nl
+  category: music
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_520eba1c9eb36b3d280235c92c1d0da8e10078c70fa6d7795c58a8b5/3__1zJG6wnj-TtVkZ3/juf_roos_zing_mee_met_juf_roos_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/4e9555af1bacca829b5995a09f6d940ed871d552c4b757de0dd5e29b/9789047630739_luisterfragment.wav
+  web: https://tonies.com/de-de/audio-content/juf-roos-2/zing-mee-met-juf-roos/
+  shop-id: 8cc02c61-e2de-40d8-8fef-317a55158b76
+  track-desc:
+  - Het Water Is Op
+  - Indiaan
+  - Kapitein
+  - Ranger
+  - Visser
+  - Cowboy
+  - Van Voor Naar Achter
+  - Blub Blub Blubberdieblub
+  ids: []
