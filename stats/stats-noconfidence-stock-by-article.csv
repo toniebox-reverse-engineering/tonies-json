@@ -110,7 +110,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000570,How to Train Your Dragon,,,en-us,Tonie,stock,7011182805143,,1,0,0,0
 10000572,Paddington Bear,,,en-us,Tonie,stock,7269043372183,,1,0,0,0
 10000575,Shrek,,,en-us,Tonie,stock,7173724930199,,1,0,0,0
-10000577,Disney,disney,Moana,en-gb,audio-play-songs,stock,547dc87c-1ecd-44a3-b7a1-203a236da545,https://tonies.com/en-gb/tonies/disney/moana/,1,0,0,0
+10000577,Disney,disney,Moana,en-gb,audio-play-songs,stock,547dc87c-1ecd-44a3-b7a1-203a236da545,https://tonies.com/en-gb/tonies/disney/moana/,1,1,0,0
 10000591,Favourite Children’s Songs,,Christmas Songs and Carols 2,en-gb,music,stock,,,1,0,0,0
 10000599,Oi Frog,oi-frog,Oi Frog and Friends,en-gb,audio-book,stock,300f01d0-6452-4c1b-94e5-dbc323bbd217,https://tonies.com/en-gb/tonies/oi-frog/oi-frog-and-friends/,1,1,0,1
 10000608,Octonauts,octonauts,Captain Barnacles,en-gb,audio-play-songs,stock,84096624-658b-47ed-aa4f-c955f01bda17,https://tonies.com/en-gb/tonies/octonauts/octonauts/,1,0,0,0
@@ -204,7 +204,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000827,Nap Time,nap-time,Nature Sounds,en-gb,music,stock,8ba709da-e610-402f-b28f-b57f6cc55abf,https://tonies.com/en-gb/tonies/nap-time/nature-sounds/,1,0,0,0
 10000837,Blue's Clues,blue-s-clues,Blue's Clues and You,en-gb,audio-play-songs,stock,9cf93438-13a0-4162-acf5-3793fa0ef379,https://tonies.com/en-gb/tonies/blue-s-clues/blues-clues-and-you/,1,0,0,0
 10000839,Disney,disney,Cars 2,en-gb,audio-play-songs,stock,5e2df981-ee5c-4111-b0de-868662ea4ed6,https://tonies.com/en-gb/tonies/disney/cars-2/,1,0,0,0
-10000840,The Elf on the Shelf,the-elf-on-the-shelf,The Elf on the Shelf,en-gb,audio-book-songs,stock,c4d1b66d-4955-4f25-b24d-30bf7908a6f9,https://tonies.com/en-gb/tonies/the-elf-on-the-shelf/the-elf-on-the-shelf/,1,0,0,0
+10000840,The Elf on the Shelf,the-elf-on-the-shelf,The Elf on the Shelf,en-gb,audio-book-songs,stock,c4d1b66d-4955-4f25-b24d-30bf7908a6f9,https://tonies.com/en-gb/tonies/the-elf-on-the-shelf/the-elf-on-the-shelf/,1,1,0,0
 10000854,Mes Comptines Préférées,mes-comptines-preferees,Pour S'Endormir,fr-fr,music,stock,9bf6ee1e-0274-4281-9430-6c6f46d75e59,https://tonies.com/fr-fr/tonies/mes-comptines-preferees/pour-sendormir/,1,0,0,0
 10000858,Disney,disney,La Reine Des Neiges,fr-fr,audio-play-songs,stock,8fcd15ed-3848-41e0-bc08-e6ed53290266,https://tonies.com/fr-fr/tonies/disney/la-reine-des-neiges/,1,0,0,0
 10000859,Elmer,elmer,Elmer Et Ses Amis,fr-fr,audio-play,stock,258309b8-9662-4b9f-a7ff-e22849c6af73,https://tonies.com/fr-fr/tonies/elmer/elmer-et-ses-amis/,1,0,0,0
@@ -252,7 +252,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001035,Favourite Tales,favourite-tales,Little Red Riding Hood (relaunch),en-gb,audio-book,stock,b2592527-aea2-4ef8-b826-e630ef946737,https://tonies.com/en-gb/tonies/favourite-tales/little-red-riding-hood-relaunch/,1,0,0,0
 10001036,Favourite Classics,favourite-classics,Pinocchio (relaunch),en-gb,audio-book,stock,ef215f9f-a1e7-4cb2-a463-e27069d0a93f,https://tonies.com/en-gb/tonies/favourite-classics/pinocchio-relaunch/,1,0,0,0
 10001037,Favourite Children's Songs,favourite-children-s-songs,Playtime & Action (relaunch),en-gb,music,stock,de7dd07e-35cf-433f-9b3c-43d72fa3bae6,https://tonies.com/en-gb/tonies/favourite-children-s-songs/playtime-action/,1,1,0,1
-10001038,Favourite Children's Songs,favourite-children-s-songs,Bedtime & Lullabies (relaunch),en-gb,music,stock,ce876e76-0265-4222-acae-6cbd789dc2c9,https://tonies.com/en-gb/tonies/favourite-children-s-songs/favourite-childrens-songs-bedtime-lullabies/,1,0,0,0
+10001038,Favourite Children's Songs,favourite-children-s-songs,Bedtime & Lullabies (relaunch),en-gb,music,stock,ce876e76-0265-4222-acae-6cbd789dc2c9,https://tonies.com/en-gb/tonies/favourite-children-s-songs/favourite-childrens-songs-bedtime-lullabies/,1,1,0,0
 10001039,National Geographic Kids,,Penguin,en-us,Tonie,stock,7326666096791,,1,1,0,1
 10001041,Maya L'Abeille,maya-l-abeille,Maya L'Abeille,fr-fr,audio-play-songs,stock,bb7a2283-5b34-45fb-a7dd-fe31f9e6bb38,https://tonies.com/fr-fr/tonies/maya-l-abeille/maya-l-abeille/,1,0,0,0
 10001043,Heidi,heidi,Heidi,fr-fr,audio-play-songs,stock,a2fbe823-ac77-40a5-8d08-3242793c7ae9,https://tonies.com/fr-fr/tonies/heidi/heidi/,1,0,0,0
@@ -370,7 +370,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001509,Simon,simon,Superlapin,fr-fr,audio-play,stock,012b1581-0108-4d5b-a9e5-d6c5a4f63e10,https://tonies.com/fr-fr/tonies/simon/superlapin/,1,0,0,0
 10001514,Smokey Bear,,,en-us,Tonie,stock,7953347510423,,1,1,0,1
 10001517,Disney,disney,Lilo & Stitch,en-gb,audio-book,stock,69f2cce3-034f-4f14-b5f2-99cf5aa3cef1,https://tonies.com/en-gb/tonies/disney/lilo-stitch/,1,0,0,0
-10001518,Gabby's Dollhouse,gabby-s-dollhouse,Gabby's Dollhouse,en-gb,audio-play-songs,stock,8b783a13-9ba8-49ed-bf24-05a848629f5d,https://tonies.com/en-gb/tonies/gabby-s-dollhouse/gabbys-dollhouse/,1,0,0,0
+10001518,Gabby's Dollhouse,gabby-s-dollhouse,Gabby's Dollhouse,en-gb,audio-play-songs,stock,8b783a13-9ba8-49ed-bf24-05a848629f5d,https://tonies.com/en-gb/tonies/gabby-s-dollhouse/gabbys-dollhouse/,1,1,0,0
 10001520,Favourite Children's Songs,favourite-children-s-songs,Travelling Songs (relaunch),en-gb,music,stock,324f101d-5316-4386-ae73-7bb26064020d,https://tonies.com/en-gb/tonies/favourite-children-s-songs/travelling-songs-relaunch/,2,0,0,0
 10001523,Peppa Pig,,George,en-us,Tonie,stock,7629784252567,,1,1,0,1
 10001550,Dr. Seuss,,Green Eggs & Ham,en-us,Tonie,stock,8040230879383,,1,1,0,0
@@ -419,14 +419,14 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001870,Pete the Cat,,Rock On!,en-us,Tonie,stock,7806556897431,,1,1,0,0
 10001871,Disney & Pixar,,Soul,en-us,Tonie,stock,8134366855319,,1,0,0,0
 10001872,PAW Patrol,,Everest,en-us,Tonie,stock,7926752051351,,1,1,0,1
-10001875,Disney,disney,Sleeping Beauty,en-gb,audio-play-songs,stock,4ebac6dc-cb0d-4a63-8117-f4dcdb5f1555,https://tonies.com/en-gb/tonies/disney/sleeping-beauty/,1,0,0,0
+10001875,Disney,disney,Sleeping Beauty,en-gb,audio-play-songs,stock,4ebac6dc-cb0d-4a63-8117-f4dcdb5f1555,https://tonies.com/en-gb/tonies/disney/sleeping-beauty/,1,1,0,0
 10001876,Worldwide Tales,worldwide-tales,West African Tales,en-gb,audio-play,stock,65e8362d-d9ee-4888-ace8-8fa19397b1c6,https://tonies.com/en-gb/tonies/worldwide-tales/west-african-tales/,1,0,0,0
 10001877,Conservation Crew,conservation-crew,Rescues at Sea with Bobby the Sea Turtle,en-gb,audio-play,stock,b8bce442-6926-434a-98a3-42050c2ec09a,https://tonies.com/en-gb/tonies/conservation-crew/rescues-at-sea-with-bobby-the-sea-turtle/,1,0,0,0
 10001878,Conservation Crew,conservation-crew,Land Rescues with Nina the Red Panda,en-gb,audio-play,stock,1c8caa1f-6769-445c-b770-bc9d72469744,https://tonies.com/en-gb/tonies/conservation-crew/land-rescues-with-nina-the-red-panda/,1,0,0,0
 10001879,Peppa Pig,peppa-pig,Peppa's Bedtime Stories,en-gb,audio-play,stock,4941fa15-91d6-465a-9138-b7c037c2391d,https://tonies.com/en-gb/tonies/peppa-pig/peppas-bedtime-stories/,1,0,0,0
 10001880,Disney,disney,The Incredibles,en-gb,audio-play,stock,82bce644-230b-4271-a6c7-683329eeb30f,https://tonies.com/en-gb/tonies/disney/the-incredibles/,1,0,0,0
 10001881,Favourite Children's Songs,favourite-children-s-songs,Animal Songs (relaunch),en-gb,music,stock,c1759a33-c3f2-4da4-bd1e-729f08a49249,https://tonies.com/en-gb/tonies/favourite-children-s-songs/animal-songs-relaunch/,1,0,0,0
-10001891,Disney,disney,Coco,en-gb,audio-play-songs,stock,c9e09f10-ea65-429e-b924-e8ec167def7b,https://tonies.com/en-gb/tonies/disney/coco/,1,0,0,0
+10001891,Disney,disney,Coco,en-gb,audio-play-songs,stock,c9e09f10-ea65-429e-b924-e8ec167def7b,https://tonies.com/en-gb/tonies/disney/coco/,1,1,0,0
 10001898,Lieblings-Kinderlieder,lieblings-kinderlieder,Reiselieder (Neuauflage 2023),de-de,music,stock,8449c928-c879-4ac3-b320-aa1c258cc607,https://tonies.com/de-de/tonies/lieblings-kinderlieder/reiselieder-neuauflage-2023/,1,1,0,1
 10001900,Yoohoo to the Rescue,,Pammee,en-us,Tonie,stock,7953348034711,,1,1,0,1
 10001901,Séléna Sans Chichis Ni Tralala,selena-sans-chichis-ni-tralala,Plongée Insolite Dans Moby Dick,fr-fr,audio-play-songs,stock,15772168-b7eb-43d1-bc22-7539315ded9a,https://tonies.com/fr-fr/tonies/selena-sans-chichis-ni-tralala/plongee-insolite-dans-moby-dick/,1,0,0,0
@@ -512,7 +512,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000200,Potty Training,,,en-us,Tonie,stock,8134364266647,,1,0,0,0
 11000201,Die Sendung mit dem Elefanten,die-sendung-mit-dem-elefanten,Schlaf schön! (Neuauflage 2023),de-de,audio-book-songs,stock,fe510ac5-e375-4b01-a68f-5da58aee59e9,https://tonies.com/de-de/tonies/die-sendung-mit-dem-elefanten/schlaf-schon-neuauflage-2023/,1,0,0,0
 11000202,Disney,,Encanto,en-us,Tonie,stock,7988035354775,,1,1,0,1
-11000205,Disney,disney,Encanto,en-gb,audio-play-songs,stock,fe6b6a25-404f-42fd-9895-45b40582701c,https://tonies.com/en-gb/tonies/disney/encanto/,1,0,0,0
+11000205,Disney,disney,Encanto,en-gb,audio-play-songs,stock,fe6b6a25-404f-42fd-9895-45b40582701c,https://tonies.com/en-gb/tonies/disney/encanto/,1,1,0,0
 11000212,Favorite Myths,,Egyptian Mythology,en-us,Tonie,stock,8041065250967,,1,1,0,1
 11000214,The Velveteen Rabbit,,,en-us,Tonie,stock,8072085471383,,1,1,0,0
 11000215,Favorite Myths,,Greek Mythology,en-us,Tonie,stock,8041065513111,,1,1,0,1
