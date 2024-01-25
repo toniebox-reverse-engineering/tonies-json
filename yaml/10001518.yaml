@@ -17,4 +17,9 @@ data:
   track-desc:
   - DJ Catnip Gets His Groove Back
   - Fairy Festival
-  ids: []
+  ids:
+  - audio-id: 1668514600
+    hash: 6de8f2296ba59e7dea6f069ce37d5d834ba63d62
+    size: 39335872
+    tracks: 6
+    confidence: 0
