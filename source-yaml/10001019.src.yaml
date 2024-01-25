@@ -2,9 +2,9 @@ article: '10001019'
 lock-data: false
 data:
 - series: ''
-  series-id: ''
+  series-id: tonies-json-fr-fr,
   episode: ''
-  release: tonies-json-en-gb,,
+  release: ''
   language: ''
   category: ''
   runtime: ''

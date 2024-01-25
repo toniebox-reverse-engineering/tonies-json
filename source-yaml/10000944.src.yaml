@@ -2,7 +2,7 @@ article: '10000944'
 lock-data: false
 data:
 - series: ''
-  series-id: ''
+  series-id: tonies-json-en-gb,
   episode: ''
   release: ''
   language: ''

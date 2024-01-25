@@ -2,7 +2,7 @@ article: '10001329'
 lock-data: false
 data:
 - series: ''
-  series-id: ''
+  series-id: tonies-json-de-de,
   episode: ''
   release: ''
   language: ''
