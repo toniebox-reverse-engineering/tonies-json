@@ -1,0 +1,30 @@
+article: '2000010719'
+lock-data: false
+data:
+- series: Transformers
+  series-id: transformers
+  episode: Robots in Disguise - Dinobot-Desaster
+  release: 1706054400
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/d04f270a6f14e4afea7aaecc2b31eb649f9999f2142d188f063ba613/3_pB32tqzV1ywzdvq6/transformers_robots_in_disguise_dinobot_desast_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/6b65e90d2d95732bdbdcd803d0e2d35a58d7393338a1126de1689b1c/9788726514940_preview.mp3
+  web: https://tonies.com/de-de/audio-content/transformers/robots-in-disguise-dinobot-desaster/
+  shop-id: 270cc830-e61e-447c-9950-71da7d1a0271
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  ids: []

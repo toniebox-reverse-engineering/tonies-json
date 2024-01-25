@@ -1,0 +1,25 @@
+article: '2000010718'
+lock-data: false
+data:
+- series: Die Mumins
+  series-id: mumins
+  episode: Abenteuer mit den Mumins (Band 2)
+  release: 1706054400
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/f314478344bf235b1ba0e807eab63b6753e5244bc176d3c51fb41a49/3_fjNW2bRQc-BMDFrV/moomins_002_abenteuer_mit_den_mumins_band_2_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/12afe3cae42eaec689f04a824b370e096f0677910ef0d60b47bc682c/9788728460818_preview.mp3
+  web: https://tonies.com/de-de/audio-content/mumins/abenteuer-mit-den-mumins-band-2/
+  shop-id: 1a3fc660-9823-4fa5-98c6-096e3d071d73
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  ids: []

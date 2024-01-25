@@ -15,19 +15,19 @@ data:
   web: https://tonies.com/de-de/tonies/die-kleine-hexe/die-neugierige-kleine-hexe-die-kleine-hexe-hat-geburtstag/
   shop-id: 7ffde882-bd73-4c57-97ea-82bf775088c6
   track-desc:
-  - 1. Kleine-Hexe-Titelmusik
-  - 2. Es war eine helle Mondnacht
-  - 3. Neugierig wie sie war
-  - 4. Als das Lied zu Ende war
-  - 5. Wie von Geisterhand
-  - 6. Auf dem Boden kniete eine Hexe
-  - 7. Kleine-Hexe-Titelmusik
-  - 1. Kleine-Hexe-Titelmusik
-  - 2. Heute ist ein ganz besonderer Tag
-  - 3. Als Lisbet zum zweiten Mal
-  - 4 Die Nähhexe und die Malhexe
-  - 5. Nach einiger Zeit
-  - 6. Kleine-Hexe-Titelmusik
+  - Hexe-Titelmusik
+  - Es war eine helle Mondnacht
+  - Neugierig wie sie war
+  - Als das Lied zu Ende war
+  - Wie von Geisterhand
+  - Auf dem Boden kniete eine Hexe
+  - Kleine-Hexe-Titelmusik
+  - Kleine-Hexe-Titelmusik
+  - Heute ist ein ganz besonderer Tag
+  - Als Lisbet zum zweiten Mal
+  - Die Nähhexe und die Malhexe
+  - Nach einiger Zeit
+  - Kleine-Hexe-Titelmusik
   ids:
   - audio-id: 1656082085
     hash: b5dd91e588b8b04bd1eba892c40b46e7c3910936

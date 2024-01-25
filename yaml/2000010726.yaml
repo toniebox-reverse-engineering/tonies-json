@@ -1,0 +1,30 @@
+article: '2000010726'
+lock-data: false
+data:
+- series: Transformers
+  series-id: transformers
+  episode: Robots in Disguise - Bumblebee gegen Scuzzard
+  release: 1706054400
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/faa880e53a2d12a67166b57914b622ad8da1e367983aabfc1ef805ce/3_2fcj_0-fRh8q~byw/transformers_robots_in_disguise_bumblebee_gege_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/07e9665bc2817da2671f7ab29e2b72ec8fcdf90d2c0aa3d4940a56cc/9788726515008_preview.mp3
+  web: https://tonies.com/de-de/audio-content/transformers/robots-in-disguise-bumblebee-gegen-scuzzard/
+  shop-id: 89af46bf-3140-4149-b825-e34c6bb80372
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  ids: []

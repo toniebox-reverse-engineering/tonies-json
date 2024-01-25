@@ -1,0 +1,40 @@
+article: '2000010720'
+lock-data: false
+data:
+- series: Transformers
+  series-id: transformers
+  episode: Prime - Bumblebee in Gefahr
+  release: 1706054400
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/d920a586725f7f51b06831f95b1bf9a6e8e2edc6d72258a1f91e5b62/3_S26k40c2szmSFkjD/transformers_prime_bumblebee_in_gefahr_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/50aef7b5141320a288034100ab439c41efd8b56d27919f6733fa3155/9788726514919_preview.mp3
+  web: https://tonies.com/de-de/audio-content/transformers/prime-bumblebee-in-gefahr/
+  shop-id: 0229850e-7f49-46f9-beb6-17b0fe277aa8
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
+  - Kapitel 20
+  - Kapitel 21
+  - Kapitel 22
+  ids: []

@@ -15,15 +15,10 @@ data:
   web: https://tonies.com/de-de/tonies/marvel-spidey-and-his-amazing-friends/marvel-ghost-spider-dach/
   shop-id: 2da830ca-4d8f-4c4a-b3cf-5d1ec5d299d4
   track-desc:
-  - Marvels Spidey und seine Super-Freunde - Titellied
-  - Kobzilla 1
-  - Kobzilla 2
-  - Schnelle Spidey-Lieferung 1
-  - Schnelle Spidey-Lieferung 2
-  - Fehler im System! 1
-  - Fehler im System! 2
-  - Teste deine Superkraft! 1
-  - Teste deine Superkraft! 2
+  - Kobzilla
+  - Schnelle Spidey-Lieferung
+  - Fehler im System!
+  - Teste deine Superkraft!
   ids:
   - audio-id: 1701031854
     hash: 5bb549ce46dc0ba4822e187fd7a6684e5117e153

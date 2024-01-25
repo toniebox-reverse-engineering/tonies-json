@@ -1,0 +1,30 @@
+article: '2000010721'
+lock-data: false
+data:
+- series: Transformers
+  series-id: transformers
+  episode: Transformers – Robots in Disguise -   Die Prüfung von Optimus Prime
+  release: 1706054400
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/e8b71b8a1f2c43828be993ca2cedd6aa838d92f3981f2a64dad4b8ba/3_fTQlKkv_Mjp5Nds1/transformers_transformers_robots_in_disguise__530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/d1b200627d76e1fc2e962cc6b108717e084a5da553d7af6bbfe2705b/9788726514988_preview.mp3
+  web: https://tonies.com/de-de/audio-content/transformers/transformers-robots-in-disguise-die-prufung-von-op/
+  shop-id: d1525540-8e77-4f24-bd06-e4019900956b
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  ids: []
