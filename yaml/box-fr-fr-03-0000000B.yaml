@@ -1,14 +1,14 @@
 article: box-fr-fr-03-0000000B
 lock-data: false
 data:
-- series: null
-  series-id: null
+- series: System sounds fr-fr
+  series-id: system-fr-fr
   episode: null
   release: 0
-  language: null
-  category: null
+  language: fr-fr
+  category: system
   runtime: 0
-  age: 99
+  age: 0
   origin: stock
   image: null
   sample: null

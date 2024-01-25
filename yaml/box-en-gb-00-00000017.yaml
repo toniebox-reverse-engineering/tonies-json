@@ -1,14 +1,14 @@
 article: box-en-gb-00-00000017
 lock-data: false
 data:
-- series: null
-  series-id: null
+- series: System sounds en-gb
+  series-id: system-en-gb
   episode: null
   release: 0
-  language: null
-  category: null
+  language: en-gb
+  category: system
   runtime: 0
-  age: 99
+  age: 0
   origin: stock
   image: null
   sample: null
