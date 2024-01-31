@@ -1,0 +1,38 @@
+article: '11000338'
+lock-data: false
+data:
+- series: Le Journal De Gurty
+  series-id: le-journal-de-gurty
+  episode: Parée Pour L'Hiver
+  release: 1707955200
+  language: fr-fr
+  category: audio-book
+  runtime: 81
+  age: 6
+  origin: stock
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/51001110-Tonie_Shado-efmG5WQY.png
+  sample: https://cdn.tonies.de/o/audio_samples/7db191fbb72e8e4af5ddb34691c0601f20366d3dbd76e5498ed92104/00_11000338_gurty2hiver_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/le-journal-de-gurty/paree-pour-l-hiver/
+  shop-id: 39da76ad-63d0-4d70-af6a-70578a2055a5
+  track-desc:
+  - 4 décembre - Heureuse
+  - 5 décembre - Les fiancées
+  - 6 décembre - Myrtille
+  - 7 décembre - La pire contre-attaque
+  - 10 décembre - Le train
+  - 11 décembre - Retrouvailles
+  - 12 décembre - Diabolique chat
+  - 14 décembre - L’écureuil qui fait blabla
+  - 15 décembre - La grève
+  - 16 décembre - Le club
+  - 17 décembre - Neige
+  - 18 décembre - Les boules
+  - 19 décembre - Chic champêtre
+  - 20 décembre - Œuf
+  - 22 décembre - Clac
+  - 23 décembre - Surprise
+  - SOS Tête de fesses
+  - 24 décembre - Pataquès
+  - Noël
+  - 25 décembre - Heureuse
+  ids: []

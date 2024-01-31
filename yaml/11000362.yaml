@@ -1,0 +1,24 @@
+article: '11000362'
+lock-data: false
+data:
+- series: Gigantosaurus
+  series-id: gigantosaurus-2
+  episode: Bill
+  release: 1706745600
+  language: fr-fr
+  category: audio-play
+  runtime: 46
+  age: 4
+  origin: stock
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/51002552-Tonie_Shado-horJwuiF.png
+  sample: https://cdn.tonies.de/o/audio_samples/3869087daf83f33eecf38c1c69c912c4490cfff440952eac2fbaa2bc/11000362_gigantosaurus_bill_extraitmp3.mp3
+  web: https://tonies.com/fr-fr/tonies/gigantosaurus/bill/
+  shop-id: 3a9f307b-ba51-4379-a628-9f41d19a4d9f
+  track-desc:
+  - Introduction
+  - Générique
+  - Giganto au frigo
+  - Petit Bill deviendra grand
+  - Le festin nocturne de Bill
+  - Une lumière au bout de l'orage
+  ids: []

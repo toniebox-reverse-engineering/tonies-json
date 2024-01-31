@@ -1,0 +1,24 @@
+article: '11000361'
+lock-data: false
+data:
+- series: Gigantosaurus
+  series-id: gigantosaurus-2
+  episode: Mazu
+  release: 1706745600
+  language: fr-fr
+  category: audio-play
+  runtime: 46
+  age: 4
+  origin: stock
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/51002549-Tonie_Shado-XuB665je.png
+  sample: https://cdn.tonies.de/o/audio_samples/1fffb83010fdf2eac131fd2ae8c4a8b4f55b5d9124ab82e471c20d3b/11000361_gigantosaurus_mazu_extraitmp3.mp3
+  web: https://tonies.com/fr-fr/tonies/gigantosaurus/mazu/
+  shop-id: fcf2688b-0b26-43ee-9bae-99dcc89e9d87
+  track-desc:
+  - Introduction
+  - Générique
+  - Mazu tente sa chance
+  - Un éclair de génie
+  - La tête dans les étoiles
+  - Un problème très collant
+  ids: []
