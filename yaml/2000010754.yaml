@@ -1,0 +1,30 @@
+article: '2000010754'
+lock-data: false
+data:
+- series: Zaubereinhorn
+  series-id: zaubereinhorn
+  episode: Sternchen auf Gespensterjagd
+  release: 1706659200
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 7
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/81f2c27bbdb9c20a124220ba90a3504f6cd5e53ee140e1a944da2aec/3_sDc.8039sBfL-BY~/zaubereinhorn_007_sternchen_auf_gespensterjagd_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/fee77c653a3c4f8bed584e70cd47a4b3a32c8d1cde43123971aaf023/9783956398650_preview.mp3
+  web: https://tonies.com/de-de/audio-content/zaubereinhorn/sternchen-auf-gespensterjagd/
+  shop-id: c8942827-2770-4ac2-a25c-b01bc68677de
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  ids: []

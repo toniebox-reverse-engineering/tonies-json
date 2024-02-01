@@ -1,0 +1,30 @@
+article: '2000010760'
+lock-data: false
+data:
+- series: Das verschwundene Sumselschaf
+  series-id: null
+  episode: Das verschwundene Sumselschaf
+  release: 1706659200
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/c2254f5d7652ba9a1e40d0afc73f3291de56c248e1f2dfb9dfe248f4/3_xcWSNvM~fsHlh~CL/doktor_miez_001_das_verschwundene_sumselschaf_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/555f2f4a1d20c6c1f1178060abf6e1c85984678ccf46a4d8d5b2a56a/9783963986918_preview.mp3
+  web: https://tonies.com/de-de/audio-content/das-verschwundene-sumselschaf/
+  shop-id: 17fbc13b-aca2-48d6-815f-0c33ab2b714a
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  ids: []

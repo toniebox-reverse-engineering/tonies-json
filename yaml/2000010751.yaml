@@ -1,0 +1,32 @@
+article: '2000010751'
+lock-data: false
+data:
+- series: Zaubereinhorn
+  series-id: zaubereinhorn
+  episode: Sternchen und die Dunkle Fee
+  release: 1706659200
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 7
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/16b3abef968d6a1bd7dd67fe65ebdd773906c49c263e95ae4213d0fe/3_Fsm0-btMN6-t_QsY/zaubereinhorn_006_sternchen_und_die_dunkle_fee_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/a838e062b1308b9ac69d6344eb44452f52ff9788fedb98bb5e7a9702/9788726683134_preview.mp3
+  web: https://tonies.com/de-de/audio-content/zaubereinhorn/sternchen-und-die-dunkle-fee/
+  shop-id: 3f820f51-7eb2-40f7-ac7b-8f63c2585faf
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  ids: []

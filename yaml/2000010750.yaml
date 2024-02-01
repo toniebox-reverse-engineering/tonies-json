@@ -1,0 +1,30 @@
+article: '2000010750'
+lock-data: false
+data:
+- series: Zaubereinhorn
+  series-id: zaubereinhorn
+  episode: Sternchen lernt fliegen
+  release: 1706659200
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 7
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/7fa8031b8ffd4dd8c2dcef6e3d468e39f46e5cefba200bab081e804d/3_K4V.YWSmj-~_gP90/zaubereinhorn_003_sternchen_lernt_fliegen_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/4157bd461948e70eb03d9f21e14ebe3da62d1ae06f3d92beaae06272/9783868049732_preview.mp3
+  web: https://tonies.com/de-de/audio-content/zaubereinhorn/sternchen-lernt-fliegen/
+  shop-id: 284ddb28-121a-4993-af4f-f17ea0f639db
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  ids: []
