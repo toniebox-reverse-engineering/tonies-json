@@ -22,6 +22,11 @@ data:
   - The Smartest Giant in Town Read Along
   - The Smartest Giant in Town Song
   ids:
+  - audio-id: 1707126295
+    hash: 26ad210bad13d0bf0337dc9559ecd2db7745419e
+    size: 32542326
+    tracks: 6
+    confidence: 1
   - audio-id: 1663580647
     hash: 6808235df037d590dd0e4ff36700d45522bf4054
     size: 46613590
