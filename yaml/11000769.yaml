@@ -1,0 +1,26 @@
+article: '11000769'
+lock-data: false
+data:
+- series: Leo und die Abenteuermaschine
+  series-id: leo-und-die-abentuermaschine
+  episode: Leo und die Mondlandung
+  release: 1709078400
+  language: de-de
+  category: audio-play
+  runtime: 64
+  age: 6
+  origin: stock
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/11000769_DACH-Tonieb-B0313qfq.png
+  sample: https://cdn.tonies.de/o/audio_samples/e8b1d2df31a4ac2915209c1f426ee8f4131fb905c8e0348436ba4967/hoerprobe_11000769_leo_und_die_abenteuermaschine_leo_und_die_mondlandung.mp3
+  web: https://tonies.com/de-de/tonies/leo-und-die-abentuermaschine/leo-und-die-mondlandung-dach/
+  shop-id: 8d5d24ce-d5ed-4b4f-8188-eae0f4c561a2
+  track-desc:
+  - Intro Track 01
+  - Der Blick In Die Sterne Track 02
+  - Der Raketenstart Track 03
+  - Die Reise Zum Mond Track 04
+  - Die Mondlandung Track 05
+  - Der Erste Mensch Auf Dem Mond Track 06
+  - Der Rückflug Track 07
+  - Credits Track 08
+  ids: []
