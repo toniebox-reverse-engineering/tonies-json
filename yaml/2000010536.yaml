@@ -1,0 +1,29 @@
+article: '2000010536'
+lock-data: false
+data:
+- series: Pippi Langstrumpf
+  series-id: pippi-langstrumpf
+  episode: Pippi Calzelunghe
+  release: 1707264000
+  language: it-it
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/099e497167ea62f5daaf193abf06305146fd91bfd37844b7e0c69d05/3_tQhLqKwyJqdwNXCj/pippi_longstocking_001_pippi_calzelunghe_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/53d4d2257fa72c781c65a45a671dba2b4f273b63ef11df3ef72cf453/9788728062838.mp3
+  web: https://tonies.com/de-de/audio-content/pippi-langstrumpf/pippi-calzelunghe/
+  shop-id: 2913cd50-6c5f-4566-839e-102c74623a43
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
+  - Chapter 8
+  - Chapter 9
+  - Chapter 10
+  - Chapter 11
+  ids: []
