@@ -21,18 +21,18 @@ data:
     size: 8127853
     tracks: 1
     confidence: 0
-  - audio-id: 1695065087
-    hash: bd3db321d945d4f0071d24ff7a05cc9ce8ed15d8
-    size: 7758802
-    tracks: 1
-    confidence: 0
   - audio-id: 1695073651
     hash: c99321d2f3e05eed286188496db173eb71d5b8ba
     size: 7256687
     tracks: 1
-    confidence: 0
+    confidence: 1
   - audio-id: 1695065312
     hash: 2b944f3f2254b9f9b0f55f306554db1b1e383c77
     size: 8433130
     tracks: 1
-    confidence: 0
+    confidence: 1
+  - audio-id: 1695065087
+    hash: bd3db321d945d4f0071d24ff7a05cc9ce8ed15d8
+    size: 7758802
+    tracks: 1
+    confidence: 1

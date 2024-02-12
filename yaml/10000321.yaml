@@ -19,4 +19,9 @@ data:
   - 10-17 Pups Save a Lucky Collar
   - 18-26 Pups Save Alexs Mini-Patrol
   - 27-34 Pups Save a Lost Tooth
-  ids: []
+  ids:
+  - audio-id: 1618242194
+    hash: 8d851d41806eaafe3cc09e00ef5f56d2566691f6
+    size: 40598204
+    tracks: 34
+    confidence: 1

@@ -31,4 +31,9 @@ data:
   - Chut petit bébé
   - Au zoo
   - Mon p'tit agneau
-  ids: []
+  ids:
+  - audio-id: 1685712005
+    hash: 7a70b4e3b34c857cd5bd7aa772922e4cdcc700a2
+    size: 35590437
+    tracks: 16
+    confidence: 1

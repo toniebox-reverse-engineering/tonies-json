@@ -26,4 +26,9 @@ data:
   - Le lendemain
   - Cette nuit-là
   - Cette nuit-là 21e concerto pour piano KV 467 (Allegro)
-  ids: []
+  ids:
+  - audio-id: 1668593979
+    hash: 1b2b0b7b4e71bcf8d0ff570f03f22132ea270dbf
+    size: 39527310
+    tracks: 11
+    confidence: 1
