@@ -303,7 +303,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001343,Giraffes Can't Dance,,,en-us,Tonie,stock,7806566563991,,1,1,0,0
 10001344,DC,,Wonder Woman,en-us,Tonie,stock,8032004931735,,1,1,0,1
 10001345,Sleepy Friends,,Lullaby Melodies with Sleepy Sheep,en-us,Tonie,stock,7912828469399,,1,1,0,1
-10001349,Les Copains Du Dodo,les-copains-du-dodo,Doudou Mouton,fr-fr,music,stock,ce11f0b3-a483-4c3f-8117-2cf11d231b74,https://tonies.com/fr-fr/tonies/les-copains-du-dodo/doudou-mouton/,1,1,0,0
+10001349,Les Copains Du Dodo,sleepy-friends,Doudou Mouton,fr-fr,music,stock,ce11f0b3-a483-4c3f-8117-2cf11d231b74,https://tonies.com/fr-fr/tonies/les-copains-du-dodo/doudou-mouton/,1,1,0,0
 10001357,Didier Jeunesse,didier-jeunesse,Écoute Et Devine Les Instruments,fr-fr,music,stock,243cd003-f378-4fe1-8c3e-b1f4ef7a0628,https://tonies.com/fr-fr/tonies/didier-jeunesse/ecoute-et-devine-les-instruments/,1,0,0,0
 10001366,GoNoodle x tonies® Mindfulness,,,en-us,Tonie,stock,6664641773719,,1,1,0,0
 10001367,Der Grolltroll,der-grolltroll,Der Grolltroll – Das Liederalbum,de-de,music,stock,1ef7015c-4d81-4760-984b-7feed57a2478,https://tonies.com/de-de/tonies/der-grolltroll/der-grolltroll/,1,1,0,0
@@ -314,7 +314,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001386,Peter Rabbit,peter-rabbit,Jemima Puddleduck,en-gb,audio-book,stock,0b111820-d33f-49b2-aae1-f7cd0f479caa,https://tonies.com/en-gb/tonies/peter-rabbit/jemima-puddleduck/,1,1,0,1
 10001387,Horrible Histories,horrible-histories,Terrible Tudors,en-gb,audio-play,stock,a1afc11e-4028-43a8-983f-aeb0a83faede,https://tonies.com/en-gb/tonies/horrible-histories/terrible-tudors/,1,1,0,1
 10001388,Cocomelon,cocomelon,CoComelon,en-gb,music,stock,f1ddb020-6f2f-4215-852d-40eb20096b1f,https://tonies.com/en-gb/tonies/cocomelon/cocomelon/,1,0,0,0
-10001397,Schlummerbande,schlummerbande,"Klassik zum Einschlafen - Träum schön, kleiner Schlummerhase",de-de,music,stock,c8225280-653e-4fa8-904c-566735f77a39,https://tonies.com/de-de/tonies/schlummerbande/klassik-zum-einschlafen-trum-schn-kleiner-schlummerhase/,1,1,0,0
+10001397,Schlummerbande,sleepy-friends,"Klassik zum Einschlafen - Träum schön, kleiner Schlummerhase",de-de,music,stock,c8225280-653e-4fa8-904c-566735f77a39,https://tonies.com/de-de/tonies/schlummerbande/klassik-zum-einschlafen-trum-schn-kleiner-schlummerhase/,1,1,0,0
 10001398,Super Wings,super-wings,Feuer im Wald,de-de,audio-play,stock,07e14381-a6ea-473b-851c-8c610e97fc75,https://tonies.com/de-de/tonies/super-wings/feuer-im-wald/,1,1,0,0
 10001406,Mouk,mouk,Découvre Le Monde Avec Mouk,fr-fr,audio-play,stock,cb8635f6-d118-4ff8-923c-efa46197a79e,https://tonies.com/fr-fr/tonies/mouk/decouvre-le-monde-avec-mouk/,1,0,0,0
 10001408,Contes Du Monde,contes-du-monde,Afrique De L'Ouest,fr-fr,audio-book,stock,e8abdc4f-8c26-4912-989d-d0f4fd761dbb,https://tonies.com/fr-fr/tonies/contes-du-monde/afrique-de-l-ouest/,1,0,0,0
@@ -488,7 +488,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000283,Leos Tag,leos-tag,Es ist so weit – Badezeit!,de-de,audio-play-songs,stock,69747609-f08f-49e7-a583-9d92cba0d2d6,https://tonies.com/de-de/tonies/leos-tag/es-ist-so-weit-badezeit/,1,0,0,0
 11000291,Leos Tag,leos-tag,"Windel, Töpfchen, Klo - das geht so!",de-de,audio-play-songs,stock,d8665bc7-22e4-4247-8b43-8db25dbf15b5,https://tonies.com/de-de/tonies/leos-tag/windel-topfchen-klo-das-geht-so/,1,1,0,0
 11000293,Contes Du Monde,contes-du-monde,Corée,fr-fr,audio-book,stock,4259ea21-46c9-4c18-98cd-29d453db5908,https://tonies.com/fr-fr/tonies/contes-du-monde/coree/,1,0,0,0
-11000294,Bullerbü,wir-kinder-aus-bullerbue,Immer lustig in Bullerbü,de-de,audio-play,stock,da5bc539-9456-4527-8e6b-d016d1c313b9,https://tonies.com/de-de/tonies/wir-kinder-aus-bullerbue/immer-lustig-in-bullerbu/,1,0,0,0
+11000294,Bullerbü,wir-kinder-aus-bullerbu-2,Immer lustig in Bullerbü,de-de,audio-play,stock,da5bc539-9456-4527-8e6b-d016d1c313b9,https://tonies.com/de-de/tonies/wir-kinder-aus-bullerbue/immer-lustig-in-bullerbu/,1,0,0,0
 11000296,Petit Malabar,petit-malabar,Science+Fiction=Aventure,fr-fr,audio-play,stock,ec75815f-d034-4566-90b5-8e3ac34c2be1,https://tonies.com/fr-fr/tonies/petit-malabar/science-fiction-aventure/,1,0,0,0
 11000297,Oggy Oggy,oggy-oggy,"1, 2, 3, Prêts ? Partez !",fr-fr,audio-play,stock,cd43f1f7-1d30-4d25-b111-774972316fcf,https://tonies.com/fr-fr/tonies/oggy-oggy/1-2-3-prets-partez/,1,0,0,0
 11000299,Gigantosaurus,gigantosaurus,Rocky,fr-fr,audio-play,stock,a2a4af44-431d-4c36-849f-c71235adbc0c,https://tonies.com/fr-fr/tonies/gigantosaurus/rocky-2/,1,0,0,0
