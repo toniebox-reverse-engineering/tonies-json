@@ -1,0 +1,27 @@
+article: '10001471'
+lock-data: false
+data:
+- series: Lieblings-Klassiker
+  series-id: lieblings-klassiker
+  episode: Pinocchio (Neuauflage 2024)
+  release: 1710288000
+  language: de-de
+  category: audio-book
+  runtime: 75
+  age: 3
+  origin: stock
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/BOX10001471_1_a-xnDk-Qzv.png
+  sample: https://cdn.tonies.de/o/audio_samples/26068d999edde5828e50fce9254dad4281ad37c0ef4698fe05db44ac/horprobe_10001471_lieblings_klassiker_pinocchio_neuauflage_2024.mp3
+  web: https://tonies.com/de-de/tonies/lieblings-klassiker/pinocchio-neuauflage-2024/
+  shop-id: e8049cc1-19c0-4dc6-a1fe-e5c8a41f4eca
+  track-desc:
+  - Pinocchio – Teil 1
+  - Pinocchio – Teil 2
+  - Pinocchio – Teil 3
+  - Nils Holgersson – Teil 1
+  - Nils Holgersson – Teil 2
+  - Nils Holgersson – Teil 3
+  - Der Wind in den Weiden – Teil 1
+  - Der Wind in den Weiden – Teil 2
+  - Der Wind in den Weiden – Teil 3
+  ids: []
