@@ -870,6 +870,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001406,Mouk,mouk,Découvre Le Monde Avec Mouk,fr-fr,audio-play,stock,cb8635f6-d118-4ff8-923c-efa46197a79e,https://tonies.com/fr-fr/tonies/mouk/decouvre-le-monde-avec-mouk/,1,0,0,0
 10001408,Contes Du Monde,contes-du-monde,Afrique De L'Ouest,fr-fr,audio-book,stock,e8abdc4f-8c26-4912-989d-d0f4fd761dbb,https://tonies.com/fr-fr/tonies/contes-du-monde/afrique-de-l-ouest/,1,0,0,0
 10001409,Käpt'n Blaubär,kaept-n-blaubaer,Seemannsgarn,de-de,audio-play,stock,01e07128-8638-462b-899c-e91ffc9de2fb,https://tonies.com/de-de/tonies/kaept-n-blaubaer/seemannsgarn/,1,1,1,2
+10001471,Lieblings-Klassiker,lieblings-klassiker,Pinocchio (Neuauflage 2024),de-de,audio-book,stock,e8049cc1-19c0-4dc6-a1fe-e5c8a41f4eca,https://tonies.com/de-de/tonies/lieblings-klassiker/pinocchio-neuauflage-2024/,1,0,0,0
 10001472,PAW Patrol,paw-patrol,Der Piratenschatz,de-de,audio-play,stock,bed6385a-903a-4f26-ab05-bbccf35a14fb,https://tonies.com/de-de/tonies/paw-patrol/der-piratenschatz/,1,1,1,2
 10001473,Leos Tag,leos-tag,"Achtung, fertig, Zähneputzen!",de-de,audio-play-songs,stock,e280136f-64ca-4ebb-aa93-29a30334008d,https://tonies.com/de-de/tonies/leos-tag/achtung-fertig-zhneputzen/,1,1,0,0
 10001475,Disney,disney,Winnie L'Ourson,fr-fr,audio-play-songs,stock,799ac6f2-89f7-4b5b-b60a-014ae758f218,https://tonies.com/fr-fr/tonies/disney/winnie-l-ourson/,1,0,0,0
@@ -999,6 +1000,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001964,Favourite Children's Songs,favourite-children-s-songs,Bedtime Songs 2 (relaunch),en-gb,music,stock,b224bd4e-8a37-4930-826b-5d23e3e55b3f,https://tonies.com/en-gb/tonies/favourite-children-s-songs/fcs-bedtime-songs-2-relaunch/,1,1,0,1
 10001977,Disney,disney,Alles steht Kopf,de-de,audio-play,stock,0cdffe8b-07e7-44a3-887c-c88838af5a3b,https://tonies.com/de-de/tonies/disney/disney-alles-steht-kopf-alles-steht-kopf-dach/,1,1,1,1
 10001983,Ronja Räubertochter,ronja-raeubertochter,Ronja Räubertochter,de-de,audio-play,stock,b99da237-e144-4a34-93cb-bc9339395686,https://tonies.com/de-de/tonies/ronja-raeubertochter/ronja-raubertochter/,1,1,1,1
+10001986,Tilda Apfelkern,tilda-apfelkern,Tilda Apfelkern - Das Drinnen-Picknick,de-de,audio-play,stock,ab5f30ed-7cfa-4abf-8658-3937488dd8fa,https://tonies.com/de-de/tonies/tilda-apfelkern/tilda-apfelkern-das-drinnen-picknick/,1,0,0,0
 10001991,Feuerwehrmann Sam,feuerwehrmann-sam,Wettlauf gegen die Zeit!,de-de,audio-play,stock,038bed75-e2fd-4770-bb9a-0eb28b8bb34c,https://tonies.com/de-de/tonies/feuerwehrmann-sam/fs-wettlauf-gegen-die-zeit/,1,1,0,0
 10001996,Mascha und der Bär,mascha-und-der-baer,Winterschlaf für alle + 5 weitere quirlige und lustige Geschichten,de-de,audio-play,stock,f6b9e2ae-7274-41cd-9487-309f6517fe95,https://tonies.com/de-de/tonies/mascha-und-der-baer/mascha-und-der-bar-winterschlaf-fur-alle-5-weitere-quirlige-und-lustige-geschichten/,1,1,0,1
 10001997,Bibi Blocksberg,bibi-blocksberg,Mami spielt verrückt,de-de,audio-play,stock,2d3a9c5d-b3af-4318-9768-8e1bc7ce4173,https://tonies.com/de-de/tonies/bibi-blocksberg/mami-spielt-verrckt/,1,1,0,0
@@ -1076,7 +1078,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000195,Paw Patrol,paw-patrol,Zuma,en-gb,audio-play,stock,a9195fc5-a260-4191-b019-0a2de12ef923,https://tonies.com/en-gb/tonies/paw-patrol/zuma/,1,0,0,0
 11000198,Ben and Holly's Little Kingdom,ben-and-holly-s-little-kingdom,Ben,en-gb,audio-play,stock,9bbf28b3-f768-4415-a0c9-2b752f58b700,https://tonies.com/en-gb/tonies/ben-and-holly-s-little-kingdom/ben/,1,1,1,1
 11000199,Leos Tag,leos-tag,"1, 2, 3, sei beim Aufräumen dabei!",de-de,audio-play-songs,stock,2c4579b4-5eea-48ea-ac44-2578331a8eae,https://tonies.com/de-de/tonies/leos-tag/1-2-3-sei-beim-aufrumen-dabei/,1,1,0,0
-11000200,Potty Training,,,en-us,Tonie,stock,8134364266647,,1,1,1,1
+11000200,Potty Training tonie,,,en-us,Tonie,stock,8134364266647,,1,1,1,1
 11000201,Die Sendung mit dem Elefanten,die-sendung-mit-dem-elefanten,Schlaf schön! (Neuauflage 2023),de-de,audio-book-songs,stock,fe510ac5-e375-4b01-a68f-5da58aee59e9,https://tonies.com/de-de/tonies/die-sendung-mit-dem-elefanten/schlaf-schon-neuauflage-2023/,1,0,0,0
 11000202,Disney,,Encanto,en-us,Tonie,stock,7988035354775,,1,1,0,1
 11000205,Disney,disney,Encanto,en-gb,audio-play-songs,stock,fe6b6a25-404f-42fd-9895-45b40582701c,https://tonies.com/en-gb/tonies/disney/encanto/,1,1,0,0
@@ -1104,6 +1106,8 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000279,Tabaluga,tabaluga,Drachen weinen nicht & Mondsüchtig,de-de,audio-play-songs,stock,d63d2e6c-3839-4d11-87b1-78e5de9f15ee,https://tonies.com/de-de/tonies/tabaluga/drachen-weinen-nicht-mondschtig/,1,1,1,1
 11000280,Lieblings-Kinderlieder,lieblings-kinderlieder,Frühlingslieder,de-de,music,stock,01b33faf-2232-4c86-9a7c-3feb7e438b5b,https://tonies.com/de-de/tonies/lieblings-kinderlieder/fruhlingslieder/,1,0,0,0
 11000283,Leos Tag,leos-tag,Es ist so weit – Badezeit!,de-de,audio-play-songs,stock,69747609-f08f-49e7-a583-9d92cba0d2d6,https://tonies.com/de-de/tonies/leos-tag/es-ist-so-weit-badezeit/,1,0,0,0
+11000287,"Unsere besten Kniereiter, Fingerspiellieder und Reime",kniereiter-und-fingerspiele,"Unsere besten Kniereiter, Fingerspiellieder und Reime",de-de,music,stock,3583a4e2-8163-4120-b480-94425aa52c26,https://tonies.com/de-de/tonies/kniereiter-und-fingerspiele/unsere-besten-kniereiter-fingerspiellieder-und-reime/,1,0,0,0
+11000289,PAW Patrol,paw-patrol,Hier kommt Tracker,de-de,audio-play,stock,34d7fd02-ac3c-43f0-9e85-f008738e6f58,https://tonies.com/de-de/tonies/paw-patrol/hier-kommt-tracker/,1,0,0,0
 11000290,Sing Kinderlieder,sing-kinderlieder,Bagger Mats & seine Freunde: Die schönsten Fahrzeuglieder,de-de,music,stock,b0b62e23-f0d7-46ff-ba88-3f52c59513d2,https://tonies.com/de-de/tonies/sing-kinderlieder/bagger-mats-seine-freunde-die-schonsten-fahrzeuglieder/,1,1,1,1
 11000291,Leos Tag,leos-tag,"Windel, Töpfchen, Klo - das geht so!",de-de,audio-play-songs,stock,d8665bc7-22e4-4247-8b43-8db25dbf15b5,https://tonies.com/de-de/tonies/leos-tag/windel-topfchen-klo-das-geht-so/,1,1,0,0
 11000292,Disney,disney,Encanto,de-de,audio-play,stock,4f891311-7cbc-4d7b-a5ef-e6b1f4c5d14b,https://tonies.com/de-de/tonies/disney/encanto/,1,1,1,1
@@ -1149,11 +1153,13 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000479,PAW Patrol,,Liberty,en-us,Tonie,stock,8041408004247,,1,1,1,1
 11000495,Paw Patrol,paw-patrol,Liberty,en-gb,audio-play,stock,fb760b65-e2c1-4ac9-85fc-7a42def5a4ba,https://tonies.com/en-gb/tonies/paw-patrol/liberty/,1,0,0,0
 11000503,La Pat' Patrouille,la-pat-patrouille,Liberty,fr-fr,audio-play,stock,0041af69-1f3a-4432-91ce-f31baec80fdf,https://tonies.com/fr-fr/tonies/la-pat-patrouille/liberty/,1,0,0,0
+11000520,Disney,disney,Wish,de-de,audio-play,stock,e15ddfd5-63e7-4f11-9e19-20ab0ffc5626,https://tonies.com/de-de/tonies/disney/wish/,1,0,0,0
 11000526,Disney,,Wish,en-us,Tonie,stock,8124400664727,,1,1,0,1
 11000530,PAW Patrol,paw-patrol,Liberty findet einen neuen Freund,de-de,audio-play,stock,2fbcb41a-bd26-42d4-bfd9-b988c5aad7e1,https://tonies.com/de-de/tonies/paw-patrol/paw-patrol-liberty-findet-einen-neuen-freund/,1,1,1,2
 11000540,Trolls,,Viva,en-us,Tonie,stock,7806499094679,,1,0,0,0
 11000559,Disney,disney,Wish,en-gb,audio-play-songs,stock,e21017ba-d2cf-4f89-bdef-81dde36a4458,https://tonies.com/en-gb/tonies/disney/wish/,1,0,0,0
 11000569,Mes Comptines Préférées,lieblings-kinderlieder,Les Animaux,fr-fr,music,stock,937193cb-1373-4862-b40f-4ba2e115d24d,https://tonies.com/fr-fr/tonies/mes-comptines-preferees/les-animaux/,1,1,1,1
+11000594,Asterix,asterix,Asterix - Die Odyssee,de-de,audio-book,stock,12db35ae-f4a8-48c1-aa8a-b0b4fd3aa9cc,https://tonies.com/de-de/tonies/asterix/asterix-idefix-dogmatix-en-dach/,1,0,0,0
 11000596,Burpee Bears,burpee-bears,Burpee Bears,en-gb,audio-book,stock,d2414366-db00-42cb-b86e-3def2f9c073d,https://tonies.com/en-gb/tonies/burpee-bears/burpee-bears/,1,0,0,0
 11000605,Trolls,trolls,Viva,en-gb,audio-play-songs,stock,d22ca57c-4c41-4461-81b1-f8d558734784,https://tonies.com/en-gb/tonies/trolls/viva/,1,0,0,0
 11000608,Spidey Et Ses Amis Extraordinaires,spidey-et-ses-amis-extraordinaires,Ghost-Spider,fr-fr,audio-play-songs,stock,4b745f3a-0e10-42a9-990f-6c5b1ec0c8ad,https://tonies.com/fr-fr/tonies/spidey-et-ses-amis-extraordinaires/ghost-spider/,1,0,0,0
@@ -1163,9 +1169,12 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000709,Clever Tonies Set,,Kid Comedy,en-us,Tonie,stock,8076776112279,,1,4,4,4
 11000710,Clever Tonies Set,,Inventions and Innovation,en-us,Tonie,stock,8076775555223,,1,4,4,4
 11000712,Clever Tonies Set,,Gentle Giant Dinosaurs,en-us,Tonie,stock,8076776341655,,1,4,4,4
+11000736,Lieblings-Klassiker,lieblings-klassiker,Der Zauberer von Oz und zwei weitere Klassiker,de-de,audio-book,stock,6c4a4d73-bce2-4960-a05b-7369c90e62bd,https://tonies.com/de-de/tonies/lieblings-klassiker/der-zauberer-von-oz-und-zwei-weitere-klassiker/,1,0,0,0
 11000767,Die Kackwurstfabrik,die-kackwurstfabrik,Die Kackwurstfabrik,de-de,audio-play,stock,2d9b636c-1474-45b7-b8e6-3e4309521b61,https://tonies.com/de-de/tonies/die-kackwurstfabrik/die-kackwurstfabrik-dach/,1,0,0,0
 11000769,Leo und die Abenteuermaschine,leo-und-die-abentuermaschine,Leo und die Mondlandung,de-de,audio-play,stock,8d5d24ce-d5ed-4b4f-8188-eae0f4c561a2,https://tonies.com/de-de/tonies/leo-und-die-abentuermaschine/leo-und-die-mondlandung-dach/,1,0,0,0
 11000782,Today with tonies,today-with-tonies,tonies® Podcast,en-gb,audio-play,stock,a742a774-63b0-450f-8303-6552b3c99bc9,https://tonies.com/en-gb/tonies/today-with-tonies/today-with-tonies/,1,42,41,1
+11000827,Benjamin Blümchen,benjamin-bluemchen,Gute-Nacht-Geschichten - Plüsch,de-de,audio-play,stock,5fca96d6-8bab-44b6-bdef-77ec80b079fe,https://tonies.com/de-de/tonies/benjamin-bluemchen/gute-nacht-geschichten-pluesch/,1,0,0,0
+11000828,Bibi Blocksberg,bibi-blocksberg,Hexenbesengeschichten - Plüsch,de-de,audio-play,stock,ffae9923-d114-4a77-a46f-6d7e7af1ec49,https://tonies.com/de-de/tonies/bibi-blocksberg/hexenbesengeschichten-pluesch/,1,0,0,0
 2000000000,Benjamin Blümchen,benjamin-bluemchen,5:0 für Benjamin,de-de,audio-play,tunes,216ab895-8d92-44e7-b3ae-cb085cf5ada7,https://tonies.com/de-de/audio-content/benjamin-bluemchen/50-fur-benjamin/,1,0,0,0
 2000000001,Benjamin Blümchen,benjamin-bluemchen,Abschied von Stella,de-de,audio-play,tunes,984c3380-84e8-4245-beea-5ba84587a9b6,https://tonies.com/de-de/audio-content/benjamin-bluemchen/abschied-von-stella/,1,0,0,0
 2000000002,Benjamin Blümchen,benjamin-bluemchen,Alle meine Freunde,de-de,music,tunes,e4335a48-fab8-449e-b01b-8b44a823f486,https://tonies.com/de-de/audio-content/benjamin-bluemchen/alle-meine-freunde/,1,0,0,0
