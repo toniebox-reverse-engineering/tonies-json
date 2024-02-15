@@ -1,0 +1,32 @@
+article: '2000010266'
+lock-data: false
+data:
+- series: Hamley
+  series-id: hamley
+  episode: Hamley zoekt de kerstman
+  release: 1707868800
+  language: nl-be
+  category: audio-play
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/aa4223a9d8751dc07a61403c92316d0cf4f87d8c6f5d1e6c30b06849/3_5Wxt24PHKD21rxMQ/hamley_007_hamley_zoekt_de_kerstman_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/e94c9b1fa2d81c3cd38c1a303f951289e848eb28923e68cd3bf68b3c/9788728340776.mp3
+  web: https://tonies.com/de-de/audio-content/hamley/hamley-zoekt-de-kerstman/
+  shop-id: 56b8be4f-5897-4e17-a14f-7b7f2a2fea7a
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
+  - Chapter 8
+  - Chapter 9
+  - Chapter 10
+  - Chapter 11
+  - Chapter 12
+  - Chapter 13
+  - Chapter 14
+  ids: []

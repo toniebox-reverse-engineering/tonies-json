@@ -1,0 +1,32 @@
+article: '2000010265'
+lock-data: false
+data:
+- series: Hamley
+  series-id: hamley
+  episode: Hamley leert toveren
+  release: 1707868800
+  language: nl-be
+  category: audio-play
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/6d7350feeff57069c06c88083aeab39984316906c3cae4ff08a2feca/3_rkYvHZb5X.83ZrHm/hamley_006_hamley_leert_toveren_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/be9cd544925e7dd9879d5b38141cc41a4af6032e4349f92da3d58388/9788728340769.mp3
+  web: https://tonies.com/de-de/audio-content/hamley/hamley-leert-toveren/
+  shop-id: 37dee6cb-f5bc-467e-b618-bb13b593adf7
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
+  - Chapter 8
+  - Chapter 9
+  - Chapter 10
+  - Chapter 11
+  - Chapter 12
+  - Chapter 13
+  - Chapter 14
+  ids: []

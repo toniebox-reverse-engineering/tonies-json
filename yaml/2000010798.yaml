@@ -1,0 +1,25 @@
+article: '2000010798'
+lock-data: false
+data:
+- series: Willy visita o mundo quadrado
+  series-id: null
+  episode: Willy visita o mundo quadrado
+  release: 1707868800
+  language: pt-pt
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/e3f77352c9c71d7619b0a3e434bc7aeb287267dffa16f8d0e7a4931d/3_9L1H-cxsn1834jg-/willy_series_001_willy_visita_o_mundo_quadrado_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/a17157864f9c251afb004369852634c825ad4554c5bea73136755761/9788726483703.mp3
+  web: https://tonies.com/de-de/audio-content/willy-visita-o-mundo-quadrado/
+  shop-id: 9d62a949-cd81-44c8-b50d-4cc1f8349121
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
+  ids: []
