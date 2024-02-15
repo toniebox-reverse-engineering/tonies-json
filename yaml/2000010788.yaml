@@ -1,0 +1,27 @@
+article: '2000010788'
+lock-data: false
+data:
+- series: Miś Staś i przyjaciele
+  series-id: mis-stas-i-przyjaciele
+  episode: Miś Staś i przyjaciele
+  release: 1707868800
+  language: pl-pl
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/8dd0a12621b2c1a0d8534405649aef98cd3d4de6c655000fd989aecc/3_~SY5q_-6Fyh3XvLr/mis_stas_i_przyjaciele_mis_stas_i_przyjaciele_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/d7fc68af50c1542938af48904fe4f099b5fe37f8a8d2d6043d7d69f6/9788728459072.mp3
+  web: https://tonies.com/de-de/audio-content/mis-stas-i-przyjaciele/mis-stas-i-przyjaciele/
+  shop-id: a1817228-9531-46f8-99a5-0ead4bfa5843
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
+  - Chapter 8
+  - Chapter 9
+  ids: []

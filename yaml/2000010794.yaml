@@ -1,0 +1,24 @@
+article: '2000010794'
+lock-data: false
+data:
+- series: Po co komu mamut?
+  series-id: null
+  episode: Po co komu mamut?
+  release: 1707868800
+  language: pl-pl
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/7dad542569ad42bb3d6c97944cfba5ce0ae24f1b68a337c18d41b2db/3_Nqr.5ljt_6lkPFCm/poczytaj_ze_mna_po_co_komu_mamut_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/2d4b0791a25e767e204e4f3f6006ae22b1a42343c09777af81e3cfba/9788726178579.mp3
+  web: https://tonies.com/de-de/audio-content/po-co-komu-mamut/
+  shop-id: aa27e67e-c08b-482c-a1be-328abe22bc85
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  ids: []

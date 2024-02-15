@@ -1,0 +1,26 @@
+article: '2000010796'
+lock-data: false
+data:
+- series: Willy
+  series-id: willy
+  episode: Willy en de boze bokking
+  release: 1707868800
+  language: nl-nl
+  category: audio-play
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/41836f7b63e0fe57215d7a49966cb3652b23d7a93d7ce50fd39a7ea7/3_qddvcs5Gn~.q2zTk/willy_002_willy_en_de_boze_bokking_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/7d1bb7371434614b33efc3e94b98054f103f91021c3d0fc09710693e/9788726488050.mp3
+  web: https://tonies.com/de-de/audio-content/willy/willy-en-de-boze-bokking/
+  shop-id: 2c8cdd8d-7ca0-4813-a3a7-6e9f1d99c898
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
+  - Chapter 8
+  ids: []

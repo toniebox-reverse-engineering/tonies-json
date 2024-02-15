@@ -1,0 +1,19 @@
+article: '2000010789'
+lock-data: false
+data:
+- series: Pimpusia Sadełko
+  series-id: pimpusia-sadeko
+  episode: Szkolne przygody Pimpusia Sadełko
+  release: 1707868800
+  language: pl-pl
+  category: audio-play
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/0740308ed3dd4d24b89cc5aa88eb63eb358185df940b673b5f8b3771/3_zgq1KZnqh8y_TXXN/pimpusia_sadeko_szkolne_przygody_pimpusia_sade_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/f5f03db5e11dfa255c91944085bf849801cb3a3cec6fd4086303833e/9788726235791.mp3
+  web: https://tonies.com/de-de/audio-content/pimpusia-sadeko/szkolne-przygody-pimpusia-sadeko/
+  shop-id: 49da597b-33bb-4ccf-bd95-002826820e63
+  track-desc:
+  - Chapter 1
+  ids: []

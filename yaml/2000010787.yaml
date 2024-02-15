@@ -1,0 +1,29 @@
+article: '2000010787'
+lock-data: false
+data:
+- series: Przygody niezwykłych bohaterów
+  series-id: null
+  episode: Przygody niezwykłych bohaterów
+  release: 1707868800
+  language: pl-pl
+  category: audio-play
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/fd296ffb845317b05b219fd5926657e0f6622e9d04079fc4f1510e1c/3_3kL49nYzp0Wk3Hcp/przygody_niezwykych_bohaterow_przygody_niezwyk_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/482cda7d76cca49a632dd5448380d7dbea7ebc08473d1a27361178ed/9788728510063.mp3
+  web: https://tonies.com/de-de/audio-content/przygody-niezwykych-bohaterow/
+  shop-id: 64611006-c24a-47bd-9214-38ceb2c35b02
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
+  - Chapter 8
+  - Chapter 9
+  - Chapter 10
+  - Chapter 11
+  ids: []
