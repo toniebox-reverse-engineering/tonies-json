@@ -1,8 +1,8 @@
 article: '10000007'
 lock-data: false
 data:
-- series: Stick Man
-  series-id: stick-man
+- series: Julia Donaldson
+  series-id: julia-donaldson
   episode: Stick Man
   release: 0
   language: en-gb
@@ -12,7 +12,7 @@ data:
   origin: stock
   image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000007-50000047-b--E1b1iT2M.png
   sample: https://cdn.tonies.de/o/audio_samples/d8a739abda06ff0ab31936a3965e8cb2f0c55a6d024182fb905f3749/hoerprobe_stick_man.mp3
-  web: https://tonies.com/en-gb/tonies/stick-man/stick-man/
+  web: https://tonies.com/en-gb/tonies/julia-donaldson/stick-man/
   shop-id: b73dfc00-f6d7-4924-a859-b0677e33ff5c
   track-desc:
   - Stick Man - the classic story with music
