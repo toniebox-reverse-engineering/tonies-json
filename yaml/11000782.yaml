@@ -15,6 +15,7 @@ data:
   web: https://tonies.com/en-gb/tonies/today-with-tonies/today-with-tonies/
   shop-id: a742a774-63b0-450f-8303-6552b3c99bc9
   track-desc:
+  - Tuesday 20th February
   - Monday 19th February
   - Sunday 18th February
   - Saturday 17th February
@@ -28,7 +29,6 @@ data:
   - Friday 9th February
   - Thursday 8th February
   - Wednesday 7th February
-  - Tuesday 6th February
   - Today With Tonies Jingle
   ids:
   - audio-id: 1708301115
