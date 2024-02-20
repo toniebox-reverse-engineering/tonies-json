@@ -1,0 +1,31 @@
+article: '10001935'
+lock-data: false
+data:
+- series: The Brilliant World of Tom Gates
+  series-id: the-brilliant-world-of-tom-gates
+  episode: The Brilliant World of Tom Gates
+  release: 1708560000
+  language: en-gb
+  category: audio-book
+  runtime: 106
+  age: 6
+  origin: stock
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/Image%202-01OPzqY6.png
+  sample: https://cdn.tonies.de/o/audio_samples/986b3178f86d96ae540bbb861b7064e9eb51505ef874479249877939/10001935_the_brilliant_world_of_tom_gates_sample.wav
+  web: https://tonies.com/en-gb/tonies/the-brilliant-world-of-tom-gates/the-brilliant-world-of-tom-gates/
+  shop-id: ee8f1dfe-5adc-47c2-a3af-24587c1537ad
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
+  - Chapter 8
+  - Chapter 9
+  - Chapter 10
+  - Chapter 11
+  - Chapter 12
+  - Chapter 13
+  ids: []

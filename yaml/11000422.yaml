@@ -1,0 +1,53 @@
+article: '11000422'
+lock-data: false
+data:
+- series: Maestro
+  series-id: maestro
+  episode: Maestro
+  release: 1708560000
+  language: en-gb
+  category: music
+  runtime: 83
+  age: 5
+  origin: stock
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/Image%202-rEuGy7Qd.png
+  sample: https://cdn.tonies.de/o/audio_samples/0c8b4b5f849b8b531e885a8fc52a0ca0fced8fe58ee38aae49bd9671/maestro_sample.wav
+  web: https://tonies.com/en-gb/tonies/maestro/maestro/
+  shop-id: 8c87a5e8-2600-443c-ae7a-0e9d917a8c8f
+  track-desc:
+  - Maestro Introduction
+  - Mendelssohn Italian Symphony
+  - Composers Music Notes Melodies
+  - Prokofiev Dance Of The Knights
+  - Musical Time
+  - Strauss Jr
+  - Tempo
+  - Berlioz Symphonie Fantastique
+  - Dynamics
+  - Enigma Variations Op
+  - Instrument Families
+  - Debussy Prelude To The Afternoon Of A Faun
+  - Woodwinds
+  - Mozart Gran Parita I
+  - Strings
+  - Sibelius Symphony No 5
+  - Pizzicato
+  - Strauss Jr
+  - Brass
+  - Tchaikovsky Capriccio Italien
+  - Tchaikovsky
+  - Tchaikovsky Symphony No 4
+  - Percussion Part 1
+  - Mussorgsky Pictures At An Exhibition Xv
+  - Percussion Part 2
+  - Holst The Planets Op
+  - Piano Harp Part 1
+  - Rachmaninov Piano Concerto No
+  - Piano Harp Part 2
+  - Bizet Suite From Carmen Iii
+  - Voice Part 1
+  - Beethoven Symphony No 9 Choral Iv
+  - Voice Part 2 Recap
+  - Haydn An Imaginary Orchestral Journey Vii
+  - Tuning Maestro Farewell
+  ids: []

@@ -1,0 +1,35 @@
+article: '11000190'
+lock-data: false
+data:
+- series: Care Bears
+  series-id: care-bears-2
+  episode: Funshine Bear
+  release: 1708387200
+  language: en-gb
+  category: audio-play
+  runtime: 61
+  age: 3
+  origin: stock
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/Image%202-ToWycjCE.png
+  sample: https://cdn.tonies.de/o/audio_samples/34439818a28a6d4fa5a3330767a9facfb9f00a4d7e0baa888f8e3269/11000190_funshine_sample.wav
+  web: https://tonies.com/en-gb/tonies/care-bears-2/funshine/
+  shop-id: b4e5e92e-102a-4497-a4e8-bb5f975c36a7
+  track-desc:
+  - Funshine Bear Intro
+  - Summer's Comin
+  - Funshine Interstitial 1
+  - Rise And Funshine
+  - Funshine Interstitial 2
+  - I Love To Lol
+  - Funshine Interstitial 3
+  - The Last Laugh
+  - Funshine Interstitial 4
+  - I Like To Ride My Bike
+  - Funshine Interstitial 5
+  - Let The Funshine
+  - Funshine Interstitial 6
+  - Silver Lining
+  - Funshine Interstitial 7
+  - Always Time To Care A Lot
+  - Funshine Outro
+  ids: []

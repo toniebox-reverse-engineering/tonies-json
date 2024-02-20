@@ -10,7 +10,7 @@ data:
   runtime: 0
   age: 8
   origin: tunes
-  image: null
+  image: https://cdn.tonies.de/o/images/0866d5d38c22f8af876dbf48ea2cd915d964b68e1e78fa4c8afadafd/3_KQfDshyJhykYswm9/hanna_und_die_magischen_tiere_der_schimmernde_fe_530x530.jpg
   sample: https://cdn.tonies.de/o/audio_samples/5666414de283bba675b441b67318daed8705ee16d36b9b5fc4d3d154/9783956399268_preview.mp3
   web: https://tonies.com/de-de/audio-content/hanna-und-die-magischen-tiere/der-schimmernde-feenflugel/
   shop-id: d88e4bf5-a80e-4252-a7a1-80b8aea56367

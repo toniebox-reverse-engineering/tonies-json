@@ -1,0 +1,23 @@
+article: '10001519'
+lock-data: false
+data:
+- series: Favourite Tales
+  series-id: favourite-tales
+  episode: Puss in Boots (relaunch)
+  release: 1708560000
+  language: en-gb
+  category: audio-play
+  runtime: 74
+  age: 3
+  origin: stock
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/Image%202--cAidB7n.png
+  sample: https://cdn.tonies.de/o/audio_samples/cd5fc8bbf1eaf17ad7501ab6d6d0fef81a85a56ee432bba3a20f6f53/10001519_puss_in_boots_sample.wav
+  web: https://tonies.com/en-gb/tonies/favourite-tales/puss-in-boots-relaunch/
+  shop-id: 0017c8ba-49f2-4f59-8b8e-a67163eb0224
+  track-desc:
+  - Puss In Boots
+  - The Hare And The Hedgehog
+  - The Three Little Pigs
+  - Hansel And Gretel
+  - The Enormous Turnip
+  ids: []

@@ -1,0 +1,35 @@
+article: '11000237'
+lock-data: false
+data:
+- series: Care Bears
+  series-id: care-bears-2
+  episode: Cheer Bear
+  release: 1708387200
+  language: en-gb
+  category: audio-play-songs
+  runtime: 64
+  age: 3
+  origin: stock
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/Image%202-IOhH_-9B.png
+  sample: https://cdn.tonies.de/o/audio_samples/b4477dde8affed92718a52c5de321a927da814d4ae9226977d2c6d56/11000237_cheer_bear_sample.wav
+  web: https://tonies.com/en-gb/tonies/care-bears-2/cheer-bear/
+  shop-id: 39a3a614-4d62-429a-9661-f6f9b2917c0b
+  track-desc:
+  - Cheer Bear Intro
+  - Like A Rainbow
+  - Cheer Interstitial 1
+  - Out Of The Cheer Zone
+  - Cheer Interstitial 2
+  - See Yourself Be Yourself
+  - Cheer Interstitial 3
+  - Three Cheers For Cheer
+  - Cheer Interstitial 4
+  - It's Ok To Make Mistakes
+  - Cheer Interstitial 5
+  - Nobody's Perfect
+  - Cheer Interstitial 6
+  - Roller Skating's My Jam
+  - Cheer Interstitial 7
+  - The Magic Of Caring
+  - Cheer Outro
+  ids: []
