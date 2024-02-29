@@ -1,0 +1,19 @@
+article: '2000010805'
+lock-data: false
+data:
+- series: PJ Masks
+  series-id: pj-masks
+  episode: Pyjamashjältarna - Tre minuter till godnatt
+  release: 1709164800
+  language: sv-se
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/5c60b869c74eb23be9952c7df4c84241b0e65cabeb21ff06770bfd8d/3_klQjQmt9SLK0lP3P/pyjamashjaltarna_pyjamashjaltarna_tre_minuter__530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/5520a9d0bc3a66347e48093be2be529ff04454825420dd854182f03e/9788726809213.mp3
+  web: https://tonies.com/de-de/audio-content/pj-masks/pyjamashjaltarna-tre-minuter-till-godnatt/
+  shop-id: 64fad71f-b77b-4a3f-9013-7d8c7b4c9fa3
+  track-desc:
+  - Chapter 1
+  ids: []

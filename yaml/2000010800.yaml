@@ -1,0 +1,23 @@
+article: '2000010800'
+lock-data: false
+data:
+- series: Mascha und der Bär
+  series-id: mascha-und-der-baer
+  episode: Masha og Bjørnen - Fortællinger fra træhytten
+  release: 1709078400
+  language: da-dk
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/26c06ae948738993b11b09966fe18963661ef5151d72db92e2e9c600/3_nKK-1BBhYNSfPq93/masha_og_bjrnen_masha_og_bjrnen_fortllinger_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/cb38d875cd7aed509ce67e78f2a7c9a3257ecb930a95d9f328ea8863/9788726694536.mp3
+  web: https://tonies.com/de-de/audio-content/mascha-und-der-baer/masha-og-bjrnen-fortllinger-fra-trhytten/
+  shop-id: dc48d85f-c43c-4654-b5a4-fce349dff1bc
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  ids: []

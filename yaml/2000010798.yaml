@@ -2,7 +2,7 @@ article: '2000010798'
 lock-data: false
 data:
 - series: Willy visita o mundo quadrado
-  series-id: null
+  series-id: willy
   episode: Willy visita o mundo quadrado
   release: 1707868800
   language: pt-pt

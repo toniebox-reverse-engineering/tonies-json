@@ -1,0 +1,19 @@
+article: '2000010804'
+lock-data: false
+data:
+- series: PJ Masks
+  series-id: pj-masks
+  episode: Pyjamashjältarna - Bli en hjälte!
+  release: 1709164800
+  language: sv-se
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/be2aafb6d70c0436390ef59c10313def4bede4eb26563879ef99835e/3_.jtYD-.gpCQf3GLD/pyjamashjaltarna_pyjamashjaltarna_bli_en_hjalt_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/8b77112652ae512e59b47649b89a4b406932c443d7efd46b5cecc072/9788726809190.mp3
+  web: https://tonies.com/de-de/audio-content/pj-masks/pyjamashjaltarna-bli-en-hjalte/
+  shop-id: a52ed8d5-26da-4db1-b0a0-c307b324ef4a
+  track-desc:
+  - Chapter 1
+  ids: []

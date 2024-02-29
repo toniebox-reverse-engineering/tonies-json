@@ -1,0 +1,19 @@
+article: '2000010806'
+lock-data: false
+data:
+- series: Barbie
+  series-id: barbie
+  episode: Barbie - På eventyr i rummet
+  release: 1709164800
+  language: da-dk
+  category: audio-play
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/44603840f9f115c3321e8c5487d83b2499c4fc53f8ea1c9e67e60d86/3_HXmWMs_2HzXqKVD_/barbie_barbie_pa_eventyr_i_rummet_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/2b0ef33b65e9909ae16666947f6a9ff660256bb2709d56404742e535/9788726850444.mp3
+  web: https://tonies.com/de-de/audio-content/barbie/barbie-pa-eventyr-i-rummet/
+  shop-id: c3de23dd-3f9b-4ea0-91b6-44f8388facff
+  track-desc:
+  - Chapter 1
+  ids: []

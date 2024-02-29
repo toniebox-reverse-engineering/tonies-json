@@ -1,0 +1,20 @@
+article: '2000010801'
+lock-data: false
+data:
+- series: Mascha und der Bär
+  series-id: mascha-und-der-baer
+  episode: Masha og Bjørnen - Superheltesjov og vinterballade
+  release: 1709078400
+  language: da-dk
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/04c3d629e9e5affcc6c18be4c02d61965f868c790f3f53dca0e7bc93/3_XXSFfl3tlHS6SNF4/masha_og_bjrnen_masha_og_bjrnen_superheltesj_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/c23e101bee101b959709b330b681a8655e0450b6e4dc675095de9358/9788726694512.mp3
+  web: https://tonies.com/de-de/audio-content/mascha-und-der-baer/masha-og-bjrnen-superheltesjov-og-vinterballade/
+  shop-id: dea60506-7a34-4e6a-8131-2e26dfe46ca8
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  ids: []

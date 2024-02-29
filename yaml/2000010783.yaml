@@ -2,7 +2,7 @@ article: '2000010783'
 lock-data: false
 data:
 - series: Por decreto real
-  series-id: null
+  series-id: por-decreto-real
   episode: Por decreto real
   release: 1707868800
   language: es-es
