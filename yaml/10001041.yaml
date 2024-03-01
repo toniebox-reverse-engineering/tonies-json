@@ -31,4 +31,9 @@ data:
   - 'Jeu #5 : Des chiffres et des abeilles'
   - 'Jeu #6 : Danse comme une abeille'
   - 'Jeu #7 : Le grog au miel'
-  ids: []
+  ids:
+  - audio-id: 1630390318
+    hash: 985ff8b057a1521785f7ead0b88c6f1060492d2b
+    size: 69395246
+    tracks: 16
+    confidence: 1

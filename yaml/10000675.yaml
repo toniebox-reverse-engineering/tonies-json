@@ -20,4 +20,9 @@ data:
   - Little April Shower
   - Let’s Sing a Gay Little Spring Song
   - Looking for Romance (I Bring You a Song)
-  ids: []
+  ids:
+  - audio-id: 1623682815
+    hash: 846a154f8d92b6f4e9f0c630d115cdeccc3364c3
+    size: 32525140
+    tracks: 8
+    confidence: 1

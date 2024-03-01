@@ -26,4 +26,9 @@ data:
   - Interlude
   - The Archaeologist
   - Outro
-  ids: []
+  ids:
+  - audio-id: 1704208223
+    hash: e09a5ed93ac2909007f9a41daa13177c66037dcc
+    size: 53244074
+    tracks: 11
+    confidence: 1

@@ -29,4 +29,9 @@ data:
   - 'Jeu #4 : La cueillette en rébus'
   - 'Jeu #5 : Le goûter des sommets, recette du gâteau de Savoie'
   - 'Jeu #6 : Laisse ta trace, construis ton cairn !'
-  ids: []
+  ids:
+  - audio-id: 1630409283
+    hash: 2b40ac1928cba1c2a37bd3672a3e09071dc74aa5
+    size: 62478533
+    tracks: 14
+    confidence: 1
