@@ -335,7 +335,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000265,WAS IST WAS,was-ist-was,Pinguine/Tiere im Zoo,de-de,audio-play-educational,stock,e25190b3-3343-41eb-aba2-5f42ae4e269a,https://tonies.com/de-de/tonies/was-ist-was/pinguine-tiere-im-zoo/,1,1,1,1
 10000266,Wieso? Weshalb? Warum? junior,wieso-weshalb-warum-junior-2,Der Wald,de-de,audio-play-songs,stock,7cf28044-9dda-40fa-a047-579d2ea6d579,https://tonies.com/de-de/tonies/wieso-weshalb-warum-junior-2/der-wald/,1,1,1,1
 10000267,Creative-Tonie,,Sleepy,en-gb,creative-tonie,stock,,,1,0,0,0
-10000269,Disney,disney,Finding Nemo,en-gb,audio-play-songs,stock,a8efa096-8af8-468a-8d09-faf7bc148d0e,https://tonies.com/en-gb/tonies/disney/finding-nemo/,1,1,1,4
+10000269,Disney,disney,Finding Nemo,en-gb,audio-play-songs,stock,a8efa096-8af8-468a-8d09-faf7bc148d0e,https://tonies.com/en-gb/tonies/disney/finding-nemo/,1,1,1,3
 10000270,Favourite Children's Songs,favourite-children-s-songs,European Children's Songs,en-gb,music,stock,f89ef566-e3de-4f1a-aca4-93c9a53e0c65,https://tonies.com/en-gb/tonies/favourite-children-s-songs/european-childrens-songs/,1,1,1,1
 10000271,Favourite Masterpieces,favourite-masterpieces,Hansel and Gretel,en-gb,audio-play-songs,stock,8fd0afbd-0c3c-4c29-b0e1-8573d88a2ca3,https://tonies.com/en-gb/tonies/favourite-masterpieces/hansel-and-gretel/,1,1,1,1
 10000273,Peter Rabbit,peter-rabbit,The Peter Rabbit Collection,en-gb,audio-book,stock,92b11bf7-5357-430b-bd4c-df794c197263,https://tonies.com/en-gb/tonies/peter-rabbit/the-peter-rabbit-collection/,1,1,0,0
@@ -399,7 +399,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000382,In the Night Garden,in-the-night-garden,Igglepiggle,en-gb,music,stock,e56c0ed1-c6be-4bd5-a44f-6102659b245b,https://tonies.com/en-gb/tonies/in-the-night-garden/a-musical-journey/,1,1,1,1
 10000383,Die kleine Schnecke Monika Häuschen,die-kleine-schnecke-monika-haeuschen,Warum stolpern Tausendfüßler nicht?,de-de,audio-play,stock,c3d35dab-a4e9-4e27-a4be-c7fbeb09a51d,https://tonies.com/de-de/tonies/die-kleine-schnecke-monika-haeuschen/warum-stolpern-tausendfuessler-nicht/,1,1,1,3
 10000384,Eule findet den Beat,eule-findet-den-beat,Mit Gefühl,de-de,audio-play-songs,stock,8f10a202-a45f-40ae-8e16-7b9e09fa940b,https://tonies.com/de-de/tonies/eule-findet-den-beat/mit-gefuehl/,1,1,1,2
-10000386,Mia and me,mia-and-me,Centopia’s hope / Talking to unicorns,en-gb,audio-play,stock,6a4fb8a6-0901-47aa-b6bc-8255b0a32077,https://tonies.com/en-gb/tonies/mia-and-me/centopias-hope-talking-to-unicorns/,1,2,2,2
+10000386,Mia and me,mia-and-me,Centopia’s hope / Talking to unicorns,en-gb,audio-play,stock,6a4fb8a6-0901-47aa-b6bc-8255b0a32077,https://tonies.com/en-gb/tonies/mia-and-me/centopias-hope-talking-to-unicorns/,1,2,2,1
 10000399,Sternenschweif,sternenschweif,Geheimnisvolle Verwandlung,de-de,audio-play,stock,b455ce07-d763-4cea-88dc-20f2312d1e99,https://tonies.com/de-de/tonies/sternenschweif/geheimnisvolle-verwandlung/,1,1,0,0
 10000408,Super Wings,super-wings,A World of Adventure,en-gb,audio-play,stock,cb5f3516-5196-4e60-acdd-03a69cb6a4da,https://tonies.com/en-gb/tonies/super-wings/a-world-of-adventure/,1,0,0,0
 10000478,Die Schlümpfe,die-schluempfe,Ein tollpatschiger Held & 3 weitere schlumpfige Abenteuer,de-de,audio-play,stock,dfd42158-2c68-4e33-85c8-0238c04c64be,https://tonies.com/de-de/tonies/die-schluempfe/ein-tollpatschiger-held-3-weitere-schlumpfige-abenteuer/,1,1,1,2
@@ -432,7 +432,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000510,Disney,,Frozen: Elsa,en-us,Tonie,stock,5519647244439,,1,1,0,0
 10000511,Disney & Pixar,,Toy Story: Woody,en-us,Tonie,stock,5519373369495,,1,0,0,0
 10000512,Disney,,Cinderella,en-us,Tonie,stock,5519095791767,,1,0,0,0
-10000513,Disney & Pixar,,Finding Nemo,en-us,Tonie,stock,5519143960727,,1,1,0,0
+10000513,Disney & Pixar,,Finding Nemo,en-us,Tonie,stock,5519143960727,,1,1,1,1
 10000515,Disney,,Mulan,en-us,Tonie,stock,7011184312471,,1,1,1,1
 10000517,Disney & Pixar,,"Monsters, Inc.",en-us,Tonie,stock,6807592665239,,1,1,1,2
 10000524,Feuerwehrmann Sam,feuerwehrmann-sam,Eine Insel voller Abenteuer,de-de,audio-play,stock,da613d17-78e1-4083-b01b-b26b87598bb3,https://tonies.com/de-de/tonies/feuerwehrmann-sam/eine-insel-voller-abenteuer/,1,1,1,1
@@ -605,7 +605,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000819,Laurie Berkner,,,en-us,Tonie,stock,7815911571607,,1,1,1,1
 10000820,The Elf on the Shelf,,,en-us,Tonie,stock,8072067055767,,1,1,1,1
 10000821,Mindfulness,,,en-us,Tonie,stock,8134363578519,,1,1,1,1
-10000822,Mia,,,en-us,Tonie,stock,7912821817495,,1,1,0,0
+10000822,Mia,,,en-us,Tonie,stock,7912821817495,,1,1,1,1
 10000824,Creative-Tonie,,DIY,en-us,creative-tonie,stock,8057950568599,,1,1,0,0
 10000826,Nap Time,nap-time,White Noise,en-gb,music,stock,0efb88a8-ffb9-4772-a880-3e3af0d5fd60,https://tonies.com/en-gb/tonies/nap-time/white-noise/,1,0,0,0
 10000827,Nap Time,nap-time,Nature Sounds,en-gb,music,stock,8ba709da-e610-402f-b28f-b57f6cc55abf,https://tonies.com/en-gb/tonies/nap-time/nature-sounds/,1,0,0,0
