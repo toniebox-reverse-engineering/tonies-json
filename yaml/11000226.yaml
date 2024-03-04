@@ -1,0 +1,24 @@
+article: '11000226'
+lock-data: false
+data:
+- series: Blippi
+  series-id: blippi
+  episode: Blippi
+  release: 1710892800
+  language: en-gb
+  category: audio-play
+  runtime: 65
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/Image%202-sZVP2vao.png
+  sample: https://cdn.tonies.de/o/audio_samples/0613e9365f8c9dabc28dd417a8045d76aa126e63690df2e15f35a445/blippi_sample.wav
+  web: https://tonies.com/en-gb/tonies/blippi/blippi/
+  shop-id: 0e937fef-f9ee-4d53-b7e4-4abc9edc7c99
+  track-desc:
+  - Road Trip To The Construction Site
+  - Road Trip To The Farm
+  - Road Trip To The Moon
+  - Road Trip To A Pirate Ship
+  - Road Trip To The East African Savanna
+  - Road Trip To The Outback
+  ids: []

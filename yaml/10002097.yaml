@@ -3,14 +3,14 @@ lock-data: false
 data:
 - series: Favorite Classics
   series-id: null
-  episode: The Wonderful Wizard of Oz
+  episode: The Wizard of Oz
   release: 1709047295
   language: en-us
   category: Tonie
   runtime: 0
   age: 99
   origin: stock
-  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tonies-PDP-Assets-wizardofoz-single.jpg?v=1708894588
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tonies-PDP-Assets-wizardofoz-transparent.png?v=1708894590
   sample: null
   web: null
   shop-id: '8143489269911'

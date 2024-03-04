@@ -1,0 +1,22 @@
+article: '10002061'
+lock-data: false
+data:
+- series: Disney
+  series-id: disney
+  episode: Toy Story 3 & 4
+  release: 1710892800
+  language: en-gb
+  category: audio-play
+  runtime: 37
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/Image%202-ECkn36eo.png
+  sample: https://cdn.tonies.de/o/audio_samples/ca0ee5509fdec294fa0cd511fe091e73f86e17d4ddc482e4da7007cf/1002061_toy_story_3_and_4__sample.wav
+  web: https://tonies.com/en-gb/tonies/disney/toy-story-3-4/
+  shop-id: 76974a4a-55a4-4ae7-8a5d-9da9cadb7bb3
+  track-desc:
+  - STORY -  Toy Story 3
+  - SONG - We Belong Together
+  - STORY -  Toy Story 4
+  - SONG - I Can’t Let You Throw Yourself Away
+  ids: []

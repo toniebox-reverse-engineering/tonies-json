@@ -1,0 +1,25 @@
+article: '11000364'
+lock-data: false
+data:
+- series: Rachel Bright Series
+  series-id: rachel-bright-series
+  episode: The Koala Who Could - Three-Book Collection
+  release: 1711324800
+  language: en-gb
+  category: audio-book
+  runtime: 29
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/Image%202-zinzoL57.png
+  sample: https://cdn.tonies.de/o/audio_samples/49bef247b9965273006b576fe931a0300372639e270725004a320228/koala_that_could_sample.wav
+  web: https://tonies.com/en-gb/tonies/rachel-bright-series/the-koala-who-could-three-book-collection/
+  shop-id: dedd7cc0-4ad8-436b-a501-f30061b07643
+  track-desc:
+  - Introduction
+  - The Koala Who Could
+  - Kevin The Koala Bonus Track
+  - The Gecko And The Echo
+  - Goldie Gecko Bonus Track
+  - The Squirrels Who Squabbled
+  - Cyril Squirrel Bonus Track Goodbye
+  ids: []
