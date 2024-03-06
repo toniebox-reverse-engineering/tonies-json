@@ -1,0 +1,28 @@
+article: '10001500'
+lock-data: false
+data:
+- series: C'Est Toujours Pas Sorcier
+  series-id: c-est-toujours-pas-sorcier
+  episode: Voyage Autour Des Astres
+  release: 1709769600
+  language: fr-fr
+  category: audio-play-educational
+  runtime: 71
+  age: 6
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/50004850-Tonie_Shado-JsqUx25Y.png
+  sample: https://cdn.tonies.de/o/audio_samples/fd10a7bb94e580cfacd6d331934116aae9326438a3675a0dd3a749a4/10001500_ctps_astres_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/c-est-toujours-pas-sorcier/voyage-autour-des-astres/
+  shop-id: f9200dc6-3db5-43ab-a4ab-18854ff0d63e
+  track-desc:
+  - Introduction
+  - 'Épisode 1 : Le Soleil, l''astre de tous les enjeux'
+  - Introduction aux jeux sonores de l'épisode 1
+  - 'Jeu 1 : Chaud devant !'
+  - 'Jeu 2 : Le plus long des voyages'
+  - 'Jeu 3 : Le Soleil et la Terre, meilleurs amis'
+  - 'Épisode 2 : La Lune, notre voisine'
+  - Introduction aux jeux sonores de l'épisode 2
+  - 'Jeu 4 : Vrai ou Faux ? La Lune et ses secrets'
+  - 'Jeu 5 : Sur Terre... Et ailleurs ?'
+  ids: []

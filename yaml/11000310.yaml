@@ -1,0 +1,28 @@
+article: '11000310'
+lock-data: false
+data:
+- series: Milo
+  series-id: milo-2
+  episode: À La Découverte Des Métiers
+  release: 1709769600
+  language: fr-fr
+  category: audio-play
+  runtime: 55
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51001025-Tonie_Shado-ttId4anh.png
+  sample: https://cdn.tonies.de/o/audio_samples/71194b5299c4eef01bd619ea409e643d038bc2b3e86bf5b382cb5ece/milo_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/milo-2/a-la-decouverte-des-metiers/
+  shop-id: 7df5f16e-f018-4872-96ed-bd713ee25fe7
+  track-desc:
+  - Présentation de Milo et ses amis
+  - Milo Facteur !
+  - Jeu - La tournée du facteur
+  - Milo Vétérinaire !
+  - Jeu - La consultation vétérinaire
+  - Milo Pompier !
+  - Jeu - L'intervention du pompier
+  - Milo Clown !
+  - Jeu - Le numéro de clown
+  - Conclusion
+  ids: []
