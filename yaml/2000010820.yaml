@@ -1,0 +1,27 @@
+article: '2000010820'
+lock-data: false
+data:
+- series: Barbie
+  series-id: barbie
+  episode: Barbie y el Club de Hermanas Detectives 2 - El paseo encantado
+  release: 1709683200
+  language: es-es
+  category: audio-play
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/c4f18830ff64424181a06a9a86244178e3470e66da306026aad51884/3_..gsxRY1r8nHp3mb/barbie_barbie_y_el_club_de_hermanas_detectives_2_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/93c1dde25907c33730aa85c871317cd935e891b8fb6c02d3ef8c72a2/9788726851366.mp3
+  web: https://tonies.com/de-de/audio-content/barbie/barbie-y-el-club-de-hermanas-detectives-2-el-paseo/
+  shop-id: 0655f983-394c-4d2d-b5ec-2459c2bc54a6
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
+  - Chapter 8
+  - Chapter 9
+  ids: []

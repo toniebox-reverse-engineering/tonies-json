@@ -1,0 +1,31 @@
+article: '2000010818'
+lock-data: false
+data:
+- series: Wendy
+  series-id: wendy
+  episode: Wendy - Gør mig til springrytter
+  release: 1709683200
+  language: da-dk
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/b9f26db6c630ee291694e28ebbbd7be5295ad3340d7f20731a1739be/3_T.7Z5qvQhDt6G6p7/wendy_wendy_gr_mig_til_springrytter_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/4b549ae24f10614bcb225b36396013981ab75425c5d83ae87988aab7/9788726428568.mp3
+  web: https://tonies.com/de-de/audio-content/wendy/wendy-gr-mig-til-springrytter/
+  shop-id: 1617f67c-259d-4016-b4a2-a43d68d08d6f
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
+  - Chapter 8
+  - Chapter 9
+  - Chapter 10
+  - Chapter 11
+  - Chapter 12
+  - Chapter 13
+  ids: []

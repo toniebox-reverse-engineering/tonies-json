@@ -1,0 +1,44 @@
+article: '2000010809'
+lock-data: false
+data:
+- series: Feuerwehrmann Sam
+  series-id: feuerwehrmann-sam
+  episode: 'Folgen 160-164: Der neue Polizeihubschrauber'
+  release: 1709683200
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/c1d5f95537268f1d5f90b2e505c2a14c19b35546a9ff404518ad06a3/3_nsygfNQXFzmd997t/fireman_sam_160_folgen_160_164__der_neue_poliz_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/f89eac14ad8b1a6bd60f33c6816386b8030a3fd544cd7045c0125253/4013575945276_preview.mp3
+  web: https://tonies.com/de-de/audio-content/feuerwehrmann-sam/folgen-160-164-der-neue-polizeihubschrauber/
+  shop-id: 640b6219-638e-4c2f-9735-36a5885b0039
+  track-desc:
+  - Feuerwehrmann Sam Titellied
+  - 'Kapitel 01: Erbsen mit Rauchgeschmack (Folge 160)'
+  - 'Kapitel 02: Erbsen mit Rauchgeschmack (Folge 160)'
+  - 'Kapitel 03: Erbsen mit Rauchgeschmack (Folge 160)'
+  - 'Kapitel 04: Erbsen mit Rauchgeschmack (Folge 160)'
+  - 'Kapitel 05: Erbsen mit Rauchgeschmack (Folge 160)'
+  - 'Kapitel 01: Das Pfadfinder-Fest (Folge 161)'
+  - 'Kapitel 02: Das Pfadfinder-Fest (Folge 161)'
+  - 'Kapitel 03: Das Pfadfinder-Fest (Folge 161)'
+  - 'Kapitel 04: Das Pfadfinder-Fest (Folge 161)'
+  - 'Kapitel 05: Das Pfadfinder-Fest (Folge 161)'
+  - 'Kapitel 01: Der neue Polizeihubschrauber (Folge 162)'
+  - 'Kapitel 02: Der neue Polizeihubschrauber (Folge 162)'
+  - 'Kapitel 03: Der neue Polizeihubschrauber (Folge 162)'
+  - 'Kapitel 04: Der neue Polizeihubschrauber (Folge 162)'
+  - 'Kapitel 05: Der neue Polizeihubschrauber (Folge 162)'
+  - 'Kapitel 01: Die Wand der Champions (Folge 163)'
+  - 'Kapitel 02: Die Wand der Champions (Folge 163)'
+  - 'Kapitel 03: Die Wand der Champions (Folge 163)'
+  - 'Kapitel 04: Die Wand der Champions (Folge 163)'
+  - 'Kapitel 05: Die Wand der Champions (Folge 163)'
+  - 'Kapitel 01: Stehpaddel-SOS (Folge 164)'
+  - 'Kapitel 02: Stehpaddel-SOS (Folge 164)'
+  - 'Kapitel 03: Stehpaddel-SOS (Folge 164)'
+  - 'Kapitel 04: Stehpaddel-SOS (Folge 164)'
+  - 'Kapitel 05: Stehpaddel-SOS (Folge 164)'
+  ids: []

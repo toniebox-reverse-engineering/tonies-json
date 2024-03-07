@@ -1,0 +1,30 @@
+article: '2000010823'
+lock-data: false
+data:
+- series: Hania Humorek
+  series-id: hania-humorek
+  episode: Hania Humorek
+  release: 1709683200
+  language: pl-pl
+  category: audio-play
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/fb1a8206b19e6aaf8ee5e9b602dbc719d297872e250150a80d722e82/3_x_rV5Qy0VdzZl.G2/hania_humorek_hania_humorek_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/0191401abd41aa03ed1d0d384dd571f6f2d52fe9e468a44c4eb98278/9788323752820.mp3
+  web: https://tonies.com/de-de/audio-content/hania-humorek/hania-humorek/
+  shop-id: f6c2f73e-42dd-41b4-ab18-95b4c09bd78a
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
+  - Chapter 8
+  - Chapter 9
+  - Chapter 10
+  - Chapter 11
+  - Chapter 12
+  ids: []

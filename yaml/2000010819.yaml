@@ -1,0 +1,19 @@
+article: '2000010819'
+lock-data: false
+data:
+- series: Wendy
+  series-id: wendy
+  episode: Wendy - Skattejagten
+  release: 1709683200
+  language: da-dk
+  category: audio-play
+  runtime: 0
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/85b20327dc35da9de976e3e1918782594a1af3e64ea11983f20a9c7c/3_7vgymwZlJx1-yzV~/wendy_wendy_skattejagten_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/351d11b3271bfcf1831f4788f23beb8528c0f75f83f4524a77c5b62f/9788726482768.mp3
+  web: https://tonies.com/de-de/audio-content/wendy/wendy-skattejagten/
+  shop-id: 3a1f04d4-59b2-450c-a5b9-d83a4387f6ee
+  track-desc:
+  - Chapter 1
+  ids: []

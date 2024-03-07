@@ -1,0 +1,30 @@
+article: '2000010810'
+lock-data: false
+data:
+- series: Pettersson und Findus
+  series-id: pettersson-und-findus
+  episode: Gok-Gok i køkkenhaven
+  release: 1709683200
+  language: da-dk
+  category: audio-play
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/2a9e166cee3366bada0e3d351770c47df260999eb455b0f0dadfcc70/3_cyN0mg5g~4TxKRy1/pettson_and_findus_gok_gok_i_kkkenhaven_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/448348efb25d451d5758703395959383d2be49cc62b0b702800a645c/9788711387290.mp3
+  web: https://tonies.com/de-de/audio-content/pettersson-und-findus/gok-gok-i-kkkenhaven/
+  shop-id: e4534820-dd96-4008-b48a-7d196fa6d25d
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
+  - Chapter 8
+  - Chapter 9
+  - Chapter 10
+  - Chapter 11
+  - Chapter 12
+  ids: []

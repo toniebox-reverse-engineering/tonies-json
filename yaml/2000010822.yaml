@@ -1,0 +1,29 @@
+article: '2000010822'
+lock-data: false
+data:
+- series: Hania Humorek
+  series-id: hania-humorek
+  episode: Hania Humorek idzie na studia
+  release: 1709683200
+  language: pl-pl
+  category: audio-play
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/a5b2c45126d892f756a2c95b8d1e3f07aa2f00eadfc1401b5d371bde/3__ktpJ.t6~r9tnKN7/hania_humorek_hania_humorek_idzie_na_studia_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/0191401abd41aa03ed1d0d384dd571f6f2d52fe9e468a44c4eb98278/9788328144774.mp3
+  web: https://tonies.com/de-de/audio-content/hania-humorek/hania-humorek-idzie-na-studia/
+  shop-id: 4c5eb80d-a0c7-4398-9096-866dc4b06715
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
+  - Chapter 8
+  - Chapter 9
+  - Chapter 10
+  - Chapter 11
+  ids: []
