@@ -889,7 +889,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001491,Didier Jeunesse,didier-jeunesse,Monsieur Mozart,fr-fr,audio-book-songs,stock,eb6959ab-a1b4-4b6d-aedd-ff348d187bb8,https://tonies.com/fr-fr/tonies/didier-jeunesse/monsieur-mozart/,1,1,1,1
 10001495,Babar,babar,Les Chasses Au Trésor De Babar,fr-fr,audio-play,stock,b77ccf09-5c8f-4130-90aa-0a453c965518,https://tonies.com/fr-fr/tonies/babar/les-chasses-au-tresor-de-babar/,1,0,0,0
 10001496,Ma Pause Zen,ma-pause-zen,Cours Yoga De Sergio Lama,fr-fr,audio-play,stock,dcb58b8b-ee27-467f-a584-9ec14b1655a0,https://tonies.com/fr-fr/tonies/ma-pause-zen/cours-yoga-de-sergio-lama/,1,0,0,0
-10001500,C'Est Toujours Pas Sorcier,c-est-toujours-pas-sorcier,Voyage Autour Des Astres,fr-fr,audio-play-educational,stock,f9200dc6-3db5-43ab-a4ab-18854ff0d63e,https://tonies.com/fr-fr/tonies/c-est-toujours-pas-sorcier/voyage-autour-des-astres/,1,0,0,0
+10001500,C'Est Toujours Pas Sorcier,was-ist-was,Voyage Autour Des Astres,fr-fr,audio-play-educational,stock,f9200dc6-3db5-43ab-a4ab-18854ff0d63e,https://tonies.com/fr-fr/tonies/c-est-toujours-pas-sorcier/voyage-autour-des-astres/,1,0,0,0
 10001501,Mes Classiques Préférés,mes-classiques-preferes,Le Roman De Renart,fr-fr,audio-play,stock,d185ea55-5b5d-4820-b068-e03fac042d1c,https://tonies.com/fr-fr/tonies/mes-classiques-preferes/le-roman-de-renart/,1,0,0,0
 10001502,Disney,disney,Mulan,fr-fr,audio-play-songs,stock,1736ecb5-2f5d-4ef3-bc8e-4b4ae7760da3,https://tonies.com/fr-fr/tonies/disney/mulan/,1,0,0,0
 10001505,Molang,molang,Molang 2,fr-fr,audio-play,stock,31332cee-e470-43ab-960b-34ec742b6a03,https://tonies.com/fr-fr/tonies/molang/molang-2/,1,0,0,0
@@ -1169,7 +1169,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000479,PAW Patrol,,Liberty,en-us,Tonie,stock,8041408004247,,1,1,1,1
 11000495,Paw Patrol,paw-patrol,Liberty,en-gb,audio-play,stock,fb760b65-e2c1-4ac9-85fc-7a42def5a4ba,https://tonies.com/en-gb/tonies/paw-patrol/liberty/,1,0,0,0
 11000503,La Pat' Patrouille,la-pat-patrouille,Liberty,fr-fr,audio-play,stock,0041af69-1f3a-4432-91ce-f31baec80fdf,https://tonies.com/fr-fr/tonies/la-pat-patrouille/liberty/,1,0,0,0
-11000509,C'Est Toujours Pas Sorcier,c-est-toujours-pas-sorcier,Nos Amis Les Animaux,fr-fr,audio-play-educational,stock,bb7c7283-d4d7-4ff9-94ab-9ff803d826b1,https://tonies.com/fr-fr/tonies/c-est-toujours-pas-sorcier/nos-amis-les-animaux/,1,0,0,0
+11000509,C'Est Toujours Pas Sorcier,was-ist-was,Nos Amis Les Animaux,fr-fr,audio-play-educational,stock,bb7c7283-d4d7-4ff9-94ab-9ff803d826b1,https://tonies.com/fr-fr/tonies/c-est-toujours-pas-sorcier/nos-amis-les-animaux/,1,0,0,0
 11000514,Timoté,timote,Je Grandis Avec Timoté,fr-fr,audio-book,stock,98d0c3f8-fad7-4079-aa91-00dabdadf6f1,https://tonies.com/fr-fr/tonies/timote/je-grandis-avec-timote/,1,0,0,0
 11000520,Disney,disney,Wish,de-de,audio-play,stock,e15ddfd5-63e7-4f11-9e19-20ab0ffc5626,https://tonies.com/de-de/tonies/disney/wish/,1,0,0,0
 11000526,Disney,,Wish,en-us,Tonie,stock,8124400664727,,1,1,1,1
@@ -4760,6 +4760,29 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 2000010804,PJ Masks,pj-masks,Pyjamashjältarna - Bli en hjälte!,sv-se,audio-play,tunes,a52ed8d5-26da-4db1-b0a0-c307b324ef4a,https://tonies.com/de-de/audio-content/pj-masks/pyjamashjaltarna-bli-en-hjalte/,1,0,0,0
 2000010805,PJ Masks,pj-masks,Pyjamashjältarna - Tre minuter till godnatt,sv-se,audio-play,tunes,64fad71f-b77b-4a3f-9013-7d8c7b4c9fa3,https://tonies.com/de-de/audio-content/pj-masks/pyjamashjaltarna-tre-minuter-till-godnatt/,1,0,0,0
 2000010806,Barbie,barbie,Barbie - På eventyr i rummet,da-dk,audio-play,tunes,c3de23dd-3f9b-4ea0-91b6-44f8388facff,https://tonies.com/de-de/audio-content/barbie/barbie-pa-eventyr-i-rummet/,1,0,0,0
+2000010807,PJ Masks,pj-masks,Folgen 75-78: Kräftemessen,de-de,audio-play,tunes,e080055b-2753-4c24-b2c3-87821d8942e5,https://tonies.com/de-de/audio-content/pj-masks/folgen-75-78-kraftemessen/,1,0,0,0
+2000010808,PJ Masks,pj-masks,Folgen 71-74: Mondsüchtig,de-de,audio-play,tunes,9dd49aae-4679-4a75-a97f-5079a27db15f,https://tonies.com/de-de/audio-content/pj-masks/folgen-71-74-mondsuchtig/,1,0,0,0
+2000010809,Feuerwehrmann Sam,feuerwehrmann-sam,Folgen 160-164: Der neue Polizeihubschrauber,de-de,audio-play,tunes,640b6219-638e-4c2f-9735-36a5885b0039,https://tonies.com/de-de/audio-content/feuerwehrmann-sam/folgen-160-164-der-neue-polizeihubschrauber/,1,0,0,0
+2000010810,Pettersson und Findus,pettersson-und-findus,Gok-Gok i køkkenhaven,da-dk,audio-play,tunes,e4534820-dd96-4008-b48a-7d196fa6d25d,https://tonies.com/de-de/audio-content/pettersson-und-findus/gok-gok-i-kkkenhaven/,1,0,0,0
+2000010811,Pettersson und Findus,pettersson-und-findus,Og hanen gol ...,da-dk,audio-play,tunes,81e7a359-919b-478e-a682-32c342af6665,https://tonies.com/de-de/audio-content/pettersson-und-findus/og-hanen-gol/,1,0,0,0
+2000010812,Pettersson und Findus,pettersson-und-findus,Da Findus var lille og forsvandt,da-dk,audio-play,tunes,98167441-605a-489e-ad5d-96eaff6d6249,https://tonies.com/de-de/audio-content/pettersson-und-findus/da-findus-var-lille-og-forsvandt/,1,0,0,0
+2000010814,Wendy,wendy,Wendy fra Lindehøj,da-dk,audio-play,tunes,e27d0638-3e35-4d3a-bda9-fa4684c64a34,https://tonies.com/de-de/audio-content/wendy/wendy-fra-lindehj/,1,0,0,0
+2000010815,Wendy,wendy,Wendy på ferie i Spanien,da-dk,audio-play,tunes,393e74f8-2916-4dfd-bfb6-2f27c2a8514f,https://tonies.com/de-de/audio-content/wendy/wendy-pa-ferie-i-spanien/,1,0,0,0
+2000010816,Wendy,wendy,Wendy - Da Zeus blev stjålet,da-dk,audio-play,tunes,7a727ddc-15ca-414d-b7dc-6dda6c97e6ca,https://tonies.com/de-de/audio-content/wendy/wendy-da-zeus-blev-stjalet/,1,0,0,0
+2000010817,Wendy,wendy,Wendy - En verden uden heste,da-dk,audio-play,tunes,a24a8757-bca5-49a6-beab-708c683c6fdd,https://tonies.com/de-de/audio-content/wendy/wendy-en-verden-uden-heste/,1,0,0,0
+2000010818,Wendy,wendy,Wendy - Gør mig til springrytter,da-dk,audio-play,tunes,1617f67c-259d-4016-b4a2-a43d68d08d6f,https://tonies.com/de-de/audio-content/wendy/wendy-gr-mig-til-springrytter/,1,0,0,0
+2000010819,Wendy,wendy,Wendy - Skattejagten,da-dk,audio-play,tunes,3a1f04d4-59b2-450c-a5b9-d83a4387f6ee,https://tonies.com/de-de/audio-content/wendy/wendy-skattejagten/,1,0,0,0
+2000010820,Barbie,barbie,Barbie y el Club de Hermanas Detectives 2 - El paseo encantado,es-es,audio-play,tunes,0655f983-394c-4d2d-b5ec-2459c2bc54a6,https://tonies.com/de-de/audio-content/barbie/barbie-y-el-club-de-hermanas-detectives-2-el-paseo/,1,0,0,0
+2000010821,Barbie,barbie,Barbie – zbiór opowiadań,pl-pl,audio-play,tunes,3ae9b264-aaa0-4502-b256-2ca36305580e,https://tonies.com/de-de/audio-content/barbie/barbie-zbior-opowiadan/,1,0,0,0
+2000010822,Hania Humorek,hania-humorek,Hania Humorek idzie na studia,pl-pl,audio-play,tunes,4c5eb80d-a0c7-4398-9096-866dc4b06715,https://tonies.com/de-de/audio-content/hania-humorek/hania-humorek-idzie-na-studia/,1,0,0,0
+2000010823,Hania Humorek,hania-humorek,Hania Humorek,pl-pl,audio-play,tunes,f6c2f73e-42dd-41b4-ab18-95b4c09bd78a,https://tonies.com/de-de/audio-content/hania-humorek/hania-humorek/,1,0,0,0
+2000010824,Hania Humorek,hania-humorek,Hania Humorek przepowiada przyszłość,pl-pl,audio-play,tunes,d2089bcd-f9c6-4446-9175-6f8eebd7068a,https://tonies.com/de-de/audio-content/hania-humorek/hania-humorek-przepowiada-przyszosc/,1,0,0,0
+2000010825,Doktor Hania Humorek,,Doktor Hania Humorek,pl-pl,audio-play,tunes,063d20ab-a04e-45d0-acb6-2a9cfb9e13ea,https://tonies.com/de-de/audio-content/doktor-hania-humorek/,1,0,0,0
+2000010826,Hania Humorek,hania-humorek,Hania Humorek ogłasza niepodleglość,pl-pl,audio-play,tunes,81c007ba-37b6-42a4-b88b-d04542372b5b,https://tonies.com/de-de/audio-content/hania-humorek/hania-humorek-ogasza-niepodleglosc/,1,0,0,0
+2000010827,Hania Humorek,hania-humorek,Hania Humorek. W osiem i pół dnia dookoła świata,pl-pl,audio-play,tunes,fc99244a-8e45-40cd-a569-542ef5e352fb,https://tonies.com/de-de/audio-content/hania-humorek/hania-humorek-w-osiem-i-po-dnia-dookoa-swiata/,1,0,0,0
+2000010828,Hania Humorek,hania-humorek,Hania Humorek. Mały detektyw,pl-pl,audio-play,tunes,2626e1ce-ce2b-41a4-bfc8-50822f796176,https://tonies.com/de-de/audio-content/hania-humorek/hania-humorek-may-detektyw/,1,0,0,0
+2000010829,Hania Humorek,hania-humorek,Hania Humorek ratuje świat,pl-pl,audio-play,tunes,b1c65619-4123-4bea-9165-6c93731ef645,https://tonies.com/de-de/audio-content/hania-humorek/hania-humorek-ratuje-swiat/,1,0,0,0
+2000010830,Hania Humorek,hania-humorek,Hania Humorek zostaje gwiazdą,pl-pl,audio-play,tunes,5acb79b0-e11e-416a-92ee-bb3ad908d0ea,https://tonies.com/de-de/audio-content/hania-humorek/hania-humorek-zostaje-gwiazda/,1,0,0,0
 99-0001,Kreativ-Tonie,,(Platzhalter) - DE,de-de,creative-tonie,stock,,,1,1,0,0
 99-0002,Creative-Tonie,,Creativ-Tonie (DUMMY) - UK,en-gb,creative-tonie,stock,,,1,1,0,0
 99-0003,Creative-Tonie,,Creativ-Tonie (DUMMY) - US,en-gb,creative-tonie,stock,,,1,1,0,0
