@@ -15,12 +15,12 @@ data:
   web: https://tonies.com/de-de/tonies/disney/wish/
   shop-id: e15ddfd5-63e7-4f11-9e19-20ab0ffc5626
   track-desc:
-  - Kapitel 01
-  - Kapitel 02
-  - Kapitel 03
-  - Kapitel 04
-  - Kapitel 05
-  - Kapitel 06
-  - Kapitel 07
-  - Kapitel 08
+  - 'Kapitel 01: Wish'
+  - 'Kapitel 02: Wish'
+  - 'Kapitel 03: Wish'
+  - 'Kapitel 04: Wish'
+  - 'Kapitel 05: Wish'
+  - 'Kapitel 06: Wish'
+  - 'Kapitel 07: Wish'
+  - 'Kapitel 08: Wish'
   ids: []

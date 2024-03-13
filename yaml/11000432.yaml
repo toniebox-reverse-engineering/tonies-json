@@ -1,0 +1,19 @@
+article: '11000432'
+lock-data: false
+data:
+- series: Disney
+  series-id: disney
+  episode: Hercules
+  release: 1710288000
+  language: de-de
+  category: audio-play-songs
+  runtime: 47
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11000432_1_a-jHLSZfkr.png
+  sample: https://cdn.tonies.de/o/audio_samples/66c1048c348cdfdc52e364e1452b684311f2de1a1f6e1a9f505fd8e2/hoerprobe_11000432_disney_hercules.mp3
+  web: https://tonies.com/de-de/tonies/disney/hercules/
+  shop-id: 7874a5c0-def3-4663-b093-5421a8884c9d
+  track-desc:
+  - '06: Hercules'
+  ids: []

@@ -2,7 +2,7 @@ article: '10001471'
 lock-data: false
 data:
 - series: Lieblings-Klassiker
-  series-id: lieblings-klassiker
+  series-id: mes-classiques-preferes
   episode: Pinocchio (Neuauflage 2024)
   release: 1710288000
   language: de-de
