@@ -161,12 +161,13 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001368,Disney,disney,Pocahontas,de-de,audio-play,stock,0d8f51eb-a45d-4058-b082-2d458e852d73,https://tonies.com/de-de/tonies/disney/pocahontas/,1,0,0,0
 10001377,Lieblings-Märchen,lieblings-maerchen,Rapunzel (Neuauflage 2023),de-de,audio-play,stock,92595e81-6704-4bb4-b4f3-5af0b2fea623,https://tonies.com/de-de/tonies/lieblings-maerchen/rapunzel-neuauflage-2023/,1,1,0,0
 10001378,Disney,disney,Schneewittchen und die sieben Zwerge,de-de,audio-play-songs,stock,2c917a4e-081b-455c-9af0-58b4301a10ba,https://tonies.com/de-de/tonies/disney/disney-schneewittchen-und-die-sieben-zwerge-schneewittchen-und-die-sieben-zwerge-dach/,1,1,0,0
+10001379,Der Regenbogenfisch,der-regenbogenfisch,Der Regenbogenfisch,de-de,audio-book-songs,stock,a14f69be-14f6-41a5-a4cf-c698570bacbf,https://tonies.com/de-de/tonies/der-regenbogenfisch/der-regenbogenfisch/,1,0,0,0
 10001388,Cocomelon,cocomelon,CoComelon,en-gb,music,stock,f1ddb020-6f2f-4215-852d-40eb20096b1f,https://tonies.com/en-gb/tonies/cocomelon/cocomelon/,1,0,0,0
 10001397,Schlummerbande,sleepy-friends,"Klassik zum Einschlafen - Träum schön, kleiner Schlummerhase",de-de,music,stock,c8225280-653e-4fa8-904c-566735f77a39,https://tonies.com/de-de/tonies/schlummerbande/klassik-zum-einschlafen-trum-schn-kleiner-schlummerhase/,1,1,0,0
 10001398,Super Wings,super-wings,Feuer im Wald,de-de,audio-play,stock,07e14381-a6ea-473b-851c-8c610e97fc75,https://tonies.com/de-de/tonies/super-wings/feuer-im-wald/,1,1,0,0
 10001406,Mouk,mouk,Découvre Le Monde Avec Mouk,fr-fr,audio-play,stock,cb8635f6-d118-4ff8-923c-efa46197a79e,https://tonies.com/fr-fr/tonies/mouk/decouvre-le-monde-avec-mouk/,1,0,0,0
 10001408,Contes Du Monde,contes-du-monde,Afrique De L'Ouest,fr-fr,audio-book,stock,e8abdc4f-8c26-4912-989d-d0f4fd761dbb,https://tonies.com/fr-fr/tonies/contes-du-monde/afrique-de-l-ouest/,1,0,0,0
-10001471,Lieblings-Klassiker,lieblings-klassiker,Pinocchio (Neuauflage 2024),de-de,audio-book,stock,e8049cc1-19c0-4dc6-a1fe-e5c8a41f4eca,https://tonies.com/de-de/tonies/lieblings-klassiker/pinocchio-neuauflage-2024/,1,0,0,0
+10001471,Lieblings-Klassiker,mes-classiques-preferes,Pinocchio (Neuauflage 2024),de-de,audio-book,stock,e8049cc1-19c0-4dc6-a1fe-e5c8a41f4eca,https://tonies.com/de-de/tonies/lieblings-klassiker/pinocchio-neuauflage-2024/,1,0,0,0
 10001473,Leos Tag,leos-tag,"Achtung, fertig, Zähneputzen!",de-de,audio-play-songs,stock,e280136f-64ca-4ebb-aa93-29a30334008d,https://tonies.com/de-de/tonies/leos-tag/achtung-fertig-zhneputzen/,1,1,0,0
 10001475,Disney,disney,Winnie L'Ourson,fr-fr,audio-play-songs,stock,799ac6f2-89f7-4b5b-b60a-014ae758f218,https://tonies.com/fr-fr/tonies/disney/winnie-l-ourson/,1,0,0,0
 10001477,Disney,disney,Vaiana,fr-fr,audio-play-songs,stock,cd78dfd4-cf22-402c-ac9a-bc9af49c75b2,https://tonies.com/fr-fr/tonies/disney/vaiana/,1,0,0,0
@@ -270,6 +271,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10002169,Tonies Collection Bundle,,Dreamworks Tonie Collection,en-gb,audio-play,stock,,,1,0,0,0
 10002170,Tonies Collection Bundle,,TV Favourites Tonies Collection,en-gb,audio-play,stock,,,1,0,0,0
 10002171,Tonies Collection Bundle,,Classical Music Tonie Collection,en-gb,audio-play,stock,,,1,0,0,0
+10002172,Gigantosaurus,gigantosaurus,Mazus Mutprobe,de-de,audio-play,stock,0c6cf131-a592-46e6-85e1-733d9cae4ac6,https://tonies.com/de-de/tonies/gigantosaurus/mazus-mutprobe/,1,0,0,0
 10002267,Sleepy Friends,sleepy-friends,Sleepy Sheep Night Light,en-gb,audio-play-songs,stock,ef1a8809-074f-442b-bee3-171849d83d06,https://tonies.com/en-gb/tonies/sleepy-friends/sleepy-sheep-night-light/,1,0,0,0
 10002268,Schlummerbande,sleepy-friends,Nachtlicht Tonie - Schlummerschaf,de-de,music,stock,b97900ea-3926-4b41-9856-d971c6038dcd,https://tonies.com/de-de/tonies/schlummerbande/nachtlicht-tonie-schlummerschaf/,1,0,0,0
 10002269,Les Copains Du Dodo,sleepy-friends,Tonie-Veilleuse - Doudou Mouton,fr-fr,music,stock,c8f16056-62bc-4554-b80c-4764ae16e439,https://tonies.com/fr-fr/tonies/les-copains-du-dodo/tonie-veilleuse-doudou-mouton/,1,0,0,0
@@ -326,6 +328,8 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000422,Maestro,maestro,Maestro,en-gb,music,stock,8c87a5e8-2600-443c-ae7a-0e9d917a8c8f,https://tonies.com/en-gb/tonies/maestro/maestro/,1,0,0,0
 11000424,Sleepy Friends,sleepy-friends,Classical Music with Sleepy Rabbit,en-gb,music,stock,1cd2a495-cc66-4b2a-a28f-9c7b8d897225,https://tonies.com/en-gb/tonies/sleepy-friends/classical-music-with-sleepy-rabbit/,1,0,0,0
 11000430,Dino Ranch,dino-ranch,Mächtig Ärger für Jon & 3 weitere Abenteuer,de-de,audio-play,stock,6617d727-a3e3-4be6-9ec1-7004682fe20e,https://tonies.com/de-de/tonies/dino-ranch/machtig-arger-fur-jon-3-weitere-abenteuer/,1,1,0,0
+11000432,Disney,disney,Hercules,de-de,audio-play-songs,stock,7874a5c0-def3-4663-b093-5421a8884c9d,https://tonies.com/de-de/tonies/disney/hercules/,1,0,0,0
+11000440,Die Eule mit der Beule,die-eule-mit-der-beule,Die kleine Eule singt und tanzt – Das 2. Liederalbum,de-de,music,stock,a523f2e8-c2d2-4fd2-818d-25b518451534,https://tonies.com/de-de/tonies/die-eule-mit-der-beule/die-kleine-eule-singt-und-tanzt-das-2-liederalbum/,1,0,0,0
 11000447,Planet Omar,,Accidental Trouble Magnet,en-us,Tonie,stock,7907850649751,,1,1,0,0
 11000457,Calm x tonies®,,,en-us,Tonie,stock,7806525866135,,1,1,0,0
 11000458,Calm,,Calm,en-gb,,stock,d7d0d398-f289-47f3-acff-8e0cb0a47158,https://tonies.com/de-de///,1,0,0,0
@@ -339,11 +343,11 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000514,Timoté,timote,Je Grandis Avec Timoté,fr-fr,audio-book,stock,98d0c3f8-fad7-4079-aa91-00dabdadf6f1,https://tonies.com/fr-fr/tonies/timote/je-grandis-avec-timote/,1,0,0,0
 11000520,Disney,disney,Wish,de-de,audio-play,stock,e15ddfd5-63e7-4f11-9e19-20ab0ffc5626,https://tonies.com/de-de/tonies/disney/wish/,1,0,0,0
 11000559,Disney,disney,Wish,en-gb,audio-play-songs,stock,e21017ba-d2cf-4f89-bdef-81dde36a4458,https://tonies.com/en-gb/tonies/disney/wish/,1,0,0,0
-11000594,Asterix,asterix,Asterix - Die Odyssee,de-de,audio-book,stock,12db35ae-f4a8-48c1-aa8a-b0b4fd3aa9cc,https://tonies.com/de-de/tonies/asterix/asterix-idefix-dogmatix-en-dach/,1,0,0,0
+11000594,Asterix,asterix,Asterix - Die Odyssee,de-de,audio-play,stock,12db35ae-f4a8-48c1-aa8a-b0b4fd3aa9cc,https://tonies.com/de-de/tonies/asterix/asterix-idefix-dogmatix-en-dach/,1,0,0,0
 11000605,Trolls,trolls,Viva,en-gb,audio-play-songs,stock,d22ca57c-4c41-4461-81b1-f8d558734784,https://tonies.com/en-gb/tonies/trolls/viva/,1,0,0,0
 11000608,Spidey Et Ses Amis Extraordinaires,spidey-et-ses-amis-extraordinaires,Ghost-Spider,fr-fr,audio-play-songs,stock,4b745f3a-0e10-42a9-990f-6c5b1ec0c8ad,https://tonies.com/fr-fr/tonies/spidey-et-ses-amis-extraordinaires/ghost-spider/,1,0,0,0
 11000609,Spidey Et Ses Amis Extraordinaires,spidey-et-ses-amis-extraordinaires,Miles Morales,fr-fr,audio-play-songs,stock,1b73316c-a179-4b6f-9e38-a773b8c3b606,https://tonies.com/fr-fr/tonies/spidey-et-ses-amis-extraordinaires/miles-morales/,1,0,0,0
-11000736,Lieblings-Klassiker,lieblings-klassiker,Der Zauberer von Oz und zwei weitere Klassiker,de-de,audio-book,stock,6c4a4d73-bce2-4960-a05b-7369c90e62bd,https://tonies.com/de-de/tonies/lieblings-klassiker/der-zauberer-von-oz-und-zwei-weitere-klassiker/,1,0,0,0
+11000736,Lieblings-Klassiker,mes-classiques-preferes,Der Zauberer von Oz und zwei weitere Klassiker,de-de,audio-book,stock,6c4a4d73-bce2-4960-a05b-7369c90e62bd,https://tonies.com/de-de/tonies/lieblings-klassiker/der-zauberer-von-oz-und-zwei-weitere-klassiker/,1,0,0,0
 11000767,Die Kackwurstfabrik,die-kackwurstfabrik,Die Kackwurstfabrik,de-de,audio-play,stock,2d9b636c-1474-45b7-b8e6-3e4309521b61,https://tonies.com/de-de/tonies/die-kackwurstfabrik/die-kackwurstfabrik-dach/,1,0,0,0
 11000769,Leo und die Abenteuermaschine,leo-und-die-abentuermaschine,Leo und die Mondlandung,de-de,audio-play,stock,8d5d24ce-d5ed-4b4f-8188-eae0f4c561a2,https://tonies.com/de-de/tonies/leo-und-die-abentuermaschine/leo-und-die-mondlandung-dach/,1,0,0,0
 11000827,Benjamin Blümchen,benjamin-bluemchen,Gute-Nacht-Geschichten - Plüsch,de-de,audio-play,stock,5fca96d6-8bab-44b6-bdef-77ec80b079fe,https://tonies.com/de-de/tonies/benjamin-bluemchen/gute-nacht-geschichten-pluesch/,1,0,0,0
