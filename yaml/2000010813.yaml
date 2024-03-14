@@ -1,0 +1,35 @@
+article: '2000010813'
+lock-data: false
+data:
+- series: Pettersson und Findus
+  series-id: pettersson-und-findus
+  episode: Nissemaskinen
+  release: 1710288000
+  language: da-dk
+  category: audio-play
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/4aa64fa36dd842948b56f5cffe42230b4d514a7f83d79e2976ada7e8/3_H6p086tWXy-xQYZ9/pettson_and_findus_nissemaskinen_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/pettersson-und-findus/nissemaskinen/
+  shop-id: cb3b80ce-6154-443b-8204-2ea165e1b27f
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
+  - Chapter 8
+  - Chapter 9
+  - Chapter 10
+  - Chapter 11
+  - Chapter 12
+  - Chapter 13
+  - Chapter 14
+  - Chapter 15
+  - Chapter 16
+  - Chapter 17
+  ids: []

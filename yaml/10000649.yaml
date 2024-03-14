@@ -1,8 +1,8 @@
 article: '10000649'
 lock-data: false
 data:
-- series: Mog the Forgetful Cat
-  series-id: mog-the-forgetful-cat
+- series: Judith Kerr
+  series-id: judith-kerr
   episode: Mog
   release: 1679270400
   language: en-gb
@@ -12,7 +12,7 @@ data:
   origin: stock
   image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/98-1205-Tonie_Shadow-VCJMzAMy.png
   sample: https://cdn.tonies.de/o/audio_samples/57e55bf8e20f0525b155542e5de277a00bef82d0d5e89b1c1b4dda8b/10000649_mog_sample.wav
-  web: https://tonies.com/en-gb/tonies/mog-the-forgetful-cat/mog/
+  web: https://tonies.com/en-gb/tonies/judith-kerr/mog/
   shop-id: e02a039f-7c9a-43e4-9cd3-9ef910d3e13d
   track-desc:
   - Mog the Forgetful Cat
