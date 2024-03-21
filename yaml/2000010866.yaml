@@ -1,0 +1,23 @@
+article: '2000010866'
+lock-data: false
+data:
+- series: Bamse
+  series-id: bamse
+  episode: Bamse 4 - Kyllings ører blev væk
+  release: 1710892800
+  language: da-dk
+  category: audio-play
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/ede4979f3c3911dd1b37803fbae805a232ca1e229cfc0c27bde71282/3_sF86s2HrZkjLR0.k/bamse_4_kyllings_rer_blev_vk_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/8686660788db33f68bd087bcb89e02a25fbfbd993e1223e0b3685f1d/9788711394564.mp3
+  web: https://tonies.com/de-de/audio-content/bamse/bamse-4-kyllings-rer-blev-vk/
+  shop-id: de6bbc6d-431c-4171-8462-bf6b88c6cd34
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  ids: []

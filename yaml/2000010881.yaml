@@ -1,0 +1,46 @@
+article: '2000010881'
+lock-data: false
+data:
+- series: LEGO Ninjago
+  series-id: lego-ninjago
+  episode: 'Folgen 223-224: Wenn einer lacht…'
+  release: 1710892800
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/f24442b287fef8a5e0c3b5d94c3cf5388943c942365f2c1c0ac2d3e7/3_bG7RtdLZz8f~vvqJ/lego_ninjago_223_folgen_223_224__wenn_einer_la_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/a2c13e0349903d605525e23f5917cb66001db5a6bb27aba6dbce7e3a/4013575954018_preview.mp3
+  web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-223-224-wenn-einer-lacht/
+  shop-id: f98adb71-3855-458e-a68c-43e409af8714
+  track-desc:
+  - 'Kapitel 01: Wenn einer lacht… (Folge 223)'
+  - 'Kapitel 02: Wenn einer lacht… (Folge 223)'
+  - 'Kapitel 03: Wenn einer lacht… (Folge 223)'
+  - 'Kapitel 04: Wenn einer lacht… (Folge 223)'
+  - 'Kapitel 05: Wenn einer lacht… (Folge 223)'
+  - 'Kapitel 06: Wenn einer lacht… (Folge 223)'
+  - 'Kapitel 07: Wenn einer lacht… (Folge 223)'
+  - 'Kapitel 08: Wenn einer lacht… (Folge 223)'
+  - 'Kapitel 09: Wenn einer lacht… (Folge 223)'
+  - 'Kapitel 10: Wenn einer lacht… (Folge 223)'
+  - 'Kapitel 11: Wenn einer lacht… (Folge 223)'
+  - 'Kapitel 12: Wenn einer lacht… (Folge 223)'
+  - 'Kapitel 13: Wenn einer lacht… (Folge 223)'
+  - 'Kapitel 14: Wenn einer lacht… (Folge 223)'
+  - 'Kapitel 01: Der letzte Djinn (Folge 224)'
+  - 'Kapitel 02: Der letzte Djinn (Folge 224)'
+  - 'Kapitel 03: Der letzte Djinn (Folge 224)'
+  - 'Kapitel 04: Der letzte Djinn (Folge 224)'
+  - 'Kapitel 05: Der letzte Djinn (Folge 224)'
+  - 'Kapitel 06: Der letzte Djinn (Folge 224)'
+  - 'Kapitel 07: Der letzte Djinn (Folge 224)'
+  - 'Kapitel 08: Der letzte Djinn (Folge 224)'
+  - 'Kapitel 09: Der letzte Djinn (Folge 224)'
+  - 'Kapitel 10: Der letzte Djinn (Folge 224)'
+  - 'Kapitel 11: Der letzte Djinn (Folge 224)'
+  - 'Kapitel 12: Der letzte Djinn (Folge 224)'
+  - 'Kapitel 13: Der letzte Djinn (Folge 224)'
+  - 'Kapitel 14: Der letzte Djinn (Folge 224)'
+  ids: []

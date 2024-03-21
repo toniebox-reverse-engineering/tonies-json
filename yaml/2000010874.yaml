@@ -1,0 +1,19 @@
+article: '2000010874'
+lock-data: false
+data:
+- series: Bamse
+  series-id: bamse
+  episode: Bamse og juletroldene
+  release: 1710892800
+  language: da-dk
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/17e74393c1d324abf50e0fb45767ae500fbcd95ecfb3f7f3d330376e/3_1QcnMp7RGs0tVFWQ/bamse_bamse_og_juletroldene_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/e01c2f5e75f42587afc5affc1da0179958c2c988822d33d7586601bb/9788728089781.mp3
+  web: https://tonies.com/de-de/audio-content/bamse/bamse-og-juletroldene/
+  shop-id: 3f792d78-3cad-469b-be02-d0594b983032
+  track-desc:
+  - Chapter 1
+  ids: []

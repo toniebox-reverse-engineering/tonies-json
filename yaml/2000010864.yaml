@@ -1,0 +1,21 @@
+article: '2000010864'
+lock-data: false
+data:
+- series: Historien om bamsebjørnen og den lille drage
+  series-id: historien-om-bamsebjrnen-og-den-lille-drage
+  episode: Historien om bamsebjørnen og den lille drage
+  release: 1710892800
+  language: da-dk
+  category: audio-play
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/a6f1e50ee47105da7398b3fa832fb212070046a3d7f6c48d0d00db58/3_QSLRXfqpNQt.xxXS/historien_om_bamsebjrnen_og_den_lille_drage_his_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/c3fa91227839788ca3e4ef70fea1fc0ecdc2d11e500db0b760b4346f/9788728229682.mp3
+  web: https://tonies.com/de-de/audio-content/historien-om-bamsebjrnen-og-den-lille-drage/historien-om-bamsebjrnen-og-den-lille-drage/
+  shop-id: c21b028d-aba0-44b0-bd4b-9b3692c6e0f1
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  ids: []

@@ -1,0 +1,19 @@
+article: '2000010856'
+lock-data: false
+data:
+- series: Petzi
+  series-id: petzi
+  episode: Rasmus Klump træffer Mutter Ansjos (hørespil)
+  release: 1710892800
+  language: da-dk
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/9e7be2598aee78610796bb1752c67573ad6c5761b7bd10a4e80c515f/3_n42ZltmhCWn~0PJs/rasmus_klump_rasmus_klump_trffer_mutter_ansjos__530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/9c6b652ef1914b4ecafb1350dd316f02cce1b1bc3c67c556a4ca9932/9788726181609.mp3
+  web: https://tonies.com/de-de/audio-content/petzi/rasmus-klump-trffer-mutter-ansjos-hrespil/
+  shop-id: 5e3ea682-d1e6-4cb2-914e-210e2252c32c
+  track-desc:
+  - Chapter 1
+  ids: []

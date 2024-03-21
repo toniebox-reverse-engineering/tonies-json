@@ -1,0 +1,20 @@
+article: '2000010863'
+lock-data: false
+data:
+- series: Bamse
+  series-id: bamse
+  episode: Bamse - En lusket last
+  release: 1710892800
+  language: da-dk
+  category: audio-play
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/31d5b5cec36dd930c923b2331a4af8109ab15f2b9213878edcec6cf1/3_Nt99z3pHRWW3x0J2/bamse_bamse_en_lusket_last_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/a972275bff50bf1576e200355ef86dd824d0ed2f0b97074fb43458d2/9788728089767.mp3
+  web: https://tonies.com/de-de/audio-content/bamse/bamse-en-lusket-last/
+  shop-id: b5f3f669-c39d-4229-88b6-f85550de94cb
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  ids: []

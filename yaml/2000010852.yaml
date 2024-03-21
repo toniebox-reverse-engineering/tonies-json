@@ -1,0 +1,19 @@
+article: '2000010852'
+lock-data: false
+data:
+- series: Petzi
+  series-id: petzi
+  episode: Rasmus Klump som dykker
+  release: 1710892800
+  language: da-dk
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/bba59d76e0fa93483e999bb7a5f3300aa6a86494a9cb00c92af60508/3_mgn.DdN3Y~0MTjFR/rasmus_klump_008_rasmus_klump_som_dykker_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/75bd262d7b8d388818ea82c4575caee76ff247211e5906c37b1ef742/9788711975190.mp3
+  web: https://tonies.com/de-de/audio-content/petzi/rasmus-klump-som-dykker/
+  shop-id: f9e87bb8-d3a2-4c3c-97e5-13ac9cb0a85e
+  track-desc:
+  - Chapter 1
+  ids: []

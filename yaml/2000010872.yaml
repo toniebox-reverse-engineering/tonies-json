@@ -1,0 +1,19 @@
+article: '2000010872'
+lock-data: false
+data:
+- series: Bamse
+  series-id: bamse
+  episode: Bamse og heksens datter
+  release: 1710892800
+  language: da-dk
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/802c96c96a126fdad17d9aaa26ee51ff57b0a2bce065b51bcc3561aa/3_8JgM1nnB.R~_HZfZ/bamse_bamse_og_heksens_datter_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/0f4f718f7d848fdb3905a57b4c8b795cc2a46478abda096c8bfd85b4/9788728089712.mp3
+  web: https://tonies.com/de-de/audio-content/bamse/bamse-og-heksens-datter/
+  shop-id: 730263f5-0db1-4663-8c75-4b47aebf8cfb
+  track-desc:
+  - Chapter 1
+  ids: []

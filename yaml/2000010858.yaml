@@ -1,0 +1,22 @@
+article: '2000010858'
+lock-data: false
+data:
+- series: Bamse
+  series-id: bamse
+  episode: Bamse 2 - Bamse lærer kylling skjul
+  release: 1710892800
+  language: da-dk
+  category: audio-play
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/da9af1d77bc0e5e43436b2041029cd4a51d257374ffc15eab4cfb104/3_FvChcNBfp_hfFyzH/bamse_2_bamse_lrer_kylling_skjul_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/270e7c98c02ff782bd34fd53b7963c9e847343e7d862e6d515a3c69b/9788711393642.mp3
+  web: https://tonies.com/de-de/audio-content/bamse/bamse-2-bamse-lrer-kylling-skjul/
+  shop-id: 804c3528-197e-44a4-b958-1bf7b60b6408
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  ids: []

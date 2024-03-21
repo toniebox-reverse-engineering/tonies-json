@@ -1,0 +1,19 @@
+article: '2000010854'
+lock-data: false
+data:
+- series: Petzi
+  series-id: petzi
+  episode: Rasmus Klump - sjov på slottet (hørespil)
+  release: 1710892800
+  language: da-dk
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: null
+  sample: https://cdn.tonies.de/o/audio_samples/b84ea22ab98ccc6df3abf60daa2cdfae6728a2d8468484d4190dc713/9788726181654.mp3
+  web: https://tonies.com/de-de/audio-content/petzi/rasmus-klump-sjov-pa-slottet-hrespil/
+  shop-id: 4daf5689-3b35-4bab-bc6a-2777f1f77ddd
+  track-desc:
+  - Chapter 1
+  ids: []

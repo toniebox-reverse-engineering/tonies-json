@@ -1,0 +1,27 @@
+article: '2000010853'
+lock-data: false
+data:
+- series: Petzi
+  series-id: petzi
+  episode: De bedste historier med Rasmus Klump
+  release: 1710892800
+  language: da-dk
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/b335926c6734907845d506abaa4297622b60b959edb559caf620e6be/3_3F~L~T9pd2Q8Qy.p/petzi_de_bedste_historier_med_rasmus_klump_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/4366cf6ab0fbe824547967a94ed5279ccaee1d98d12f637ff0db3f39/9788711407325.mp3
+  web: https://tonies.com/de-de/audio-content/petzi/de-bedste-historier-med-rasmus-klump/
+  shop-id: 084031e7-2a40-4ab9-b625-5effb7649d13
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
+  - Chapter 8
+  - Chapter 9
+  ids: []

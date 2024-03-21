@@ -1,0 +1,24 @@
+article: '2000010870'
+lock-data: false
+data:
+- series: Bamse
+  series-id: bamse
+  episode: Bamse 8 - Bamse tryller
+  release: 1710892800
+  language: da-dk
+  category: audio-play
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/42bc432dff8ae9fb7bf85e1fc9a887317086852a9f7d8897d6f1ac9a/3_7DFCnP3bYVvWGZC3/bamse_8_bamse_tryller_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/546086f791eedbcff77f3cae633ae4b02bbd8b89f1133cfdde7ee153/9788711394601.mp3
+  web: https://tonies.com/de-de/audio-content/bamse/bamse-8-bamse-tryller/
+  shop-id: d98c37ac-04a8-41a7-bdb4-c019f63e61f6
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  ids: []

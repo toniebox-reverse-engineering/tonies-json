@@ -1,0 +1,24 @@
+article: '2000010867'
+lock-data: false
+data:
+- series: Bamse
+  series-id: bamse
+  episode: Bamse 7 - Bamse leger brumbasse
+  release: 1710892800
+  language: da-dk
+  category: audio-play
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/fcdf80236d483596b4a46d321bf275334a07147d8914786a9f3d54d6/3_jf2f88_SV.54_Hjd/bamse_7_bamse_leger_brumbasse_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/8fe56417b70dfc28886839b359c0f6e43e698b1f7f4341f1ea60f992/9788711394595.mp3
+  web: https://tonies.com/de-de/audio-content/bamse/bamse-7-bamse-leger-brumbasse/
+  shop-id: 1593e879-3da9-477c-a139-0278e4ce7535
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  ids: []

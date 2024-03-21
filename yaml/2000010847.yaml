@@ -1,0 +1,26 @@
+article: '2000010847'
+lock-data: false
+data:
+- series: Petzi
+  series-id: petzi
+  episode: Otte historier med Rasmus Klump
+  release: 1710892800
+  language: da-dk
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/62510dbe796a97ecc520a187d0be009cbab66867f1d888ad5dab7155/3_QbvsFtlS-stpwD_f/rasmus_klump_otte_historier_med_rasmus_klump_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/3eec1b80926bde066e936586dde08b2dd3f093e7169393ac37433717/9788711407448.mp3
+  web: https://tonies.com/de-de/audio-content/petzi/otte-historier-med-rasmus-klump/
+  shop-id: f3063632-ac67-4ffc-83b1-b4d1d2779762
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
+  - Chapter 8
+  ids: []
