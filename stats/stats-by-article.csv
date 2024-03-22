@@ -303,7 +303,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000205,Creative-Tonie,,Conductor,en-gb,creative-tonie,stock,2fd15152-abff-4b8e-a707-e6db486c9b65,https://tonies.com/de-de///,1,0,0,0
 10000209,Disney,disney,Mulan,de-de,audio-play-songs,stock,936418a2-dc36-461d-81ac-d4e5d650b82e,https://tonies.com/de-de/tonies/disney/mulan/,1,1,1,4
 10000210,Disney,disney,Mulan,en-gb,audio-play-songs,stock,ef321c83-b494-4a4d-a63b-336a9febc720,https://tonies.com/en-gb/tonies/disney/mulan/,1,0,0,0
-10000215,Geschichten vom Löwen,,"Die Geschichte vom Löwen, der nicht schreiben konnte und zwei weitere Löwengeschichten",de-de,audio-book,stock,,,1,1,1,3
+10000215,Geschichten vom Löwen,geschichten-vom-loewen,"Die Geschichte vom Löwen, der nicht schreiben konnte und zwei weitere Löwengeschichten",de-de,audio-book,stock,ce6dde0c-7644-497d-ba37-214098ae4806,https://tonies.com/de-de/tonies/geschichten-vom-loewen/die-geschichte-vom-loewen-der-nicht-schreiben-konnte/,1,1,1,3
 10000223,"Weißt du eigentlich, wie lieb ich dich hab",weisst-du-eigentlich-wie-lieb-ich-dich-hab,"Weißt du eigentlich, wie lieb ich dich hab?",de-de,audio-book-songs,stock,afe9a3eb-e3a1-4124-b78c-271695458cc5,https://tonies.com/de-de/tonies/weisst-du-eigentlich-wie-lieb-ich-dich-hab/weisst-du-eigentlich-wie-lieb-ich-dich-hab/,1,1,1,2
 10000224,Creative-Tonie,,Easter Bunny,en-gb,creative-tonie,stock,,,1,0,0,0
 10000225,Guess How Much I Love You,guess-how-much-i-love-you,Guess How Much I Love You,en-gb,audio-play-songs,stock,78e82d6a-bb4e-4616-9e77-d52ac2422a56,https://tonies.com/en-gb/tonies/guess-how-much-i-love-you/guess-how-much-i-love-you/,1,0,0,0
@@ -4792,6 +4792,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 2000010828,Hania Humorek,hania-humorek,Hania Humorek. Mały detektyw,pl-pl,audio-play,tunes,2626e1ce-ce2b-41a4-bfc8-50822f796176,https://tonies.com/de-de/audio-content/hania-humorek/hania-humorek-may-detektyw/,1,0,0,0
 2000010829,Hania Humorek,hania-humorek,Hania Humorek ratuje świat,pl-pl,audio-play,tunes,b1c65619-4123-4bea-9165-6c93731ef645,https://tonies.com/de-de/audio-content/hania-humorek/hania-humorek-ratuje-swiat/,1,0,0,0
 2000010830,Hania Humorek,hania-humorek,Hania Humorek zostaje gwiazdą,pl-pl,audio-play,tunes,5acb79b0-e11e-416a-92ee-bb3ad908d0ea,https://tonies.com/de-de/audio-content/hania-humorek/hania-humorek-zostaje-gwiazda/,1,0,0,0
+2000010845,Janosch,janosch,"Komm, wir finden einen Schatz",de-de,audio-play,tunes,8a5b5416-1211-44ef-a7a7-4fd37088b70f,https://tonies.com/de-de/audio-content/janosch/komm-wir-finden-einen-schatz/,1,0,0,0
 2000010847,Petzi,petzi,Otte historier med Rasmus Klump,da-dk,audio-play,tunes,f3063632-ac67-4ffc-83b1-b4d1d2779762,https://tonies.com/de-de/audio-content/petzi/otte-historier-med-rasmus-klump/,1,0,0,0
 2000010848,Petzi,petzi,Rasmus Klump PIXI Julekalender,da-dk,audio-play,tunes,c17b9863-f982-4b25-9eb4-264bad87eb41,https://tonies.com/de-de/audio-content/petzi/rasmus-klump-pixi-julekalender/,1,0,0,0
 2000010849,Petzi,petzi,På eventyr med Rasmus Klump - De bedste historier,da-dk,audio-play,tunes,5c7bd5a6-5a59-4c4e-a9a9-e40c56dae7cd,https://tonies.com/de-de/audio-content/petzi/pa-eventyr-med-rasmus-klump-de-bedste-historier/,1,0,0,0
