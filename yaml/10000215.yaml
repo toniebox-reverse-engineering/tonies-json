@@ -2,19 +2,22 @@ article: '10000215'
 lock-data: false
 data:
 - series: Geschichten vom Löwen
-  series-id: null
+  series-id: geschichten-vom-loewen
   episode: Die Geschichte vom Löwen, der nicht schreiben konnte und zwei weitere Löwengeschichten
   release: 1583366400
   language: de-de
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 50
+  age: 4
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000215-50001080-b-w6yCvROZ.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/a2e283158610875c4d9573b300aa0442d133f8d238d8f8a3e51deb54/hoerprobe_geschichten_vom_loewen_der_loewe_der_nicht_schreiben_konnte_ext_neu.mp3
+  web: https://tonies.com/de-de/tonies/geschichten-vom-loewen/die-geschichte-vom-loewen-der-nicht-schreiben-konnte/
+  shop-id: ce6dde0c-7644-497d-ba37-214098ae4806
+  track-desc:
+  - Die Geschichte vom Löwen, der nicht schreiben konnte
+  - Löwenfreunde leben länger
+  - Die Geschichte vom Löwen, der nicht schwimmen konnte
   ids:
   - audio-id: 1582899206
     hash: f9b032b4fb82efa975c2dec114de072874164794
