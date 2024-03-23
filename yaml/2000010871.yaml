@@ -10,7 +10,7 @@ data:
   runtime: 0
   age: 4
   origin: tunes
-  image: null
+  image: https://s3.eu-central-1.amazonaws.com/bxn-octonie-prod-files/images/1_40e6f24ed2da8b08cb758ca78741c2438a1eaa8c42b9da2e4776aa2d/9788711394557.jpg
   sample: https://cdn.tonies.de/o/audio_samples/49cc7a3efe3f76264e8360092aa0f1b70659cfc7112d8f284be9eecf/9788711394557.mp3
   web: https://tonies.com/de-de/audio-content/bamse/bamse-3-bamse-keder-sig/
   shop-id: a9591aa8-baf1-40ae-9ef9-89a83206c299
