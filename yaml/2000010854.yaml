@@ -10,7 +10,7 @@ data:
   runtime: 0
   age: 3
   origin: tunes
-  image: null
+  image: https://s3.eu-central-1.amazonaws.com/bxn-octonie-prod-files/images/1_b9505b60e0aa519d4517ea4da069e25c8dac2569fa57937853a25383/9788726181654.jpg
   sample: https://cdn.tonies.de/o/audio_samples/b84ea22ab98ccc6df3abf60daa2cdfae6728a2d8468484d4190dc713/9788726181654.mp3
   web: https://tonies.com/de-de/audio-content/petzi/rasmus-klump-sjov-pa-slottet-hrespil/
   shop-id: 4daf5689-3b35-4bab-bc6a-2777f1f77ddd
