@@ -1,0 +1,43 @@
+article: '2000010933'
+lock-data: false
+data:
+- series: LEGO DreamZzz
+  series-id: lego-dreamzzz
+  episode: 'Folgen 17-18: Nocturnias Licht'
+  release: 1711584000
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/a03b87926cbe35bb08f24bfe238bf0dfefb03d30646ad2af1d7aa515/3_K-Bv_LrskB.yq~vT/lego_dreamzzz_017_folgen_17_18__nocturnias_lic_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/3d601975088fa290dbcf279ef3d70d452fb2121c9fecd96933b21060/4013575954599_preview.mp3
+  web: https://tonies.com/de-de/audio-content/lego-dreamzzz/folgen-17-18-nocturnias-licht/
+  shop-id: 696e8e2d-58df-463b-8ce8-1aa5a8d9d19d
+  track-desc:
+  - 'Kapitel 01: Nocturnias Licht (Folge 17)'
+  - 'Kapitel 02: Nocturnias Licht (Folge 17)'
+  - 'Kapitel 03: Nocturnias Licht (Folge 17)'
+  - 'Kapitel 04: Nocturnias Licht (Folge 17)'
+  - 'Kapitel 05: Nocturnias Licht (Folge 17)'
+  - 'Kapitel 06: Nocturnias Licht (Folge 17)'
+  - 'Kapitel 07: Nocturnias Licht (Folge 17)'
+  - 'Kapitel 08: Nocturnias Licht (Folge 17)'
+  - 'Kapitel 09: Nocturnias Licht (Folge 17)'
+  - 'Kapitel 10: Nocturnias Licht (Folge 17)'
+  - 'Kapitel 11: Nocturnias Licht (Folge 17)'
+  - 'Kapitel 12: Nocturnias Licht (Folge 17)'
+  - 'Kapitel 13: Nocturnias Licht (Folge 17)'
+  - 'Kapitel 01: Nachtjagd (Folge 18)'
+  - 'Kapitel 02: Nachtjagd (Folge 18)'
+  - 'Kapitel 03: Nachtjagd (Folge 18)'
+  - 'Kapitel 04: Nachtjagd (Folge 18)'
+  - 'Kapitel 05: Nachtjagd (Folge 18)'
+  - 'Kapitel 06: Nachtjagd (Folge 18)'
+  - 'Kapitel 07: Nachtjagd (Folge 18)'
+  - 'Kapitel 08: Nachtjagd (Folge 18)'
+  - 'Kapitel 09: Nachtjagd (Folge 18)'
+  - 'Kapitel 10: Nachtjagd (Folge 18)'
+  - 'Kapitel 11: Nachtjagd (Folge 18)'
+  - 'Kapitel 12: Nachtjagd (Folge 18)'
+  ids: []

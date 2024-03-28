@@ -1,0 +1,42 @@
+article: '2000010932'
+lock-data: false
+data:
+- series: LEGO DreamZzz
+  series-id: lego-dreamzzz
+  episode: 'Folgen 13-14: Die Lieder des Nebels'
+  release: 1711584000
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/f78d6faff3978ee1ed75f2bcba4b4cb3b593962b23eb9f6a6bb7d016/3_cHlD7vNkXWN_Cn03/lego_dreamzzz_013_folgen_13_14__die_lieder_des_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/e4667b020e748918fcc9a624fe770f1ce56560ae964940b064e3d8c5/4013575952922_preview.mp3
+  web: https://tonies.com/de-de/audio-content/lego-dreamzzz/folgen-13-14-die-lieder-des-nebels/
+  shop-id: 43e030f4-6a55-4614-bf45-9c4ed68bc0cf
+  track-desc:
+  - 'Kapitel 01: Die Privatdetektivin (Folge 13)'
+  - 'Kapitel 02: Die Privatdetektivin (Folge 13)'
+  - 'Kapitel 03: Die Privatdetektivin (Folge 13)'
+  - 'Kapitel 04: Die Privatdetektivin (Folge 13)'
+  - 'Kapitel 05: Die Privatdetektivin (Folge 13)'
+  - 'Kapitel 06: Die Privatdetektivin (Folge 13)'
+  - 'Kapitel 07: Die Privatdetektivin (Folge 13)'
+  - 'Kapitel 08: Die Privatdetektivin (Folge 13)'
+  - 'Kapitel 09: Die Privatdetektivin (Folge 13)'
+  - 'Kapitel 10: Die Privatdetektivin (Folge 13)'
+  - 'Kapitel 11: Die Privatdetektivin (Folge 13)'
+  - 'Kapitel 01: Die Lieder des Nebels (Folge 14)'
+  - 'Kapitel 02: Die Lieder des Nebels (Folge 14)'
+  - 'Kapitel 03: Die Lieder des Nebels (Folge 14)'
+  - 'Kapitel 04: Die Lieder des Nebels (Folge 14)'
+  - 'Kapitel 05: Die Lieder des Nebels (Folge 14)'
+  - 'Kapitel 06: Die Lieder des Nebels (Folge 14)'
+  - 'Kapitel 07: Die Lieder des Nebels (Folge 14)'
+  - 'Kapitel 08: Die Lieder des Nebels (Folge 14)'
+  - 'Kapitel 09: Die Lieder des Nebels (Folge 14)'
+  - 'Kapitel 10: Die Lieder des Nebels (Folge 14)'
+  - 'Kapitel 11: Die Lieder des Nebels (Folge 14)'
+  - 'Kapitel 12: Die Lieder des Nebels (Folge 14)'
+  - 'Kapitel 13: Die Lieder des Nebels (Folge 14)'
+  ids: []
