@@ -10,7 +10,7 @@ data:
   runtime: 0
   age: 3
   origin: tunes
-  image: null
+  image: https://s3.eu-central-1.amazonaws.com/bxn-octonie-prod-files/images/1_4e3c00da11d847a75ab872e036c03130fa5efe702c68d179ddd7ef05/9788726259421.jpg
   sample: https://cdn.tonies.de/o/audio_samples/5aaaf3d12ebd3f5a7c86174f2a4b07197c5db92d4b8480357e4b2066/9788726259421.mp3
   web: https://tonies.com/de-de/audio-content/my-little-pony/my-little-pony-12-sma-historier/
   shop-id: 5791ae4e-ccbd-4219-9399-9cdd5e038cbd

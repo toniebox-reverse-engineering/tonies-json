@@ -1,0 +1,36 @@
+article: '2000010949'
+lock-data: false
+data:
+- series: Folgen 11-12
+  series-id: null
+  episode: Fixe Idee
+  release: 1711584000
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 7
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/f3833e4f1b5fc01391028cc1bef307847b8cc72a60019f2e41d019a9/3_~vFW_ZH-Fs0h~lmF/fc_bayern_team_campus_fuball_011_folgen_11__530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/e47db9df170e51cb9e512fc8a7d86c74e7e7c98814fd395ea7cab074/4013575922505_preview.mp3
+  web: https://tonies.com/de-de/audio-content/folgen-11-12-fixe-idee/
+  shop-id: 824af193-cb8a-41f0-8e96-e70ada370011
+  track-desc:
+  - 'Kapitel 01: Fixe Idee (Folge 11)'
+  - 'Kapitel 02: Fixe Idee (Folge 11)'
+  - 'Kapitel 03: Fixe Idee (Folge 11)'
+  - 'Kapitel 04: Fixe Idee (Folge 11)'
+  - 'Kapitel 05: Fixe Idee (Folge 11)'
+  - 'Kapitel 06: Fixe Idee (Folge 11)'
+  - 'Kapitel 07: Fixe Idee (Folge 11)'
+  - 'Kapitel 08: Fixe Idee (Folge 11)'
+  - 'Kapitel 09: Fixe Idee (Folge 11)'
+  - 'Kapitel 01: Teamgeist (Folge 12)'
+  - 'Kapitel 02: Teamgeist (Folge 12)'
+  - 'Kapitel 03: Teamgeist (Folge 12)'
+  - 'Kapitel 04: Teamgeist (Folge 12)'
+  - 'Kapitel 05: Teamgeist (Folge 12)'
+  - 'Kapitel 06: Teamgeist (Folge 12)'
+  - 'Kapitel 07: Teamgeist (Folge 12)'
+  - 'Kapitel 08: Teamgeist (Folge 12)'
+  - 'Kapitel 09: Teamgeist (Folge 12)'
+  ids: []

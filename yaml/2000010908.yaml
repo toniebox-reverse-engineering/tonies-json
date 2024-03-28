@@ -10,7 +10,7 @@ data:
   runtime: 0
   age: 3
   origin: tunes
-  image: null
+  image: https://s3.eu-central-1.amazonaws.com/bxn-octonie-prod-files/images/1_7ef6023802edcc80b5270fcc8050a8e972c7537309e535166edf1397/9788726202335.jpg
   sample: https://cdn.tonies.de/o/audio_samples/0e6b09bdc33cc290f084f2d5ece7eddcd13725689e1bf9406bf91332/9788726202335.mp3
   web: https://tonies.com/de-de/audio-content/my-little-pony/my-little-pony-prinsesse-celestia-og-rejsen-til-mo/
   shop-id: dd0c8604-456f-491c-a4b2-a2dc3c50ef11
