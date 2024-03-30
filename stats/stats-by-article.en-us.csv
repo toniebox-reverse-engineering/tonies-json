@@ -194,13 +194,13 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001786,Peppa Pig,,Peppa's Bedtime Stories,en-us,Tonie,stock,8006996394135,,1,1,1,1
 10001787,Disney,,Lady and the Tramp,en-us,Tonie,stock,8072083144855,,1,1,1,1
 10001788,Disney,,Tigger,en-us,Tonie,stock,8057957810327,,1,1,1,1
-10001789,Peter & the Wolf,,,en-us,Tonie,stock,8134566903959,,1,0,0,0
+10001789,Peter & the Wolf,,,en-us,Tonie,stock,8134566903959,,1,1,1,1
 10001826,LeVar Burton,,,en-us,Tonie,stock,6978548727959,,1,1,1,1
 10001830,Word Party Presents,,Math!,en-us,Tonie,stock,8007349731479,,1,1,1,1
 10001870,Pete the Cat,,Rock On!,en-us,Tonie,stock,7806556897431,,1,1,1,1
 10001871,Disney & Pixar,,Soul,en-us,Tonie,stock,8134366855319,,1,1,1,1
 10001872,PAW Patrol,,Everest,en-us,Tonie,stock,7926752051351,,1,1,1,1
-10001892,Disney & Pixar,,Toy Story 3 & 4: Jessie,en-us,Tonie,stock,8143489892503,,1,0,0,0
+10001892,Disney & Pixar,,Toy Story 3 & 4: Jessie,en-us,Tonie,stock,8143489892503,,1,1,1,1
 10001900,Yoohoo to the Rescue,,Pammee,en-us,Tonie,stock,7953348034711,,1,1,1,1
 10002001,Worldwide Tales,,West African Tales,en-us,Tonie,stock,7907849568407,,1,1,1,1
 10002030,The Little Engine That Could,,,en-us,Tonie,stock,7953347248279,,1,1,1,1
@@ -209,7 +209,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10002048,PAW Patrol,,Rex,en-us,Tonie,stock,8016774168727,,1,1,1,1
 10002049,PAW Patrol,,Rocky,en-us,Tonie,stock,7927272964247,,1,1,1,1
 10002050,PAW Patrol,,Zuma,en-us,Tonie,stock,8016774693015,,1,1,1,1
-10002097,Favorite Classics,,The Wonderful Wizard of Oz,en-us,Tonie,stock,8143489269911,,1,0,0,0
+10002097,Favorite Classics,,The Wonderful Wizard of Oz,en-us,Tonie,stock,8143489269911,,1,1,1,1
 10002102,The Lion Inside,,,en-us,Tonie,stock,7984531996823,,1,1,1,1
 10002103,Sleepy Friends,,Bedtime Stories with Sleepy Bear,en-us,Tonie,stock,7912828829847,,1,1,1,1
 10002104,Sleepy Friends,,Classical Music with Sleepy Rabbit,en-us,Tonie,stock,7926741532823,,1,1,1,1
@@ -231,12 +231,12 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000220,Miffy,,,en-us,Tonie,stock,7940552360087,,1,1,1,1
 11000222,Octonauts,,Kwazii,en-us,Tonie,stock,8031614369943,,1,1,1,1
 11000223,Yoga,,,en-us,Tonie,stock,8134363644055,,1,1,1,1
-11000228,Blippi,,,en-us,Tonie,stock,8134562676887,,1,0,0,0
+11000228,Blippi,,,en-us,Tonie,stock,8134562676887,,1,1,1,1
 11000229,Care Bears,,Funshine Bear,en-us,Tonie,stock,8134562447511,,1,1,1,1
 11000234,Care Bears,,Cheer Bear,en-us,Tonie,stock,8134562513047,,1,1,1,1
 11000244,Tiny Chef,,,en-us,Tonie,stock,8085915074711,,1,1,1,1
 11000245,Dino Ranch,,,en-us,Tonie,stock,8057958105239,,1,1,1,1
-11000264,Carmen Sandiego,,,en-us,Tonie,stock,8134562775191,,1,0,0,0
+11000264,Carmen Sandiego,,,en-us,Tonie,stock,8134562775191,,1,1,1,1
 11000266,PAW Patrol,,Tracker,en-us,Tonie,stock,8081283317911,,1,1,1,1
 11000358,Marvel's Spidey and His Amazing Friends,,Ghost-Spider,en-us,Tonie,stock,8072395915415,,1,2,1,1
 11000359,Marvel's Spidey and His Amazing Friends,,Spin,en-us,Tonie,stock,8072395817111,,1,2,1,1
@@ -253,7 +253,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000709,Clever Tonies Set,,Kid Comedy,en-us,Tonie,stock,8076776112279,,1,8,8,4
 11000710,Clever Tonies Set,,Inventions and Innovation,en-us,Tonie,stock,8076775555223,,1,8,8,4
 11000712,Clever Tonies Set,,Gentle Giant Dinosaurs,en-us,Tonie,stock,8076776341655,,1,8,8,4
-11000859,Clever Tonies Set,,Cool Jobs,en-us,Tonie,stock,8134563299479,,1,0,0,0
+11000859,Clever Tonies Set,,Cool Jobs,en-us,Tonie,stock,8134563299479,,1,4,4,4
 11000886,Clever Tonies Set,,Cool Jobs,en-us,Tonie,stock,8134563299479,,1,0,0,0
 box-en-us-02-00000000,System sounds en-us,system-en-us,Jingle (Startup),en-us,system,stock,,,1,1,1,1
 box-en-us-02-00000001,System sounds en-us,system-en-us,,en-us,system,stock,,,1,1,1,1
