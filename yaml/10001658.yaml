@@ -16,4 +16,9 @@ data:
   shop-id: 4a076ecb-039a-48be-ac1b-036573133d78
   track-desc:
   - Astérix Légionnaire
-  ids: []
+  ids:
+  - audio-id: 1677759596
+    hash: 0ada4938621cd998e79ad8f95ca46767772efab6
+    size: 33602995
+    tracks: 4
+    confidence: 1

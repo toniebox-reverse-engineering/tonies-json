@@ -16,4 +16,9 @@ data:
   shop-id: 30600395-3612-4402-8a09-cf05db19911f
   track-desc:
   - La Grande Schtroumpfette
-  ids: []
+  ids:
+  - audio-id: 1668170255
+    hash: aef843a052a921b95eb25a8fb2ac6c2f3510f409
+    size: 51222070
+    tracks: 5
+    confidence: 1

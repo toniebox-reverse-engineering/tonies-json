@@ -21,4 +21,9 @@ data:
   - Le livre qui dit tout (Partie 4)
   - Comment parler le schtroumpf ? (Partie 1)
   - Comment parler le schtroumpf ? (Partie 2)
-  ids: []
+  ids:
+  - audio-id: 1686554542
+    hash: e9a65e8a8812ce08d24159fe1f14739310e7052d
+    size: 64012974
+    tracks: 6
+    confidence: 1

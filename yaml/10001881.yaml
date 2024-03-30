@@ -31,4 +31,9 @@ data:
   - Hush Little Baby
   - At the Zoo
   - My Little Lamb
-  ids: []
+  ids:
+  - audio-id: 1662123655
+    hash: 42e152d09c66335b272487340cfbcee1811c7c43
+    size: 35405060
+    tracks: 16
+    confidence: 1

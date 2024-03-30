@@ -20,4 +20,9 @@ data:
   - Le Schtroumpfeur Masqué
   - Puppy et les Schtroumpfs
   - Les farces du Schtroumpf Farceur
-  ids: []
+  ids:
+  - audio-id: 1668163172
+    hash: 135a784e75fd2dbf322ae8280555313a4f8b5675
+    size: 44112195
+    tracks: 5
+    confidence: 1

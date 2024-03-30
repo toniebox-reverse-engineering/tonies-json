@@ -20,4 +20,9 @@ data:
   - Lucy Maud Montgomery - Anne of Green Gables
   - Charles Dickens - Oliver Twist
   - Jules Verne - Journey to the Center of the Earth
-  ids: []
+  ids:
+  - audio-id: 1571391651
+    hash: 70a63e1f0c66498f4464d1f8fb21770d2e72b845
+    size: 75161836
+    tracks: 5
+    confidence: 1

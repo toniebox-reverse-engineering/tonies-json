@@ -29,7 +29,12 @@ data:
   - All Around the Kitchen
   - Train is Coming
   - Home on the Range
-  ids: []
+  ids:
+  - audio-id: 1673542535
+    hash: d2b04d659962ed61e11528680c871c5dbf2c1f6e
+    size: 34012829
+    tracks: 14
+    confidence: 1
 - series: Favourite Children’s Songs
   series-id: null
   episode: Travelling Songs (relaunch)

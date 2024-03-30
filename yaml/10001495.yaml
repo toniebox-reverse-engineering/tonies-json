@@ -18,4 +18,9 @@ data:
   - Introduction
   - Comme au bon vieux temps
   - Un objet d'art
-  ids: []
+  ids:
+  - audio-id: 1671185913
+    hash: 2b5c0dda794deac17729ba1c7307b6f00d8feefa
+    size: 39508850
+    tracks: 3
+    confidence: 1

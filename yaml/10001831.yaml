@@ -21,4 +21,9 @@ data:
   - Schtroumpf vert et vert Schtroumpf (Partie 1)
   - Schtroumpf vert et vert Schtroumpf (Partie 2)
   - Schtroumpf vert et vert Schtroumpf (Partie 3)
-  ids: []
+  ids:
+  - audio-id: 1685950202
+    hash: 52e2f7e9a4fd08b7afbe93c708ab42df2e39ee60
+    size: 69881147
+    tracks: 6
+    confidence: 1

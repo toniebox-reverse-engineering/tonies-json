@@ -35,4 +35,9 @@ data:
   - Fais dodo mon petit Pierrot
   - Un petit grain d'or
   - Brille, brille, petite étoile
-  ids: []
+  ids:
+  - audio-id: 1621611281
+    hash: da7ff7a29c0d691729faf53eb3bb32bf70fcbbfa
+    size: 33456427
+    tracks: 20
+    confidence: 1

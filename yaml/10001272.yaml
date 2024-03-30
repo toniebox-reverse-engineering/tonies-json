@@ -16,4 +16,9 @@ data:
   shop-id: f57fea92-4b7c-4e02-9713-9ab452d30374
   track-desc:
   - Astérix Et La Serpe D'Or
-  ids: []
+  ids:
+  - audio-id: 1666270678
+    hash: d53f52e3f3242251f9c67242abd1b92bde678fbf
+    size: 29027435
+    tracks: 3
+    confidence: 1

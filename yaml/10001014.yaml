@@ -16,4 +16,9 @@ data:
   shop-id: a542033a-7c62-485a-96a7-3ade5246aeb1
   track-desc:
   - Astérix le Gaulois
-  ids: []
+  ids:
+  - audio-id: 1629901856
+    hash: 915f107d88d1591a1d6dadb916b1022b4bf7ba47
+    size: 29376728
+    tracks: 3
+    confidence: 1

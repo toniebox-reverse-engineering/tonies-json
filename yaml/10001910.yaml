@@ -25,4 +25,9 @@ data:
   - Chapitre 7 - Aux portes de Paris
   - Chapitre 8 - L'heure des révélations
   - Chapitre 9 - Les débuts d'Arsène Lupin
-  ids: []
+  ids:
+  - audio-id: 1701433700
+    hash: e21a4fbffa08a6b5af92ac0e32b73c2756f6ad51
+    size: 47786217
+    tracks: 10
+    confidence: 1

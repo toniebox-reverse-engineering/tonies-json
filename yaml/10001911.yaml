@@ -38,4 +38,9 @@ data:
   - Se reposer
   - Va dormir 🎵
   - Au revoir
-  ids: []
+  ids:
+  - audio-id: 1703847388
+    hash: 1ec69fae9dfab4f48b9fda30ed10ef9a006ebb28
+    size: 33478866
+    tracks: 23
+    confidence: 1

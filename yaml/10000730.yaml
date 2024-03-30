@@ -19,4 +19,9 @@ data:
   - 11–18 Pups Save a Tightrope Walker
   - 19–27 Pups Save a Goldrush
   - 28–35 Pups Save the PAW Patroller
-  ids: []
+  ids:
+  - audio-id: 1624345748
+    hash: dc931b72cfb80038529e463c85eb10a78f280edb
+    size: 40063521
+    tracks: 35
+    confidence: 1
