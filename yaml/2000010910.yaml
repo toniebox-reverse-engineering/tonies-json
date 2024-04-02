@@ -10,7 +10,7 @@ data:
   runtime: 0
   age: 3
   origin: tunes
-  image: null
+  image: https://cdn.tonies.de/o/images/3372d81b1e5f9057e0d60878303a9a507ec3cc743825fabd830cb4f1/3_wRsvDcDjlghkYhcf/my_little_pony_my_little_pony_equestria_girls__530x530.jpg
   sample: https://cdn.tonies.de/o/audio_samples/8d8f3ffcc0f21b6d44c73a8fa6d78df91b3c19450c57081a7fdee628/9788726259438.mp3
   web: https://tonies.com/de-de/audio-content/my-little-pony/my-little-pony-equestria-girls-twilight-sparkle-og/
   shop-id: 0571c037-b7c4-4498-8b4e-1cbe416cf647
