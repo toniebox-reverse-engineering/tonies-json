@@ -1,0 +1,22 @@
+article: '11000758'
+lock-data: false
+data:
+- series: Mes Contes Préférés
+  series-id: mes-contes-preferes
+  episode: Le Chat Botté Et 3 Autres Contes
+  release: 1712188800
+  language: fr-fr
+  category: audio-play
+  runtime: 60
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/50006309-Tonie_Shado-F7Mk0ZlW.png
+  sample: https://cdn.tonies.de/o/audio_samples/a81e7dbcd2eca756875e61570671e86a821f41fdb441bd5becb73535/le_chat_botte_extrait_mp3.mp3
+  web: https://tonies.com/fr-fr/tonies/mes-contes-preferes/le-chat-botte-et-3-autres-contes/
+  shop-id: ae9e38eb-0b17-49ec-80ec-825e1d81daba
+  track-desc:
+  - Le Chat Botté
+  - Le Petit Poucet
+  - Les habits neufs de l'empereur
+  - Jack et le haricot magique
+  ids: []

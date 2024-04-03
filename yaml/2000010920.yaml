@@ -10,7 +10,7 @@ data:
   runtime: 0
   age: 3
   origin: tunes
-  image: null
+  image: https://cdn.tonies.de/o/images/17af336357bf1a14ffa6a25b298f592e420cf05feeb1551634516395/3_bfTjtrBJYjyhBlT9/my_little_pony_my_little_pony_historien_fra_fi_530x530.jpg
   sample: https://cdn.tonies.de/o/audio_samples/c3c70a5527ea5ed80e5aa982e1a8392d82ff4c10c370b26cadc595a9/9788726259490.mp3
   web: https://tonies.com/de-de/audio-content/my-little-pony/my-little-pony-historien-fra-filmen-venskabsfestiv/
   shop-id: 50ee8aaa-dca6-460e-baa9-6217fe47f87c

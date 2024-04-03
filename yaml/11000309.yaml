@@ -1,0 +1,26 @@
+article: '11000309'
+lock-data: false
+data:
+- series: Contes Des 7 Secrets
+  series-id: tales-secrets-2
+  episode: Contes Des 7 Secrets
+  release: 1712188800
+  language: fr-fr
+  category: audio-book
+  runtime: 114
+  age: 7
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51001022-Tonie_Shado-UbvLze06.png
+  sample: https://cdn.tonies.de/o/audio_samples/d212fe8ebc1ab5c02cdb735767d518374c98aa6d871aa472d19c50c8/00_contes_des_sept_secrets_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/tales-secrets-2/contes-des-7-secrets/
+  shop-id: df3019b5-074e-439d-9510-92b937dcd225
+  track-desc:
+  - Introduction
+  - Le secret de Mercedes
+  - Le secret du feu
+  - Papa Long Nez
+  - L'homme dans la barque
+  - Le secret de Bellina
+  - Le secret de Clarinha
+  - Les talons rouges
+  ids: []

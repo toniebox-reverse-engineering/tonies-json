@@ -1,0 +1,25 @@
+article: '10001957'
+lock-data: false
+data:
+- series: Scooby-Doo!
+  series-id: scooby-doo
+  episode: Scooby-Doo
+  release: 1712188800
+  language: fr-fr
+  category: audio-play
+  runtime: 83
+  age: 6
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/50003543-Tonie_Shado-X_3y_ChN.png
+  sample: https://cdn.tonies.de/o/audio_samples/a9658a2b24825bd7df92959e6a8d37fac18a4735ba0a624fa0fff92f/01_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/scooby-doo/scooby-doo/
+  shop-id: c6e7794a-1780-472e-9361-55cdacebd2ee
+  track-desc:
+  - Présentation du Scooby-Gang
+  - Insectes pas nets
+  - Cauchemar au restaurant
+  - Enfin les vacances !
+  - Joyeux anniversaire Fred
+  - Panique à la clinique vétérinaire
+  - Conclusion
+  ids: []
