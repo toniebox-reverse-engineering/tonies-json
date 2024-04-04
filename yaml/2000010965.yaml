@@ -1,0 +1,41 @@
+article: '2000010965'
+lock-data: false
+data:
+- series: LEGO Friends
+  series-id: lego-friends
+  episode: 'Folgen 99-100: Das Herz von Heartlake'
+  release: 1712102400
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/127df16fe5d219262e272166612c166534669ebcae277dcebe2809f0/3_DJJBz7CMHCmGxZyh/lego_friends_099_folgen_99_100__das_herz_von_h_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/34560f1d300fd97c64cdede9979ab85b427d7666125340c6c86ba01b/4013575953868_preview.mp3
+  web: https://tonies.com/de-de/audio-content/lego-friends/folgen-99-100-das-herz-von-heartlake/
+  shop-id: d6417ae0-6aeb-43c7-8077-1e4d5e16242f
+  track-desc:
+  - LEGO Friends Lied (Das nächste Kapitel)
+  - 'Kapitel 01: Welpengewusel (Folge 99)'
+  - 'Kapitel 02: Welpengewusel (Folge 99)'
+  - 'Kapitel 03: Welpengewusel (Folge 99)'
+  - 'Kapitel 04: Welpengewusel (Folge 99)'
+  - 'Kapitel 05: Welpengewusel (Folge 99)'
+  - 'Kapitel 06: Welpengewusel (Folge 99)'
+  - 'Kapitel 07: Welpengewusel (Folge 99)'
+  - 'Kapitel 08: Welpengewusel (Folge 99)'
+  - 'Kapitel 09: Welpengewusel (Folge 99)'
+  - 'Kapitel 10: Welpengewusel (Folge 99)'
+  - 'Kapitel 11: Welpengewusel (Folge 99)'
+  - 'Kapitel 01: Das Herz von Heartlake (Folge 100)'
+  - 'Kapitel 02: Das Herz von Heartlake (Folge 100)'
+  - 'Kapitel 03: Das Herz von Heartlake (Folge 100)'
+  - 'Kapitel 04: Das Herz von Heartlake (Folge 100)'
+  - 'Kapitel 05: Das Herz von Heartlake (Folge 100)'
+  - 'Kapitel 06: Das Herz von Heartlake (Folge 100)'
+  - 'Kapitel 07: Das Herz von Heartlake (Folge 100)'
+  - 'Kapitel 08: Das Herz von Heartlake (Folge 100)'
+  - 'Kapitel 09: Das Herz von Heartlake (Folge 100)'
+  - 'Kapitel 10: Das Herz von Heartlake (Folge 100)'
+  - 'Kapitel 11: Das Herz von Heartlake (Folge 100)'
+  ids: []
