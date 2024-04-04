@@ -1,0 +1,19 @@
+article: '10001323'
+lock-data: false
+data:
+- series: The Dinosaur That Pooped
+  series-id: the-dinosaur-that-pooped
+  episode: The Dinosaur That Pooped Collection
+  release: 1713744000
+  language: en-gb
+  category: audio-book
+  runtime: 41
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/10001323_PDP2-K8SPV8Qx.png
+  sample: null
+  web: https://tonies.com/en-gb/tonies/the-dinosaur-that-pooped/the-dinosaur-that-pooped-collection/
+  shop-id: d6412898-ee0e-41ce-8651-26e417f63221
+  track-desc:
+  - Dinosaur that Poooped
+  ids: []

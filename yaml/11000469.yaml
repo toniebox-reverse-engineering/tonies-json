@@ -1,0 +1,28 @@
+article: '11000469'
+lock-data: false
+data:
+- series: The Worst Witch
+  series-id: the-worst-witch
+  episode: The Worst Witch
+  release: 1713744000
+  language: en-gb
+  category: audio-book
+  runtime: 66
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11000469_PDP2-Ppn9brBM.png
+  sample: https://cdn.tonies.de/o/audio_samples/a1c6fd26aa705e4fad37aa490fb2403758e0d1e42f3d44eec38abc2c/11000469_the_worst_witch_sample.wav
+  web: https://tonies.com/en-gb/tonies/the-worst-witch/the-worst-witch/
+  shop-id: 96d0e743-350c-4a61-b947-5f70fecf457e
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
+  - Chapter 8
+  - Chapter 9
+  - Chapter 10
+  ids: []

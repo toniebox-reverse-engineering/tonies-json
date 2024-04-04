@@ -1,0 +1,22 @@
+article: '10001516'
+lock-data: false
+data:
+- series: Marvel
+  series-id: marvel
+  episode: 'Spidey & His Amazing Friends: Black Panther'
+  release: 1713484800
+  language: en-gb
+  category: audio-play
+  runtime: 36
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/10001516_PDP2-80pSDK2_.png
+  sample: https://cdn.tonies.de/o/audio_samples/ecef457566e560c09f5f4b5e0d7c3a1ba296d886581da0b3fde33570/10001516_black_panther_sample.wav
+  web: https://tonies.com/en-gb/tonies/marvel/spidey-his-amazing-friends-black-panther/
+  shop-id: cd8459d2-6abc-494c-ac40-dc911fd0a653
+  track-desc:
+  - Marvel's Spidey and His Amazing Friends Theme
+  - Webs Up
+  - Spidey’s Don’t Give Up
+  - Spidey and His Amazing Friends – Going Green Storyteller
+  ids: []
