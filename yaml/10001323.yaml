@@ -11,7 +11,7 @@ data:
   age: 3
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/10001323_PDP2-K8SPV8Qx.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/db5c7c302676f81d676dfbe935372034a73916a27cd0a139379c1b22/10001323_dinosaur_that_pooped_sample.wav
   web: https://tonies.com/en-gb/tonies/the-dinosaur-that-pooped/the-dinosaur-that-pooped-collection/
   shop-id: d6412898-ee0e-41ce-8651-26e417f63221
   track-desc:
