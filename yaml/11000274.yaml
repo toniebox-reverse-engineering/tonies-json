@@ -1,0 +1,24 @@
+article: '11000274'
+lock-data: false
+data:
+- series: Ohrenbär
+  series-id: ohrenbaer
+  episode: Mulles Zaubersteinchen
+  release: 0
+  language: de-de
+  category: audio-book
+  runtime: 37
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11000274_1_a-8AnUGO17.png
+  sample: https://cdn.tonies.de/o/audio_samples/bfe0c649754ab5c3e7dbb2335a846a5cfb6392198e8dafa48732fee2/hoerprobe_11000274_ohrenbar_mulles_zaubersteinchen.mp3
+  web: https://tonies.com/de-de/tonies/ohrenbaer/mulles-zaubersteinchen/
+  shop-id: 2b81a78f-db3a-4c7f-b650-944ec5156a6d
+  track-desc:
+  - Intro
+  - Große, dicke Trolle – gibt es die? - Folge 1
+  - Eine Falle für den Troll - Folge 2
+  - Stachelbeerburger und Stachelbeerbeine - Folge 3
+  - Ein Zuhause für Mulle - Folge 4
+  - Outro
+  ids: []

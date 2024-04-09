@@ -11,7 +11,7 @@ data:
   age: 3
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11000260_PDP2-0OogFGJa.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/1171843f6c5ae5cff8b6ca950e39789d2ac8a79c4c816706d41e7dac/11000260_lwp_sample.wav
   web: https://tonies.com/en-gb/tonies/peppa-pig/learn-with-peppa-pig/
   shop-id: 39e809ed-b755-4cef-b8b8-e886cbb6e677
   track-desc:
