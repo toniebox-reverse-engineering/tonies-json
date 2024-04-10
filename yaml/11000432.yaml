@@ -15,5 +15,10 @@ data:
   web: https://tonies.com/de-de/tonies/disney/hercules/
   shop-id: 7874a5c0-def3-4663-b093-5421a8884c9d
   track-desc:
-  - '06: Hercules'
+  - 'Kapitel 01: Hercules'
+  - 'Kapitel 02: Hercules'
+  - 'Kapitel 03: Hercules'
+  - 'Kapitel 04: Hercules'
+  - 'Kapitel 05: Hercules'
+  - 'Kapitel 06: Hercules'
   ids: []
