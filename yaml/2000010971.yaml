@@ -1,0 +1,21 @@
+article: '2000010971'
+lock-data: false
+data:
+- series: Mascha und der Bär
+  series-id: mascha-und-der-baer
+  episode: Masha ja Karhu - Supersankari Masha ja talvirieha
+  release: 1712707200
+  language: fi-fi
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/ed9ff463789423660e84180104b94dd8fcbce8f0f94524c22312f08f/3_bGJ68Zmlsk89dLY3/masha_ja_karhu_003_masha_ja_karhu_supersanka_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/d8d6aff2927864e892ce26a1c1d6d94981ee9938f685b146dca78d11/9788726694635.mp3
+  web: https://tonies.com/de-de/audio-content/mascha-und-der-baer/masha-ja-karhu-supersankari-masha-ja-talvirieha/
+  shop-id: 395b8bd4-7fb7-426b-a371-f68b345bccf6
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  ids: []

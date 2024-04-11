@@ -1,0 +1,27 @@
+article: '2000010970'
+lock-data: false
+data:
+- series: Mascha und der Bär
+  series-id: mascha-und-der-baer
+  episode: Masha ja Karhu - Metkuja metsässä
+  release: 1712707200
+  language: fi-fi
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/08112fb30747923f834bca0acc10d5cc48cb8ed3ae96d5e7b6a9a7bd/3_bXJ~r0TM9-3vd1mY/masha_ja_karhu_002_masha_ja_karhu_metkuja_me_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/962690b55c9c37aac1b9c5673288bdff8c2306031d87b40017f2fc3d/9788726694642.mp3
+  web: https://tonies.com/de-de/audio-content/mascha-und-der-baer/masha-ja-karhu-metkuja-metsassa/
+  shop-id: b6fcda01-0804-4e73-90ad-5d814b941c89
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
+  - Chapter 8
+  - Chapter 9
+  ids: []

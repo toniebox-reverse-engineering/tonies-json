@@ -1,0 +1,24 @@
+article: '2000010969'
+lock-data: false
+data:
+- series: Mascha und der Bär
+  series-id: mascha-und-der-baer
+  episode: Masha ja Karhu - Tarinoita puumajasta
+  release: 1712707200
+  language: fi-fi
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/d0dbf196154a0013afeb5d09c54b090762220c240efb010af5aa0937/3_r3vPmqrrqKsgvPlg/masha_ja_karhu_001_masha_ja_karhu_tarinoita__530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/bf769fde693b3f55e5c3c149cc0476686dcbf41035ddab0a7d7768af/9788726694659.mp3
+  web: https://tonies.com/de-de/audio-content/mascha-und-der-baer/masha-ja-karhu-tarinoita-puumajasta/
+  shop-id: 6c866cf5-fd46-4113-83a9-6cdaf3bc1f60
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  ids: []
