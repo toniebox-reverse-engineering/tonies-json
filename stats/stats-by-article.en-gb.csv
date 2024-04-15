@@ -42,7 +42,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000112,Favourite Children’s Songs,,Birthday Songs,en-gb,music,stock,,,1,1,1,1
 10000113,Creative-Tonie,,Sweetheart,en-gb,creative-tonie,stock,b910395d-d5f6-47e7-a962-5b2c859dc789,https://tonies.com/de-de///,1,1,0,0
 10000120,Disney,disney,Aladdin,en-gb,audio-play-songs,stock,3fb45ef9-0171-4a9a-bfba-570427165486,https://tonies.com/en-gb/tonies/disney/aladdin/,1,0,0,0
-10000152,Disney,disney,Frozen,en-gb,audio-play-songs,stock,d4762725-9012-4316-8b01-99fa6c3dc819,https://tonies.com/en-gb/tonies/disney/frozen/,1,1,1,1
+10000152,Disney,disney,Frozen,en-gb,audio-play-songs,stock,d4762725-9012-4316-8b01-99fa6c3dc819,https://tonies.com/en-gb/tonies/disney/frozen/,1,1,1,2
 10000153,Disney,disney,Toy Story,en-gb,audio-play-songs,stock,b782c73c-378d-4780-a1ff-2c51f784f14b,https://tonies.com/en-gb/tonies/disney/toy-story/,1,2,1,1
 10000159,Creative-Tonie,,Builder,en-gb,creative-tonie,stock,356f8cd4-a58a-4d5c-9422-7696b0c6fda2,https://tonies.com/de-de///,1,0,0,0
 10000160,Favourite Children’s Songs,,Animal Songs,en-gb,audio-play,stock,,,1,1,1,3
@@ -73,7 +73,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000251,Favourite Children’s Songs,,Playtime and Action Songs 2,en-gb,music,stock,,,1,1,1,1
 10000252,Favourite Tales,favourite-tales,Puss in Boots and other fairy tales,en-gb,audio-book,stock,91a59dd3-b50e-42b0-b4c3-f739b8bde93d,https://tonies.com/en-gb/tonies/favourite-tales/puss-in-boots-and-other-fairy-tales/,1,1,1,1
 10000267,Creative-Tonie,,Sleepy,en-gb,creative-tonie,stock,,,1,0,0,0
-10000269,Disney,disney,Finding Nemo,en-gb,audio-play-songs,stock,a8efa096-8af8-468a-8d09-faf7bc148d0e,https://tonies.com/en-gb/tonies/disney/finding-nemo/,1,1,1,3
+10000269,Disney,disney,Finding Nemo,en-gb,audio-play-songs,stock,a8efa096-8af8-468a-8d09-faf7bc148d0e,https://tonies.com/en-gb/tonies/disney/finding-nemo/,1,1,1,5
 10000270,Favourite Children's Songs,favourite-children-s-songs,European Children's Songs,en-gb,music,stock,f89ef566-e3de-4f1a-aca4-93c9a53e0c65,https://tonies.com/en-gb/tonies/favourite-children-s-songs/european-childrens-songs/,1,1,1,1
 10000271,Favourite Masterpieces,favourite-masterpieces,Hansel and Gretel,en-gb,audio-play-songs,stock,8fd0afbd-0c3c-4c29-b0e1-8573d88a2ca3,https://tonies.com/en-gb/tonies/favourite-masterpieces/hansel-and-gretel/,1,1,1,1
 10000273,Peter Rabbit,peter-rabbit,The Peter Rabbit Collection,en-gb,audio-book,stock,92b11bf7-5357-430b-bd4c-df794c197263,https://tonies.com/en-gb/tonies/peter-rabbit/the-peter-rabbit-collection/,1,1,0,0
@@ -277,7 +277,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000237,Care Bears,care-bears-2,Cheer Bear,en-gb,audio-play-songs,stock,39a3a614-4d62-429a-9661-f6f9b2917c0b,https://tonies.com/en-gb/tonies/care-bears-2/cheer-bear/,1,0,0,0
 11000254,Paw Patrol,paw-patrol,Tracker,en-gb,audio-play,stock,12e48faa-ff7d-4e3f-9cbe-9bb269e7dbff,https://tonies.com/en-gb/tonies/paw-patrol/tracker/,1,0,0,0
 11000260,Peppa Pig,peppa-pig,Learn With Peppa Pig,en-gb,audio-play-educational,stock,39e809ed-b755-4cef-b8b8-e886cbb6e677,https://tonies.com/en-gb/tonies/peppa-pig/learn-with-peppa-pig/,1,0,0,0
-11000360,Octonauts,octonauts,Peso,en-gb,audio-play-songs,stock,9d3c57c1-4b23-4ef7-b78b-a02fabd6ed89,https://tonies.com/en-gb/tonies/octonauts/peso/,1,1,0,0
+11000360,Octonauts,octonauts,Peso,en-gb,audio-play-songs,stock,9d3c57c1-4b23-4ef7-b78b-a02fabd6ed89,https://tonies.com/en-gb/tonies/octonauts/peso/,1,1,1,2
 11000364,Rachel Bright Series,rachel-bright-series,The Koala Who Could - Three-Book Collection,en-gb,audio-book,stock,dedd7cc0-4ad8-436b-a501-f30061b07643,https://tonies.com/en-gb/tonies/rachel-bright-series/the-koala-who-could-three-book-collection/,1,0,0,0
 11000401,Marvel,marvel,Spidey & His Amazing Friends: Spin (Miles Morales),en-gb,audio-play-songs,stock,60dc443b-7510-490e-ba6d-dee7a8de568b,https://tonies.com/en-gb/tonies/marvel/spidey-friends-spin-miles-morales/,1,1,1,1
 11000402,Marvel,marvel,Spidey & His Amazing Friends: Ghost-Spider,en-gb,audio-play-songs,stock,a92a2417-8fdf-49d2-bf58-7a7e4614d18c,https://tonies.com/en-gb/tonies/marvel/spidey-his-amazing-friends-ghost-spider/,1,1,1,1
