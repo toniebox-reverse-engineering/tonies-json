@@ -38,11 +38,6 @@ data:
   - Fuchs, du hast die Gans gestohlen
   - Die Vogelhochzeit
   ids:
-  - audio-id: 1679477095
-    hash: 46724aa09569dcf9b0eb56b7d526ac4775a1a198
-    size: 0
-    tracks: 0
-    confidence: 0
   - audio-id: 1632997351
     hash: 9739cac9da1253d92072a9153760b6610a511985
     size: 39807008
