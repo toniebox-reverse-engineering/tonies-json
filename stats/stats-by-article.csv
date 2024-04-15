@@ -77,7 +77,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 01-0111,Bibi Blocksberg,,Der Affe ist los,de-de,audio-play,stock,,,1,1,1,4
 01-0112,Anne Kaffeekanne,anne-kaffeekanne,"12 Lieder zum Singen, Spielen und Tanzen",de-de,music,stock,7adb2da1-b21f-4a3c-9b48-786756325772,https://tonies.com/de-de/tonies/anne-kaffeekanne/12-lieder-zum-singen-spielen-und-tanzen/,1,2,1,2
 01-0113,Bibi & Tina,bibi-tina,Der verschwundene Pokal,de-de,audio-play,stock,6c2bb94f-7a7d-42a6-9edd-1025d78946b5,https://tonies.com/de-de/tonies/bibi-tina/der-verschwundene-pokal/,1,1,1,3
-01-0114,Bibi & Tina,bibi-tina,Die Waschbären sind los,de-de,audio-play,stock,12cef1e0-2972-40b5-b9c7-df586ad99a8b,https://tonies.com/de-de/tonies/bibi-tina/die-waschbaeren-sind-los/,1,1,0,1
+01-0114,Bibi & Tina,bibi-tina,Die Waschbären sind los,de-de,audio-play,stock,12cef1e0-2972-40b5-b9c7-df586ad99a8b,https://tonies.com/de-de/tonies/bibi-tina/die-waschbaeren-sind-los/,1,1,1,1
 01-0116,Alea Aquarius,alea-aquarius,Die Magie der Nixen,de-de,audio-book,stock,39358b08-6afc-44dc-90fe-d69d21aba7b5,https://tonies.com/de-de/tonies/alea-aquarius/die-magie-der-nixen/,1,1,1,2
 01-0118,Mascha und der Bär,mascha-und-der-bar,Ein neuer Freund für Mascha,de-de,audio-play,stock,b5eb60bb-4b06-4458-9d07-607341a205ac,https://tonies.com/de-de/tonies/mascha-und-der-baer/ein-neuer-freund-fuer-mascha/,1,1,1,1
 01-0119,Elmer,elmer,Kunterbunte Geschichten,de-de,audio-play,stock,dd93fb3c-2a1c-4894-8910-7e516fc0bb16,https://tonies.com/de-de/tonies/elmer/kunterbunte-geschichten/,1,1,1,4
@@ -108,7 +108,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 01-0151,Felix,felix,Briefe von Felix,de-de,audio-play-songs,stock,94f004d4-e600-438a-861f-fd8c8cd3eecc,https://tonies.com/de-de/tonies/felix/briefe-von-felix/,1,1,1,2
 01-0153,Die Haferhorde,die-haferhorde,Flausen im Schopf,de-de,audio-book,stock,24ffae79-489a-4896-80ab-c50b7befb272,https://tonies.com/de-de/tonies/die-haferhorde/flausen-im-schopf/,1,1,1,2
 01-0154,Die Haferhorde,die-haferhorde,Volle Mähne!,de-de,audio-book,stock,99e73f63-d533-40c1-969c-a6a2c3e85b03,https://tonies.com/de-de/tonies/die-haferhorde/volle-maehne/,1,1,1,2
-01-0156,Lieblings-Kinderlieder,,Tierlieder,de-de,Musik,stock,,,1,2,0,2
+01-0156,Lieblings-Kinderlieder,,Tierlieder,de-de,Musik,stock,,,1,2,1,2
 01-0157,Leo Lausemaus,leo-lausemaus,Das Original-Hörspiel zu den Büchern 2,de-de,audio-play,stock,dadc57aa-87b5-429e-8aaf-e01302a8949a,https://tonies.com/de-de/tonies/leo-lausemaus/das-original-hoerspiel-zu-den-buechern-2/,1,1,1,2
 01-0159,Erdbeerinchen Erdbeerfee,erdbeerinchen-erdbeerfee,Zauberhafte Geschichten aus dem Erdbeergarten,de-de,audio-book,stock,eba5e0ce-6281-484c-9fbf-fc47bec95098,https://tonies.com/de-de/tonies/erdbeerinchen-erdbeerfee/zauberhafte-geschichten-aus-dem-erdbeergarten/,1,1,1,1
 01-0160,WAS IST WAS,was-ist-was,Wale & Delfine / Geheimnis Tiefsee,de-de,audio-play-educational,stock,9f6ca4e8-87ed-4f3e-bfcf-97c997ae6a0b,https://tonies.com/de-de/tonies/was-ist-was/wale-delfine-geheimnis-tiefsee/,1,1,1,1
@@ -357,7 +357,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000300,Lieblings-Meisterstücke,lieblings-meisterstuecke,Der Nussknacker,de-de,audio-play-songs,stock,65abe1ad-19a0-4dec-9860-cf3fbb744994,https://tonies.com/de-de/tonies/lieblings-meisterstuecke/der-nussknacker/,1,1,1,1
 10000301,Lindbergh,lindbergh,Die abenteuerliche Geschichte einer fliegenden Maus,de-de,audio-book,stock,91fbd969-034b-406c-a0df-f80d7bc10a4a,https://tonies.com/de-de/tonies/lindbergh/die-abenteuerliche-geschichte-einer-fliegenden-maus/,1,1,1,2
 10000302,Die drei Räuber,die-drei-raeuber,Die drei Räuber,de-de,audio-book,stock,40a51588-b1da-4b50-bb5b-a8bf8d81415c,https://tonies.com/de-de/tonies/die-drei-raeuber/die-drei-raeuber/,1,1,1,3
-10000303,Peppa Pig,peppa-pig,Die Ritterburg und 7 weitere Geschichten,de-de,audio-play,stock,7e91c8cf-3ddf-4b48-a9e0-45518399d4f7,https://tonies.com/de-de/tonies/peppa-pig/die-ritterburg/,1,1,0,1
+10000303,Peppa Pig,peppa-pig,Die Ritterburg und 7 weitere Geschichten,de-de,audio-play,stock,7e91c8cf-3ddf-4b48-a9e0-45518399d4f7,https://tonies.com/de-de/tonies/peppa-pig/die-ritterburg/,1,1,1,1
 10000304,Rolf Zuckowski,rolf-zuckowski,In der Weihnachtsbäckerei,de-de,music,stock,b66d7654-2b23-4ad9-9a34-ab2a70255425,https://tonies.com/de-de/tonies/rolf-zuckowski/in-der-weihnachtsbaeckerei/,1,1,1,2
 10000308,How to train your Dragon,how-to-train-your-dragon,How to train your Dragon,en-gb,audio-book,stock,4df3f748-4e18-4813-9edf-e96e5f81cca4,https://tonies.com/en-gb/tonies/how-to-train-your-dragon/how-to-train-your-dragon/,1,0,0,0
 10000309,Favourite Masterpieces,favourite-masterpieces,The Magic Flute,en-gb,audio-play-songs,stock,7fba6edf-4e63-40ae-8d0d-68a0051c8dba,https://tonies.com/en-gb/tonies/favourite-masterpieces/the-magic-flute/,1,1,1,1
@@ -386,7 +386,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000365,Shrek,shrek,Der Tollkühne Held,de-de,audio-play,stock,d9892646-202b-44f0-90ce-5023aba09634,https://tonies.com/de-de/tonies/shrek/der-tollkuehne-held/,1,1,1,2
 10000367,Shaun das Schaf,shaun-das-schaf,Badetag und drei weitere schafsinnige Geschichten,de-de,audio-book,stock,a56ec5de-aca2-4ee8-93f5-ecd8064858bd,https://tonies.com/de-de/tonies/shaun-das-schaf/badetag-und-drei-weitere-schafsinnige-geschichten/,1,1,1,1
 10000368,Shaun the Sheep,shaun-the-sheep,The Farmer's Llamas,en-gb,audio-play,stock,f43450c5-091b-4cbd-8e9c-36eb04048101,https://tonies.com/en-gb/tonies/shaun-the-sheep/shaun-the-sheep/,1,1,1,1
-10000369,Pixi Wissen,pixi-wissen,Planeten und Sterne,de-de,audio-play,stock,4f240806-b91b-4fe7-b611-fa7119986f98,https://tonies.com/de-de/tonies/pixi-wissen/planeten-und-sterne/,1,1,0,1
+10000369,Pixi Wissen,pixi-wissen,Planeten und Sterne,de-de,audio-play,stock,4f240806-b91b-4fe7-b611-fa7119986f98,https://tonies.com/de-de/tonies/pixi-wissen/planeten-und-sterne/,1,1,1,1
 10000370,Der Sternenmann,der-sternenmann,Lieder und Hörspiel zur guten Nacht,de-de,audio-play-songs,stock,e7c49d3f-eb45-440f-83cb-060a75873619,https://tonies.com/de-de/tonies/der-sternenmann/lieder-und-hoerspiel-zur-guten-nacht/,1,1,1,4
 10000371,Kikaninchen,kikaninchen,Die Mischung macht’s!,de-de,music,stock,e8bfc77e-ac06-475b-956e-d1464c2a327c,https://tonies.com/de-de/tonies/kikaninchen/die-mischung-machts/,1,2,1,2
 10000372,Disney,disney,101 Dalmatians,en-gb,audio-play-songs,stock,884cebdd-8c3b-4150-a47a-1a37fb4ece0f,https://tonies.com/en-gb/tonies/disney/disney-101-dalmatians/,1,0,0,0
@@ -400,7 +400,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000383,Die kleine Schnecke Monika Häuschen,die-kleine-schnecke-monika-haeuschen,Warum stolpern Tausendfüßler nicht?,de-de,audio-play,stock,c3d35dab-a4e9-4e27-a4be-c7fbeb09a51d,https://tonies.com/de-de/tonies/die-kleine-schnecke-monika-haeuschen/warum-stolpern-tausendfuessler-nicht/,1,1,1,4
 10000384,Eule findet den Beat,eule-findet-den-beat,Mit Gefühl,de-de,audio-play-songs,stock,8f10a202-a45f-40ae-8e16-7b9e09fa940b,https://tonies.com/de-de/tonies/eule-findet-den-beat/mit-gefuehl/,1,1,1,2
 10000386,Mia and me,mia-and-me,Centopia’s hope / Talking to unicorns,en-gb,audio-play,stock,6a4fb8a6-0901-47aa-b6bc-8255b0a32077,https://tonies.com/en-gb/tonies/mia-and-me/centopias-hope-talking-to-unicorns/,1,2,2,1
-10000399,Sternenschweif,sternenschweif,Geheimnisvolle Verwandlung,de-de,audio-play,stock,b455ce07-d763-4cea-88dc-20f2312d1e99,https://tonies.com/de-de/tonies/sternenschweif/geheimnisvolle-verwandlung/,1,1,0,1
+10000399,Sternenschweif,sternenschweif,Geheimnisvolle Verwandlung,de-de,audio-play,stock,b455ce07-d763-4cea-88dc-20f2312d1e99,https://tonies.com/de-de/tonies/sternenschweif/geheimnisvolle-verwandlung/,1,1,1,1
 10000408,Super Wings,super-wings,A World of Adventure,en-gb,audio-play,stock,cb5f3516-5196-4e60-acdd-03a69cb6a4da,https://tonies.com/en-gb/tonies/super-wings/a-world-of-adventure/,1,0,0,0
 10000478,Die Schlümpfe,die-schluempfe,Ein tollpatschiger Held & 3 weitere schlumpfige Abenteuer,de-de,audio-play,stock,dfd42158-2c68-4e33-85c8-0238c04c64be,https://tonies.com/de-de/tonies/die-schluempfe/ein-tollpatschiger-held-3-weitere-schlumpfige-abenteuer/,1,1,1,3
 10000481,My Little Pony,my-little-pony,Sunny,en-gb,audio-play-songs,stock,9e913a3d-6f9d-4ded-8b4f-34665dfd6bbb,https://tonies.com/en-gb/tonies/my-little-pony/sunny/,1,0,0,0
@@ -862,7 +862,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001368,Disney,disney,Pocahontas,de-de,audio-play,stock,0d8f51eb-a45d-4058-b082-2d458e852d73,https://tonies.com/de-de/tonies/disney/pocahontas/,1,0,0,0
 10001371,Cultural Tales,cultural-tales,Black British Tales,en-gb,audio-play,stock,853f6407-f79a-44b6-8f12-7e2bb57ac6e7,https://tonies.com/en-gb/tonies/cultural-tales/black-british-tales/,1,1,1,1
 10001377,Lieblings-Märchen,lieblings-maerchen,Rapunzel (Neuauflage 2023),de-de,audio-play,stock,92595e81-6704-4bb4-b4f3-5af0b2fea623,https://tonies.com/de-de/tonies/lieblings-maerchen/rapunzel-neuauflage-2023/,1,1,0,0
-10001378,Disney,disney,Schneewittchen und die sieben Zwerge,de-de,audio-play-songs,stock,2c917a4e-081b-455c-9af0-58b4301a10ba,https://tonies.com/de-de/tonies/disney/disney-schneewittchen-und-die-sieben-zwerge-schneewittchen-und-die-sieben-zwerge-dach/,1,1,0,1
+10001378,Disney,disney,Schneewittchen und die sieben Zwerge,de-de,audio-play-songs,stock,2c917a4e-081b-455c-9af0-58b4301a10ba,https://tonies.com/de-de/tonies/disney/disney-schneewittchen-und-die-sieben-zwerge-schneewittchen-und-die-sieben-zwerge-dach/,1,1,1,1
 10001379,Der Regenbogenfisch,der-regenbogenfisch,Der Regenbogenfisch,de-de,audio-book-songs,stock,a14f69be-14f6-41a5-a4cf-c698570bacbf,https://tonies.com/de-de/tonies/der-regenbogenfisch/der-regenbogenfisch/,1,0,0,0
 10001386,Peter Rabbit,peter-rabbit,Jemima Puddleduck,en-gb,audio-book,stock,0b111820-d33f-49b2-aae1-f7cd0f479caa,https://tonies.com/en-gb/tonies/peter-rabbit/jemima-puddleduck/,1,1,1,1
 10001387,Horrible Histories,horrible-histories,Terrible Tudors,en-gb,audio-play,stock,a1afc11e-4028-43a8-983f-aeb0a83faede,https://tonies.com/en-gb/tonies/horrible-histories/terrible-tudors/,1,1,1,1
@@ -1013,7 +1013,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001986,Tilda Apfelkern,tilda-apfelkern,Tilda Apfelkern - Das Drinnen-Picknick,de-de,audio-play,stock,ab5f30ed-7cfa-4abf-8658-3937488dd8fa,https://tonies.com/de-de/tonies/tilda-apfelkern/tilda-apfelkern-das-drinnen-picknick/,1,0,0,0
 10001991,Feuerwehrmann Sam,feuerwehrmann-sam,Wettlauf gegen die Zeit!,de-de,audio-play,stock,038bed75-e2fd-4770-bb9a-0eb28b8bb34c,https://tonies.com/de-de/tonies/feuerwehrmann-sam/fs-wettlauf-gegen-die-zeit/,1,1,0,0
 10001996,Mascha und der Bär,mascha-und-der-bar,Winterschlaf für alle + 5 weitere quirlige und lustige Geschichten,de-de,audio-play,stock,f6b9e2ae-7274-41cd-9487-309f6517fe95,https://tonies.com/de-de/tonies/mascha-und-der-baer/mascha-und-der-bar-winterschlaf-fur-alle-5-weitere-quirlige-und-lustige-geschichten/,1,1,1,1
-10001997,Bibi Blocksberg,bibi-blocksberg,Mami spielt verrückt,de-de,audio-play,stock,2d3a9c5d-b3af-4318-9768-8e1bc7ce4173,https://tonies.com/de-de/tonies/bibi-blocksberg/mami-spielt-verrckt/,1,1,0,1
+10001997,Bibi Blocksberg,bibi-blocksberg,Mami spielt verrückt,de-de,audio-play,stock,2d3a9c5d-b3af-4318-9768-8e1bc7ce4173,https://tonies.com/de-de/tonies/bibi-blocksberg/mami-spielt-verrckt/,1,1,1,1
 10001998,Bibi Blocksberg,bibi-blocksberg,Die Junghexenbande,de-de,audio-play,stock,f286ee22-cf0c-480d-9a73-1c470d281ee9,https://tonies.com/de-de/tonies/bibi-blocksberg/junghexenbande/,1,1,1,2
 10002000,Karmas Welt,karmas-welt,Karmas Welt,de-de,audio-play-songs,stock,f86cfd35-5809-4af6-800e-64fb0c3db67c,https://tonies.com/de-de/tonies/karmas-welt/karmas-welt/,1,1,0,0
 10002001,Worldwide Tales,,West African Tales,en-us,Tonie,stock,7907849568407,,1,1,1,1
@@ -1099,7 +1099,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000202,Disney,,Encanto,en-us,Tonie,stock,7988035354775,,1,1,1,2
 11000205,Disney,disney,Encanto,en-gb,audio-play-songs,stock,fe6b6a25-404f-42fd-9895-45b40582701c,https://tonies.com/en-gb/tonies/disney/encanto/,1,1,0,0
 11000212,Favorite Myths,,Egyptian Mythology,en-us,Tonie,stock,8041065250967,,1,2,1,1
-11000214,The Velveteen Rabbit,,,en-us,Tonie,stock,8072085471383,,1,1,0,1
+11000214,The Velveteen Rabbit,,,en-us,Tonie,stock,8072085471383,,1,1,1,1
 11000215,Favorite Myths,,Greek Mythology,en-us,Tonie,stock,8041065513111,,1,2,1,1
 11000217,Calm x tonies®,,Cap'n Dreambeard,en-us,Tonie,stock,7926749724823,,1,1,1,1
 11000218,Conservation Crew,,Nina the Red Panda,en-us,Tonie,stock,8008143700119,,1,2,1,1
@@ -1115,7 +1115,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000237,Care Bears,care-bears-2,Cheer Bear,en-gb,audio-play-songs,stock,39a3a614-4d62-429a-9661-f6f9b2917c0b,https://tonies.com/en-gb/tonies/care-bears-2/cheer-bear/,1,0,0,0
 11000244,Tiny Chef,,,en-us,Tonie,stock,8085915074711,,1,1,1,1
 11000245,Dino Ranch,,,en-us,Tonie,stock,8057958105239,,1,1,1,2
-11000247,PAW Patrol,paw-patrol,Die Hundeschau,de-de,audio-play,stock,d8593db8-ad2a-49e9-9d12-b10d5c3e18f9,https://tonies.com/de-de/tonies/paw-patrol/die-hundeschau/,1,2,0,1
+11000247,PAW Patrol,paw-patrol,Die Hundeschau,de-de,audio-play,stock,d8593db8-ad2a-49e9-9d12-b10d5c3e18f9,https://tonies.com/de-de/tonies/paw-patrol/die-hundeschau/,1,2,1,1
 11000248,PAW Patrol,paw-patrol,Zuma,de-de,audio-play,stock,48d1494c-f5f5-469e-94f1-2cc4b9bf4687,https://tonies.com/de-de/tonies/paw-patrol/zuma/,1,0,0,0
 11000249,Disney,disney,Tiggers großes Abenteuer,de-de,audio-play,stock,af4b11b7-0713-4f58-b1b5-25e134092b6b,https://tonies.com/de-de/tonies/disney/disney-tigger-tiggers-groes-abenteuer/,1,1,1,2
 11000251,Lichterkinder,lichterkinder-2,Laternen- und Herbstlieder,de-de,music,stock,74ecac51-38cc-450c-a405-166b68560670,https://tonies.com/de-de/tonies/lichterkinder/laternen-und-herbstlieder/,1,1,1,1
