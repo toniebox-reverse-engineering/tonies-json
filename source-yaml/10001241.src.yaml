@@ -3,7 +3,7 @@ lock-data: false
 data:
 - series: tonies-us-en-us,tonies-us-en-us,
   series-id: ''
-  episode: tonies-us-en-us,
+  episode: ''
   release: tonies-us-en-us,tonies-us-en-us,
   language: ''
   category: ''
