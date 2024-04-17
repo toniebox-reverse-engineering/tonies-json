@@ -1,0 +1,20 @@
+article: '2000011031'
+lock-data: false
+data:
+- series: Das Sams
+  series-id: das-sams
+  episode: Neue Punkte für das Sams (Hörspiel)
+  release: 1713312000
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/27dbec4f316ebb52883d60735df4d192de4b36702aed37dcf4a042ca/3_.0XJ1Bv7zMbWbgfh/das_sams_003_neue_punkte_fur_das_sams_horspie_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/das-sams/neue-punkte-fur-das-sams-2/
+  shop-id: 9d7a0287-80e9-4fa7-8be2-1b3e37ba6577
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  ids: []
