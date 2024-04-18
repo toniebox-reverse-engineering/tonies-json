@@ -1,0 +1,25 @@
+article: '2000011047'
+lock-data: false
+data:
+- series: Die Schlümpfe
+  series-id: die-schluempfe
+  episode: Smølferne - Historiesamling 3
+  release: 1713312000
+  language: da-dk
+  category: audio-play
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1f5524a91dcccc39e161769bb8e156629d14d41732a44ed903b0b067/3_1BKgZZy4W4bVQJ9M/smlferne_003_smlferne_historiesamling_3_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/ed9fbaa42c0eb2c2730c71515dfbd964eef89668a544b378cffbc9ab/9788726996708.mp3
+  web: https://tonies.com/de-de/audio-content/die-schluempfe/smlferne-historiesamling-3/
+  shop-id: aa1ca5cc-877f-47f7-ada3-bac381d4d7b6
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
+  ids: []

@@ -1,0 +1,21 @@
+article: '2000010840'
+lock-data: false
+data:
+- series: Barbie
+  series-id: barbie
+  episode: Barbie - Følg dine drømme - Jeg vil være rytter, ballerina og kunstskøjteløber
+  release: 1713312000
+  language: da-dk
+  category: audio-play
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/96a7c0ed12c149dc0ac24e6c36c147f7e26a3dec564acfcc747d4d39/3_YbFTlbW3Tkv0V4Yr/barbie_barbie_flg_dine_drmme_jeg_vil_vre__530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/aa4394436cdf6d0578fac58bf7e9c398c1c4253c4a24d0cb636c26f1/9788726850437.mp3
+  web: https://tonies.com/de-de/audio-content/barbie/barbie-flg-dine-drmme-jeg-vil-vre-rytter-ballerina/
+  shop-id: e71be0f8-ed0b-4403-8831-b9722ab6bfd1
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  ids: []

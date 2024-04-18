@@ -1,0 +1,25 @@
+article: '2000011045'
+lock-data: false
+data:
+- series: Die Schlümpfe
+  series-id: die-schluempfe
+  episode: Smølferne - Historiesamling 6
+  release: 1713312000
+  language: da-dk
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: null
+  sample: https://cdn.tonies.de/o/audio_samples/333b8b928494026dceb026a7167bc00e2314835ebf03f0cf2977a8ff/9788726996944.mp3
+  web: https://tonies.com/de-de/audio-content/die-schluempfe/smlferne-historiesamling-6/
+  shop-id: 998ed2d9-0dc8-437f-b509-e32778e891f9
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
+  ids: []

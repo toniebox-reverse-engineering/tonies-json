@@ -1,0 +1,42 @@
+article: '2000011042'
+lock-data: false
+data:
+- series: LEGO Ninjago
+  series-id: lego-ninjago
+  episode: 'Folgen 227-228: Die absolute Macht'
+  release: 1713312000
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/8a7b51d6fcf607f85b54188bf100212ccdf218823eeb0ff650afca14/3_XtfGpFDBbc~Cyzmr/lego_ninjago_227_folgen_227_228__die_absolute__530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/668bdf4b403a9e723f0153ca8ce1ca5c8f62472307d0b8c93767b5cd/4013575954438_preview.mp3
+  web: https://tonies.com/de-de/audio-content/lego-ninjago/folgen-227-228-die-absolute-macht/
+  shop-id: fd2414f5-d2bc-4f35-96c5-9f2a8afd46f1
+  track-desc:
+  - 'Kapitel 01: Die Verwaltung (Folge 227)'
+  - 'Kapitel 02: Die Verwaltung (Folge 227)'
+  - 'Kapitel 03: Die Verwaltung (Folge 227)'
+  - 'Kapitel 04: Die Verwaltung (Folge 227)'
+  - 'Kapitel 05: Die Verwaltung (Folge 227)'
+  - 'Kapitel 06: Die Verwaltung (Folge 227)'
+  - 'Kapitel 07: Die Verwaltung (Folge 227)'
+  - 'Kapitel 08: Die Verwaltung (Folge 227)'
+  - 'Kapitel 09: Die Verwaltung (Folge 227)'
+  - 'Kapitel 10: Die Verwaltung (Folge 227)'
+  - 'Kapitel 11: Die Verwaltung (Folge 227)'
+  - 'Kapitel 12: Die Verwaltung (Folge 227)'
+  - 'Kapitel 01: Die absolute Macht (Folge 228)'
+  - 'Kapitel 02: Die absolute Macht (Folge 228)'
+  - 'Kapitel 03: Die absolute Macht (Folge 228)'
+  - 'Kapitel 04: Die absolute Macht (Folge 228)'
+  - 'Kapitel 05: Die absolute Macht (Folge 228)'
+  - 'Kapitel 06: Die absolute Macht (Folge 228)'
+  - 'Kapitel 07: Die absolute Macht (Folge 228)'
+  - 'Kapitel 08: Die absolute Macht (Folge 228)'
+  - 'Kapitel 09: Die absolute Macht (Folge 228)'
+  - 'Kapitel 10: Die absolute Macht (Folge 228)'
+  - 'Kapitel 11: Die absolute Macht (Folge 228)'
+  - 'Kapitel 12: Die absolute Macht (Folge 228)'
+  ids: []
