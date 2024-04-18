@@ -1,0 +1,26 @@
+article: '2000011049'
+lock-data: false
+data:
+- series: Die Schlümpfe
+  series-id: die-schluempfe
+  episode: Tre minutter i godnat - Smølferne
+  release: 1713312000
+  language: da-dk
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/d8e74abf03054df1f218ad3e6e608e244a2d5b08cb4ad718e2954daf/3_FmQRvvCpJphVJJRb/smlferne_tre_minutter_i_godnat_smlferne_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/d2b383ebaf34d65d753a6b9a85b0c658911634760e60c7b0f0318f15/9788726931907.mp3
+  web: https://tonies.com/de-de/audio-content/die-schluempfe/tre-minutter-i-godnat-smlferne/
+  shop-id: 9c1e6329-b8bc-4952-960e-79f258081ed1
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
+  - Chapter 8
+  ids: []
