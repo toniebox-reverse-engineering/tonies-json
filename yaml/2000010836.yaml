@@ -1,0 +1,19 @@
+article: '2000010836'
+lock-data: false
+data:
+- series: Barbie
+  series-id: barbie
+  episode: Barbie - Superagenterne
+  release: 1713312000
+  language: da-dk
+  category: audio-play
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/691995f58c80ed154bbe761ad2e7eb7c43e14c594b1b188f5ec02ad9/3_JZVyQz.g6ckC70x6/barbie_barbie_superagenterne_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/f8c2555ec6c4dbfbcebac815da8d6153f792a3736268306e9a46336c/9788726850482.mp3
+  web: https://tonies.com/de-de/audio-content/barbie/barbie-superagenterne/
+  shop-id: fbdb7c4d-49b4-4d19-a711-f1cefde377fa
+  track-desc:
+  - Chapter 1
+  ids: []

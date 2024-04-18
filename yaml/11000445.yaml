@@ -10,14 +10,9 @@ data:
   runtime: 0
   age: 99
   origin: stock
-  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tonies-PDP-Assets-OctonautsPeso-transparent.png?v=1689264095
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tonies-PDP-Assets-OctonautsPeso-transparent.png?v=1713257037
   sample: null
   web: null
   shop-id: '8031548899479'
   track-desc: []
-  ids:
-  - audio-id: 1686912794
-    hash: f3c36712aba09467a15c5584772b2b3a761df2bd
-    size: 65033678
-    tracks: 14
-    confidence: 1
+  ids: []

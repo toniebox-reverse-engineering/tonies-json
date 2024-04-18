@@ -1,0 +1,25 @@
+article: '2000011048'
+lock-data: false
+data:
+- series: Die Schlümpfe
+  series-id: die-schluempfe
+  episode: Smølferne - Historiesamling 1
+  release: 1713312000
+  language: da-dk
+  category: audio-play
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: null
+  sample: https://cdn.tonies.de/o/audio_samples/b47d7929777999904af2766a47054bd4e1b635d338527c3aa2dd3fda/9788726996425.mp3
+  web: https://tonies.com/de-de/audio-content/die-schluempfe/smlferne-historiesamling-1/
+  shop-id: ec643c3d-0549-49e5-a42d-7d4ab82e8e28
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
+  ids: []

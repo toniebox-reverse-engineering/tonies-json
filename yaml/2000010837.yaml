@@ -1,0 +1,27 @@
+article: '2000010837'
+lock-data: false
+data:
+- series: Barbie
+  series-id: null
+  episode: Prinsesse på rockeventyr
+  release: 1713312000
+  language: da-dk
+  category: audio-play
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/200ee1b44c40342a111f7df629032e1b1ecb749487a8129274659e29/3_L_mw9__5vKT-JdV3/barbie_barbie_prinsesse_pa_rockeventyr_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/48567a31935594390a2c4d08a8dfdde701f1c0c19392f67c6c2591f9/9788726850406.mp3
+  web: https://tonies.com/de-de/audio-content/barbie-prinsesse-pa-rockeventyr/
+  shop-id: 5b6c7558-f141-4915-b14a-0da3fdaca0d7
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
+  - Chapter 8
+  - Chapter 9
+  ids: []
