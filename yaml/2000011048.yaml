@@ -10,7 +10,7 @@ data:
   runtime: 0
   age: 5
   origin: tunes
-  image: null
+  image: https://cdn.tonies.de/o/images/1c4923b762c89375a1f8038b4d238738b81e92e9d9b4f23458fcbd72/3__B0H6.rQYP-cQ629/the_smurfs_001_smlferne_historiesamling_1_530x530.jpg
   sample: https://cdn.tonies.de/o/audio_samples/b47d7929777999904af2766a47054bd4e1b635d338527c3aa2dd3fda/9788726996425.mp3
   web: https://tonies.com/de-de/audio-content/die-schluempfe/smlferne-historiesamling-1/
   shop-id: ec643c3d-0549-49e5-a42d-7d4ab82e8e28
