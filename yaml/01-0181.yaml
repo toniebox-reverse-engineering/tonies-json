@@ -7,14 +7,34 @@ data:
   release: 1559692800
   language: de-de
   category: Hörspiele & Hörbücher
-  runtime: 0
-  age: 99
+  runtime: 109
+  age: 5
   origin: stock
   image: https://cdn.tonies.de/o/images/1_c80b1c5f08a64fd6054ad471f83252c5460cbfc6c94df6039aeaccb6/3_Y5l4FN0h5J9YG4ST/hotzenplotz_3_only_tonie_530x530.png
   sample: null
   web: null
   shop-id: null
-  track-desc: []
+  track-desc:
+  - Der Mann in den Gartenbüschen
+  - Frau Schlotterbeck hat einen schlechten Tag
+  - War da nicht noch etwas?
+  - Mit Stempel und Unterschrift
+  - Schnauzball
+  - Ein Ameisenhaufen, der es in sich hat
+  - Die Räuberfalle
+  - Feuerwerk
+  - Dreimal weg damit!
+  - Herrn Dimpfelmoser ist alles klar
+  - Eine unruhige Nacht
+  - Nur ein paar Fragen
+  - Polizei! Polizei!
+  - Alles in schönster Ordnung
+  - Rettung in höchster Not
+  - Auf der hohen Heide
+  - Ein Blick in die Zukunft
+  - Wasti verbrachte die Nacht auf dem Sofa...
+  - Das große Fest hat begonnen...
+  - Absage
   ids:
   - audio-id: 1558439191
     hash: 430b229b31fd57846fff850d771dfdcb9614c37f
