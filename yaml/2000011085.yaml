@@ -10,7 +10,7 @@ data:
   runtime: 0
   age: 7
   origin: tunes
-  image: null
+  image: https://cdn.tonies.de/o/images/dea9f8df70c3afc5af3aaf8c438c86e8cf3d278e43bdc4586789d8f4/3_bdGmn.MQwlWDYsYv/fc_mezzi_fc_mezzi_4__fc_mezzi_mder_messi_530x530.jpg
   sample: https://cdn.tonies.de/o/audio_samples/5f61a0a1f49e3fd37903ab43935788f12abd14427c779fa0bbdc1059/9788711321034.mp3
   web: https://tonies.com/de-de/audio-content/fc-mezzi/fc-mezzi-4-fc-mezzi-mder-messi/
   shop-id: 992088ce-28b0-472b-b70d-4c48823e9348

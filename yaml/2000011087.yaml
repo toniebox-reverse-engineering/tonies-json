@@ -10,7 +10,7 @@ data:
   runtime: 0
   age: 7
   origin: tunes
-  image: null
+  image: https://cdn.tonies.de/o/images/dd0f55113778dfd4d2db51e9178df535b4d7d0728df09c5ab0a2b440/3_LtPZkNd8sXNSC1_z/fc_mezzi_009_fc_mezzi_9_530x530.jpg
   sample: https://cdn.tonies.de/o/audio_samples/87270d64e69e4af9e766c08b1eda8e55e7eaadee1bb81f30515d3623/9788711735596.mp3
   web: https://tonies.com/de-de/audio-content/fc-mezzi/fc-mezzi-9/
   shop-id: 6285b366-623e-449a-b6e2-7764fcff1614

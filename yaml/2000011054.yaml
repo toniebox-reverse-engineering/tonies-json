@@ -10,7 +10,7 @@ data:
   runtime: 0
   age: 3
   origin: tunes
-  image: null
+  image: https://cdn.tonies.de/o/images/0586e9bab3ed83260219ef21af41fa2415e08918818c259b95fe4d83/3_.fmt4.W~hlcfLssl/tilda_apfelkern_oh_du_frohliche_und_wunderbare__530x530.jpg
   sample: https://cdn.tonies.de/o/audio_samples/14558347c73d220400809d61b16bc30c2be096b0c45801b811f5f9df/4057664063410_preview.mp3
   web: https://tonies.com/de-de/audio-content/tilda-apfelkern/oh-du-frohliche-und-wunderbare-weihnachtszeit/
   shop-id: 2e3c6387-8af8-43c2-8943-b0f80dabe644
