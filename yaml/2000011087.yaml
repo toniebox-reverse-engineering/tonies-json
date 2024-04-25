@@ -1,0 +1,36 @@
+article: '2000011087'
+lock-data: false
+data:
+- series: FC Mezzi
+  series-id: fc-mezzi
+  episode: FC Mezzi 9
+  release: 1713916800
+  language: da-dk
+  category: audio-play
+  runtime: 0
+  age: 7
+  origin: tunes
+  image: null
+  sample: https://cdn.tonies.de/o/audio_samples/87270d64e69e4af9e766c08b1eda8e55e7eaadee1bb81f30515d3623/9788711735596.mp3
+  web: https://tonies.com/de-de/audio-content/fc-mezzi/fc-mezzi-9/
+  shop-id: 6285b366-623e-449a-b6e2-7764fcff1614
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
+  - Chapter 8
+  - Chapter 9
+  - Chapter 10
+  - Chapter 11
+  - Chapter 12
+  - Chapter 13
+  - Chapter 14
+  - Chapter 15
+  - Chapter 16
+  - Chapter 17
+  - Chapter 18
+  ids: []

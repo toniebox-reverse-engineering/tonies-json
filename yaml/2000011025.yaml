@@ -1,0 +1,24 @@
+article: '2000011025'
+lock-data: false
+data:
+- series: Bjarne og Betina
+  series-id: null
+  episode: Bjarne og Betina
+  release: 1713916800
+  language: da-dk
+  category: audio-play
+  runtime: 0
+  age: 12
+  origin: tunes
+  image: null
+  sample: https://cdn.tonies.de/o/audio_samples/9b0dd7fc552248ae22e5e694e29b674448e4a618e1bc1bc29d763e74/9788726392708.mp3
+  web: https://tonies.com/de-de/audio-content/bjarne-og-betina/
+  shop-id: a97c1d0a-4bac-4773-b008-a1c75d320a26
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  ids: []

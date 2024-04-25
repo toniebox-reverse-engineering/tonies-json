@@ -1,0 +1,33 @@
+article: '2000011092'
+lock-data: false
+data:
+- series: FC Mezzi
+  series-id: fc-mezzi
+  episode: 'FC Mezzi 3: Saksesparket'
+  release: 1713916800
+  language: da-dk
+  category: audio-play
+  runtime: 0
+  age: 7
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/0d1e645704eaeaaa36e9bf0db305b4e4c2daa6d60add7e2c34473d04/3_lZZJ6v1kNDh5VdVZ/fc_mezzi_003_fc_mezzi_3__saksesparket_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/8446d201e35361345b2a770262039447fdc307bcf8b4fcc2b1101ede/9788711321027.mp3
+  web: https://tonies.com/de-de/audio-content/fc-mezzi/fc-mezzi-3-saksesparket/
+  shop-id: 75910d1b-1e17-4472-86a2-775ceb2025ec
+  track-desc:
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
+  - Chapter 8
+  - Chapter 9
+  - Chapter 10
+  - Chapter 11
+  - Chapter 12
+  - Chapter 13
+  - Chapter 14
+  - Chapter 15
+  ids: []
