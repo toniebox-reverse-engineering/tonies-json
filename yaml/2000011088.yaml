@@ -2,7 +2,7 @@ article: '2000011088'
 lock-data: false
 data:
 - series: FC Mezzi 2
-  series-id: null
+  series-id: fc-mezzi
   episode: Kamp til stregen
   release: 1713916800
   language: da-dk

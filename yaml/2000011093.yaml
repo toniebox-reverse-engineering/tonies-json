@@ -2,7 +2,7 @@ article: '2000011093'
 lock-data: false
 data:
 - series: FC Mezzi 1
-  series-id: null
+  series-id: fc-mezzi
   episode: Bruddet
   release: 1713916800
   language: da-dk
