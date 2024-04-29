@@ -7,7 +7,7 @@ data:
   release: 1713744000
   language: en-gb
   category: audio-book
-  runtime: 41
+  runtime: 44
   age: 3
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/10001323_PDP2-K8SPV8Qx.png
@@ -15,5 +15,13 @@ data:
   web: https://tonies.com/en-gb/tonies/the-dinosaur-that-pooped/the-dinosaur-that-pooped-collection/
   shop-id: d6412898-ee0e-41ce-8651-26e417f63221
   track-desc:
-  - Dinosaur that Poooped
+  - The Dinosaur that Pooped The Past!
+  - The Dinosaur that Pooped A Planet!
+  - The Dinosaur that Pooped The Bed!
+  - The Dinosaur that Pooped Christmas!
+  - The Dinosaur that Pooped a Princess!
+  - The Dinosaur that Pooped Halloween!
+  - 'Read-along: The Dinosaur That Pooped The Past!'
+  - 'Read-along: The Dinosaur That Pooped A Planet!'
+  - 'Read-along: The Dinosaur That Pooped Christmas!'
   ids: []
