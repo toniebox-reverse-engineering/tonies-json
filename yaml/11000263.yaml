@@ -1,0 +1,18 @@
+article: '11000263'
+lock-data: false
+data:
+- series: Peppa Pig
+  series-id: null
+  episode: Learn with Peppa
+  release: 1714565897
+  language: en-us
+  category: Tonie
+  runtime: 0
+  age: 99
+  origin: stock
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tonies-PDP-Assets-learningwithpeppa-transparent.png?v=1714408693
+  sample: null
+  web: null
+  shop-id: '8143490744471'
+  track-desc: []
+  ids: []

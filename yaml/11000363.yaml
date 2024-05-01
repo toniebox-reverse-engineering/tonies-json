@@ -1,0 +1,22 @@
+article: '11000363'
+lock-data: false
+data:
+- series: Totally Spies
+  series-id: totally-spies
+  episode: Sam
+  release: 1714608000
+  language: fr-fr
+  category: audio-play
+  runtime: 55
+  age: 6
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51002599-Tonie_Shado-WlDY7Ix4.png
+  sample: https://cdn.tonies.de/o/audio_samples/43f403b0aa9713be1f18328e9ae33b7c6c535ac7e1fcae5d5676a5d9/totally_spies_sam_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/totally-spies/sam/
+  shop-id: 43d52cc1-ebf8-48f7-940c-5ca4663b61c9
+  track-desc:
+  - Triplés De Rêve
+  - Frères Ennemis
+  - Totalement Pas Spies Partie 1
+  - Totalement Pas Spies Partie 2
+  ids: []
