@@ -22,4 +22,9 @@ data:
   - Goldie Gecko Bonus Track
   - The Squirrels Who Squabbled
   - Cyril Squirrel Bonus Track Goodbye
-  ids: []
+  ids:
+  - audio-id: 1709810623
+    hash: 1bf6cfad07c696570875c55fa1d1de17b787bfd6
+    size: 23348630
+    tracks: 7
+    confidence: 1

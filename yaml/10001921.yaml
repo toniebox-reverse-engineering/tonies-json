@@ -40,4 +40,9 @@ data:
   - Die Geggis - Teil 2
   - Die Geggis - Teil 3
   - Die Geggis - Teil 4
-  ids: []
+  ids:
+  - audio-id: 1707305033
+    hash: 5f52e68aafa8e82dc4cac37a3e0d5e62bb3e3444
+    size: 32743040
+    tracks: 25
+    confidence: 1

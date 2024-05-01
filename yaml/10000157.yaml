@@ -53,9 +53,9 @@ data:
     confidence: 0
   - audio-id: 1583162697
     hash: 56f98acbf824ba9cbd8a7170c3030ed1ca6ae97c
-    size: 0
-    tracks: 0
-    confidence: 0
+    size: 49296744
+    tracks: 15
+    confidence: 1
 - series: Wickie
   series-id: null
   episode: Das Magische Schwert
