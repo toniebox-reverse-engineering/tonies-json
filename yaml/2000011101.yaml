@@ -1,0 +1,19 @@
+article: '2000011101'
+lock-data: false
+data:
+- series: Pimpa
+  series-id: pimpa
+  episode: Pimpa und Armando erleben ein Abenteuer
+  release: 1714521600
+  language: de-de
+  category: audio-play
+  runtime: 1139
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/80679a471564ede8c1a867ada6212939071fd360b70e36bbbb08cf66/3_jt7Ww0F_v_WH2Wjp/pimpa_pimpa_und_armando_erleben_ein_abenteuer_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/ff5594296223cd0e53111f227b2bd3a8f8e232cbe938d757fa48785f/9788728008041_preview.mp3
+  web: https://tonies.com/de-de/audio-content/pimpa/pimpa-und-armando-erleben-ein-abenteuer/
+  shop-id: f8a80008-b354-44e2-99a0-f6736d68726b
+  track-desc:
+  - Kapitel 1
+  ids: []

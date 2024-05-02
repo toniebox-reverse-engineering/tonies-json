@@ -1,0 +1,20 @@
+article: '2000011099'
+lock-data: false
+data:
+- series: Die Schlümpfe
+  series-id: die-schluempfe
+  episode: Geschichtensammlung 2
+  release: 1714521600
+  language: de-de
+  category: audio-play
+  runtime: 2132
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/bfc5d3fe792f1bff88e38264f6ca9bafaab3cee9d2dad5ac38f0c6dd/3_VGLyZRZ86bpqdGBx/the_smurfs_002_geschichtensammlung_2_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/a4d532a6aadd02cc34fe7c4b504aed46d008e4b713b9b1a8927640c1/9788726996555_preview.mp3
+  web: https://tonies.com/de-de/audio-content/die-schluempfe/geschichtensammlung-2/
+  shop-id: 0302cfd7-3e09-4d5a-a3da-cfe903f52ff6
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  ids: []
