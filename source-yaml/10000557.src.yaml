@@ -1,16 +1,16 @@
 article: '10000557'
 lock-data: false
 data:
-- series: ''
+- series: tonies-us-en-us,
   series-id: ''
-  episode: ''
+  episode: tonies-us-en-us,
   release: ''
   language: ''
   category: ''
   runtime: ''
   age: ''
   origin: ''
-  image: tonies-us-en-us,
+  image: ''
   sample: ''
   web: ''
   shop-id: ''
