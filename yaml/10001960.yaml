@@ -1,0 +1,34 @@
+article: '10001960'
+lock-data: false
+data:
+- series: Favourite Classics
+  series-id: favourite-classics
+  episode: The Wizard of Oz
+  release: 1715558400
+  language: en-gb
+  category: audio-play
+  runtime: 135
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/10001960_PDP2-FFqDfZr6.png
+  sample: https://cdn.tonies.de/o/audio_samples/168b91214aa20bb77579ec6ad22b15b51cb5ac00b39ddb68a62392e2/10001960_wizard_of_oz_sample.wav
+  web: https://tonies.com/en-gb/tonies/favourite-classics/the-wizard-of-oz/
+  shop-id: 10aa1a64-5459-4f04-97ee-55febea39c35
+  track-desc:
+  - The Tornado
+  - The Council with the Munchkins
+  - How Dorothy Saved the Scarecrow
+  - The Road Through the Forest
+  - The Rescue of the Tin Woodman
+  - The Cowardly Lion
+  - The Journey to the Great Oz
+  - The Poppy Field
+  - The Queen of the Field Mice
+  - The Guardian of the Gates
+  - The Emerald City of Oz
+  - The Search for the Wicked Witch
+  - The Rescue
+  - The Winged Monkeys
+  - The Discovery of Oz
+  - The Magic Art of the Great Humbug
+  ids: []

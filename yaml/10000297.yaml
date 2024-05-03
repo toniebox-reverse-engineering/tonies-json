@@ -1,0 +1,23 @@
+article: '10000297'
+lock-data: false
+data:
+- series: David Walliams
+  series-id: david-walliams-2
+  episode: Hilarious Animal Adventures
+  release: 1715558400
+  language: en-gb
+  category: audio-book
+  runtime: 45
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/10000297_PDP2-wT84rqpg.png
+  sample: https://cdn.tonies.de/o/audio_samples/6a839e38e8b1cc999955a759a2822f30e93102725445a5495f5315e7/10000297_hilarious_animal_adventures_sample.wav
+  web: https://tonies.com/en-gb/tonies/david-walliams-2/hilarious-animal-adventures/
+  shop-id: 47f56cb2-6531-4fc5-b24d-4e3ce27b1a0c
+  track-desc:
+  - The First Hippo On The Moon
+  - The Slightly Annoying Elephant
+  - The Bear Who Went Boo
+  - There's a Snake In My School
+  - Boogie Bear
+  ids: []
