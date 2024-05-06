@@ -15,7 +15,7 @@ data:
   web: https://tonies.com/de-de/tonies/der-kleine-wassermann/der-kleine-wassermann-neuauflage-2022/
   shop-id: 3393ed18-f649-44dc-b56d-96d4d582947d
   track-desc:
-  - '– 28: Der kleine Wassermann'
+  - -28 Der kleine Wassermann
   ids:
   - audio-id: 1666797375
     hash: 53abd2020b225a2f5b9008580435535ab7b72a00

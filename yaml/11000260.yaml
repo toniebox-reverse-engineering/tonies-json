@@ -2,12 +2,12 @@ article: '11000260'
 lock-data: false
 data:
 - series: Peppa Pig
-  series-id: peppa-pig
+  series-id: peppa-pig-2
   episode: Learn With Peppa Pig
   release: 1713484800
   language: en-gb
   category: audio-play-educational
-  runtime: 60
+  runtime: 75
   age: 3
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11000260_PDP2-0OogFGJa.png
