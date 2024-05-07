@@ -2,19 +2,33 @@ article: 01-0061
 lock-data: false
 data:
 - series: Heidi
-  series-id: null
+  series-id: heidi
   episode: Freunde für immer
   release: 1506384000
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 63
+  age: 5
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0061-98-0138-b-_-xGEyHw.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/c79f96d5e8afd20b94a361d986c73c63a0aa67455c608b9580ea08ea/hoerprobe_heidi_freunde.mp3
+  web: https://tonies.com/de-de/tonies/heidi/freunde-fuer-immer/
+  shop-id: 5a9fdf34-e6d3-4848-a855-ac66f9e13b3b
+  track-desc:
+  - Titellied „Heidi“
+  - Heidi rettet ein Vögelchen
+  - Ausgetrickst!
+  - Wo steckt Peter?
+  - Gefunden!
+  - Freunde für immer
+  - Heidis Plan
+  - Die Höhle
+  - Der Rückweg
+  - Heidi läuft weg
+  - Der Brief
+  - Eine Nacht im Baumhaus
+  - Nebel!
+  - Ein klärendes Gespräch
   ids:
   - audio-id: 1503565716
     hash: e371321dcedfad777227a513fc990bdc4258ff31
