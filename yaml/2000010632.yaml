@@ -1,0 +1,26 @@
+article: '2000010632'
+lock-data: false
+data:
+- series: Peppa Pig
+  series-id: peppa-pig
+  episode: 'Folge 51: Mister Kartoffels Weihnachtsshow'
+  release: 1715040000
+  language: de-de
+  category: audio-play
+  runtime: 2118
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1000f0a733ec5339da4ee111916b0439443dc8ff17c399f8e8fe586e/3_R82_wJgpfhWcjvbF/peppa_pig_folge_51__mister_kartoffels_weihnachts_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/peppa-pig/peppa-pig-folge-51-mister-kartoffels-weihnachtssho/
+  shop-id: 503604fa-e9ba-43ae-9dfb-9adaf0998983
+  track-desc:
+  - Mister Kartoffels Weihnachtsshow (Inhaltsangabe)
+  - Mister Kartoffels Weihnachtsshow
+  - Weihnachten im Krankenhaus
+  - Obst
+  - Basketball
+  - Das Weltraumabenteuer
+  - Inspektor Kartoffel
+  - Mister Kartoffels Weihnachtsshow (Outro)
+  ids: []
