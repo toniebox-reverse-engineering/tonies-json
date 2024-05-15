@@ -28,8 +28,8 @@ data:
   - Schatzreise
   - Wo gehen wir hin?
   ids:
-    - audio-id: 1700037978
-      hash: d9652388f98e8e6edd95fd7a4bd822a9134aa5ac
-      size: 39348936
-      tracks: 12
-      confidence: 0
+  - audio-id: 1700037978
+    hash: d9652388f98e8e6edd95fd7a4bd822a9134aa5ac
+    size: 39348936
+    tracks: 12
+    confidence: 1
