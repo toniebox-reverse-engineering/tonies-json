@@ -65,4 +65,9 @@ data:
   - Die Zügel - 048
   - Die Zügel - 049
   - 'Extra: Reiten mit Halsring - 050'
-  ids: []
+  ids:
+    - audio-id: 1709133801
+      hash: 8dba747d2d0d3e0f1a802529ee92a40aedfa178f
+      size: 79052044
+      tracks: 50
+      confidence: 0
