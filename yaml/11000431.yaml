@@ -1,0 +1,19 @@
+article: '11000431'
+lock-data: false
+data:
+- series: Disney
+  series-id: disney
+  episode: Soul
+  release: 0
+  language: de-de
+  category: audio-play-songs
+  runtime: 69
+  age: 6
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11000431_1_a-8ZxBeThM.png
+  sample: https://cdn.tonies.de/o/audio_samples/c9a28de34b0c191195a86b90dc63d78e611867ac515a0894d274f595/hoerprobe_11000431_disney_soul.mp3
+  web: https://tonies.com/de-de/tonies/disney/soul/
+  shop-id: b7e7882e-2179-4a50-b5af-64d5f7dce431
+  track-desc:
+  - '04: Soul'
+  ids: []

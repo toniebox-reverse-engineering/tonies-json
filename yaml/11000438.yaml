@@ -1,0 +1,34 @@
+article: '11000438'
+lock-data: false
+data:
+- series: PAW Patrol
+  series-id: paw-patrol
+  episode: Rettung für T-Rex
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 51
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11000438_1_a-jv5B4MOO.png
+  sample: https://cdn.tonies.de/o/audio_samples/e2bba718fc77a187fde5831a044d496f81873b9461ce0eb83dc4cde7/horprobe_11000438_paw_patrol_rettung_fur_t_rex.mp3
+  web: https://tonies.com/de-de/tonies/paw-patrol/rettung-fur-t-rex/
+  shop-id: c4bbdb25-6a9d-4320-9d13-84364b67fd0c
+  track-desc:
+  - Ein Dino in der Abenteuerbucht
+  - Ein Dino in der Abenteuerbucht
+  - Ein Dino in der Abenteuerbucht
+  - Ein Dino in der Abenteuerbucht
+  - Ein Dino in der Abenteuerbucht
+  - Ein Dino in der Abenteuerbucht
+  - Ein Dino in der Abenteuerbucht
+  - Ein Dino in der Abenteuerbucht
+  - Rettung für T-Rex
+  - Rettung für T-Rex
+  - Rettung für T-Rex
+  - Rettung für T-Rex
+  - Ein T-Rex hat Zahnweh
+  - Ein T-Rex hat Zahnweh
+  - Ein T-Rex hat Zahnweh
+  - Ein T-Rex hat Zahnweh
+  ids: []

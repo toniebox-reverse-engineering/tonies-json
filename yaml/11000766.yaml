@@ -1,0 +1,24 @@
+article: '11000766'
+lock-data: false
+data:
+- series: Lieblings-Klassiker
+  series-id: lieblings-klassiker
+  episode: Alice im Wunderland und zwei weitere Klassiker
+  release: 0
+  language: de-de
+  category: audio-book
+  runtime: 60
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11000766_1_a-4givJwwn.png
+  sample: https://cdn.tonies.de/o/audio_samples/d3b6c3cbd70e021a2bee70f8271d477cca7d8ac78f5160d90ff3e08c/hoerprobe_11000766_lieblings_klassiker_alice_im_wunderland_und_zwei_weitere_klassiker.mp3
+  web: https://tonies.com/de-de/tonies/lieblings-klassiker/alice-im-wunderland-und-zwei-weitere-klassiker/
+  shop-id: 95fe2724-6c84-46bd-9e09-c73429707445
+  track-desc:
+  - Alice im Wunderland - Part 1
+  - Alice im Wunderland - Part 2
+  - Moby Dick - Part 1
+  - Moby Dick - Part 2
+  - Das Dschungelbuch - Part 1
+  - Das Dschungelbuch - Part 2
+  ids: []

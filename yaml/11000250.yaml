@@ -1,0 +1,42 @@
+article: '11000250'
+lock-data: false
+data:
+- series: Schüttel den Apfelbaum & Schaukel das Schaf
+  series-id: schuettel-den-apfelbaum-schaukel-das-schaf
+  episode: Schüttel den Apfelbaum & Schaukel das Schaf
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 50
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11000250_1_a-J62ZkDOx.png
+  sample: https://cdn.tonies.de/o/audio_samples/0b89369e701da6af0efcc93b4c5987a0e3f29348b4cf0d02fff9190d/heorprobe_11000250_schuttel_den_apfelbaum_schaukel_das_schaf.mp3
+  web: https://tonies.com/de-de/tonies/schuettel-den-apfelbaum-schaukel-das-schaf/schuttel-den-apfelbaum-apfelbaum-schaukel-das-schaf-dach/
+  shop-id: ee152cd2-1312-4e82-bc86-c8935bda1c95
+  track-desc:
+  - Schüttel Den Apfelbaum - Einführung
+  - Beim Apfelbaum - Teil 1
+  - Bei Kalle Kitzelmonster - Teil 2
+  - Bei Der Katze - Teil 3
+  - Bei Hase Und Bär - Teil 4
+  - Bei Der Rakete - Teil 5
+  - Beim Hund - Teil 6
+  - Bei Kalle Kitzelmonster - Teil 7
+  - Beim Kleinen Ritter - Teil 8
+  - Bei Familie Hase - Teil 9
+  - Wir Haben Allen Geholfen - Teil 10
+  - Schüttel Den Apfelbaum - Outtro
+  - Schaukel Das Schaf - Einführung
+  - Bei Schaf Sarah - Teil 1
+  - Beim Dino - Teil 2
+  - Beim Roboter - Teil 3
+  - Bei Der Sonnenblume - Teil 4
+  - Bei Maus Und Katze - Teil 5
+  - Bei Lea - Teil 6
+  - Bei Papa Fuchs - Teil 7
+  - Bei Mama Henne - Teil 8
+  - Bei Manfred Maulwurf - Teil 9
+  - Wir Haben Allen Geholfen - Teil 10
+  - Schaukel das Schaf - Outtro
+  ids: []
