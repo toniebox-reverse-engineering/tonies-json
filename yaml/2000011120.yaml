@@ -1,0 +1,46 @@
+article: '2000011120'
+lock-data: false
+data:
+- series: Feuerwehrmann Sam
+  series-id: feuerwehrmann-sam
+  episode: 'Folgen 165 - 169: Das doppelte Feuerwerk'
+  release: 1715731200
+  language: de-de
+  category: audio-play
+  runtime: 3508
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/7187b5b2eda4132ae72c83f47ee36786f4b43477ba7425d17e39665d/3_WDlJTHC0j9TZC6Gc/fireman_sam_165_folgen_165_169__das_doppelte_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/ed78a7de4ae466e8c5c5a42d805b61a30b09948543f9ae2e834c62d1/4013575948048_preview.mp3
+  web: https://tonies.com/de-de/audio-content/feuerwehrmann-sam/folgen-165-169-das-doppelte-feuerwerk/
+  shop-id: 4ecbac27-8173-4b6a-bd14-40c1e8dd29bb
+  track-desc:
+  - Feuerwehrmann Sam Titellied
+  - 'Kapitel 01: Das doppelte Feuerwerk (Folge 165)'
+  - 'Kapitel 02: Das doppelte Feuerwerk (Folge 165)'
+  - 'Kapitel 03: Das doppelte Feuerwerk (Folge 165)'
+  - 'Kapitel 04: Das doppelte Feuerwerk (Folge 165)'
+  - 'Kapitel 05: Das doppelte Feuerwerk (Folge 165)'
+  - 'Kapitel 01: Das Monster der Pontypandy-Berge (Folge 166)'
+  - 'Kapitel 02: Das Monster der Pontypandy-Berge (Folge 166)'
+  - 'Kapitel 03: Das Monster der Pontypandy-Berge (Folge 166)'
+  - 'Kapitel 04: Das Monster der Pontypandy-Berge (Folge 166)'
+  - 'Kapitel 05: Das Monster der Pontypandy-Berge (Folge 166)'
+  - 'Kapitel 01: Die gruselige Kutschfahrt (Folge 167)'
+  - 'Kapitel 02: Die gruselige Kutschfahrt (Folge 167)'
+  - 'Kapitel 03: Die gruselige Kutschfahrt (Folge 167)'
+  - 'Kapitel 04: Die gruselige Kutschfahrt (Folge 167)'
+  - 'Kapitel 05: Die gruselige Kutschfahrt (Folge 167)'
+  - 'Kapitel 06: Die gruselige Kutschfahrt (Folge 167)'
+  - 'Kapitel 01: Gefahr im Watt (Folge 168)'
+  - 'Kapitel 02: Gefahr im Watt (Folge 168)'
+  - 'Kapitel 03: Gefahr im Watt (Folge 168)'
+  - 'Kapitel 04: Gefahr im Watt (Folge 168)'
+  - 'Kapitel 05: Gefahr im Watt (Folge 168)'
+  - 'Kapitel 06: Gefahr im Watt (Folge 168)'
+  - 'Kapitel 01: Die Jagd nach dem Fleckenrochen (Folge 169)'
+  - 'Kapitel 02: Die Jagd nach dem Fleckenrochen (Folge 169)'
+  - 'Kapitel 03: Die Jagd nach dem Fleckenrochen (Folge 169)'
+  - 'Kapitel 04: Die Jagd nach dem Fleckenrochen (Folge 169)'
+  - 'Kapitel 05: Die Jagd nach dem Fleckenrochen (Folge 169)'
+  ids: []

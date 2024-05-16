@@ -1,0 +1,47 @@
+article: '2000010358'
+lock-data: false
+data:
+- series: PAW Patrol
+  series-id: paw-patrol
+  episode: 'Folgen 304-306: Der Schlafkessel'
+  release: 1715731200
+  language: de-de
+  category: audio-play
+  runtime: 3387
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/0ce21c196755cb477c9c016560a6b71aec915855caef5fff5aa245ae/3__zGdT6fp_x1mFyVN/paw_patrol_304_folgen_304_306__der_schlafkesse_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/ea24e75df75d627f65551a1043641c84f77cfc27171e8288bf9ccfa9/4013575935871_preview.mp3
+  web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-304-306-der-schlafkessel/
+  shop-id: 7954284e-bf4a-4f28-9f49-cbfcc493fabd
+  track-desc:
+  - PAW Patrol Lied
+  - 'Kapitel 01: Die Rätselbox (Folge 304)'
+  - 'Kapitel 02: Die Rätselbox (Folge 304)'
+  - 'Kapitel 03: Die Rätselbox (Folge 304)'
+  - 'Kapitel 04: Die Rätselbox (Folge 304)'
+  - 'Kapitel 05: Die Rätselbox (Folge 304)'
+  - 'Kapitel 06: Die Rätselbox (Folge 304)'
+  - 'Kapitel 07: Die Rätselbox (Folge 304)'
+  - 'Kapitel 01: Die Monsterschnabel-Insel (Folge 305)'
+  - 'Kapitel 02: Die Monsterschnabel-Insel (Folge 305)'
+  - 'Kapitel 03: Die Monsterschnabel-Insel (Folge 305)'
+  - 'Kapitel 04: Die Monsterschnabel-Insel (Folge 305)'
+  - 'Kapitel 05: Die Monsterschnabel-Insel (Folge 305)'
+  - 'Kapitel 06: Die Monsterschnabel-Insel (Folge 305)'
+  - 'Kapitel 07: Die Monsterschnabel-Insel (Folge 305)'
+  - 'Kapitel 01: Der Schlafkessel (Folge 306)'
+  - 'Kapitel 02: Der Schlafkessel (Folge 306)'
+  - 'Kapitel 03: Der Schlafkessel (Folge 306)'
+  - 'Kapitel 04: Der Schlafkessel (Folge 306)'
+  - 'Kapitel 05: Der Schlafkessel (Folge 306)'
+  - 'Kapitel 06: Der Schlafkessel (Folge 306)'
+  - 'Kapitel 07: Der Schlafkessel (Folge 306)'
+  - 'Kapitel 08: Der Schlafkessel (Folge 306)'
+  - 'Kapitel 09: Der Schlafkessel (Folge 306)'
+  - 'Kapitel 10: Der Schlafkessel (Folge 306)'
+  - 'Kapitel 11: Der Schlafkessel (Folge 306)'
+  - 'Kapitel 12: Der Schlafkessel (Folge 306)'
+  - 'Kapitel 13: Der Schlafkessel (Folge 306)'
+  - 'Kapitel 14: Der Schlafkessel (Folge 306)'
+  ids: []

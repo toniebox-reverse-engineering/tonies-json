@@ -1,0 +1,45 @@
+article: '2000011111'
+lock-data: false
+data:
+- series: PAW Patrol
+  series-id: paw-patrol
+  episode: 'Folgen 330-333: Der freche Tintenfisch'
+  release: 1715731200
+  language: de-de
+  category: audio-play
+  runtime: 3157
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/99ac4608d9e538be2c18fbb632c03f38d37fa847284c59dcf07319f4/3_CL7cNl-bp4gKZVmw/paw_patrol_330_folgen_330_333__der_freche_tint_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/39e6cbcee235a34ff20dba8bd83cab0f2de8c5a1d326c19ce9326ece/4013575946921_preview.mp3
+  web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-330-333-der-freche-tintenfisch/
+  shop-id: ca69428d-2fd8-4031-9617-615b164ec1ec
+  track-desc:
+  - PAW Patrol Lied
+  - 'Kapitel 01: Die schwebende Tanzfläche (Folge 330)'
+  - 'Kapitel 02: Die schwebende Tanzfläche (Folge 330)'
+  - 'Kapitel 03: Die schwebende Tanzfläche (Folge 330)'
+  - 'Kapitel 04: Die schwebende Tanzfläche (Folge 330)'
+  - 'Kapitel 05: Die schwebende Tanzfläche (Folge 330)'
+  - 'Kapitel 06: Die schwebende Tanzfläche (Folge 330)'
+  - 'Kapitel 01: Der freche Tintenfisch (Folge 331)'
+  - 'Kapitel 02: Der freche Tintenfisch (Folge 331)'
+  - 'Kapitel 03: Der freche Tintenfisch (Folge 331)'
+  - 'Kapitel 04: Der freche Tintenfisch (Folge 331)'
+  - 'Kapitel 05: Der freche Tintenfisch (Folge 331)'
+  - 'Kapitel 06: Der freche Tintenfisch (Folge 331)'
+  - 'Kapitel 07: Der freche Tintenfisch (Folge 331)'
+  - 'Kapitel 01: Babysitter Besserwisser (Folge 332)'
+  - 'Kapitel 02: Babysitter Besserwisser (Folge 332)'
+  - 'Kapitel 03: Babysitter Besserwisser (Folge 332)'
+  - 'Kapitel 04: Babysitter Besserwisser (Folge 332)'
+  - 'Kapitel 05: Babysitter Besserwisser (Folge 332)'
+  - 'Kapitel 06: Babysitter Besserwisser (Folge 332)'
+  - 'Kapitel 01: Das frostige Gewächshaus (Folge 333)'
+  - 'Kapitel 02: Das frostige Gewächshaus (Folge 333)'
+  - 'Kapitel 03: Das frostige Gewächshaus (Folge 333)'
+  - 'Kapitel 04: Das frostige Gewächshaus (Folge 333)'
+  - 'Kapitel 05: Das frostige Gewächshaus (Folge 333)'
+  - 'Kapitel 06: Das frostige Gewächshaus (Folge 333)'
+  - 'Kapitel 07: Das frostige Gewächshaus (Folge 333)'
+  ids: []
