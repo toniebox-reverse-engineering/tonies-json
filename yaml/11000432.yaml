@@ -21,4 +21,9 @@ data:
   - 'Kapitel 04: Hercules'
   - 'Kapitel 05: Hercules'
   - 'Kapitel 06: Hercules'
-  ids: []
+  ids:
+  - audio-id:  1712245263
+    hash: b32471d3fd6329f4ac35aee7d10f6b606a8cb235
+    size: 34717579
+    tracks: 6
+    confidence: 0
