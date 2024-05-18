@@ -2,7 +2,7 @@ article: '10000200'
 lock-data: false
 data:
 - series: Lieblings-Klassiker
-  series-id: lieblings-klassiker
+  series-id: mes-classiques-preferes
   episode: Robinson Crusoe und vier weitere Klassiker
   release: 1580947200
   language: de-de
