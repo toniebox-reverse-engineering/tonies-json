@@ -1,0 +1,18 @@
+article: 99-0005
+lock-data: false
+data:
+- series: Tonie Créatif
+  series-id: null
+  episode: Gulli
+  release: 0
+  language: fr-fr
+  category: creative-tonie
+  runtime: 0
+  age: 99
+  origin: stock
+  image: https://cdn.tonies.de/thumbnails/0107b8f4a57007aa0b7ea4e85e525bf6db51a6b0.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids: []
