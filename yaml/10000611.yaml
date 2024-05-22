@@ -43,6 +43,11 @@ data:
   - 'Kapitel 26: Verhext und festgeklebt'
   - 'Kapitel 27: Verhext und festgeklebt'
   ids:
+  - audio-id: 1716380875
+    hash: 4ec2c7d429db95937f54eb864238d12347958f24
+    size: 93295925
+    tracks: 38
+    confidence: 1
   - audio-id: 1705578723
     hash: 5927ba9f2e13f670047f918560268ce42554b8ba
     size: 93510664
