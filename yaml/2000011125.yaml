@@ -1,19 +1,19 @@
-article: '2000011126'
+article: '2000011125'
 lock-data: false
 data:
-- series: Das Sams
-  series-id: das-sams
-  episode: Am Samstag kam das Sams zurück
+- series: Die Olchis
+  series-id: die-olchis
+  episode: Willkommen in Schmuddelfing
   release: 1716336000
   language: de-de
   category: audio-play
-  runtime: 11999
+  runtime: 10844
   age: 6
   origin: tunes
-  image: https://cdn.tonies.de/o/images/721d47288c7349f6a64815b80281c29a1e9ea31e480d325754c84e3e/3_cKmG1-hFx3Hn4D-r/das_sams_002_am_samstag_kam_das_sams_zuruck_530x530.jpg
-  sample: null
-  web: https://tonies.com/de-de/audio-content/das-sams/am-samstag-kam-das-sams-zuruck-2/
-  shop-id: dbf8c430-0721-408b-8d53-1e2f26ce9bde
+  image: https://cdn.tonies.de/o/images/cc7d2600eda86b6139b94db9894ac1a423b427f1ec93458c99366f7a/3_hW09GplqQ-ww4wcb/die_olchis_willkommen_in_schmuddelfing_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/85b99fc0fb886fbc09fcd0044c3b88d405aa2ff9406f9a6199509205/9783837367706_preview.mp3
+  web: https://tonies.com/de-de/audio-content/die-olchis/willkommen-in-schmuddelfing/
+  shop-id: 5d59c846-54ef-4913-84f8-e868f9898fd2
   track-desc:
   - Kapitel 1
   - Kapitel 2
@@ -49,4 +49,9 @@ data:
   - Kapitel 32
   - Kapitel 33
   - Kapitel 34
+  - Kapitel 35
+  - Kapitel 36
+  - Kapitel 37
+  - Kapitel 38
+  - Kapitel 39
   ids: []
