@@ -10,7 +10,7 @@ data:
   runtime: 10340
   age: 6
   origin: tunes
-  image: null
+  image: https://cdn.tonies.de/o/images/b64002660f966d3c8ef17f18b7201dd4cb9af048f4a91c4d4ad0603d/3_9_pSbzwQDRq1Wm6l/das_sams_009_das_sams_feiert_weihnachten_530x530.jpg
   sample: https://cdn.tonies.de/o/audio_samples/f5034efd73a0a038f27b399d208d7c17d3e33b95ff37b87104996f72/9783837365986_preview.mp3
   web: https://tonies.com/de-de/audio-content/das-sams/das-sams-feiert-weihnachten/
   shop-id: 42601224-ab13-41c0-aaf8-3065b49abed0
