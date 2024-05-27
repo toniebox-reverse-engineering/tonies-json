@@ -11,7 +11,7 @@ data:
   age: 3
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/Schlummerbaer_mit_Ei-32pE1Nrk.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/f35c9b1f778a807f51795096a9c66dc70092eeea2c9d8debea1e59ae/schlummerbaer_nachtlicht_hoerprobe_44_16_01_1.wav
   web: https://tonies.com/de-de/tonies/schlummerbande/nachtlicht-tonie-schlummerbr/
   shop-id: ebf7dac5-8922-4fe7-a165-77e85d8fb062
   track-desc:
