@@ -3,11 +3,11 @@ lock-data: false
 data:
 - series: Lotta
   series-id: lotta
-  episode: Na klar, Lotta kann Radfahren / Lotta zieht um
+  episode: Na klar, Lotta kann Rad fahren und zwei weitere Geschichten
   release: 1678233600
   language: de-de
   category: audio-book
-  runtime: 56
+  runtime: 74
   age: 4
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000994-50003243-b-qYPLCYsh.png
@@ -15,16 +15,18 @@ data:
   web: https://tonies.com/de-de/tonies/lotta/na-klar-lotta-kann-radfahren-lotta-zieht-um/
   shop-id: 162a9bb1-38f5-4bbe-8f5a-758d88eb7ed0
   track-desc:
-  - Natürlich kann ich Rad fahren!“
-  - Und dann legte Lotta los!
-  - Alle sind gemein zu Lotta
-  - Lotta, du kommst wohl gleich herunter…“
-  - Lotta zieht aus
-  - Wohin soll Lotta ziehen?
-  - Lotta mietet eine Wohnung
-  - Und Tante Berg schleppte ganz brav die Möbel herbei.
-  - Lotta bekommt Besuch
-  - Bin ich nachts so ganz allein
+  - Na klar, Lotta kann Rad fahren - „Natürlich kann ich Rad fahren!“
+  - Na klar, Lotta kann Rad fahren - Und dann legte Lotta los!
+  - Natürlich ist Lotta ein fröhliches Kind - „Jetzt bin ich aber böse“
+  - Natürlich ist Lotta ein fröhliches Kind - Dann schleppte Lotta ihre Tüten
+  - Lotta zieht um - Alle sind gemein zu Lotta
+  - Lotta zieht um - „Lotta, du kommst wohl gleich herunter…“
+  - Lotta zieht um - Lotta zieht aus
+  - Lotta zieht um - Wohin soll Lotta ziehen?
+  - Lotta zieht um - Lotta mietet eine Wohnung
+  - Lotta zieht um - Und Tante Berg schleppte ganz brav die Möbel herbei.
+  - Lotta zieht um - Lotta bekommt Besuch
+  - Lotta zieht um - Bin ich nachts so ganz allein
   ids:
   - audio-id: 1676300856
     hash: 47dfc05bedd1fe3c0bb9582211a55f7825ef7364

@@ -2,7 +2,7 @@ article: '10000943'
 lock-data: false
 data:
 - series: The Very Hungry Caterpillar
-  series-id: the-very-hungry-caterpillar-2
+  series-id: hungry-caterpillar-us
   episode: The Very Hungry Caterpillar and Friends
   release: 1716163200
   language: en-gb
@@ -12,7 +12,7 @@ data:
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/10000943_PDP2-XBl2WwVU.png
   sample: https://cdn.tonies.de/o/audio_samples/3cb0eee66d64567f38bd3e9e62b88b97feb8a29b01701f03d3b079bf/10000943_the_very_hungry_caterpillar_sample.wav
-  web: https://tonies.com/en-gb/tonies/the-very-hungry-caterpillar-2/the-world-of-eric-carle-the-very-hungry-caterpillar-uk/
+  web: https://tonies.com/en-gb/tonies/the-very-hungry-caterpillar/the-world-of-eric-carle-the-very-hungry-caterpillar-uk/
   shop-id: 37121609-e984-4871-82ec-54ade017fd67
   track-desc:
   - The Very Hungry Caterpillar
