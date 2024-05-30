@@ -49,6 +49,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000513,Disney & Pixar,,Finding Nemo,en-us,Tonie,stock,5519143960727,,1,0,0,0
 10000577,Disney,disney,Moana,en-gb,audio-play-songs,stock,547dc87c-1ecd-44a3-b7a1-203a236da545,https://tonies.com/en-gb/tonies/disney/moana/,1,1,0,0
 10000608,Octonauts,octonauts,Captain Barnacles,en-gb,audio-play-songs,stock,84096624-658b-47ed-aa4f-c955f01bda17,https://tonies.com/en-gb/tonies/octonauts/octonauts/,1,0,0,0
+10000654,Spongebob Squarepants,,,en-us,Tonie,stock,8260101734551,,1,0,0,0
 10000658,Disney,,Brave,en-gb,audio-play-songs,stock,,,1,0,0,0
 10000664,Disney,disney,Minnie - When we grow up,en-gb,audio-play-songs,stock,995bb377-fe72-4ca1-9d0a-bc296538d4d7,https://tonies.com/en-gb/tonies/disney/minnie-mouse/,1,0,0,0
 10000674,Disney,disney,Frozen 2,en-gb,audio-play-songs,stock,39bbbc2b-23d3-4c00-a453-c13c9480b861,https://tonies.com/en-gb/tonies/disney/frozen-2/,1,0,0,0
@@ -298,6 +299,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000441,National Geographic Kids,,Octopus,en-us,Tonie,stock,8143490941079,,1,0,0,0
 11000445,Octonauts,,Peso,en-us,Tonie,stock,8031548899479,,1,0,0,0
 11000447,Planet Omar,,Accidental Trouble Magnet,en-us,Tonie,stock,7907850649751,,1,1,0,0
+11000456,Peppa Pig,,My First Album,en-us,Tonie,stock,8258465988759,,1,0,0,0
 11000457,Calm x tonies®,,,en-us,Tonie,stock,7806525866135,,1,1,0,0
 11000458,Calm,,Calm,en-gb,,stock,d7d0d398-f289-47f3-acff-8e0cb0a47158,https://tonies.com/de-de///,1,0,0,0
 11000462,MARVEL Spidey and His Amazing Friends,marvel-spidey-and-his-amazing-friends,Spidey und seine Super-Freunde - Das Spidey Team & 3 weitere spannende Abenteuer,de-de,audio-play,stock,fb34e8ef-b3e2-4360-b8e2-da048a87df28,https://tonies.com/de-de/tonies/marvel-spidey-and-his-amazing-friends/marvel-spidey-und-seine-super-freunde-das-spidey-team-3-weitere-spannende-abenteuer/,1,1,0,0
@@ -314,8 +316,12 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000605,Trolls,trolls,Viva,en-gb,audio-play-songs,stock,d22ca57c-4c41-4461-81b1-f8d558734784,https://tonies.com/en-gb/tonies/trolls/viva/,1,0,0,0
 11000608,Spidey Et Ses Amis Extraordinaires,spidey-et-ses-amis-extraordinaires,Ghost-Spider,fr-fr,audio-play-songs,stock,4b745f3a-0e10-42a9-990f-6c5b1ec0c8ad,https://tonies.com/fr-fr/tonies/spidey-et-ses-amis-extraordinaires/ghost-spider/,1,0,0,0
 11000609,Spidey Et Ses Amis Extraordinaires,spidey-et-ses-amis-extraordinaires,Miles Morales,fr-fr,audio-play-songs,stock,1b73316c-a179-4b6f-9e38-a773b8c3b606,https://tonies.com/fr-fr/tonies/spidey-et-ses-amis-extraordinaires/miles-morales/,1,0,0,0
+11000645,PAW Patrol Jungle Pups,,Chase,en-us,Tonie,stock,8258466644119,,1,0,0,0
+11000646,PAW Patrol Jungle Pups,,Marshall,en-us,Tonie,stock,8258467790999,,1,0,0,0
 11000720,Schlummerbande,schlummerbande,Nachtlicht Tonie - Schlummerbär,de-de,music,stock,ebf7dac5-8922-4fe7-a165-77e85d8fb062,https://tonies.com/de-de/tonies/schlummerbande/nachtlicht-tonie-schlummerbr/,1,0,0,0
 11000736,Lieblings-Klassiker,mes-classiques-preferes,Der Zauberer von Oz und zwei weitere Klassiker,de-de,audio-book,stock,6c4a4d73-bce2-4960-a05b-7369c90e62bd,https://tonies.com/de-de/tonies/lieblings-klassiker/der-zauberer-von-oz-und-zwei-weitere-klassiker/,1,0,0,0
+11000744,Canciones Infantiles Favoritas,,Canciones De Celebración En Español,en-us,Tonie,stock,8225965408407,,1,0,0,0
+11000757,Doggyland,,,en-us,Tonie,stock,8236933742743,,1,0,0,0
 11000758,Mes Contes Préférés,lieblings-marchen,Le Chat Botté Et 3 Autres Contes,fr-fr,audio-play,stock,ae9e38eb-0b17-49ec-80ec-825e1d81daba,https://tonies.com/fr-fr/tonies/mes-contes-preferes/le-chat-botte-et-3-autres-contes/,1,0,0,0
 11000766,Lieblings-Klassiker,lieblings-klassiker,Alice im Wunderland und zwei weitere Klassiker,de-de,audio-book,stock,95fe2724-6c84-46bd-9e09-c73429707445,https://tonies.com/de-de/tonies/lieblings-klassiker/alice-im-wunderland-und-zwei-weitere-klassiker/,1,0,0,0
 11000767,Die Kackwurstfabrik,die-kackwurstfabrik,Die Kackwurstfabrik,de-de,audio-play,stock,2d9b636c-1474-45b7-b8e6-3e4309521b61,https://tonies.com/de-de/clever-tonies/die-kackwurstfabrik/die-kackwurstfabrik-dach/,1,0,0,0
