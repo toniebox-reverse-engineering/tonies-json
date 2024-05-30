@@ -1,0 +1,18 @@
+article: '10000654'
+lock-data: false
+data:
+- series: Spongebob Squarepants
+  series-id: null
+  episode: null
+  release: 1717088738
+  language: en-us
+  category: Tonie
+  runtime: 0
+  age: 99
+  origin: stock
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tonies-PDP-Assets-spongebob-transparent_1_b322349b-0b5c-4bce-a9e0-de1235e81b30.png?v=1717088902
+  sample: null
+  web: null
+  shop-id: '8260101734551'
+  track-desc: []
+  ids: []

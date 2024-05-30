@@ -1,0 +1,18 @@
+article: '11000456'
+lock-data: false
+data:
+- series: Peppa Pig
+  series-id: null
+  episode: My First Album
+  release: 1717088588
+  language: en-us
+  category: Tonie
+  runtime: 0
+  age: 99
+  origin: stock
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tonies-PDP-Assets-my_first_album-single.jpg?v=1716922791
+  sample: null
+  web: null
+  shop-id: '8258465988759'
+  track-desc: []
+  ids: []
