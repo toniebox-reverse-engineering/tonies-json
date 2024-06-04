@@ -1,0 +1,22 @@
+article: '11000411'
+lock-data: false
+data:
+- series: The Velveteen Rabbit
+  series-id: the-velveteen-rabbit-2
+  episode: The Velveteen Rabbit
+  release: 1718236800
+  language: en-gb
+  category: audio-book-songs
+  runtime: 30
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11000411_PDP1-q3Tc0-Pt.png
+  sample: https://cdn.tonies.de/o/audio_samples/08583d96345dbcd526043d7da98c97e7fb8dd24d2b206ddc9556eff0/11000411_the_velveteen_rabbit_sample.wav
+  web: https://tonies.com/en-gb/tonies/the-velveteen-rabbit-2/the-velveteen-rabbit/
+  shop-id: e76d60b6-03c9-444e-a0c1-74a84f0da831
+  track-desc:
+  - Intro
+  - The Velveteen Rabbit (Part 1)
+  - The Velveteen Rabbit (Part 2)
+  - Nursery Magic
+  ids: []

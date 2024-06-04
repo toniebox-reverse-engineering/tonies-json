@@ -1,0 +1,22 @@
+article: '11000470'
+lock-data: false
+data:
+- series: Moshi
+  series-id: moshi
+  episode: Sleepy Paws
+  release: 1718236800
+  language: en-gb
+  category: audio-play-songs
+  runtime: 76
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11000470_PDP1-z9hAGRbW.png
+  sample: https://cdn.tonies.de/o/audio_samples/b54d0f589d56f3f149d129a6739e4464344d7c7bb0e847cf1cf36e05/sleepypaws_sample.wav
+  web: https://tonies.com/en-gb/tonies/moshi/sleepypaws/
+  shop-id: b890849a-9724-45cb-a2a9-0d265575ce24
+  track-desc:
+  - SleepyPaws' Teddy Bear Sleepover
+  - SleepyPaws' Pebbly Beach Walk - Story
+  - Magical Moshlight Body Scan - Meditation track
+  - Symphony for SleepyPaws - Instrumental
+  ids: []
