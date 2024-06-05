@@ -1,0 +1,22 @@
+article: '11000573'
+lock-data: false
+data:
+- series: Foot 2 Rue
+  series-id: foot-2-rue
+  episode: Jérémy
+  release: 1717632000
+  language: fr-fr
+  category: audio-play
+  runtime: 57
+  age: 6
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51003458-Tonie_Shado-nv4Efdv6.png
+  sample: https://cdn.tonies.de/o/audio_samples/8d38362938473ea88bf84c045eb2120a1d08ad423299bab5f52385f6/f2r_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/foot-2-rue/jeremy/
+  shop-id: 1b0bea2a-79f2-4dd3-bc26-dd2477d481d9
+  track-desc:
+  - Renaissance
+  - Enfermés !
+  - Le grand clash !
+  - Les Bleus en finale !
+  ids: []

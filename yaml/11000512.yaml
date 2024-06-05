@@ -1,0 +1,22 @@
+article: '11000512'
+lock-data: false
+data:
+- series: Foot 2 Rue
+  series-id: foot-2-rue
+  episode: Petit Dragon
+  release: 1717632000
+  language: fr-fr
+  category: audio-play
+  runtime: 57
+  age: 6
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51003227-Tonie_Shado-4JlSebQ1.png
+  sample: https://cdn.tonies.de/o/audio_samples/114abb41654f7c8991e82c978f7bbb2d6b1cd3f6edd7a29ec6b488dc/f2r_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/foot-2-rue/petit-dragon/
+  shop-id: 47d446af-df19-4209-852c-37205075ffc2
+  track-desc:
+  - Dans la cour des grands
+  - Visite surprise
+  - Le bon choix
+  - Chantage
+  ids: []

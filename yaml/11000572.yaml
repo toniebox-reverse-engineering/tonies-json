@@ -1,0 +1,43 @@
+article: '11000572'
+lock-data: false
+data:
+- series: Mon Petit Science & Vie
+  series-id: sciences-et-vie
+  episode: Dans Le Labo De Nano
+  release: 1717632000
+  language: fr-fr
+  category: audio-play
+  runtime: 68
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51003455-Tonie_Shado-GOHZJTve.png
+  sample: https://cdn.tonies.de/o/audio_samples/392f96be39d00a0551a602ff850ab6b085e288824d065365b61f7dd6/nano_extraitmedley_mp3.mp3
+  web: https://tonies.com/fr-fr/tonies/sciences-et-vie/dans-le-labo-de-nano/
+  shop-id: 7d30af55-ce8c-45fc-8e0a-2d65d67044b8
+  track-desc:
+  - Introduction
+  - 'Épisode #1 - Petites bêtes volantes - Histoire'
+  - 'Épisode #1 - Petites bêtes volantes - Nano te dit tout'
+  - 'Épisode #1 - Petites bêtes volantes - Jeux sonores'
+  - Interlude - Et si on était aussi petits que des fourmis ?
+  - 'Épisode #2 - Les aliments - Histoire'
+  - 'Épisode #2 - Les aliments - Nano te dit tout'
+  - 'Épisode #2 - Les aliments - Jeux sonores'
+  - Interlude - Qu’est-ce qu’il se passe quand on perd une dent ?
+  - 'Épisode #3 - La banquise - Histoire'
+  - 'Épisode #3 - La banquise - Nano te dit tout'
+  - 'Épisode #3 - La banquise - Jeux sonores'
+  - Interlude - Qu’est-ce qu'il se passe quand les animaux hibernent ?
+  - 'Épisode #4 - Les robots - Histoire'
+  - 'Épisode #4 - Les robots - Nano te dit tout'
+  - 'Épisode #4 - Les robots - Jeux sonores'
+  - Interlude - Et si on pouvait voler ?
+  - 'Épisode #5 - Les poissons - Histoire'
+  - 'Épisode #5 - Les poissons - Nano te dit tout'
+  - 'Épisode #5 - Les poissons - Jeux sonores'
+  - Interlude - Et s'il y avait de l’eau partout sur Terre ?
+  - 'Épisode #6 - Les plantes - Histoire'
+  - 'Épisode #6 - Les plantes - Nano te dit tout'
+  - 'Épisode #6 - Les plantes - Jeux sonores'
+  - Interlude - Et si les arbres pouvaient parler ?
+  ids: []
