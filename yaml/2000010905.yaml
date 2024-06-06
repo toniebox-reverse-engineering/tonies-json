@@ -7,11 +7,11 @@ data:
   release: 1711497600
   language: da-dk
   category: audio-play
-  runtime: 0
+  runtime: 9769
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/e7c02fa454c0354f608d8aa19851bcc170d8754b3d075ee95b6e9d71/3_wRsvDcDjlghkYhcf/my_little_pony_my_little_pony_equestria_girls__530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/be3f61cac6fa7f0fe3794791b8baa514fa21332c8bc884dfe9f62005/9788726312560.mp3
   web: https://tonies.com/de-de/audio-content/my-little-pony/my-little-pony-equestria-girls-det-magiske-spejl/
   shop-id: dafdef60-bc38-45db-b480-d169daaca1d5
   track-desc:

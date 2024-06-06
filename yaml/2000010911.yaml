@@ -7,11 +7,11 @@ data:
   release: 1711497600
   language: da-dk
   category: audio-play
-  runtime: 0
+  runtime: 10019
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/72ce3cbe9698086b5edeb99b5d72fb0e38a4786b88bc9c6b771342a7/3_0HfDdpNfvGk9dwRY/my_little_pony_my_little_pony_magiduellen_og_a_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/16fa00ec5ac3d92f76497784025f9dec4d665701cce7cf0606ed5040/9788726315424.mp3
   web: https://tonies.com/de-de/audio-content/my-little-pony/my-little-pony-magiduellen-og-andre-historier/
   shop-id: 49cff6a3-4c40-4cab-aaaa-71f6334743df
   track-desc:

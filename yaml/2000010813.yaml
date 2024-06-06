@@ -7,11 +7,11 @@ data:
   release: 1710288000
   language: da-dk
   category: audio-play
-  runtime: 0
+  runtime: 10904
   age: 5
   origin: tunes
   image: https://cdn.tonies.de/o/images/4aa64fa36dd842948b56f5cffe42230b4d514a7f83d79e2976ada7e8/3_H6p086tWXy-xQYZ9/pettson_and_findus_nissemaskinen_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/810f45f9e8b76c134bb7a9c5e267c801a56f23c5a869f5f6f9d2cdcf/9788711389386.mp3
   web: https://tonies.com/de-de/audio-content/pettersson-und-findus/nissemaskinen/
   shop-id: cb3b80ce-6154-443b-8204-2ea165e1b27f
   track-desc:

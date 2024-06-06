@@ -11,7 +11,7 @@ data:
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/f83025ff19f3ce1b00b8aba84501d3e88779e9608d8235ce8b9d450f/3_KpPK-TMs73YBFVc1/peppa_pig_001_swinka_peppa_nowy_dinozaur_geo_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/44f978ab8d1685474372e9ce16fb649c580f649b7c83ef81e0e5d296/9788728335673.mp3
   web: https://tonies.com/de-de/audio-content/peppa-pig/swinka-peppa-nowy-dinozaur-georgea-i-inne-historie/
   shop-id: c57b58dc-f177-462f-a274-3d6a4130dc98
   track-desc:
