@@ -1,0 +1,25 @@
+article: '10001689'
+lock-data: false
+data:
+- series: Emil Grünbär
+  series-id: emil-gruenbaer
+  episode: Emil Grünbar und die Bande – Abenteuer im Wald
+  release: 1720569600
+  language: de-de
+  category: audio-play
+  runtime: 60
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX10001689_1_a-2OK4rtq8.png
+  sample: https://cdn.tonies.de/o/audio_samples/9469878ac11125c2dce3d3bb2e375cd410c243fe91db1b865627882f/emil_gruenbaer_hoerprobe_86sek_44_16_master_140424.mp3
+  web: https://tonies.com/de-de/tonies/emil-gruenbaer/emil-grunbar-und-die-bande-abenteuer-im-wald/
+  shop-id: 734c6f4e-34a7-4b67-830a-bb51120ef07d
+  track-desc:
+  - Titelsong “Emil Grünbär”
+  - Die Wald-Wanderung
+  - Bäume fällen – steht auf dem Zettel
+  - Der Baumfäller-Chef und Emils Idee
+  - Ella hat etwas entdeckt
+  - Emil erhält einen königlichen Befehl
+  - Die Amtskönigin
+  ids: []

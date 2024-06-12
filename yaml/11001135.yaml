@@ -1,0 +1,23 @@
+article: '11001135'
+lock-data: false
+data:
+- series: Checker Tobi
+  series-id: checker-tobi
+  episode: Checker Tobi - Set
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 223
+  age: 8
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11001135_1_a-ndpar5x4.png
+  sample: https://cdn.tonies.de/o/audio_samples/320ed219577e5b332541c669c059ba59d7aebda439b4841b1570a2f7/hoerprobe_11001135_clever_tonies_checker_tobi_set.mp3
+  web: https://tonies.com/de-de/clever-tonies/checker-tobi/checker-tobi-set/
+  shop-id: 2a318fd0-646c-46d3-b141-19d8429317ac
+  track-desc:
+  - 'Der große Gefühle-Check: Freude, Wut, Traurigkeit – Das check ich'
+  - 'Der große Umwelt-Check: Klima, Wald, Wasser: Das check ich für euch!'
+  - 'Der große Digital-Check: Smartphone, Internet, Social Media – Das check ich für
+    euch!'
+  - 'Der große Gesundheits-Check: Viren, Fitness, Vitamine - Das check ich für euch!'
+  ids: []

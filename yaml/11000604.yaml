@@ -1,0 +1,39 @@
+article: '11000604'
+lock-data: false
+data:
+- series: Sing Kinderlieder
+  series-id: sing-kinderlieder
+  episode: Milo, das Müllauto-Kind & seine Freunde - Abenteuer in der großen Stadt
+  release: 0
+  language: de-de
+  category: music
+  runtime: 60
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11000604_1_a-udXwOUrQ.png
+  sample: https://cdn.tonies.de/o/audio_samples/c9257cef5ce2bc3e3a45fa0c859ac36804a6c3239b94ea121b4c29fe/hoerprobe_11000604_sing_kinderlieder_milo_das_mullautokind_und_seine_freunde_abenteuer_in_der_groen_s.mp3
+  web: https://tonies.com/de-de/tonies/sing-kinderlieder/milo-das-mullauto-kind-seine-freunde-abenteuer-in-der-groen-stadt/
+  shop-id: 9151f64d-cb01-4dd1-96c4-c2e918a63455
+  track-desc:
+  - Der Müllauto-Song (Tut-tut, wir brausen durch die Stadt)
+  - Billy Betonmischer (Drehen und mischen)
+  - Ich kann das ganz allein (Das Mülltrennungslied)
+  - Kira Kehrmaschine
+  - Öffis, Öffis, Öffis (Wir sind die Öffis!)
+  - Das Hundekacka-Lied
+  - Fahrrad Fritz (Ring Ring)
+  - Das Stadt-ABC
+  - Dr. Sperrmüll
+  - Rattenparty
+  - Manni, die Müllpresse
+  - Schorsch, der Schneepflug
+  - Schilderwald
+  - Der Ampelmann
+  - Willy von der Wasserwacht
+  - Abla Abschleppwagen (Ja, ich schlepp ab, ab, ab!)
+  - Pippa mit der Post
+  - Tatü Tata (Feuerwehr, Polizei, Krankenwagen)
+  - Tilly, die Taube
+  - In der Stadt (Das Geräuschelied)
+  - Wenn die Stadt schlafen geht
+  ids: []
