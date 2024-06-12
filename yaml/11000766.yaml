@@ -2,7 +2,7 @@ article: '11000766'
 lock-data: false
 data:
 - series: Lieblings-Klassiker
-  series-id: lieblings-klassiker
+  series-id: mes-classiques-preferes
   episode: Alice im Wunderland und zwei weitere Klassiker
   release: 0
   language: de-de
@@ -15,10 +15,10 @@ data:
   web: https://tonies.com/de-de/tonies/lieblings-klassiker/alice-im-wunderland-und-zwei-weitere-klassiker/
   shop-id: 95fe2724-6c84-46bd-9e09-c73429707445
   track-desc:
-  - Alice im Wunderland - Part 1
-  - Alice im Wunderland - Part 2
-  - Moby Dick - Part 1
-  - Moby Dick - Part 2
-  - Das Dschungelbuch - Part 1
-  - Das Dschungelbuch - Part 2
+  - Alice Im Wunderland Folge 01
+  - Alice Im Wunderland Folge 02
+  - Alice Im Wunderland Folge 03
+  - Alice Im Wunderland Folge 04
+  - Alice Im Wunderland Folge 05
+  - Alice Im Wunderland Folge 06
   ids: []
