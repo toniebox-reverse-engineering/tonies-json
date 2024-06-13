@@ -1,7 +1,7 @@
 article: '11000250'
 lock-data: false
 data:
-- series: Schüttel den Apfelbaum & Schaukel das Schaf
+- series: Schüttel den Apfelbaum
   series-id: schuettel-den-apfelbaum-schaukel-das-schaf
   episode: Schüttel den Apfelbaum & Schaukel das Schaf
   release: 0
@@ -12,7 +12,7 @@ data:
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11000250_1_a-J62ZkDOx.png
   sample: https://cdn.tonies.de/o/audio_samples/0b89369e701da6af0efcc93b4c5987a0e3f29348b4cf0d02fff9190d/heorprobe_11000250_schuttel_den_apfelbaum_schaukel_das_schaf.mp3
-  web: https://tonies.com/de-de/tonies/schuettel-den-apfelbaum-schaukel-das-schaf/schuttel-den-apfelbaum-apfelbaum-schaukel-das-schaf-dach/
+  web: https://tonies.com/de-de/tonies/schuettel-den-apfelbaum/schuttel-den-apfelbaum-apfelbaum-schaukel-das-schaf-dach/
   shop-id: ee152cd2-1312-4e82-bc86-c8935bda1c95
   track-desc:
   - Schüttel Den Apfelbaum - Einführung
