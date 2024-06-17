@@ -2,7 +2,7 @@ article: '11000720'
 lock-data: false
 data:
 - series: Schlummerbande
-  series-id: schlummerbande
+  series-id: sleepy-friends
   episode: Nachtlicht Tonie - Schlummerbär
   release: 0
   language: de-de
@@ -15,5 +15,5 @@ data:
   web: https://tonies.com/de-de/tonies/schlummerbande/nachtlicht-tonie-schlummerbr/
   shop-id: ebf7dac5-8922-4fe7-a165-77e85d8fb062
   track-desc:
-  - '06: Der kleine Bär im Schlummerwald'
+  - '09: Einschlafmelodie "Der kleine Bär im Schlummerwald"'
   ids: []
