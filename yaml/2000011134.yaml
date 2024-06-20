@@ -1,0 +1,23 @@
+article: '2000011134'
+lock-data: false
+data:
+- series: Willa und Schnüff
+  series-id: willa-und-schnueff
+  episode: Im Urlaub
+  release: 1718755200
+  language: de-de
+  category: audio-book
+  runtime: 1368
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_a34342b2fb8b43846280aab879760e011157a1d4dd61d824567754af/3_4bTw7KD4r98RlNhS/willa_und_schnuff_im_urlaub_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/35939b21062fb7599ebe52d1383a1868392d329ce1a5d08cd077f0de/willa_und_schnuff_im_urlaub_30sec.wav
+  web: https://tonies.com/de-de/audio-content/willa-und-schnueff/willa-schnuff-im-urlaub/
+  shop-id: c1f0b23a-c7ca-4dda-8084-f601dfa0c077
+  track-desc:
+  - Teil 1
+  - Teil 2
+  - Teil 3
+  - Teil 4
+  - Teil 5
+  ids: []
