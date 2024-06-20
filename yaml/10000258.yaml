@@ -11,7 +11,7 @@ data:
   age: 5
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000258-50001468-b-92QC_n5-.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/92ec328e58db7d69b9db60f296eca15161e8df95239e9d528db9fd6b/hoerprobe_10000258_lieblingsmeisterstucke_hansel_und_gretel.mp3
   web: https://tonies.com/de-de/tonies/lieblings-meisterstuecke/haensel-und-gretel/
   shop-id: 44645d35-eb1f-4ec2-b68c-04f3dd172d32
   track-desc:
