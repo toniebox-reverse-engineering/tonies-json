@@ -6,7 +6,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000005,Highway Rat,highway-rat,Highway Rat,en-gb,audio-book-songs,stock,64132198-c82f-4f56-a30b-1620589b45a6,https://tonies.com/en-gb/tonies/highway-rat/highway-rat/,1,0,0,0
 10000006,Zog,zog,Zog,en-gb,audio-book-songs,stock,07984db1-13a3-4f6a-84b6-27b6ba1b0f74,https://tonies.com/en-gb/tonies/zog/zog/,1,1,0,0
 10000007,Julia Donaldson,julia-donaldson,Stick Man,en-gb,audio-book-songs,stock,b73dfc00-f6d7-4924-a859-b0677e33ff5c,https://tonies.com/en-gb/tonies/julia-donaldson/stick-man/,1,1,0,0
-10000008,HOW AND WHY,,The Age of Dinosaurs / Prehistoric Animals,en-gb,audio-play-educational,stock,,,1,0,0,0
+10000008,HOW AND WHY,,The Age of Dinosaurs / Prehistoric Animals,en-gb,audio-play-educational,stock,,,1,0,0,1
 10000009,HOW AND WHY,,Fabulous Horses / The Mongol Steppe Riders,en-gb,audio-play-educational,stock,,,1,1,1,1
 10000010,Favourite Children’s Songs,,Bedtime Songs and Lullabies,en-gb,music,stock,,,1,1,1,2
 10000011,Favourite Children’s Songs,,Playtime and Action Songs,en-gb,music,stock,,,1,1,1,2
@@ -67,7 +67,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000224,Creative-Tonie,,Easter Bunny,en-gb,creative-tonie,stock,,,1,0,0,0
 10000225,Guess How Much I Love You,guess-how-much-i-love-you,Guess How Much I Love You,en-gb,audio-play-songs,stock,78e82d6a-bb4e-4616-9e77-d52ac2422a56,https://tonies.com/en-gb/tonies/guess-how-much-i-love-you/guess-how-much-i-love-you/,1,0,0,0
 10000227,Maya The Bee,,The birth of Maya,en-gb,Audiobook,stock,,,1,0,0,0
-10000228,Despicable Me,despicable-me,The Junior Novel,en-gb,audio-book,stock,90d0622f-8fb9-4cbd-b38f-409567abe6a4,https://tonies.com/en-gb/tonies/despicable-me/the-junior-novel/,1,0,0,0
+10000228,Despicable Me,despicable-me,The Junior Novel,en-gb,audio-book,stock,90d0622f-8fb9-4cbd-b38f-409567abe6a4,https://tonies.com/en-gb/tonies/despicable-me/the-junior-novel/,1,1,1,1
 10000249,Creative-Tonie,,Fairy,en-gb,creative-tonie,stock,5dc6eb33-9352-4eb0-8dfa-003c531e955e,https://tonies.com/de-de///,1,1,0,0
 10000250,Disney,disney,Cinderella,en-gb,audio-play-songs,stock,72199863-f304-4999-819a-327207686eb5,https://tonies.com/en-gb/tonies/disney/cinderella/,1,1,1,1
 10000251,Favourite Children’s Songs,,Playtime and Action Songs 2,en-gb,music,stock,,,1,1,1,1
@@ -135,7 +135,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000692,Disney,disney,Mickey and Friends,en-gb,audio-book,stock,c1688ad1-0e59-4185-a4e8-95dcccb1a8b5,https://tonies.com/en-gb/tonies/disney/mickey-and-friends/,1,0,0,0
 10000705,Sesame Street,sesame-street,Elmo,en-gb,audio-play-songs,stock,c008eeb6-dbac-49af-b247-a0709acf4b9e,https://tonies.com/en-gb/tonies/sesame-street/elmo/,1,0,0,0
 10000710,PJ Masks,pj-masks,Owlette,en-gb,audio-play,stock,1447b567-6e07-42cc-8a3c-38d7a69f3185,https://tonies.com/en-gb/tonies/pj-masks/owlette/,1,1,0,0
-10000721,Paw Patrol,paw-patrol,Skye,en-gb,audio-play,stock,1067134b-fa45-49c1-b9c2-e56b91fa6fa9,https://tonies.com/en-gb/tonies/paw-patrol/skye/,1,0,0,0
+10000721,Paw Patrol,paw-patrol,Skye,en-gb,audio-play,stock,1067134b-fa45-49c1-b9c2-e56b91fa6fa9,https://tonies.com/en-gb/tonies/paw-patrol/skye/,1,1,1,1
 10000725,PJ Masks,pj-masks,Catboy,en-gb,audio-play,stock,906093f0-f2e0-4505-a98d-0e620e6100cb,https://tonies.com/en-gb/tonies/pj-masks/catboy/,1,0,0,0
 10000728,PJ Masks,pj-masks,Gekko,en-gb,audio-play,stock,319804c0-453f-480e-a48d-3a81f06f5979,https://tonies.com/en-gb/tonies/pj-masks/gekko/,1,0,0,0
 10000730,Paw Patrol,paw-patrol,Marshall,en-gb,audio-play,stock,5fdd74cf-2f87-4b65-8b45-7e227d6f0796,https://tonies.com/en-gb/tonies/paw-patrol/marshall/,1,1,1,1
@@ -198,7 +198,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001316,National Geographic Kids,national-geographic-kids,Dinosaur,en-gb,audio-play-educational,stock,4b0e863e-49f1-4d3e-ab61-0bf13ac045fb,https://tonies.com/en-gb/tonies/national-geographic-kids/dinosaur/,1,0,0,0
 10001318,National Geographic Kids,national-geographic-kids,Astronaut,en-gb,audio-play,stock,a7fdfa72-a9c0-4429-91c2-52e85a2739da,https://tonies.com/en-gb/tonies/national-geographic-kids/astronaut/,1,0,0,0
 10001322,DC,dc,Wonder Woman,en-gb,audio-play,stock,a25e821d-e17f-4dc3-be33-e8c51fe201c9,https://tonies.com/en-gb/tonies/dc/wonder-woman/,1,0,0,0
-10001323,The Dinosaur That Pooped,the-dinosaur-that-pooped,The Dinosaur That Pooped Collection,en-gb,audio-book,stock,d6412898-ee0e-41ce-8651-26e417f63221,https://tonies.com/en-gb/tonies/the-dinosaur-that-pooped/the-dinosaur-that-pooped-collection/,1,0,0,0
+10001323,The Dinosaur That Pooped,the-dinosaur-that-pooped,The Dinosaur That Pooped Collection,en-gb,audio-book,stock,d6412898-ee0e-41ce-8651-26e417f63221,https://tonies.com/en-gb/tonies/the-dinosaur-that-pooped/the-dinosaur-that-pooped-collection/,1,1,1,1
 10001324,Ben and Holly's Little Kingdom,ben-and-holly-s-little-kingdom,Holly,en-gb,audio-play,stock,4f47309b-b667-44a4-bd12-69f8f708d124,https://tonies.com/en-gb/tonies/ben-and-holly-s-little-kingdom/ben-and-hollys-little-kingdom/,1,1,1,1
 10001325,Monty & Co,monty-co,Monty & Co,en-gb,audio-play-songs,stock,2efe2757-43bd-41d3-9a04-803123340c29,https://tonies.com/en-gb/tonies/monty-co/monty-co/,1,1,1,1
 10001340,Sleepy Friends,sleepy-friends,Bedtime Stories with Sleepy Bear,en-gb,audio-book,stock,bcec13cb-2320-4ef8-a210-657aa394b4fa,https://tonies.com/en-gb/tonies/sleepy-friends/bedtime-stories-with-sleepy-bear/,1,0,0,0
@@ -279,7 +279,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000226,Blippi,blippi,Blippi,en-gb,audio-play,stock,0e937fef-f9ee-4d53-b7e4-4abc9edc7c99,https://tonies.com/en-gb/tonies/blippi/blippi/,1,0,0,0
 11000237,Care Bears,care-bears-2,Cheer Bear,en-gb,audio-play-songs,stock,39a3a614-4d62-429a-9661-f6f9b2917c0b,https://tonies.com/en-gb/tonies/care-bears-2/cheer-bear/,1,0,0,0
 11000254,Paw Patrol,paw-patrol,Tracker,en-gb,audio-play,stock,12e48faa-ff7d-4e3f-9cbe-9bb269e7dbff,https://tonies.com/en-gb/tonies/paw-patrol/tracker/,1,0,0,0
-11000260,Peppa Pig,peppa-pig-2,Learn With Peppa Pig,en-gb,audio-play-educational,stock,39e809ed-b755-4cef-b8b8-e886cbb6e677,https://tonies.com/en-gb/tonies/peppa-pig/learn-with-peppa-pig/,1,0,0,0
+11000260,Peppa Pig,peppa-pig-2,Learn With Peppa Pig,en-gb,audio-play-educational,stock,39e809ed-b755-4cef-b8b8-e886cbb6e677,https://tonies.com/en-gb/tonies/peppa-pig/learn-with-peppa-pig/,1,1,1,1
 11000360,Octonauts,octonauts,Peso,en-gb,audio-play-songs,stock,9d3c57c1-4b23-4ef7-b78b-a02fabd6ed89,https://tonies.com/en-gb/tonies/octonauts/peso/,1,1,1,2
 11000364,Rachel Bright Series,rachel-bright-series,The Koala Who Could - Three-Book Collection,en-gb,audio-book,stock,dedd7cc0-4ad8-436b-a501-f30061b07643,https://tonies.com/en-gb/tonies/rachel-bright-series/the-koala-who-could-three-book-collection/,1,1,1,1
 11000401,Marvel,marvel,Spidey & His Amazing Friends: Spin (Miles Morales),en-gb,audio-play-songs,stock,60dc443b-7510-490e-ba6d-dee7a8de568b,https://tonies.com/en-gb/tonies/marvel/spidey-friends-spin-miles-morales/,1,1,1,1
@@ -291,7 +291,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000424,Sleepy Friends,sleepy-friends,Classical Music with Sleepy Rabbit,en-gb,music,stock,1cd2a495-cc66-4b2a-a28f-9c7b8d897225,https://tonies.com/en-gb/tonies/sleepy-friends/classical-music-with-sleepy-rabbit/,1,0,0,0
 11000458,Calm,,Calm,en-gb,,stock,d7d0d398-f289-47f3-acff-8e0cb0a47158,https://tonies.com/de-de///,1,0,0,0
 11000467,Milo,milo-2,Milo,en-gb,audio-play,stock,6bf176b2-713f-4e93-93d6-638079550586,https://tonies.com/en-gb/tonies/milo-2/milo/,1,1,1,1
-11000469,The Worst Witch,the-worst-witch,The Worst Witch,en-gb,audio-book,stock,96d0e743-350c-4a61-b947-5f70fecf457e,https://tonies.com/en-gb/tonies/the-worst-witch/the-worst-witch/,1,0,0,0
+11000469,The Worst Witch,the-worst-witch,The Worst Witch,en-gb,audio-book,stock,96d0e743-350c-4a61-b947-5f70fecf457e,https://tonies.com/en-gb/tonies/the-worst-witch/the-worst-witch/,1,1,1,1
 11000470,Moshi,moshi,Sleepy Paws,en-gb,audio-play-songs,stock,b890849a-9724-45cb-a2a9-0d265575ce24,https://tonies.com/en-gb/tonies/moshi/sleepypaws/,1,0,0,0
 11000471,Moshi,moshi,Fluttercup,en-gb,audio-play-songs,stock,f9ef304c-0c0c-4bd7-a99d-3c846f396e89,https://tonies.com/en-gb/tonies/moshi/fluttercup/,1,0,0,0
 11000477,Dino Ranch,dino-ranch,Dino Ranch,en-gb,audio-play,stock,a5735a43-b5ad-4fde-b074-d0ff067f7c40,https://tonies.com/en-gb/tonies/dino-ranch/dino-ranch/,1,0,0,0
@@ -301,7 +301,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000596,Burpee Bears,burpee-bears,Burpee Bears,en-gb,audio-book,stock,d2414366-db00-42cb-b86e-3def2f9c073d,https://tonies.com/en-gb/tonies/burpee-bears/burpee-bears/,1,1,1,1
 11000605,Trolls,trolls,Viva,en-gb,audio-play-songs,stock,d22ca57c-4c41-4461-81b1-f8d558734784,https://tonies.com/en-gb/tonies/trolls/viva/,1,0,0,0
 11000631,Advent calendar,advent-calendar,The Little Reindeer's Christmas Wish,en-gb,audio-play,stock,2fbcc068-b538-478b-9081-cac9565e3df9,https://tonies.com/en-gb/tonies/advent-calendar/the-little-reindeers-christmas-wish/,1,1,1,1
-11000782,Today with tonies,today-with-tonies,tonies® Podcast,en-gb,audio-play,stock,a742a774-63b0-450f-8303-6552b3c99bc9,https://tonies.com/en-gb/tonies/today-with-tonies/today-with-tonies/,1,170,169,1
+11000782,Today with tonies,today-with-tonies,tonies® Podcast,en-gb,audio-play,stock,a742a774-63b0-450f-8303-6552b3c99bc9,https://tonies.com/en-gb/tonies/today-with-tonies/today-with-tonies/,1,171,170,1
 2000010666,Aumio,aumio,Cozy Bedtime Stories,en-gb,audio-book,tunes,ba85a896-431f-4573-b001-7b99567252e2,https://tonies.com/de-de/audio-content/aumio/aumio-cozy-bedtime-stories/,1,0,0,0
 2000010667,Aumio,aumio,Sleep Journey to the Mindu Galaxy,en-gb,audio-book,tunes,58e33690-ae85-417f-aedc-8c2a8b4b651a,https://tonies.com/de-de/audio-content/aumio/aumio-sleep-journey-to-the-mindu-galaxy/,1,0,0,0
 2000010668,Aumio,aumio,Sleep Journey to the Dream Circus Galaxy,en-gb,audio-book,tunes,12f93d33-fb59-481c-b8e5-19422aaf8c8d,https://tonies.com/de-de/audio-content/aumio/aumio-sleep-journey-to-the-dream-circus-galaxy/,1,0,0,0
