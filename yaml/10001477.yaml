@@ -20,4 +20,9 @@ data:
   - 'Chanson : L''explorateur'
   - 'Chanson : Notre terre'
   - 'Chanson : Le bleu lumière'
-  ids: []
+  ids:
+  - audio-id: 1651574069
+    hash: 1750190f530978c737e095f35a8c366fc553d3a7
+    size: 24376557
+    tracks: 5
+    confidence: 1

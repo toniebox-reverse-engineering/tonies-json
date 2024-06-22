@@ -24,4 +24,9 @@ data:
   - 'Read-along: The Dinosaur That Pooped The Past!'
   - 'Read-along: The Dinosaur That Pooped A Planet!'
   - 'Read-along: The Dinosaur That Pooped Christmas!'
-  ids: []
+  ids:
+  - audio-id: 1712327576
+    hash: f4d9ec4805b5538594abec3ac491d15c9883e7e5
+    size: 31129362
+    tracks: 9
+    confidence: 1

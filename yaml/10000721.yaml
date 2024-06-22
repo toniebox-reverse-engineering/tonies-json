@@ -17,4 +17,9 @@ data:
   track-desc:
   - '1–15 Sea Patrol: Pirate Pups to the Rescue'
   - '16–29 Sea Patrol: Pups save Puplantis'
-  ids: []
+  ids:
+  - audio-id: 1624354137
+    hash: 7ecdfdd7c45d59d7abcf49510aaf6ba06b8d6828
+    size: 43683438
+    tracks: 29
+    confidence: 1

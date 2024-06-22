@@ -25,4 +25,9 @@ data:
   - Chapter 8
   - Chapter 9
   - Chapter 10
-  ids: []
+  ids:
+  - audio-id: 1712234990
+    hash: e774352092992b567eeff18561d2eaea51f9da1c
+    size: 40119693
+    tracks: 10
+    confidence: 1

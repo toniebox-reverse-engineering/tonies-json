@@ -24,4 +24,9 @@ data:
   - Le trampoline
   - Le canoë
   - La brouette
-  ids: []
+  ids:
+  - audio-id: 1664445321
+    hash: 46c8a6a02c07ceda05a27f53a5b7b4975aceaf97
+    size: 32989823
+    tracks: 9
+    confidence: 1

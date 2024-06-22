@@ -23,4 +23,9 @@ data:
   - Chapitre 5 - Derrière la porte secrète
   - Chapitre 6 - Au cœur de la forêt
   - Chapitre 7 - Tout ne fait que commencer
-  ids: []
+  ids:
+  - audio-id: 1697644071
+    hash: dea1788ba53c60ad58fe8c6830870c971b7501f8
+    size: 39303678
+    tracks: 8
+    confidence: 1

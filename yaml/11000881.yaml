@@ -1,0 +1,38 @@
+article: '11000881'
+lock-data: false
+data:
+- series: null
+  series-id: null
+  episode: null
+  release: 0
+  language: null
+  category: null
+  runtime: 0
+  age: 99
+  origin: null
+  image: null
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1714521106
+    hash: c1d1f03ddce96930c905e1730cba300f344f65d4
+    size: 24152455
+    tracks: 6
+    confidence: 1
+  - audio-id: 1708691712
+    hash: c8573b15a3df1b859c6fbe9fec61564fdacfd302
+    size: 21454680
+    tracks: 6
+    confidence: 1
+  - audio-id: 1708691641
+    hash: bc2334b464ff478ac68ea9cc6e4675d5ce8e3471
+    size: 22556241
+    tracks: 6
+    confidence: 1
+  - audio-id: 1708691486
+    hash: dbecd8a0f040622975848ee25f6e1952e7e7285a
+    size: 19764030
+    tracks: 6
+    confidence: 1

@@ -21,4 +21,9 @@ data:
   - Les instruments du Maghreb
   - Les instruments de la fanfare
   - Les instruments de Saxo et son joyeux ensemble
-  ids: []
+  ids:
+  - audio-id: 1630393789
+    hash: 58fb41214d9fd398a2d8087bdb98cb35dee48a67
+    size: 54187058
+    tracks: 68
+    confidence: 1
