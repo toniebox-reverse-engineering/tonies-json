@@ -20,6 +20,26 @@ data:
   - Medizin - Gesundheit auf der Spur
   - Raketenwissenschaft - Gegen die Schwerkraft
   ids:
+  - audio-id: 1719490067
+    hash: b6bd5ac5d6bab455f641c7ac7f29e7b8cb60715c
+    size: 25419962
+    tracks: 6
+    confidence: 1
+  - audio-id: 1719490058
+    hash: 37d4de2c02085d1c49d5c9b0048e897b61bded6a
+    size: 24405582
+    tracks: 6
+    confidence: 1
+  - audio-id: 1719490048
+    hash: 1fe3aad5ccd1cd30c1b5e97f09867fcb3dfad8d5
+    size: 22803946
+    tracks: 6
+    confidence: 1
+  - audio-id: 1719490043
+    hash: 4b1b18827bbb4d7796651a7c6e237f5654f54d6b
+    size: 25198393
+    tracks: 6
+    confidence: 1
   - audio-id: 1708684815
     hash: 847ddb92fcf527742d4743afaf439b9e4bc9678f
     size: 24981865
