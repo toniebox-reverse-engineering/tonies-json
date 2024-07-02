@@ -1,0 +1,35 @@
+article: '11000416'
+lock-data: false
+data:
+- series: Peppa Pig
+  series-id: peppa-pig
+  episode: 'Peppa Pig: My First Album'
+  release: 1720742400
+  language: en-gb
+  category: music
+  runtime: 41
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/51002705-Tonie_Shado-szMRkFgR.png
+  sample: https://cdn.tonies.de/o/audio_samples/ef8659b5f9ff54ebda9afbf6518c845ca91b7ec706bbf4a3d3b03e86/11000416_my_first_album_sample.wav
+  web: https://tonies.com/en-gb/tonies/peppa-pig/peppa-pig-my-first-album/
+  shop-id: 8e09ad55-5a33-466c-975c-27e25ffa429d
+  track-desc:
+  - 'SONG: It''s Peppa Pig'
+  - 'SONG: Bing Bong Zoo'
+  - 'SONG: Let''s Get Ready!'
+  - 'SONG: Expert Daddy Pig'
+  - 'SONG: Rainbow, Rainbow'
+  - 'SONG: Super Potato''s Theme'
+  - 'SONG: Peppa and Friends'
+  - 'SONG: The Class Of Madame Gazelle'
+  - 'SONG: Festival Fun!'
+  - 'SONG: Jumping In Muddy Puddles'
+  - 'SONG: Holidays!'
+  - 'SONG: Traffic'
+  - 'SONG: Balloon Ride'
+  - 'SONG: Busy Miss Rabbit'
+  - 'SONG: Peppa Party Time'
+  - 'SONG: Peppa''s Lullaby'
+  - 'SONG: Bing Bong Christmas'
+  ids: []

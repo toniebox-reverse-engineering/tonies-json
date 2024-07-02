@@ -1,0 +1,25 @@
+article: '11000196'
+lock-data: false
+data:
+- series: Favourite Myths
+  series-id: favourite-myths
+  episode: Horus (Egyptian Myths)
+  release: 1720742400
+  language: en-gb
+  category: audio-play-educational
+  runtime: 60
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/50005978-Tonie_Shado-JgBHNp06.png
+  sample: null
+  web: https://tonies.com/en-gb/tonies/favourite-myths/horus-egyptian-myths/
+  shop-id: 4fbaa6e0-fc81-4a85-99d0-91244760ca4b
+  track-desc:
+  - INTRO
+  - STORY The Creation of the World\
+  - STORY Ra’s Secret Name
+  - STORY Isis and Osiris
+  - STORY The Childhood of Horus
+  - STORY Seth and Horus
+  - EPILOGUE
+  ids: []
