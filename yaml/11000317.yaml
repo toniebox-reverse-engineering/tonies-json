@@ -1,0 +1,23 @@
+article: '11000317'
+lock-data: false
+data:
+- series: Club Écolo
+  series-id: club-ecolo-2
+  episode: Sauvetages De Haut Vol !
+  release: 1720051200
+  language: fr-fr
+  category: audio-play
+  runtime: 59
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51001046-Tonie_Shado-nf_sp5Cz.png
+  sample: https://cdn.tonies.de/o/audio_samples/0629158c68c33b296fb7f804ad1389cf4fe85079697d17cfd522115e/club_ecolo_john_extraitmp3.mp3
+  web: https://tonies.com/fr-fr/tonies/club-ecolo/sauvetages-de-haut-vol/
+  shop-id: 08bbbfbb-fccf-42d5-9762-9289267d2bf7
+  track-desc:
+  - Présentation du Club Écolo
+  - À la poursuite de l'œuf
+  - La fleur des monarques
+  - Bélugas en vue !
+  - Le pont des caribous
+  ids: []

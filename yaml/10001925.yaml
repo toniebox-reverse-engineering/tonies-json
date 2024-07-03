@@ -1,0 +1,23 @@
+article: '10001925'
+lock-data: false
+data:
+- series: Les Schtroumpfs
+  series-id: les-schtroumpfs
+  episode: Les Schtroumpfs Olympiques Et 2 Autres Histoires
+  release: 1720051200
+  language: fr-fr
+  category: audio-play
+  runtime: 68
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/50006064-Tonie_Shado-7B6OZKTX.png
+  sample: https://cdn.tonies.de/o/audio_samples/cd6ded30e080a445656132ad7e7f1d5a15ad6dfbff13efd273e12432/10001925_les_schtroumpfs_costaud_extrait_1.mp3
+  web: https://tonies.com/fr-fr/tonies/les-schtroumpfs/les-schtroumpfs-olympiques-et-2-autres-histoires/
+  shop-id: 805a6467-0889-40d0-bcee-c20f96bc9829
+  track-desc:
+  - Les Schtroumpfs Olympiques (partie 1)
+  - Les Schtroumpfs Olympiques (partie 2)
+  - Les Schtroumpfs Olympiques (partie 3)
+  - Pâques Schtroumpfantes
+  - Le jardin des Schtroumpfs
+  ids: []
