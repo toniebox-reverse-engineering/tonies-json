@@ -11,7 +11,7 @@ data:
   age: 5
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/50005974-Tonie_Shado-GsoU7ppd.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/feff8f3bf891b9cc89b3c81b01ff8627f7c153288ea3e7bbb1d995f9/pegasus_audio_sample.wav
   web: https://tonies.com/en-gb/tonies/favourite-myths/pegasus-greek-myths/
   shop-id: 2fb4d9e4-476e-47af-8afd-1020f9ecd45b
   track-desc:

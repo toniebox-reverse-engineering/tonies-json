@@ -11,7 +11,7 @@ data:
   age: 5
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/50005978-Tonie_Shado-JgBHNp06.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/4bac5429b64c218e55506778007e029b5308b3653e7b6fa4d55fed70/horus_sample.wav
   web: https://tonies.com/en-gb/tonies/favourite-myths/horus-egyptian-myths/
   shop-id: 4fbaa6e0-fc81-4a85-99d0-91244760ca4b
   track-desc:
