@@ -2,7 +2,7 @@ article: '11000538'
 lock-data: false
 data:
 - series: Thomas and Friends
-  series-id: thomas-and-friends
+  series-id: thomas-seine-freunde
   episode: 'All Engines Go: Percy'
   release: 1718236800
   language: en-gb
@@ -18,16 +18,16 @@ data:
   - INTRO
   - STORY - Where's Percy
   - STORY - The Biggest Adventure Club
-  - INTERSTITAL  1
+  - INTERSTITIAL 1
   - STORY - Overnight Stop
-  - STORY - The Joke Is On Thomas
-  - INTERSTITAL  2
+  - STORY - The Joke Is on Thomas
+  - INTERSTITIAL 2
   - STORY - Counting Cows
-  - STORY - A Very Sodor Valentine's Day
-  - INTERSTITAL  3
-  - STORY - Not So Secret Mission
-  - STORY - Mystery Of Lookout Mountain
-  - INTERSTITAL  4
+  - STORY - A Very Sodor Valentine
+  - INTERSTITIAL 3
+  - STORY - Not-So-Secret Mission
+  - STORY - The Mystery of Lookout Mountain
+  - INTERSTITIAL 4
   - STORY - Music Is Everywhere
-  - STORY - Lets Go, Team!
+  - STORY - Let’s Go, Team!
   ids: []
