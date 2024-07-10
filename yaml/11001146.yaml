@@ -1,0 +1,22 @@
+article: '11001146'
+lock-data: false
+data:
+- series: PAW Patrol's Jungle Pups
+  series-id: paw-patrols-jungle-pups
+  episode: 'Jungle Pups: Skye'
+  release: 1720569600
+  language: de-de
+  category: audio-play
+  runtime: 45
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11001146_1_a-6eV3Uat9.png
+  sample: null
+  web: https://tonies.com/de-de/tonies/paw-patrols-jungle-pups/jungle-pups-skye/
+  shop-id: 9b93c26e-c679-43c9-807f-ac11d063055a
+  track-desc:
+  - Die Dschungel-Helfer retten das goldene Schnuffinchen/
+  - Die Dschungel-Helfer retten die Riesenameisen
+  - Drei Vögel auf Reisen
+  - Bienenalarm
+  ids: []

@@ -1,0 +1,22 @@
+article: '11001145'
+lock-data: false
+data:
+- series: PAW Patrol's Jungle Pups
+  series-id: paw-patrols-jungle-pups
+  episode: 'Jungle Pups: Chase'
+  release: 1720569600
+  language: de-de
+  category: audio-play
+  runtime: 45
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11001145_1_a-gUDsLfXV.png
+  sample: https://cdn.tonies.de/o/audio_samples/e142e2e6cd7f088e31ec40172ece7a546afb1782670e7e256f35316c/hoerprobe_11001145_paw_patrol_jungle_pups_chase.wav
+  web: https://tonies.com/de-de/tonies/paw-patrols-jungle-pups/jungle-pups-chase/
+  shop-id: 39577b9f-886a-4897-9078-e1bfbd04c0fa
+  track-desc:
+  - Der versteckte Dschungel
+  - Aufregende Seilrutsche
+  - Verirrt im Dschungel
+  - ''
+  ids: []

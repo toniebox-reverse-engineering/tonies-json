@@ -1,0 +1,22 @@
+article: '11001144'
+lock-data: false
+data:
+- series: PAW Patrol's Jungle Pups
+  series-id: paw-patrols-jungle-pups
+  episode: 'Jungle Pups: Marshall'
+  release: 1720569600
+  language: de-de
+  category: audio-play
+  runtime: 45
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11001144_1_a-_T9qyN_X.png
+  sample: null
+  web: https://tonies.com/de-de/tonies/paw-patrols-jungle-pups/jungle-pups-marshall/
+  shop-id: 99cfc7dd-4bce-4e4d-b528-b4572bf10eb1
+  track-desc:
+  - Die Dschungel-Helfer in der Eiszeit
+  - Onkel Herbert und die Goldmine
+  - Stoppt die Gepardin
+  - ''
+  ids: []
