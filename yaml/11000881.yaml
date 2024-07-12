@@ -1,19 +1,19 @@
 article: '11000881'
 lock-data: false
 data:
-- series: null
+- series: Clever Tonies Set
   series-id: null
-  episode: null
-  release: 0
-  language: null
-  category: null
+  episode: 'Animal World: Record Breakers'
+  release: 1720788441
+  language: en-us
+  category: Tonie
   runtime: 0
   age: 99
-  origin: null
-  image: null
+  origin: stock
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tonies-PDP-Assets-animalworld-transparent.png?v=1713268449
   sample: null
   web: null
-  shop-id: null
+  shop-id: '8134563168407'
   track-desc: []
   ids:
   - audio-id: 1719270551
