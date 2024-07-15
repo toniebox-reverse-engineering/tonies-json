@@ -11,7 +11,7 @@ data:
   age: 3
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11001144_1_a-_T9qyN_X.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/648aecd6cabca2e41f7bd9b89d1a4b49706622dda7157756d037f94a/hoerprobe_11001144_paw_patrol_jungle_pups_marshall.wav
   web: https://tonies.com/de-de/tonies/paw-patrols-jungle-pups/jungle-pups-marshall/
   shop-id: 99cfc7dd-4bce-4e4d-b528-b4572bf10eb1
   track-desc:
