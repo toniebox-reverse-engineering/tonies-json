@@ -868,7 +868,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001368,Disney,disney,Pocahontas,de-de,audio-play,stock,0d8f51eb-a45d-4058-b082-2d458e852d73,https://tonies.com/de-de/tonies/disney/pocahontas/,1,0,0,0
 10001371,Cultural Tales,cultural-tales,Black British Tales,en-gb,audio-play,stock,853f6407-f79a-44b6-8f12-7e2bb57ac6e7,https://tonies.com/en-gb/tonies/cultural-tales/black-british-tales/,1,1,1,1
 10001377,Lieblings-Märchen,lieblings-maerchen,Rapunzel (Neuauflage 2023),de-de,audio-play,stock,92595e81-6704-4bb4-b4f3-5af0b2fea623,https://tonies.com/de-de/tonies/lieblings-maerchen/rapunzel-neuauflage-2023/,1,1,0,0
-10001378,Disney,disney,Schneewittchen und die sieben Zwerge,de-de,audio-play-songs,stock,2c917a4e-081b-455c-9af0-58b4301a10ba,https://tonies.com/de-de/tonies/disney/disney-schneewittchen-und-die-sieben-zwerge-schneewittchen-und-die-sieben-zwerge-dach/,1,1,1,2
+10001378,Disney,disney,Schneewittchen und die sieben Zwerge,de-de,audio-play-songs,stock,2c917a4e-081b-455c-9af0-58b4301a10ba,https://tonies.com/de-de/tonies/disney/disney-schneewittchen-und-die-sieben-zwerge-schneewittchen-und-die-sieben-zwerge-dach/,1,2,2,2
 10001379,Der Regenbogenfisch,der-regenbogenfisch,Der Regenbogenfisch,de-de,audio-book-songs,stock,a14f69be-14f6-41a5-a4cf-c698570bacbf,https://tonies.com/de-de/tonies/der-regenbogenfisch/der-regenbogenfisch/,1,1,0,0
 10001386,Peter Rabbit,peter-rabbit,Jemima Puddleduck,en-gb,audio-book,stock,0b111820-d33f-49b2-aae1-f7cd0f479caa,https://tonies.com/en-gb/tonies/peter-rabbit/jemima-puddleduck/,1,1,1,1
 10001387,Horrible Histories,horrible-histories,Terrible Tudors,en-gb,audio-play,stock,a1afc11e-4028-43a8-983f-aeb0a83faede,https://tonies.com/en-gb/tonies/horrible-histories/terrible-tudors/,1,1,1,1
@@ -952,7 +952,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001691,Caillou,caillou,Sternschnuppen und weitere Geschichten,de-de,audio-play,stock,821d2e7c-7df6-4d70-96ef-09f2cdc2d189,https://tonies.com/de-de/tonies/caillou/sternschnuppen-und-weitere-geschichten/,1,1,0,0
 10001693,Rolf Zuckowski,rolf-zuckowski,Rolfs Hasengeschichte,de-de,audio-book-songs,stock,60f9f424-d22f-438c-9b30-2cc87f3a71e7,https://tonies.com/de-de/tonies/rolf-zuckowski/rolfs-hasengeschichte/,1,1,1,2
 10001697,Ask the StoryBots,,Beep,en-us,Tonie,stock,8031929139351,,1,1,1,2
-10001698,Disney,,Hercules,en-us,Tonie,stock,8134562906263,,1,1,1,1
+10001698,Disney,,Hercules,en-us,Tonie,stock,8134562906263,,1,2,2,1
 10001708,Disney,disney,Lilo & Stitch,de-de,audio-play,stock,45e2b9ff-f3fe-4fb7-a83e-c9a261047a88,https://tonies.com/de-de/tonies/disney/lilo-stitch/,1,1,1,1
 10001711,Maestro,,,en-us,Tonie,stock,8072079147159,,1,1,1,1
 10001714,PAW Patrol,,Rubble,en-us,Tonie,stock,7806540546199,,1,1,1,2
@@ -994,7 +994,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001889,Creative-Tonie,,Blank (relaunch),en-gb,creative-tonie,stock,db791279-cfba-47c0-8967-d44aa7199724,https://tonies.com/de-de///,1,0,0,0
 10001890,Creative-Tonie,,Firefighter (light-brown),en-gb,creative-tonie,stock,19e333af-d0dc-4380-9d5a-12b1d4fd796b,https://tonies.com/de-de///,1,0,0,0
 10001891,Disney,disney,Coco,en-gb,audio-play-songs,stock,c9e09f10-ea65-429e-b924-e8ec167def7b,https://tonies.com/en-gb/tonies/disney/coco/,1,1,0,0
-10001892,Disney & Pixar,,Toy Story 3 & 4: Jessie,en-us,Tonie,stock,8143489892503,,1,1,1,1
+10001892,Disney & Pixar,,Toy Story 3 & 4: Jessie,en-us,Tonie,stock,8143489892503,,1,2,2,1
 10001898,Lieblings-Kinderlieder,lieblings-kinderlieder,Reiselieder (Neuauflage 2023),de-de,music,stock,8449c928-c879-4ac3-b320-aa1c258cc607,https://tonies.com/de-de/tonies/lieblings-kinderlieder/reiselieder-neuauflage-2023/,1,1,1,2
 10001900,Yoohoo to the Rescue,,Pammee,en-us,Tonie,stock,7953348034711,,1,1,1,1
 10001901,Séléna Sans Chichis Ni Tralala,selena-sans-chichis-ni-tralala,Plongée Insolite Dans Moby Dick,fr-fr,audio-play-songs,stock,15772168-b7eb-43d1-bc22-7539315ded9a,https://tonies.com/fr-fr/tonies/selena-sans-chichis-ni-tralala/plongee-insolite-dans-moby-dick/,1,0,0,0
@@ -1017,7 +1017,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001960,Favourite Classics,favourite-classics,The Wizard of Oz,en-gb,audio-play,stock,10aa1a64-5459-4f04-97ee-55febea39c35,https://tonies.com/en-gb/tonies/favourite-classics/the-wizard-of-oz/,1,0,0,0
 10001963,Roald Dahl,roald-dahl,The Enormous Crocodile,en-gb,audio-book,stock,911b75fc-1fef-492c-bd11-46509afad820,https://tonies.com/en-gb/tonies/roald-dahl/enormous-crocodile/,1,1,1,1
 10001964,Favourite Children's Songs,favourite-children-s-songs,Bedtime Songs 2 (relaunch),en-gb,music,stock,b224bd4e-8a37-4930-826b-5d23e3e55b3f,https://tonies.com/en-gb/tonies/favourite-children-s-songs/fcs-bedtime-songs-2-relaunch/,1,1,1,1
-10001977,Disney,disney,Alles steht Kopf,de-de,audio-play,stock,0cdffe8b-07e7-44a3-887c-c88838af5a3b,https://tonies.com/de-de/tonies/disney/disney-alles-steht-kopf-alles-steht-kopf-dach/,1,1,1,1
+10001977,Disney,disney,Alles steht Kopf,de-de,audio-play,stock,0cdffe8b-07e7-44a3-887c-c88838af5a3b,https://tonies.com/de-de/tonies/disney/disney-alles-steht-kopf-alles-steht-kopf-dach/,1,2,2,1
 10001983,Ronja Räubertochter,ronja-raeubertochter,Ronja Räubertochter,de-de,audio-play,stock,b99da237-e144-4a34-93cb-bc9339395686,https://tonies.com/de-de/tonies/ronja-raeubertochter/ronja-raubertochter/,1,1,1,1
 10001986,Tilda Apfelkern,tilda-apfelkern,Tilda Apfelkern - Das Drinnen-Picknick,de-de,audio-play,stock,ab5f30ed-7cfa-4abf-8658-3937488dd8fa,https://tonies.com/de-de/tonies/tilda-apfelkern/tilda-apfelkern-das-drinnen-picknick/,1,0,0,0
 10001989,JoNaLu,jonalu,Lu kann nicht schlafen & eine weitere Geschichte,de-de,audio-play,stock,f8634c7a-6042-4765-8f1e-51325f4bf6b8,https://tonies.com/de-de/tonies/jonalu/lu-kann-nicht-schlafen-eine-weitere-geschichte/,1,0,0,0
@@ -1047,7 +1047,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10002050,PAW Patrol,,Zuma,en-us,Tonie,stock,8016774693015,,1,1,1,1
 10002051,Disney,disney,Tigger,en-gb,audio-play,stock,8a62751e-615d-4519-8f88-d437e40cde7e,https://tonies.com/en-gb/tonies/disney/tigger/,1,0,0,0
 10002052,Disney,disney,Hercules,en-gb,audio-play-songs,stock,0b3ec635-3e26-407e-b063-a4cea3649ea9,https://tonies.com/en-gb/tonies/disney/hercules/,1,0,0,0
-10002053,Disney,disney,Soul,en-gb,audio-play-songs,stock,d6d8941e-7dd4-45d3-9586-0c1033486354,https://tonies.com/en-gb/tonies/disney/soul/,1,1,1,1
+10002053,Disney,disney,Soul,en-gb,audio-play-songs,stock,d6d8941e-7dd4-45d3-9586-0c1033486354,https://tonies.com/en-gb/tonies/disney/soul/,1,2,2,1
 10002054,Disney,disney,Lady and the Tramp,en-gb,audio-play-songs,stock,931ec7b0-02ed-455e-b82d-10ab9727da3e,https://tonies.com/en-gb/tonies/disney/lady-and-the-tramp/,1,0,0,0
 10002061,Disney,disney,Toy Story 3 & 4,en-gb,audio-play,stock,76974a4a-55a4-4ae7-8a5d-9da9cadb7bb3,https://tonies.com/en-gb/tonies/disney/toy-story-3-4/,1,0,0,0
 10002064,Disney,disney,Doc McStuffins,en-gb,audio-play-songs,stock,f310e306-65a2-4e90-bea7-0cdb984d8462,https://tonies.com/en-gb/tonies/disney/doc-mcstuffins/,1,0,0,0
@@ -1072,7 +1072,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10002137,Jan Brett Collection,,,en-us,Tonie,stock,7953348198551,,1,1,1,1
 10002140,Leo's Day,,Routines,en-us,Tonie,stock,8020002308247,,1,1,1,1
 10002142,Vanessa Brantley-Newton,,Grandma's Purse and Other Stories,en-us,Tonie,stock,8134367019159,,1,1,1,1
-10002145,Disney,disney,Das ist ja zum Flattern & drei weitere Geschichten,de-de,audio-play,stock,366ad0a2-b551-4453-bca6-edf757446c36,https://tonies.com/de-de/tonies/disney/vampirina-das-ist-ja-zum-flattern-drei-weitere-geschichten/,1,1,1,2
+10002145,Disney,disney,Das ist ja zum Flattern & drei weitere Geschichten,de-de,audio-play,stock,366ad0a2-b551-4453-bca6-edf757446c36,https://tonies.com/de-de/tonies/disney/vampirina-das-ist-ja-zum-flattern-drei-weitere-geschichten/,1,2,2,2
 10002146,Peter und der Wolf,peter-und-der-wolf,Peter und der Wolf,de-de,audio-play-songs,stock,ede4d6e3-a85f-4496-ac9d-69c329fdbed5,https://tonies.com/de-de/tonies/peter-und-der-wolf/peter-und-der-wolf/,1,0,0,0
 10002150,Tonies Collection Bundle,,Disney Adventure Tonie Collection,en-gb,audio-play,stock,,,1,0,0,0
 10002164,Tonies Collection Bundle,,Disney Little Explorers Tonies Collection,en-gb,audio-play,stock,,,1,0,0,0
@@ -1130,7 +1130,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000245,Dino Ranch,,,en-us,Tonie,stock,8057958105239,,1,1,1,2
 11000247,PAW Patrol,paw-patrol,Die Hundeschau,de-de,audio-play,stock,d8593db8-ad2a-49e9-9d12-b10d5c3e18f9,https://tonies.com/de-de/tonies/paw-patrol/die-hundeschau/,1,2,1,1
 11000248,PAW Patrol,paw-patrol,Zuma,de-de,audio-play,stock,48d1494c-f5f5-469e-94f1-2cc4b9bf4687,https://tonies.com/de-de/tonies/paw-patrol/zuma/,1,1,0,0
-11000249,Disney,disney,Tiggers großes Abenteuer,de-de,audio-play,stock,af4b11b7-0713-4f58-b1b5-25e134092b6b,https://tonies.com/de-de/tonies/disney/disney-tigger-tiggers-groes-abenteuer/,1,1,1,2
+11000249,Disney,disney,Tiggers großes Abenteuer,de-de,audio-play,stock,af4b11b7-0713-4f58-b1b5-25e134092b6b,https://tonies.com/de-de/tonies/disney/disney-tigger-tiggers-groes-abenteuer/,1,2,2,2
 11000250,Schüttel den Apfelbaum,schuettel-den-apfelbaum-schaukel-das-schaf,Schüttel den Apfelbaum & Schaukel das Schaf,de-de,audio-play,stock,ee152cd2-1312-4e82-bc86-c8935bda1c95,https://tonies.com/de-de/tonies/schuettel-den-apfelbaum/schuttel-den-apfelbaum-apfelbaum-schaukel-das-schaf-dach/,1,0,0,0
 11000251,Lichterkinder,lichterkinder-2,Laternen- und Herbstlieder,de-de,music,stock,74ecac51-38cc-450c-a405-166b68560670,https://tonies.com/de-de/tonies/lichterkinder/laternen-und-herbstlieder/,1,1,1,1
 11000254,Paw Patrol,paw-patrol,Tracker,en-gb,audio-play,stock,12e48faa-ff7d-4e3f-9cbe-9bb269e7dbff,https://tonies.com/en-gb/tonies/paw-patrol/tracker/,1,0,0,0
@@ -1221,7 +1221,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000513,Sacha Danse Le Chachacha,sacha-dans-le-chachacha,Sacha,fr-fr,audio-play,stock,1f01dc51-c39e-48f0-8664-5d29b98e46bb,https://tonies.com/fr-fr/tonies/sacha-dans-le-chachacha/sacha/,1,0,0,0
 11000514,Timoté,timote,Je Grandis Avec Timoté,fr-fr,audio-book,stock,98d0c3f8-fad7-4079-aa91-00dabdadf6f1,https://tonies.com/fr-fr/tonies/timote/je-grandis-avec-timote/,1,1,1,1
 11000520,Disney,disney,Wish,de-de,audio-play,stock,e15ddfd5-63e7-4f11-9e19-20ab0ffc5626,https://tonies.com/de-de/tonies/disney/wish/,1,0,0,0
-11000526,Disney,,Wish,en-us,Tonie,stock,8124400664727,,1,1,1,2
+11000526,Disney,,Wish,en-us,Tonie,stock,8124400664727,,1,2,2,2
 11000530,PAW Patrol,paw-patrol,Liberty findet einen neuen Freund,de-de,audio-play,stock,2fbcb41a-bd26-42d4-bfd9-b988c5aad7e1,https://tonies.com/de-de/tonies/paw-patrol/paw-patrol-liberty-findet-einen-neuen-freund/,1,1,1,3
 11000538,Thomas and Friends,thomas-seine-freunde,All Engines Go: Percy,en-gb,audio-play,stock,bad32e9e-837a-4eed-9c2c-a723541efe67,https://tonies.com/en-gb/tonies/thomas-and-friends/all-engines-go-percy/,1,0,0,0
 11000540,Trolls,,Viva,en-us,Tonie,stock,7806499094679,,1,1,1,1
