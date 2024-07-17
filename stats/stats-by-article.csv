@@ -139,7 +139,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 01-0187,Räuber Ratte,,Räuber Ratte/Superwurm,de-de,audio-play-songs,stock,,,1,1,1,2
 01-0188,Safiras,safiras,Nanami und das traumhafte Tuch/Ninazu und das grüne Zauberbonbon,de-de,audio-play,stock,2c4363d8-bdd6-4d7a-93f7-e2cdc6a23f9c,https://tonies.com/de-de/tonies/safiras/nanami-und-das-traumhafte-tuch/,1,1,1,4
 01-0189,Disney,disney,Bambi,de-de,audio-play-songs,stock,444abdcd-d5f1-4756-a384-7f0790784f6a,https://tonies.com/de-de/tonies/disney/bambi/,1,1,1,4
-01-0190,Disney,disney,Der König der Löwen,de-de,audio-play-songs,stock,38650853-9030-4123-93af-afaa8c688e9f,https://tonies.com/de-de/tonies/disney/der-koenig-der-loewen/,1,2,1,4
+01-0190,Der König der Löwen,disney-the-lion-king,Der König der Löwen,de-de,audio-play-songs,stock,38650853-9030-4123-93af-afaa8c688e9f,https://tonies.com/de-de/tonies/disney-der-koenig-der-loewen/der-koenig-der-loewen/,1,2,1,4
 01-0191,Für Hund und Katz ist auch noch Platz,,Für Hund und Katz ist auch noch Platz/Wo ist Mami?,de-de,audio-play-songs,stock,,,1,1,1,2
 01-0192,Der Räuber Hotzenplotz,,Und die Mondrakete,de-de,audio-play,stock,,,1,1,1,1
 01-0193,Pettersson und Findus,pettersson-und-findus,Findus zieht um,de-de,audio-play,stock,754f84fa-d607-4059-be7f-f03a25ca73bf,https://tonies.com/de-de/tonies/pettersson-und-findus/findus-zieht-um/,2,6,5,4
@@ -212,7 +212,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000014,Favourite Tales,,Little Red Riding Hood and other fairy tales,en-gb,audio-book,stock,,,1,1,1,3
 10000015,The Little Prince,the-little-prince,The Little Prince,en-gb,audio-book,stock,67738c23-c4ce-4a3c-8de4-69b957fee4ba,https://tonies.com/en-gb/tonies/the-little-prince/the-little-prince/,1,1,1,2
 10000016,Disney,disney,The Jungle Book,en-gb,audio-play-songs,stock,d1e7a79d-bf34-486a-8038-187bcbdd500e,https://tonies.com/en-gb/tonies/disney/the-jungle-book/,1,1,0,0
-10000017,Disney,disney,Cars,en-gb,audio-play-songs,stock,d64ecced-3227-4768-bdc6-7638967241af,https://tonies.com/en-gb/tonies/disney/cars/,1,0,0,0
+10000017,Cars,disney-cars,Cars,en-gb,audio-play-songs,stock,d64ecced-3227-4768-bdc6-7638967241af,https://tonies.com/en-gb/tonies/disney-cars/cars/,1,0,0,0
 10000018,Disney,disney,The Little Mermaid,en-gb,audio-play-songs,stock,0cf4f3f5-0479-4834-a8e7-83a2041bc065,https://tonies.com/en-gb/tonies/disney/the-little-mermaid/,1,1,0,0
 10000020,The Lion King,disney-the-lion-king,The Lion King,en-gb,audio-play-songs,stock,a28f7907-a83b-499e-8e34-189f271609f4,https://tonies.com/en-gb/tonies/disney-the-lion-king/the-lion-king/,1,1,0,0
 10000021,Hully Boo Spook'n Spell,,How Hully Boo got his rattling chain / Halloween at Palace Primary,en-gb,audio-play,stock,,,1,2,2,2
@@ -268,7 +268,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000149,Unser Sandmännchen,unser-sandmaennchen,Abends im Walde,de-de,audio-play-songs,stock,45826563-3309-4f93-b436-1996f5d0c54d,https://tonies.com/de-de/tonies/unser-sandmaennchen/abends-im-walde/,1,1,0,0
 10000150,Wieso? Weshalb? Warum? junior,wieso-weshalb-warum-junior-2,Die Feuerwehr/Die Rettungsfahrzeuge,de-de,audio-play-songs,stock,c1a70ce7-0b73-4569-a390-1875602a1bcd,https://tonies.com/de-de/tonies/wieso-weshalb-warum-junior-2/die-feuerwehr-die-rettungsfahrzeuge/,1,1,1,2
 10000151,Wieso? Weshalb? Warum? junior,wieso-weshalb-warum-junior-2,Die Polizei,de-de,audio-play-songs,stock,070ab276-f6fc-4952-9720-004b9c2ff8bd,https://tonies.com/de-de/tonies/wieso-weshalb-warum-junior-2/die-polizei/,1,1,1,3
-10000152,Disney,disney,Frozen,en-gb,audio-play-songs,stock,d4762725-9012-4316-8b01-99fa6c3dc819,https://tonies.com/en-gb/tonies/disney/frozen/,1,1,1,2
+10000152,Frozen,disney-frozen,Frozen,en-gb,audio-play-songs,stock,d4762725-9012-4316-8b01-99fa6c3dc819,https://tonies.com/en-gb/tonies/disney-frozen/frozen/,1,1,1,2
 10000153,Disney,disney,Toy Story,en-gb,audio-play-songs,stock,b782c73c-378d-4780-a1ff-2c51f784f14b,https://tonies.com/en-gb/tonies/disney/toy-story/,1,2,1,1
 10000154,Lieblings-Kinderlieder,,Reiselieder,de-de,music,stock,,,1,1,1,3
 10000155,Lieblings-Klassiker,lieblings-klassiker,Eine Weihnachtsgeschichte und vier weitere Klassiker,de-de,audio-book,stock,3d90a3b8-74c3-4d81-85f0-dd46e5ebbd85,https://tonies.com/de-de/tonies/lieblings-klassiker/eine-weihnachtsgeschichte-und-vier-weitere-klassiker/,1,1,1,3
@@ -476,7 +476,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000571,PAW Patrol,,Chase,en-us,Tonie,stock,7101766893719,,1,1,1,3
 10000572,Paddington Bear,,,en-us,Tonie,stock,7269043372183,,1,1,1,1
 10000575,Shrek,,,en-us,Tonie,stock,7173724930199,,1,1,1,1
-10000577,Disney,disney,Moana,en-gb,audio-play-songs,stock,547dc87c-1ecd-44a3-b7a1-203a236da545,https://tonies.com/en-gb/tonies/disney/moana/,1,1,0,0
+10000577,Moana,disney-moana,Moana,en-gb,audio-play-songs,stock,547dc87c-1ecd-44a3-b7a1-203a236da545,https://tonies.com/en-gb/tonies/disney-moana/moana/,1,1,0,0
 10000579,Hanni und Nanni,hanni-und-nanni,Hanni und Nanni voll im Trend,de-de,audio-play,stock,5199f0fa-7fd5-45b9-852a-1f15eab2074b,https://tonies.com/de-de/tonies/hanni-und-nanni/hanni-nanni-voll-im-trend/,1,1,1,1
 10000580,Hanni und Nanni,hanni-und-nanni,Hanni und Nanni im Hochzeitsrausch,de-de,audio-play,stock,fb73977d-8b33-4acf-a81f-1b1343aa08eb,https://tonies.com/de-de/tonies/hanni-und-nanni/hanni-und-nanni-im-hochzeitsrausch/,1,1,1,2
 10000581,100% Wolf,100-wolf,100% Wolf - Das Original-Hörspiel zum Kinofilm,de-de,audio-play,stock,80b3ee4b-4196-4ae3-bac0-a2aaadb1ce0b,https://tonies.com/de-de/tonies/100-wolf/100-wolf/,1,1,1,2
@@ -883,7 +883,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001472,PAW Patrol,paw-patrol,Der Piratenschatz,de-de,audio-play,stock,bed6385a-903a-4f26-ab05-bbccf35a14fb,https://tonies.com/de-de/tonies/paw-patrol/der-piratenschatz/,1,1,1,3
 10001473,Leos Tag,leos-tag,"Achtung, fertig, Zähneputzen!",de-de,audio-play-songs,stock,e280136f-64ca-4ebb-aa93-29a30334008d,https://tonies.com/de-de/tonies/leos-tag/achtung-fertig-zhneputzen/,1,1,1,1
 10001475,Disney,disney,Winnie L'Ourson,fr-fr,audio-play-songs,stock,799ac6f2-89f7-4b5b-b60a-014ae758f218,https://tonies.com/fr-fr/tonies/disney/winnie-l-ourson/,1,0,0,0
-10001477,Disney,disney,Vaiana,fr-fr,audio-play-songs,stock,cd78dfd4-cf22-402c-ac9a-bc9af49c75b2,https://tonies.com/fr-fr/tonies/disney/vaiana/,1,1,1,1
+10001477,Vaiana,disney-moana,Vaiana,fr-fr,audio-play-songs,stock,cd78dfd4-cf22-402c-ac9a-bc9af49c75b2,https://tonies.com/fr-fr/tonies/disney-vaiana/vaiana/,1,1,1,1
 10001479,Masha Et Michka,masha-et-michka,Masha,fr-fr,audio-play-songs,stock,d1b4b1df-462f-480b-8b51-0e51dd40d037,https://tonies.com/fr-fr/tonies/masha-et-michka/masha/,1,0,0,0
 10001480,Mes Comptines Préférées,lieblings-kinderlieder,Pour Apprendre,fr-fr,music,stock,afd9c52b-e6fc-4626-99a6-6d39c35b5d06,https://tonies.com/fr-fr/tonies/mes-comptines-preferees/pour-apprendre/,1,1,1,1
 10001481,Pirata Et Capitano,pirata-et-capitano,Pirata,fr-fr,audio-play,stock,d5d0df38-59b4-45a2-b4b2-b77d09a7b069,https://tonies.com/fr-fr/tonies/pirata-et-capitano/pirata/,1,1,1,1
@@ -1143,7 +1143,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000280,Lieblings-Kinderlieder,lieblings-kinderlieder,Frühlingslieder,de-de,music,stock,01b33faf-2232-4c86-9a7c-3feb7e438b5b,https://tonies.com/de-de/tonies/lieblings-kinderlieder/fruhlingslieder/,1,1,1,1
 11000282,Disney,disney,Susi und Strolch,de-de,audio-play-songs,stock,7ca36ac6-8df7-46af-86e2-716b2e32a958,https://tonies.com/de-de/tonies/disney/susi-und-strolch/,1,0,0,0
 11000283,Leos Tag,leos-tag,Es ist so weit – Badezeit!,de-de,audio-play-songs,stock,69747609-f08f-49e7-a583-9d92cba0d2d6,https://tonies.com/de-de/tonies/leos-tag/es-ist-so-weit-badezeit/,1,0,0,0
-11000286,Disney,disney,Findet Dorie,de-de,audio-play,stock,a3adb9f7-f8d7-4864-b44e-630fb659bca5,https://tonies.com/de-de/tonies/disney/findet-dorie/,1,0,0,0
+11000286,Findet Nemo,disney-finding-nemo,Findet Dorie,de-de,audio-play,stock,a3adb9f7-f8d7-4864-b44e-630fb659bca5,https://tonies.com/de-de/tonies/disney-findet-nemo/findet-dorie/,1,0,0,0
 11000287,"Unsere besten Kniereiter, Fingerspiellieder und Reime",kniereiter-und-fingerspiele,"Unsere besten Kniereiter, Fingerspiellieder und Reime",de-de,music,stock,3583a4e2-8163-4120-b480-94425aa52c26,https://tonies.com/de-de/tonies/kniereiter-und-fingerspiele/unsere-besten-kniereiter-fingerspiellieder-und-reime/,1,0,0,0
 11000289,PAW Patrol,paw-patrol,Hier kommt Tracker,de-de,audio-play,stock,34d7fd02-ac3c-43f0-9e85-f008738e6f58,https://tonies.com/de-de/tonies/paw-patrol/hier-kommt-tracker/,1,1,0,0
 11000290,Sing Kinderlieder,sing-kinderlieder,Bagger Mats & seine Freunde: Die schönsten Fahrzeuglieder,de-de,music,stock,b0b62e23-f0d7-46ff-ba88-3f52c59513d2,https://tonies.com/de-de/tonies/sing-kinderlieder/bagger-mats-seine-freunde-die-schonsten-fahrzeuglieder/,1,1,1,1
@@ -5167,6 +5167,16 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 2000011126,Das Sams,das-sams,Am Samstag kam das Sams zurück,de-de,audio-play,tunes,dbf8c430-0721-408b-8d53-1e2f26ce9bde,https://tonies.com/de-de/audio-content/das-sams/am-samstag-kam-das-sams-zuruck-2/,1,0,0,0
 2000011127,Das Sams,das-sams,Ein Sams zu viel,de-de,audio-play,tunes,32625e6c-7eea-4494-869a-f1bc76b687f3,https://tonies.com/de-de/audio-content/das-sams/ein-sams-zu-viel/,1,0,0,0
 2000011134,Willa und Schnüff,willa-und-schnueff,Im Urlaub,de-de,audio-book,tunes,c1f0b23a-c7ca-4dda-8084-f601dfa0c077,https://tonies.com/de-de/audio-content/willa-und-schnueff/willa-schnuff-im-urlaub/,1,0,0,0
+2000011141,Die Olchis,die-olchis,Die Olchis bekommen ein Haustier und eine weitere Geschichte,de-de,audio-play,tunes,e09f2a53-1f32-4973-a5d5-0e63b4d74f6c,https://tonies.com/de-de/audio-content/die-olchis/die-olchis-bekommen-ein-haustier-und-eine-weitere/,1,0,0,0
+2000011142,Die Olchis,die-olchis,Das Stinkersocken-Festessen und eine weitere Geschichte,de-de,audio-play,tunes,b9c03723-8e4a-4960-82f7-1a8d8cbd65b3,https://tonies.com/de-de/audio-content/die-olchis/das-stinkersocken-festessen-und-eine-weitere-gesch/,1,0,0,0
+2000011143,Die Olchis,die-olchis,Allein auf dem Müllberg und eine weitere Geschichte,de-de,audio-play,tunes,7c4f5cb5-6a6f-4aaa-bf0f-eedf0c9e18b4,https://tonies.com/de-de/audio-content/die-olchis/allein-auf-dem-mullberg-und-eine-weitere-geschicht/,1,0,0,0
+2000011144,Die Olchis,die-olchis,Ein Drachenfest für Feuerstuhl und andere Geschichten,de-de,audio-play,tunes,9fe2b907-e9ba-45ab-84a9-e26fe4143eb6,https://tonies.com/de-de/audio-content/die-olchis/ein-drachenfest-fur-feuerstuhl-und-andere-geschich/,1,0,0,0
+2000011145,Die Olchis,die-olchis,Die Olchis feiern Geburtstag und eine andere Geschichte,de-de,audio-play,tunes,e8376534-9b2c-41c6-8bf3-56f0f449e106,https://tonies.com/de-de/audio-content/die-olchis/die-olchis-feiern-geburtstag/,1,0,0,0
+2000011146,Die Olchis,die-olchis,Die Olchis auf Klassenfahrt und andere Geschichten,de-de,audio-play,tunes,8e0b3e26-81b1-4e23-a6df-81ae1023abb9,https://tonies.com/de-de/audio-content/die-olchis/die-olchis-auf-klassenfahrt-und-andere-geschichten/,1,0,0,0
+2000011147,Die Olchis,die-olchis,Die Olchis und die große Mutprobe und eine weitere Geschichte,de-de,audio-play,tunes,8cbd7281-017e-4799-a6ee-68f4446f12cd,https://tonies.com/de-de/audio-content/die-olchis/die-olchis-und-die-groe-mutprobe-und-eine-weitere/,1,0,0,0
+2000011148,Die Olchis,die-olchis,Die Olchis und das Piratenschiff und zwei Geschichten von Isabel Abedi und Christoph Schöne,de-de,audio-play,tunes,dfa72d3f-67e8-4451-804d-1b49564233ad,https://tonies.com/de-de/audio-content/die-olchis/die-olchis-und-das-piratenschiff/,1,0,0,0
+2000011150,Die Olchis,die-olchis,Die Olchis im Kindergarten und zwei weitere Geschichten,de-de,audio-play,tunes,c0979b00-691b-422d-9ba2-a609e108ecf0,https://tonies.com/de-de/audio-content/die-olchis/die-olchis-im-kindergarten/,1,0,0,0
+2000011151,Die Olchis,die-olchis,Die Olchis allein zu Haus und zwei Geschichten von Katharina Vöhringer und Ulrike Rogler,de-de,audio-play,tunes,0ce8cb28-7d64-4576-bd54-a706aac4dc73,https://tonies.com/de-de/audio-content/die-olchis/die-olchis-allein-zu-haus/,1,0,0,0
 43314534219927,The Elf on the Shelf,,,en-us,Tonie,stock,8072067055767,,1,0,0,0
 43314558009495,Favorite Masterpieces,,The Nutcracker,en-us,Tonie,stock,8072076656791,,1,0,0,0
 43314564169879,Maestro,,,en-us,Tonie,stock,8072079147159,,1,0,0,0
