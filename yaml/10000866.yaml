@@ -1,8 +1,8 @@
 article: '10000866'
 lock-data: false
 data:
-- series: Disney
-  series-id: disney
+- series: Le Roi Lion
+  series-id: disney-the-lion-king
   episode: Le Roi Lion
   release: 1657238400
   language: fr-fr
@@ -12,10 +12,14 @@ data:
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000866-50002801-b-CMZjxYeR.png
   sample: https://cdn.tonies.de/o/audio_samples/b71a5989f8c77a54b9414d1f162081f1b04069cbae05afa19a201a18/sample_tonie_disney_simba.mp3
-  web: https://tonies.com/fr-fr/tonies/disney/le-roi-lion/
+  web: https://tonies.com/fr-fr/tonies/disney-le-roi-lion/le-roi-lion/
   shop-id: 607a5048-89ce-43a2-96dd-cdedee0b2e23
   track-desc:
-  - 'L''Histoire & Les Chansons : Le Roi Lion (env. 48 min)'
+  - L'histoire de la vie
+  - Je voudrais déjà être roi
+  - Hakuna Matata
+  - L'amour brille sous les étoiles
+  - 'L''Histoire : Le Roi Lion (env. 37 min)'
   ids:
   - audio-id: 1613996775
     hash: fa6e17956d55e441d229b0d7b1eca45fc34e9505

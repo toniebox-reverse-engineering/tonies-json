@@ -1,8 +1,8 @@
 article: '11000205'
 lock-data: false
 data:
-- series: Disney
-  series-id: disney
+- series: Encanto
+  series-id: disney-encanto
   episode: Encanto
   release: 1685664000
   language: en-gb
@@ -12,7 +12,7 @@ data:
   origin: stock
   image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/51000650-Tonie_Shado-wRKlQm0i.png
   sample: https://cdn.tonies.de/o/audio_samples/e2929ec4b4aa82865566c13398ac1b027c767bc3dae851e349e9ddb7/10001934_encanto_sample.wav
-  web: https://tonies.com/en-gb/tonies/disney/encanto/
+  web: https://tonies.com/en-gb/tonies/disney-encanto/encanto/
   shop-id: fe6b6a25-404f-42fd-9895-45b40582701c
   track-desc:
   - The Family Madrigal

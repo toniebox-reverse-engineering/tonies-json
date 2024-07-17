@@ -1,8 +1,8 @@
 article: '10000858'
 lock-data: false
 data:
-- series: Disney
-  series-id: disney
+- series: La Reine Des Neiges
+  series-id: disney-frozen
   episode: La Reine Des Neiges
   release: 0
   language: fr-fr
@@ -12,7 +12,7 @@ data:
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000858-50002785-b-0KZDZf2k.png
   sample: https://cdn.tonies.de/o/audio_samples/43a3cef2749143ac9525eb3b3a59064fbb6987428f697dd3afff1402/sample_tonie_disney_elsa.mp3
-  web: https://tonies.com/fr-fr/tonies/disney/la-reine-des-neiges/
+  web: https://tonies.com/fr-fr/tonies/disney-la-reine-des-neiges/la-reine-des-neiges/
   shop-id: 8fcd15ed-3848-41e0-bc08-e6ed53290266
   track-desc:
   - Je voudrais un bonhomme de neige
