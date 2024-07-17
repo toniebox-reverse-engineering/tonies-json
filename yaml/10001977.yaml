@@ -23,6 +23,11 @@ data:
   - 'Kapitel 06: Alles steht Kopf'
   - 'Kapitel 07: Alles steht Kopf'
   ids:
+  - audio-id: 1721192976
+    hash: 88ee60feec8f788ea08d3387f2e74b6f0c7cf315
+    size: 52478600
+    tracks: 7
+    confidence: 1
   - audio-id: 1701031771
     hash: 021dedda846c836a7ff6f88471b42fdf088bff7c
     size: 52599949
