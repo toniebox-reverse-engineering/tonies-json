@@ -214,7 +214,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000016,Disney,disney,The Jungle Book,en-gb,audio-play-songs,stock,d1e7a79d-bf34-486a-8038-187bcbdd500e,https://tonies.com/en-gb/tonies/disney/the-jungle-book/,1,1,0,0
 10000017,Disney,disney,Cars,en-gb,audio-play-songs,stock,d64ecced-3227-4768-bdc6-7638967241af,https://tonies.com/en-gb/tonies/disney/cars/,1,0,0,0
 10000018,Disney,disney,The Little Mermaid,en-gb,audio-play-songs,stock,0cf4f3f5-0479-4834-a8e7-83a2041bc065,https://tonies.com/en-gb/tonies/disney/the-little-mermaid/,1,1,0,0
-10000020,Disney,disney,The Lion King,en-gb,audio-play-songs,stock,a28f7907-a83b-499e-8e34-189f271609f4,https://tonies.com/en-gb/tonies/disney/the-lion-king/,1,1,0,0
+10000020,The Lion King,disney-the-lion-king,The Lion King,en-gb,audio-play-songs,stock,a28f7907-a83b-499e-8e34-189f271609f4,https://tonies.com/en-gb/tonies/disney-the-lion-king/the-lion-king/,1,1,0,0
 10000021,Hully Boo Spook'n Spell,,How Hully Boo got his rattling chain / Halloween at Palace Primary,en-gb,audio-play,stock,,,1,2,2,2
 10000022,Hully Boo Spook'n Spell,,Treasure hunt in the Museum / The Magic Championships,en-gb,audio-play,stock,,,1,1,0,0
 10000023,The Fox Pack,,Mystery in the Garden/Tracks of a Giant,en-gb,audio-play,stock,,,1,1,1,1
@@ -376,7 +376,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000332,Kreativ-Tonie,,Fortuna Düsseldorf,de-de,creative-tonie,stock,,,1,1,0,0
 10000333,Beethoven für Kids,beethoven-fuer-kids,Beethoven für Kids - Gelesen von Daniel Hope,de-de,audio-book,stock,06898a62-c71e-434f-8fdd-1c7da29aacd1,https://tonies.com/de-de/tonies/beethoven-fuer-kids/gelesen-von-daniel-hope/,1,1,1,3
 10000334,Disney,disney,Winnie Puuh auf großer Reise,de-de,audio-play,stock,10be7d65-cf26-40c4-a786-787a75e1a2ff,https://tonies.com/de-de/tonies/disney/winnie-puuh-auf-grosser-reise/,1,1,1,2
-10000335,Disney,disney,Winnie the Pooh,en-gb,audio-play,stock,53257ccb-f419-4861-a037-028f49d8046f,https://tonies.com/en-gb/tonies/disney/winnie-the-pooh/,1,1,0,0
+10000335,Winnie the Pooh,disney-winnie-the-pooh,Winnie the Pooh,en-gb,audio-play,stock,53257ccb-f419-4861-a037-028f49d8046f,https://tonies.com/en-gb/tonies/disney-winnie-the-pooh/winnie-the-pooh/,1,1,0,0
 10000336,Miffy,miffy,Miffy’s Adventures,en-gb,audio-play,stock,5e96fa44-c44b-45d1-8130-76baa52eae35,https://tonies.com/en-gb/tonies/miffy/miffys-adventures/,1,0,0,0
 10000337,Peter Hase und seine Freunde,peter-rabbit,Ein Geschichten-Schatz,de-de,audio-book,stock,58cec730-5dce-4a62-b29f-fdadb6925187,https://tonies.com/de-de/tonies/peter-hase-und-seine-freunde/ein-geschichten-schatz/,1,1,1,1
 10000343,Creative-Tonie,,Doctor,en-gb,creative-tonie,stock,8a14f8cf-c440-44b7-b647-4fe16c1b8abe,https://tonies.com/de-de///,1,0,0,0
@@ -624,13 +624,13 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000853,Mes Comptines Préférées,mes-comptines-preferees,De Noël,fr-fr,music,stock,ae04bc05-87f3-4212-88ac-5a66ace6138f,https://tonies.com/fr-fr/tonies/mes-comptines-preferees/de-noel/,1,1,1,1
 10000854,Mes Comptines Préférées,lieblings-kinderlieder,Pour S'Endormir,fr-fr,music,stock,9bf6ee1e-0274-4281-9430-6c6f46d75e59,https://tonies.com/fr-fr/tonies/mes-comptines-preferees/pour-sendormir/,1,1,1,1
 10000855,Mes Comptines Préférées,lieblings-kinderlieder,De La Maternelle,fr-fr,music,stock,ad3cbc3c-e047-49ac-a45a-20dbf09fa373,https://tonies.com/fr-fr/tonies/mes-comptines-preferees/de-la-maternelle/,1,1,1,1
-10000858,Disney,disney,La Reine Des Neiges,fr-fr,audio-play-songs,stock,8fcd15ed-3848-41e0-bc08-e6ed53290266,https://tonies.com/fr-fr/tonies/disney/la-reine-des-neiges/,1,0,0,0
+10000858,La Reine Des Neiges,disney-frozen,La Reine Des Neiges,fr-fr,audio-play-songs,stock,8fcd15ed-3848-41e0-bc08-e6ed53290266,https://tonies.com/fr-fr/tonies/disney-la-reine-des-neiges/la-reine-des-neiges/,1,0,0,0
 10000859,Elmer,elmer,Elmer Et Ses Amis,fr-fr,audio-play,stock,258309b8-9662-4b9f-a7ff-e22849c6af73,https://tonies.com/fr-fr/tonies/elmer/elmer-et-ses-amis/,1,0,0,0
 10000860,Disney,disney,Le Monde de Nemo,fr-fr,audio-play,stock,393898d2-0aad-4838-b188-c1f180748fe7,https://tonies.com/fr-fr/tonies/disney/le-monde-de-nemo/,1,0,0,0
 10000862,Disney,disney,Cars,fr-fr,audio-play,stock,51f37e39-b99e-49f8-b5e9-c6b8d56f27e9,https://tonies.com/fr-fr/tonies/disney/cars/,1,1,0,0
 10000864,Disney,disney,"Ariel, La Petite Sirène",fr-fr,audio-play-songs,stock,95249de2-f2fd-4c69-a805-339b569860ad,https://tonies.com/fr-fr/tonies/disney/ariel-la-petite-sirene/,1,0,0,0
-10000865,Disney,disney,Le Livre De La Jungle,fr-fr,audio-play-songs,stock,5f3b8601-90e7-4724-afef-3994c1db4665,https://tonies.com/fr-fr/tonies/disney/le-livre-de-la-jungle/,1,1,0,0
-10000866,Disney,disney,Le Roi Lion,fr-fr,audio-play-songs,stock,607a5048-89ce-43a2-96dd-cdedee0b2e23,https://tonies.com/fr-fr/tonies/disney/le-roi-lion/,1,1,0,0
+10000865,Le Livre De La Jungle,disney-the-jungle-book,Le Livre De La Jungle,fr-fr,audio-play-songs,stock,5f3b8601-90e7-4724-afef-3994c1db4665,https://tonies.com/fr-fr/tonies/disney-le-livre-de-la-jungle/le-livre-de-la-jungle/,1,1,0,0
+10000866,Le Roi Lion,disney-the-lion-king,Le Roi Lion,fr-fr,audio-play-songs,stock,607a5048-89ce-43a2-96dd-cdedee0b2e23,https://tonies.com/fr-fr/tonies/disney-le-roi-lion/le-roi-lion/,1,1,0,0
 10000867,Disney,disney,Toy Story,fr-fr,audio-play-songs,stock,ba229e52-2211-4057-a853-7ec1a3038246,https://tonies.com/fr-fr/tonies/disney/toy-story/,1,0,0,0
 10000868,La Pat' Patrouille,paw-patrol,Chase,fr-fr,audio-play,stock,2eada2d6-39e1-4d75-a2f3-04647e0aa13d,https://tonies.com/fr-fr/tonies/la-pat-patrouille/chase/,1,1,1,1
 10000872,Peppa Pig,peppa-pig-2,Sur La Route Avec Peppa,fr-fr,audio-play,stock,f6ab940e-66ed-4f6b-8669-44496bb5ec3d,https://tonies.com/fr-fr/tonies/peppa-pig/sur-la-route-avec-peppa/,1,1,1,1
@@ -1110,7 +1110,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000201,Die Sendung mit dem Elefanten,die-sendung-mit-dem-elefanten,Schlaf schön! (Neuauflage 2023),de-de,audio-book-songs,stock,fe510ac5-e375-4b01-a68f-5da58aee59e9,https://tonies.com/de-de/tonies/die-sendung-mit-dem-elefanten/schlaf-schon-neuauflage-2023/,1,1,1,1
 11000202,Disney,,Encanto,en-us,Tonie,stock,7988035354775,,1,1,1,2
 11000203,Favorite Children's Songs,,Bugs!,en-us,Tonie,stock,8220603252887,,1,0,0,1
-11000205,Disney,disney,Encanto,en-gb,audio-play-songs,stock,fe6b6a25-404f-42fd-9895-45b40582701c,https://tonies.com/en-gb/tonies/disney/encanto/,1,1,0,0
+11000205,Encanto,disney-encanto,Encanto,en-gb,audio-play-songs,stock,fe6b6a25-404f-42fd-9895-45b40582701c,https://tonies.com/en-gb/tonies/disney-encanto/encanto/,1,1,0,0
 11000212,Favorite Myths,,Egyptian Mythology,en-us,Tonie,stock,8041065250967,,1,2,1,1
 11000214,Favorite Classics,,The Velveteen Rabbit,en-us,Tonie,stock,8072085471383,,1,1,1,1
 11000215,Favorite Myths,,Greek Mythology,en-us,Tonie,stock,8041065513111,,1,2,1,1

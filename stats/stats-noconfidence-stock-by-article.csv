@@ -12,7 +12,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000016,Disney,disney,The Jungle Book,en-gb,audio-play-songs,stock,d1e7a79d-bf34-486a-8038-187bcbdd500e,https://tonies.com/en-gb/tonies/disney/the-jungle-book/,1,1,0,0
 10000017,Disney,disney,Cars,en-gb,audio-play-songs,stock,d64ecced-3227-4768-bdc6-7638967241af,https://tonies.com/en-gb/tonies/disney/cars/,1,0,0,0
 10000018,Disney,disney,The Little Mermaid,en-gb,audio-play-songs,stock,0cf4f3f5-0479-4834-a8e7-83a2041bc065,https://tonies.com/en-gb/tonies/disney/the-little-mermaid/,1,1,0,0
-10000020,Disney,disney,The Lion King,en-gb,audio-play-songs,stock,a28f7907-a83b-499e-8e34-189f271609f4,https://tonies.com/en-gb/tonies/disney/the-lion-king/,1,1,0,0
+10000020,The Lion King,disney-the-lion-king,The Lion King,en-gb,audio-play-songs,stock,a28f7907-a83b-499e-8e34-189f271609f4,https://tonies.com/en-gb/tonies/disney-the-lion-king/the-lion-king/,1,1,0,0
 10000022,Hully Boo Spook'n Spell,,Treasure hunt in the Museum / The Magic Championships,en-gb,audio-play,stock,,,1,1,0,0
 10000028,The Three Question Marks,,The Realm of Riddles,en-gb,Audiobook,stock,,,1,0,0,0
 10000120,Disney,disney,Aladdin,en-gb,audio-play-songs,stock,3fb45ef9-0171-4a9a-bfba-570427165486,https://tonies.com/en-gb/tonies/disney/aladdin/,1,0,0,0
@@ -31,7 +31,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000308,How to train your Dragon,how-to-train-your-dragon,How to train your Dragon,en-gb,audio-book,stock,4df3f748-4e18-4813-9edf-e96e5f81cca4,https://tonies.com/en-gb/tonies/how-to-train-your-dragon/how-to-train-your-dragon/,1,0,0,0
 10000311,Peppa Pig,peppa-pig-2,On the Road with Peppa Pig,en-gb,audio-play-songs,stock,245a4151-913a-460d-9819-2ab9ff88ef83,https://tonies.com/en-gb/tonies/peppa-pig/on-the-road-with-peppa-pig/,1,0,0,0
 10000317,Diary of a Wimpy Kid,diary-of-a-wimpy-kid,Diary of a Wimpy Kid,en-gb,audio-book,stock,f3cb46d4-c01c-4ff9-89b3-f02876c4d198,https://tonies.com/en-gb/tonies/diary-of-a-wimpy-kid/diary-of-a-wimpy-kid/,1,0,0,0
-10000335,Disney,disney,Winnie the Pooh,en-gb,audio-play,stock,53257ccb-f419-4861-a037-028f49d8046f,https://tonies.com/en-gb/tonies/disney/winnie-the-pooh/,1,1,0,0
+10000335,Winnie the Pooh,disney-winnie-the-pooh,Winnie the Pooh,en-gb,audio-play,stock,53257ccb-f419-4861-a037-028f49d8046f,https://tonies.com/en-gb/tonies/disney-winnie-the-pooh/winnie-the-pooh/,1,1,0,0
 10000336,Miffy,miffy,Miffy’s Adventures,en-gb,audio-play,stock,5e96fa44-c44b-45d1-8130-76baa52eae35,https://tonies.com/en-gb/tonies/miffy/miffys-adventures/,1,0,0,0
 10000357,Shrek,shrek,Shrek,en-gb,audio-book,stock,0cacac68-2e72-463b-aa4b-f0a048bcf206,https://tonies.com/en-gb/tonies/shrek/shrek/,1,0,0,0
 10000372,Disney,disney,101 Dalmatians,en-gb,audio-play-songs,stock,884cebdd-8c3b-4150-a47a-1a37fb4ece0f,https://tonies.com/en-gb/tonies/disney/disney-101-dalmatians/,1,0,0,0
@@ -69,13 +69,13 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000837,Blue's Clues,blue-s-clues,Blue's Clues and You,en-gb,audio-play-songs,stock,9cf93438-13a0-4162-acf5-3793fa0ef379,https://tonies.com/en-gb/tonies/blue-s-clues/blues-clues-and-you/,1,0,0,0
 10000839,Disney,disney,Cars 2,en-gb,audio-play-songs,stock,5e2df981-ee5c-4111-b0de-868662ea4ed6,https://tonies.com/en-gb/tonies/disney/cars-2/,1,0,0,0
 10000840,The Elf on the Shelf,the-elf-on-the-shelf,The Elf on the Shelf,en-gb,audio-book-songs,stock,c4d1b66d-4955-4f25-b24d-30bf7908a6f9,https://tonies.com/en-gb/tonies/the-elf-on-the-shelf/the-elf-on-the-shelf/,1,1,0,0
-10000858,Disney,disney,La Reine Des Neiges,fr-fr,audio-play-songs,stock,8fcd15ed-3848-41e0-bc08-e6ed53290266,https://tonies.com/fr-fr/tonies/disney/la-reine-des-neiges/,1,0,0,0
+10000858,La Reine Des Neiges,disney-frozen,La Reine Des Neiges,fr-fr,audio-play-songs,stock,8fcd15ed-3848-41e0-bc08-e6ed53290266,https://tonies.com/fr-fr/tonies/disney-la-reine-des-neiges/la-reine-des-neiges/,1,0,0,0
 10000859,Elmer,elmer,Elmer Et Ses Amis,fr-fr,audio-play,stock,258309b8-9662-4b9f-a7ff-e22849c6af73,https://tonies.com/fr-fr/tonies/elmer/elmer-et-ses-amis/,1,0,0,0
 10000860,Disney,disney,Le Monde de Nemo,fr-fr,audio-play,stock,393898d2-0aad-4838-b188-c1f180748fe7,https://tonies.com/fr-fr/tonies/disney/le-monde-de-nemo/,1,0,0,0
 10000862,Disney,disney,Cars,fr-fr,audio-play,stock,51f37e39-b99e-49f8-b5e9-c6b8d56f27e9,https://tonies.com/fr-fr/tonies/disney/cars/,1,1,0,0
 10000864,Disney,disney,"Ariel, La Petite Sirène",fr-fr,audio-play-songs,stock,95249de2-f2fd-4c69-a805-339b569860ad,https://tonies.com/fr-fr/tonies/disney/ariel-la-petite-sirene/,1,0,0,0
-10000865,Disney,disney,Le Livre De La Jungle,fr-fr,audio-play-songs,stock,5f3b8601-90e7-4724-afef-3994c1db4665,https://tonies.com/fr-fr/tonies/disney/le-livre-de-la-jungle/,1,1,0,0
-10000866,Disney,disney,Le Roi Lion,fr-fr,audio-play-songs,stock,607a5048-89ce-43a2-96dd-cdedee0b2e23,https://tonies.com/fr-fr/tonies/disney/le-roi-lion/,1,1,0,0
+10000865,Le Livre De La Jungle,disney-the-jungle-book,Le Livre De La Jungle,fr-fr,audio-play-songs,stock,5f3b8601-90e7-4724-afef-3994c1db4665,https://tonies.com/fr-fr/tonies/disney-le-livre-de-la-jungle/le-livre-de-la-jungle/,1,1,0,0
+10000866,Le Roi Lion,disney-the-lion-king,Le Roi Lion,fr-fr,audio-play-songs,stock,607a5048-89ce-43a2-96dd-cdedee0b2e23,https://tonies.com/fr-fr/tonies/disney-le-roi-lion/le-roi-lion/,1,1,0,0
 10000867,Disney,disney,Toy Story,fr-fr,audio-play-songs,stock,ba229e52-2211-4057-a853-7ec1a3038246,https://tonies.com/fr-fr/tonies/disney/toy-story/,1,0,0,0
 10000889,Tee and Mo,tee-and-mo,Tee and Mo,en-gb,audio-play,stock,de0cb8a4-8465-438c-8520-9d7df77d9122,https://tonies.com/en-gb/tonies/tee-and-mo/tee-and-mo/,1,0,0,0
 10000907,Der kleine Nick,nick-2,Der kleine Nick ist der Beste,de-de,audio-book,stock,640b57a8-8ca2-44cd-bb0d-d6823d43e8c7,https://tonies.com/de-de/tonies/der-kleine-nick/der-kleine-nick-ist-der-beste/,1,1,0,0
@@ -240,7 +240,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000197,Favourite Myths,favourite-myths,Pegasus (Greek Myths),en-gb,audio-play-educational,stock,2fb4d9e4-476e-47af-8afd-1020f9ecd45b,https://tonies.com/en-gb/tonies/favourite-myths/pegasus-greek-myths/,1,0,0,0
 11000199,Leos Tag,leos-tag,"1, 2, 3, sei beim Aufräumen dabei!",de-de,audio-play-songs,stock,2c4579b4-5eea-48ea-ac44-2578331a8eae,https://tonies.com/de-de/tonies/leos-tag/1-2-3-sei-beim-aufrumen-dabei/,1,1,0,0
 11000203,Favorite Children's Songs,,Bugs!,en-us,Tonie,stock,8220603252887,,1,0,0,1
-11000205,Disney,disney,Encanto,en-gb,audio-play-songs,stock,fe6b6a25-404f-42fd-9895-45b40582701c,https://tonies.com/en-gb/tonies/disney/encanto/,1,1,0,0
+11000205,Encanto,disney-encanto,Encanto,en-gb,audio-play-songs,stock,fe6b6a25-404f-42fd-9895-45b40582701c,https://tonies.com/en-gb/tonies/disney-encanto/encanto/,1,1,0,0
 11000224,Paw Patrol,paw-patrol,Rocky,en-gb,audio-play,stock,4974cfd8-9943-41b0-bb38-0f8f30cfead3,https://tonies.com/en-gb/tonies/paw-patrol/rocky/,1,0,0,0
 11000226,Blippi,blippi,Blippi,en-gb,audio-play,stock,0e937fef-f9ee-4d53-b7e4-4abc9edc7c99,https://tonies.com/en-gb/tonies/blippi/blippi/,1,0,0,0
 11000237,Care Bears,care-bears-2,Cheer Bear,en-gb,audio-play-songs,stock,39a3a614-4d62-429a-9661-f6f9b2917c0b,https://tonies.com/en-gb/tonies/care-bears-2/cheer-bear/,1,0,0,0

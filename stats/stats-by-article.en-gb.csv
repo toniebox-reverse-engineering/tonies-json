@@ -17,7 +17,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000016,Disney,disney,The Jungle Book,en-gb,audio-play-songs,stock,d1e7a79d-bf34-486a-8038-187bcbdd500e,https://tonies.com/en-gb/tonies/disney/the-jungle-book/,1,1,0,0
 10000017,Disney,disney,Cars,en-gb,audio-play-songs,stock,d64ecced-3227-4768-bdc6-7638967241af,https://tonies.com/en-gb/tonies/disney/cars/,1,0,0,0
 10000018,Disney,disney,The Little Mermaid,en-gb,audio-play-songs,stock,0cf4f3f5-0479-4834-a8e7-83a2041bc065,https://tonies.com/en-gb/tonies/disney/the-little-mermaid/,1,1,0,0
-10000020,Disney,disney,The Lion King,en-gb,audio-play-songs,stock,a28f7907-a83b-499e-8e34-189f271609f4,https://tonies.com/en-gb/tonies/disney/the-lion-king/,1,1,0,0
+10000020,The Lion King,disney-the-lion-king,The Lion King,en-gb,audio-play-songs,stock,a28f7907-a83b-499e-8e34-189f271609f4,https://tonies.com/en-gb/tonies/disney-the-lion-king/the-lion-king/,1,1,0,0
 10000021,Hully Boo Spook'n Spell,,How Hully Boo got his rattling chain / Halloween at Palace Primary,en-gb,audio-play,stock,,,1,2,2,2
 10000022,Hully Boo Spook'n Spell,,Treasure hunt in the Museum / The Magic Championships,en-gb,audio-play,stock,,,1,1,0,0
 10000023,The Fox Pack,,Mystery in the Garden/Tracks of a Giant,en-gb,audio-play,stock,,,1,1,1,1
@@ -90,7 +90,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000318,Fireman Sam,fireman-sam,The Pontypandy Pack,en-gb,audio-play,stock,b21d20c0-793e-48ae-ad7b-57fb50096b9e,https://tonies.com/en-gb/tonies/fireman-sam/the-pontypandy-pack/,1,1,1,1
 10000319,Princess Lillifee,,Princess Lillifee,en-gb,audio-book-songs,stock,,,1,1,1,1
 10000321,PAW Patrol,paw-patrol,Chase,en-gb,audio-play,stock,d9135014-2de3-4090-a201-77da1cca09f5,https://tonies.com/en-gb/tonies/paw-patrol/paw-patrol-chase/,1,1,1,1
-10000335,Disney,disney,Winnie the Pooh,en-gb,audio-play,stock,53257ccb-f419-4861-a037-028f49d8046f,https://tonies.com/en-gb/tonies/disney/winnie-the-pooh/,1,1,0,0
+10000335,Winnie the Pooh,disney-winnie-the-pooh,Winnie the Pooh,en-gb,audio-play,stock,53257ccb-f419-4861-a037-028f49d8046f,https://tonies.com/en-gb/tonies/disney-winnie-the-pooh/winnie-the-pooh/,1,1,0,0
 10000336,Miffy,miffy,Miffy’s Adventures,en-gb,audio-play,stock,5e96fa44-c44b-45d1-8130-76baa52eae35,https://tonies.com/en-gb/tonies/miffy/miffys-adventures/,1,0,0,0
 10000343,Creative-Tonie,,Doctor,en-gb,creative-tonie,stock,8a14f8cf-c440-44b7-b647-4fe16c1b8abe,https://tonies.com/de-de///,1,0,0,0
 10000357,Shrek,shrek,Shrek,en-gb,audio-book,stock,0cacac68-2e72-463b-aa4b-f0a048bcf206,https://tonies.com/en-gb/tonies/shrek/shrek/,1,0,0,0
@@ -276,7 +276,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000196,Favourite Myths,favourite-myths,Horus (Egyptian Myths),en-gb,audio-play-educational,stock,4fbaa6e0-fc81-4a85-99d0-91244760ca4b,https://tonies.com/en-gb/tonies/favourite-myths/horus-egyptian-myths/,1,0,0,0
 11000197,Favourite Myths,favourite-myths,Pegasus (Greek Myths),en-gb,audio-play-educational,stock,2fb4d9e4-476e-47af-8afd-1020f9ecd45b,https://tonies.com/en-gb/tonies/favourite-myths/pegasus-greek-myths/,1,0,0,0
 11000198,Ben and Holly's Little Kingdom,ben-and-holly-s-little-kingdom,Ben,en-gb,audio-play,stock,9bbf28b3-f768-4415-a0c9-2b752f58b700,https://tonies.com/en-gb/tonies/ben-and-holly-s-little-kingdom/ben/,1,1,1,1
-11000205,Disney,disney,Encanto,en-gb,audio-play-songs,stock,fe6b6a25-404f-42fd-9895-45b40582701c,https://tonies.com/en-gb/tonies/disney/encanto/,1,1,0,0
+11000205,Encanto,disney-encanto,Encanto,en-gb,audio-play-songs,stock,fe6b6a25-404f-42fd-9895-45b40582701c,https://tonies.com/en-gb/tonies/disney-encanto/encanto/,1,1,0,0
 11000224,Paw Patrol,paw-patrol,Rocky,en-gb,audio-play,stock,4974cfd8-9943-41b0-bb38-0f8f30cfead3,https://tonies.com/en-gb/tonies/paw-patrol/rocky/,1,0,0,0
 11000226,Blippi,blippi,Blippi,en-gb,audio-play,stock,0e937fef-f9ee-4d53-b7e4-4abc9edc7c99,https://tonies.com/en-gb/tonies/blippi/blippi/,1,0,0,0
 11000237,Care Bears,care-bears-2,Cheer Bear,en-gb,audio-play-songs,stock,39a3a614-4d62-429a-9661-f6f9b2917c0b,https://tonies.com/en-gb/tonies/care-bears-2/cheer-bear/,1,0,0,0
