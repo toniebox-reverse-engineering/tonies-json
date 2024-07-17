@@ -1,8 +1,8 @@
 article: '10000577'
 lock-data: false
 data:
-- series: Disney
-  series-id: disney
+- series: Moana
+  series-id: disney-moana
   episode: Moana
   release: 1628726400
   language: en-gb
@@ -12,15 +12,15 @@ data:
   origin: stock
   image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000577-50001794-b-F5WxIzRu.png
   sample: https://cdn.tonies.de/o/audio_samples/f027bd57b541816752b4dcf8fc7cfd9d9b22347b620bcd6715ce0620/audio_sample_disney_moana_ext.mp3
-  web: https://tonies.com/en-gb/tonies/disney/moana/
+  web: https://tonies.com/en-gb/tonies/disney-moana/moana/
   shop-id: 547dc87c-1ecd-44a3-b7a1-203a236da545
   track-desc:
   - You're Welcome
   - We know the Way
   - Where You Are
   - How Far I'll go
-  - Shiny
-  - STORY - Moana
+  - Moana
+  - Story
   ids:
   - audio-id: 1625584604
     hash: 95d82b01ac330b43e6339304724ae86de83a4846

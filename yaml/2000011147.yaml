@@ -1,0 +1,26 @@
+article: '2000011147'
+lock-data: false
+data:
+- series: Die Olchis
+  series-id: die-olchis
+  episode: Die Olchis und die große Mutprobe und eine weitere Geschichte
+  release: 1453680000
+  language: de-de
+  category: audio-play
+  runtime: 1836
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/50c2c6f639ca1dfbcda2bc002c91ac45380ce5136180fbec7a04469f/3_2vR~n-jvz1ylbHN8/die_olchis_die_olchis_und_die_groe_mutprobe_und_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/d686d343c151b9482b2b37e2ba5b8a7f7b3bab7ece2679e1e6c4c6d4/9783837365337_preview.mp3
+  web: https://tonies.com/de-de/audio-content/die-olchis/die-olchis-und-die-groe-mutprobe-und-eine-weitere/
+  shop-id: 8cbd7281-017e-4799-a6ee-68f4446f12cd
+  track-desc:
+  - Die Olchis und die große Mutprobe (Kapitel 01)
+  - Die Olchis und die große Mutprobe (Kapitel 02)
+  - Die Olchis und die große Mutprobe (Kapitel 03)
+  - Die Olchis und die große Mutprobe (Kapitel 04)
+  - Die Olchis und die große Mutprobe (Kapitel 05)
+  - Die Olchis und die große Mutprobe (Kapitel 06)
+  - Die Olchis und die große Mutprobe (Kapitel 07)
+  - Die Olchis und der Schmuddel-Hund
+  ids: []

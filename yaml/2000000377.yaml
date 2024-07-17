@@ -7,11 +7,11 @@ data:
   release: 1518998400
   language: de-de
   category: audio-play
-  runtime: 0
+  runtime: 3190
   age: 5
   origin: tunes
   image: https://cdn.tonies.de/o/images/07bf253f3e1a63ab901c84649bc993760a92e6758b8cc75d08d1803e/3_l.ZgLjFb5.jKvtwj/die_olchis_die_olchis_im_land_der_dinos_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/ae8b430aa2099574e6ec1e9b8cfbaadae741f4dca64f018f4edca802/9783837366181_preview.mp3
   web: https://tonies.com/de-de/audio-content/die-olchis/die-olchis-im-land-der-dinos/
   shop-id: bbb81884-9f0c-435d-8ddf-e6aee4f8370d
   track-desc:

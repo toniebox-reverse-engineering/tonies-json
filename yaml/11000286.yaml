@@ -1,8 +1,8 @@
 article: '11000286'
 lock-data: false
 data:
-- series: Disney
-  series-id: disney
+- series: Findet Nemo
+  series-id: disney-finding-nemo
   episode: Findet Dorie
   release: 1720569600
   language: de-de
@@ -12,7 +12,7 @@ data:
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11000286_1_a-ADDRX2pB.png
   sample: https://cdn.tonies.de/o/audio_samples/2cd5f56b8a4cfbc0ad310da98b7ca53746089bcd7f5dbba92ace11e4/hoerprobe_11000286_disney_findet_dorie.mp3
-  web: https://tonies.com/de-de/tonies/disney/findet-dorie/
+  web: https://tonies.com/de-de/tonies/disney-findet-nemo/findet-dorie/
   shop-id: a3adb9f7-f8d7-4864-b44e-630fb659bca5
   track-desc:
   - 'Kapitel 01: Findet Dorie'

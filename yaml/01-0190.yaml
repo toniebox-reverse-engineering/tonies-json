@@ -1,8 +1,8 @@
 article: 01-0190
 lock-data: false
 data:
-- series: Disney
-  series-id: disney
+- series: Der König der Löwen
+  series-id: disney-the-lion-king
   episode: Der König der Löwen
   release: 1565827200
   language: de-de
@@ -12,12 +12,13 @@ data:
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0190-98-0582-b-a0Vs2yGR.png
   sample: https://cdn.tonies.de/o/audio_samples/b916c31fae44cc0c1081313671cdc3db44dda07ad9d90c813d8002e9/hoerprobe_01_0190_disney_koenig_der_loewen.mp3
-  web: https://tonies.com/de-de/tonies/disney/der-koenig-der-loewen/
+  web: https://tonies.com/de-de/tonies/disney-der-koenig-der-loewen/der-koenig-der-loewen/
   shop-id: 38650853-9030-4123-93af-afaa8c688e9f
   track-desc:
-  - Der König der Löwen inkl. "Der ewige Kreis" und "Ich will jetzt gleich König sein"
-  - Der König der Löwen
-  - Der König der Löwen inkl. "Hakuna Matata" und "Kann es wirklich Liebe sein"
+  - Der ewige Kreis
+  - Ich will jetzt gleich König sein
+  - Hakuna Matata
+  - Kann es wirklich Liebe sein
   - Der König der Löwen
   ids:
   - audio-id: 1679397986
