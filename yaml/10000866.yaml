@@ -15,11 +15,7 @@ data:
   web: https://tonies.com/fr-fr/tonies/disney-le-roi-lion/le-roi-lion/
   shop-id: 607a5048-89ce-43a2-96dd-cdedee0b2e23
   track-desc:
-  - L'histoire de la vie
-  - Je voudrais déjà être roi
-  - Hakuna Matata
-  - L'amour brille sous les étoiles
-  - 'L''Histoire : Le Roi Lion (env. 37 min)'
+  - 'L''Histoire & Les Chansons : Le Roi Lion (env. 48 min)'
   ids:
   - audio-id: 1613996775
     hash: fa6e17956d55e441d229b0d7b1eca45fc34e9505
