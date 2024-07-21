@@ -1,8 +1,8 @@
 article: '11000431'
 lock-data: false
 data:
-- series: Disney
-  series-id: disney
+- series: Soul
+  series-id: disney-soul
   episode: Soul
   release: 1718150400
   language: de-de
@@ -12,8 +12,14 @@ data:
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11000431_1_a-8ZxBeThM.png
   sample: https://cdn.tonies.de/o/audio_samples/c9a28de34b0c191195a86b90dc63d78e611867ac515a0894d274f595/hoerprobe_11000431_disney_soul.mp3
-  web: https://tonies.com/de-de/tonies/disney/soul/
+  web: https://tonies.com/de-de/tonies/disney-soul/soul/
   shop-id: b7e7882e-2179-4a50-b5af-64d5f7dce431
   track-desc:
-  - '07: Disney - Soul'
+  - 'Kapitel 01: Soul'
+  - 'Kapitel 02: Soul'
+  - 'Kapitel 03: Soul'
+  - 'Kapitel 04: Soul'
+  - 'Kapitel 05: Soul'
+  - 'Kapitel 06: Soul'
+  - 'Kapitel 07: Soul'
   ids: []
