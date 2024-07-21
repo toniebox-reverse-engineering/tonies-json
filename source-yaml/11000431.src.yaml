@@ -1,10 +1,10 @@
 article: '11000431'
 lock-data: false
 data:
-- series: ''
-  series-id: ''
+- series: tonies-json-de-de,
+  series-id: tonies-json-de-de,
   episode: ''
-  release: tonies-json-de-de,
+  release: ''
   language: ''
   category: ''
   runtime: ''
@@ -12,7 +12,7 @@ data:
   origin: ''
   image: ''
   sample: ''
-  web: ''
+  web: tonies-json-de-de,
   shop-id: ''
-  track-desc: ''
+  track-desc: tonies-json-de-de,
   ids: []
