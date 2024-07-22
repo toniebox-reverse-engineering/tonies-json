@@ -36,7 +36,8 @@ data:
   - Tilly, die Taube
   - In der Stadt (Das Geräuschelied)
   - Wenn die Stadt schlafen geht
-- audio-id: 1718011946
+- ids
+  - audio-id: 1718011946
     hash: 4F593350306E3DAAA9166EC2726E5DCEA936327F
     size: 49327070
     tracks: 20
