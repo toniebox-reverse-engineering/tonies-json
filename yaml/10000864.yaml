@@ -1,8 +1,8 @@
 article: '10000864'
 lock-data: false
 data:
-- series: Disney
-  series-id: disney
+- series: La Petite Sirène
+  series-id: disney-the-little-mermaid
   episode: Ariel, La Petite Sirène
   release: 0
   language: fr-fr
@@ -12,8 +12,17 @@ data:
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000864-50002797-b-YPB2nIBK.png
   sample: https://cdn.tonies.de/o/audio_samples/32c4849611b14908ef07b4d6fe1a8687397c7474cd74c782950eb749/sample_tonie_disney_ariel.mp3
-  web: https://tonies.com/fr-fr/tonies/disney/ariel-la-petite-sirene/
+  web: https://tonies.com/fr-fr/tonies/disney-la-petite-sirene/ariel-la-petite-sirene/
   shop-id: 95249de2-f2fd-4c69-a805-339b569860ad
   track-desc:
-  - 'L''Histoire & Les Chansons : La Petite Sirène (env. 59 min)'
+  - Dans les profondeurs de l'océan
+  - Filles du Roi Triton
+  - Partir là-bas
+  - Sous l'océan (Henry Salvador)
+  - Partir là-bas (Reprise)
+  - Pauvres âmes infortunées
+  - Les poissons
+  - Embrasse-la (Henry Salvador)
+  - Tout est bien qui finit bien
+  - 'L''Histoire : La Petite Sirène (env. 49 min)'
   ids: []
