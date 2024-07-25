@@ -1,8 +1,8 @@
 article: '11000520'
 lock-data: false
 data:
-- series: Disney
-  series-id: disney
+- series: Wish
+  series-id: disney-wish
   episode: Wish
   release: 1710288000
   language: de-de
@@ -12,7 +12,7 @@ data:
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/BOX11000520_1_a-bDxnV9Tz.png
   sample: https://cdn.tonies.de/o/audio_samples/7c079e9ac66affe9bb4748dc2158a94795918b0aa76108fc0cc93cbc/hoerprobe_11000520_disney_wish.mp3
-  web: https://tonies.com/de-de/tonies/disney/wish/
+  web: https://tonies.com/de-de/tonies/disney-wish/wish/
   shop-id: e15ddfd5-63e7-4f11-9e19-20ab0ffc5626
   track-desc:
   - 'Kapitel 01: Wish'
