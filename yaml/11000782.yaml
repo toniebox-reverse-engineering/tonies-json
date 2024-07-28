@@ -15,6 +15,7 @@ data:
   web: https://tonies.com/en-gb/clever-tonies/today-with-tonies/today-with-tonies/
   shop-id: a742a774-63b0-450f-8303-6552b3c99bc9
   track-desc:
+  - Sunday 28th July
   - Saturday 27th July
   - Friday 26th July
   - Thursday 25th July
@@ -28,7 +29,6 @@ data:
   - Wednesday 17th July
   - Tuesday 16th July
   - Monday 15th July
-  - Sunday 14th July
   - Today With Tonies Jingle
   ids:
   - audio-id: 1722035108
