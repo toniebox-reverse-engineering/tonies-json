@@ -1,0 +1,42 @@
+article: '11000851'
+lock-data: false
+data:
+- series: Animal World
+  series-id: animal-world
+  episode: 'Animal World: Record Breakers'
+  release: 1723075200
+  language: en-gb
+  category: audio-play-educational
+  runtime: 0
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11001109%20Animal%20Worl-dfb2aZPh.png
+  sample: https://cdn.tonies.de/o/audio_samples/0add16499123388fd860f1b619bb07f36147f151c9f57ece15e11e1b/animal_world_record_breakers_sample.wav
+  web: https://tonies.com/en-gb/clever-tonies/animal-world/record-breakers/
+  shop-id: a649cba3-6c38-45af-b291-072814495008
+  track-desc:
+  - Slowpokes and Speedsters - Intro
+  - Slowpokes and Speedsters - The Cheetah
+  - Slowpokes and Speedsters - Lodistar Quiz 1
+  - Slowpokes and Speedsters - The Sloth and The Moss
+  - Slowpokes and Speedsters - Lodistar Quiz 2
+  - Slowpokes and Speedsters - Outro
+  - Beasts and Brainiacs - Intro
+  - Beasts and Brainiacs - The Blue Whale and The Orca
+  - Beasts and Brainiacs - Lodistar Quiz 1
+  - Beasts and Brainiacs - The Octopus and The Dolphin
+  - Beasts and Brainiacs - Lodistar Quiz 2
+  - Beasts and Brainiacs - Outro
+  - Mini Marvels and Towering Titans - Intro
+  - Mini Marvels and Towering Titans - The Elephant
+  - Mini Marvels and Towering Titans - Lodistar Quiz 1
+  - Mini Marvels and Towering Titans - Ant Colony
+  - Mini Marvels and Towering Titans - Lodistar Quiz 2
+  - Mini Marvels and Towering Titans - Outro
+  - Charmers and Creeps - Intro
+  - Charmers and Creeps - Frog Camouflage
+  - Charmers and Creeps - Lodistar Quiz 1
+  - Charmers and Creeps - Showstopper The Peacock
+  - Charmers and Creeps - Lodistar Quiz 2
+  - Charmers and Creeps - Outro
+  ids: []

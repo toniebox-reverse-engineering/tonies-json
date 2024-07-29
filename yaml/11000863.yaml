@@ -1,0 +1,42 @@
+article: '11000863'
+lock-data: false
+data:
+- series: Cool Jobs
+  series-id: cool-jobs
+  episode: Cool Jobs
+  release: 1723075200
+  language: en-gb
+  category: audio-play
+  runtime: 0
+  age: 6
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11000863_Cool%20Jobs_L-44VI21Pq.png
+  sample: https://cdn.tonies.de/o/audio_samples/6c3b6d954df6715ea58cc6cda03a2ce07949c7482645041fa9d35e51/cool_jobs.wav
+  web: https://tonies.com/en-gb/clever-tonies/cool-jobs/cool-jobs/
+  shop-id: e7cabcaf-12a3-436b-96f2-dfeb05d892c4
+  track-desc:
+  - A Passion for Pizza - Intro
+  - A Passion for Pizza - Time Trek
+  - A Passion for Pizza - Fact Attack
+  - A Passion for Pizza - Ask an Expert
+  - A Passion for Pizza - Fast Forward
+  - A Passion for Pizza - After the Episode
+  - Capturing the Wild - Intro
+  - Capturing the Wild - Time Trek
+  - Capturing the Wild - Fact Attack
+  - Capturing the Wild - Ask an Expert
+  - Capturing the Wild - Fast Forward
+  - Capturing the Wild - After the Episode
+  - A Day as a Doctor - Intro
+  - A Day as a Doctor - Time Trek
+  - A Day as a Doctor - Fact Attack
+  - A Day as a Doctor - Ask an Expert
+  - A Day as a Doctor - Fast Forward
+  - A Day as a Doctor - After the Episode
+  - Defying Gravity - Intro
+  - Defying Gravity - Time Trek
+  - Defying Gravity - Fact Attack
+  - Defying Gravity - Ask an Expert
+  - Defying Gravity - Fast Forward
+  - Defying Gravity - After the Episode
+  ids: []

@@ -1,0 +1,19 @@
+article: '11001109'
+lock-data: false
+data:
+- series: tonies® Original
+  series-id: tonies-originals
+  episode: Joke of the Day
+  release: 1723075200
+  language: en-gb
+  category: audio-play
+  runtime: 0
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11001109_Joke%20of%20the-yweHvS4E.png
+  sample: https://cdn.tonies.de/o/audio_samples/0aa4ed2bda9f29d933dc35da67819bff3c31e03519a88c928aa1b2bd/11001109_joke_of_the_day_sample.wav
+  web: https://tonies.com/en-gb/clever-tonies/tonies-originals/joke-of-the-day/
+  shop-id: c31bee4a-d638-47da-b7c5-f27bd51ebb1d
+  track-desc:
+  - Joke Of The Day Jingle
+  ids: []
