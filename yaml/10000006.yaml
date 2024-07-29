@@ -1,18 +1,18 @@
 article: '10000006'
 lock-data: false
 data:
-- series: Zog
-  series-id: zog
+- series: Julia Donaldson
+  series-id: julia-donaldson
   episode: Zog
   release: 0
   language: en-gb
   category: audio-book-songs
   runtime: 20
-  age: 4
+  age: 3
   origin: stock
   image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000006-50000046-b--0UdJxpcs.png
   sample: https://cdn.tonies.de/o/audio_samples/424364c7f708a5f68140d65b38966dad74e93f1e1e33153116476316/hoerprobe_zog.mp3
-  web: https://tonies.com/en-gb/tonies/zog/zog/
+  web: https://tonies.com/en-gb/tonies/julia-donaldson/zog/
   shop-id: 07984db1-13a3-4f6a-84b6-27b6ba1b0f74
   track-desc:
   - STORY- Zog
