@@ -1,0 +1,24 @@
+article: '11000578'
+lock-data: false
+data:
+- series: Tara Duncan
+  series-id: tara-duncan-2
+  episode: Vive La Magie !
+  release: 1722470400
+  language: fr-fr
+  category: audio-play
+  runtime: 45
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51003480-Tonie_Shado-GCe38FZz.png
+  sample: https://cdn.tonies.de/o/audio_samples/eb67833fe214f51817fe649516137d0fecab130c8715fdc00ac791c3/mix_tara_duncan_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/tara-duncan/vive-la-magie/
+  shop-id: d8b13c6d-2add-42af-98b9-8c22e24115c4
+  track-desc:
+  - Introduction
+  - Générique
+  - Jeune Galant
+  - Blaliban Dal Salan
+  - Dormez-bien
+  - Le chapeau
+  ids: []

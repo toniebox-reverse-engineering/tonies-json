@@ -1,0 +1,25 @@
+article: '11000953'
+lock-data: false
+data:
+- series: Coco
+  series-id: disney-coco
+  episode: Coco
+  release: 1722470400
+  language: fr-fr
+  category: audio-play-songs
+  runtime: 76
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/98-1219-Disney-Coco--4Yt_7J07.png
+  sample: https://cdn.tonies.de/o/audio_samples/61a8cd29e05ac7ada3da9b589936c32cf213f67a01ea5fc99ea4eab9/11000953_disney_coco_extraitmp3.mp3
+  web: https://tonies.com/fr-fr/tonies/disney-coco/coco/
+  shop-id: 434052c2-3e93-436d-a8d1-880462959d7f
+  track-desc:
+  - Coco - Partie 1
+  - Coco - Partie 2 (inclus la chanson "Ne m'oublie pas - Ernesto de la Cruz")
+  - Coco - Partie 3
+  - Coco - Partie 4 (inclus la chanson "Tout le monde connaît Juanita")
+  - Coco - Partie 5 (inclus les chansons "Un poco loco" et "Le monde es mi familia")
+  - Coco - Partie 6 (inclus la chanson "Ne m'oublie pas - Berceuse")
+  - Coco - Partie 7 (inclus les chansons "Ne m'oublie pas - Retrouvailles" et "Corazón")
+  ids: []
