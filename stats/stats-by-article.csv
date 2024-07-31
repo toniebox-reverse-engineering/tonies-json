@@ -1027,6 +1027,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001998,Bibi Blocksberg,bibi-blocksberg,Die Junghexenbande,de-de,audio-play,stock,f286ee22-cf0c-480d-9a73-1c470d281ee9,https://tonies.com/de-de/tonies/bibi-blocksberg/junghexenbande/,1,1,1,2
 10002000,Karmas Welt,karmas-welt,Karmas Welt,de-de,audio-play-songs,stock,f86cfd35-5809-4af6-800e-64fb0c3db67c,https://tonies.com/de-de/tonies/karmas-welt/karmas-welt/,1,1,0,0
 10002001,Worldwide Tales,,West African Tales,en-us,Tonie,stock,7907849568407,,1,1,1,1
+10002002,Adventskalender,adventskalender,Ein Fest für die Waldfreunde,de-de,audio-play,stock,52da5059-9853-48ce-86cc-4dea2d30ed2a,https://tonies.com/de-de/tonies/adventskalender/ein-fest-fur-die-waldfreunde/,1,0,0,0
 10002003,Lieblings-Märchen,lieblings-maerchen,Der gestiefelte Kater (Neuauflage 2023),de-de,audio-book,stock,0ffc4b6f-6711-49fd-ad6e-c33281dd6de9,https://tonies.com/de-de/tonies/lieblings-maerchen/lieblingsmarchen-der-gestiefelte-kater-neuauflage-2023/,1,1,0,0
 10002008,"Billie, der Regenbogentiger",billie-der-regenbogentiger,"Billie, der Regenbogentiger",de-de,audio-play,stock,4dad6ba1-6f2a-4a03-965a-ac8eb8deb4a9,https://tonies.com/de-de/tonies/billie-der-regenbogentiger/billie-der-regenbogentiger/,1,1,1,2
 10002010,Lassie,lassie,Freunde fürs Leben,de-de,audio-play,stock,99d572a8-a52f-49e4-bd3c-48ca8d16c86b,https://tonies.com/de-de/tonies/lassie/lassie-freunde-furs-leben/,1,1,0,0
@@ -1137,6 +1138,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000260,Peppa Pig,peppa-pig-2,Learn With Peppa Pig,en-gb,audio-play-educational,stock,39e809ed-b755-4cef-b8b8-e886cbb6e677,https://tonies.com/en-gb/tonies/peppa-pig/learn-with-peppa-pig/,1,1,1,1
 11000263,Peppa Pig,,Learn with Peppa,en-us,Tonie,stock,8143490744471,,1,1,1,1
 11000264,Carmen Sandiego,,,en-us,Tonie,stock,8134562775191,,1,1,1,1
+11000265,King of Kindergarten,,,en-us,Tonie,stock,8260127948951,,1,0,0,0
 11000266,PAW Patrol,,Tracker,en-us,Tonie,stock,8081283317911,,1,1,1,1
 11000274,Ohrenbär,ohrenbar,Mulles Zaubersteinchen,de-de,audio-book,stock,2b81a78f-db3a-4c7f-b650-944ec5156a6d,https://tonies.com/de-de/tonies/ohrenbaer/mulles-zaubersteinchen/,1,1,1,1
 11000279,Tabaluga,tabaluga,Drachen weinen nicht & Mondsüchtig,de-de,audio-play-songs,stock,d63d2e6c-3839-4d11-87b1-78e5de9f15ee,https://tonies.com/de-de/tonies/tabaluga/drachen-weinen-nicht-mondschtig/,1,1,1,2
@@ -1176,6 +1178,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000347,La Pat' Patrouille,paw-patrol,Rex,fr-fr,audio-play,stock,ec212d59-4bd0-4b74-948c-1f524cba415d,https://tonies.com/fr-fr/tonies/la-pat-patrouille/rex/,1,0,0,0
 11000348,La Pat' Patrouille,paw-patrol,Zuma,fr-fr,audio-play,stock,1cf1d8bc-e5df-481c-88a4-893b1e8dbe48,https://tonies.com/fr-fr/tonies/la-pat-patrouille/zuma/,1,0,0,0
 11000349,Calendrier De L'Avent,calendrier-de-l-avent,Le Petit Renne Qui Rêvait D'Avoir Des Ailes,fr-fr,audio-play,stock,ec6028d4-e0d4-4573-b61d-d9e47fe5d184,https://tonies.com/fr-fr/tonies/calendrier-de-l-avent/le-petit-renne-qui-revait-d-avoir-des-ailes/,1,0,0,0
+11000353,Masha Et Michka,mascha-und-der-bar,Michka,fr-fr,audio-play,stock,b006412f-f09d-4695-abca-b8562785ff2f,https://tonies.com/fr-fr/tonies/masha-et-michka/michka/,1,0,0,0
 11000358,Marvel's Spidey and His Amazing Friends,,Ghost-Spider,en-us,Tonie,stock,8072395915415,,1,2,1,2
 11000359,Marvel's Spidey and His Amazing Friends,,Spin,en-us,Tonie,stock,8072395817111,,1,2,1,2
 11000360,Octonauts,octonauts,Peso,en-gb,audio-play-songs,stock,9d3c57c1-4b23-4ef7-b78b-a02fabd6ed89,https://tonies.com/en-gb/tonies/octonauts/peso/,1,1,1,2
@@ -1214,6 +1217,8 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000471,Moshi,moshi,Fluttercup,en-gb,audio-play-songs,stock,f9ef304c-0c0c-4bd7-a99d-3c846f396e89,https://tonies.com/en-gb/tonies/moshi/fluttercup/,1,0,0,0
 11000477,Dino Ranch,dino-ranch,Dino Ranch,en-gb,audio-play,stock,a5735a43-b5ad-4fde-b074-d0ff067f7c40,https://tonies.com/en-gb/tonies/dino-ranch/dino-ranch/,1,0,0,0
 11000479,PAW Patrol,,Liberty,en-us,Tonie,stock,8041408004247,,1,1,1,2
+11000480,Pretzel and the Puppies,,,en-us,Tonie,stock,8143490810007,,1,0,0,0
+11000484,Disney,,& Pixar: Inside Out,en-us,Tonie,stock,8472681840791,,1,0,0,0
 11000495,Paw Patrol,paw-patrol,Liberty,en-gb,audio-play,stock,fb760b65-e2c1-4ac9-85fc-7a42def5a4ba,https://tonies.com/en-gb/tonies/paw-patrol/liberty/,1,1,1,1
 11000503,La Pat' Patrouille,la-pat-patrouille,Liberty,fr-fr,audio-play,stock,0041af69-1f3a-4432-91ce-f31baec80fdf,https://tonies.com/fr-fr/tonies/la-pat-patrouille/liberty/,1,0,0,0
 11000509,C'Est Toujours Pas Sorcier,was-ist-was,Nos Amis Les Animaux,fr-fr,audio-play-educational,stock,bb7c7283-d4d7-4ff9-94ab-9ff803d826b1,https://tonies.com/fr-fr/tonies/c-est-toujours-pas-sorcier/nos-amis-les-animaux/,1,0,0,0
@@ -1222,6 +1227,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000514,Timoté,timote,Je Grandis Avec Timoté,fr-fr,audio-book,stock,98d0c3f8-fad7-4079-aa91-00dabdadf6f1,https://tonies.com/fr-fr/tonies/timote/je-grandis-avec-timote/,1,1,1,1
 11000520,Wish,disney-wish,Wish,de-de,audio-play,stock,e15ddfd5-63e7-4f11-9e19-20ab0ffc5626,https://tonies.com/de-de/tonies/disney-wish/wish/,1,0,0,0
 11000526,Disney,,Wish,en-us,Tonie,stock,8124400664727,,1,2,2,2
+11000529,Kung Fu Panda,,,en-us,Tonie,stock,8472681414807,,1,0,0,0
 11000530,PAW Patrol,paw-patrol,Liberty findet einen neuen Freund,de-de,audio-play,stock,2fbcb41a-bd26-42d4-bfd9-b988c5aad7e1,https://tonies.com/de-de/tonies/paw-patrol/paw-patrol-liberty-findet-einen-neuen-freund/,1,1,1,3
 11000538,Thomas and Friends,thomas-seine-freunde,All Engines Go: Percy,en-gb,audio-play,stock,bad32e9e-837a-4eed-9c2c-a723541efe67,https://tonies.com/en-gb/tonies/thomas-and-friends/all-engines-go-percy/,1,0,0,0
 11000540,Trolls,,Viva,en-us,Tonie,stock,7806499094679,,1,1,1,1
@@ -1230,8 +1236,10 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000572,Mon Petit Science & Vie,sciences-et-vie,Dans Le Labo De Nano,fr-fr,audio-play,stock,7d30af55-ce8c-45fc-8e0a-2d65d67044b8,https://tonies.com/fr-fr/tonies/sciences-et-vie/dans-le-labo-de-nano/,1,0,0,0
 11000573,Foot 2 Rue,foot-2-rue,Jérémy,fr-fr,audio-play,stock,1b0bea2a-79f2-4dd3-bc26-dd2477d481d9,https://tonies.com/fr-fr/tonies/foot-2-rue/jeremy/,1,0,0,0
 11000574,Creative-Tonie,,Mermaid,en-us,creative-tonie,stock,8134563692695,,1,0,0,0
+11000578,Tara Duncan,tara-duncan-2,Vive La Magie !,fr-fr,audio-play,stock,d8b13c6d-2add-42af-98b9-8c22e24115c4,https://tonies.com/fr-fr/tonies/tara-duncan/vive-la-magie/,1,0,0,0
 11000594,Asterix,asterix,Asterix - Die Odyssee,de-de,audio-play,stock,12db35ae-f4a8-48c1-aa8a-b0b4fd3aa9cc,https://tonies.com/de-de/tonies/asterix/asterix-idefix-dogmatix-en-dach/,1,1,0,0
 11000596,Burpee Bears,burpee-bears,Burpee Bears,en-gb,audio-book,stock,d2414366-db00-42cb-b86e-3def2f9c073d,https://tonies.com/en-gb/tonies/burpee-bears/burpee-bears/,1,1,1,1
+11000602,Lichterkinder,lichterkinder,Die besten Weihnachts- und Winterlieder,de-de,music,stock,87f381c3-b238-4e76-85cd-022ba6d80f53,https://tonies.com/de-de/tonies/lichterkinder/die-besten-weihnachts-und-winterlieder/,1,0,0,0
 11000604,Sing Kinderlieder,sing-kinderlieder,"Milo, das Müllauto-Kind & seine Freunde - Abenteuer in der großen Stadt",de-de,music,stock,9151f64d-cb01-4dd1-96c4-c2e918a63455,https://tonies.com/de-de/tonies/sing-kinderlieder/milo-das-mullauto-kind-seine-freunde-abenteuer-in-der-groen-stadt/,1,0,0,0
 11000605,Trolls,trolls,Viva,en-gb,audio-play-songs,stock,d22ca57c-4c41-4461-81b1-f8d558734784,https://tonies.com/en-gb/tonies/trolls/viva/,1,0,0,0
 11000608,Spidey Et Ses Amis Extraordinaires,spidey-et-ses-amis-extraordinaires,Ghost-Spider,fr-fr,audio-play-songs,stock,4b745f3a-0e10-42a9-990f-6c5b1ec0c8ad,https://tonies.com/fr-fr/tonies/spidey-et-ses-amis-extraordinaires/ghost-spider/,1,0,0,0
@@ -1273,6 +1281,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000940,Pettersson und Findus,pettersson-und-findus,Mein Gartenjahr - Frühling & Sommer,de-de,audio-play,stock,70cea8e0-f282-4182-8710-9b2d7fee00c7,https://tonies.com/de-de/clever-tonies/pettersson-und-findus/pettersson-findus-mein-gartenjahr-fruhling-sommer/,1,0,0,0
 11000942,tonies® Original,tonies-originals,Team Smarticus,en-gb,audio-play-educational,stock,a9100d1a-5951-4c7b-be26-a9c502e5d40c,https://tonies.com/en-gb/clever-tonies/tonies-originals/team-smarticus/,1,0,0,0
 11000949,Trolls,trolls,Gemeinsam Stark,de-de,audio-play,stock,c738d003-1e1e-4ae0-891b-28af621927dd,https://tonies.com/de-de/tonies/trolls/gemeinsam-stark/,1,0,0,0
+11000953,Coco,disney-coco,Coco,fr-fr,audio-play-songs,stock,434052c2-3e93-436d-a8d1-880462959d7f,https://tonies.com/fr-fr/tonies/disney-coco/coco/,1,0,0,0
 11001102,Natural History Museum,discovery-crew,Discovery Crew,en-gb,audio-play,stock,6a3cc700-9b64-470c-b578-5d0ec4f5d20b,https://tonies.com/en-gb/clever-tonies/discovery-crew/natural-history-museum-discovery-crew/,1,0,0,0
 11001109,tonies® Original,tonies-originals,Joke of the Day,en-gb,audio-play,stock,c31bee4a-d638-47da-b7c5-f27bd51ebb1d,https://tonies.com/en-gb/clever-tonies/tonies-originals/joke-of-the-day/,1,0,0,0
 11001135,Checker Tobi,checker-tobi,Checker Tobi - Set,de-de,audio-play,stock,2a318fd0-646c-46d3-b141-19d8429317ac,https://tonies.com/de-de/clever-tonies/checker-tobi/checker-tobi-set/,1,0,0,0
