@@ -1,8 +1,8 @@
 article: '11000292'
 lock-data: false
 data:
-- series: Disney
-  series-id: disney
+- series: Encanto
+  series-id: disney-encanto
   episode: Encanto
   release: 1686096000
   language: de-de
@@ -12,7 +12,7 @@ data:
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/BOX11000292_1_a-JY05HP85.png
   sample: https://cdn.tonies.de/o/audio_samples/756385212d640768fb5ada7b7263fb9366f186886b58722044874d01/horprobe_encanto.mp3
-  web: https://tonies.com/de-de/tonies/disney/encanto/
+  web: https://tonies.com/de-de/tonies/disney-encanto/encanto/
   shop-id: 4f891311-7cbc-4d7b-a5ef-e6b1f4c5d14b
   track-desc:
   - Kapitel 1
