@@ -21,4 +21,9 @@ data:
   - Moby Dick - Part 2
   - Das Dschungelbuch - Part 1
   - Das Dschungelbuch - Part 2
-  ids: []
+  ids:
+  - audio-id: 1717659108
+    hash: 8c574e34f00bd76a1a899684f624d99308d85d24
+    size: 43516244
+    tracks: 6
+    confidence: 1

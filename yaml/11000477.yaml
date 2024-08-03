@@ -25,4 +25,9 @@ data:
   - Interstitial 3
   - Good Neighbors
   - Outro
-  ids: []
+  ids:
+  - audio-id: 1697546979
+    hash: 4e6e94de9289dba089923563681ac1a9552c2e74
+    size: 36055657
+    tracks: 10
+    confidence: 1
