@@ -38,8 +38,6 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000577,Moana,disney-moana,Moana,en-gb,audio-play-songs,stock,547dc87c-1ecd-44a3-b7a1-203a236da545,https://tonies.com/en-gb/tonies/disney-moana/moana/,1,1,0,0
 10000608,Octonauts,octonauts,Captain Barnacles,en-gb,audio-play-songs,stock,84096624-658b-47ed-aa4f-c955f01bda17,https://tonies.com/en-gb/tonies/octonauts/octonauts/,1,0,0,0
 10000658,Disney,,Brave,en-gb,audio-play-songs,stock,,,1,0,0,0
-10000664,Disney,disney,Minnie - When we grow up,en-gb,audio-play-songs,stock,995bb377-fe72-4ca1-9d0a-bc296538d4d7,https://tonies.com/en-gb/tonies/disney/minnie-mouse/,1,0,0,0
-10000674,Disney,disney,Frozen 2,en-gb,audio-play-songs,stock,39bbbc2b-23d3-4c00-a453-c13c9480b861,https://tonies.com/en-gb/tonies/disney/frozen-2/,1,0,0,0
 10000676,Disney,disney,Beauty and the Beast,en-gb,audio-book-songs,stock,579360f6-840b-47f3-95ea-85bc7eda9a74,https://tonies.com/en-gb/tonies/disney/the-beauty-and-the-beast/,1,1,0,0
 10000684,Disney,disney,Toy Story 2,en-gb,audio-play-songs,stock,488322c0-650a-4d10-8d59-3640fdaef953,https://tonies.com/en-gb/tonies/disney/toy-story-2/,1,0,0,0
 10000688,Disney,disney,The Princess and the Frog,en-gb,audio-play-songs,stock,c14bced7-de8e-4192-a51b-792747a3ea80,https://tonies.com/en-gb/tonies/disney/the-princess-and-the-frog/,1,0,0,0
@@ -60,7 +58,6 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000942,DC,dc,Batman,en-gb,audio-play,stock,8a182795-0faf-40e5-a0e7-0fc50112eae7,https://tonies.com/en-gb/tonies/dc/batman/,1,0,0,0
 10000943,The Very Hungry Caterpillar,hungry-caterpillar-us,The Very Hungry Caterpillar and Friends,en-gb,audio-book,stock,37121609-e984-4871-82ec-54ade017fd67,https://tonies.com/en-gb/tonies/the-very-hungry-caterpillar/the-world-of-eric-carle-the-very-hungry-caterpillar-uk/,1,0,0,0
 10000944,We're Going on a Bear Hunt,bear-hunt-us,We're Going on a Bear Hunt,en-gb,audio-play-songs,stock,afb27a01-5e0b-45e2-944a-b77b52e4aa30,https://tonies.com/en-gb/tonies/we-re-going-on-a-bear-hunt/were-going-on-a-bear-hunt/,1,0,0,0
-10000945,Disney,disney,Disney Baby Lullabies,en-gb,audio-play-songs,stock,9c93e125-bf06-410b-913e-ca39720f07c9,https://tonies.com/en-gb/tonies/disney/disney-lullabies/,1,0,0,0
 10001035,Favourite Tales,favourite-tales,Little Red Riding Hood (relaunch),en-gb,audio-book,stock,b2592527-aea2-4ef8-b826-e630ef946737,https://tonies.com/en-gb/tonies/favourite-tales/little-red-riding-hood-relaunch/,1,0,0,1
 10001036,Favourite Classics,favourite-classics,Pinocchio (relaunch),en-gb,audio-book,stock,ef215f9f-a1e7-4cb2-a463-e27069d0a93f,https://tonies.com/en-gb/tonies/favourite-classics/pinocchio-relaunch/,1,0,0,0
 10001098,Octonauts,octonauts,Kwazii,en-gb,audio-play-songs,stock,667edc9e-ca10-456b-b486-6ce3375b2cdc,https://tonies.com/en-gb/tonies/octonauts/kwazii/,1,0,0,0
@@ -128,15 +125,10 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000237,Care Bears,care-bears-2,Cheer Bear,en-gb,audio-play-songs,stock,39a3a614-4d62-429a-9661-f6f9b2917c0b,https://tonies.com/en-gb/tonies/care-bears-2/cheer-bear/,1,0,0,0
 11000254,Paw Patrol,paw-patrol,Tracker,en-gb,audio-play,stock,12e48faa-ff7d-4e3f-9cbe-9bb269e7dbff,https://tonies.com/en-gb/tonies/paw-patrol/tracker/,1,0,0,0
 11000404,Calm,calm,Cap'n Dreambeard,en-gb,audio-play,stock,3af988dd-2f5c-4eb5-81ee-8fdcce139cd4,https://tonies.com/en-gb/tonies/calm/calm-capn-dreambeard/,1,0,0,0
-11000411,The Velveteen Rabbit,the-velveteen-rabbit-2,The Velveteen Rabbit,en-gb,audio-book-songs,stock,e76d60b6-03c9-444e-a0c1-74a84f0da831,https://tonies.com/en-gb/tonies/the-velveteen-rabbit-2/the-velveteen-rabbit/,1,0,0,0
 11000416,Peppa Pig,peppa-pig-2,Peppa Pig: My First Album,en-gb,music,stock,8e09ad55-5a33-466c-975c-27e25ffa429d,https://tonies.com/en-gb/tonies/peppa-pig/peppa-pig-my-first-album/,1,0,0,0
 11000422,Maestro,maestro,Maestro,en-gb,music,stock,8c87a5e8-2600-443c-ae7a-0e9d917a8c8f,https://tonies.com/en-gb/tonies/maestro/maestro/,1,0,0,0
 11000424,Sleepy Friends,sleepy-friends,Classical Music with Sleepy Rabbit,en-gb,music,stock,1cd2a495-cc66-4b2a-a28f-9c7b8d897225,https://tonies.com/en-gb/tonies/sleepy-friends/classical-music-with-sleepy-rabbit/,1,0,0,0
 11000458,Calm,,Calm,en-gb,,stock,d7d0d398-f289-47f3-acff-8e0cb0a47158,https://tonies.com/de-de///,1,0,0,0
-11000470,Moshi,moshi,Sleepy Paws,en-gb,audio-play-songs,stock,b890849a-9724-45cb-a2a9-0d265575ce24,https://tonies.com/en-gb/tonies/moshi/sleepypaws/,1,0,0,0
-11000471,Moshi,moshi,Fluttercup,en-gb,audio-play-songs,stock,f9ef304c-0c0c-4bd7-a99d-3c846f396e89,https://tonies.com/en-gb/tonies/moshi/fluttercup/,1,0,0,0
-11000477,Dino Ranch,dino-ranch,Dino Ranch,en-gb,audio-play,stock,a5735a43-b5ad-4fde-b074-d0ff067f7c40,https://tonies.com/en-gb/tonies/dino-ranch/dino-ranch/,1,0,0,0
-11000538,Thomas and Friends,thomas-seine-freunde,All Engines Go: Percy,en-gb,audio-play,stock,bad32e9e-837a-4eed-9c2c-a723541efe67,https://tonies.com/en-gb/tonies/thomas-and-friends/all-engines-go-percy/,1,0,0,0
 11000559,Disney,disney,Wish,en-gb,audio-play-songs,stock,e21017ba-d2cf-4f89-bdef-81dde36a4458,https://tonies.com/en-gb/tonies/disney/wish/,1,0,0,0
 11000605,Trolls,trolls,Viva,en-gb,audio-play-songs,stock,d22ca57c-4c41-4461-81b1-f8d558734784,https://tonies.com/en-gb/tonies/trolls/viva/,1,0,0,0
 11000851,Animal World,animal-world,Animal World: Record Breakers,en-gb,audio-play-educational,stock,a649cba3-6c38-45af-b291-072814495008,https://tonies.com/en-gb/clever-tonies/animal-world/record-breakers/,1,0,0,0
