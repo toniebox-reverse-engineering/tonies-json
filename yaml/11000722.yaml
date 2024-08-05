@@ -1,0 +1,20 @@
+article: '11000722'
+lock-data: false
+data:
+- series: Inside Out
+  series-id: disney-inside-out
+  episode: Inside Out
+  release: 1723507200
+  language: en-gb
+  category: audio-play
+  runtime: 40
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/50006142-Tonie_Shado-LXH_FdNu.png
+  sample: https://cdn.tonies.de/o/audio_samples/cef373e8c6f7fb8962ce62d76e5ee337130a768e1e80e275078355c1/inside_out_audio_sample.mp3
+  web: https://tonies.com/en-gb/tonies/disney-inside-out/inside-out/
+  shop-id: 76f6c454-7a9c-4469-ad7c-89a90a7213ea
+  track-desc:
+  - 'STORY: Inside Out'
+  - 'STORY: Inside Out 2'
+  ids: []

@@ -1,0 +1,42 @@
+article: '11000852'
+lock-data: false
+data:
+- series: Doggyland
+  series-id: doggyland
+  episode: Doggyland
+  release: 1723507200
+  language: en-gb
+  category: music
+  runtime: 43
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/51004359-Tonie_Shado-ZlVaDmZv.png
+  sample: https://cdn.tonies.de/o/audio_samples/89a3482b3526177256a851abc4cd2ed2d0bb7890ee33d9432ea82da1/11000852_doggyland_sample.wav
+  web: https://tonies.com/en-gb/tonies/doggyland/doggyland-doggyland-uk/
+  shop-id: c069ff11-14ed-4c32-96f0-1ce2e8dc3d3c
+  track-desc:
+  - 'SONG: Affirmation Song'
+  - 'SONG: Wheels On The Bus'
+  - 'SONG: Please And Thank You'
+  - 'SONG: Abc Song'
+  - 'SONG: Everybody''s Different'
+  - 'SONG: If You Re Happy And You Know It'
+  - 'SONG: Scrub A Dub Dub'
+  - 'SONG: 5 Little Puppies'
+  - 'SONG: Humpty Dumpty'
+  - 'SONG: Eat Your Veggies'
+  - 'SONG: I Love Nature'
+  - 'SONG: Sharing Is Caring'
+  - 'SONG: 7 Days Of The Week'
+  - 'SONG: Bah Bah Black Sheep'
+  - 'SONG: Rain Rain Go Away'
+  - 'SONG: Clean Up Song'
+  - 'SONG: Bully Song'
+  - 'SONG: We Have 5 Senses'
+  - 'SONG: Head Shoulders Knee''s And Toes'
+  - 'SONG: Pizza Time'
+  - 'SONG: I Am Me'
+  - 'SONG: Are You Sleeping?'
+  - 'SONG: Space Dreamers'
+  - 'SONG: Twinkle Twinkle'
+  ids: []

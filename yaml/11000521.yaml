@@ -1,0 +1,25 @@
+article: '11000521'
+lock-data: false
+data:
+- series: Paddington Bear
+  series-id: paddington-bear
+  episode: More About Paddington
+  release: 1723507200
+  language: en-gb
+  category: audio-book
+  runtime: 159
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/51003288-Tonie_Shado-Zb4Kd_Wm.png
+  sample: https://cdn.tonies.de/o/audio_samples/efa8884e577824dfe907155b6d42b35b16cab943ae32369d20cfe45c/11000521_more_about_paddington_sample.wav
+  web: https://tonies.com/en-gb/tonies/paddington-bear/more-about-paddington/
+  shop-id: ea4e039f-2183-4206-ab08-82419b985748
+  track-desc:
+  - 'Chapter 1: A Family Group'
+  - 'Chapter 2: A Spot of Decorating'
+  - 'Chapter 3: Paddington Turns Detective'
+  - 'Chapter 4: Paddington and the Bonfire'
+  - 'Chapter 5: Trouble at Number Thirty-Two'
+  - 'Chapter 6: Paddington and the Christmas Shopping'
+  - 'Chapter 7: Christmas'
+  ids: []

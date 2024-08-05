@@ -1,0 +1,23 @@
+article: '11000814'
+lock-data: false
+data:
+- series: Favourite Tales
+  series-id: favourite-tales
+  episode: Spooky Tales
+  release: 1723507200
+  language: en-gb
+  category: audio-play
+  runtime: 65
+  age: 6
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/10000006_PDP2%20%2811%29-8Zvi_-jn.png
+  sample: https://cdn.tonies.de/o/audio_samples/068b7be7853256e2128c62839e324becbecdba8febb714f8ee5e74cb/spooky_tales_sample.wav
+  web: https://tonies.com/en-gb/tonies/favourite-tales/spooky-tales-uk/
+  shop-id: f0e60521-bd8a-43ec-b1db-f2fde550f298
+  track-desc:
+  - INTRO
+  - STORY - Frankenstein
+  - STORY - Strange Case of Dr. Jekyll and Mr. Hyde
+  - STORY - The Legend of Sleepy Hollow
+  - OUTRO
+  ids: []
