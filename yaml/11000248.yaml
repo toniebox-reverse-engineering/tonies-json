@@ -31,8 +31,13 @@ data:
   - Der Stromausfall – 03
   - Der Stromausfall – 04
   ids:
-    - audio-id: 1707305285
-      hash: 08f89de4e808aee6f2dbb350f03700e06d08df4f
-      size: 38551282
-      tracks: 15
-      confidence: 0
+  - audio-id: 1708082859
+    hash: f9b2d3870e2291af790a686ed1fb56bbe7ebc052
+    size: 38551282
+    tracks: 15
+    confidence: 1
+  - audio-id: 1707305285
+    hash: 08f89de4e808aee6f2dbb350f03700e06d08df4f
+    size: 38551282
+    tracks: 15
+    confidence: 0

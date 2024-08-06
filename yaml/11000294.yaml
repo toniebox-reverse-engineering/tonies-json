@@ -23,4 +23,9 @@ data:
   - Der Schrein der Weisen
   - Wir fangen Krebse
   - Bullerbü-Titelsong
-  ids: []
+  ids:
+  - audio-id: 1707305422
+    hash: 900d49a712fc8eb591b2374abdcc92cb92723587
+    size: 41947487
+    tracks: 8
+    confidence: 1

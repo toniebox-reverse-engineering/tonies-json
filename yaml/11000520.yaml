@@ -23,4 +23,9 @@ data:
   - 'Kapitel 06: Wish'
   - 'Kapitel 07: Wish'
   - 'Kapitel 08: Wish'
-  ids: []
+  ids:
+  - audio-id: 1721192603
+    hash: 3b51f14cfb56126fa2809bb1fdb65ef5dc407c3f
+    size: 57632253
+    tracks: 8
+    confidence: 1

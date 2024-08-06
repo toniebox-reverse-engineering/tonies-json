@@ -21,4 +21,9 @@ data:
   - 'Kapitel 04: Susi und Strolch'
   - 'Kapitel 05: Susi und Strolch'
   - 'Kapitel 06: Susi und Strolch'
-  ids: []
+  ids:
+  - audio-id: 1721192604
+    hash: 46e4f74fd5345f4fbf0dce0b15e1b4893abb1742
+    size: 39247697
+    tracks: 6
+    confidence: 1

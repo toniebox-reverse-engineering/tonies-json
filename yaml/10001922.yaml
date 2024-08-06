@@ -25,4 +25,9 @@ data:
   - Der schwitzende Schneemann
   - Der Cowboy auf dem Motorboot
   - In meiner Fantasie
-  ids: []
+  ids:
+  - audio-id: 1717748821
+    hash: 5a811ef27b00cb41ca16131f686c2f1d441cb81c
+    size: 29883878
+    tracks: 10
+    confidence: 1
