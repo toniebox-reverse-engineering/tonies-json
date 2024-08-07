@@ -1,0 +1,39 @@
+article: '11000756'
+lock-data: false
+data:
+- series: herrH
+  series-id: herrh
+  episode: Emma, die Ente – Das Beste von herrH
+  release: 1722988800
+  language: de-de
+  category: music
+  runtime: 62
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11000756_1_a-eElgZif6.png
+  sample: https://cdn.tonies.de/o/audio_samples/eb6860518242f892db152dab02288ac3d3548b4576c6046147e7517c/hoeprobe_11000756_herrh_emma_die_ente.mp3
+  web: https://tonies.com/de-de/tonies/herrh/emma-die-ente-das-beste-von-herrh/
+  shop-id: 2b8b3222-95ad-4c42-9469-001926cc1514
+  track-desc:
+  - herrH ist da!
+  - Raffi, die Giraffe
+  - Emma, die Ente, die ewig verpennte
+  - Dinosaurier
+  - Ich bin ein Pinguin
+  - Elefantenfunk
+  - Kara, das Känguru
+  - Kekse
+  - Mit dem Fuß
+  - Stopp! Tanzen!
+  - Wackelkontakt
+  - Komm, wir fliegen
+  - Zwergenaufstand
+  - Feuerwerk
+  - Pizza Margherita
+  - Pommesgabel
+  - Baller mit meinem Rad
+  - Aufräummaschine
+  - Ich muss los
+  - Putz it!
+  - Träum was Schönes
+  ids: []

@@ -1,0 +1,43 @@
+article: '11000739'
+lock-data: false
+data:
+- series: Kung Fu Panda
+  series-id: kung-fu-panda
+  episode: Kung Fu Panda
+  release: 1722988800
+  language: de-de
+  category: audio-play
+  runtime: 73
+  age: 6
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11000739_1_a-ga76js3X.png
+  sample: https://cdn.tonies.de/o/audio_samples/332e8be10d8743c7b6a86be96c7b5ee7dbcbf229727072dd2b467a1b/hoerprobe_11000739_kung_fu_panda_kung_fu_panda.mp3
+  web: https://tonies.com/de-de/tonies/kung-fu-panda/kung-fu-panda/
+  shop-id: ad0985a4-9351-4345-a978-877693353487
+  track-desc:
+  - Kung Fu Panda - Intro
+  - Kung Fu Panda –Teil 1
+  - Kung Fu Panda – Teil 2
+  - Kung Fu Panda – Teil 3
+  - Kung Fu Panda – Teil 4
+  - Kung Fu Panda – Teil 5
+  - Kung Fu Panda – Teil 6
+  - Kung Fu Panda – Teil 7
+  - Kung Fu Panda – Teil 8
+  - Kung Fu Panda – Teil 9
+  - Kung Fu Panda – Teil 10
+  - Kung Fu Panda – Teil 11
+  - Kung Fu Panda – Teil 12
+  - Kung Fu Panda – 13
+  - Kung Fu Panda – Teil 14
+  - Kung Fu Panda – Teil 15
+  - Kung Fu Panda – Teil 16
+  - Kung Fu Panda – Teil 17
+  - Kung Fu Panda – Teil 18
+  - Kung Fu Panda – Teil 19
+  - Kung Fu Panda – Teil 20
+  - Kung Fu Panda – Teil 21
+  - Kung Fu Panda – Teil 22
+  - Kung Fu Panda – Teil 23
+  - Kung Fu Panda – Outro
+  ids: []

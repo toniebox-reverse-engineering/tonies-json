@@ -1,0 +1,26 @@
+article: '11000861'
+lock-data: false
+data:
+- series: Rebel Girls
+  series-id: rebel-girls
+  episode: Rebel Girls
+  release: 1726790400
+  language: en-gb
+  category: audio-play
+  runtime: 123
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11000861-RebelGirls--IsJri_HC.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/7fc92eb5bac47a40e2af9ada3a5b83b16755f2c53da2ef586451c85d/rebel_girls_creators_series_audio_sample.mp3
+  web: https://tonies.com/en-gb/clever-tonies/rebel-girls/rebel-girls/
+  shop-id: 111a9553-3b9a-4514-856d-ed9f1f409eb2
+  track-desc:
+  - 'The Musician - Maria Callas: Hitting the High Notes'
+  - 'The Musician - Millo Castro Zaldarriaga: Drum While You Draw Activity'
+  - 'The Artist - Edmonia Lewis: Creating New Possibilities'
+  - 'The Artist - Frida Kahlo: Draw Your Feelings Activity'
+  - 'The Performer - Carmen Miranda: Queen of the Screen'
+  - 'The Performer - Zubeida Agha: Color & Motion Activity'
+  - 'The Writer - Mary Shelley: The Myth behind the Monster'
+  - 'The Writer - Hypatia: Draw the Stars Activity'
+  ids: []

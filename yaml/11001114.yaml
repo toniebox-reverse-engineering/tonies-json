@@ -1,0 +1,19 @@
+article: '11001114'
+lock-data: false
+data:
+- series: Blue Zoo
+  series-id: blue-zoo
+  episode: Alphablocks
+  release: 1726790400
+  language: en-gb
+  category: audio-play-educational
+  runtime: 0
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11001114-Alphablocks-f_6_5SBT.jpg
+  sample: null
+  web: https://tonies.com/en-gb/clever-tonies/blue-zoo/alphablocks/
+  shop-id: 6e047293-b044-4ec9-bcb9-d9025c99b07d
+  track-desc:
+  - Coming soon
+  ids: []
