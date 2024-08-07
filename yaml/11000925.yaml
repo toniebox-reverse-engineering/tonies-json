@@ -1,8 +1,8 @@
 article: '11000925'
 lock-data: false
 data:
-- series: Disney
-  series-id: disney
+- series: Fantasia
+  series-id: disney-fantasia
   episode: Fantasia
   release: 1720569600
   language: de-de
@@ -12,7 +12,7 @@ data:
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11000925_1_a-reZBi8Ir.png
   sample: https://cdn.tonies.de/o/audio_samples/854ea1bcce9d7dd09369983940f2e4c57e0764457351b4e147e9bcb1/hoerprobe_11000925_disney_fantasia.mp3
-  web: https://tonies.com/de-de/tonies/disney/fantasia/
+  web: https://tonies.com/de-de/tonies/disney-fantasia/fantasia/
   shop-id: a61cabd9-3024-47ce-85f2-ccbf8f3b5f17
   track-desc:
   - Toccata und Fuge in d-moll, BWV 565 (Johann Sebastian Bach)
@@ -21,6 +21,6 @@ data:
   - Le Sacre du Printemps (Igor Stravinski)
   - Sinfonien F-Dur, Op. 68 „Pastorale“ (Ludwig van Beethoven)
   - Der Tanz der Stunden aus der Oper La Gioconda (Amilcare Ponchielli)
-  - 'Eine Nacht auf dem kahlen Berge (Modest Mussorgski, Arr: Nikolai Rimski-Korsakow)'
-  - Ave Maria (Franz Schubert)
+  - 'Eine Nacht auf dem kahlen Berge (Modest Mussorgski, Arr: Nikolai Rimski-Korsakow)
+    und Ave Maria (Franz Schubert)'
   ids: []

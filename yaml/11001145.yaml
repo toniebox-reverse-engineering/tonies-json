@@ -1,8 +1,8 @@
 article: '11001145'
 lock-data: false
 data:
-- series: PAW Patrol's Jungle Pups
-  series-id: paw-patrols-jungle-pups
+- series: PAW Patrol
+  series-id: paw-patrol
   episode: 'Jungle Pups: Chase'
   release: 1720569600
   language: de-de
@@ -12,11 +12,27 @@ data:
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11001145_1_a-gUDsLfXV.png
   sample: https://cdn.tonies.de/o/audio_samples/e142e2e6cd7f088e31ec40172ece7a546afb1782670e7e256f35316c/hoerprobe_11001145_paw_patrol_jungle_pups_chase.wav
-  web: https://tonies.com/de-de/tonies/paw-patrols-jungle-pups/jungle-pups-chase/
+  web: https://tonies.com/de-de/tonies/paw-patrol/jungle-pups-chase/
   shop-id: 39577b9f-886a-4897-9078-e1bfbd04c0fa
   track-desc:
-  - Der versteckte Dschungel
-  - Aufregende Seilrutsche
-  - Verirrt im Dschungel
-  - ''
+  - Der versteckte Dschungel – Teil 1
+  - Der versteckte Dschungel – Teil 2
+  - Der versteckte Dschungel – Teil 3
+  - Der versteckte Dschungel – Teil 4
+  - Der versteckte Dschungel – Teil 5
+  - Der versteckte Dschungel – Teil 6
+  - Der versteckte Dschungel – Teil 7
+  - Der versteckte Dschungel – Teil 8
+  - Der versteckte Dschungel – Teil 9
+  - Der versteckte Dschungel – Teil 10
+  - Der versteckte Dschungel – Teil 11
+  - Aufregende Seilrutsche – Teil 1
+  - Aufregende Seilrutsche – Teil 2
+  - Aufregende Seilrutsche – Teil 3
+  - Aufregende Seilrutsche – Teil 4
+  - Aufregende Seilrutsche – Teil 5
+  - Verirrt im Dschungel – Teil 1
+  - Verirrt im Dschungel – Teil 2
+  - Verirrt im Dschungel – Teil 3
+  - Verirrt im Dschungel – Teil 4
   ids: []
