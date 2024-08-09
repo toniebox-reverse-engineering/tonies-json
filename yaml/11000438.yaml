@@ -31,4 +31,9 @@ data:
   - Ein T-Rex hat Zahnweh – Teil 2
   - Ein T-Rex hat Zahnweh – Teil 3
   - Ein T-Rex hat Zahnweh – Teil 4
-  ids: []
+  ids:
+    audio-id: 1717677864
+    hash: b7f49ce53b5ea5d9b24a6437f684eee5e1de3f10
+    size: 37219472
+    tracks: 16
+    confidence: 0
