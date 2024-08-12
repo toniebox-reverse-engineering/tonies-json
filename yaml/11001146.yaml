@@ -34,4 +34,9 @@ data:
   - Bienenalarm – Teil 2
   - Bienenalarm – Teil 3
   - Bienenalarm – Teil 4
-  ids: []
+  ids:
+  - audio-id: 1722246318
+    hash: 0aa93057d0f40b539ccc5676ccc624046d398999
+    size: 44004653
+    tracks: 19
+    confidence: 0
