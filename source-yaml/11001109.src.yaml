@@ -1,18 +1,18 @@
 article: '11001109'
 lock-data: false
 data:
-- series: tonies-shopapi-en-gb,
-  series-id: tonies-shopapi-en-gb,
-  episode: tonies-shopapi-en-gb,
-  release: tonies-shopapi-en-gb,
-  language: tonies-shopapi-en-gb,
-  category: tonies-shopapi-en-gb,
+- series: tonies-json-en-gb,fix-whitespace-title,
+  series-id: tonies-json-en-gb,
+  episode: ''
+  release: ''
+  language: ''
+  category: ''
   runtime: ''
-  age: tonies-shopapi-en-gb,
-  origin: tonies-shopapi-en-gb,
-  image: tonies-shopapi-en-gb,
-  sample: tonies-shopapi-en-gb,
-  web: tonies-shopapi-en-gb,
-  shop-id: tonies-shopapi-en-gb,
-  track-desc: tonies-shopapi-en-gb,
+  age: ''
+  origin: ''
+  image: tonies-json-en-gb,
+  sample: ''
+  web: tonies-json-en-gb,
+  shop-id: ''
+  track-desc: tonies-json-en-gb,
   ids: []
