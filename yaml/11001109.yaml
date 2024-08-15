@@ -1,8 +1,8 @@
 article: '11001109'
 lock-data: false
 data:
-- series: tonies® Original
-  series-id: tonies-originals
+- series: Joke of the Day
+  series-id: joke-of-the-day
   episode: Joke of the Day
   release: 1723075200
   language: en-gb
@@ -10,10 +10,18 @@ data:
   runtime: 0
   age: 4
   origin: stock
-  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11001109_Joke%20of%20the-yweHvS4E.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11001109-Joke%20of%20the-67VVr-dW.png
   sample: https://cdn.tonies.de/o/audio_samples/0aa4ed2bda9f29d933dc35da67819bff3c31e03519a88c928aa1b2bd/11001109_joke_of_the_day_sample.wav
-  web: https://tonies.com/en-gb/clever-tonies/tonies-originals/joke-of-the-day/
+  web: https://tonies.com/en-gb/clever-tonies/joke-of-the-day/joke-of-the-day/
   shop-id: c31bee4a-d638-47da-b7c5-f27bd51ebb1d
   track-desc:
+  - Thursday 15th August
+  - Wednesday 14th August
+  - Tuesday 13th August
+  - Monday 12th August
+  - Sunday 11th August
+  - Saturday 10th August
+  - Friday 9th August
+  - Thursday 8th August
   - Joke Of The Day Jingle
   ids: []

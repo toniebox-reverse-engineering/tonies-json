@@ -2,7 +2,7 @@ article: '11000863'
 lock-data: false
 data:
 - series: Cool Jobs
-  series-id: cool-jobs
+  series-id: coole-jobs
   episode: Cool Jobs
   release: 1723075200
   language: en-gb
@@ -10,7 +10,7 @@ data:
   runtime: 0
   age: 6
   origin: stock
-  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11000863_Cool%20Jobs_L-44VI21Pq.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11000863_Cool%20Jobs_L-DRy0RCrQ.png
   sample: https://cdn.tonies.de/o/audio_samples/6c3b6d954df6715ea58cc6cda03a2ce07949c7482645041fa9d35e51/cool_jobs.wav
   web: https://tonies.com/en-gb/clever-tonies/cool-jobs/cool-jobs/
   shop-id: e7cabcaf-12a3-436b-96f2-dfeb05d892c4

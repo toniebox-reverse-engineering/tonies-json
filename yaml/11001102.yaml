@@ -3,14 +3,14 @@ lock-data: false
 data:
 - series: Natural History Museum
   series-id: discovery-crew
-  episode: Discovery Crew
+  episode: 'Natural History Museum: Discovery Crew'
   release: 1723075200
   language: en-gb
   category: audio-play
   runtime: 0
   age: 5
   origin: stock
-  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11001102_NHM_Landsca-rJbA2Ynp.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11001102_NHM_Landsca-cztHd800.png
   sample: https://cdn.tonies.de/o/audio_samples/a01318d634d77b1baaff686604b4718be4b38b6fe1fb90cea4d99245/nhm_sample.wav
   web: https://tonies.com/en-gb/clever-tonies/discovery-crew/natural-history-museum-discovery-crew/
   shop-id: 6a3cc700-9b64-470c-b578-5d0ec4f5d20b
