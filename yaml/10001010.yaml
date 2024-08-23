@@ -1,8 +1,8 @@
 article: '10001010'
 lock-data: false
 data:
-- series: Disney
-  series-id: disney
+- series: Aladdin
+  series-id: disney-aladdin
   episode: Aladdin
   release: 0
   language: fr-fr
@@ -12,10 +12,15 @@ data:
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001010-50003307-b-6oSKx4x4.png
   sample: https://cdn.tonies.de/o/audio_samples/887233f8798f8ba7088b5f0f53203e2ed3abee9d1eac5ccaff226485/sample_tonie_disney_aladdin.mp3
-  web: https://tonies.com/fr-fr/tonies/disney/aladdin/
+  web: https://tonies.com/fr-fr/tonies/disney-aladdin/aladdin/
   shop-id: 9473a217-b174-49af-abca-df2ffb3f10fe
   track-desc:
-  - 'L''Histoire & Les Chansons : Aladdin (env. 57 min)'
+  - Nuits d'Arabie
+  - Je vole
+  - Je suis ton meilleur ami
+  - Prince Ali
+  - Ce rêve bleu
+  - 'L''Histoire : Aladdin (env. 47 min)'
   ids:
   - audio-id: 1622046689
     hash: 7f55150f9bd43df8f810f7b5c6b1bef0fedd1e3f

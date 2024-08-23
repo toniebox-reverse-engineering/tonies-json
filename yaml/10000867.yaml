@@ -1,8 +1,8 @@
 article: '10000867'
 lock-data: false
 data:
-- series: Disney
-  series-id: disney
+- series: Toy Story
+  series-id: toy-story-2
   episode: Toy Story
   release: 0
   language: fr-fr
@@ -12,11 +12,11 @@ data:
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000867-50002803-b-DgFhMN-g.png
   sample: https://cdn.tonies.de/o/audio_samples/d30824cf380f5d0bd3bd0f40815486dc5e5da1ba7fdd7dba70c4d226/sample_tonie_disney_woody.mp3
-  web: https://tonies.com/fr-fr/tonies/disney/toy-story/
+  web: https://tonies.com/fr-fr/tonies/disney-toy-story/toy-story/
   shop-id: ba229e52-2211-4057-a853-7ec1a3038246
   track-desc:
-  - 🎵 Je suis ton ami
-  - 🎵 Étrange bazar
-  - 🎵 Jamais plus je ne volerai
-  - '📖 L''Histoire : Toy Story (env. 17 min)'
+  - Je suis ton ami
+  - Étrange bazar
+  - Jamais plus je ne volerai
+  - 'L''Histoire : Toy Story (env. 17 min)'
   ids: []
