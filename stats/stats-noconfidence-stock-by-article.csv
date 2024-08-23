@@ -68,12 +68,12 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000840,The Elf on the Shelf,the-elf-on-the-shelf,The Elf on the Shelf,en-gb,audio-book-songs,stock,c4d1b66d-4955-4f25-b24d-30bf7908a6f9,https://tonies.com/en-gb/tonies/the-elf-on-the-shelf/the-elf-on-the-shelf/,1,1,0,0
 10000858,La Reine Des Neiges,disney-frozen,La Reine Des Neiges,fr-fr,audio-play-songs,stock,8fcd15ed-3848-41e0-bc08-e6ed53290266,https://tonies.com/fr-fr/tonies/disney-la-reine-des-neiges/la-reine-des-neiges/,1,0,0,0
 10000859,Elmer,elmer,Elmer Et Ses Amis,fr-fr,audio-play,stock,258309b8-9662-4b9f-a7ff-e22849c6af73,https://tonies.com/fr-fr/tonies/elmer/elmer-et-ses-amis/,1,0,0,0
-10000860,Disney,disney,Le Monde de Nemo,fr-fr,audio-play,stock,393898d2-0aad-4838-b188-c1f180748fe7,https://tonies.com/fr-fr/tonies/disney/le-monde-de-nemo/,1,0,0,0
+10000860,Le Monde De Nemo,disney-finding-nemo,Le Monde de Nemo,fr-fr,audio-play,stock,393898d2-0aad-4838-b188-c1f180748fe7,https://tonies.com/fr-fr/tonies/disney-le-monde-de-nemo/le-monde-de-nemo/,1,0,0,0
 10000862,Cars,disney-cars,Cars,fr-fr,audio-play,stock,51f37e39-b99e-49f8-b5e9-c6b8d56f27e9,https://tonies.com/fr-fr/tonies/disney-cars/cars/,1,1,0,0
 10000864,La Petite Sirène,disney-the-little-mermaid,"Ariel, La Petite Sirène",fr-fr,audio-play-songs,stock,95249de2-f2fd-4c69-a805-339b569860ad,https://tonies.com/fr-fr/tonies/disney-la-petite-sirene/ariel-la-petite-sirene/,1,0,0,0
 10000865,Le Livre De La Jungle,disney-the-jungle-book,Le Livre De La Jungle,fr-fr,audio-play-songs,stock,5f3b8601-90e7-4724-afef-3994c1db4665,https://tonies.com/fr-fr/tonies/disney-le-livre-de-la-jungle/le-livre-de-la-jungle/,1,1,0,0
 10000866,Le Roi Lion,disney-the-lion-king,Le Roi Lion,fr-fr,audio-play-songs,stock,607a5048-89ce-43a2-96dd-cdedee0b2e23,https://tonies.com/fr-fr/tonies/disney-le-roi-lion/le-roi-lion/,1,1,0,0
-10000867,Disney,disney,Toy Story,fr-fr,audio-play-songs,stock,ba229e52-2211-4057-a853-7ec1a3038246,https://tonies.com/fr-fr/tonies/disney/toy-story/,1,0,0,0
+10000867,Toy Story,toy-story-2,Toy Story,fr-fr,audio-play-songs,stock,ba229e52-2211-4057-a853-7ec1a3038246,https://tonies.com/fr-fr/tonies/disney-toy-story/toy-story/,1,0,0,0
 10000889,Tee and Mo,tee-and-mo,Tee and Mo,en-gb,audio-play,stock,de0cb8a4-8465-438c-8520-9d7df77d9122,https://tonies.com/en-gb/tonies/tee-and-mo/tee-and-mo/,1,0,0,0
 10000907,Der kleine Nick,nick-2,Der kleine Nick ist der Beste,de-de,audio-book,stock,640b57a8-8ca2-44cd-bb0d-d6823d43e8c7,https://tonies.com/de-de/tonies/der-kleine-nick/der-kleine-nick-ist-der-beste/,1,1,0,0
 10000929,My Little Pony,my-little-pony,My Little Pony - Das Original-Hörspiel zum Film,de-de,audio-play,stock,c3c466fb-2379-4167-8dd0-6d2815abe5e7,https://tonies.com/de-de/tonies/my-little-pony/my-little-pony-das-original-hrspiel-zum-film/,1,1,0,0
@@ -83,16 +83,16 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000943,The Very Hungry Caterpillar,hungry-caterpillar-us,The Very Hungry Caterpillar and Friends,en-gb,audio-book,stock,37121609-e984-4871-82ec-54ade017fd67,https://tonies.com/en-gb/tonies/the-very-hungry-caterpillar/the-world-of-eric-carle-the-very-hungry-caterpillar-uk/,1,0,0,0
 10000944,We're Going on a Bear Hunt,bear-hunt-us,We're Going on a Bear Hunt,en-gb,audio-play-songs,stock,afb27a01-5e0b-45e2-944a-b77b52e4aa30,https://tonies.com/en-gb/tonies/we-re-going-on-a-bear-hunt/were-going-on-a-bear-hunt/,1,0,0,0
 10000997,Peppa Pig,peppa-pig,Die schönsten Geschichten von Schorsch,de-de,audio-play,stock,5145595b-fe7f-4fc7-b465-931285fd0c67,https://tonies.com/de-de/tonies/peppa-pig/die-schoensten-geschichten-von-schorsch/,1,1,0,0
-10001010,Disney,disney,Aladdin,fr-fr,audio-play-songs,stock,9473a217-b174-49af-abca-df2ffb3f10fe,https://tonies.com/fr-fr/tonies/disney/aladdin/,1,1,0,0
+10001010,Aladdin,disney-aladdin,Aladdin,fr-fr,audio-play-songs,stock,9473a217-b174-49af-abca-df2ffb3f10fe,https://tonies.com/fr-fr/tonies/disney-aladdin/aladdin/,1,1,0,0
 10001011,Disney,disney,Bambi,fr-fr,audio-play-songs,stock,e95b9fe7-c56b-448c-9e9e-9461802fc696,https://tonies.com/fr-fr/tonies/disney/bambi/,1,0,0,0
 10001012,Disney,disney,La Princesse Et La Grenouille,fr-fr,audio-play-songs,stock,ce8463ff-9a07-427f-9076-817b96e99eaf,https://tonies.com/fr-fr/tonies/disney/la-princesse-et-la-grenouille/,1,0,0,0
-10001015,Disney,disney,Raiponce,fr-fr,audio-play-songs,stock,062ae954-5c52-4004-80ae-8a7ba250dbb7,https://tonies.com/fr-fr/tonies/disney/raiponce/,1,0,0,0
+10001015,Raiponce,disney-tangled,Raiponce,fr-fr,audio-play-songs,stock,062ae954-5c52-4004-80ae-8a7ba250dbb7,https://tonies.com/fr-fr/tonies/disney-raiponce/raiponce/,1,0,0,0
 10001016,C'Est Toujours Pas Sorcier,c-est-toujours-pas-sorcier,Sur Les Traces Des Dinosaures,fr-fr,audio-play-educational,stock,a5433bd6-3436-4dbb-aa0c-3e36b239f155,https://tonies.com/fr-fr/tonies/c-est-toujours-pas-sorcier/sur-les-traces-des-dinosaures/,1,0,0,0
 10001035,Favourite Tales,favourite-tales,Little Red Riding Hood (relaunch),en-gb,audio-book,stock,b2592527-aea2-4ef8-b826-e630ef946737,https://tonies.com/en-gb/tonies/favourite-tales/little-red-riding-hood-relaunch/,1,0,0,1
 10001036,Favourite Classics,favourite-classics,Pinocchio (relaunch),en-gb,audio-book,stock,ef215f9f-a1e7-4cb2-a463-e27069d0a93f,https://tonies.com/en-gb/tonies/favourite-classics/pinocchio-relaunch/,1,0,0,0
 10001082,The Pout-Pout Fish,,,en-us,Tonie,stock,8210621038743,,1,0,0,1
 10001098,Octonauts,octonauts,Kwazii,en-gb,audio-play-songs,stock,667edc9e-ca10-456b-b486-6ce3375b2cdc,https://tonies.com/en-gb/tonies/octonauts/kwazii/,1,0,0,0
-10001104,Disney,disney,Cendrillon,fr-fr,audio-play-songs,stock,843fc10b-e16e-4ee2-a8e1-1a187a2dd895,https://tonies.com/fr-fr/tonies/disney/cendrillon/,1,0,0,0
+10001104,Cendrillon,disney-cinderella,Cendrillon,fr-fr,audio-play-songs,stock,843fc10b-e16e-4ee2-a8e1-1a187a2dd895,https://tonies.com/fr-fr/tonies/disney-cendrillon/cendrillon/,1,0,0,0
 10001106,Lieblings-Kinderlieder,lieblings-kinderlieder,Kindergartenlieder,de-de,music,stock,96c17f7f-7521-4af3-b22f-ab9faa080e68,https://tonies.com/de-de/tonies/lieblings-kinderlieder/kindergartenlieder-neuauflage-2022/,1,1,0,0
 10001212,Bitte nicht öffnen,bitte-nicht-oeffnen,Bissig!,de-de,audio-book,stock,167c8da9-8cb1-44b2-a66b-8bde0380950c,https://tonies.com/de-de/tonies/bitte-nicht-oeffnen/bissig/,1,1,0,0
 10001227,Roald Dahl,,Revolting Rhymes,en-us,Tonie,stock,8041066135703,,1,0,0,0
@@ -105,14 +105,14 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001260,La Pat' Patrouille,paw-patrol,Marcus,fr-fr,audio-play,stock,6f152f87-3936-4c00-99d3-24160147dc0d,https://tonies.com/fr-fr/tonies/la-pat-patrouille/marcus/,1,0,0,0
 10001261,C'Est Toujours Pas Sorcier,c-est-toujours-pas-sorcier,Plongée Dans Les Océans,fr-fr,audio-play-educational,stock,eec0c5c9-e292-4d0a-b48a-eec64d447cc8,https://tonies.com/fr-fr/tonies/c-est-toujours-pas-sorcier/plongee-dans-les-oceans/,1,0,0,0
 10001262,C'Est Toujours Pas Sorcier,c-est-toujours-pas-sorcier,Les Secrets De L'Espace,fr-fr,audio-play-educational,stock,f0f0f01e-7fe2-4b10-beab-f6fd0f645a29,https://tonies.com/fr-fr/tonies/c-est-toujours-pas-sorcier/les-secrets-de-l-espace/,1,0,0,0
-10001263,Disney,disney,La Belle Et La Bête,fr-fr,audio-play-songs,stock,086010d5-5f16-446f-b40b-11f180287aaa,https://tonies.com/fr-fr/tonies/disney/la-belle-et-la-bete/,1,0,0,0
+10001263,La Belle Et La Bête,disney-beauty-and-the-beast,La Belle Et La Bête,fr-fr,audio-play-songs,stock,086010d5-5f16-446f-b40b-11f180287aaa,https://tonies.com/fr-fr/tonies/disney-la-belle-et-la-bete/la-belle-et-la-bete/,1,0,0,0
 10001266,La Pat' Patrouille,paw-patrol,Stella,fr-fr,audio-play,stock,464a08bb-7421-4ae0-a113-42f57c19142d,https://tonies.com/fr-fr/tonies/la-pat-patrouille/stella/,1,0,0,0
 10001268,Peppa Pig,peppa-pig,George,fr-fr,audio-play,stock,c635652d-7763-4d14-a3fc-737c6f73e066,https://tonies.com/fr-fr/tonies/peppa-pig/george/,1,0,0,0
 10001270,Le Petit Nicolas,le-petit-nicolas,Le Petit Nicolas,fr-fr,audio-play,stock,07a3ebb6-155b-4817-91fe-b6a523350413,https://tonies.com/fr-fr/tonies/le-petit-nicolas/le-petit-nicolas/,1,0,0,0
 10001281,Petit Ours Brun,petit-ours-brun-2,Petit Ours Brun,fr-fr,audio-book,stock,904745eb-ce4f-4682-a39a-f2c3588fb2b4,https://tonies.com/fr-fr/tonies/petit-ours-brun/petit-ours-brun/,1,0,0,0
-10001282,Disney,disney,La Reine Des Neiges 2,fr-fr,audio-play-songs,stock,aaa5a870-ab5e-4390-bc87-2406c3513c29,https://tonies.com/fr-fr/tonies/disney/la-reine-des-neiges-2/,1,0,0,0
+10001282,La Reine Des Neiges II,disney-frozen-2,La Reine Des Neiges 2,fr-fr,audio-play-songs,stock,aaa5a870-ab5e-4390-bc87-2406c3513c29,https://tonies.com/fr-fr/tonies/disney-la-reine-des-neiges-ii/la-reine-des-neiges-2/,1,0,0,0
 10001283,Molang,molang,Molang,fr-fr,audio-play,stock,3a221db1-2e9d-47aa-b27d-3dfc5d974ba9,https://tonies.com/fr-fr/tonies/molang/molang/,1,0,0,1
-10001289,L'École Des Loisirs,l-ecole-des-loisirs,Florilège D'Émotions,fr-fr,audio-book,stock,0786119f-2dae-48b5-b2f7-6fb1ab10e6ea,https://tonies.com/fr-fr/tonies/l-ecole-des-loisirs/florilege-d-emotions/,1,0,0,0
+10001289,L'École Des Loisirs,lecole-des-loisirs,Florilège D'Émotions,fr-fr,audio-book,stock,0786119f-2dae-48b5-b2f7-6fb1ab10e6ea,https://tonies.com/fr-fr/tonies/l-ecole-des-loisirs/florilege-d-emotions/,1,0,0,0
 10001309,Disney,disney,Olaf's Frozen Adventure,en-gb,audio-play-songs,stock,399905e2-2513-45ff-959e-e0a955021b8e,https://tonies.com/en-gb/tonies/disney/olafs-frozen-adventure/,1,0,0,0
 10001310,National Geographic Kids,national-geographic-kids,Horse,en-gb,audio-play,stock,43b50845-bb90-4599-9b18-12592e17f313,https://tonies.com/en-gb/tonies/national-geographic-kids/horse-uk/,1,0,0,1
 10001311,Sleepy Friends,sleepy-friends,Lullaby Melodies with Sleepy Sheep,en-gb,audio-book,stock,0b7755cc-cd79-4a82-aabc-5aa90927b773,https://tonies.com/en-gb/tonies/sleepy-friends/lullaby-melodies-with-sleepy-sheep/,1,0,0,0
@@ -137,8 +137,8 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001406,Mouk,mouk,Découvre Le Monde Avec Mouk,fr-fr,audio-play,stock,cb8635f6-d118-4ff8-923c-efa46197a79e,https://tonies.com/fr-fr/tonies/mouk/decouvre-le-monde-avec-mouk/,1,0,0,0
 10001408,Contes Du Monde,contes-du-monde,Afrique De L'Ouest,fr-fr,audio-book,stock,e8abdc4f-8c26-4912-989d-d0f4fd761dbb,https://tonies.com/fr-fr/tonies/contes-du-monde/afrique-de-l-ouest/,1,0,0,0
 10001471,Lieblings-Klassiker,mes-classiques-preferes,Pinocchio (Neuauflage 2024),de-de,audio-book,stock,e8049cc1-19c0-4dc6-a1fe-e5c8a41f4eca,https://tonies.com/de-de/tonies/lieblings-klassiker/pinocchio-neuauflage-2024/,1,0,0,0
-10001475,Disney,disney,Winnie L'Ourson,fr-fr,audio-play-songs,stock,799ac6f2-89f7-4b5b-b60a-014ae758f218,https://tonies.com/fr-fr/tonies/disney/winnie-l-ourson/,1,0,0,0
-10001479,Masha Et Michka,masha-et-michka,Masha,fr-fr,audio-play-songs,stock,d1b4b1df-462f-480b-8b51-0e51dd40d037,https://tonies.com/fr-fr/tonies/masha-et-michka/masha/,1,0,0,0
+10001475,Winnie L'Ourson,disney-winnie-the-pooh,Winnie L'Ourson,fr-fr,audio-play-songs,stock,799ac6f2-89f7-4b5b-b60a-014ae758f218,https://tonies.com/fr-fr/tonies/disney-winnie-lourson/winnie-l-ourson/,1,0,0,0
+10001479,Masha Et Michka,mascha-und-der-bar,Masha,fr-fr,audio-play-songs,stock,d1b4b1df-462f-480b-8b51-0e51dd40d037,https://tonies.com/fr-fr/tonies/masha-et-michka/masha/,1,0,0,0
 10001482,Club Écolo,club-ecolo,Sauvetages en Terre !,fr-fr,audio-play,stock,7bf5eeb6-1e86-4986-ab39-f7e652f30b5d,https://tonies.com/fr-fr/tonies/club-ecolo/sauvetages-en-terre/,1,0,0,0
 10001484,Lieblings-Märchen,lieblings-marchen,Rotkäppchen (Neuauflage 2023),de-de,audio-book,stock,231a87e1-6a25-4e2f-ba6e-1a886c7c577d,https://tonies.com/de-de/tonies/lieblings-maerchen/rotkppchen-neuauflage-2023/,1,1,0,0
 10001485,Disney,disney,Buh machst du! & 3 weitere Geschichten,de-de,audio-play,stock,85a858dd-5d83-473b-bf02-bbceabc2dfa6,https://tonies.com/de-de/tonies/disney/buh-machst-du-3-weitere-geschichten/,1,1,0,0
