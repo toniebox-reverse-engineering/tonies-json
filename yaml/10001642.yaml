@@ -1,8 +1,8 @@
 article: '10001642'
 lock-data: false
 data:
-- series: Disney
-  series-id: disney
+- series: Toy Story
+  series-id: toy-story-2
   episode: Toy Story 2
   release: 1655942400
   language: fr-fr
@@ -12,7 +12,7 @@ data:
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001642-50005171-b-3xECJKIm.png
   sample: https://cdn.tonies.de/o/audio_samples/ef7c3e3c6689cc3cfe2ef5f431df24e7f452e6591088ea9bcdc2aeba/sample_tonie_buzz_l_eclair.mp3
-  web: https://tonies.com/fr-fr/tonies/disney/toy-story-2/
+  web: https://tonies.com/fr-fr/tonies/disney-toy-story/toy-story-2/
   shop-id: f89f1870-c0d6-4a8d-873b-7eb3f68d55f9
   track-desc:
   - 'Histoire : Toys Story 2'
