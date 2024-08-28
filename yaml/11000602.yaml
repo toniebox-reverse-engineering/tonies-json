@@ -2,7 +2,7 @@ article: '11000602'
 lock-data: false
 data:
 - series: Lichterkinder
-  series-id: lichterkinder
+  series-id: lichterkinder-2
   episode: Die besten Weihnachts- und Winterlieder
   release: 1724803200
   language: de-de
@@ -15,12 +15,12 @@ data:
   web: https://tonies.com/de-de/tonies/lichterkinder/die-besten-weihnachts-und-winterlieder/
   shop-id: 87f381c3-b238-4e76-85cd-022ba6d80f53
   track-desc:
-  - Lichterkinder - singen zur Weihnacht
+  - Lichterkinder (singen zur Weihnacht)
   - Adventskalender
   - Die Nikolausmaus
   - Tanzen um den Weihnachtsbaum
   - Dann ist Weihnachtszeit
-  - Unsere Weihnachtsküche
+  - Die Weihnachtsküche
   - Wunschzettel
   - Danke, Mama
   - Guck mal, die Geschenke da
