@@ -1,10 +1,10 @@
 article: '11000480'
 lock-data: false
 data:
-- series: ''
+- series: tonies-us-en-us,
   series-id: ''
   episode: ''
-  release: tonies-us-en-us,
+  release: ''
   language: ''
   category: ''
   runtime: ''
