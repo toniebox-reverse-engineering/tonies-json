@@ -1,0 +1,29 @@
+article: '10001905'
+lock-data: false
+data:
+- series: Peppa Pig
+  series-id: peppa-pig-2
+  episode: Histoires Du Soir
+  release: 1725494400
+  language: fr-fr
+  category: audio-play
+  runtime: 48
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/50005346-Tonie_Shado-Ah-dJIjY.png
+  sample: https://cdn.tonies.de/o/audio_samples/509b739f09029a7eb3c45bb58528cccbb28a7d2369fac9a58e6428a5/peppa_pig_histoires_du_soir_extraitmp3.mp3
+  web: https://tonies.com/fr-fr/tonies/peppa-pig/histoires-du-soir/
+  shop-id: 1bbe5e06-c7d1-4909-a4eb-ff466dd7bd62
+  track-desc:
+  - Générique
+  - Le coucher
+  - Les animaux nocturnes
+  - La princesse fatiguée
+  - Les étoiles
+  - Une histoire pour George
+  - La garderie à domicile
+  - La soirée pyjama
+  - Princesse Peppa
+  - La panne de courant
+  - Vive le camping
+  ids: []

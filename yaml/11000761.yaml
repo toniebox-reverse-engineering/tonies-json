@@ -1,0 +1,24 @@
+article: '11000761'
+lock-data: false
+data:
+- series: La Maison De Gabby
+  series-id: gab-dollhouse-us
+  episode: Gabby
+  release: 1725494400
+  language: fr-fr
+  category: audio-play
+  runtime: 50
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/98-1273-Tonie_Shadow-O6WmxXkp.png
+  sample: https://cdn.tonies.de/o/audio_samples/52392987267173416d53c611759185534894f7c087113400b31f47fc/03_11000761_la_maison_de_gabby_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/la-maison-de-gabby/gabby/
+  shop-id: af4ba5c2-980b-45ab-b4c3-940878f11c71
+  track-desc:
+  - Introduction
+  - Générique
+  - À la recherche du groove
+  - Interlude
+  - Le festival des fées
+  - Conclusion
+  ids: []

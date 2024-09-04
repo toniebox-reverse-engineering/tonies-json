@@ -1,0 +1,33 @@
+article: '11000628'
+lock-data: false
+data:
+- series: Petit Ours Brun
+  series-id: petit-ours-brun-2
+  episode: Petit Ours Brun (Vol. 2)
+  release: 1725494400
+  language: fr-fr
+  category: audio-book
+  runtime: 63
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51003750-Tonie_Shado-RAiL751Z.png
+  sample: https://cdn.tonies.de/o/audio_samples/5b1647d90a1536541f83517f8456394a131dc102e6e545fbe4e48a62/11000628_01_petit_ours_brun2_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/petit-ours-brun/petit-ours-brun-vol-2/
+  shop-id: 0de86d8f-849e-49d2-8eba-b20712eabd46
+  track-desc:
+  - Petit Ours Brun chez papi mamie
+  - Petit Ours Brun fait du vélo
+  - Petit Ours Brun et la baby-sitter
+  - Petit Ours Brun découvre la ville
+  - Petit Ours Brun prend le train
+  - Petit Ours Brun et la chasse au trésor
+  - Petit Ours Brun fait du poney
+  - Petit Ours Brun et son copain
+  - Petit Ours Brun à la patinoire
+  - Petit Ours Brun jardine
+  - Petit Ours Brun cuisine avec son papa
+  - Petit Ours Brun attend Noël
+  - Petit Ours Brun aide son papa
+  - Petit Ours Brun campe dans le jardin
+  - Petit Ours Brun et son chat
+  ids: []

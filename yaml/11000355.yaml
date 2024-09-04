@@ -1,0 +1,45 @@
+article: '11000355'
+lock-data: false
+data:
+- series: La Journée De Léo
+  series-id: la-journee-de-leo
+  episode: Mes Petits Rituels En Chansons
+  release: 1725494400
+  language: fr-fr
+  category: audio-play-songs
+  runtime: 49
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/50006979-Tonie_Shado-5PG_r02r.png
+  sample: https://cdn.tonies.de/o/audio_samples/0e9b63a62e6ae3908dd00103080717c79a97f1ca0b1346c276272a29/leo_2_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/la-journee-de-leo/mes-petits-rituels-en-chansons/
+  shop-id: 4321ed79-2556-455e-8390-56acdefa08a8
+  track-desc:
+  - Bienvenue à la journée de Léo !
+  - Un nouveau jour (chanson)
+  - C'est le matin !
+  - Va au pot (chanson)
+  - À plus les microbes !
+  - Lave tes mains (chanson)
+  - Il est l'heure de s'étirer
+  - Brosse tes dents (chanson)
+  - Comment choisir ses vêtements ?
+  - Habille-toi (chanson)
+  - Nourrir son corps !
+  - Le p'tit dej' (chanson)
+  - J'adore mes animaux !
+  - Prend soin de tes animaux (chanson)
+  - Nourrir son cerveau !
+  - J'aime l'école (chanson)
+  - Se reposer
+  - Fais une pause (chanson)
+  - Se laver
+  - Prends un bain (chanson)
+  - Un moment en famille
+  - L'heure du dîner (chanson)
+  - Tchic Tchac, on se brosse les dents
+  - Brosse tes dents (reprise) (chanson)
+  - Un temps calme pour se relaxer
+  - Bonne nuit (chanson)
+  - Dors bien !
+  ids: []

@@ -1,0 +1,24 @@
+article: '11000629'
+lock-data: false
+data:
+- series: Gus Le Chevalier Minus
+  series-id: gus
+  episode: Gus
+  release: 1725494400
+  language: fr-fr
+  category: audio-play
+  runtime: 48
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51003753-Tonie_Shado-7VykZytb.png
+  sample: https://cdn.tonies.de/o/audio_samples/e9eaea8ee830650edc72b2ae8540252d64431ac80fb815911ac94cdb/06_11000629_gus_le_chevalier_minus_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/gus/gus/
+  shop-id: eaf4efc3-3b94-407d-bfb2-a04ba8f65803
+  track-desc:
+  - Introduction
+  - Générique
+  - La limace du succès
+  - Trop minus
+  - La Gromodite
+  - Les trois épreuves
+  ids: []

@@ -1,0 +1,26 @@
+article: '10001287'
+lock-data: false
+data:
+- series: Joyeuses Fêtes Avec Olaf
+  series-id: disney-olafs-frozen-adventure
+  episode: Joyeuses Fêtes Avec Olaf
+  release: 1725494400
+  language: fr-fr
+  category: audio-play-songs
+  runtime: 47
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/98-1404-Tonie_Shadow-hssPvPDA.png
+  sample: https://cdn.tonies.de/o/audio_samples/8839c7185456cd6487498486ef5f69b938fd7d8e64d5262ded881693/olaf_extraitmp3.mp3
+  web: https://tonies.com/fr-fr/tonies/disney-la-reine-des-neiges-joyeuses-fetes-avec-olaf/joyeuses-fetes-avec-olaf/
+  shop-id: 73ede02d-f524-412d-b675-0d5091abd561
+  track-desc:
+  - Joyeuses fêtes avec Olaf - Partie 1
+  - Joyeuses fêtes avec Olaf - Partie 2 (inclus la chanson "La saison des fêtes")
+  - Joyeuses fêtes avec Olaf - Partie 3 (inclus la chanson "La ballade de Flemmingrad")
+  - Joyeuses fêtes avec Olaf - Partie 4 (inclus la chanson "La saison des fêtes (reprise)")
+  - Joyeuses fêtes avec Olaf - Partie 5 (inclus la chanson "La fin d'année")
+  - Joyeuses fêtes avec Olaf - Partie 6
+  - Joyeuses fêtes avec Olaf - Partie 7 (inclus les chansons "La fin d'année (reprise)
+    et "Quand nous sommes tous ensemble")
+  ids: []
