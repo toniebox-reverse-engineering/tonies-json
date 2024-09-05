@@ -28,4 +28,9 @@ data:
   - Als Michel Klein-Ida an der Fahnenstange hochzog - Teil 4
   - Als Michel Klein-Ida an der Fahnenstange hochzog - Teil 5
   - Als Michel Klein-Ida an der Fahnenstange hochzog - Teil 6
-  ids: []
+  ids:
+  - audio-id: 1720515992
+    hash: 692211102dd61ad21081aff8fe75313f91d65280
+    size: 37882262
+    tracks: 12
+    confidence: 1

@@ -20,4 +20,24 @@ data:
   - 'Der große Digital-Check: Smartphone, Internet, Social Media – Das check ich für
     euch!'
   - 'Der große Gesundheits-Check: Viren, Fitness, Vitamine - Das check ich für euch!'
-  ids: []
+  ids:
+  - audio-id: 1720006727
+    hash: aadc93e7f316703c28a07dc5c802e01cf0f9ccbb
+    size: 43077025
+    tracks: 30
+    confidence: 1
+  - audio-id: 1720000663
+    hash: 5c45e243120f6ed0b4905ad7beec8373b5fc06cb
+    size: 41005272
+    tracks: 26
+    confidence: 1
+  - audio-id: 1720000422
+    hash: 8475611959cf190d27e76fb0b513697db1b08ff1
+    size: 40785699
+    tracks: 27
+    confidence: 1
+  - audio-id: 1719999749
+    hash: b266d0da7ec255bfdb750bb6bd1c408dc8c109e9
+    size: 40549075
+    tracks: 28
+    confidence: 1

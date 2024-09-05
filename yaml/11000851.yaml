@@ -39,4 +39,24 @@ data:
   - Charmers and Creeps - Showstopper The Peacock
   - Charmers and Creeps - Lodistar Quiz 2
   - Charmers and Creeps - Outro
-  ids: []
+  ids:
+  - audio-id: 1722265898
+    hash: 5f91ee9ca49c8caeb0d58aa00e8c187c982c5c4a
+    size: 22262668
+    tracks: 7
+    confidence: 1
+  - audio-id: 1722265871
+    hash: 0f69eb9196b7ffe66662cf845c15140ecef96bc4
+    size: 23264971
+    tracks: 7
+    confidence: 1
+  - audio-id: 1722265821
+    hash: c82a04dc77d6124ea3602f057b3462373bc3c3c7
+    size: 22826890
+    tracks: 6
+    confidence: 1
+  - audio-id: 1722265786
+    hash: bb059492510e7129789a30a7cb68f5bc239fe898
+    size: 17689248
+    tracks: 7
+    confidence: 1

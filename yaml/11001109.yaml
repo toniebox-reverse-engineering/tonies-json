@@ -30,4 +30,9 @@ data:
   - Tuesday 20th August
   - Monday 19th August
   - Joke Of The Day Jingle
-  ids: []
+  ids:
+  - audio-id: 1725491110
+    hash: 6a9ba11717c7a50e4c68c8b02dde9059c3403fa4
+    size: 19774311
+    tracks: 15
+    confidence: 1

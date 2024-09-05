@@ -21,4 +21,9 @@ data:
   - 'CHAPTER 3: Training'
   - 'CHAPTER 4: Tai Lung'
   - 'CHAPTER 5: The Secret Ingredient'
-  ids: []
+  ids:
+  - audio-id: 1721924168
+    hash: a5a69967ae315760ff06e38800247db60bd1f058
+    size: 52382086
+    tracks: 6
+    confidence: 1

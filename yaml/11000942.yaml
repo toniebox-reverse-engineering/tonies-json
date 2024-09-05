@@ -24,4 +24,9 @@ data:
   - CHAPTER 6 - Alfie and Digit in the Word Maze
   - CHAPTER 7 - Facing the Confusion Wizard
   - Tonies Outro
-  ids: []
+  ids:
+  - audio-id: 1721920920
+    hash: 3b05fdccae63a78eaddf7f6332af300f6dec361c
+    size: 46115848
+    tracks: 8
+    confidence: 1
