@@ -24,7 +24,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000024,The Gnats,,Here come the Gnats!,en-gb,Audiobook,stock,,,1,1,1,1
 10000025,TKKG Junior,,Beware of the Beast,en-gb,audio-play,stock,,,1,1,1,1
 10000026,TKKG Junior,,Scary Sleepover,en-gb,audio-play,stock,,,1,1,1,1
-10000028,The Three Question Marks,,The Realm of Riddles,en-gb,Audiobook,stock,,,1,0,0,0
+10000028,The Three Question Marks,,The Realm of Riddles,en-gb,Audiobook,stock,,,1,1,1,1
 10000029,The Three ???,,Night among Wolves,en-gb,audio-book,stock,,,1,1,1,1
 10000030,The Ballalloes,,Duel by Flood Light,en-gb,audio-play,stock,,,1,1,1,1
 10000031,Creative-Tonie,,Princess,en-gb,creative-tonie,stock,,,1,0,0,0
@@ -273,7 +273,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000193,Leo's Day,leo-s-day,Routines Music Album,en-gb,music,stock,fa42585d-47f2-4ff0-8a76-77946aafc98c,https://tonies.com/en-gb/tonies/leo-s-day/routines-music-album/,1,1,1,1
 11000194,Paw Patrol,paw-patrol,Rex,en-gb,audio-play,stock,8aa8eab0-a923-49b4-bf47-a49f254d423b,https://tonies.com/en-gb/tonies/paw-patrol/rex/,1,0,0,0
 11000195,Paw Patrol,paw-patrol,Zuma,en-gb,audio-play,stock,a9195fc5-a260-4191-b019-0a2de12ef923,https://tonies.com/en-gb/tonies/paw-patrol/zuma/,1,0,0,0
-11000196,Favourite Myths,favourite-myths,Horus (Egyptian Myths),en-gb,audio-play-educational,stock,4fbaa6e0-fc81-4a85-99d0-91244760ca4b,https://tonies.com/en-gb/tonies/favourite-myths/horus-egyptian-myths/,1,0,0,0
+11000196,Favourite Myths,favourite-myths,Horus (Egyptian Myths),en-gb,audio-play-educational,stock,4fbaa6e0-fc81-4a85-99d0-91244760ca4b,https://tonies.com/en-gb/tonies/favourite-myths/horus-egyptian-myths/,1,1,1,1
 11000197,Favourite Myths,favourite-myths,Pegasus (Greek Myths),en-gb,audio-play-educational,stock,2fb4d9e4-476e-47af-8afd-1020f9ecd45b,https://tonies.com/en-gb/tonies/favourite-myths/pegasus-greek-myths/,1,0,0,0
 11000198,Ben and Holly's Little Kingdom,ben-and-holly-s-little-kingdom,Ben,en-gb,audio-play,stock,9bbf28b3-f768-4415-a0c9-2b752f58b700,https://tonies.com/en-gb/tonies/ben-and-holly-s-little-kingdom/ben/,1,1,1,1
 11000205,Encanto,disney-encanto,Encanto,en-gb,audio-play-songs,stock,fe6b6a25-404f-42fd-9895-45b40582701c,https://tonies.com/en-gb/tonies/disney-encanto/encanto/,1,1,0,0
@@ -299,28 +299,28 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000471,Moshi,moshi,Fluttercup,en-gb,audio-play-songs,stock,f9ef304c-0c0c-4bd7-a99d-3c846f396e89,https://tonies.com/en-gb/tonies/moshi/fluttercup/,1,1,1,1
 11000477,Dino Ranch,dino-ranch,Dino Ranch,en-gb,audio-play,stock,a5735a43-b5ad-4fde-b074-d0ff067f7c40,https://tonies.com/en-gb/tonies/dino-ranch/dino-ranch/,1,1,1,1
 11000495,Paw Patrol,paw-patrol,Liberty,en-gb,audio-play,stock,fb760b65-e2c1-4ac9-85fc-7a42def5a4ba,https://tonies.com/en-gb/tonies/paw-patrol/liberty/,1,1,1,1
-11000521,Paddington Bear,paddington-bear,More About Paddington,en-gb,audio-book,stock,ea4e039f-2183-4206-ab08-82419b985748,https://tonies.com/en-gb/tonies/paddington-bear/more-about-paddington/,1,0,0,0
-11000524,Kung Fu Panda,kung-fu-panda,Kung Fu Panda,en-gb,audio-play,stock,2642471f-420a-4c3f-82b0-7a2596666a04,https://tonies.com/en-gb/tonies/kung-fu-panda/kung-fu-panda/,1,0,0,0
-11000538,Thomas and Friends,thomas-seine-freunde,All Engines Go: Percy,en-gb,audio-play,stock,bad32e9e-837a-4eed-9c2c-a723541efe67,https://tonies.com/en-gb/tonies/thomas-and-friends/all-engines-go-percy/,1,2,2,1
+11000521,Paddington Bear,paddington-bear,More About Paddington,en-gb,audio-book,stock,ea4e039f-2183-4206-ab08-82419b985748,https://tonies.com/en-gb/tonies/paddington-bear/more-about-paddington/,1,1,1,1
+11000524,Kung Fu Panda,kung-fu-panda,Kung Fu Panda,en-gb,audio-play,stock,2642471f-420a-4c3f-82b0-7a2596666a04,https://tonies.com/en-gb/tonies/kung-fu-panda/kung-fu-panda/,1,1,1,1
+11000538,Thomas and Friends,thomas-seine-freunde,All Engines Go: Percy,en-gb,audio-play,stock,bad32e9e-837a-4eed-9c2c-a723541efe67,https://tonies.com/en-gb/tonies/thomas-and-friends/all-engines-go-percy/,1,2,2,2
 11000559,Disney,disney,Wish,en-gb,audio-play-songs,stock,e21017ba-d2cf-4f89-bdef-81dde36a4458,https://tonies.com/en-gb/tonies/disney/wish/,1,0,0,0
 11000596,Burpee Bears,burpee-bears,Burpee Bears,en-gb,audio-book,stock,d2414366-db00-42cb-b86e-3def2f9c073d,https://tonies.com/en-gb/tonies/burpee-bears/burpee-bears/,1,1,1,1
 11000605,Trolls,trolls,Viva,en-gb,audio-play-songs,stock,d22ca57c-4c41-4461-81b1-f8d558734784,https://tonies.com/en-gb/tonies/trolls/viva/,1,0,0,0
 11000631,Advent calendar,advent-calendar,The Little Reindeer's Christmas Wish,en-gb,audio-play,stock,2fbcc068-b538-478b-9081-cac9565e3df9,https://tonies.com/en-gb/tonies/advent-calendar/the-little-reindeers-christmas-wish/,1,1,1,1
-11000722,Inside Out,disney-inside-out,Inside Out,en-gb,audio-play,stock,76f6c454-7a9c-4469-ad7c-89a90a7213ea,https://tonies.com/en-gb/tonies/disney-inside-out/inside-out/,1,0,0,0
+11000722,Inside Out,disney-inside-out,Inside Out,en-gb,audio-play,stock,76f6c454-7a9c-4469-ad7c-89a90a7213ea,https://tonies.com/en-gb/tonies/disney-inside-out/inside-out/,1,1,1,1
 11000782,Today with tonies,today-with-tonies,tonies® Podcast,en-gb,audio-play,stock,a742a774-63b0-450f-8303-6552b3c99bc9,https://tonies.com/en-gb/clever-tonies/today-with-tonies/today-with-tonies/,1,245,244,1
-11000814,Favourite Tales,favourite-tales,Spooky Tales,en-gb,audio-play,stock,f0e60521-bd8a-43ec-b1db-f2fde550f298,https://tonies.com/en-gb/tonies/favourite-tales/spooky-tales-uk/,1,0,0,0
-11000851,Animal World,animal-world,Animal World: Record Breakers,en-gb,audio-play-educational,stock,a649cba3-6c38-45af-b291-072814495008,https://tonies.com/en-gb/clever-tonies/animal-world/record-breakers/,1,0,0,0
-11000852,Doggyland,doggyland,Doggyland,en-gb,music,stock,c069ff11-14ed-4c32-96f0-1ce2e8dc3d3c,https://tonies.com/en-gb/tonies/doggyland/doggyland-doggyland-uk/,1,0,0,0
+11000814,Favourite Tales,favourite-tales,Spooky Tales,en-gb,audio-play,stock,f0e60521-bd8a-43ec-b1db-f2fde550f298,https://tonies.com/en-gb/tonies/favourite-tales/spooky-tales-uk/,1,1,1,1
+11000851,Animal World,animal-world,Animal World: Record Breakers,en-gb,audio-play-educational,stock,a649cba3-6c38-45af-b291-072814495008,https://tonies.com/en-gb/clever-tonies/animal-world/record-breakers/,1,4,4,4
+11000852,Doggyland,doggyland,Doggyland,en-gb,music,stock,c069ff11-14ed-4c32-96f0-1ce2e8dc3d3c,https://tonies.com/en-gb/tonies/doggyland/doggyland-doggyland-uk/,1,1,1,1
 11000861,Rebel Girls,rebel-girls,Rebel Girls,en-gb,audio-play,stock,111a9553-3b9a-4514-856d-ed9f1f409eb2,https://tonies.com/en-gb/clever-tonies/rebel-girls/rebel-girls/,1,0,0,0
 11000863,Cool Jobs,coole-jobs,Cool Jobs,en-gb,audio-play,stock,e7cabcaf-12a3-436b-96f2-dfeb05d892c4,https://tonies.com/en-gb/clever-tonies/cool-jobs/cool-jobs/,1,0,0,0
 11000898,Twinkl,twinkl,Learn with Twinkl,en-gb,audio-play-educational,stock,eee96109-2797-468a-a128-241c1dcea204,https://tonies.com/en-gb/clever-tonies/twinkl/learn-with-twinkl/,1,0,0,0
-11000903,Big Bright Feelings,big-bright-feelings,Big Bright Feelings Collection,en-gb,audio-play-educational,stock,563f4267-e1e9-4bb8-bb01-52bbe13bf023,https://tonies.com/en-gb/clever-tonies/big-bright-feelings/big-bright-feelings-collection/,1,0,0,0
-11000942,tonies® Original,tonies-originals,Team Smarticus,en-gb,audio-play-educational,stock,a9100d1a-5951-4c7b-be26-a9c502e5d40c,https://tonies.com/en-gb/clever-tonies/tonies-originals/team-smarticus/,1,0,0,0
+11000903,Big Bright Feelings,big-bright-feelings,Big Bright Feelings Collection,en-gb,audio-play-educational,stock,563f4267-e1e9-4bb8-bb01-52bbe13bf023,https://tonies.com/en-gb/clever-tonies/big-bright-feelings/big-bright-feelings-collection/,1,4,4,4
+11000942,tonies® Original,tonies-originals,Team Smarticus,en-gb,audio-play-educational,stock,a9100d1a-5951-4c7b-be26-a9c502e5d40c,https://tonies.com/en-gb/clever-tonies/tonies-originals/team-smarticus/,1,1,1,1
 11000958,Rachel Riley,rachel-riley,Rachel Riley's Maths Magic,en-gb,audio-play-educational,stock,dd2a8a7b-b1a0-44cc-bd65-68adb3f367ec,https://tonies.com/en-gb/clever-tonies/rachel-riley/rachel-rileys-maths-magic/,1,0,0,0
-11001102,Natural History Museum,discovery-crew,Natural History Museum: Discovery Crew,en-gb,audio-play,stock,6a3cc700-9b64-470c-b578-5d0ec4f5d20b,https://tonies.com/en-gb/clever-tonies/discovery-crew/natural-history-museum-discovery-crew/,1,0,0,0
+11001102,Natural History Museum,discovery-crew,Natural History Museum: Discovery Crew,en-gb,audio-play,stock,6a3cc700-9b64-470c-b578-5d0ec4f5d20b,https://tonies.com/en-gb/clever-tonies/discovery-crew/natural-history-museum-discovery-crew/,1,4,4,4
 11001107,Blue Zoo,blue-zoo,Numberblocks,en-gb,audio-play-educational,stock,28a6969c-f83b-4bc4-a52d-5bcba69544b1,https://tonies.com/en-gb/clever-tonies/blue-zoo/numberblocks/,1,0,0,0
 11001108,tonies® Original,tonies-originals,Daily Routines: Toothbrush Timer,en-gb,audio-play-educational,stock,6ddcd36d-fd8e-4ed1-9fa3-4cc9b6942893,https://tonies.com/en-gb/clever-tonies/tonies-originals/daily-routines-toothbrush-timer/,1,0,0,0
-11001109,Joke of the Day,joke-of-the-day,Joke of the Day,en-gb,audio-play,stock,c31bee4a-d638-47da-b7c5-f27bd51ebb1d,https://tonies.com/en-gb/clever-tonies/joke-of-the-day/joke-of-the-day/,1,0,0,0
+11001109,Joke of the Day,joke-of-the-day,Joke of the Day,en-gb,audio-play,stock,c31bee4a-d638-47da-b7c5-f27bd51ebb1d,https://tonies.com/en-gb/clever-tonies/joke-of-the-day/joke-of-the-day/,1,1,1,1
 11001114,Blue Zoo,blue-zoo,Alphablocks,en-gb,audio-play-educational,stock,6e047293-b044-4ec9-bcb9-d9025c99b07d,https://tonies.com/en-gb/clever-tonies/blue-zoo/alphablocks/,1,0,0,0
 2000010666,Aumio,aumio,Cozy Bedtime Stories,en-gb,audio-book,tunes,ba85a896-431f-4573-b001-7b99567252e2,https://tonies.com/de-de/audio-content/aumio/aumio-cozy-bedtime-stories/,1,0,0,0
 2000010667,Aumio,aumio,Sleep Journey to the Mindu Galaxy,en-gb,audio-book,tunes,58e33690-ae85-417f-aedc-8c2a8b4b651a,https://tonies.com/de-de/audio-content/aumio/aumio-sleep-journey-to-the-mindu-galaxy/,1,0,0,0
