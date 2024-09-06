@@ -198,7 +198,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10-0001,Minimusiker,,Weihnachtslieder,de-de,Musik,stock,,,1,2,1,1
 10000001,Julia Donaldson,julia-donaldson,The Gruffalo,en-gb,audio-play,stock,f16007bb-7600-4676-8221-6e2270d5c797,https://tonies.com/en-gb/tonies/julia-donaldson/the-gruffalo/,1,1,0,0
 10000002,The Gruffalo,the-gruffalo,The Gruffalo's Child,en-gb,audio-book,stock,7d54abc7-2d64-4a3a-85fd-a33d862577c5,https://tonies.com/en-gb/tonies/the-gruffalo/the-gruffalos-child/,1,0,0,0
-10000003,Room on the Broom,,Room on the Broom,en-gb,audio-book-songs,stock,,,1,0,0,0
+10000003,Room on the Broom,julia-donaldson,Room on the Broom,en-gb,audio-book-songs,stock,342f8b26-0a11-4dae-a3c3-6a312c91567a,https://tonies.com/en-gb/tonies/julia-donaldson/room-on-the-broom/,1,0,0,0
 10000004,The Snowman,the-snowman,The Snowman/The Snowman and the Snowdog,en-gb,audio-book,stock,2eb100d0-4a9a-41fb-bad6-04334d84b8f6,https://tonies.com/en-gb/tonies/the-snowman/the-snowman-and-the-snowdog/,1,1,1,3
 10000005,Highway Rat,highway-rat,Highway Rat,en-gb,audio-book-songs,stock,64132198-c82f-4f56-a30b-1620589b45a6,https://tonies.com/en-gb/tonies/highway-rat/highway-rat/,1,0,0,0
 10000006,Julia Donaldson,julia-donaldson,Zog,en-gb,audio-book-songs,stock,07984db1-13a3-4f6a-84b6-27b6ba1b0f74,https://tonies.com/en-gb/tonies/julia-donaldson/zog/,1,1,0,0
@@ -553,6 +553,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000696,Der kleine Wassermann,der-kleine-wassermann,Der kleine Wassermann (Neuauflage 2022),de-de,audio-play,stock,3393ed18-f649-44dc-b56d-96d4d582947d,https://tonies.com/de-de/tonies/der-kleine-wassermann/der-kleine-wassermann-neuauflage-2022/,1,1,0,0
 10000697,Die kleine Hexe,die-kleine-hexe,Die kleine Hexe,de-de,audio-play,stock,7c4d86aa-2d76-4e81-8220-3950219464a3,https://tonies.com/de-de/tonies/die-kleine-hexe/die-kleine-hexe-neuauflage-2022/,1,1,1,1
 10000698,Das kleine Gespenst,das-kleine-gespenst,Das kleine Gespenst (Neuauflage 2022),de-de,audio-play,stock,9e74ecc7-ae82-45de-a769-4e80e5eaaa29,https://tonies.com/de-de/tonies/das-kleine-gespenst/das-kleine-gespenst-neuauflage-2022/,1,0,0,0
+10000699,SpongeBob SquarePants,spongebob-squarepants,Spongebob Squarepants,en-gb,audio-play-songs,stock,7f4df96e-6054-4c1d-af9c-a96f5b44f6db,https://tonies.com/en-gb/tonies/spongebob-squarepants/spongebob-squarepants/,1,0,0,0
 10000700,Disney,,Winnie the Pooh,en-us,Tonie,stock,6972819964055,,1,1,1,2
 10000701,Diary of a Wimpy Kid,,,en-us,Tonie,stock,6972818555031,,1,1,1,1
 10000705,Sesame Street,sesame-street,Elmo,en-gb,audio-play-songs,stock,c008eeb6-dbac-49af-b247-a0709acf4b9e,https://tonies.com/en-gb/tonies/sesame-street/elmo/,1,0,0,0
@@ -819,7 +820,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001273,Astérix,asterix,Le Tour De Gaule D'Astérix,fr-fr,audio-play,stock,ceb752a3-5c7c-4c09-898f-e36cf38e5c15,https://tonies.com/fr-fr/tonies/asterix/le-tour-de-gaule-d-asterix/,1,1,1,1
 10001277,Les Schtroumpfs,les-schtroumpfs,L'Aéroschtroumpf,fr-fr,audio-play,stock,42d27775-9036-41eb-86dd-2721ce685a7a,https://tonies.com/fr-fr/tonies/les-schtroumpfs/l-aeroschtroumpf/,1,1,1,1
 10001278,Les Schtroumpfs,les-schtroumpfs,La Grande Schtroumpfette,fr-fr,audio-play,stock,30600395-3612-4402-8a09-cf05db19911f,https://tonies.com/fr-fr/tonies/les-schtroumpfs/la-grande-schtroumpfette/,1,1,1,1
-10001281,Petit Ours Brun,petit-ours-brun-2,Petit Ours Brun,fr-fr,audio-book,stock,904745eb-ce4f-4682-a39a-f2c3588fb2b4,https://tonies.com/fr-fr/tonies/petit-ours-brun/petit-ours-brun/,1,0,0,0
+10001281,Petit Ours Brun,petit-ours-brun-2,Petit Ours Brun (Vol. 1),fr-fr,audio-book,stock,904745eb-ce4f-4682-a39a-f2c3588fb2b4,https://tonies.com/fr-fr/tonies/petit-ours-brun/petit-ours-brun/,1,0,0,0
 10001282,La Reine Des Neiges II,disney-frozen-2,La Reine Des Neiges 2,fr-fr,audio-play-songs,stock,aaa5a870-ab5e-4390-bc87-2406c3513c29,https://tonies.com/fr-fr/tonies/disney-la-reine-des-neiges-ii/la-reine-des-neiges-2/,1,0,0,0
 10001283,Molang,molang,Molang,fr-fr,audio-play,stock,3a221db1-2e9d-47aa-b27d-3dfc5d974ba9,https://tonies.com/fr-fr/tonies/molang/molang/,1,0,0,1
 10001287,Joyeuses Fêtes Avec Olaf,disney-olafs-frozen-adventure,Joyeuses Fêtes Avec Olaf,fr-fr,audio-play-songs,stock,73ede02d-f524-412d-b675-0d5091abd561,https://tonies.com/fr-fr/tonies/disney-la-reine-des-neiges-joyeuses-fetes-avec-olaf/joyeuses-fetes-avec-olaf/,1,0,0,0
@@ -1212,6 +1213,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000456,Peppa Pig,,My First Album,en-us,Tonie,stock,8258465988759,,1,1,1,1
 11000457,Calm x tonies®,,,en-us,Tonie,stock,7806525866135,,1,1,0,0
 11000458,Calm,,Calm,en-gb,,stock,d7d0d398-f289-47f3-acff-8e0cb0a47158,https://tonies.com/de-de///,1,0,0,0
+11000460,DC,dc,Batwheels,en-gb,audio-play,stock,f154cffc-351f-4b6e-a3fd-1054185ea6eb,https://tonies.com/en-gb/tonies/dc/batwheels/,1,0,0,0
 11000462,MARVEL Spidey and His Amazing Friends,marvel-spidey-and-his-amazing-friends,Spidey und seine Super-Freunde - Das Spidey Team & 3 weitere spannende Abenteuer,de-de,audio-play,stock,fb34e8ef-b3e2-4360-b8e2-da048a87df28,https://tonies.com/de-de/tonies/marvel-spidey-and-his-amazing-friends/marvel-spidey-und-seine-super-freunde-das-spidey-team-3-weitere-spannende-abenteuer/,1,1,1,2
 11000465,MARVEL Spidey and His Amazing Friends,marvel-spidey-and-his-amazing-friends,Spidey und seine Super-Freunde - Doc Ocks Superoktopus & 3 weitere spannende Abenteuer,de-de,audio-play,stock,d0fa8fcb-072f-480b-b41c-1faa2f1d93e3,https://tonies.com/de-de/tonies/marvel-spidey-and-his-amazing-friends/spidey-und-seine-super-freunde-doc-ocks-superoktopus-3-weitere-spannende-abenteuer/,1,1,1,2
 11000466,MARVEL Spidey and His Amazing Friends,marvel-spidey-and-his-amazing-friends,Spidey und seine Super-Freunde - Kobzilla & 3 weitere spannende Abenteuer,de-de,audio-play,stock,2da830ca-4d8f-4c4a-b3cf-5d1ec5d299d4,https://tonies.com/de-de/tonies/marvel-spidey-and-his-amazing-friends/marvel-ghost-spider-dach/,1,1,1,1
@@ -1219,6 +1221,8 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000469,The Worst Witch,the-worst-witch,The Worst Witch,en-gb,audio-book,stock,96d0e743-350c-4a61-b947-5f70fecf457e,https://tonies.com/en-gb/tonies/the-worst-witch/the-worst-witch/,1,1,1,1
 11000470,Moshi,moshi,Sleepy Paws,en-gb,audio-play-songs,stock,b890849a-9724-45cb-a2a9-0d265575ce24,https://tonies.com/en-gb/tonies/moshi/sleepypaws/,1,1,1,1
 11000471,Moshi,moshi,Fluttercup,en-gb,audio-play-songs,stock,f9ef304c-0c0c-4bd7-a99d-3c846f396e89,https://tonies.com/en-gb/tonies/moshi/fluttercup/,1,1,1,1
+11000472,Moshi,moshi,Shishi,en-gb,audio-play-songs,stock,f1749271-10c5-455f-825e-0a57650e9aaf,https://tonies.com/en-gb/tonies/moshi/shishi/,1,0,0,0
+11000473,Moshi,moshi,Chirpy,en-gb,audio-play-songs,stock,fcc84f03-d079-4668-a90e-fe0e5c4ee414,https://tonies.com/en-gb/tonies/moshi/chirpy/,1,0,0,0
 11000477,Dino Ranch,dino-ranch,Dino Ranch,en-gb,audio-play,stock,a5735a43-b5ad-4fde-b074-d0ff067f7c40,https://tonies.com/en-gb/tonies/dino-ranch/dino-ranch/,1,1,1,1
 11000479,PAW Patrol,,Liberty,en-us,Tonie,stock,8041408004247,,1,1,1,2
 11000480,Pretzel and the Puppies,,,en-us,Tonie,stock,8143490810007,,1,1,1,1

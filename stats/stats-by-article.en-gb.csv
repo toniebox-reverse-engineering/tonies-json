@@ -1,7 +1,7 @@
 article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,id-sets,id-sets-confidence,auth-sets
 10000001,Julia Donaldson,julia-donaldson,The Gruffalo,en-gb,audio-play,stock,f16007bb-7600-4676-8221-6e2270d5c797,https://tonies.com/en-gb/tonies/julia-donaldson/the-gruffalo/,1,1,0,0
 10000002,The Gruffalo,the-gruffalo,The Gruffalo's Child,en-gb,audio-book,stock,7d54abc7-2d64-4a3a-85fd-a33d862577c5,https://tonies.com/en-gb/tonies/the-gruffalo/the-gruffalos-child/,1,0,0,0
-10000003,Room on the Broom,,Room on the Broom,en-gb,audio-book-songs,stock,,,1,0,0,0
+10000003,Room on the Broom,julia-donaldson,Room on the Broom,en-gb,audio-book-songs,stock,342f8b26-0a11-4dae-a3c3-6a312c91567a,https://tonies.com/en-gb/tonies/julia-donaldson/room-on-the-broom/,1,0,0,0
 10000004,The Snowman,the-snowman,The Snowman/The Snowman and the Snowdog,en-gb,audio-book,stock,2eb100d0-4a9a-41fb-bad6-04334d84b8f6,https://tonies.com/en-gb/tonies/the-snowman/the-snowman-and-the-snowdog/,1,1,1,3
 10000005,Highway Rat,highway-rat,Highway Rat,en-gb,audio-book-songs,stock,64132198-c82f-4f56-a30b-1620589b45a6,https://tonies.com/en-gb/tonies/highway-rat/highway-rat/,1,0,0,0
 10000006,Julia Donaldson,julia-donaldson,Zog,en-gb,audio-book-songs,stock,07984db1-13a3-4f6a-84b6-27b6ba1b0f74,https://tonies.com/en-gb/tonies/julia-donaldson/zog/,1,1,0,0
@@ -133,6 +133,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000688,Disney,disney,The Princess and the Frog,en-gb,audio-play-songs,stock,c14bced7-de8e-4192-a51b-792747a3ea80,https://tonies.com/en-gb/tonies/disney/the-princess-and-the-frog/,1,0,0,0
 10000690,Disney,disney,Tangled,en-gb,audio-play-songs,stock,968aba4a-efa1-407e-b262-75d0c48413b4,https://tonies.com/en-gb/tonies/disney/tangled/,1,0,0,0
 10000692,Disney,disney,Mickey and Friends,en-gb,audio-book,stock,c1688ad1-0e59-4185-a4e8-95dcccb1a8b5,https://tonies.com/en-gb/tonies/disney/mickey-and-friends/,1,0,0,0
+10000699,SpongeBob SquarePants,spongebob-squarepants,Spongebob Squarepants,en-gb,audio-play-songs,stock,7f4df96e-6054-4c1d-af9c-a96f5b44f6db,https://tonies.com/en-gb/tonies/spongebob-squarepants/spongebob-squarepants/,1,0,0,0
 10000705,Sesame Street,sesame-street,Elmo,en-gb,audio-play-songs,stock,c008eeb6-dbac-49af-b247-a0709acf4b9e,https://tonies.com/en-gb/tonies/sesame-street/elmo/,1,0,0,0
 10000710,PJ Masks,pj-masks,Owlette,en-gb,audio-play,stock,1447b567-6e07-42cc-8a3c-38d7a69f3185,https://tonies.com/en-gb/tonies/pj-masks/owlette/,1,1,0,0
 10000721,Paw Patrol,paw-patrol,Skye,en-gb,audio-play,stock,1067134b-fa45-49c1-b9c2-e56b91fa6fa9,https://tonies.com/en-gb/tonies/paw-patrol/skye/,1,1,1,1
@@ -293,10 +294,13 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000422,Maestro,maestro,Maestro,en-gb,music,stock,8c87a5e8-2600-443c-ae7a-0e9d917a8c8f,https://tonies.com/en-gb/tonies/maestro/maestro/,1,0,0,0
 11000424,Sleepy Friends,sleepy-friends,Classical Music with Sleepy Rabbit,en-gb,music,stock,1cd2a495-cc66-4b2a-a28f-9c7b8d897225,https://tonies.com/en-gb/tonies/sleepy-friends/classical-music-with-sleepy-rabbit/,1,0,0,0
 11000458,Calm,,Calm,en-gb,,stock,d7d0d398-f289-47f3-acff-8e0cb0a47158,https://tonies.com/de-de///,1,0,0,0
+11000460,DC,dc,Batwheels,en-gb,audio-play,stock,f154cffc-351f-4b6e-a3fd-1054185ea6eb,https://tonies.com/en-gb/tonies/dc/batwheels/,1,0,0,0
 11000467,Milo,milo-2,Milo,en-gb,audio-play,stock,6bf176b2-713f-4e93-93d6-638079550586,https://tonies.com/en-gb/tonies/milo-2/milo/,1,1,1,1
 11000469,The Worst Witch,the-worst-witch,The Worst Witch,en-gb,audio-book,stock,96d0e743-350c-4a61-b947-5f70fecf457e,https://tonies.com/en-gb/tonies/the-worst-witch/the-worst-witch/,1,1,1,1
 11000470,Moshi,moshi,Sleepy Paws,en-gb,audio-play-songs,stock,b890849a-9724-45cb-a2a9-0d265575ce24,https://tonies.com/en-gb/tonies/moshi/sleepypaws/,1,1,1,1
 11000471,Moshi,moshi,Fluttercup,en-gb,audio-play-songs,stock,f9ef304c-0c0c-4bd7-a99d-3c846f396e89,https://tonies.com/en-gb/tonies/moshi/fluttercup/,1,1,1,1
+11000472,Moshi,moshi,Shishi,en-gb,audio-play-songs,stock,f1749271-10c5-455f-825e-0a57650e9aaf,https://tonies.com/en-gb/tonies/moshi/shishi/,1,0,0,0
+11000473,Moshi,moshi,Chirpy,en-gb,audio-play-songs,stock,fcc84f03-d079-4668-a90e-fe0e5c4ee414,https://tonies.com/en-gb/tonies/moshi/chirpy/,1,0,0,0
 11000477,Dino Ranch,dino-ranch,Dino Ranch,en-gb,audio-play,stock,a5735a43-b5ad-4fde-b074-d0ff067f7c40,https://tonies.com/en-gb/tonies/dino-ranch/dino-ranch/,1,1,1,1
 11000495,Paw Patrol,paw-patrol,Liberty,en-gb,audio-play,stock,fb760b65-e2c1-4ac9-85fc-7a42def5a4ba,https://tonies.com/en-gb/tonies/paw-patrol/liberty/,1,1,1,1
 11000521,Paddington Bear,paddington-bear,More About Paddington,en-gb,audio-book,stock,ea4e039f-2183-4206-ab08-82419b985748,https://tonies.com/en-gb/tonies/paddington-bear/more-about-paddington/,1,1,1,1

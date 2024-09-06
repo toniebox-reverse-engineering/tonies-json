@@ -3,7 +3,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 00000000,Coming Soon Tonie 1,,,en-us,Tonie,stock,8250222477463,,1,0,0,0
 10000001,Julia Donaldson,julia-donaldson,The Gruffalo,en-gb,audio-play,stock,f16007bb-7600-4676-8221-6e2270d5c797,https://tonies.com/en-gb/tonies/julia-donaldson/the-gruffalo/,1,1,0,0
 10000002,The Gruffalo,the-gruffalo,The Gruffalo's Child,en-gb,audio-book,stock,7d54abc7-2d64-4a3a-85fd-a33d862577c5,https://tonies.com/en-gb/tonies/the-gruffalo/the-gruffalos-child/,1,0,0,0
-10000003,Room on the Broom,,Room on the Broom,en-gb,audio-book-songs,stock,,,1,0,0,0
+10000003,Room on the Broom,julia-donaldson,Room on the Broom,en-gb,audio-book-songs,stock,342f8b26-0a11-4dae-a3c3-6a312c91567a,https://tonies.com/en-gb/tonies/julia-donaldson/room-on-the-broom/,1,0,0,0
 10000005,Highway Rat,highway-rat,Highway Rat,en-gb,audio-book-songs,stock,64132198-c82f-4f56-a30b-1620589b45a6,https://tonies.com/en-gb/tonies/highway-rat/highway-rat/,1,0,0,0
 10000006,Julia Donaldson,julia-donaldson,Zog,en-gb,audio-book-songs,stock,07984db1-13a3-4f6a-84b6-27b6ba1b0f74,https://tonies.com/en-gb/tonies/julia-donaldson/zog/,1,1,0,0
 10000007,Julia Donaldson,julia-donaldson,Stick Man,en-gb,audio-book-songs,stock,b73dfc00-f6d7-4924-a859-b0677e33ff5c,https://tonies.com/en-gb/tonies/julia-donaldson/stick-man/,1,1,0,0
@@ -55,6 +55,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000692,Disney,disney,Mickey and Friends,en-gb,audio-book,stock,c1688ad1-0e59-4185-a4e8-95dcccb1a8b5,https://tonies.com/en-gb/tonies/disney/mickey-and-friends/,1,0,0,0
 10000696,Der kleine Wassermann,der-kleine-wassermann,Der kleine Wassermann (Neuauflage 2022),de-de,audio-play,stock,3393ed18-f649-44dc-b56d-96d4d582947d,https://tonies.com/de-de/tonies/der-kleine-wassermann/der-kleine-wassermann-neuauflage-2022/,1,1,0,0
 10000698,Das kleine Gespenst,das-kleine-gespenst,Das kleine Gespenst (Neuauflage 2022),de-de,audio-play,stock,9e74ecc7-ae82-45de-a769-4e80e5eaaa29,https://tonies.com/de-de/tonies/das-kleine-gespenst/das-kleine-gespenst-neuauflage-2022/,1,0,0,0
+10000699,SpongeBob SquarePants,spongebob-squarepants,Spongebob Squarepants,en-gb,audio-play-songs,stock,7f4df96e-6054-4c1d-af9c-a96f5b44f6db,https://tonies.com/en-gb/tonies/spongebob-squarepants/spongebob-squarepants/,1,0,0,0
 10000705,Sesame Street,sesame-street,Elmo,en-gb,audio-play-songs,stock,c008eeb6-dbac-49af-b247-a0709acf4b9e,https://tonies.com/en-gb/tonies/sesame-street/elmo/,1,0,0,0
 10000710,PJ Masks,pj-masks,Owlette,en-gb,audio-play,stock,1447b567-6e07-42cc-8a3c-38d7a69f3185,https://tonies.com/en-gb/tonies/pj-masks/owlette/,1,1,0,0
 10000725,PJ Masks,pj-masks,Catboy,en-gb,audio-play,stock,906093f0-f2e0-4505-a98d-0e620e6100cb,https://tonies.com/en-gb/tonies/pj-masks/catboy/,1,0,0,0
@@ -107,7 +108,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001266,La Pat' Patrouille,paw-patrol,Stella,fr-fr,audio-play,stock,464a08bb-7421-4ae0-a113-42f57c19142d,https://tonies.com/fr-fr/tonies/la-pat-patrouille/stella/,1,0,0,0
 10001268,Peppa Pig,peppa-pig,George,fr-fr,audio-play,stock,c635652d-7763-4d14-a3fc-737c6f73e066,https://tonies.com/fr-fr/tonies/peppa-pig/george/,1,0,0,0
 10001270,Le Petit Nicolas,le-petit-nicolas,Le Petit Nicolas,fr-fr,audio-play,stock,07a3ebb6-155b-4817-91fe-b6a523350413,https://tonies.com/fr-fr/tonies/le-petit-nicolas/le-petit-nicolas/,1,0,0,0
-10001281,Petit Ours Brun,petit-ours-brun-2,Petit Ours Brun,fr-fr,audio-book,stock,904745eb-ce4f-4682-a39a-f2c3588fb2b4,https://tonies.com/fr-fr/tonies/petit-ours-brun/petit-ours-brun/,1,0,0,0
+10001281,Petit Ours Brun,petit-ours-brun-2,Petit Ours Brun (Vol. 1),fr-fr,audio-book,stock,904745eb-ce4f-4682-a39a-f2c3588fb2b4,https://tonies.com/fr-fr/tonies/petit-ours-brun/petit-ours-brun/,1,0,0,0
 10001282,La Reine Des Neiges II,disney-frozen-2,La Reine Des Neiges 2,fr-fr,audio-play-songs,stock,aaa5a870-ab5e-4390-bc87-2406c3513c29,https://tonies.com/fr-fr/tonies/disney-la-reine-des-neiges-ii/la-reine-des-neiges-2/,1,0,0,0
 10001283,Molang,molang,Molang,fr-fr,audio-play,stock,3a221db1-2e9d-47aa-b27d-3dfc5d974ba9,https://tonies.com/fr-fr/tonies/molang/molang/,1,0,0,1
 10001287,Joyeuses Fêtes Avec Olaf,disney-olafs-frozen-adventure,Joyeuses Fêtes Avec Olaf,fr-fr,audio-play-songs,stock,73ede02d-f524-412d-b675-0d5091abd561,https://tonies.com/fr-fr/tonies/disney-la-reine-des-neiges-joyeuses-fetes-avec-olaf/joyeuses-fetes-avec-olaf/,1,0,0,0
@@ -268,6 +269,9 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000447,Planet Omar,,Accidental Trouble Magnet,en-us,Tonie,stock,7907850649751,,1,1,0,0
 11000457,Calm x tonies®,,,en-us,Tonie,stock,7806525866135,,1,1,0,0
 11000458,Calm,,Calm,en-gb,,stock,d7d0d398-f289-47f3-acff-8e0cb0a47158,https://tonies.com/de-de///,1,0,0,0
+11000460,DC,dc,Batwheels,en-gb,audio-play,stock,f154cffc-351f-4b6e-a3fd-1054185ea6eb,https://tonies.com/en-gb/tonies/dc/batwheels/,1,0,0,0
+11000472,Moshi,moshi,Shishi,en-gb,audio-play-songs,stock,f1749271-10c5-455f-825e-0a57650e9aaf,https://tonies.com/en-gb/tonies/moshi/shishi/,1,0,0,0
+11000473,Moshi,moshi,Chirpy,en-gb,audio-play-songs,stock,fcc84f03-d079-4668-a90e-fe0e5c4ee414,https://tonies.com/en-gb/tonies/moshi/chirpy/,1,0,0,0
 11000503,La Pat' Patrouille,la-pat-patrouille,Liberty,fr-fr,audio-play,stock,0041af69-1f3a-4432-91ce-f31baec80fdf,https://tonies.com/fr-fr/tonies/la-pat-patrouille/liberty/,1,0,0,0
 11000509,C'Est Toujours Pas Sorcier,was-ist-was,Nos Amis Les Animaux,fr-fr,audio-play-educational,stock,bb7c7283-d4d7-4ff9-94ab-9ff803d826b1,https://tonies.com/fr-fr/tonies/c-est-toujours-pas-sorcier/nos-amis-les-animaux/,1,0,0,0
 11000512,Foot 2 Rue,foot-2-rue,Petit Dragon,fr-fr,audio-play,stock,47d446af-df19-4209-852c-37205075ffc2,https://tonies.com/fr-fr/tonies/foot-2-rue/petit-dragon/,1,0,0,0
