@@ -1,0 +1,25 @@
+article: '11000460'
+lock-data: false
+data:
+- series: DC
+  series-id: dc
+  episode: Batwheels
+  release: 1726185600
+  language: en-gb
+  category: audio-play
+  runtime: 87
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/51002869-Tonie_Shado-ha1vstKc.png
+  sample: https://cdn.tonies.de/o/audio_samples/ccf2059024810a4d62fe59096eb41be1dc8c0282c93cc0f7657832f2/batwheels_sample.wav
+  web: https://tonies.com/en-gb/tonies/dc/batwheels/
+  shop-id: f154cffc-351f-4b6e-a3fd-1054185ea6eb
+  track-desc:
+  - INTRO
+  - 'STORY: To The Batmobile'
+  - 'STORY: Bam''s Upgrade'
+  - 'STORY: Sidekicked To The Curb'
+  - 'STORY: Bam''s Clawful Mistake'
+  - 'STORY: Zoomsday'
+  - Mindfulness Moment
+  ids: []

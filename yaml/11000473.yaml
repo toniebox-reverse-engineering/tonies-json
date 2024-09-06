@@ -1,0 +1,22 @@
+article: '11000473'
+lock-data: false
+data:
+- series: Moshi
+  series-id: moshi
+  episode: Chirpy
+  release: 1726185600
+  language: en-gb
+  category: audio-play-songs
+  runtime: 72
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/51002957-Tonie_Shado-mUNnmXQm.png
+  sample: https://cdn.tonies.de/o/audio_samples/187c71aca43d503eb9ce6cf364edfcfd64501d8b4379fc30001ec29b/11000473_chirpy_sample.wav
+  web: https://tonies.com/en-gb/tonies/moshi/chirpy/
+  shop-id: fcc84f03-d079-4668-a90e-fe0e5c4ee414
+  track-desc:
+  - 'STORY: Chirpy and the Calming Cuckoo Crew'
+  - 'MEDITATION: Chirpy''s Happy Thoughts'
+  - 'MEDITATION: Rise and Shine with Chirpy'
+  - 'INSTRUMENTAL: Franzipan Farm Birdsong'
+  ids: []

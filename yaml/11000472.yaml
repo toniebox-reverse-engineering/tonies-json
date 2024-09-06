@@ -1,0 +1,22 @@
+article: '11000472'
+lock-data: false
+data:
+- series: Moshi
+  series-id: moshi
+  episode: Shishi
+  release: 1726185600
+  language: en-gb
+  category: audio-play-songs
+  runtime: 74
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/51002954-Tonie_Shado-I9GkM16U.png
+  sample: https://cdn.tonies.de/o/audio_samples/d43e9ef756581a0d94010a81334ada841edbe1b79e08732daa335792/11000472_shishi_sample.wav
+  web: https://tonies.com/en-gb/tonies/moshi/shishi/
+  shop-id: f1749271-10c5-455f-825e-0a57650e9aaf
+  track-desc:
+  - 'STORY: ShiShi and the Tree of Slumber'
+  - 'MEDITATION: ShiShi''s Soothing Anxiety Shrinker'
+  - 'MEDITATION: Growing a Flower Garden with ShiShi'
+  - 'INSTRUMENTAL: Dreaming Moshi Anxiety Relief'
+  ids: []
