@@ -2,8 +2,8 @@ article: '10001281'
 lock-data: false
 data:
 - series: ''
-  series-id: tonies-json-fr-fr,
-  episode: ''
+  series-id: ''
+  episode: tonies-json-fr-fr,
   release: ''
   language: ''
   category: ''
