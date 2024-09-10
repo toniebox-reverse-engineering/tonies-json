@@ -1,0 +1,50 @@
+article: '11000412'
+lock-data: false
+data:
+- series: Favourite Children's Songs
+  series-id: favourite-children-s-songs
+  episode: Bugs!
+  release: 1726185600
+  language: en-gb
+  category: music
+  runtime: 64
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/51000652-Tonie_Shado-GohIqOES.png
+  sample: https://cdn.tonies.de/o/audio_samples/f5f20871d76b42435274ea5ccc87f2747f08c07488b9f3785130b72a/01_bizzythebee_fullmix.wav
+  web: https://tonies.com/en-gb/tonies/favourite-children-s-songs/bugs/
+  shop-id: 5e9ee07b-29f2-47ea-92d3-a4d1447226d9
+  track-desc:
+  - STORY - Bizzy the Bee
+  - SONG - Buzz Like a Honeybee
+  - STORY - Queen Bee
+  - STORY - Dragonfly Dash
+  - SONG - More Than Meets the Eye; Goodbye Dragonfly
+  - STORY- Mandy the Praying Mantis
+  - SONG - Master of Disguise
+  - STORY - 10 Sunflower Fields To Go
+  - STORY - Billy Beetle
+  - SONG - So Many Kinds Of Beetles
+  - STORY - Bye Bye Beetle!
+  - SONG - Ladybug Luck
+  - STORY - Gary Grasshopper
+  - SONG - The Grasshopper Hop; Where’d Gary Grasshopper go?
+  - STORY - Polly Roly Poly
+  - SONG - I’m a Tiny Gardener
+  - STORY - March to the Ants
+  - SONG - The Ants Go Marching
+  - STORY - Uh, Oh, Wrong Way!
+  - SONG - Stick Bug Stevie
+  - SONG - I Can Blend Into Bark
+  - STORY - Five Tall Cherry Trees
+  - STORY - Ernie Earthworm
+  - SONG - Squirm Like An Earthworm
+  - STORY - Yellow Flowered Trees
+  - STORY - Stink Bug Stanky
+  - SONG - What’s That Smell?
+  - STORY - Arachnid Annie
+  - SONG - Follow the Butterflies
+  - SONG - Monica the Monarch Butterfly; We Made it!
+  - SONG - The Waggle Dance; Bye for now!
+  - SONG - Spiders are Arachnids
+  ids: []
