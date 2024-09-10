@@ -1,10 +1,10 @@
 article: '10001241'
 lock-data: false
 data:
-- series: tonies-us-en-us,
+- series: ''
   series-id: ''
   episode: ''
-  release: tonies-us-en-us,
+  release: ''
   language: ''
   category: ''
   runtime: ''
@@ -13,6 +13,6 @@ data:
   image: tonies-us-en-us,
   sample: ''
   web: ''
-  shop-id: tonies-us-en-us,
+  shop-id: ''
   track-desc: ''
   ids: []
