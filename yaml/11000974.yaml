@@ -2,7 +2,7 @@ article: '11000974'
 lock-data: false
 data:
 - series: Peppa Pig
-  series-id: peppa-pig
+  series-id: peppa-pig-2
   episode: Meine Geburtstagsparty
   release: 1722988800
   language: de-de
@@ -15,13 +15,12 @@ data:
   web: https://tonies.com/de-de/tonies/peppa-pig/meine-geburtstagsparty/
   shop-id: 3a43e53c-fd57-4d77-a09f-d81d6357553c
   track-desc:
-  - Meine Geburtstagsparty
-  - Das Kinderfest
-  - Lustige Musik
-  - Der Geburtstag von Opa Wutz
-  - Selbstgemachte Musikinstrumente
-  - Die Musik-Box
-  - Der Piratengeburtstag
-  - Kostümparty
-  - ''
+  - 01 Peppa Pig Meine Geburtstagsparty
+  - 02 Peppa Pig Das Kinderfest
+  - 03 Peppa Pig Lustige Musik
+  - 04 Peppa Pig Der Geburtstag Von Opa Wutz
+  - 05 Peppa Pig Selbstgemachte Musikinstrumente
+  - 06 Peppa Pig Die Musikbox
+  - 07 Peppa Pig Der Piratengeburtstag
+  - 08 Peppa Pig Kostuemparty
   ids: []

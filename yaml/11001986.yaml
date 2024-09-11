@@ -1,0 +1,22 @@
+article: '11001986'
+lock-data: false
+data:
+- series: MIRA und das fliegende Haus
+  series-id: mira
+  episode: MIRA und das fliegende Haus - Set
+  release: 1728432000
+  language: de-de
+  category: audio-play
+  runtime: 140
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11001986_1_a-qngvhyMT.png
+  sample: https://cdn.tonies.de/o/audio_samples/8d23246363752f183ecc3c778e70f232d63d3aaecc931a330628e73f/tonies_trailer.wav
+  web: https://tonies.com/de-de/clever-tonies/mira/mira-und-das-fliegende-haus-set/
+  shop-id: 6e610a26-5c31-414a-acec-790d3d1fe2d4
+  track-desc:
+  - 1. Ich bin cool!
+  - 2. Meine Gefühle sind okay!
+  - 3. Ich liebe mich!
+  - 4. Ich bin schön!
+  ids: []

@@ -1,0 +1,32 @@
+article: '11000284'
+lock-data: false
+data:
+- series: Yakari
+  series-id: yakari
+  episode: Best of Regenbogen
+  release: 1728432000
+  language: de-de
+  category: audio-play
+  runtime: 49
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11000284_1_a-Ar-C6N13.png
+  sample: https://cdn.tonies.de/o/audio_samples/7ca0e711cab199f6da8d095092d425e66d20c8ee87fc07019dab3adb/hoerprobe_11000284_yakari_best_of_regenbogen.mp3
+  web: https://tonies.com/de-de/tonies/yakari/best-of-regenbogen/
+  shop-id: 5d753e40-9aa7-4a40-a483-bf3dec8ebfd8
+  track-desc:
+  - Hilf deinen Feinden - Intro
+  - Hilf deinen Feinden - Teil 1
+  - Hilf deinen Feinden - Teil 2
+  - Hilf deinen Feinden - Teil 3
+  - Hilfe für das Flughörnchen - Intro
+  - Hilfe für das Flughörnchen - Teil 1
+  - Hilfe für das Flughörnchen - Teil 2
+  - Hilfe für das Flughörnchen - Teil 3
+  - Ein Freund für Wirbelwind - Intro
+  - Ein Freund für Wirbelwind - Teil 1
+  - Ein Freund für Wirbelwind - Teil 2
+  - Zwei ganz verschiedene Freunde - Intro
+  - Zwei ganz verschiedene Freunde - Teil 1
+  - Zwei ganz verschiedene Freunde - Teil 2
+  ids: []
