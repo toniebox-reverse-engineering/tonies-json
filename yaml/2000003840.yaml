@@ -27,4 +27,9 @@ data:
   - Kapitel 10
   - Kapitel 11
   - Kapitel 12
-  ids: []
+  ids:
+  - audio-id: 1724328334
+    hash: 80364BD21093C481FFB84A82C647C1A9AEFC244D
+    size: 29303316
+    tracks: 12
+    confidence: 0
