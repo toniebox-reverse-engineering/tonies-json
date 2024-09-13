@@ -7,7 +7,7 @@ data:
   release: 1665014400
   language: de-de
   category: audio-book
-  runtime: 0
+  runtime: 9396
   age: 8
   origin: tunes
   image: https://cdn.tonies.de/o/images/aa30215fe8c6ca1254e2af524dc53229e84bdb21fb73c7e3bdfbbd5f/3_tCdbpbDSq3DF1_rZ/bitte_nicht_offnen_005_magic_530x530.jpg
@@ -73,4 +73,9 @@ data:
   - Kapitel 56
   - Kapitel 57
   - Kapitel 58
-  ids: []
+  ids:
+  - audio-id: 1701244916
+    hash: EC4961E81DB47E76E61A30740F5DC268E3E78D19
+    size: 101281049
+    tracks: 58
+    confidence: 0
