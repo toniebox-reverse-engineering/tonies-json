@@ -23,4 +23,9 @@ data:
   - Der Tanz der Stunden aus der Oper La Gioconda (Amilcare Ponchielli)
   - 'Eine Nacht auf dem kahlen Berge (Modest Mussorgski, Arr: Nikolai Rimski-Korsakow)
     und Ave Maria (Franz Schubert)'
-  ids: []
+  ids:
+  - audio-id: 1678897164
+    hash: 1B6F6DE9E251BC783B70D24847A1BF4A58676917
+    size: 47106618
+    tracks: 7
+    confidence: 0
