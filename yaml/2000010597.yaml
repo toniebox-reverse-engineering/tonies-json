@@ -7,7 +7,7 @@ data:
   release: 1697587200
   language: de-de
   category: audio-play
-  runtime: 0
+  runtime: 4068
   age: 10
   origin: tunes
   image: https://cdn.tonies.de/o/images/a2e4d5c676205a845e29b7950203229d85741be008ebc7581f9b7e0a/3_X2z~-l7QpLBRQwgJ/greg_s_tagebuch_008_echt_ubel_530x530.jpg
@@ -48,4 +48,9 @@ data:
   - Kapitel 31
   - Kapitel 32
   - Kapitel 33
-  ids: []
+  ids:
+  - audio-id: 1701248697
+    hash: 63D3C43E390CEE22C2B7FC6A76DDFAC9242FA63C
+    size: 48621822
+    tracks: 33
+    confidence: 0
