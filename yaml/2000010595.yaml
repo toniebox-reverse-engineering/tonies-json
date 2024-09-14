@@ -7,7 +7,7 @@ data:
   release: 1697587200
   language: de-de
   category: audio-play
-  runtime: 0
+  runtime: 4248
   age: 10
   origin: tunes
   image: https://cdn.tonies.de/o/images/608bbb07560ebecd0c8cbb46880b0ec789eca4b486e5b5f9c729354d/3_jr7DmBYylv~qwNry/greg_s_tagebuch_010_gregs_tagebuch_folge_10___530x530.jpg
@@ -50,4 +50,9 @@ data:
   - Kapitel 33
   - Kapitel 34
   - Kapitel 35
-  ids: []
+  ids:
+  - audio-id: 1701244350
+    hash: A2D574B85BB7091CB39ADFA134F29BEADBA4F7A3
+    size: 50195572
+    tracks: 35
+    confidence: 0
