@@ -7,7 +7,7 @@ data:
   release: 1697587200
   language: de-de
   category: audio-play
-  runtime: 0
+  runtime: 79
   age: 10
   origin: tunes
   image: https://cdn.tonies.de/o/images/676939520de14cf6233a71dd22b3ca9b6b181fa1ac370761cd12b642/3_2GPHq2ZjQsYbw-yf/greg_s_tagebuch_012_gregs_tagebuch_folge_12___530x530.jpg
@@ -54,4 +54,9 @@ data:
   - Kapitel 37
   - Kapitel 38
   - Kapitel 39
-  ids: []
+  ids:
+  - audio-id: 1701240914
+    hash: 5419fdd34b196271c60281ae4468ad21f8880830
+    size: 59498489
+    tracks: 39
+    confidence: 0

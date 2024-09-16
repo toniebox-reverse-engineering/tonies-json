@@ -7,7 +7,7 @@ data:
   release: 1700006400
   language: de-de
   category: audio-play
-  runtime: 0
+  runtime: 76
   age: 10
   origin: tunes
   image: https://cdn.tonies.de/o/images/d9a285c0594e451772a0caaef4832acee4e0527b9d631da9f3210081/3_p7bqJkspmKNJ8wdn/diary_of_a_wimpy_kid_015_gregs_tagebuch_folge_530x530.jpg
@@ -52,4 +52,9 @@ data:
   - Kapitel 35
   - Kapitel 36
   - Kapitel 37
-  ids: []
+  ids:
+  - audio-id: 1701242225
+    hash: 7fcd6588bac6e125d2e4fea13b8e0fcc9a28d097
+    size: 56554945
+    tracks: 37
+    confidence: 0

@@ -7,7 +7,7 @@ data:
   release: 1665014400
   language: de-de
   category: audio-book
-  runtime: 0
+  runtime: 159
   age: 8
   origin: tunes
   image: https://cdn.tonies.de/o/images/e97f42eb50edf54b1d18a37feeafab01b2a285951dd3a89cd5e7729c/3_FJPPsQqjq3Vl8~Tz/bitte_nicht_offnen_004_feurig_530x530.jpg
@@ -56,4 +56,9 @@ data:
   - Kapitel 39
   - Kapitel 40
   - Kapitel 41
-  ids: []
+  ids:
+  - audio-id: 1701248090
+    hash: e60096513fa2aec1c6eb53817174d6d6961fa225
+    size: 102099398
+    tracks: 41
+    confidence: 0
