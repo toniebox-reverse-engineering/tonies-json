@@ -11,7 +11,7 @@ data:
   age: 3
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11001107-Numberblock-61qxoRcV.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/d8fdc66b0c8ca47d96e78cfcf638de7a87858cc5355f0d3d23059fac/numberblocks_space_sample.wav
   web: https://tonies.com/en-gb/clever-tonies/blue-zoo/numberblocks/
   shop-id: 28a6969c-f83b-4bc4-a52d-5bcba69544b1
   track-desc:
