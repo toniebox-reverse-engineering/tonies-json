@@ -15,11 +15,12 @@ data:
   web: https://tonies.com/fr-fr/tonies/disney-encanto/encanto/
   shop-id: d0536670-b258-44fd-ad27-a6ee9a8f3172
   track-desc:
-  - Encanto - Partie 1 (inclus la chanson “La famille Madrigal”)
+  - Encanto - Partie 1 (inclus la chanson “La famille Madrigal” - version abrégée)
   - Encanto - Partie 2
-  - Encanto - Partie 3 (inclus la chanson “J’attends le miracle”)
-  - Encanto - Partie 4 (inclus la chanson “Sous les apparences”)
-  - Encanto - Partie 5 (inclus la chanson “Ne parlons pas de Bruno”)
-  - Encanto - Partie 6 (inclus la chanson “Que sais-je faire d’autre ?”)
-  - Encanto - Partie 7 (inclus la chanson “Pour la vie”)
+  - Encanto - Partie 3 (inclus la chanson “J’attends le miracle” - version abrégée)
+  - Encanto - Partie 4 (inclus la chanson “Sous les apparences” - version abrégée)
+  - Encanto - Partie 5 (inclus la chanson “Ne parlons pas de Bruno” - version abrégée)
+  - Encanto - Partie 6 (inclus la chanson “Que sais-je faire d’autre ?” - version
+    abrégée)
+  - Encanto - Partie 7 (inclus la chanson “Pour la vie” - version abrégée)
   ids: []
