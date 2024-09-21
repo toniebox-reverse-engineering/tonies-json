@@ -54,7 +54,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000690,Disney,disney,Tangled,en-gb,audio-play-songs,stock,968aba4a-efa1-407e-b262-75d0c48413b4,https://tonies.com/en-gb/tonies/disney/tangled/,1,0,0,0
 10000692,Disney,disney,Mickey and Friends,en-gb,audio-book,stock,c1688ad1-0e59-4185-a4e8-95dcccb1a8b5,https://tonies.com/en-gb/tonies/disney/mickey-and-friends/,1,0,0,0
 10000696,Der kleine Wassermann,der-kleine-wassermann,Der kleine Wassermann (Neuauflage 2022),de-de,audio-play,stock,3393ed18-f649-44dc-b56d-96d4d582947d,https://tonies.com/de-de/tonies/der-kleine-wassermann/der-kleine-wassermann-neuauflage-2022/,1,1,0,0
-10000698,Das kleine Gespenst,das-kleine-gespenst,Das kleine Gespenst (Neuauflage 2022),de-de,audio-play,stock,9e74ecc7-ae82-45de-a769-4e80e5eaaa29,https://tonies.com/de-de/tonies/das-kleine-gespenst/das-kleine-gespenst-neuauflage-2022/,1,1,0,0
+10000698,Das kleine Gespenst,das-kleine-gespenst,Das kleine Gespenst (Neuauflage 2022),de-de,audio-play,stock,9e74ecc7-ae82-45de-a769-4e80e5eaaa29,https://tonies.com/de-de/tonies/das-kleine-gespenst/das-kleine-gespenst-neuauflage-2022/,1,1,0,1
 10000699,SpongeBob SquarePants,spongebob-squarepants,Spongebob Squarepants,en-gb,audio-play-songs,stock,7f4df96e-6054-4c1d-af9c-a96f5b44f6db,https://tonies.com/en-gb/tonies/spongebob-squarepants/spongebob-squarepants/,1,0,0,0
 10000705,Sesame Street,sesame-street,Elmo,en-gb,audio-play-songs,stock,c008eeb6-dbac-49af-b247-a0709acf4b9e,https://tonies.com/en-gb/tonies/sesame-street/elmo/,1,0,0,0
 10000710,PJ Masks,pj-masks,Owlette,en-gb,audio-play,stock,1447b567-6e07-42cc-8a3c-38d7a69f3185,https://tonies.com/en-gb/tonies/pj-masks/owlette/,1,1,0,0
@@ -128,7 +128,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001340,Sleepy Friends,sleepy-friends,Bedtime Stories with Sleepy Bear,en-gb,audio-book,stock,bcec13cb-2320-4ef8-a210-657aa394b4fa,https://tonies.com/en-gb/tonies/sleepy-friends/bedtime-stories-with-sleepy-bear/,1,0,0,0
 10001349,Les Copains Du Dodo,sleepy-friends,Doudou Mouton,fr-fr,music,stock,ce11f0b3-a483-4c3f-8117-2cf11d231b74,https://tonies.com/fr-fr/tonies/les-copains-du-dodo/doudou-mouton/,1,1,0,0
 10001366,GoNoodle x tonies® Mindfulness,,,en-us,Tonie,stock,6664641773719,,1,1,0,0
-10001368,Disney,disney,Pocahontas,de-de,audio-play,stock,0d8f51eb-a45d-4058-b082-2d458e852d73,https://tonies.com/de-de/tonies/disney/pocahontas/,1,0,0,0
+10001368,Disney,disney,Pocahontas,de-de,audio-play,stock,0d8f51eb-a45d-4058-b082-2d458e852d73,https://tonies.com/de-de/tonies/disney/pocahontas/,1,1,0,1
 10001377,Lieblings-Märchen,lieblings-maerchen,Rapunzel (Neuauflage 2023),de-de,audio-play,stock,92595e81-6704-4bb4-b4f3-5af0b2fea623,https://tonies.com/de-de/tonies/lieblings-maerchen/rapunzel-neuauflage-2023/,1,1,0,0
 10001388,Cocomelon,cocomelon,CoComelon,en-gb,music,stock,f1ddb020-6f2f-4215-852d-40eb20096b1f,https://tonies.com/en-gb/tonies/cocomelon/cocomelon/,1,0,0,0
 10001397,Schlummerbande,sleepy-friends,"Klassik zum Einschlafen - Träum schön, kleiner Schlummerhase",de-de,music,stock,c8225280-653e-4fa8-904c-566735f77a39,https://tonies.com/de-de/tonies/schlummerbande/klassik-zum-einschlafen-trum-schn-kleiner-schlummerhase/,1,1,0,0
@@ -141,7 +141,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001482,Club Écolo,club-ecolo,Sauvetages en Terre !,fr-fr,audio-play,stock,7bf5eeb6-1e86-4986-ab39-f7e652f30b5d,https://tonies.com/fr-fr/tonies/club-ecolo/sauvetages-en-terre/,1,0,0,0
 10001484,Lieblings-Märchen,lieblings-marchen,Rotkäppchen (Neuauflage 2023),de-de,audio-book,stock,231a87e1-6a25-4e2f-ba6e-1a886c7c577d,https://tonies.com/de-de/tonies/lieblings-maerchen/rotkppchen-neuauflage-2023/,1,1,0,0
 10001485,Disney,disney,Buh machst du! & 3 weitere Geschichten,de-de,audio-play,stock,85a858dd-5d83-473b-bf02-bbceabc2dfa6,https://tonies.com/de-de/tonies/disney/buh-machst-du-3-weitere-geschichten/,1,1,0,0
-10001489,Die Eule mit der Beule,die-eule-mit-der-beule,"Gute Nacht, kleine Eule",de-de,audio-book-songs,stock,70084fb9-217c-40e2-965d-72882bcb1f14,https://tonies.com/de-de/tonies/die-eule-mit-der-beule/gute-nacht-kleine-eule/,1,0,0,0
+10001489,Die Eule mit der Beule,die-eule-mit-der-beule,"Gute Nacht, kleine Eule",de-de,audio-book-songs,stock,70084fb9-217c-40e2-965d-72882bcb1f14,https://tonies.com/de-de/tonies/die-eule-mit-der-beule/gute-nacht-kleine-eule/,1,0,0,1
 10001496,Ma Pause Zen,ma-pause-zen,Cours Yoga De Sergio Lama,fr-fr,audio-play,stock,dcb58b8b-ee27-467f-a584-9ec14b1655a0,https://tonies.com/fr-fr/tonies/ma-pause-zen/cours-yoga-de-sergio-lama/,1,0,0,0
 10001502,Disney,disney,Mulan,fr-fr,audio-play-songs,stock,1736ecb5-2f5d-4ef3-bc8e-4b4ae7760da3,https://tonies.com/fr-fr/tonies/disney/mulan/,1,0,0,0
 10001505,Molang,molang,Molang 2,fr-fr,audio-play,stock,31332cee-e470-43ab-960b-34ec742b6a03,https://tonies.com/fr-fr/tonies/molang/molang-2/,1,0,0,1
@@ -229,10 +229,10 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000224,Paw Patrol,paw-patrol,Rocky,en-gb,audio-play,stock,4974cfd8-9943-41b0-bb38-0f8f30cfead3,https://tonies.com/en-gb/tonies/paw-patrol/rocky/,1,0,0,0
 11000226,Blippi,blippi,Blippi,en-gb,audio-play,stock,0e937fef-f9ee-4d53-b7e4-4abc9edc7c99,https://tonies.com/en-gb/tonies/blippi/blippi/,1,0,0,0
 11000237,Care Bears,care-bears-2,Cheer Bear,en-gb,audio-play-songs,stock,39a3a614-4d62-429a-9661-f6f9b2917c0b,https://tonies.com/en-gb/tonies/care-bears-2/cheer-bear/,1,0,0,0
-11000250,Schüttel den Apfelbaum,schuettel-den-apfelbaum-schaukel-das-schaf,Schüttel den Apfelbaum & Schaukel das Schaf,de-de,audio-play,stock,ee152cd2-1312-4e82-bc86-c8935bda1c95,https://tonies.com/de-de/tonies/schuettel-den-apfelbaum/schuttel-den-apfelbaum-apfelbaum-schaukel-das-schaf-dach/,1,0,0,1
+11000250,Schüttel den Apfelbaum,schuettel-den-apfelbaum-schaukel-das-schaf,Schüttel den Apfelbaum & Schaukel das Schaf,de-de,audio-play,stock,ee152cd2-1312-4e82-bc86-c8935bda1c95,https://tonies.com/de-de/tonies/schuettel-den-apfelbaum/schuttel-den-apfelbaum-apfelbaum-schaukel-das-schaf-dach/,1,0,0,2
 11000254,Paw Patrol,paw-patrol,Tracker,en-gb,audio-play,stock,12e48faa-ff7d-4e3f-9cbe-9bb269e7dbff,https://tonies.com/en-gb/tonies/paw-patrol/tracker/,1,0,0,0
 11000265,King of Kindergarten,,,en-us,Tonie,stock,8260127948951,,1,0,0,1
-11000283,Leos Tag,leos-tag,Es ist so weit – Badezeit!,de-de,audio-play-songs,stock,69747609-f08f-49e7-a583-9d92cba0d2d6,https://tonies.com/de-de/tonies/leos-tag/es-ist-so-weit-badezeit/,1,1,0,0
+11000283,Leos Tag,leos-tag,Es ist so weit – Badezeit!,de-de,audio-play-songs,stock,69747609-f08f-49e7-a583-9d92cba0d2d6,https://tonies.com/de-de/tonies/leos-tag/es-ist-so-weit-badezeit/,1,1,0,1
 11000284,Yakari,yakari,Best of Regenbogen,de-de,audio-play,stock,5d753e40-9aa7-4a40-a483-bf3dec8ebfd8,https://tonies.com/de-de/tonies/yakari/best-of-regenbogen/,1,0,0,0
 11000296,Petit Malabar,petit-malabar,Science+Fiction=Aventure,fr-fr,audio-play,stock,ec75815f-d034-4566-90b5-8e3ac34c2be1,https://tonies.com/fr-fr/tonies/petit-malabar/science-fiction-aventure/,1,0,0,0
 11000297,Oggy Oggy,oggy-oggy,"1, 2, 3, Prêts ? Partez !",fr-fr,audio-play,stock,cd43f1f7-1d30-4d25-b111-774972316fcf,https://tonies.com/fr-fr/tonies/oggy-oggy/1-2-3-prets-partez/,1,0,0,0
@@ -294,7 +294,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000628,Petit Ours Brun,petit-ours-brun-2,Petit Ours Brun (Vol. 2),fr-fr,audio-book,stock,0de86d8f-849e-49d2-8eba-b20712eabd46,https://tonies.com/fr-fr/tonies/petit-ours-brun/petit-ours-brun-vol-2/,1,0,0,0
 11000629,Gus Le Chevalier Minus,gus,Gus,fr-fr,audio-play,stock,eaf4efc3-3b94-407d-bfb2-a04ba8f65803,https://tonies.com/fr-fr/tonies/gus/gus/,1,0,0,0
 11000647,PAW Patrol Jungle Pups,,Skye,en-us,Tonie,stock,8473934659735,,1,0,0,0
-11000677,Hurra Kinderlieder,hurra-kinderlieder,Hurra Kinderlieder - Best of,de-de,music,stock,f5bd679e-1303-4627-b63d-dc1969a37b0a,https://tonies.com/de-de/tonies/hurra-kinderlieder/hurra-kinderlieder-best-of-tbd-dach/,1,0,0,0
+11000677,Hurra Kinderlieder,hurra-kinderlieder,Hurra Kinderlieder - Best of,de-de,music,stock,f5bd679e-1303-4627-b63d-dc1969a37b0a,https://tonies.com/de-de/tonies/hurra-kinderlieder/hurra-kinderlieder-best-of-tbd-dach/,1,0,0,1
 11000720,Schlummerbande,sleepy-friends,Nachtlicht Tonie - Schlummerbär,de-de,music,stock,ebf7dac5-8922-4fe7-a165-77e85d8fb062,https://tonies.com/de-de/tonies/schlummerbande/nachtlicht-tonie-schlummerbr/,1,0,0,0
 11000739,Kung Fu Panda,kung-fu-panda,Kung Fu Panda,de-de,audio-play,stock,ad0985a4-9351-4345-a978-877693353487,https://tonies.com/de-de/tonies/kung-fu-panda/kung-fu-panda/,1,0,0,0
 11000756,herrH,herrh,"Emma, die Ente – Das Beste von herrH",de-de,music,stock,2b8b3222-95ad-4c42-9469-001926cc1514,https://tonies.com/de-de/tonies/herrh/emma-die-ente-das-beste-von-herrh/,1,1,0,0
