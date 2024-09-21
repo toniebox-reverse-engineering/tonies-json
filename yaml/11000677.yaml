@@ -40,4 +40,9 @@ data:
   - Hurra Kinderlieder - Best Of – Ich mach das
   - Hurra Kinderlieder - Best Of – Der kleine Tausendfüßler
   - Hurra Kinderlieder - Best Of – Bitte nicht die Bürste
-  ids: []
+  ids:
+  - audio-id: 1722605607
+    hash: 47287d5be458618b4ee2ce2941a2e09b9aae10f9
+    size: 42773529
+    tracks: 25
+    confidence: 1

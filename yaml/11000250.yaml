@@ -39,4 +39,9 @@ data:
   - Bei Manfred Maulwurf - Teil 9
   - Wir Haben Allen Geholfen - Teil 10
   - Schaukel das Schaf - Outtro
-  ids: []
+  ids:
+  - audio-id: 1717684919
+    hash: 054397c609b3c2867547fdd24bacec112ebe3840
+    size: 36215723
+    tracks: 24
+    confidence: 1

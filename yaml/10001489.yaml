@@ -27,4 +27,9 @@ data:
   - Das Waldorchester-Lied (Lied)
   - Pssst! Die kleine Eule will schlafen (Lied)
   - 'Gute Nacht, kleine Eule (Lied: Instrumental-Version)'
-  ids: []
+  ids:
+  - audio-id: 1679496135
+    hash: 4c07ca6bec61d74c58a6f0891d2ec8c14d1556af
+    size: 36535570
+    tracks: 12
+    confidence: 1
