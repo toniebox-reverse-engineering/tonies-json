@@ -22,4 +22,9 @@ data:
   - 'Kapitel 05: Soul'
   - 'Kapitel 06: Soul'
   - 'Kapitel 07: Soul'
-  ids: []
+  ids:
+  - audio-id: 1721192977
+    hash: 123f923cb28f787545f237b3fb77f5f86a2ac848
+    size: 53709902
+    tracks: 7
+    confidence: 0
