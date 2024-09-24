@@ -7,11 +7,11 @@ data:
   release: 1395705600
   language: de-de
   category: audio-play
-  runtime: 0
+  runtime: 2269
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_43653b1a77c8a2125a944d49f7f01eb33afac7e9c7fb63808c620253/3_V.6fCb2~X1XC4DH-/die_olchi_detektive_006_gefangen_im_auge_von_l_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/3245b3effb2a91dbe73b0b4c10d7a3f99d97a6228495dc5d88aa189e/9783837364187_preview.mp3
   web: https://tonies.com/de-de/audio-content/die-olchi-detektive/gefangen-im-auge-von-london/
   shop-id: 9557e560-a41f-403a-a772-de01ebf47b10
   track-desc:

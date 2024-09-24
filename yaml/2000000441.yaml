@@ -7,11 +7,11 @@ data:
   release: 1388966400
   language: de-de
   category: audio-play
-  runtime: 0
+  runtime: 2854
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_b3123344836faf0f19559791c1ac1df84940e20deb9ffc77106f3832/3_pXBhsRq83Pg.HHPB/die_olchi_detektive_004_im_einsatz_der_konigin_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/5e59a9455c7552aa91b88f83b8f6647c2471c7056d8a7655b108e237/9783837364163_preview.mp3
   web: https://tonies.com/de-de/audio-content/die-olchi-detektive/im-einsatz-der-konigin/
   shop-id: f249371b-8187-4e67-91bb-8eda51d503cd
   track-desc:

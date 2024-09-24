@@ -11,7 +11,7 @@ data:
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_f9405ca42c90c37f8371b06b09b0d89dc5239f08e5fd8fa8ab36d78c/3_zGQqB50-y84DMNSd/die_olchi_detektive_002_rote_karte_fur_halunke_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/b631a0ad07c85f7366f719fd4dd663bea912a7d230aeaa6f4984fa64/9783837364149_preview.mp3
   web: https://tonies.com/de-de/audio-content/die-olchi-detektive/rote-karte-fur-halunken/
   shop-id: 05887bfe-044c-4daf-a101-d59921437b12
   track-desc:

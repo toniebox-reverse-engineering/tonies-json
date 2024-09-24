@@ -7,11 +7,11 @@ data:
   release: 1377993600
   language: de-de
   category: audio-play
-  runtime: 0
+  runtime: 7557
   age: 6
   origin: tunes
   image: https://cdn.tonies.de/o/images/e4532acaa3be623bee4d78610bd8e88d1d184cfa6a5bf8ddb4f7eddb/3_K0br.Ss.Hfs_th8D/die_olchis_die_olchis_und_die_gully_detektive_vo_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/cc324fc4547b9656b08ba4440ca66d82d9f79abedee3d8f7ea295bc8/9783837363906_preview.mp3
   web: https://tonies.com/de-de/audio-content/die-olchis/die-olchis-und-die-gully-detektive-von-london/
   shop-id: eaf88964-50aa-4d00-9266-1bed2ac7d2b0
   track-desc:
