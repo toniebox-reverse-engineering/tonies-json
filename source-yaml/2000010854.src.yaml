@@ -7,10 +7,10 @@ data:
   release: ''
   language: ''
   category: ''
-  runtime: ''
+  runtime: tonies-shopapi-de-de,,
   age: ''
   origin: ''
-  image: tonies-shopapi-de-de,,
+  image: ''
   sample: ''
   web: ''
   shop-id: ''
