@@ -1,0 +1,23 @@
+article: '2000011181'
+lock-data: false
+data:
+- series: Willa und Schnüff
+  series-id: willa-und-schnueff
+  episode: Die verlorene Bibliothek der Träume
+  release: 1727222400
+  language: de-de
+  category: audio-book
+  runtime: 2220
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_08e4fa53a55753a04eb9c0928eaacf159c26fee2bbf05c8e4a4d9aba/3_bhDjS1FKLdHq-0_./willa_und_schnuff_die_verlorene_bibliothek_der_t_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/da69e7eca4210caae5e53f099ffdba77405346e04683596cd1234d11/willa_und_schnuff_die_verlorene_bibliothek_der_traume_30sec.wav
+  web: https://tonies.com/de-de/audio-content/willa-und-schnueff/die-verlorene-bibliothek-der-traume/
+  shop-id: a4ee6282-4ecf-4b20-abeb-f955596bf9eb
+  track-desc:
+  - Die verlorene Bibliothek der Träume (Teil 01)
+  - Die verlorene Bibliothek der Träume (Teil 02)
+  - Die verlorene Bibliothek der Träume (Teil 03)
+  - Die verlorene Bibliothek der Träume (Teil 04)
+  - Die verlorene Bibliothek der Träume (Teil 05)
+  ids: []
