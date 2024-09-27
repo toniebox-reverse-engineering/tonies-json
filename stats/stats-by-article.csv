@@ -1228,6 +1228,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000471,Moshi,moshi,Fluttercup,en-gb,audio-play-songs,stock,f9ef304c-0c0c-4bd7-a99d-3c846f396e89,https://tonies.com/en-gb/tonies/moshi/fluttercup/,1,1,1,1
 11000472,Moshi,moshi,Shishi,en-gb,audio-play-songs,stock,f1749271-10c5-455f-825e-0a57650e9aaf,https://tonies.com/en-gb/tonies/moshi/shishi/,1,0,0,0
 11000473,Moshi,moshi,Chirpy,en-gb,audio-play-songs,stock,fcc84f03-d079-4668-a90e-fe0e5c4ee414,https://tonies.com/en-gb/tonies/moshi/chirpy/,1,0,0,0
+11000476,Alma and How She Got Her Name,,,en-us,Tonie,stock,8517907742871,,1,0,0,0
 11000477,Dino Ranch,dino-ranch,Dino Ranch,en-gb,audio-play,stock,a5735a43-b5ad-4fde-b074-d0ff067f7c40,https://tonies.com/en-gb/tonies/dino-ranch/dino-ranch/,1,1,1,1
 11000479,PAW Patrol,,Liberty,en-us,Tonie,stock,8041408004247,,1,1,1,2
 11000480,Pretzel and the Puppies,,,en-us,Tonie,stock,8143490810007,,1,1,1,1
@@ -1247,6 +1248,8 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000530,PAW Patrol,paw-patrol,Liberty findet einen neuen Freund,de-de,audio-play,stock,2fbcb41a-bd26-42d4-bfd9-b988c5aad7e1,https://tonies.com/de-de/tonies/paw-patrol/paw-patrol-liberty-findet-einen-neuen-freund/,1,1,1,3
 11000538,Thomas and Friends,thomas-seine-freunde,All Engines Go: Percy,en-gb,audio-play,stock,bad32e9e-837a-4eed-9c2c-a723541efe67,https://tonies.com/en-gb/tonies/thomas-and-friends/all-engines-go-percy/,1,2,2,2
 11000540,Trolls,,Viva,en-us,Tonie,stock,7806499094679,,1,1,1,1
+11000541,Disney,,the Muppets: Kermit the Frog,en-us,Tonie,stock,8473935380631,,1,0,0,0
+11000542,Disney,,The Muppets: Miss Piggy,en-us,Tonie,stock,8473936429207,,1,0,0,0
 11000559,Disney,disney,Wish,en-gb,audio-play-songs,stock,e21017ba-d2cf-4f89-bdef-81dde36a4458,https://tonies.com/en-gb/tonies/disney/wish/,1,0,0,0
 11000560,Alejandro the Armadillo,,,en-us,Tonie,stock,8491398594711,,1,0,0,0
 11000567,Wow in the World,,Reggie,en-us,Tonie,stock,8260132044951,,1,0,0,0
@@ -1301,6 +1304,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000846,Toy Story,disney-toy-story,Toy Story 3,de-de,audio-play,stock,eb887c78-9469-4561-8adf-36a25b1f89df,https://tonies.com/de-de/tonies/disney-toy-story/toy-story-3/,1,0,0,0
 11000851,Animal World,animal-world,Animal World: Record Breakers,en-gb,audio-play-educational,stock,a649cba3-6c38-45af-b291-072814495008,https://tonies.com/en-gb/clever-tonies/animal-world/record-breakers/,1,4,4,4
 11000852,Doggyland,doggyland,Doggyland,en-gb,music,stock,c069ff11-14ed-4c32-96f0-1ce2e8dc3d3c,https://tonies.com/en-gb/tonies/doggyland/doggyland-doggyland-uk/,1,1,1,1
+11000855,Mo Willems' Pigeon Series,,,en-us,Tonie,stock,8558127120535,,1,0,0,0
 11000859,Clever Tonies Set,,Cool Jobs,en-us,Tonie,stock,8134563299479,,1,4,4,4
 11000861,Rebel Girls,rebel-girls,Rebel Girls,en-gb,audio-play,stock,111a9553-3b9a-4514-856d-ed9f1f409eb2,https://tonies.com/en-gb/clever-tonies/rebel-girls/rebel-girls/,1,0,0,0
 11000863,Cool Jobs,coole-jobs,Cool Jobs,en-gb,audio-play,stock,e7cabcaf-12a3-436b-96f2-dfeb05d892c4,https://tonies.com/en-gb/clever-tonies/cool-jobs/cool-jobs/,1,0,0,0
@@ -1331,11 +1335,16 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11001145,PAW Patrol,paw-patrol,Jungle Pups: Chase,de-de,audio-play,stock,39577b9f-886a-4897-9078-e1bfbd04c0fa,https://tonies.com/de-de/tonies/paw-patrol/jungle-pups-chase/,1,1,0,0
 11001146,PAW Patrol,paw-patrol,Jungle Pups: Skye,de-de,audio-play,stock,9b93c26e-c679-43c9-807f-ac11d063055a,https://tonies.com/de-de/tonies/paw-patrol/jungle-pups-skye/,1,1,0,0
 11001166,Les Copains Du Dodo,sleepy-friends,Tonie-Veilleuse - Doudou Mouton (Édition 2024),fr-fr,music,stock,c8f16056-62bc-4554-b80c-4764ae16e439,https://tonies.com/fr-fr/tonies/les-copains-du-dodo/tonie-veilleuse-doudou-mouton/,1,0,0,0
+11001285,Sleepy Friends,,Sleepy Sheep: Lullabies from the Meadow,en-us,Tonie,stock,8539707605143,,1,0,0,0
 11001333,Lichterkinder,lichterkinder-2,Lernen mit LIKI und LUMI – Set,de-de,music,stock,8aae4625-6a11-4341-858a-3c6c55bb011c,https://tonies.com/de-de/clever-tonies/lichterkinder/lernen-mit-liki-und-lumi-set/,1,0,0,0
 11001338,Bibibiber hat da mal 'ne Frage,bibibiber,Warum leuchten Sterne?,de-de,audio-play-songs,stock,ecb1db7c-6cad-4706-85a1-1c95c6300299,https://tonies.com/de-de/clever-tonies/bibibiber/warum-leuchten-sterne/,1,0,0,0
+11001363,Disney,,& Pixar: Finding Dory,en-us,Tonie,stock,8517893259415,,1,0,0,0
 11001469,Tierisch!,tierisch,Tierisch! Extrem - Set,de-de,audio-play,stock,3a98d904-96be-4548-ab0a-73407343f8d9,https://tonies.com/de-de/clever-tonies/tierisch/tierisch-extrem-set/,1,0,0,0
 11001851,Disney,,"Bundle with Tigger, Woody & Stitch - Red",en-us,Tonie,stock,8481763459223,,1,0,0,0
 11001852,Disney,,"Bundle with Belle, Cinderella & Ariel - Pink",en-us,Tonie,stock,8482426847383,,1,0,0,0
+11001865,Disney,,Enredados,en-us,Tonie,stock,8537910837399,,1,0,0,0
+11001866,Disney,,La Sirenita,en-us,Tonie,stock,8517937987735,,1,0,0,0
+11001867,Disney,,El Rey León,en-us,Tonie,stock,8537910968471,,1,0,0,0
 11001986,MIRA und das fliegende Haus,mira,MIRA und das fliegende Haus - Set,de-de,audio-play,stock,6e610a26-5c31-414a-acec-790d3d1fe2d4,https://tonies.com/de-de/clever-tonies/mira/mira-und-das-fliegende-haus-set/,1,0,0,0
 11002140,Potty Training,,,en-us,Tonie,stock,8134364266647,,1,0,0,0
 11002237,Sam's Club Disney Bundle with Red Toniebox,,,en-us,Tonie,stock,8533490204823,,1,0,0,0
