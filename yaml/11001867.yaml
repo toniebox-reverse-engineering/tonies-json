@@ -1,0 +1,18 @@
+article: '11001867'
+lock-data: false
+data:
+- series: Disney
+  series-id: null
+  episode: El Rey León
+  release: 1727439095
+  language: en-us
+  category: Tonie
+  runtime: 0
+  age: 99
+  origin: stock
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-LionKing-Transparent.png?v=1713265809
+  sample: null
+  web: null
+  shop-id: '8537910968471'
+  track-desc: []
+  ids: []

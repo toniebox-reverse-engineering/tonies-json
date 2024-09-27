@@ -1,0 +1,18 @@
+article: '11000542'
+lock-data: false
+data:
+- series: Disney
+  series-id: null
+  episode: 'The Muppets: Miss Piggy'
+  release: 1727438930
+  language: en-us
+  category: Tonie
+  runtime: 0
+  age: 99
+  origin: stock
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tonies-PDP-Assets-miss_piggy-single.jpg?v=1727190833
+  sample: null
+  web: null
+  shop-id: '8473936429207'
+  track-desc: []
+  ids: []
