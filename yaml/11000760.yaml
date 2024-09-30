@@ -1,0 +1,20 @@
+article: '11000760'
+lock-data: false
+data:
+- series: Calendrier De L'Avent
+  series-id: calendrier-de-l-avent
+  episode: Un Noël Magique Pour Les Amis De La Forêt
+  release: 1727740800
+  language: fr-fr
+  category: audio-play
+  runtime: 116
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/50006305-Tonie_Shado-eYVZXUA0.png
+  sample: https://cdn.tonies.de/o/audio_samples/89cb15e54bc131147cfd7c760133d9adb4205e0bfe1fe2ea9460bb56/11000760_calendrierhusky_extrait_site.mp3
+  web: https://tonies.com/fr-fr/tonies/calendrier-de-l-avent/un-noel-magique-pour-les-amis-de-la-foret/
+  shop-id: c7996b2b-b5e5-44aa-8002-e455517d2c25
+  track-desc:
+  - Introduction
+  - Présentation d'Anouk
+  ids: []
