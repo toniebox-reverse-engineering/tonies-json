@@ -1,0 +1,27 @@
+article: '11000329'
+lock-data: false
+data:
+- series: Secrets D'Aventure
+  series-id: secrets-daventure
+  episode: Sherlock Holmes
+  release: 1727913600
+  language: fr-fr
+  category: audio-play
+  runtime: 67
+  age: 6
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51001083-Tonie_Shado-cA2e-oNg.png
+  sample: https://cdn.tonies.de/o/audio_samples/15949cbc131c19fab300b365acdbe478477729152beb408670ddd193/11000329_secrets_d_aventure_sherlock_holmes__extrait_site.mp3
+  web: https://tonies.com/fr-fr/tonies/secrets-daventure/sherlock-holmes/
+  shop-id: ace92292-9598-4dab-a391-2b77e64b691a
+  track-desc:
+  - Introduction
+  - Énigme 1
+  - Fun Fact 1
+  - Énigme 2
+  - Fun Fact 2
+  - Énigme 3
+  - Fun Fact 3
+  - Énigme 4
+  - Secrets d'aventures - Générique
+  ids: []

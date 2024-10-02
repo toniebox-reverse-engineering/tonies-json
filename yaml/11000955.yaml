@@ -1,0 +1,32 @@
+article: '11000955'
+lock-data: false
+data:
+- series: Les Copains Du Dodo
+  series-id: les-copains-du-dodo
+  episode: Doudou Mouton Noir
+  release: 1727913600
+  language: fr-fr
+  category: music
+  runtime: 140
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51004463-Tonie_Shado-VrFSLRa1.png
+  sample: https://cdn.tonies.de/o/audio_samples/67fa5d61a776804ae47a01b4c4f5ce30b66c8261516658e1ea0b8cd8/11000955_sleepy_sheep_2_extraitmp3.mp3
+  web: https://tonies.com/fr-fr/tonies/les-copains-du-dodo/doudou-mouton-noir/
+  shop-id: 3e7bfe3a-44c8-4fe1-a65f-d2554d5cbd92
+  track-desc:
+  - Berceuse champêtre 1
+  - Berceuse champêtre 2
+  - Berceuse champêtre 3
+  - Berceuse champêtre 4
+  - Berceuse champêtre 5
+  - Berceuse champêtre 6
+  - Berceuse champêtre 7
+  - Berceuse champêtre 8
+  - Berceuse champêtre 9
+  - Berceuse champêtre 10
+  - Berceuse champêtre 11
+  - Berceuse champêtre 12
+  - Berceuse champêtre 13
+  - Berceuse champêtre 14
+  ids: []

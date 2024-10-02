@@ -1,0 +1,24 @@
+article: '11001565'
+lock-data: false
+data:
+- series: Lilo & Stitch
+  series-id: disney-lilo-stitch
+  episode: Lilo Et Stitch
+  release: 1727913600
+  language: fr-fr
+  category: audio-play
+  runtime: 58
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/98-1365-Tonie_Shadow-erUFvbM6.png
+  sample: https://cdn.tonies.de/o/audio_samples/ba0482dd6a1626f0cdcb6b9c43a9b9178852b508d68947ccdef09dc1/stitch_extraitmp3.mp3
+  web: https://tonies.com/fr-fr/tonies/disney-lilo-stitch/lilo-et-stitch/
+  shop-id: ddf7b05d-0e3f-44ca-a94f-aa64e720dfd3
+  track-desc:
+  - Lilo & Stitch - Partie 1
+  - Lilo & Stitch - Partie 2
+  - Lilo & Stitch - Partie 3
+  - Lilo & Stitch - Partie 4
+  - Lilo & Stitch - Partie 5
+  - Lilo & Stitch - Partie 6
+  ids: []

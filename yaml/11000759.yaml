@@ -1,0 +1,30 @@
+article: '11000759'
+lock-data: false
+data:
+- series: Mes Comptines Préférées
+  series-id: mes-comptines-preferees
+  episode: Pour Frissonner
+  release: 1727913600
+  language: fr-fr
+  category: music
+  runtime: 34
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/98-1102-Favourite_Ch-lV4Nq6fK.png
+  sample: https://cdn.tonies.de/o/audio_samples/68ecfe3aa31af60e4413e508d2f5cff14f587005db312d99b58c8823/mcp_pour_frissonner_extraitmp3.mp3
+  web: https://tonies.com/fr-fr/tonies/mes-comptines-preferees/pour-frissonner/
+  shop-id: 371b7a42-ae85-4e5f-a42e-f9b87233ff37
+  track-desc:
+  - Le soir d'Halloween
+  - Le grand bal d'Halloween
+  - Jolie citrouille d'Halloween
+  - La course aux bonbons
+  - La danse des zombies
+  - La maison hantée
+  - Toccata et fugue
+  - La chauve-souris
+  - Être une sorcière
+  - Le fantôme du manoir
+  - Le cri du loup
+  - Cinq petites citrouilles
+  ids: []

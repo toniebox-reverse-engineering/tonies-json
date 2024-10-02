@@ -1,0 +1,28 @@
+article: '10001917'
+lock-data: false
+data:
+- series: Simon
+  series-id: simon
+  episode: Capitaine Lapin
+  release: 1727913600
+  language: fr-fr
+  category: audio-play
+  runtime: 46
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/50006021-Tonie_Shado-JxqDSEkn.png
+  sample: https://cdn.tonies.de/o/audio_samples/3609c3d38a87d36f3655e38a9f1a88b8bb6fada8cd4186844da9f16c/02_10001917_simon_superlapin_gaspard_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/simon/capitaine-lapin/
+  shop-id: aa3825eb-d215-4c36-ad4d-5c58a18884ce
+  track-desc:
+  - Générique
+  - Sauvetage à la plage
+  - La dispute des super héros
+  - La sieste du dragon
+  - Le foot des super héros
+  - 'Mission : retrouver les clés !'
+  - Mission pilotage
+  - Mission crabe
+  - Le duel de grimaces
+  - Le méga robot qui sait tout
+  ids: []

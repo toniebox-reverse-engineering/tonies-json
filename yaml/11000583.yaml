@@ -1,0 +1,28 @@
+article: '11000583'
+lock-data: false
+data:
+- series: Alix Pix 2
+  series-id: alix-pix-2
+  episode: Mystères, Petits Pièges Et Sortilèges
+  release: 0
+  language: fr-fr
+  category: audio-play
+  runtime: 66
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51003494-Tonie_Shado-0HqVXf-3.png
+  sample: https://cdn.tonies.de/o/audio_samples/34f9687edb5c8ebe2a6fc6414867331a884c74933a609107ffc1bf0a/11000583_alix_pix_2_extraitmp3.mp3
+  web: https://tonies.com/fr-fr/tonies/alix-pix-2/mysteres-petits-pieges-et-sortileges/
+  shop-id: d75a824b-f197-44c2-8c0a-b41bc691b8dc
+  track-desc:
+  - Introduction
+  - Chapitre 1 - Un nouveau pouvoir
+  - Chapitre 2 - De mystérieux symboles
+  - Chapitre 3 - Au cœur du pentacle
+  - Chapitre 4 - Le grand départ
+  - Chapitre 5 - Une rencontre inattendue
+  - Chapitre 6 - Bienvenue à Mortedouve !
+  - Chapitre 7 - Une nuit agitée
+  - Chapitre 8 - D'émouvantes retrouvailles
+  - Chapitre 9 - Trahison
+  ids: []

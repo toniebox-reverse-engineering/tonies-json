@@ -1,0 +1,22 @@
+article: '11001147'
+lock-data: false
+data:
+- series: Spidey Et Ses Amis Extraordinaires
+  series-id: spidey-et-ses-amis-extraordinaires
+  episode: Black Panther
+  release: 1727913600
+  language: fr-fr
+  category: audio-play-songs
+  runtime: 36
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/50003790-Tonie_Shado-ifsCFMxa.png
+  sample: https://cdn.tonies.de/o/audio_samples/4eb41962ff40219ddb3ca93067569a8af97d760f5bc534e73ad8de70/11001147_spidey_et_ses_amis_extraordinaires_black_panther_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/spidey-et-ses-amis-extraordinaires/black-panther/
+  shop-id: 8e79495a-72ac-4a68-9c28-f7e9cad0bd36
+  track-desc:
+  - Spidey et ses amis extraordinaires - Générique (chanson)
+  - Dame nature en danger
+  - À vos toiles ! (chanson)
+  - L’équipe Spidey n’abandonne jamais (chanson)
+  ids: []
