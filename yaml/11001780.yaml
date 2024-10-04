@@ -1,0 +1,36 @@
+article: '11001780'
+lock-data: false
+data:
+- series: Favourite Children's Songs
+  series-id: favourite-children-s-songs
+  episode: Christmas Songs and Carols 2 (2024 edition)
+  release: 1728864000
+  language: en-gb
+  category: music
+  runtime: 58
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/10000591%201-j-m03GNy70.png
+  sample: https://cdn.tonies.de/o/audio_samples/a0612ef67e77b25f4e878907536ac242adad141c4bc45fb1c1aba9ee/11001780_christmas_songs_and_carols_2_relaunchsample.wav
+  web: https://tonies.com/en-gb/tonies/favourite-children-s-songs/christmas-songs-and-carols-2-relaunch/
+  shop-id: b4f649d4-01dc-4a7f-9df3-5660bf2e383a
+  track-desc:
+  - 'SONG: Oh Christmas Tree (Trance inspired)'
+  - 'SONG: The Holly & the Ivy (Dubstep)'
+  - 'SONG: God Rest Ye Merry Gentlemen (Garage)'
+  - 'SONG: Away in a Manger (Drum ''n Bass)'
+  - 'SONG: We Three Kings (Garage)'
+  - 'SONG: Silent Night (Classic Rave)'
+  - 'SONG: Once in Royal David''s City (Rave)'
+  - 'SONG: Good King Wenceslas (Happy Hardcore)'
+  - 'SONG: Oh Holy Night (Trance)'
+  - 'SONG: Here We Come A-Carolling (Drum ''n Bass)'
+  - 'SONG:  While Shepherds Watched their Flocks by Night (Trance)'
+  - 'SONG: I Heard the Bells (Trance)'
+  - 'SONG: Oh Come All Ye Faithful (House)'
+  - 'SONG: I Saw 3 Ships (Electro House)'
+  - 'SONG: Up on the Rooftop (Classic Rave)'
+  - 'SONG: It Came Upon the Midnight Clear (Drum ''n Bass)'
+  - 'SONG:  In the Bleak Midwinter (Happy Hardcore)'
+  - 'SONG:  Auld Lang Syne (House)'
+  ids: []

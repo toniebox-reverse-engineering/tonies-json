@@ -1,0 +1,23 @@
+article: '11000522'
+lock-data: false
+data:
+- series: In the Night Garden
+  series-id: in-the-night-garden
+  episode: Bedtime with Upsy Daisy
+  release: 1728864000
+  language: en-gb
+  category: audio-play
+  runtime: 45
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11000522_1_landscape-vbo1Buvw.png
+  sample: null
+  web: https://tonies.com/en-gb/tonies/in-the-night-garden/bedtime-with-upsy-daisy/
+  shop-id: b7a1ae7f-1662-4251-a830-12d5ba0d7149
+  track-desc:
+  - 'STORY: The Sweetest Smell'
+  - 'STORY: A Hug'
+  - 'STORY: Bedtime Stargazing'
+  - 'STORY: Let''s Relax'
+  - 'STORY: Peaceful Sounds'
+  ids: []

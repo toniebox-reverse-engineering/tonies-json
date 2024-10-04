@@ -1,0 +1,25 @@
+article: '11000235'
+lock-data: false
+data:
+- series: Pip and Posy
+  series-id: pip-and-posy
+  episode: Pip
+  release: 1728864000
+  language: en-gb
+  category: audio-play
+  runtime: 60
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11000235_1_landscape-L9ur1ROT.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/65725fb4a146a47fa85ccd7405c637e51e00f4b8441da074ddd78f07/pip_posy__pip_sample.wav
+  web: https://tonies.com/en-gb/tonies/pip-and-posy/pip/
+  shop-id: 9fc5d288-0232-4b10-bca2-704e752b86ac
+  track-desc:
+  - 'STORY: Lucky Stick'
+  - 'STORY: A Good Scare'
+  - 'STORY: Bob the Balloon'
+  - 'STORY: Croc Attack'
+  - 'STORY: Star Search'
+  - 'STORY: Swapsies'
+  - 'QUIZ: The Music Quiz'
+  ids: []
