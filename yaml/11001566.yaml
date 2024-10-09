@@ -1,0 +1,24 @@
+article: '11001566'
+lock-data: false
+data:
+- series: Scooby-Doo
+  series-id: scooby
+  episode: Scooby-Doo
+  release: 1730851200
+  language: de-de
+  category: audio-play
+  runtime: 88
+  age: 6
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11001566_1_a-0Mxgav_D.png
+  sample: https://cdn.tonies.de/o/audio_samples/0c3e6f76ccd6afbfe95b80ce502a1cabd1c6d9b036eb91925e4dbfa1/scooby_doo_horprobe.wav
+  web: https://tonies.com/de-de/tonies/scooby/scooby-doo-scooby-doo/
+  shop-id: 78c4b207-29f9-42b0-8b65-e64d64988e38
+  track-desc:
+  - Einführung
+  - Alptraum im Restaurant
+  - Endlich Ferien!
+  - Alles Gute zum Geburtstag, Fred!
+  - Panik in der Tierarztpraxis
+  - Schluss
+  ids: []

@@ -1,0 +1,24 @@
+article: '11000936'
+lock-data: false
+data:
+- series: Die Unglaublichen
+  series-id: disney-die-unglaublichen
+  episode: Die Unglaublichen – The Incredibles
+  release: 1730851200
+  language: de-de
+  category: audio-play
+  runtime: 60
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11000936_1_a--8h8rufn.png
+  sample: https://cdn.tonies.de/o/audio_samples/8536de065926092f3896174e7e4e8717c9e945f594eff5fcda1c191e/hoerprobe_11000936_die_unglaublichen.mp3
+  web: https://tonies.com/de-de/tonies/disney-die-unglaublichen/die-unglaublichen-the-incredibles/
+  shop-id: 273fb236-8e04-418c-821f-a6c192f56947
+  track-desc:
+  - 'Kapitel 01: Die Unglaublichen - The Incredibles'
+  - 'Kapitel 02: Die Unglaublichen - The Incredibles'
+  - 'Kapitel 03: Die Unglaublichen - The Incredibles'
+  - 'Kapitel 04: Die Unglaublichen - The Incredibles'
+  - 'Kapitel 05: Die Unglaublichen - The Incredibles'
+  - 'Kapitel 06: Die Unglaublichen - The Incredibles'
+  ids: []

@@ -1,0 +1,27 @@
+article: '11001543'
+lock-data: false
+data:
+- series: MARVEL Spidey und seine Super-Freunde
+  series-id: marvel-spidey-and-his-amazing-friends
+  episode: Spidey und seine Super-Freunde - Raketen-Rhino & 3 weitere spannende Abenteuer
+  release: 1730851200
+  language: de-de
+  category: audio-play
+  runtime: 57
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11001543_1_a-7M3QAMZk.png
+  sample: https://cdn.tonies.de/o/audio_samples/e05647eb3dd2bb015a4df547dce67640d26079a1396e40f5f681f4d2/hoerprobe_11001543_spidey_und_seine_super_freunde_raketen_rhino.mp3
+  web: https://tonies.com/de-de/tonies/marvel-spidey-and-his-amazing-friends/raketen-rhino-3-weitere-spannende-abenteuer/
+  shop-id: cfc65b2d-ed74-46b9-b41c-6e1afa0b7dbb
+  track-desc:
+  - Marvels Spidey und seine Super-Freunde - Titellied
+  - 'Kapitel 01: Raketen-Rhino'
+  - 'Kapitel 02: Raketen-Rhino'
+  - 'Kapitel 01: Süßes, sonst gibt''s Trace-e!'
+  - 'Kapitel 02: Süßes, sonst gibt''s Trace-e!'
+  - 'Kapitel 01: Rhinoctopus'
+  - 'Kapitel 02: Rhinoctopus'
+  - 'Kapitel 01: Der Riesenkürbis'
+  - 'Kapitel 02: Der Riesenkürbis'
+  ids: []

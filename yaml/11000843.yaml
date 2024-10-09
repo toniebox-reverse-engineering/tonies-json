@@ -1,0 +1,28 @@
+article: '11000843'
+lock-data: false
+data:
+- series: KLE!NE EXPERTEN
+  series-id: klene-experten
+  episode: KLE!NE EXPERTEN treffen auf Dinosaurier
+  release: 1730937600
+  language: de-de
+  category: audio-play
+  runtime: 57
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11000843_1_a-e9215YZO.png
+  sample: https://cdn.tonies.de/o/audio_samples/ef8f5eff93dd2b3e69d7d13838ee7250edb36a0da1c77c198ac51580/dino_horprobe.mp3
+  web: https://tonies.com/de-de/tonies/klene-experten/klene-experten-treffen-auf-dinosaurier/
+  shop-id: 6965f3d5-fbc7-4f97-9fb2-bb3e2344c394
+  track-desc:
+  - Der Brüllwettbewerb 1
+  - Der Brüllwettbewerb 2
+  - Der Brüllwettbewerb 3
+  - Der Brüllwettbewerb 4
+  - Der Brüllwettbewerb 5
+  - Kleine Geschwister 1
+  - Kleine Geschwister 2
+  - Kleine Geschwister 3
+  - Kleine Geschwister 4
+  - Kleine Geschwister 5
+  ids: []
