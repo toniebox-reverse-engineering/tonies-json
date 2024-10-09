@@ -2,7 +2,7 @@ article: '11000846'
 lock-data: false
 data:
 - series: Toy Story
-  series-id: disney-toy-story
+  series-id: toy-story-2
   episode: Toy Story 3
   release: 1728432000
   language: de-de
@@ -15,5 +15,10 @@ data:
   web: https://tonies.com/de-de/tonies/disney-toy-story/toy-story-3/
   shop-id: eb887c78-9469-4561-8adf-36a25b1f89df
   track-desc:
-  - '06: Toy Story 3'
+  - 'Kapitel 01: Toy Story 3'
+  - 'Kapitel 02: Toy Story 3'
+  - 'Kapitel 03: Toy Story 3'
+  - 'Kapitel 04: Toy Story 3'
+  - 'Kapitel 05: Toy Story 3'
+  - 'Kapitel 06: Toy Story 3'
   ids: []

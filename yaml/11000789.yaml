@@ -2,7 +2,7 @@ article: '11000789'
 lock-data: false
 data:
 - series: Schlummerbande
-  series-id: schlummerbande
+  series-id: sleepy-friends
   episode: Schlummerschaf – Einschlafmelodien von der Weide
   release: 1728432000
   language: de-de
@@ -15,5 +15,18 @@ data:
   web: https://tonies.com/de-de/tonies/schlummerbande/schlummerschaf-einschlafmelodien-von-der-weide/
   shop-id: 5c11b8b7-3c23-438e-a0a2-9eef44ae5b94
   track-desc:
-  - '14: Sleepy Sheep Classic'
+  - Sleepy Sheep Classic No2 - 01
+  - Sleepy Sheep Classic No2 - 02
+  - Sleepy Sheep Classic No2 - 03
+  - Sleepy Sheep Classic No2 - 04
+  - Sleepy Sheep Classic No2 - 05
+  - Sleepy Sheep Classic No2 - 06
+  - Sleepy Sheep Classic No2 - 07
+  - Sleepy Sheep Classic No2 - 08
+  - Sleepy Sheep Classic No2 - 09
+  - Sleepy Sheep Classic No2 - 10
+  - Sleepy Sheep Classic No2 - 11
+  - Sleepy Sheep Classic No2 - 12
+  - Sleepy Sheep Classic No2 - 13
+  - Sleepy Sheep Classic No2 - 14
   ids: []
