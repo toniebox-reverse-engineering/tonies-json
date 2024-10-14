@@ -1,8 +1,8 @@
 article: '11001107'
 lock-data: false
 data:
-- series: Blue Zoo
-  series-id: blue-zoo
+- series: Numberblocks
+  series-id: numberblocks
   episode: Numberblocks
   release: 1726790400
   language: en-gb
@@ -10,10 +10,30 @@ data:
   runtime: 0
   age: 3
   origin: stock
-  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11001107-Numberblock-61qxoRcV.jpg
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11001107-Numberblock-Wy2XesM4.jpg
   sample: https://cdn.tonies.de/o/audio_samples/d8fdc66b0c8ca47d96e78cfcf638de7a87858cc5355f0d3d23059fac/numberblocks_space_sample.wav
-  web: https://tonies.com/en-gb/clever-tonies/blue-zoo/numberblocks/
+  web: https://tonies.com/en-gb/clever-tonies/numberblocks/numberblocks/
   shop-id: 28a6969c-f83b-4bc4-a52d-5bcba69544b1
   track-desc:
-  - Coming soon
+  - TO THE MOON - Introduction ft. portions of 'One', 'Two' and 'Ten Again' songs
+  - TO THE MOON - Number fun on the Moon
+  - TO THE MOON - Balancing Spaceships
+  - TO THE MOON - Mission complete
+  - HEXAGON ISLAND - Introduction and Musical Theme
+  - HEXAGON ISLAND - Set Sail to Hexagon Island ft. 'In This Boat Together' song
+  - HEXAGON ISLAND - Hex marks the spot
+  - HEXAGON ISLAND - Numberblocks challenges ft. portion of 'A Helping Hand' song
+  - HEXAGON ISLAND - The key to friendship
+  - HEXAGON ISLAND - Mission complete ft. 'Making Friends' song
+  - STOP THE TRAIN - Introduction ft. portions of 'Three', 'Four' and 'The Numberblocks
+    Express' songs
+  - STOP THE TRAIN - Stop the train! ft. portion of 'The Numberblocks Express' song
+  - STOP THE TRAIN - Race to the finish line
+  - STOP THE TRAIN - Mission complete ft. portion of 'Five and Friends' song
+  - FIND A MONSTER - Introduction ft. portion of 'Lucky Number Seven' song
+  - FIND A MONSTER - Meet Blockzee ft. portion of 'Three' song
+  - FIND A MONSTER - Five's plan
+  - FIND A MONSTER - Meet Big Tum
+  - FIND A MONSTER - The Terrible Twos
+  - FIND A MONSTER - Mission complete
   ids: []
