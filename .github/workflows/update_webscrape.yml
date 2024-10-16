@@ -34,7 +34,8 @@ jobs:
 
       - name: Prepare python
         run: |
-          pip install requests protobuf
+          sudo apt update
+          sudo apt install -y python3-requests python3-protobuf
           
       - name: Prepare directories
         run: |
