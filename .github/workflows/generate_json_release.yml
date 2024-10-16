@@ -54,22 +54,26 @@ jobs:
           
       - name: Prepare python
         run: |
-          sudo apt update
-          sudo apt install -y python3-requests python3-protobuf
+          python -m venv venv
+          source venv/bin/activate
+          pip install requests protobuf
           
       - name: Prepare directories
         run: |
           cd tonies-json-tools
+          source ../venv/bin/activate
           ./create_dirs.py
           
       - name: Run yaml2tonies-json.py
         run: |
           cd tonies-json-tools
+          source ../venv/bin/activate
           ./yaml2tonies-json.py
           
       - name: Run stats.py
         run: |
           cd tonies-json-tools
+          source ../venv/bin/activate
           ./stats.py
 
       - name: Check if files exist

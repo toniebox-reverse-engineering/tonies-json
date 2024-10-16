@@ -34,17 +34,20 @@ jobs:
 
       - name: Prepare python
         run: |
-          sudo apt update
-          sudo apt install -y python3-requests python3-protobuf
+          python -m venv venv
+          source venv/bin/activate
+          pip install requests protobuf
           
       - name: Prepare directories
         run: |
           cd tonies-json-tools
+          source ../venv/bin/activate
           ./create_dirs.py
           
       - name: Run web_scrape.py
         run: |
           cd tonies-json-tools
+          source ../venv/bin/activate
           ./web_scrape.py
 
       - name: Configure Git
