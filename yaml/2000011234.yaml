@@ -1,0 +1,49 @@
+article: '2000011234'
+lock-data: false
+data:
+- series: PJ Masks
+  series-id: pj-masks
+  episode: 'Folgen 91-94: Eulettes Geständnis'
+  release: 1729123200
+  language: de-de
+  category: audio-play
+  runtime: 4025
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/dcde26ca788ee7d584e2d06df90988abc1ee84628cd353edfa1885cf/3_h81hqdjj.j399ZTy/pj_masks_091_folgen_91_94__eulettes_gestandnis_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/470e44b7a3aeb274042775c79e2294efcbc085ea883b12bcdfbfd925/4013575950867_preview.mp3
+  web: https://tonies.com/de-de/audio-content/pj-masks/folgen-91-94-eulettes-gestandnis/
+  shop-id: 9bd9a807-5a15-4952-9d41-918c87d39094
+  track-desc:
+  - PJ Masks Titellied
+  - 'Kapitel 01: Eulettes Geständnis (Folge 91)'
+  - 'Kapitel 02: Eulettes Geständnis (Folge 91)'
+  - 'Kapitel 03: Eulettes Geständnis (Folge 91)'
+  - 'Kapitel 04: Eulettes Geständnis (Folge 91)'
+  - 'Kapitel 05: Eulettes Geständnis (Folge 91)'
+  - 'Kapitel 06: Eulettes Geständnis (Folge 91)'
+  - 'Kapitel 07: Eulettes Geständnis (Folge 91)'
+  - 'Kapitel 08: Eulettes Geständnis (Folge 91)'
+  - 'Kapitel 01: Die Wölfies im Hauptquartier (Folge 92)'
+  - 'Kapitel 02: Die Wölfies im Hauptquartier (Folge 92)'
+  - 'Kapitel 03: Die Wölfies im Hauptquartier (Folge 92)'
+  - 'Kapitel 04: Die Wölfies im Hauptquartier (Folge 92)'
+  - 'Kapitel 05: Die Wölfies im Hauptquartier (Folge 92)'
+  - 'Kapitel 06: Die Wölfies im Hauptquartier (Folge 92)'
+  - 'Kapitel 07: Die Wölfies im Hauptquartier (Folge 92)'
+  - 'Kapitel 08: Die Wölfies im Hauptquartier (Folge 92)'
+  - 'Kapitel 01: Das Gute im Wölfie (Folge 93)'
+  - 'Kapitel 02: Das Gute im Wölfie (Folge 93)'
+  - 'Kapitel 03: Das Gute im Wölfie (Folge 93)'
+  - 'Kapitel 04: Das Gute im Wölfie (Folge 93)'
+  - 'Kapitel 05: Das Gute im Wölfie (Folge 93)'
+  - 'Kapitel 06: Das Gute im Wölfie (Folge 93)'
+  - 'Kapitel 07: Das Gute im Wölfie (Folge 93)'
+  - 'Kapitel 01: Oster-Wölfies (Folge 94)'
+  - 'Kapitel 02: Oster-Wölfies (Folge 94)'
+  - 'Kapitel 03: Oster-Wölfies (Folge 94)'
+  - 'Kapitel 04: Oster-Wölfies (Folge 94)'
+  - 'Kapitel 05: Oster-Wölfies (Folge 94)'
+  - 'Kapitel 06: Oster-Wölfies (Folge 94)'
+  - 'Kapitel 07: Oster-Wölfies (Folge 94)'
+  ids: []

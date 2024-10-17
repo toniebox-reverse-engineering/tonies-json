@@ -11,7 +11,7 @@ data:
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/ce365457b75e9b2e7556db609b1b1061710934807ff49324d232af90/3_lhbKQ5_5JkJ8H3~8/paw_patrol_095_folgen_95_97__der_piratenzauber_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/7e6353b688edf1e82a89f44ee1d0d1685d5dee4553417622c14c814e/4062851041881_sample.mp3
   web: https://tonies.com/de-de/audio-content/paw-patrol/folgen-95-97-der-piratenzauber/
   shop-id: 14002534-ea6d-4cd0-9a95-65d96519d085
   track-desc:

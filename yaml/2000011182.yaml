@@ -1,0 +1,22 @@
+article: '2000011182'
+lock-data: false
+data:
+- series: Gigi et Pipo
+  series-id: gigi-et-pipo
+  episode: Gigi et Pipo vol. 1
+  release: 1727654400
+  language: fr-fr
+  category: audio-play
+  runtime: 1972
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_a0e19606f8bf65a3ff0bac3c279f92c95236222857b5655ae4622c38/3_~_1QgRq_BWJNmLCn/gigi_et_pipo_gigi_et_pipo_vol_1_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/ab702ec08b31268c54b58debdbadf82611b2880552ba67d12a89fa20/audio_preview.wav
+  web: https://tonies.com/fr-fr/tonie-librairie/gigi-et-pipo/gigi-et-pipo-vol1/
+  shop-id: f1c7d9e6-fcad-4678-aab4-6a32c5148bc3
+  track-desc:
+  - Gigi et sa chansonnette
+  - Une belle journée pour Gigi
+  - Gigi et le coup de vent
+  - Gigi fait une petite sieste
+  ids: []
