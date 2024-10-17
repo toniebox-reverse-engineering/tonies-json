@@ -23,12 +23,9 @@ data:
   - Eine Fahrt mit dem Batmobil
   - Batman Quiz
   - Der Riddler
-  ids: [
-		{
-			"audio-id": 1727879244,
-			"hash": "9c6d0252e679a16dd63b207915396d200b8b1aa3",
-			"size": 49394310,
-			"tracks": 8,
-			"confidence": 1
-		}
-	]
+  ids:
+  - audio-id: 1727879244
+    hash: 9c6d0252e679a16dd63b207915396d200b8b1aa3
+    size: 49394310
+    tracks: 8
+    confidence: 0
