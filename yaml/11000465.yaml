@@ -1,7 +1,7 @@
 article: '11000465'
 lock-data: false
 data:
-- series: MARVEL Spidey and His Amazing Friends
+- series: MARVEL Spidey und seine Super-Freunde
   series-id: marvel-spidey-and-his-amazing-friends
   episode: Spidey und seine Super-Freunde - Doc Ocks Superoktopus & 3 weitere spannende
     Abenteuer
@@ -16,10 +16,15 @@ data:
   web: https://tonies.com/de-de/tonies/marvel-spidey-and-his-amazing-friends/spidey-und-seine-super-freunde-doc-ocks-superoktopus-3-weitere-spannende-abenteuer/
   shop-id: d0fa8fcb-072f-480b-b41c-1faa2f1d93e3
   track-desc:
-  - Doc Ocks Superoktopus
-  - Die Kicher-Attacke
-  - Chaos am Muttertag
-  - Das nicht so spaßige Spaßhaus
+  - Marvels Spidey und seine Super-Freunde - Titellied
+  - Doc Ocks Superoktopus 1
+  - Doc Ocks Superoktopus 2
+  - Die Kicher-Attacke 1
+  - Die Kicher-Attacke 2
+  - Chaos am Muttertag 1
+  - Chaos am Muttertag 2
+  - Das nicht so spaßige Spaßhaus 1
+  - Das nicht so spaßige Spaßhaus 2
   ids:
   - audio-id: 1701031871
     hash: 6e4f294628c256414f5e70db1b5f9957acb4c4f5
