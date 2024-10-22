@@ -1,0 +1,28 @@
+article: '2000011238'
+lock-data: false
+data:
+- series: PJ Masks
+  series-id: pj-masks
+  episode: 'Folge 73: Roboters Katze'
+  release: 1729555200
+  language: de-de
+  category: audio-play
+  runtime: 1180
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/28421d32e776eee900b0c3023e5dd9ee39d20e0a9ece939abf8a3687/3_yhG3-wN6MfCfmFbc/pj_masks_073_folge_73__roboters_katze_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/93ccefcea63c5881f2e00df65cb2e600d59fb60f6efff09840c43fd9/4013575942305_preview.mp3
+  web: https://tonies.com/de-de/audio-content/pj-masks/folge-73-roboters-katze/
+  shop-id: e983d0ec-e4f7-44ad-8a82-0b83b3f31e94
+  track-desc:
+  - PJ Masks Titellied
+  - 'Kapitel 1: Roboters Katze (Folge 73)'
+  - 'Kapitel 2: Roboters Katze (Folge 73)'
+  - 'Kapitel 3: Roboters Katze (Folge 73)'
+  - 'Kapitel 4: Roboters Katze (Folge 73)'
+  - 'Kapitel 5: Roboters Katze (Folge 73)'
+  - 'Kapitel 6: Roboters Katze (Folge 73)'
+  - 'Kapitel 7: Roboters Katze (Folge 73)'
+  - 'Kapitel 8: Roboters Katze (Folge 73)'
+  - 'Kapitel 9: Roboters Katze (Folge 73)'
+  ids: []

@@ -1,0 +1,32 @@
+article: '2000011252'
+lock-data: false
+data:
+- series: PJ Masks
+  series-id: pj-masks
+  episode: 'Folge 72: Mondsüchtig - Teil 2'
+  release: 1729555200
+  language: de-de
+  category: audio-play
+  runtime: 1083
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/927b17c4ed72266288442e101132a477070123c8a9f39251d0125193/3_qHzk.l6Hnbw-Tsfh/pj_masks_072_folge_72__mondsuchtig_teil_2_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/044c6d5a2cbb31bf01162a40c269022fa4385bced38a842eea360232/4013575941858_preview.mp3
+  web: https://tonies.com/de-de/audio-content/pj-masks/folge-72-mondsuchtig-teil-2/
+  shop-id: d459ea0d-76f2-4520-9f20-8912b44c05a6
+  track-desc:
+  - 'Kapitel 01: Mondsüchtig - Teil 2 (Folge 72)'
+  - 'Kapitel 02: Mondsüchtig - Teil 2 (Folge 72)'
+  - 'Kapitel 03: Mondsüchtig - Teil 2 (Folge 72)'
+  - 'Kapitel 04: Mondsüchtig - Teil 2 (Folge 72)'
+  - 'Kapitel 05: Mondsüchtig - Teil 2 (Folge 72)'
+  - 'Kapitel 06: Mondsüchtig - Teil 2 (Folge 72)'
+  - 'Kapitel 07: Mondsüchtig - Teil 2 (Folge 72)'
+  - 'Kapitel 08: Mondsüchtig - Teil 2 (Folge 72)'
+  - 'Kapitel 09: Mondsüchtig - Teil 2 (Folge 72)'
+  - 'Kapitel 10: Mondsüchtig - Teil 2 (Folge 72)'
+  - 'Kapitel 11: Mondsüchtig - Teil 2 (Folge 72)'
+  - 'Kapitel 12: Mondsüchtig - Teil 2 (Folge 72)'
+  - 'Kapitel 13: Mondsüchtig - Teil 2 (Folge 72)'
+  - 'Kapitel 14: Mondsüchtig - Teil 2 (Folge 72)'
+  ids: []

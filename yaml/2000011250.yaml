@@ -1,0 +1,28 @@
+article: '2000011250'
+lock-data: false
+data:
+- series: PJ Masks
+  series-id: pj-masks
+  episode: 'Folge 77: Wettrennen auf den Rätselberg'
+  release: 1729555200
+  language: de-de
+  category: audio-play
+  runtime: 1173
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/29270510e012b83386809fb9969d8494676ce53167f4aeda63e47de9/3_g9kg__Cbpc5k0nYF/pj_masks_077_folge_77__wettrennen_auf_den_rats_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/0ffbf8aabeee281c3289f76c4a487a4518c254a1e1a808d9eb3b169b/4013575942428_preview.mp3
+  web: https://tonies.com/de-de/audio-content/pj-masks/folge-77-wettrennen-auf-den-ratselberg/
+  shop-id: 83de7a91-6074-4188-94b1-e91ac371197b
+  track-desc:
+  - PJ Masks Titellied
+  - 'Kapitel 01: Das Wettrennen auf den Rätselberg (Folge 77)'
+  - 'Kapitel 02: Das Wettrennen auf den Rätselberg (Folge 77)'
+  - 'Kapitel 03: Das Wettrennen auf den Rätselberg (Folge 77)'
+  - 'Kapitel 04: Das Wettrennen auf den Rätselberg (Folge 77)'
+  - 'Kapitel 05: Das Wettrennen auf den Rätselberg (Folge 77)'
+  - 'Kapitel 06: Das Wettrennen auf den Rätselberg (Folge 77)'
+  - 'Kapitel 07: Das Wettrennen auf den Rätselberg (Folge 77)'
+  - 'Kapitel 08: Das Wettrennen auf den Rätselberg (Folge 77)'
+  - 'Kapitel 09: Das Wettrennen auf den Rätselberg (Folge 77)'
+  ids: []
