@@ -1,0 +1,25 @@
+article: '11000593'
+lock-data: false
+data:
+- series: 'DC: Batwheels'
+  series-id: dc-batwheels-2
+  episode: DC - Batwheels
+  release: 1732060800
+  language: de-de
+  category: audio-play
+  runtime: 87
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11000593_1_a-V5o6fByk.png
+  sample: https://cdn.tonies.de/o/audio_samples/e057261a819c135dc757fe6565bb29a44bd80144c86fe593cd78eeb2/horprobe_batwheels.mp3
+  web: https://tonies.com/de-de/tonies/dc-batwheels-2/dc-batwheels/
+  shop-id: c8d317f8-d797-477b-803e-79145a88f468
+  track-desc:
+  - Intro
+  - Auf zum Batmobil!
+  - Bam wird verbessert
+  - Gestrandet am Straßenrand
+  - Bam's klauenhafter Fehler
+  - Beste schlechte Freunde
+  - Heldenhafte Entspannung
+  ids: []
