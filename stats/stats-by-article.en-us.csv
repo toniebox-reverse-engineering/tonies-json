@@ -10,7 +10,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000501,Disney & Pixar,,Cars: Lightning McQueen,en-us,Tonie,stock,5519190294679,,1,1,1,1
 10000503,Disney,,The Little Mermaid,en-us,Tonie,stock,5519197634711,,1,1,1,1
 10000504,Despicable Me Minion,,,en-us,Tonie,stock,5519699443863,,1,1,1,1
-10000505,Favorite Classics,,Pinocchio & Other Classic Stories,en-us,Tonie,stock,5519079047319,,1,1,1,1
+10000505,Favorite Classics,,Pinocchio & Other Classic Stories,en-us,Tonie,stock,5519079047319,,1,2,2,1
 10000506,Favorite Tales,,Red Riding Hood and Other Fairy Tale Stories,en-us,Tonie,stock,7099444756631,,1,2,2,1
 10000509,Disney,,Aladdin,en-us,Tonie,stock,6462404657303,,1,1,1,2
 10000510,Disney,,Frozen: Elsa,en-us,Tonie,stock,5519647244439,,1,0,0,0
@@ -21,9 +21,9 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000517,Disney & Pixar,,"Monsters, Inc.",en-us,Tonie,stock,6807592665239,,1,1,1,2
 10000534,Creative-Tonie,,Pirate,en-us,creative-tonie,stock,5519049130135,,1,0,0,0
 10000537,Creative-Tonie,,Superhero - Blue/Red,en-us,creative-tonie,stock,6220672303255,,1,0,0,0
-10000538,Favorite Children's Songs,,Playtime Songs,en-us,Tonie,stock,5519401975959,,1,1,1,2
-10000539,Favorite Children's Songs,,Bedtime Songs,en-us,Tonie,stock,5519468626071,,1,1,1,2
-10000540,Favorite Children's Songs,,Celebration Songs,en-us,Tonie,stock,5519481045143,,1,1,1,1
+10000538,Favorite Children's Songs,,Playtime Songs,en-us,Tonie,stock,5519401975959,,1,2,2,2
+10000539,Favorite Children's Songs,,Bedtime Songs,en-us,Tonie,stock,5519468626071,,1,2,2,2
+10000540,Favorite Children's Songs,,Celebration Songs,en-us,Tonie,stock,5519481045143,,1,2,2,1
 10000541,Julia Donaldson,,The Gruffalo,en-us,Tonie,stock,5458365776023,,1,1,1,1
 10000542,Peter Rabbit,,,en-us,Tonie,stock,6462410752151,,1,2,2,1
 10000543,Peppa Pig,,,en-us,Tonie,stock,6807578935447,,1,2,2,3
@@ -34,12 +34,12 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000549,Julia Donaldson,,Zog,en-us,Tonie,stock,5519634989207,,1,1,1,1
 10000550,Julia Donaldson,,Room on the Broom,en-us,Tonie,stock,6042920288407,,1,2,2,1
 10000551,The Pontypandy Pack,,Fireman Sam,en-us,Tonie,stock,8134366888087,,1,2,2,1
-10000553,Favorite Tales,,Rapunzel & Other Fairy Tales,en-us,Tonie,stock,5519419768983,,1,1,1,1
-10000554,Favorite Classics,,A Christmas Carol & Tales,en-us,Tonie,stock,5519710683287,,1,1,1,1
+10000553,Favorite Tales,,Rapunzel & Other Fairy Tales,en-us,Tonie,stock,5519419768983,,1,2,2,1
+10000554,Favorite Classics,,A Christmas Carol & Tales,en-us,Tonie,stock,5519710683287,,1,2,2,1
 10000555,Elmer & Friends Story Collection,,,en-us,Tonie,stock,6220876841111,,1,2,2,1
 10000556,Guess How Much I Love You,,,en-us,Tonie,stock,6462409015447,,1,1,1,1
 10000557,Favorite Children's Songs,,Animal Songs,en-us,Tonie,stock,7099440169111,,1,2,2,1
-10000558,Favorite Children's Songs,,Counting Songs,en-us,Tonie,stock,5519656485015,,1,1,1,1
+10000558,Favorite Children's Songs,,Counting Songs,en-us,Tonie,stock,5519656485015,,1,2,2,1
 10000559,Creative-Tonie,,Santa,en-us,creative-tonie,stock,8494533902487,,1,0,0,0
 10000560,Favorite Children's Songs,,Traveling Songs,en-us,Tonie,stock,6661694652567,,1,2,2,2
 10000561,Julia Donaldson,,Highway Rat,en-us,Tonie,stock,6807571431575,,1,2,2,1
