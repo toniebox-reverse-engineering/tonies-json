@@ -10,7 +10,7 @@ data:
   runtime: 4152
   age: 12
   origin: tunes
-  image: null
+  image: https://cdn.tonies.de/o/images/c9a13305d9228c3997402777a225f75259b961e030f6a0d783d79276/3_VKfgRXsPHh2wy9cm/bjarne_og_betina_001_bjarne_og_betina_530x530.jpg
   sample: https://cdn.tonies.de/o/audio_samples/9b0dd7fc552248ae22e5e694e29b674448e4a618e1bc1bc29d763e74/9788726392708.mp3
   web: https://tonies.com/de-de/audio-content/bjarne-og-betina/
   shop-id: a97c1d0a-4bac-4773-b008-a1c75d320a26
