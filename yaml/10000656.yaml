@@ -16,6 +16,11 @@ data:
   shop-id: '7219028885655'
   track-desc: []
   ids:
+  - audio-id: 1730294463
+    hash: bab2a6dd738b469cc32b1d45a03dca108a9f32ce
+    size: 26880554
+    tracks: 6
+    confidence: 1
   - audio-id: 1630506474
     hash: 43b279eddd2e809fdfd303db4a2309b4d571cf8f
     size: 27170287

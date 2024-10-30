@@ -40,6 +40,26 @@ data:
   - Charmers and Creeps - Lodistar Quiz 2
   - Charmers and Creeps - Outro
   ids:
+  - audio-id: 1730298107
+    hash: 7ac9be66cf6312a1a76a602622b0b64ff01f34f9
+    size: 17689248
+    tracks: 7
+    confidence: 1
+  - audio-id: 1730298084
+    hash: 9108cfe878a913426f80c15ea904fe54b47ef5d8
+    size: 22826890
+    tracks: 6
+    confidence: 1
+  - audio-id: 1730298061
+    hash: 2ce487fe72970aad8fd8a4eb01f4060a8a2847c4
+    size: 23264971
+    tracks: 7
+    confidence: 1
+  - audio-id: 1730298035
+    hash: fed39e66fea17583e42a1cc471f871d13203de73
+    size: 22262668
+    tracks: 7
+    confidence: 1
   - audio-id: 1722265898
     hash: 5f91ee9ca49c8caeb0d58aa00e8c187c982c5c4a
     size: 22262668
