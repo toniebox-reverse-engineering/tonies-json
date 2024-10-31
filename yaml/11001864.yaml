@@ -1,0 +1,18 @@
+article: '11001864'
+lock-data: false
+data:
+- series: Disney
+  series-id: null
+  episode: 'Frozen: Una Aventura Congelada Tonie (en Español)'
+  release: 1730382733
+  language: en-us
+  category: Tonie
+  runtime: 0
+  age: 99
+  origin: stock
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-Frozen-Transparent.png?v=1713258374
+  sample: null
+  web: null
+  shop-id: '8565948055703'
+  track-desc: []
+  ids: []
