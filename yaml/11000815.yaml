@@ -1,0 +1,24 @@
+article: '11000815'
+lock-data: false
+data:
+- series: 'Jurassic World: Camp Cretaceous'
+  series-id: jurassic-world-camp-cretaceous
+  episode: Camp Cretaceous
+  release: 1731456000
+  language: en-gb
+  category: audio-play
+  runtime: 45
+  age: 6
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/50005312-Tonie_Shado-uZYGYn5I.png
+  sample: https://cdn.tonies.de/o/audio_samples/9fe1660b19db171c5f7c99639f34248d78489da16ecf8587b1e63389/camp_cretacepus_samplewav.wav
+  web: https://tonies.com/en-gb/tonies/jurassic-world-camp-cretaceous/camp-cretaceous/
+  shop-id: 5a377de4-b495-4708-98f9-445a187a4b1e
+  track-desc:
+  - INTRO
+  - 'CHAPTER 1: Camp Cretaceous Part 1'
+  - 'CHAPTER 2: Camp Cretaceous Part 2'
+  - 'CHAPTER 3: Secrets Part 1'
+  - 'CHAPTER 4: Secrets Part 2'
+  - 'CHAPTER 5: Secrets Part 3'
+  ids: []

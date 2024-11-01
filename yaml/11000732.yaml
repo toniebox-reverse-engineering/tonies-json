@@ -1,0 +1,28 @@
+article: '11000732'
+lock-data: false
+data:
+- series: Judith Kerr
+  series-id: judith-kerr
+  episode: The Tiger Who Came to Tea
+  release: 1731456000
+  language: en-gb
+  category: audio-book
+  runtime: 45
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/51004206-Tonie_Shado-d-JBBjV_.png
+  sample: https://cdn.tonies.de/o/audio_samples/50a50d37dbcbff9abb0ccee93acb30e1e2efa334758a6128c41cc8a7/11000732_tiger_who_came_to_tea_sample.wav
+  web: https://tonies.com/en-gb/tonies/judith-kerr/the-tiger-who-came-to-tea/
+  shop-id: 020db413-0976-46f0-ba3b-0c8ff07ae560
+  track-desc:
+  - 'STORY: The Tiger Who Came To Tea'
+  - 'STORY: The Great Granny Gang'
+  - 'STORY: One Night In The Zoo'
+  - 'STORY: The Crocodile Under The Bed'
+  - 'STORY: Katinka''s Tale'
+  - 'BONUS: Games with Tacy Kneale (Judith’s Kerr daughter)'
+  - 'BONUS: Story & Drawing'
+  - 'BONUS: Quiz & Trivia'
+  - 'BONUS: Fun Activities'
+  - 'BONUS: Trivia & Action Song'
+  ids: []

@@ -1,0 +1,42 @@
+article: '11001243'
+lock-data: false
+data:
+- series: Animal World
+  series-id: animal-world
+  episode: Wild Survivors
+  release: 1731628800
+  language: en-gb
+  category: audio-play-educational
+  runtime: 0
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11001243_2_Landscape-_5AWAybx.png
+  sample: https://cdn.tonies.de/o/audio_samples/460d9a10a7267208aaf901aba4bc31d55406e671dc11eb8989eafd9b/animal_world_wild_survivors_sample.wav
+  web: https://tonies.com/en-gb/clever-tonies/animal-world/wild-survivors/
+  shop-id: 749f2518-b8fe-43ed-9e93-18d5892a9fd2
+  track-desc:
+  - 'Conquerors of the Cold: Animals in the Arctic Regions - Intro'
+  - 'Conquerors of the Cold: Animals in the Arctic Regions - Penguin Party'
+  - 'Conquerors of the Cold: Animals in the Arctic Regions - Lodistar Quiz 1'
+  - 'Conquerors of the Cold: Animals in the Arctic Regions - Polar Bear Extraordinaire'
+  - 'Conquerors of the Cold: Animals in the Arctic Regions - Lodistar Quiz 2'
+  - 'Conquerors of the Cold: Animals in the Arctic Regions - Outro'
+  - 'Monsters and Mysteries: Animals in the Deep Sea - Intro'
+  - 'Monsters and Mysteries: Animals in the Deep Sea - into the Deep'
+  - 'Monsters and Mysteries: Animals in the Deep Sea - Lodistar Quiz 1'
+  - 'Monsters and Mysteries: Animals in the Deep Sea - Interview with a Vampire Squid'
+  - 'Monsters and Mysteries: Animals in the Deep Sea - Lodistar Quiz 2'
+  - 'Monsters and Mysteries: Animals in the Deep Sea - Outro'
+  - 'Flying High: Animals in the Mountains - Intro'
+  - 'Flying High: Animals in the Mountains - The Andean Condor'
+  - 'Flying High: Animals in the Mountains - Lodistar Quiz 1'
+  - 'Flying High: Animals in the Mountains - The Mountain Goat'
+  - 'Flying High: Animals in the Mountains - Lodistar Quiz 2'
+  - 'Flying High: Animals in the Mountains - Outro'
+  - 'Dune Dwellers: Animals in the Desert - Intro'
+  - 'Dune Dwellers: Animals in the Desert - The Dromedary'
+  - 'Dune Dwellers: Animals in the Desert - Lodistar Quiz 1'
+  - 'Dune Dwellers: Animals in the Desert - The Snow Leopard'
+  - 'Dune Dwellers: Animals in the Desert - Lodistar Quiz 2'
+  - 'Dune Dwellers: Animals in the Desert - Outro'
+  ids: []
