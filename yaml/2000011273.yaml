@@ -1,0 +1,22 @@
+article: '2000011273'
+lock-data: false
+data:
+- series: Popa Noël n'en fait qu'à sa tête
+  series-id: popa-noel-nen-fait-qua-sa-tete
+  episode: Popa Noël n'en fait qu'à sa tête
+  release: 1730592000
+  language: fr-fr
+  category: audio-play
+  runtime: 3175
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_9c807ec55a07017de78ce4e1fa7c0ae3d7630b2b898a76d7b5fc2108/3_6m.PZXgBwmqcfpwY/popa_noel_n_en_fait_qu_a_sa_tete_popa_noel_n_en__530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/6fa29ca9de0225acaefe91f0bd5e9eee14168ae91feb03227c76c130/extrait_1.wav
+  web: https://tonies.com/fr-fr/tonie-librairie/popa-noel-nen-fait-qua-sa-tete/popa-noel-nen-fait-qua-sa-tete/
+  shop-id: e7e939cb-4776-4d92-a69c-3c5d9127db62
+  track-desc:
+  - Où est Popa ?
+  - La grande loterie
+  - Bienvenue au royaume !
+  - Le doudou
+  ids: []

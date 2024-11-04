@@ -11,7 +11,7 @@ data:
   age: 3
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/51003443-Tonie_Shado-VR7VvkJD.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/9710bc0f290181f7ec7ee50c9cada024f18f634abc425d26f54e87b8/lunar_new_year_sample.wav
   web: https://tonies.com/en-gb/tonies/lunar-new-year/lunar-new-year/
   shop-id: 31876635-cb59-412b-a728-2a901262ee25
   track-desc:
