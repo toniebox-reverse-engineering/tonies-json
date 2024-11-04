@@ -1,0 +1,28 @@
+article: '2000011213'
+lock-data: false
+data:
+- series: Ina même pas mal
+  series-id: ina-meme-pas-mal
+  episode: Ina même pas mal
+  release: 1730592000
+  language: fr-fr
+  category: audio-play
+  runtime: 3924
+  age: 7
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_6189a8ec88ef4d8249f0b75d17079f99eba2d186f6c1eb026cb705ce/3_f.fL5zdnzfGBqL6l/ina_meme_pas_mal_ina_meme_pas_mal_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/212ef42373f01be6135bde6262bd6bd838a3037c748179eecf2d3788/audio_preview.mp3
+  web: https://tonies.com/fr-fr/tonie-librairie/ina-meme-pas-mal/ina-meme-pas-mal/
+  shop-id: 0c6a0085-ecd8-4fda-a42c-01fc49a7e43c
+  track-desc:
+  - La force
+  - Mission Pyramide
+  - Élémentaire ma chère Ina !
+  - Pizza pan con tomate
+  - Le système solaire
+  - Le Ch'ti canard
+  - Ina s'envole
+  - Allô Fantômes
+  - Aladdin
+  - Par ici la sortie
+  ids: []

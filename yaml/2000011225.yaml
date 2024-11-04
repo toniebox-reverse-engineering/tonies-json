@@ -1,0 +1,28 @@
+article: '2000011225'
+lock-data: false
+data:
+- series: Le club des basquets
+  series-id: le-club-des-baskets
+  episode: Le club des basquets
+  release: 1730592000
+  language: fr-fr
+  category: audio-play
+  runtime: 6023
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_5ad6f68a2b297bcef2db0c8110a154c7130af8c9a7bd63d20b914c4c/3_~Tb6Sn2qDLF0Xq9m/le_club_des_basquets_le_club_des_basquets_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/6cc71fec1c0d24d26234d39e86b5eb8898ae767f4538542943a03cc1/audio_preview.wav
+  web: https://tonies.com/fr-fr/tonie-librairie/le-club-des-baskets/le-club-des-basquets/
+  shop-id: 72c7e5fc-2615-4855-8258-b80425b93ede
+  track-desc:
+  - Le cachalot abandonné
+  - Mario Samba
+  - Jamais dans ton bassin
+  - L'expédition nocturne
+  - Délivrer les cachalots
+  - Cap sur l'océan
+  - C'est parti !
+  - La tempête
+  - Nager avec les cachalots
+  - C'est l'heure de rentrer
+  ids: []

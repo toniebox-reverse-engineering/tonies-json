@@ -1,0 +1,22 @@
+article: '2000011187'
+lock-data: false
+data:
+- series: Gigi et Pipo
+  series-id: gigi-et-pipo
+  episode: Gigi et Pipo vol. 6
+  release: 1730592000
+  language: fr-fr
+  category: audio-play
+  runtime: 2248
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_fa8d2b6cda8f75292cf5597b8518197f3ac9e57f5c88835ad3fddb1f/3_.2PHK0fF0sSgg9D4/gigi_et_pipo_gigi_et_pipo_vol_6_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/89f280ff240916d487f202976512d4e86b5a1ae7b54856d035a46577/audio_content_21.wav
+  web: https://tonies.com/fr-fr/tonie-librairie/gigi-et-pipo/gigi-et-pipo-vol6/
+  shop-id: 96802b21-88d4-4586-bbec-5aaeb0090837
+  track-desc:
+  - Gigi est coquette
+  - Gigi est en vacances
+  - Gigi fait du rangement
+  - Gigi prépare Noël
+  ids: []

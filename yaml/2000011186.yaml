@@ -1,0 +1,22 @@
+article: '2000011186'
+lock-data: false
+data:
+- series: Gigi et Pipo
+  series-id: gigi-et-pipo
+  episode: Gigi et Pipo vol. 5
+  release: 1730592000
+  language: fr-fr
+  category: audio-play
+  runtime: 1860
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_9b16a21f85cbbfc5e5e5600f50cf55928db0be22f0599f66d7009481/3_3H0rFcNP9YYJ1btn/gigi_et_pipo_gigi_et_pipo_vol_5_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/3f867fd5757fb4f092d156ac23aedded9e1eda9f7412403ddc664b36/audio_content_17.wav
+  web: https://tonies.com/fr-fr/tonie-librairie/gigi-et-pipo/gigi-et-pipo-vol5/
+  shop-id: 07fa8c47-4b18-4214-9405-083d09d03d3e
+  track-desc:
+  - Gigi monte en avion
+  - Gigi va au marché
+  - Gigi va à Paris
+  - Gigi va en forêt
+  ids: []

@@ -1,0 +1,28 @@
+article: '2000011209'
+lock-data: false
+data:
+- series: Aladin et la lampe magique
+  series-id: aladin-et-la-lampe-magique
+  episode: Aladin et la lampe magique
+  release: 1730592000
+  language: fr-fr
+  category: audio-play
+  runtime: 10388
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_b4a478803ecde0886e81c4b90b01aba4810ac8c730e7d675f17de3f0/3_HHJf~ld6C7WypXp-/aladin_et_la_lampe_magique_aladin_et_la_lampe_ma_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/d907458c2c680056f39c1fbbbc29d775ad67845be32cf8d82f2703f7/audio_preview.wav
+  web: https://tonies.com/fr-fr/tonie-librairie/aladin-et-la-lampe-magique/aladin-et-la-lampe-magique/
+  shop-id: 9e1c7dfd-1e95-40be-895d-10cca1c59b3e
+  track-desc:
+  - Aussi agile qu’un reptile
+  - L’anneau magique
+  - Le secret de la lampe
+  - La princesse Alya
+  - La demande en mariage
+  - Se débarrasser de son rival
+  - Les retrouvailles
+  - Le prince Alaedine
+  - Les noces
+  - Aladin, le héros
+  ids: []

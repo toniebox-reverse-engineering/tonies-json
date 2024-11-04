@@ -1,0 +1,28 @@
+article: '2000011214'
+lock-data: false
+data:
+- series: Alice au pays des merveilles
+  series-id: alice-au-pays-des-merveilles
+  episode: Alice au pays des merveilles
+  release: 1730592000
+  language: fr-fr
+  category: audio-play
+  runtime: 5622
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_4f27f595789a4122acad7630698c938b9855a0decde1ae5b7d8c0358/3_FyY4D4XXL7g3vMq8/alice_au_pays_des_merveilles_alice_au_pays_des_m_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/1b81bccffd8db38c90e5354208fb808813dd3feb26c968c7868d0c8b/audio_preview.wav
+  web: https://tonies.com/fr-fr/tonie-librairie/alice-au-pays-des-merveilles/alice-au-pays-des-merveilles/
+  shop-id: 0ca6cd68-cf01-4b4b-8cd3-2a12a2aa9221
+  track-desc:
+  - À la poursuite du lapin blanc
+  - La rencontre avec Madame Souris
+  - La course à l'échalote
+  - Le gant et l'éventail
+  - Les secrets du ver à soie
+  - Le drôle de chat du Cheshire
+  - Le goûter du Chapelier fou
+  - La partie de croquet de la Reine
+  - L'affaire des tartelettes aux myrtilles
+  - Le procès
+  ids: []

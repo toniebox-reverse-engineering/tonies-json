@@ -1,0 +1,28 @@
+article: '2000011264'
+lock-data: false
+data:
+- series: L'Ours et le Soleil
+  series-id: lours-et-le-soleil
+  episode: L'Ours et le Soleil
+  release: 1730592000
+  language: fr-fr
+  category: audio-book
+  runtime: 1288
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/a380188920ae4b9ff21da620ac94cfded0d1b29182c5ba716f9e67de/3_-N-bWr0QJ_PFCQz0/l_ours_et_le_soleil_l_ours_et_le_soleil_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/b1ca5af2e11a35d309b49e397a02efbe2b2cf2c535255cfede8e422e/9782490066278_preview.mp3
+  web: https://tonies.com/fr-fr/tonie-librairie/lours-et-le-soleil/lours-et-le-soleil/
+  shop-id: 98fd516f-2e6b-43fe-b3b2-018ada594ac9
+  track-desc:
+  - L'hiver est là
+  - Un hiver trop long
+  - Dans la forêt enchantée
+  - Le renard
+  - Une longue route
+  - Le roi de la forêt
+  - Le chemin vers la montagne
+  - Dans la tanière de l'ours
+  - Le soleil est revenu
+  - Thème de fin
+  ids: []

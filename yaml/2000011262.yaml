@@ -1,0 +1,22 @@
+article: '2000011262'
+lock-data: false
+data:
+- series: Les Incollables
+  series-id: les-incollables
+  episode: Les Incollables, Grande section de maternelle
+  release: 1730592000
+  language: fr-fr
+  category: audio-play
+  runtime: 2437
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/6115bebaded720faaa31f29ca9bd85084225803c905f8112bfbec2ed/3_x9FPn9x-fNwG6HBF/les_incollables_003_les_incollables_grande_se_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/b9eaace85a284b3fd4c599c325924126c77927000dcf24d610487559/9782809682205_preview.mp3
+  web: https://tonies.com/fr-fr/tonie-librairie/les-incollables/les-incollables-grande-section-de-maternelle/
+  shop-id: 5993c758-b6a2-4d40-a8a6-b688af5dffc6
+  track-desc:
+  - Les Incollables, Grande section, 1ère partie
+  - Les Incollables, Grande section, 2ème partie
+  - Les Incollables, Grande section, 3ème partie
+  - Les Incollables, Grande section, 4ème partie
+  ids: []

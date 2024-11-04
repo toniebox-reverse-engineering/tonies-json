@@ -1,0 +1,24 @@
+article: '2000011221'
+lock-data: false
+data:
+- series: Martin Mystère
+  series-id: martin-mystere
+  episode: Martin Mystère vol. 2
+  release: 1730592000
+  language: fr-fr
+  category: audio-play
+  runtime: 5160
+  age: 7
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_b6ba67bf3dd88027ede7ce988e462321769967c1047fb55d9fe954e1/3_Qtt4pgYvzyfB.5qq/martin_mystere_martin_mystere_vol_2_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/4e1ae1252487b43296694d5397c5e26981b1e486b52a38d295de8f62/les_prisonniers_du_placard.mp3
+  web: https://tonies.com/fr-fr/tonie-librairie/martin-mystere/martin-mystere-vol2/
+  shop-id: b7fca805-8d16-467d-813e-df589940428b
+  track-desc:
+  - Les prisonniers du placard
+  - L'attaque de la Plante Carnivore
+  - Le retour du Génie
+  - L'envoûtement de Martin
+  - Terreur à Torrington
+  - L'étrange Noël de Martin
+  ids: []

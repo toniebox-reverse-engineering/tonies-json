@@ -1,0 +1,28 @@
+article: '2000011212'
+lock-data: false
+data:
+- series: Peter Pan
+  series-id: peter-pan
+  episode: Peter Pan
+  release: 1730592000
+  language: fr-fr
+  category: audio-play
+  runtime: 6202
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_c4c26495eb3b06f6757b3f38ead806301bcef79be26decd3384ce958/3_YfC-~3mtRCg9j-6Q/peter_pan_peter_pan_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/20c0feb01c61ca8a13166373dcccaf8aed9a50175bc79082ef109b3b/audio_preview.wav
+  web: https://tonies.com/fr-fr/tonie-librairie/peter-pan/peter-pan/
+  shop-id: 47d4d874-e7ab-49cb-bf7c-ec5970e83421
+  track-desc:
+  - Peter fait irruption
+  - L'ombre
+  - Partons !
+  - Les pirates
+  - La petite maison sous la terre
+  - Lily la tigresse
+  - L'histoire de Wendy
+  - Les enfants sont enlevés
+  - Le bateau pirate
+  - Le retour
+  ids: []
