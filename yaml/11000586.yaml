@@ -1,0 +1,25 @@
+article: '11000586'
+lock-data: false
+data:
+- series: Batwheels - DC
+  series-id: batwheels-dc
+  episode: Bam
+  release: 1730937600
+  language: fr-fr
+  category: audio-play
+  runtime: 87
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51002869-Tonie_Shado-QWN-wPAh.png
+  sample: https://cdn.tonies.de/o/audio_samples/563c58562c687b4b2a31812a48aa065fbc5da5106693586126bdf4bb/11000586_dc_batwheels_extraitmp3.mp3
+  web: https://tonies.com/fr-fr/tonies/batwheels-dc/bam/
+  shop-id: 9bae4ad5-03f6-4622-8a0d-58ccf39f1f39
+  track-desc:
+  - Introduction
+  - Ancienne et nouvelle générations
+  - Les nouvelles options de Bam
+  - Sur le banc de touche
+  - Le sixième joueur
+  - Bande de Vroums
+  - Et si on ralentissait ?
+  ids: []

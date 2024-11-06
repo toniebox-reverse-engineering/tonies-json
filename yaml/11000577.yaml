@@ -1,0 +1,26 @@
+article: '11000577'
+lock-data: false
+data:
+- series: Mini-Loup
+  series-id: mini-loup
+  episode: Mini-Loup À L'École
+  release: 1730937600
+  language: fr-fr
+  category: audio-play
+  runtime: 46
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51003476-Tonie_Shado-5CSVNZH5.png
+  sample: https://cdn.tonies.de/o/audio_samples/0fefd756c78d26926e06455dfd6dbde80c76c43cec309c5e87cc6b35/11000577_mini_loup_mini_loup_a_lecole_extraitmp3.mp3
+  web: https://tonies.com/fr-fr/tonies/mini-loup/mini-loup-a-l-ecole/
+  shop-id: 7179ae82-db42-4163-bfb5-76f186e58e34
+  track-desc:
+  - Générique
+  - Mini-Loup à l'école
+  - Mini-Loup chez Papi et Mamie-Loup
+  - L'anniversaire de Mini-Loup
+  - Mini-Loup à la piscine
+  - Mini-Loup à l'hôpital
+  - Mini-Loup en vacances
+  - Une petite sœur pour Mini-Loup
+  ids: []
