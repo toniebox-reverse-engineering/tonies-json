@@ -13,7 +13,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001015,Raiponce,disney-tangled,Raiponce,fr-fr,audio-play-songs,stock,062ae954-5c52-4004-80ae-8a7ba250dbb7,https://tonies.com/fr-fr/tonies/disney-raiponce/raiponce/,1,0,0,0
 10001016,C'Est Toujours Pas Sorcier,c-est-toujours-pas-sorcier,Sur Les Traces Des Dinosaures,fr-fr,audio-play-educational,stock,a5433bd6-3436-4dbb-aa0c-3e36b239f155,https://tonies.com/fr-fr/tonies/c-est-toujours-pas-sorcier/sur-les-traces-des-dinosaures/,1,0,0,0
 10001104,Cendrillon,disney-cinderella,Cendrillon,fr-fr,audio-play-songs,stock,843fc10b-e16e-4ee2-a8e1-1a187a2dd895,https://tonies.com/fr-fr/tonies/disney-cendrillon/cendrillon/,1,0,0,0
-10001220,Les 101 Dalmatiens,disney-les-101-dalmatiens,Les 101 Dalmatiens,fr-fr,audio-play-songs,stock,bb3d5f35-347f-4e04-8478-44ac94e99926,https://tonies.com/fr-fr/tonies/disney-les-101-dalmatiens/les-101-dalmatiens/,1,0,0,0
+10001220,Les 101 Dalmatiens,disney-101-dalmatians,Les 101 Dalmatiens,fr-fr,audio-play-songs,stock,bb3d5f35-347f-4e04-8478-44ac94e99926,https://tonies.com/fr-fr/tonies/disney-les-101-dalmatiens/les-101-dalmatiens/,1,0,0,0
 10001247,L'Heure De La Sieste,l-heure-de-la-sieste,Bruit Blanc,fr-fr,music,stock,8476f287-de40-4ee7-8919-b7798a4c4b41,https://tonies.com/fr-fr/tonies/l-heure-de-la-sieste/bruit-blanc/,1,0,0,0
 10001260,La Pat' Patrouille,paw-patrol,Marcus,fr-fr,audio-play,stock,6f152f87-3936-4c00-99d3-24160147dc0d,https://tonies.com/fr-fr/tonies/la-pat-patrouille/marcus/,1,0,0,0
 10001261,C'Est Toujours Pas Sorcier,c-est-toujours-pas-sorcier,Plongée Dans Les Océans,fr-fr,audio-play-educational,stock,eec0c5c9-e292-4d0a-b48a-eec64d447cc8,https://tonies.com/fr-fr/tonies/c-est-toujours-pas-sorcier/plongee-dans-les-oceans/,1,0,0,0
@@ -31,7 +31,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001406,Mouk,mouk,Découvre Le Monde Avec Mouk,fr-fr,audio-play,stock,cb8635f6-d118-4ff8-923c-efa46197a79e,https://tonies.com/fr-fr/tonies/mouk/decouvre-le-monde-avec-mouk/,1,0,0,0
 10001408,Contes Du Monde,contes-du-monde,Afrique De L'Ouest,fr-fr,audio-book,stock,e8abdc4f-8c26-4912-989d-d0f4fd761dbb,https://tonies.com/fr-fr/tonies/contes-du-monde/afrique-de-l-ouest/,1,0,0,0
 10001475,Winnie L'Ourson,disney-winnie-the-pooh,Winnie L'Ourson,fr-fr,audio-play-songs,stock,799ac6f2-89f7-4b5b-b60a-014ae758f218,https://tonies.com/fr-fr/tonies/disney-winnie-lourson/winnie-l-ourson/,1,0,0,0
-10001476,Mickey Et Ses Amis,disney-mickey-et-ses-amis,Vol À Bord De L'Overland Express : Mystères Sur Les Rails,fr-fr,audio-play,stock,18cbd060-3238-4c62-9351-5697d3fa3f9d,https://tonies.com/fr-fr/tonies/disney-mickey-et-ses-amis/vol-a-bord-de-l-overland-express-mystere-sur-les-rails/,1,0,0,0
+10001476,Mickey Et Ses Amis,disney-mickey-mouse-friends,Vol À Bord De L'Overland Express : Mystères Sur Les Rails,fr-fr,audio-play,stock,18cbd060-3238-4c62-9351-5697d3fa3f9d,https://tonies.com/fr-fr/tonies/disney-mickey-et-ses-amis/vol-a-bord-de-l-overland-express-mystere-sur-les-rails/,1,0,0,0
 10001479,Masha Et Michka,mascha-und-der-bar,Masha,fr-fr,audio-play-songs,stock,d1b4b1df-462f-480b-8b51-0e51dd40d037,https://tonies.com/fr-fr/tonies/masha-et-michka/masha/,1,0,0,0
 10001482,Club Écolo,club-ecolo,Sauvetages en Terre !,fr-fr,audio-play,stock,7bf5eeb6-1e86-4986-ab39-f7e652f30b5d,https://tonies.com/fr-fr/tonies/club-ecolo/sauvetages-en-terre/,1,0,0,0
 10001496,Ma Pause Zen,ma-pause-zen,Cours Yoga De Sergio Lama,fr-fr,audio-play,stock,dcb58b8b-ee27-467f-a584-9ec14b1655a0,https://tonies.com/fr-fr/tonies/ma-pause-zen/cours-yoga-de-sergio-lama/,1,0,0,0
@@ -96,7 +96,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000577,Mini-Loup,mini-loup,Mini-Loup À L'École,fr-fr,audio-play,stock,7179ae82-db42-4163-bfb5-76f186e58e34,https://tonies.com/fr-fr/tonies/mini-loup/mini-loup-a-l-ecole/,1,0,0,0
 11000578,Tara Duncan,tara-duncan-2,Vive La Magie !,fr-fr,audio-play,stock,d8b13c6d-2add-42af-98b9-8c22e24115c4,https://tonies.com/fr-fr/tonies/tara-duncan/vive-la-magie/,1,0,0,0
 11000583,Alix Pix 2,alix-pix-2,"Mystères, Petits Pièges Et Sortilèges",fr-fr,audio-play,stock,d75a824b-f197-44c2-8c0a-b41bc691b8dc,https://tonies.com/fr-fr/tonies/alix-pix-2/mysteres-petits-pieges-et-sortileges/,1,0,0,0
-11000586,Batwheels - DC,batwheels-dc,Bam,fr-fr,audio-play,stock,9bae4ad5-03f6-4622-8a0d-58ccf39f1f39,https://tonies.com/fr-fr/tonies/batwheels-dc/bam/,1,0,0,0
+11000586,Batwheels - DC,dc-batwheels,Bam,fr-fr,audio-play,stock,9bae4ad5-03f6-4622-8a0d-58ccf39f1f39,https://tonies.com/fr-fr/tonies/batwheels-dc/bam/,1,0,0,0
 11000608,Spidey Et Ses Amis Extraordinaires,spidey-et-ses-amis-extraordinaires,Ghost-Spider,fr-fr,audio-play-songs,stock,4b745f3a-0e10-42a9-990f-6c5b1ec0c8ad,https://tonies.com/fr-fr/tonies/spidey-et-ses-amis-extraordinaires/ghost-spider/,1,0,0,0
 11000609,Spidey Et Ses Amis Extraordinaires,spidey-et-ses-amis-extraordinaires,Miles Morales,fr-fr,audio-play-songs,stock,1b73316c-a179-4b6f-9e38-a773b8c3b606,https://tonies.com/fr-fr/tonies/spidey-et-ses-amis-extraordinaires/miles-morales/,1,0,0,0
 11000628,Petit Ours Brun,petit-ours-brun-2,Petit Ours Brun (Vol. 2),fr-fr,audio-book,stock,0de86d8f-849e-49d2-8eba-b20712eabd46,https://tonies.com/fr-fr/tonies/petit-ours-brun/petit-ours-brun-vol-2/,1,0,0,0
