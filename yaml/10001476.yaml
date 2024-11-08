@@ -2,7 +2,7 @@ article: '10001476'
 lock-data: false
 data:
 - series: Mickey Et Ses Amis
-  series-id: disney-mickey-et-ses-amis
+  series-id: disney-mickey-mouse-friends
   episode: 'Vol À Bord De L''Overland Express : Mystères Sur Les Rails'
   release: 1730937600
   language: fr-fr
@@ -10,7 +10,7 @@ data:
   runtime: 37
   age: 4
   origin: stock
-  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/98-1199-Disney-Micke-dCR6xIfI.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/98-1199-Disney-Micke-fyr5B0qm.png
   sample: https://cdn.tonies.de/o/audio_samples/16c831c9e9036dc24dbcdd4ad99d5a33304f61cb047403b8e9ca6746/00_mickey_mouse_overland_express_extrait.mp3
   web: https://tonies.com/fr-fr/tonies/disney-mickey-et-ses-amis/vol-a-bord-de-l-overland-express-mystere-sur-les-rails/
   shop-id: 18cbd060-3238-4c62-9351-5697d3fa3f9d

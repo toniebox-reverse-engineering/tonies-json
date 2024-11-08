@@ -2,7 +2,7 @@ article: '10001220'
 lock-data: false
 data:
 - series: Les 101 Dalmatiens
-  series-id: disney-les-101-dalmatiens
+  series-id: disney-101-dalmatians
   episode: Les 101 Dalmatiens
   release: 1730937600
   language: fr-fr
@@ -10,7 +10,7 @@ data:
   runtime: 31
   age: 4
   origin: stock
-  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/98-1152-Disney-101_D-0gZaMJCM.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/98-1152-Disney-101_D-v1YtFdCc.png
   sample: https://cdn.tonies.de/o/audio_samples/1096609747b5b49afaec15b6574ac26a9cf91d1c815cc4ba3d7d8fb4/10001220_disney_les_101_dalmatiens_extraitmp3.mp3
   web: https://tonies.com/fr-fr/tonies/disney-les-101-dalmatiens/les-101-dalmatiens/
   shop-id: bb3d5f35-347f-4e04-8478-44ac94e99926
