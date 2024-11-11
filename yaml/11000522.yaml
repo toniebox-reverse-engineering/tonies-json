@@ -10,7 +10,7 @@ data:
   runtime: 45
   age: 3
   origin: stock
-  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11000522_1_landscape-vbo1Buvw.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/51003291-Tonie_Shado-MO6Wb_vM.png
   sample: https://cdn.tonies.de/o/audio_samples/6b87350aec10a63c996a0b8d25f9531cfadfde8f0d5833042dcf207a/upsy_daisy_sample.wav
   web: https://tonies.com/en-gb/tonies/in-the-night-garden/bedtime-with-upsy-daisy/
   shop-id: b7a1ae7f-1662-4251-a830-12d5ba0d7149
@@ -18,6 +18,6 @@ data:
   - 'STORY: The Sweetest Smell'
   - 'STORY: A Hug'
   - 'STORY: Bedtime Stargazing'
-  - 'STORY: Let''s Relax'
   - 'STORY: Peaceful Sounds'
+  - 'STORY: Let''s Relax'
   ids: []
