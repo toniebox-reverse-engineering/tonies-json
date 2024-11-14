@@ -21,4 +21,9 @@ data:
   - 'Chanson : Point d''avenir sans nous'
   - 'Chanson : Tout réparer'
   - 'Chanson : Quand je serai plus grand'
-  ids: []
+  ids:
+  - audio-id: 1655908929
+    hash: 8936582d974b85f37c339dcdf94231ebb7beca57
+    size: 24584007
+    tracks: 6
+    confidence: 1

@@ -16,4 +16,9 @@ data:
   shop-id: 52da5059-9853-48ce-86cc-4dea2d30ed2a
   track-desc:
   - Intro und Anleitung
-  ids: []
+  ids:
+  - audio-id: 1725353486
+    hash: 4921ea898fae7a27331562e80f76c813e8661d01
+    size: 3481267
+    tracks: 1
+    confidence: 1

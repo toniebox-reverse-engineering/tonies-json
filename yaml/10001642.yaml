@@ -19,4 +19,9 @@ data:
   - 'Chanson : Quand elle m''aimait'
   - 'Chanson : Western Woody'
   - 'Chanson : Je suis ton ami (version de Sifli)'
-  ids: []
+  ids:
+  - audio-id: 1651574505
+    hash: 73be0df8d2788f79cc8bdfc458fd8eb0fb160728
+    size: 16302781
+    tracks: 4
+    confidence: 1

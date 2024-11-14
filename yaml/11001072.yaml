@@ -41,4 +41,9 @@ data:
   - Kokosnuss und seine Freunde feiern Weihnachten - Lektion 4
   - Kokosnuss und seine Freunde feiern Weihnachten - Lektion 4
   - Abspann
-  ids: []
+  ids:
+  - audio-id: 1728034427
+    hash: da2bfdc66e44837cd2b69b202392729b095ecfd9
+    size: 50494865
+    tracks: 25
+    confidence: 1

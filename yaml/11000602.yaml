@@ -37,4 +37,9 @@ data:
   - Oh Tannenbaum
   - Zauberhafte Weihnachtszeit
   - Stille Nacht
-  ids: []
+  ids:
+  - audio-id: 1724396336
+    hash: cc8c9275622c4afd57489fd95edc926c514f3c6d
+    size: 42919057
+    tracks: 22
+    confidence: 1

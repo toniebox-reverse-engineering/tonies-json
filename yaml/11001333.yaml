@@ -19,4 +19,24 @@ data:
   - Unsere Umwelt und Natur
   - Rechnen von 0 bis 10
   - Wir bleiben gesund
-  ids: []
+  ids:
+  - audio-id: 1728285342
+    hash: bfdf4b254742269b7694f53f155679cbdd1be378
+    size: 35067664
+    tracks: 32
+    confidence: 1
+  - audio-id: 1728285241
+    hash: 01fb40711ee70d59fc0fd04255060ce1336bbbd8
+    size: 32930952
+    tracks: 30
+    confidence: 1
+  - audio-id: 1728284844
+    hash: 2deabbccf0e8a17d90012caeb38743fb6ef7def3
+    size: 33351958
+    tracks: 29
+    confidence: 1
+  - audio-id: 1728284711
+    hash: 4488f1b85c2f8b3c5c787e397d574e169c14dea9
+    size: 33386789
+    tracks: 29
+    confidence: 1

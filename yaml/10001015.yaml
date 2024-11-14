@@ -19,4 +19,9 @@ data:
   - 'Chanson : Où est la vraie vie ?'
   - 'Chanson : Je veux y croire'
   - 'Chanson : J''ai un rêve'
-  ids: []
+  ids:
+  - audio-id: 1651244792
+    hash: 996800e2eb00a71541572666be6476d3612596fd
+    size: 23662144
+    tracks: 4
+    confidence: 1

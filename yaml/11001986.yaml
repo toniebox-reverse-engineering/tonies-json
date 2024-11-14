@@ -19,4 +19,24 @@ data:
   - 2. Meine Gefühle sind okay!
   - 3. Ich liebe mich!
   - 4. Ich bin schön!
-  ids: []
+  ids:
+  - audio-id: 1728476827
+    hash: 0ca2a10fc405ec9c6bea1c0527d6e031af0bc992
+    size: 30458546
+    tracks: 10
+    confidence: 1
+  - audio-id: 1728476718
+    hash: 545c865b0b9be6516fa4355c30a9f284e860295d
+    size: 23058420
+    tracks: 8
+    confidence: 1
+  - audio-id: 1728466763
+    hash: b50ac9be79559c17821a1f47a6f4b5741e9d791b
+    size: 26330901
+    tracks: 9
+    confidence: 1
+  - audio-id: 1728466615
+    hash: bcdb8c7ed3a22cdf0db5bbb7293684d71c125730
+    size: 25459354
+    tracks: 8
+    confidence: 1

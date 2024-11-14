@@ -1,0 +1,38 @@
+article: '11001997'
+lock-data: false
+data:
+- series: null
+  series-id: null
+  episode: null
+  release: 0
+  language: null
+  category: null
+  runtime: 0
+  age: 99
+  origin: null
+  image: null
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1727817186
+    hash: 9d27068144300931d38418548da0313dc60d432f
+    size: 74167297
+    tracks: 14
+    confidence: 1
+  - audio-id: 1727817118
+    hash: 1caf5a28bfa863c31b7fe8ab22f1bbfb3a69c0f1
+    size: 68894169
+    tracks: 12
+    confidence: 1
+  - audio-id: 1727817015
+    hash: ce3c4d19676df4aad15afa6df07974c4cfbe23e1
+    size: 64734694
+    tracks: 13
+    confidence: 1
+  - audio-id: 1727816957
+    hash: 132fc48c8319ea6f86519763f3cc7a7ab1677ba8
+    size: 70156649
+    tracks: 12
+    confidence: 1

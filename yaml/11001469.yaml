@@ -19,4 +19,24 @@ data:
   - 'Abgetaucht: Tiere in der Tiefsee'
   - 'Hoch hinaus: Tiere in den Bergen'
   - 'Dünen-Draufgänger: Tiere in der Wüste'
-  ids: []
+  ids:
+  - audio-id: 1728480340
+    hash: c70b3e9e55c7a5e82596bd6528f03ac72995d2ae
+    size: 22694607
+    tracks: 6
+    confidence: 1
+  - audio-id: 1728480283
+    hash: 4c5b0ffff1ec73fba1356602f166f1da29160c6f
+    size: 21748522
+    tracks: 6
+    confidence: 1
+  - audio-id: 1728480065
+    hash: 4a27965b0e3af2e4969c60cdac671ed27708e6d6
+    size: 20621031
+    tracks: 6
+    confidence: 1
+  - audio-id: 1728479987
+    hash: 0959296ec5ac9d42f22b06c0980c819d5464d944
+    size: 22302489
+    tracks: 6
+    confidence: 1

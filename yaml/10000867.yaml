@@ -19,4 +19,9 @@ data:
   - Étrange bazar
   - Jamais plus je ne volerai
   - 'L''Histoire : Toy Story (env. 17 min)'
-  ids: []
+  ids:
+  - audio-id: 1621440095
+    hash: c1f84100cdc1c303262bb370f88cf7271fbd7a58
+    size: 19554070
+    tracks: 4
+    confidence: 1
