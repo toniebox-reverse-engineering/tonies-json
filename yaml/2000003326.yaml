@@ -36,4 +36,9 @@ data:
   - 'Kapitel 03: Eine Rüstung für die Prinzessin (Folge 227)'
   - 'Kapitel 04: Eine Rüstung für die Prinzessin (Folge 227)'
   - 'Kapitel 05: Eine Rüstung für die Prinzessin (Folge 227)'
-  ids: []
+  ids:
+  - audio-id: 1729236167
+    hash: 87b649ebf6df2592e1f9845f9f5627e8387449ad
+    size: 35664621
+    tracks: 21
+    confidence: 1
