@@ -11,9 +11,14 @@ data:
   age: 3
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11000615_1_a-DXsZbnYT.png
-  sample: https://cdn.tonies.de/o/audio_samples/c9f6d8048aa7b5b6c35ed5bbb635295f4ecd4788d0e797c7089a93fc/171024_lalalino_theme_dach_mix_v1.mp3
+  sample: https://cdn.tonies.de/o/audio_samples/5d4b5191cd54e83807e123ee9cb319e2f76326f612ad6950e00d8531/horprobe_lalalinos_s2_scout.wav
   web: https://tonies.com/de-de/tonies/lalalinos/lalalinos-es-groovt-in-bumbaloo/
   shop-id: 46295ffc-1b7b-43e3-928d-02820af19129
   track-desc:
-  - erstes Kapitel
+  - Lalalinos Titelsong
+  - Lalalinos Intro
+  - Lass uns tauschen!
+  - Das Xylo-Buch
+  - Plopp-oder-Flopp
+  - Der Schatz von Bumbaloo
   ids: []
