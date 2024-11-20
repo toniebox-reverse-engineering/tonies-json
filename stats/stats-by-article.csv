@@ -963,17 +963,17 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001697,Ask the StoryBots,,Beep,en-us,Tonie,stock,8031929139351,,1,2,2,2
 10001698,Disney,,Hercules,en-us,Tonie,stock,8134562906263,,1,2,2,1
 10001708,Disney,disney,Lilo & Stitch,de-de,audio-play,stock,45e2b9ff-f3fe-4fb7-a83e-c9a261047a88,https://tonies.com/de-de/tonies/disney/lilo-stitch/,1,1,1,1
-10001711,Maestro,,,en-us,Tonie,stock,8072079147159,,1,1,1,1
+10001711,Maestro,,,en-us,Tonie,stock,8072079147159,,1,2,2,1
 10001714,PAW Patrol,,Rubble,en-us,Tonie,stock,7806540546199,,1,1,1,2
 10001721,Lieblings-Kinderlieder,lieblings-kinderlieder,Zähllieder (Neuauflage 2023),de-de,music,stock,29d55713-bf65-4996-8b27-693505ef6085,https://tonies.com/de-de/tonies/lieblings-kinderlieder/zhllieder-neuauflage-2023/,1,2,1,1
 10001722,Miraculous,miraculous,Der Betrüger / Der Valentinstag,de-de,audio-play,stock,f8f55746-b079-41b7-b872-30979711e4f5,https://tonies.com/de-de/tonies/miraculous/der-betrger-der-valentinstag/,1,1,1,3
 10001724,Club Écolo,club-ecolo,Sauvetages En Mer !,fr-fr,audio-play,stock,5fc8a845-873d-4bec-b5b7-b1b91ee10e3c,https://tonies.com/fr-fr/tonies/club-ecolo/sauvetages-en-mer/,1,0,0,0
 10001727,Mes Classiques Préférés,mes-classiques-preferes,Peter Pan Et 2 Autres Classiques,fr-fr,audio-play,stock,d8f7f86b-7b0f-47c6-81c0-de7290a2faf2,https://tonies.com/fr-fr/tonies/mes-classiques-preferes/peter-pan-et-2-autres-classiques/,1,1,1,1
-10001764,Favorite Children’s Songs,,Holiday Songs 2,en-us,Tonie,stock,8072072659095,,1,3,1,1
+10001764,Favorite Children’s Songs,,Holiday Songs 2,en-us,Tonie,stock,8072072659095,,1,4,2,1
 10001765,Favorite Children's Songs,,Healthy Habits,en-us,Tonie,stock,7955212730519,,1,2,2,1
 10001766,Favorite Children's Songs,,Halloween & Spooky Songs,en-us,Tonie,stock,7772295594135,,1,2,2,1
 10001775,Mes Classiques Préférés,mes-classiques-preferes,Les Trois Mousquetaires,fr-fr,audio-play,stock,26499671-8490-4ef5-80a3-9e723644ddf6,https://tonies.com/fr-fr/tonies/mes-classiques-preferes/les-trois-mousquetaires/,1,1,1,1
-10001776,Favorite Masterpieces,,The Nutcracker,en-us,Tonie,stock,8072076656791,,1,1,1,1
+10001776,Favorite Masterpieces,,The Nutcracker,en-us,Tonie,stock,8072076656791,,1,2,2,1
 10001786,Peppa Pig,,Peppa's Bedtime Stories,en-us,Tonie,stock,8006996394135,,1,1,1,2
 10001787,Disney,,Lady and the Tramp,en-us,Tonie,stock,8072083144855,,1,1,1,2
 10001788,Disney,,Tigger,en-us,Tonie,stock,8057957810327,,1,1,1,1
@@ -1028,7 +1028,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001957,Scooby-Doo!,scooby,Scooby-Doo,fr-fr,audio-play,stock,c6e7794a-1780-472e-9361-55cdacebd2ee,https://tonies.com/fr-fr/tonies/scooby-doo/scooby-doo/,1,0,0,0
 10001959,Les Sisters,les-sisters,Marine,fr-fr,audio-play,stock,622ae43e-da92-42e0-ab2f-2c0091972558,https://tonies.com/fr-fr/tonies/les-sisters/marine/,1,0,0,0
 10001960,Favourite Classics,favourite-classics,The Wizard of Oz,en-gb,audio-play,stock,10aa1a64-5459-4f04-97ee-55febea39c35,https://tonies.com/en-gb/tonies/favourite-classics/the-wizard-of-oz/,1,1,1,1
-10001963,Roald Dahl,roald-dahl,The Enormous Crocodile,en-gb,audio-book,stock,911b75fc-1fef-492c-bd11-46509afad820,https://tonies.com/en-gb/tonies/roald-dahl/enormous-crocodile/,1,2,2,2
+10001963,Roald Dahl,roald-dahl,The Enormous Crocodile,en-gb,audio-book,stock,911b75fc-1fef-492c-bd11-46509afad820,https://tonies.com/en-gb/tonies/roald-dahl/enormous-crocodile/,1,3,3,2
 10001964,Favourite Children's Songs,favourite-children-s-songs,Bedtime Songs 2 (relaunch),en-gb,music,stock,b224bd4e-8a37-4930-826b-5d23e3e55b3f,https://tonies.com/en-gb/tonies/favourite-children-s-songs/fcs-bedtime-songs-2-relaunch/,1,1,1,1
 10001977,Alles steht Kopf,disney-inside-out,Alles steht Kopf,de-de,audio-play,stock,0cdffe8b-07e7-44a3-887c-c88838af5a3b,https://tonies.com/de-de/tonies/disney-alles-steht-kopf/disney-alles-steht-kopf-alles-steht-kopf-dach/,1,2,2,2
 10001983,Ronja Räubertochter,ronja-raeubertochter,Ronja Räubertochter,de-de,audio-play,stock,b99da237-e144-4a34-93cb-bc9339395686,https://tonies.com/de-de/tonies/ronja-raeubertochter/ronja-raubertochter/,1,1,1,2
@@ -1128,7 +1128,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000203,Favorite Children's Songs,,Bugs!,en-us,Tonie,stock,8220603252887,,1,0,0,1
 11000205,Encanto,disney-encanto,Encanto,en-gb,audio-play-songs,stock,fe6b6a25-404f-42fd-9895-45b40582701c,https://tonies.com/en-gb/tonies/disney-encanto/encanto/,1,1,1,1
 11000212,Favorite Myths,,Egyptian Mythology,en-us,Tonie,stock,8041065250967,,1,3,2,1
-11000214,Favorite Classics,,The Velveteen Rabbit,en-us,Tonie,stock,8072085471383,,1,1,1,1
+11000214,Favorite Classics,,The Velveteen Rabbit,en-us,Tonie,stock,8072085471383,,1,2,2,1
 11000215,Favorite Myths,,Greek Mythology,en-us,Tonie,stock,8041065513111,,1,3,2,1
 11000217,Calm x tonies®,,Cap'n Dreambeard,en-us,Tonie,stock,7926749724823,,1,1,1,1
 11000218,Conservation Crew,,Nina the Red Panda,en-us,Tonie,stock,8008143700119,,1,3,2,1
@@ -1143,8 +1143,8 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000234,Care Bears,,Cheer Bear,en-us,Tonie,stock,8134562513047,,1,3,3,2
 11000235,Pip and Posy,pip-and-posy,Pip,en-gb,audio-play,stock,9fc5d288-0232-4b10-bca2-704e752b86ac,https://tonies.com/en-gb/tonies/pip-and-posy/pip/,1,0,0,0
 11000237,Care Bears,care-bears-2,Cheer Bear,en-gb,audio-play-songs,stock,39a3a614-4d62-429a-9661-f6f9b2917c0b,https://tonies.com/en-gb/tonies/care-bears-2/cheer-bear/,1,0,0,0
-11000244,Tiny Chef,,,en-us,Tonie,stock,8085915074711,,1,1,1,1
-11000245,Dino Ranch,,,en-us,Tonie,stock,8057958105239,,1,1,1,2
+11000244,Tiny Chef,,,en-us,Tonie,stock,8085915074711,,1,2,2,1
+11000245,Dino Ranch,,,en-us,Tonie,stock,8057958105239,,1,2,2,2
 11000247,PAW Patrol,paw-patrol,Die Hundeschau,de-de,audio-play,stock,d8593db8-ad2a-49e9-9d12-b10d5c3e18f9,https://tonies.com/de-de/tonies/paw-patrol/die-hundeschau/,1,2,1,1
 11000248,PAW Patrol,paw-patrol,Zuma,de-de,audio-play,stock,48d1494c-f5f5-469e-94f1-2cc4b9bf4687,https://tonies.com/de-de/tonies/paw-patrol/zuma/,1,2,1,2
 11000249,Disney,disney,Tiggers großes Abenteuer,de-de,audio-play,stock,af4b11b7-0713-4f58-b1b5-25e134092b6b,https://tonies.com/de-de/tonies/disney/disney-tigger-tiggers-groes-abenteuer/,1,2,2,3
@@ -1155,7 +1155,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000263,Peppa Pig,,Learn with Peppa,en-us,Tonie,stock,8143490744471,,1,1,1,1
 11000264,Carmen Sandiego,,,en-us,Tonie,stock,8134562775191,,1,1,1,1
 11000265,King of Kindergarten,,,en-us,Tonie,stock,8260127948951,,1,0,0,1
-11000266,PAW Patrol,,Tracker,en-us,Tonie,stock,8081283317911,,1,1,1,1
+11000266,PAW Patrol,,Tracker,en-us,Tonie,stock,8081283317911,,1,2,2,1
 11000274,Ohrenbär,ohrenbar,Mulles Zaubersteinchen,de-de,audio-book,stock,2b81a78f-db3a-4c7f-b650-944ec5156a6d,https://tonies.com/de-de/tonies/ohrenbaer/mulles-zaubersteinchen/,1,1,1,1
 11000279,Tabaluga,tabaluga,Drachen weinen nicht & Mondsüchtig,de-de,audio-play-songs,stock,d63d2e6c-3839-4d11-87b1-78e5de9f15ee,https://tonies.com/de-de/tonies/tabaluga/drachen-weinen-nicht-mondschtig/,1,1,1,3
 11000280,Lieblings-Kinderlieder,lieblings-kinderlieder,Frühlingslieder,de-de,music,stock,01b33faf-2232-4c86-9a7c-3feb7e438b5b,https://tonies.com/de-de/tonies/lieblings-kinderlieder/fruhlingslieder/,1,1,1,1
@@ -1205,7 +1205,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000362,Gigantosaurus,gigantosaurus-2,Bill,fr-fr,audio-play,stock,3a9f307b-ba51-4379-a628-9f41d19a4d9f,https://tonies.com/fr-fr/tonies/gigantosaurus/bill/,1,0,0,0
 11000363,Totally Spies,totally-spies,Sam,fr-fr,audio-play,stock,43d52cc1-ebf8-48f7-940c-5ca4663b61c9,https://tonies.com/fr-fr/tonies/totally-spies/sam/,1,0,0,0
 11000364,Rachel Bright Series,rachel-bright-series,The Koala Who Could - Three-Book Collection,en-gb,audio-book,stock,dedd7cc0-4ad8-436b-a501-f30061b07643,https://tonies.com/en-gb/tonies/rachel-bright-series/the-koala-who-could-three-book-collection/,1,2,2,1
-11000399,Spookley the Square Pumpkin,,,en-us,Tonie,stock,8057951355031,,1,1,1,1
+11000399,Spookley the Square Pumpkin,,,en-us,Tonie,stock,8057951355031,,1,2,2,1
 11000401,Marvel,marvel,Spidey & His Amazing Friends: Spin (Miles Morales),en-gb,audio-play-songs,stock,60dc443b-7510-490e-ba6d-dee7a8de568b,https://tonies.com/en-gb/tonies/marvel/spidey-friends-spin-miles-morales/,1,1,1,1
 11000402,Marvel,marvel,Spidey & His Amazing Friends: Ghost-Spider,en-gb,audio-play-songs,stock,a92a2417-8fdf-49d2-bf58-7a7e4614d18c,https://tonies.com/en-gb/tonies/marvel/spidey-his-amazing-friends-ghost-spider/,1,1,1,1
 11000404,Calm,calm,Cap'n Dreambeard,en-gb,audio-play,stock,3af988dd-2f5c-4eb5-81ee-8fdcce139cd4,https://tonies.com/en-gb/tonies/calm/calm-capn-dreambeard/,1,1,1,1
@@ -1240,7 +1240,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000473,Moshi,moshi,Chirpy,en-gb,audio-play-songs,stock,fcc84f03-d079-4668-a90e-fe0e5c4ee414,https://tonies.com/en-gb/tonies/moshi/chirpy/,1,0,0,0
 11000476,Alma and How She Got Her Name,,,en-us,Tonie,stock,8517907742871,,1,0,0,0
 11000477,Dino Ranch,dino-ranch,Dino Ranch,en-gb,audio-play,stock,a5735a43-b5ad-4fde-b074-d0ff067f7c40,https://tonies.com/en-gb/tonies/dino-ranch/dino-ranch/,1,1,1,1
-11000479,PAW Patrol,,Liberty,en-us,Tonie,stock,8041408004247,,1,1,1,2
+11000479,PAW Patrol,,Liberty,en-us,Tonie,stock,8041408004247,,1,2,2,2
 11000480,Pretzel and the Puppies,,,en-us,Tonie,stock,8143490810007,,1,1,1,1
 11000484,Disney,,& Pixar: Inside Out,en-us,Tonie,stock,8472681840791,,1,1,1,1
 11000495,Paw Patrol,paw-patrol,Liberty,en-gb,audio-play,stock,fb760b65-e2c1-4ac9-85fc-7a42def5a4ba,https://tonies.com/en-gb/tonies/paw-patrol/liberty/,1,1,1,1
