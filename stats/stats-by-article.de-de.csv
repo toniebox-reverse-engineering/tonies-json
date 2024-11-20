@@ -536,8 +536,8 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000594,Asterix,asterix,Asterix - Die Odyssee,de-de,audio-play,stock,12db35ae-f4a8-48c1-aa8a-b0b4fd3aa9cc,https://tonies.com/de-de/tonies/asterix/asterix-idefix-dogmatix-en-dach/,1,1,1,1
 11000602,Lichterkinder,lichterkinder-2,Die besten Weihnachts- und Winterlieder,de-de,music,stock,87f381c3-b238-4e76-85cd-022ba6d80f53,https://tonies.com/de-de/tonies/lichterkinder/die-besten-weihnachts-und-winterlieder/,1,1,1,1
 11000604,Sing Kinderlieder,sing-kinderlieder,"Milo, das Müllauto-Kind & seine Freunde - Abenteuer in der großen Stadt",de-de,music,stock,9151f64d-cb01-4dd1-96c4-c2e918a63455,https://tonies.com/de-de/tonies/sing-kinderlieder/milo-das-mullauto-kind-seine-freunde-abenteuer-in-der-groen-stadt/,1,1,1,2
-11000615,Lalalinos,lalalinos,Es groovt in Bumbaloo,de-de,audio-play-songs,stock,46295ffc-1b7b-43e3-928d-02820af19129,https://tonies.com/de-de/tonies/lalalinos/lalalinos-es-groovt-in-bumbaloo/,1,0,0,0
-11000618,Lalalinos,lalalinos,Die beste Band in Bumbaloo,de-de,audio-play-songs,stock,dca6c5c1-93d0-4cab-8587-cd0211a19224,https://tonies.com/de-de/tonies/lalalinos/lalalinos-die-beste-band-in-bumbaloo/,1,0,0,0
+11000615,Lalalinos,lalalinos,Es groovt in Bumbaloo (Scout),de-de,audio-play-songs,stock,46295ffc-1b7b-43e3-928d-02820af19129,https://tonies.com/de-de/tonies/lalalinos/lalalinos-es-groovt-in-bumbaloo/,1,0,0,0
+11000618,Lalalinos,lalalinos,Die beste Band in Bumbaloo (Akio),de-de,audio-play-songs,stock,dca6c5c1-93d0-4cab-8587-cd0211a19224,https://tonies.com/de-de/tonies/lalalinos/lalalinos-die-beste-band-in-bumbaloo/,1,0,0,0
 11000677,Hurra Kinderlieder,hurra-kinderlieder,Hurra Kinderlieder - Best of,de-de,music,stock,f5bd679e-1303-4627-b63d-dc1969a37b0a,https://tonies.com/de-de/tonies/hurra-kinderlieder/hurra-kinderlieder-best-of-tbd-dach/,1,1,1,1
 11000720,Schlummerbande,sleepy-friends,Nachtlicht Tonie - Schlummerbär,de-de,music,stock,ebf7dac5-8922-4fe7-a165-77e85d8fb062,https://tonies.com/de-de/tonies/schlummerbande/nachtlicht-tonie-schlummerbr/,1,0,0,0
 11000736,Lieblings-Klassiker,mes-classiques-preferes,Der Zauberer von Oz und zwei weitere Klassiker,de-de,audio-book,stock,6c4a4d73-bce2-4960-a05b-7369c90e62bd,https://tonies.com/de-de/tonies/lieblings-klassiker/der-zauberer-von-oz-und-zwei-weitere-klassiker/,1,1,1,1
@@ -4280,6 +4280,8 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 2000011252,PJ Masks,pj-masks,Folge 72: Mondsüchtig - Teil 2,de-de,audio-play,tunes,d459ea0d-76f2-4520-9f20-8912b44c05a6,https://tonies.com/de-de/audio-content/pj-masks/folge-72-mondsuchtig-teil-2/,1,0,0,0
 2000011253,PJ Masks,pj-masks,Folge 71: Mondsüchtig - Teil 1,de-de,audio-play,tunes,e163d454-aeb8-41ad-aa4e-27ce3cc07bfe,https://tonies.com/de-de/audio-content/pj-masks/folge-71-mondsuchtig-teil-1/,1,0,0,0
 2000011254,PJ Masks,pj-masks,Folge 79: Die Wölfie-Kids,de-de,audio-play,tunes,d98bfef6-fbd3-48be-9495-3fb74280c0c0,https://tonies.com/de-de/audio-content/pj-masks/folge-79-die-wolfie-kids/,1,0,0,0
+2000011274,Die drei !!!,die-drei-ausrufezeichen,Adventskalender - Wirbel im Weihnachtshotel,de-de,audio-play,tunes,e58ffd32-969c-488f-b6d0-85b5ebecf50a,https://tonies.com/de-de/audio-content/die-drei-ausrufezeichen/die-drei-adventskalender-wirbel-im-weihnachtshotel/,1,0,0,0
+2000011275,Die Fuchsbande,die-fuchsbande,Fall 79: Die herzigen Birnen/Fall 80: Der trockene Napf,de-de,audio-play,tunes,957b125f-7647-46b1-852e-d529bdd8fde3,https://tonies.com/de-de/audio-content/die-fuchsbande/die-fuchsbande-folge-40-fall-79-die-herzigen-birne/,1,0,0,0
 99-0001,Kreativ-Tonie,,(Platzhalter) - DE,de-de,creative-tonie,stock,,,1,1,0,0
 99-0004,Kreativ-Tonie,,GESPERRT in einem anderen Haushalt,de-de,creative-tonie,stock,,,1,0,0,0
 box-de-de-01-00000000,System sounds de-de,system-de-de,Jingle (Startup),de-de,system,stock,,,1,1,1,1
