@@ -19,6 +19,11 @@ data:
   - The Giraffe, The Pelly and Me
   - Esio Trot
   ids:
+  - audio-id: 1732104138
+    hash: cbac796e6e20fab2baa7cad05d18b1c3cf6cc3f7
+    size: 69331319
+    tracks: 19
+    confidence: 1
   - audio-id: 1686924738
     hash: 36faaf5ceafea58b1287a17ddb8f82d60cf167aa
     size: 69555367
