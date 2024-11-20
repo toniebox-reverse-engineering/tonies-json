@@ -3,7 +3,7 @@ lock-data: false
 data:
 - series: ''
   series-id: ''
-  episode: ''
+  episode: tonies-json-de-de,
   release: ''
   language: ''
   category: ''
@@ -14,5 +14,5 @@ data:
   sample: tonies-json-de-de,
   web: ''
   shop-id: ''
-  track-desc: tonies-json-de-de,
+  track-desc: ''
   ids: []
