@@ -1,8 +1,8 @@
 article: '10001708'
 lock-data: false
 data:
-- series: Disney
-  series-id: disney
+- series: Lilo & Stitch
+  series-id: disney-lilo-stitch
   episode: Lilo & Stitch
   release: 1686009600
   language: de-de
@@ -12,15 +12,10 @@ data:
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/BOX1001708_1_a-ABxJSMCo.png
   sample: https://cdn.tonies.de/o/audio_samples/3d05ba065a1150a4d190867778ca69bcbc81971ecbd7f6188dade8e7/horprobe_lilo.mp3
-  web: https://tonies.com/de-de/tonies/disney/lilo-stitch/
+  web: https://tonies.com/de-de/tonies/disney-lilo-stitch/lilo-stitch/
   shop-id: 45e2b9ff-f3fe-4fb7-a83e-c9a261047a88
   track-desc:
-  - Lilo & Stitch
-  - Lilo & Stitch
-  - Lilo & Stitch
-  - Lilo & Stitch
-  - Lilo & Stitch
-  - Lilo & Stitch
+  - '06: Disney - Lilo & Stitch'
   ids:
   - audio-id: 1682666049
     hash: 41da48de96071e299a56f0a6979fe9cc247eeea4
