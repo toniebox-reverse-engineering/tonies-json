@@ -1,8 +1,8 @@
 article: '10000996'
 lock-data: false
 data:
-- series: Disney
-  series-id: disney
+- series: Die Eiskönigin – Olaf taut auf
+  series-id: disney-olafs-frozen-adventure
   episode: Die Eiskönigin - Olaf taut auf
   release: 1663113600
   language: de-de
@@ -12,7 +12,7 @@ data:
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000996-50003251-b-W57V2H0f.png
   sample: https://cdn.tonies.de/o/audio_samples/85163a6c031676949f88c426628d6b84851268a6bfb9c244d55c3054/hoerprobe_10000996_disney_die_eiskonigin_die_eiskonigin_olaf_taut_auf_02mp3.mp3
-  web: https://tonies.com/de-de/tonies/disney/die-eiskoenigin-olaf-taut-auf/
+  web: https://tonies.com/de-de/tonies/disney-die-eiskoenigin-olaf-taut-auf/die-eiskoenigin-olaf-taut-auf/
   shop-id: d0a7b819-a62f-4f3d-af32-667928493674
   track-desc:
   - Olaf taut auf
