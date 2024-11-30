@@ -19,4 +19,24 @@ data:
   - Alles über Sterne + Planeten
   - Alles über Meere + Ozeane
   - Alles über die Arktis + Antarktis
-  ids: []
+  ids: 
+  - audio-id: 1708683284 # Alles über Vulkane
+    hash: a3a9fe7ff438159290f063955a56b8d7cd9035f5
+    size: 35644983
+    tracks: 1
+    confidence: 0
+  - audio-id: 1708683351 # Alles über Sterne + Planeten
+    hash: 2ee776425bb02cee6d60309a3c54d56ee646374f
+    size: 41076790
+    tracks: 1
+    confidence: 0
+  - audio-id: 1708683394 # Alles über Meere + Ozeane
+    hash: f8e068aa298a5f90fb866ccf6d09394cef352012
+    size: 36195519
+    tracks: 1
+    confidence: 0
+  - audio-id: 1708683439 # Alles über die Arktis + Antarktis
+    hash: 515b28c8d781881586c49fd55c9137b1555d816f
+    size: 34845527
+    tracks: 1
+    confidence: 0
