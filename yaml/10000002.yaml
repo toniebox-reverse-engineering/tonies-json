@@ -1,18 +1,18 @@
 article: '10000002'
 lock-data: false
 data:
-- series: The Gruffalo
-  series-id: the-gruffalo
+- series: Julia Donaldson
+  series-id: julia-donaldson
   episode: The Gruffalo's Child
   release: 0
   language: en-gb
   category: audio-book
   runtime: 15
-  age: 4
+  age: 3
   origin: stock
   image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000002-50000042-b-6NCHHCT0.png
   sample: https://cdn.tonies.de/o/audio_samples/31b6921ca6b0a703653ada7fa94a765ec711056a01353035303dc9d2/hoerprobe_the_grufallos_child.mp3
-  web: https://tonies.com/en-gb/tonies/the-gruffalo/the-gruffalos-child/
+  web: https://tonies.com/en-gb/tonies/julia-donaldson/the-gruffalos-child/
   shop-id: 7d54abc7-2d64-4a3a-85fd-a33d862577c5
   track-desc:
   - STORY- The Gruffalo's Child
