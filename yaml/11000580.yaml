@@ -1,0 +1,22 @@
+article: '11000580'
+lock-data: false
+data:
+- series: Totally Spies
+  series-id: totally-spies
+  episode: Alex
+  release: 1733356800
+  language: fr-fr
+  category: audio-play
+  runtime: 55
+  age: 6
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51003485-Tonie_Shado-TVkVFfeN.png
+  sample: https://cdn.tonies.de/o/audio_samples/a5a07252ecbf75052b9b16f3951794ce97193a15c761c3158061feb4/totally_spies_alex_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/totally-spies/alex/
+  shop-id: d322ad3d-3d19-4b5c-b3c2-f38e268bed93
+  track-desc:
+  - Le choc du futur
+  - Arnold le Magnifique
+  - Totalement givré
+  - Les Spies dans l'espace
+  ids: []

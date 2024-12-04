@@ -1,0 +1,45 @@
+article: '11000322'
+lock-data: false
+data:
+- series: Séléna Sans Chichis Ni Tralala
+  series-id: selena-sans-chichis-ni-tralala
+  episode: Le Tour Du Monde En 80 Jours (Ou Presque)
+  release: 1733356800
+  language: fr-fr
+  category: audio-play-songs
+  runtime: 80
+  age: 6
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51001062-Tonie_Shado-xEBBVYT8.png
+  sample: https://cdn.tonies.de/o/audio_samples/77be37fe2e8eb2fbdfb63ddec05139e491bd8ac2d6d7986542836988/11000322_6_selena_2_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/selena-sans-chichis-ni-tralala/le-tour-du-monde-en-80-jours-ou-presque/
+  shop-id: c9a979cf-40a7-4d8e-9c39-cdd8f58ca91f
+  track-desc:
+  - Introduction (inclus la chanson « Séléna »)
+  - 'Chapitre 1 : Les filles sont aussi capables que les garçons'
+  - 'Chapitre 2 : L’impétueuse Nellie Bly (inclus la chanson « En avant »)'
+  - 'Chapitre 3 : De New York à Amiens'
+  - 'Chapitre 4 : Le dîner avec Jules Verne'
+  - 'Chapitre 5 : En 1889, les femmes n’avaient pas autant de droits que les hommes
+    (inclus la chanson « Pas poli »)'
+  - 'Chapitre 6 : La rencontre avec l’inspecteur Fix'
+  - 'Chapitre 7 : De gros ennuis à cause… de chaussures (inclus la chanson « Sacrilège
+    »)'
+  - 'Chapitre 8 : Un moyen de transport pas banal'
+  - 'Chapitre 9 : Une coutume indienne des plus terrifiantes (inclus la chanson «
+    À dos d’éléphant »)'
+  - 'Chapitre 10 : Le plan audacieux de Séléna et Passepartout (inclus la chanson
+    « La déesse Kali »)'
+  - 'Chapitre 11 : Un drôle de tour'
+  - 'Chapitre 12 : Garder son sang froid dans la tempête'
+  - 'Chapitre 13 : Séléna retrouve ses chaussures'
+  - 'Chapitre 14 : John Bunsby (inclus la chanson « Une amie comme toi »)'
+  - 'Chapitre 15 : Prime ou pas prime ?'
+  - 'Chapitre 16 : Une célébrité à travers les continents (inclus la chanson « Au
+    Japon »)'
+  - 'Chapitre 17 : Le retour d’une vieille connaissance'
+  - 'Chapitre 18 : Le télégramme de la discorde'
+  - 'Chapitre 19 : Nouveau record battu'
+  - 'Chapitre 20 : Tout se termine par un camping sauvage (inclus la chanson « Séléna
+    reviendra »)'
+  ids: []

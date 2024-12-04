@@ -1,0 +1,24 @@
+article: '11000589'
+lock-data: false
+data:
+- series: Kung Fu Panda
+  series-id: kung-fu-panda
+  episode: Po
+  release: 1733356800
+  language: fr-fr
+  category: audio-play
+  runtime: 66
+  age: 6
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51003297-Tonie_Shado-o9seGDNB.png
+  sample: https://cdn.tonies.de/o/audio_samples/018d3f9bdc798c789c96019ff3be582f7256df58009f4b70e804398c/11000589_kungfupanda_extrait.wav
+  web: https://tonies.com/fr-fr/tonies/kung-fu-panda/po/
+  shop-id: 7c710c9e-c6df-42b2-95fd-34528ba58fca
+  track-desc:
+  - Introduction
+  - Chap 1 - Rêves de nouilles
+  - Chap 2 - Le guerrier Dragon
+  - Chap 3 - L'entraînement
+  - Chap 4 - Le terrible Tai Lung
+  - Chap 5 - L'ingrédient secret
+  ids: []
