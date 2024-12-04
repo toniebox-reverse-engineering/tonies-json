@@ -523,7 +523,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000660,Favorite Children's Songs,,Holiday Songs,en-us,Tonie,stock,7255819845783,,1,3,3,1
 10000662,Magic Faraway Tree,magic-faraway-tree,Magic Faraway Tree - The Enchanted Wood,en-gb,audio-book,stock,71d0566a-2152-4878-b935-d6e3375326c2,https://tonies.com/en-gb/tonies/magic-faraway-tree/magic-faraway-tree/,1,1,1,1
 10000663,Mr Bean ,,Mr Bean,en-gb,music,stock,,,1,1,1,1
-10000664,Disney,disney,Minnie - When we grow up,en-gb,audio-play-songs,stock,995bb377-fe72-4ca1-9d0a-bc296538d4d7,https://tonies.com/en-gb/tonies/disney/minnie-mouse/,1,1,1,1
+10000664,Mickey Mouse & Friends,disney-mickey-mouse-friends,Minnie - When we grow up,en-gb,audio-play-songs,stock,995bb377-fe72-4ca1-9d0a-bc296538d4d7,https://tonies.com/en-gb/tonies/disney-mickey-mouse-friends/minnie-mouse/,1,1,1,1
 10000665,Disney,disney,Minnie Maus - Helfen macht Spaß,de-de,audio-play,stock,9811f83e-b5ea-4794-b719-a989be617693,https://tonies.com/de-de/tonies/disney/helfen-macht-spa/,1,1,1,1
 10000666,Disney,disney,Die Schöne und das Biest,de-de,audio-play-songs,stock,06acd25a-fb26-4167-bace-5681c73fcfde,https://tonies.com/de-de/tonies/disney/die-schoene-und-das-biest/,1,1,1,3
 10000667,Clangers,clangers,Clangers Radio,en-gb,audio-play,stock,a413a340-9d7a-45a4-b7d4-a132354ebfc4,https://tonies.com/en-gb/tonies/clangers/clangers-radio/,1,1,1,1
@@ -539,7 +539,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000681,Barbie,barbie,Princess Adventure,de-de,audio-play,stock,03787943-fd77-44ff-8ebb-1ee1fddaa3b2,https://tonies.com/de-de/tonies/barbie/princess-adventure/,1,1,1,3
 10000682,Barbie,barbie,Barbie Princess Adventure,en-gb,audio-play-songs,stock,5163f836-5ae7-4be8-8c7c-ff23b4b7ab31,https://tonies.com/en-gb/tonies/barbie/princess-adventure/,1,1,1,1
 10000683,Disney,disney,Mickys total verrücktes Fußballspiel,de-de,audio-play,stock,20e5d9e4-840b-4ef9-84d0-93754e67075a,https://tonies.com/de-de/tonies/disney/mickys-total-verruecktes-fussballspiel/,1,1,1,3
-10000684,Disney,disney,Toy Story 2,en-gb,audio-play-songs,stock,488322c0-650a-4d10-8d59-3640fdaef953,https://tonies.com/en-gb/tonies/disney/toy-story-2/,1,0,0,0
+10000684,Toy Story,toy-story-2,Toy Story 2,en-gb,audio-play-songs,stock,488322c0-650a-4d10-8d59-3640fdaef953,https://tonies.com/en-gb/tonies/disney-toy-story/toy-story-2/,1,0,0,0
 10000685,Disney & Pixar,,Toy Story 2: Buzz Lightyear,en-us,Tonie,stock,7223047848087,,1,0,0,0
 10000686,Disney,disney,Rapunzel – Neu verföhnt,de-de,audio-play,stock,c3cb8810-56aa-42ee-8dbb-8ec61bf5bc9a,https://tonies.com/de-de/tonies/disney/rapunzel/,1,1,1,3
 10000687,Disney,disney,Küss den Frosch,de-de,audio-play,stock,16ad2b9b-6fbd-44d0-92c3-ad6a230d2070,https://tonies.com/de-de/tonies/disney/kss-den-frosch/,1,1,1,2
@@ -1187,6 +1187,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000317,Club Écolo,club-ecolo-2,Sauvetages De Haut Vol !,fr-fr,audio-play,stock,08bbbfbb-fccf-42d5-9762-9289267d2bf7,https://tonies.com/fr-fr/tonies/club-ecolo/sauvetages-de-haut-vol/,1,0,0,0
 11000318,Mes Classiques Préférés,mes-classiques-preferes,Les Malheurs De Sophie,fr-fr,audio-play,stock,1664920b-236f-4575-b9de-66c9f79bac72,https://tonies.com/fr-fr/tonies/mes-classiques-preferes/les-malheurs-de-sophie/,1,0,0,0
 11000319,Le Prince De Motordu,le-prince-de-motordu,Les Belles Lisses Poires,fr-fr,audio-play,stock,21f65037-f556-4f94-a3ab-f7080af7ca12,https://tonies.com/fr-fr/tonies/le-prince-de-motordu/les-belles-lisses-poires/,1,0,0,0
+11000322,Séléna Sans Chichis Ni Tralala,selena-sans-chichis-ni-tralala,Le Tour Du Monde En 80 Jours (Ou Presque),fr-fr,audio-play-songs,stock,c9a979cf-40a7-4d8e-9c39-cdd8f58ca91f,https://tonies.com/fr-fr/tonies/selena-sans-chichis-ni-tralala/le-tour-du-monde-en-80-jours-ou-presque/,1,0,0,0
 11000325,À L'Écoute Des Animaux,a-lecoute-des-animaux,De La Ferme,fr-fr,audio-play-songs,stock,25db37df-51a4-48cb-abe4-c600f1035b68,https://tonies.com/fr-fr/tonies/a-lecoute-des-animaux/de-la-ferme/,1,0,0,0
 11000329,Secrets D'Aventure,secrets-daventure,Sherlock Holmes,fr-fr,audio-play,stock,ace92292-9598-4dab-a391-2b77e64b691a,https://tonies.com/fr-fr/tonies/secrets-daventure/sherlock-holmes/,1,0,0,0
 11000333,Les As De La Jungle,les-as-de-la-jungle,Maurice,fr-fr,audio-play,stock,fa395856-b929-4dd0-9ebf-61cddff2c262,https://tonies.com/fr-fr/tonies/les-as-de-la-jungle/maurice/,1,0,0,0
@@ -1271,8 +1272,10 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000574,Creative-Tonie,,Mermaid,en-us,creative-tonie,stock,8134563692695,,1,0,0,0
 11000577,Mini-Loup,mini-loup,Mini-Loup À L'École,fr-fr,audio-play,stock,7179ae82-db42-4163-bfb5-76f186e58e34,https://tonies.com/fr-fr/tonies/mini-loup/mini-loup-a-l-ecole/,1,0,0,0
 11000578,Tara Duncan,tara-duncan-2,Vive La Magie !,fr-fr,audio-play,stock,d8b13c6d-2add-42af-98b9-8c22e24115c4,https://tonies.com/fr-fr/tonies/tara-duncan/vive-la-magie/,1,0,0,0
+11000580,Totally Spies,totally-spies,Alex,fr-fr,audio-play,stock,d322ad3d-3d19-4b5c-b3c2-f38e268bed93,https://tonies.com/fr-fr/tonies/totally-spies/alex/,1,0,0,0
 11000583,Alix Pix 2,alix-pix-2,"Mystères, Petits Pièges Et Sortilèges",fr-fr,audio-play,stock,d75a824b-f197-44c2-8c0a-b41bc691b8dc,https://tonies.com/fr-fr/tonies/alix-pix-2/mysteres-petits-pieges-et-sortileges/,1,0,0,0
 11000586,Batwheels - DC,dc-batwheels,Bam,fr-fr,audio-play,stock,9bae4ad5-03f6-4622-8a0d-58ccf39f1f39,https://tonies.com/fr-fr/tonies/batwheels-dc/bam/,1,0,0,0
+11000589,Kung Fu Panda,kung-fu-panda,Po,fr-fr,audio-play,stock,7c710c9e-c6df-42b2-95fd-34528ba58fca,https://tonies.com/fr-fr/tonies/kung-fu-panda/po/,1,0,0,0
 11000593,DC: Batwheels,dc-batwheels-2,DC - Batwheels,de-de,audio-play,stock,c8d317f8-d797-477b-803e-79145a88f468,https://tonies.com/de-de/tonies/dc-batwheels-2/dc-batwheels/,1,0,0,0
 11000594,Asterix,asterix,Asterix - Die Odyssee,de-de,audio-play,stock,12db35ae-f4a8-48c1-aa8a-b0b4fd3aa9cc,https://tonies.com/de-de/tonies/asterix/asterix-idefix-dogmatix-en-dach/,1,1,1,1
 11000596,Burpee Bears,burpee-bears,Burpee Bears,en-gb,audio-book,stock,d2414366-db00-42cb-b86e-3def2f9c073d,https://tonies.com/en-gb/tonies/burpee-bears/burpee-bears/,1,1,1,1
