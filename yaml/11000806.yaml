@@ -19,4 +19,24 @@ data:
   - Kraftprotze und Superhirne
   - Große Giganten und winzige Wunder
   - Hübsche Helden und verrückte Verwandler
-  ids: []
+  ids:
+  - audio-id: 1708685270
+    hash: bf83a29db5de33852810304a5b67d17e4808f4e9
+    size: 26053172
+    tracks: 4
+    confidence: 0
+  - audio-id: 1709629037
+    hash: c41dbc3ebfc0d44cda1479c70107bd615ff142f8
+    size: 19806546
+    tracks: 4
+    confidence: 0
+  - audio-id: 1708685356
+    hash: 36f6c8fe57793769b2fd83bdbdf0b4b868dfcaa2
+    size: 24898928
+    tracks: 4
+    confidence: 0
+  - audio-id: 1708685302
+    hash: ab4ce5afbf094467b65da2ebd5d0d6a9be89cead
+    size: 25200175
+    tracks: 4
+    confidence: 0
