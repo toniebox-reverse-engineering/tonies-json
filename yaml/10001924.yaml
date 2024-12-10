@@ -15,5 +15,27 @@ data:
   web: https://tonies.com/de-de/tonies/madagascar/madagascar/
   shop-id: f3516f00-a2eb-403d-8761-eb6cae24bb70
   track-desc:
-  - '18: Madagascar'
-  ids: []
+  - '01 - Madagascar – Teil 1'
+  - '02 - Madagascar – Teil 2'
+  - '03 - Madagascar – Teil 3'
+  - '04 - Madagascar – Teil 4'
+  - '05 - Madagascar – Teil 5'
+  - '06 - Madagascar – Teil 6'
+  - '07 - Madagascar – Teil 7'
+  - '08 - Madagascar – Teil 8'
+  - '09 - Madagascar – Teil 9'
+  - '10 - Madagascar – Teil 10'
+  - '11 - Madagascar – Teil 11'
+  - '12 - Madagascar – Teil 12'
+  - '13 - Madagascar – Teil 13'
+  - '14 - Madagascar – Teil 14'
+  - '15 - Madagascar – Teil 15'
+  - '16 - Madagascar – Teil 16'
+  - '17 - Madagascar – Teil 17'
+  - '18 - Madagascar – Teil 18'
+  ids:
+  - audio-id: 1731590574
+    hash: 3bcfa0de97cbdec2568d42e2aaa3c5f71fb53f92
+    size: 38932376
+    tracks: 18
+    confidence: 0
