@@ -1,18 +1,18 @@
 article: '10001309'
 lock-data: false
 data:
-- series: Disney
-  series-id: disney
+- series: Olaf's Frozen Adventure
+  series-id: disney-olafs-frozen-adventure
   episode: Olaf's Frozen Adventure
   release: 1666656000
   language: en-gb
   category: audio-play-songs
   runtime: 30
-  age: 3
+  age: 4
   origin: stock
   image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10001309-50004015-b-6m3Rd2IM.png
   sample: https://cdn.tonies.de/o/audio_samples/855864b17cf59da3ed58b95d01c7189fb57a60bd1281ca3bcd62a3e6/olaf_audio_sample.wav
-  web: https://tonies.com/en-gb/tonies/disney/olafs-frozen-adventure/
+  web: https://tonies.com/en-gb/tonies/disney-olafs-frozen-adventure/olafs-frozen-adventure/
   shop-id: 399905e2-2513-45ff-959e-e0a955021b8e
   track-desc:
   - When We’re Together
