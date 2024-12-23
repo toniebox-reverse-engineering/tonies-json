@@ -25,6 +25,11 @@ data:
   - CHAPTER 7 - Facing the Confusion Wizard
   - Tonies Outro
   ids:
+  - audio-id: 1734951079
+    hash: 501aa86f551fb7e3effb15bc26873c5609f0aa33
+    size: 49815950
+    tracks: 9
+    confidence: 1
   - audio-id: 1721920920
     hash: 3b05fdccae63a78eaddf7f6332af300f6dec361c
     size: 46115848
