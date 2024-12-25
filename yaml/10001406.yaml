@@ -21,4 +21,9 @@ data:
   - Le dauphin rose
   - L'oiseau perdu
   - La bambouseraie
-  ids: []
+  ids:
+  - audio-id: 1669114975
+    hash: 91bff9983bbde8732cd50408477e52bb735276a5
+    size: 33151909
+    tracks: 6
+    confidence: 1

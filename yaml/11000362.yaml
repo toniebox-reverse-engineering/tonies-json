@@ -21,4 +21,9 @@ data:
   - Petit Bill deviendra grand
   - Le festin nocturne de Bill
   - Une lumière au bout de l'orage
-  ids: []
+  ids:
+  - audio-id: 1706610523
+    hash: 23e9c44f329df056a564a8fe59285f7270cf6907
+    size: 28588508
+    tracks: 6
+    confidence: 1
