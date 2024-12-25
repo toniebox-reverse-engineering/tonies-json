@@ -96,10 +96,8 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001262,C'Est Toujours Pas Sorcier,c-est-toujours-pas-sorcier,Les Secrets De L'Espace,fr-fr,audio-play-educational,stock,f0f0f01e-7fe2-4b10-beab-f6fd0f645a29,https://tonies.com/fr-fr/tonies/c-est-toujours-pas-sorcier/les-secrets-de-l-espace/,1,0,0,0
 10001266,La Pat' Patrouille,paw-patrol,Stella,fr-fr,audio-play,stock,464a08bb-7421-4ae0-a113-42f57c19142d,https://tonies.com/fr-fr/tonies/la-pat-patrouille/stella/,1,0,0,1
 10001268,Peppa Pig,peppa-pig,George,fr-fr,audio-play,stock,c635652d-7763-4d14-a3fc-737c6f73e066,https://tonies.com/fr-fr/tonies/peppa-pig/george/,1,0,0,0
-10001281,Petit Ours Brun,petit-ours-brun-2,Petit Ours Brun (Vol. 1),fr-fr,audio-book,stock,904745eb-ce4f-4682-a39a-f2c3588fb2b4,https://tonies.com/fr-fr/tonies/petit-ours-brun/petit-ours-brun/,1,0,0,0
 10001283,Molang,molang,Molang,fr-fr,audio-play,stock,3a221db1-2e9d-47aa-b27d-3dfc5d974ba9,https://tonies.com/fr-fr/tonies/molang/molang/,1,0,0,1
 10001287,Joyeuses Fêtes Avec Olaf,disney-olafs-frozen-adventure,Joyeuses Fêtes Avec Olaf,fr-fr,audio-play-songs,stock,73ede02d-f524-412d-b675-0d5091abd561,https://tonies.com/fr-fr/tonies/disney-la-reine-des-neiges-joyeuses-fetes-avec-olaf/joyeuses-fetes-avec-olaf/,1,0,0,0
-10001289,L'École Des Loisirs,lecole-des-loisirs,Florilège D'Émotions,fr-fr,audio-book,stock,0786119f-2dae-48b5-b2f7-6fb1ab10e6ea,https://tonies.com/fr-fr/tonies/l-ecole-des-loisirs/florilege-d-emotions/,1,0,0,0
 10001309,Olaf's Frozen Adventure,disney-olafs-frozen-adventure,Olaf's Frozen Adventure,en-gb,audio-play-songs,stock,399905e2-2513-45ff-959e-e0a955021b8e,https://tonies.com/en-gb/tonies/disney-olafs-frozen-adventure/olafs-frozen-adventure/,1,0,0,0
 10001310,National Geographic Kids,national-geographic-kids,Horse,en-gb,audio-play,stock,43b50845-bb90-4599-9b18-12592e17f313,https://tonies.com/en-gb/tonies/national-geographic-kids/horse-uk/,1,0,0,1
 10001311,Sleepy Friends,sleepy-friends,Lullaby Melodies with Sleepy Sheep,en-gb,audio-book,stock,0b7755cc-cd79-4a82-aabc-5aa90927b773,https://tonies.com/en-gb/tonies/sleepy-friends/lullaby-melodies-with-sleepy-sheep/,1,0,0,0
@@ -119,7 +117,6 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001388,Cocomelon,cocomelon,CoComelon,en-gb,music,stock,f1ddb020-6f2f-4215-852d-40eb20096b1f,https://tonies.com/en-gb/tonies/cocomelon/cocomelon/,1,0,0,0
 10001397,Schlummerbande,sleepy-friends,"Klassik zum Einschlafen - Träum schön, kleiner Schlummerhase",de-de,music,stock,c8225280-653e-4fa8-904c-566735f77a39,https://tonies.com/de-de/tonies/schlummerbande/klassik-zum-einschlafen-trum-schn-kleiner-schlummerhase/,1,1,0,0
 10001398,Super Wings,super-wings,Feuer im Wald,de-de,audio-play,stock,07e14381-a6ea-473b-851c-8c610e97fc75,https://tonies.com/de-de/tonies/super-wings/feuer-im-wald/,1,1,0,0
-10001406,Mouk,mouk,Découvre Le Monde Avec Mouk,fr-fr,audio-play,stock,cb8635f6-d118-4ff8-923c-efa46197a79e,https://tonies.com/fr-fr/tonies/mouk/decouvre-le-monde-avec-mouk/,1,0,0,0
 10001408,Contes Du Monde,contes-du-monde,Afrique De L'Ouest,fr-fr,audio-book,stock,e8abdc4f-8c26-4912-989d-d0f4fd761dbb,https://tonies.com/fr-fr/tonies/contes-du-monde/afrique-de-l-ouest/,1,0,0,0
 10001471,Lieblings-Klassiker,mes-classiques-preferes,Pinocchio (Neuauflage 2024),de-de,audio-book,stock,e8049cc1-19c0-4dc6-a1fe-e5c8a41f4eca,https://tonies.com/de-de/tonies/lieblings-klassiker/pinocchio-neuauflage-2024/,1,0,0,0
 10001475,Winnie L'Ourson,disney-winnie-the-pooh,Winnie L'Ourson,fr-fr,audio-play-songs,stock,799ac6f2-89f7-4b5b-b60a-014ae758f218,https://tonies.com/fr-fr/tonies/disney-winnie-lourson/winnie-l-ourson/,1,0,0,0
@@ -129,21 +126,17 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001484,Lieblings-Märchen,lieblings-marchen,Rotkäppchen (Neuauflage 2023),de-de,audio-book,stock,231a87e1-6a25-4e2f-ba6e-1a886c7c577d,https://tonies.com/de-de/tonies/lieblings-maerchen/rotkppchen-neuauflage-2023/,1,1,0,0
 10001485,Disney,disney,Buh machst du! & 3 weitere Geschichten,de-de,audio-play,stock,85a858dd-5d83-473b-bf02-bbceabc2dfa6,https://tonies.com/de-de/tonies/disney/buh-machst-du-3-weitere-geschichten/,1,1,0,0
 10001486,Ich - einfach unverbesserlich,ich-einfach-unverbesserlich,Ich – Einfach unverbesserlich 4,de-de,audio-play,stock,0c7c9780-a9e1-4e60-96d2-4de9b269d1f5,https://tonies.com/de-de/tonies/ich-einfach-unverbesserlich/ich-einfach-unverbesserlich-4/,1,0,0,0
-10001496,Ma Pause Zen,ma-pause-zen,Cours Yoga De Sergio Lama,fr-fr,audio-play,stock,dcb58b8b-ee27-467f-a584-9ec14b1655a0,https://tonies.com/fr-fr/tonies/ma-pause-zen/cours-yoga-de-sergio-lama/,1,0,0,0
 10001502,Disney,disney,Mulan,fr-fr,audio-play-songs,stock,1736ecb5-2f5d-4ef3-bc8e-4b4ae7760da3,https://tonies.com/fr-fr/tonies/disney/mulan/,1,0,0,0
 10001505,Molang,molang,Molang 2,fr-fr,audio-play,stock,31332cee-e470-43ab-960b-34ec742b6a03,https://tonies.com/fr-fr/tonies/molang/molang-2/,1,0,0,1
-10001509,Simon,simon,Superlapin,fr-fr,audio-play,stock,012b1581-0108-4d5b-a9e5-d6c5a4f63e10,https://tonies.com/fr-fr/tonies/simon/superlapin/,1,0,0,0
 10001516,Marvel,marvel,Spidey & His Amazing Friends: Black Panther,en-gb,audio-play,stock,cd8459d2-6abc-494c-ac40-dc911fd0a653,https://tonies.com/en-gb/tonies/marvel/spidey-his-amazing-friends-black-panther/,1,0,0,0
 10001517,Lilo & Stitch,disney-lilo-stitch,Lilo & Stitch,en-gb,audio-book,stock,69f2cce3-034f-4f14-b5f2-99cf5aa3cef1,https://tonies.com/en-gb/tonies/disney-lilo-stitch/lilo-stitch/,1,0,0,0
 10001518,Gabby's Dollhouse,gabby-s-dollhouse,Gabby's Dollhouse,en-gb,audio-play-songs,stock,8b783a13-9ba8-49ed-bf24-05a848629f5d,https://tonies.com/en-gb/tonies/gabby-s-dollhouse/gabbys-dollhouse/,1,1,0,0
 10001588,Les Copains Du Dodo,sleepy-friends,Doudou Nounours,fr-fr,audio-play,stock,b32e297f-191e-4b8f-afbc-7067b5ebe8ef,https://tonies.com/fr-fr/tonies/les-copains-du-dodo/doudou-nounours/,1,0,0,0
-10001589,Ma Pause Zen,ma-pause-zen,Séances Méditatives De Max Larelax,fr-fr,audio-book,stock,b338ac50-ea5c-4973-b479-f1615829cef0,https://tonies.com/fr-fr/tonies/ma-pause-zen/seances-meditatives-de-max-larelax/,1,0,0,0
+10001589,Ma Pause Zen,ma-pause-zen,Séances Méditatives De Max Larelax,fr-fr,audio-book,stock,b338ac50-ea5c-4973-b479-f1615829cef0,https://tonies.com/fr-fr/tonies/ma-pause-zen/seances-meditatives-de-max-larelax/,1,0,0,1
 10001650,Angelina Ballerina,angelina-ballerina,Angelina Ballerina,en-gb,audio-book,stock,9fa43d8f-828f-4117-80ed-fbc18169dd1d,https://tonies.com/en-gb/tonies/angelina-ballerina/angelina-ballerina/,1,0,0,1
 10001651,Paw Patrol,paw-patrol,Rubble,en-gb,audio-play,stock,93eb1645-25e5-4c76-bd6d-91ff0503bf52,https://tonies.com/en-gb/tonies/paw-patrol/rubble/,1,0,0,0
 10001657,Les Copains Du Dodo,sleepy-friends,Doudou Lapinou,fr-fr,music,stock,faac4e19-c7b9-4b48-b1a7-29dccb8b269c,https://tonies.com/fr-fr/tonies/les-copains-du-dodo/doudou-lapinou/,1,0,0,0
-10001660,Les Contes Déglingués,les-contes-deglingues-2,Du Grand Méchant Loup,fr-fr,audio-play,stock,b718f578-8a54-4cc4-8415-e6682caa08f6,https://tonies.com/fr-fr/tonies/les-contes-deglingues/du-grand-mechant-loup/,1,0,0,0
 10001661,La Pat' Patrouille,paw-patrol,Ruben,fr-fr,audio-play,stock,21e72def-75cd-42cd-bc9d-f02e4b5d9dbf,https://tonies.com/fr-fr/tonies/la-pat-patrouille/ruben/,1,0,0,0
-10001664,Clem & Pathie,clem-pathie,Les Super-Sensibles,fr-fr,audio-play-songs,stock,88e13e68-149c-46e8-aea1-1971985459f7,https://tonies.com/fr-fr/tonies/clem-pathie/les-super-sensibles/,1,0,0,0
 10001674,Spidey Et Ses Amis Extraordinaires,marvel-spidey-and-his-amazing-friends,Spidey,fr-fr,audio-play-songs,stock,78c524ce-a4c1-45fe-b515-cfd762894a5e,https://tonies.com/fr-fr/tonies/spidey-et-ses-amis-extraordinaires/spidey/,1,0,0,0
 10001675,"Furzipups, der Knatterdrache",furzipups-der-knatterdrache,Furzipups - 3 Geschichten und 6 Songs,de-de,audio-play-songs,stock,58e1a649-d43d-4d27-8687-049bbd2b4df2,https://tonies.com/de-de/tonies/furzipups-der-knatterdrache/furzipups-3-geschichten-und-6-songs/,1,1,0,0
 10001682,Jurassic World: Neue Abenteuer,jurassic-world-neue-abenteuer,Folge 1: Camp Kreidezeit / Geheimnisse,de-de,audio-play,stock,0b04a420-354b-4ff4-bada-ffbe8cf8edf9,https://tonies.com/de-de/tonies/jurassic-world-neue-abenteuer/folge-1-camp-kreidezeit-geheimnisse/,1,0,0,0
@@ -160,7 +153,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001901,Séléna Sans Chichis Ni Tralala,selena-sans-chichis-ni-tralala,Plongée Insolite Dans Moby Dick,fr-fr,audio-play-songs,stock,15772168-b7eb-43d1-bc22-7539315ded9a,https://tonies.com/fr-fr/tonies/selena-sans-chichis-ni-tralala/plongee-insolite-dans-moby-dick/,1,0,0,0
 10001905,Peppa Pig,peppa-pig-2,Histoires Du Soir,fr-fr,audio-play,stock,1bbe5e06-c7d1-4909-a4eb-ff466dd7bd62,https://tonies.com/fr-fr/tonies/peppa-pig/histoires-du-soir/,1,0,0,0
 10001917,Simon,simon,Capitaine Lapin,fr-fr,audio-play,stock,aa3825eb-d215-4c36-ad4d-5c58a18884ce,https://tonies.com/fr-fr/tonies/simon/capitaine-lapin/,1,0,0,0
-10001924,Madagascar,madagascar,Madagascar,de-de,audio-play,stock,f3516f00-a2eb-403d-8761-eb6cae24bb70,https://tonies.com/de-de/tonies/madagascar/madagascar/,1,0,0,0
+10001924,Madagascar,madagascar,Madagascar,de-de,audio-play,stock,f3516f00-a2eb-403d-8761-eb6cae24bb70,https://tonies.com/de-de/tonies/madagascar/madagascar/,1,1,0,0
 10001925,Les Schtroumpfs,die-schlumpfe,Les Schtroumpfs Olympiques Et 2 Autres Histoires,fr-fr,audio-play,stock,805a6467-0889-40d0-bcee-c20f96bc9829,https://tonies.com/fr-fr/tonies/les-schtroumpfs/les-schtroumpfs-olympiques-et-2-autres-histoires/,1,0,0,0
 10001930,Favourite Children's Songs,favourite-children-s-songs,Healthy Habits,en-gb,music,stock,a796431c-7058-4c24-b64c-f30cae164a15,https://tonies.com/en-gb/tonies/favourite-children-s-songs/healthy-habits/,1,0,0,0
 10001936,Disney,disney,Tinkerbell,en-gb,audio-play,stock,4eb447f9-452b-4e71-9234-c299768bc430,https://tonies.com/en-gb/tonies/disney/tinkerbell/,1,0,0,0
@@ -183,7 +176,6 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10002098,La Pat' Patrouille,la-pat-patrouille,Everest,fr-fr,audio-play,stock,3a22b5c6-5b2a-4709-b04b-8e2ad82b90ec,https://tonies.com/fr-fr/tonies/la-pat-patrouille/everest/,1,0,0,0
 10002099,Les Contes De Hoofs,les-contes-de-hoofs,Maxoof,fr-fr,audio-play,stock,5ada5ae0-37c5-44f5-9a94-c1fb009651dc,https://tonies.com/fr-fr/tonies/les-contes-de-hoofs/maxoof/,1,0,0,0
 10002100,Les Contes De Hoofs,les-contes-de-hoofs,Zoof,fr-fr,audio-play,stock,9d7c0003-dd77-413e-8bdb-d14a5175566f,https://tonies.com/fr-fr/tonies/les-contes-de-hoofs/zoof/,1,0,0,0
-10002132,Lucie Petite Danseuse,lucie-petite-danseuse,Lucie,fr-fr,audio-play,stock,e5829bde-2e47-4c5b-afd7-199c29ed45a3,https://tonies.com/fr-fr/tonies/lucie-petite-danseuse/lucie/,1,0,0,0
 10002146,Peter und der Wolf,peter-und-der-wolf,Peter und der Wolf,de-de,audio-play-songs,stock,ede4d6e3-a85f-4496-ac9d-69c329fdbed5,https://tonies.com/de-de/tonies/peter-und-der-wolf/peter-und-der-wolf/,1,0,0,0
 10002150,Tonies Collection Bundle,,Disney Adventure Tonie Collection,en-gb,audio-play,stock,,,1,0,0,0
 10002164,Tonies Collection Bundle,,Disney Little Explorers Tonies Collection,en-gb,audio-play,stock,,,1,0,0,0
@@ -230,15 +222,12 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000329,Secrets D'Aventure,secrets-daventure,Sherlock Holmes,fr-fr,audio-play,stock,ace92292-9598-4dab-a391-2b77e64b691a,https://tonies.com/fr-fr/tonies/secrets-daventure/sherlock-holmes/,1,0,0,0
 11000333,Les As De La Jungle,les-as-de-la-jungle,Maurice,fr-fr,audio-play,stock,fa395856-b929-4dd0-9ebf-61cddff2c262,https://tonies.com/fr-fr/tonies/les-as-de-la-jungle/maurice/,1,0,0,0
 11000338,Le Journal De Gurty,le-journal-de-gurty,Parée Pour L'Hiver,fr-fr,audio-book,stock,39da76ad-63d0-4d70-af6a-70578a2055a5,https://tonies.com/fr-fr/tonies/le-journal-de-gurty/paree-pour-l-hiver/,1,0,0,0
-11000339,Mumfie,mumfie-2,Histoires Douces Pour Rêver,fr-fr,audio-play,stock,81bb996d-d247-4af6-88e3-df90204f628b,https://tonies.com/fr-fr/tonies/mumfie/histoires-douces-pour-rever/,1,0,0,0
 11000342,La Pat' Patrouille,la-pat-patrouille,Rocky,fr-fr,audio-play,stock,3371cd5e-4b84-4a37-a9b9-f84a1871091a,https://tonies.com/fr-fr/tonies/la-pat-patrouille/rocky/,1,0,0,0
 11000347,La Pat' Patrouille,paw-patrol,Rex,fr-fr,audio-play,stock,ec212d59-4bd0-4b74-948c-1f524cba415d,https://tonies.com/fr-fr/tonies/la-pat-patrouille/rex/,1,0,0,0
 11000348,La Pat' Patrouille,paw-patrol,Zuma,fr-fr,audio-play,stock,1cf1d8bc-e5df-481c-88a4-893b1e8dbe48,https://tonies.com/fr-fr/tonies/la-pat-patrouille/zuma/,1,0,0,0
-11000349,Calendrier De L'Avent,adventskalender,Le Petit Renne Qui Rêvait D'Avoir Des Ailes,fr-fr,audio-play,stock,ec6028d4-e0d4-4573-b61d-d9e47fe5d184,https://tonies.com/fr-fr/tonies/calendrier-de-l-avent/le-petit-renne-qui-revait-d-avoir-des-ailes/,1,0,0,0
 11000353,Masha Et Michka,mascha-und-der-bar,Michka,fr-fr,audio-play,stock,b006412f-f09d-4695-abca-b8562785ff2f,https://tonies.com/fr-fr/tonies/masha-et-michka/michka/,1,0,0,0
 11000355,La Journée De Léo,la-journee-de-leo,Mes Petits Rituels En Chansons,fr-fr,audio-play-songs,stock,4321ed79-2556-455e-8390-56acdefa08a8,https://tonies.com/fr-fr/tonies/la-journee-de-leo/mes-petits-rituels-en-chansons/,1,0,0,0
 11000361,Gigantosaurus,gigantosaurus-2,Mazu,fr-fr,audio-play,stock,fcf2688b-0b26-43ee-9bae-99dcc89e9d87,https://tonies.com/fr-fr/tonies/gigantosaurus/mazu/,1,0,0,0
-11000362,Gigantosaurus,gigantosaurus-2,Bill,fr-fr,audio-play,stock,3a9f307b-ba51-4379-a628-9f41d19a4d9f,https://tonies.com/fr-fr/tonies/gigantosaurus/bill/,1,0,0,0
 11000363,Totally Spies,totally-spies,Sam,fr-fr,audio-play,stock,43d52cc1-ebf8-48f7-940c-5ca4663b61c9,https://tonies.com/fr-fr/tonies/totally-spies/sam/,1,0,0,0
 11000405,Make Way for Ducklings,,,en-us,Tonie,stock,8134567002263,,1,0,0,0
 11000416,Peppa Pig,peppa-pig-2,Peppa Pig: My First Album,en-gb,music,stock,8e09ad55-5a33-466c-975c-27e25ffa429d,https://tonies.com/en-gb/tonies/peppa-pig/peppa-pig-my-first-album/,1,0,0,0
@@ -253,7 +242,6 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000458,Calm,,Calm,en-gb,,stock,d7d0d398-f289-47f3-acff-8e0cb0a47158,https://tonies.com/de-de///,1,0,0,0
 11000472,Moshi,moshi,Shishi,en-gb,audio-play-songs,stock,f1749271-10c5-455f-825e-0a57650e9aaf,https://tonies.com/en-gb/tonies/moshi/shishi/,1,0,0,0
 11000473,Moshi,moshi,Chirpy,en-gb,audio-play-songs,stock,fcc84f03-d079-4668-a90e-fe0e5c4ee414,https://tonies.com/en-gb/tonies/moshi/chirpy/,1,0,0,0
-11000476,Alma and How She Got Her Name,,,en-us,Tonie,stock,8517907742871,,1,0,0,0
 11000503,La Pat' Patrouille,la-pat-patrouille,Liberty,fr-fr,audio-play,stock,0041af69-1f3a-4432-91ce-f31baec80fdf,https://tonies.com/fr-fr/tonies/la-pat-patrouille/liberty/,1,0,0,0
 11000509,C'Est Toujours Pas Sorcier,was-ist-was,Nos Amis Les Animaux,fr-fr,audio-play-educational,stock,bb7c7283-d4d7-4ff9-94ab-9ff803d826b1,https://tonies.com/fr-fr/tonies/c-est-toujours-pas-sorcier/nos-amis-les-animaux/,1,0,0,0
 11000512,Foot 2 Rue,foot-2-rue,Petit Dragon,fr-fr,audio-play,stock,47d446af-df19-4209-852c-37205075ffc2,https://tonies.com/fr-fr/tonies/foot-2-rue/petit-dragon/,1,0,0,0
@@ -285,7 +273,6 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000730,Horrible Histories,horrible-histories,Vicious Vikings,en-gb,audio-book,stock,c165654e-4ec3-4c06-82fa-99d2de13f18c,https://tonies.com/en-gb/tonies/horrible-histories/vicious-vikings/,1,0,0,0
 11000732,Judith Kerr,judith-kerr,The Tiger Who Came to Tea,en-gb,audio-book,stock,020db413-0976-46f0-ba3b-0c8ff07ae560,https://tonies.com/en-gb/tonies/judith-kerr/the-tiger-who-came-to-tea/,1,0,0,0
 11000739,Kung Fu Panda,kung-fu-panda,Kung Fu Panda,de-de,audio-play,stock,ad0985a4-9351-4345-a978-877693353487,https://tonies.com/de-de/tonies/kung-fu-panda/kung-fu-panda/,1,1,0,0
-11000748,Sesame Street,,Elmo & Tango,en-us,Tonie,stock,8562891096215,,1,0,0,0
 11000758,Mes Contes Préférés,lieblings-marchen,Le Chat Botté Et 3 Autres Contes,fr-fr,audio-play,stock,ae9e38eb-0b17-49ec-80ec-825e1d81daba,https://tonies.com/fr-fr/tonies/mes-contes-preferes/le-chat-botte-et-3-autres-contes/,1,0,0,0
 11000759,Mes Comptines Préférées,lieblings-kinderlieder,Pour Frissonner,fr-fr,music,stock,371b7a42-ae85-4e5f-a42e-f9b87233ff37,https://tonies.com/fr-fr/tonies/mes-comptines-preferees/pour-frissonner/,1,0,0,0
 11000760,Calendrier De L'Avent,adventskalender,Un Noël Magique Pour Les Amis De La Forêt,fr-fr,audio-play,stock,c7996b2b-b5e5-44aa-8002-e455517d2c25,https://tonies.com/fr-fr/tonies/calendrier-de-l-avent/un-noel-magique-pour-les-amis-de-la-foret/,1,0,0,0
@@ -295,14 +282,14 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000771,Wundervolle Welt der Dinosaurier und der Urzeit,wundervolle-welt-der-dinosaurier,Wundervolle Welt der Dinosaurier und der Urzeit,de-de,audio-book,stock,c14a2dd5-1514-48ce-9f0c-39e67f32be14,https://tonies.com/de-de/clever-tonies/wundervolle-welt-der-dinosaurier/wundervolle-welt-der-dinosaurier-und-der-urzeit/,1,0,0,0
 11000788,WAS IST WAS,was-ist-was,WAS IST WAS - Set,de-de,audio-play,stock,3348d614-8647-4ad8-bf10-7b8e976d1c76,https://tonies.com/de-de/clever-tonies/was-ist-was/was-ist-was-set/,1,0,0,0
 11000789,Schlummerbande,sleepy-friends,Schlummerschaf – Einschlafmelodien von der Weide,de-de,music,stock,5c11b8b7-3c23-438e-a0a2-9eef44ae5b94,https://tonies.com/de-de/tonies/schlummerbande/schlummerschaf-einschlafmelodien-von-der-weide/,1,1,0,1
-11000796,GEOlino,geo,GEOlino Mini - Set,de-de,audio-play,stock,d93b7568-a0af-4135-ac99-1e76e47a581f,https://tonies.com/de-de/clever-tonies/geo/geolino-mini-set/,1,4,0,0
+11000796,GEOlino,geo,GEOlino Mini - Set,de-de,audio-play,stock,d93b7568-a0af-4135-ac99-1e76e47a581f,https://tonies.com/de-de/clever-tonies/geo/geolino-mini-set/,1,4,0,1
 11000806,Tierisch!,tierisch,Tierisch! Rekordverdächtig - Set,de-de,audio-play,stock,c3a3214c-2794-45ff-a4c7-2588c00f58c6,https://tonies.com/de-de/clever-tonies/tierisch/tierisch-rekordverdachtig-set/,1,4,0,0
 11000815,Jurassic World: Camp Cretaceous,jurassic-world-camp-cretaceous,Camp Cretaceous,en-gb,audio-play,stock,5a377de4-b495-4708-98f9-445a187a4b1e,https://tonies.com/en-gb/tonies/jurassic-world-camp-cretaceous/camp-cretaceous/,1,0,0,0
 11000842,KLE!NE EXPERTEN,klene-experten,KLE!NE EXPERTEN tauchen mit Walen,de-de,audio-play,stock,58ac0d5c-041f-42ee-b6f0-dc9b8b5950cc,https://tonies.com/de-de/tonies/klene-experten/klene-experten-tauchen-mit-walen/,1,0,0,0
 11000843,KLE!NE EXPERTEN,klene-experten,KLE!NE EXPERTEN treffen auf Dinosaurier,de-de,audio-play,stock,6965f3d5-fbc7-4f97-9fb2-bb3e2344c394,https://tonies.com/de-de/tonies/klene-experten/klene-experten-treffen-auf-dinosaurier/,1,0,0,0
 11000844,KLE!NE EXPERTEN,klene-experten,KLE!NE EXPERTEN ... galoppieren mit Pferden,de-de,audio-play,stock,ad856c48-f07e-428c-b480-2e1212a37dde,https://tonies.com/de-de/tonies/klene-experten/kleine-experten-galoppieren-mit-pferden/,1,0,0,0
 11000845,KLE!NE EXPERTEN,klene-experten,KLE!NE EXPERTEN ... begleiten Elefanten,de-de,audio-play,stock,ed315e7b-a88c-4715-81c4-b52d428cff00,https://tonies.com/de-de/tonies/klene-experten/kleine-experten-begleiten-elefanten/,1,0,0,0
-11000855,Mo Willems' The Pigeon Series,,,en-us,Tonie,stock,8558127120535,,1,0,0,0
+11000855,Mo Willems' The Pigeon Series,,,en-us,Tonie,stock,8558127120535,,1,0,0,1
 11000863,Cool Jobs,coole-jobs,Cool Jobs,en-gb,audio-play,stock,e7cabcaf-12a3-436b-96f2-dfeb05d892c4,https://tonies.com/en-gb/clever-tonies/cool-jobs/cool-jobs/,1,0,0,0
 11000886,Clever Tonies Set,,Cool Jobs,en-us,Tonie,stock,8134563299479,,1,0,0,0
 11000898,Twinkl,twinkl,Learn with Twinkl,en-gb,audio-play-educational,stock,eee96109-2797-468a-a128-241c1dcea204,https://tonies.com/en-gb/clever-tonies/twinkl/learn-with-twinkl/,1,0,0,0
@@ -313,7 +300,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000951,Encanto,disney-encanto,Encanto,fr-fr,audio-play-songs,stock,d0536670-b258-44fd-ad27-a6ee9a8f3172,https://tonies.com/fr-fr/tonies/disney-encanto/encanto/,1,0,0,0
 11000953,Coco,disney-coco,Coco,fr-fr,audio-play-songs,stock,434052c2-3e93-436d-a8d1-880462959d7f,https://tonies.com/fr-fr/tonies/disney-coco/coco/,1,0,0,0
 11000955,Les Copains Du Dodo,sleepy-friends,Doudou Mouton Noir,fr-fr,music,stock,3e7bfe3a-44c8-4fe1-a65f-d2554d5cbd92,https://tonies.com/fr-fr/tonies/les-copains-du-dodo/doudou-mouton-noir/,1,0,0,0
-11000974,Peppa Pig,peppa-pig-2,Meine Geburtstagsparty,de-de,audio-play,stock,3a43e53c-fd57-4d77-a09f-d81d6357553c,https://tonies.com/de-de/tonies/peppa-pig/meine-geburtstagsparty/,1,0,0,0
+11000974,Peppa Pig,peppa-pig-2,Meine Geburtstagsparty,de-de,audio-play,stock,3a43e53c-fd57-4d77-a09f-d81d6357553c,https://tonies.com/de-de/tonies/peppa-pig/meine-geburtstagsparty/,1,1,0,0
 11000976,Green Team,green-team,Green Team - Mission: Rettung an Land mit Nina dem roten Panda,de-de,audio-play,stock,e1d55be5-0a9c-433e-8685-f3538804a1f9,https://tonies.com/de-de/tonies/green-team/green-team-mission-rettung-an-land-mit-nina-dem-roten-panda/,1,0,0,0
 11001035,"Gus, der klitzekleine Ritter",gus,Die Legende von Gus und drei weitere Geschichten - Die Legende von Gus und drei weitere Geschichten [DACH],de-de,audio-play,stock,3d4faa1e-65c0-4865-8d6e-af3a4683785d,https://tonies.com/de-de/tonies/gus/die-legende-von-gus-und-drei-weitere-geschichten-die-legende-von-gus-und-drei-weitere-geschichten-dach/,1,0,0,0
 11001062,WAS IST WAS,was-ist-was,"Fußball - 1, 2, 3, ... Tor!",de-de,audio-play,stock,90d03792-e0da-4b86-904e-fd198a078ff7,https://tonies.com/de-de/clever-tonies/was-ist-was/was-ist-was-fussball/,1,0,0,0
@@ -328,7 +315,6 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11001167,Sleepy Friends,sleepy-friends,Sleepy Sheep Night Light,en-gb,audio-play-songs,stock,ef1a8809-074f-442b-bee3-171849d83d06,https://tonies.com/en-gb/tonies/sleepy-friends/sleepy-sheep-night-light/,1,0,0,0
 11001243,Animal World,animal-world,Wild Survivors,en-gb,audio-play-educational,stock,749f2518-b8fe-43ed-9e93-18d5892a9fd2,https://tonies.com/en-gb/clever-tonies/animal-world/wild-survivors/,1,0,0,0
 11001487,Animal World,animal-world,Precious Pets,en-gb,audio-play-educational,stock,4a426b4e-9c6a-4cd6-8b17-37f45c901408,https://tonies.com/en-gb/clever-tonies/animal-world/precious-pets/,1,0,0,0
-11001510,Jurassic World,,Camp Cretaceous,en-us,Tonie,stock,8562972393623,,1,0,0,0
 11001542,Bibi & Tina,bibi-tina,Die Wildpferde - Teil 2 - Die verlorene Freundschaft (Relaunch),de-de,audio-book,stock,a71a40bd-39c0-443d-8e0d-b76aa2598219,https://tonies.com/de-de/tonies/bibi-tina/die-verlorene-freundschaft-relaunch/,1,0,0,0
 11001543,MARVEL Spidey und seine Super-Freunde,marvel-spidey-and-his-amazing-friends,Spidey und seine Super-Freunde - Raketen-Rhino & 3 weitere spannende Abenteuer,de-de,audio-play,stock,cfc65b2d-ed74-46b9-b41c-6e1afa0b7dbb,https://tonies.com/de-de/tonies/marvel-spidey-and-his-amazing-friends/raketen-rhino-3-weitere-spannende-abenteuer/,1,0,0,0
 11001565,Lilo & Stitch,disney-lilo-stitch,Lilo Et Stitch,fr-fr,audio-play,stock,ddf7b05d-0e3f-44ca-a94f-aa64e720dfd3,https://tonies.com/fr-fr/tonies/disney-lilo-stitch/lilo-et-stitch/,1,0,0,0
@@ -337,12 +323,6 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11001834,Cocomelon,cocomelon,Raus in die Welt mit JJ,de-de,music,stock,ec1ab74e-d820-4abc-be01-1a71d504c30c,https://tonies.com/de-de/tonies/cocomelon/raus-in-die-welt-mit-jj/,1,0,0,0
 11001851,Disney,,"Bundle with Tigger, Woody & Stitch - Red",en-us,Tonie,stock,8481763459223,,1,0,0,0
 11001852,Disney,,"Bundle with Belle, Cinderella & Ariel - Pink",en-us,Tonie,stock,8482426847383,,1,0,0,0
-11001863,Disney,,Moana: Un Mar de Aventuras Tonie (en Español),en-us,Tonie,stock,8565784838295,,1,0,0,0
-11001864,Disney,,Frozen: Una Aventura Congelada Tonie (en Español),en-us,Tonie,stock,8565948055703,,1,0,0,0
-11001865,Disney,,Enredados Tonie (en Español),en-us,Tonie,stock,8537910837399,,1,0,0,0
-11001866,Disney,,La Sirenita Tonie (en Español),en-us,Tonie,stock,8517937987735,,1,0,0,0
-11001867,Disney,,El Rey León Tonie (en Español),en-us,Tonie,stock,8537910968471,,1,0,0,0
-11001878,Disney & Pixar,,Toy Story: Woody Tonie (en Español),en-us,Tonie,stock,8565943992471,,1,0,0,0
 11001913,Enid Blyton,enid-blyton,Stories For Bedtime,en-gb,audio-book,stock,9f619d2f-daa3-4b05-85da-8823371e830d,https://tonies.com/en-gb/book-tonies/enid-blyton/stories-for-bedtime/,1,0,0,0
 11002140,Potty Training,,,en-us,Tonie,stock,8134364266647,,1,0,0,0
 11002237,Sam's Club Disney Bundle with Red Toniebox,,,en-us,Tonie,stock,8533490204823,,1,0,0,0
