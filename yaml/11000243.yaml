@@ -1,0 +1,24 @@
+article: '11000243'
+lock-data: false
+data:
+- series: Worldwide Tales
+  series-id: worldwide-tales
+  episode: Irish Tales
+  release: 1736726400
+  language: en-gb
+  category: audio-play
+  runtime: 68
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/51000806-Tonie_Shado-XDQMiBMn.png
+  sample: https://cdn.tonies.de/o/audio_samples/63d4bbd4d39c99a18797c632f1161bec0031a3fcdbbaa3d331b6226c/tonies_irish_tales_ep1_the_king_of_the_birds_sample.wav
+  web: https://tonies.com/en-gb/tonies/worldwide-tales/irish-tales/
+  shop-id: 171d1856-87bf-4f2d-a941-25f2f45ed839
+  track-desc:
+  - 'STORY: The King Of The Birds'
+  - 'STORY: The Hound Of Ulster'
+  - 'STORY: Larry Lynchy'
+  - 'STORY: The Salmon Of Knowledge'
+  - 'STORY: The Enchantment Of Sadhbh'
+  - QUIZ
+  ids: []
