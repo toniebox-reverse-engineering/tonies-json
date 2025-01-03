@@ -32,4 +32,9 @@ data:
   - Cheer Interstitial 7
   - The Magic Of Caring
   - Cheer Outro
-  ids: []
+  ids:
+  - audio-id: 1707228492
+    hash: e24a56ebf752f1f010bcb670fbd0b2da47542187
+    size: 44962266
+    tracks: 17
+    confidence: 1

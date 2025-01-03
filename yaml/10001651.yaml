@@ -20,4 +20,9 @@ data:
   - Pups Save Heady Humdinger
   - Pups Save a Super Pup
   - Pups Party with Bats
-  ids: []
+  ids:
+  - audio-id: 1668590831
+    hash: 1f26051045e6d7ffacd39b64443cdd20f9ee01d7
+    size: 35706408
+    tracks: 10
+    confidence: 1

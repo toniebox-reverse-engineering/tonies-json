@@ -33,4 +33,9 @@ data:
   - 'SONG: It Came Upon the Midnight Clear (Drum ''n Bass)'
   - 'SONG:  In the Bleak Midwinter (Happy Hardcore)'
   - 'SONG:  Auld Lang Syne (House)'
-  ids: []
+  ids:
+  - audio-id: 1728990516
+    hash: 8b6eb79420a4f8e06390d9287c433ca1ea9c3efa
+    size: 45503085
+    tracks: 18
+    confidence: 1

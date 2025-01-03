@@ -39,4 +39,24 @@ data:
   - Friends Outdoors - Chickens in Paradise
   - Friends Outdoors - Lodistar Quiz 2
   - Friends Outdoors - Outro
-  ids: []
+  ids:
+  - audio-id: 1734081668
+    hash: cbdf4db6ae4694dca369b92bf0c64a96c7965134
+    size: 21723786
+    tracks: 6
+    confidence: 1
+  - audio-id: 1734081642
+    hash: 7dea270e29a4740ccd286c0664a4035a3eeb4ad4
+    size: 24676621
+    tracks: 6
+    confidence: 1
+  - audio-id: 1730298228
+    hash: 7fd5ae8249dc7bc77c99606905b6680a67bc26a7
+    size: 21524897
+    tracks: 6
+    confidence: 1
+  - audio-id: 1729147040
+    hash: 7edeedf27efcd3649a9e2a7407d55c7b3128b786
+    size: 194252401
+    tracks: 30
+    confidence: 1
