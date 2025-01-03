@@ -1,18 +1,18 @@
 article: '10000684'
 lock-data: false
 data:
-- series: ''
-  series-id: ''
+- series: tonies-json-en-gb,
+  series-id: tonies-json-en-gb,
   episode: ''
   release: ''
   language: ''
   category: ''
-  runtime: ''
+  runtime: tonies-json-en-gb,
   age: ''
   origin: ''
   image: ''
   sample: ''
-  web: ''
+  web: tonies-json-en-gb,
   shop-id: ''
   track-desc: ''
   ids: []

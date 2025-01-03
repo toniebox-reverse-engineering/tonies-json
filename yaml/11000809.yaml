@@ -1,0 +1,22 @@
+article: '11000809'
+lock-data: false
+data:
+- series: PAW Patrol's Jungle Pups
+  series-id: paw-patrols-jungle-pups
+  episode: 'Jungle Pups: Marshall'
+  release: 1736726400
+  language: en-gb
+  category: audio-play
+  runtime: 45
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/51003855-Tonie_Shado-UFg7HapW.png
+  sample: null
+  web: https://tonies.com/en-gb/tonies/paw-patrols-jungle-pups/jungle-pups-marshall/
+  shop-id: 72c5f5d5-e102-46ab-a909-fa5d71300fa2
+  track-desc:
+  - SONG - PAW Patrol Theme Song
+  - 'STORY: Jungle Pups - Pups Save the Big, Big Animals'
+  - 'STORY: Pups Save Alex''s Feathery Friends'
+  - 'STORY: Pups Save a Trophy'
+  ids: []

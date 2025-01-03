@@ -1,0 +1,26 @@
+article: '11001765'
+lock-data: false
+data:
+- series: Wish
+  series-id: disney-wish
+  episode: 'Wish : Asha Et La Bonne Étoile'
+  release: 1735776000
+  language: fr-fr
+  category: audio-play-songs
+  runtime: 79
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51003284-Tonie_Shado-b_T0R-co.png
+  sample: https://cdn.tonies.de/o/audio_samples/b0a7023486543a05ce018b805ff01a6c398a5abca9a574fee528ea6d/00_wish_extrait_site.mp3
+  web: https://tonies.com/fr-fr/tonies/disney-wish/wish-asha-et-la-bonne-etoile/
+  shop-id: f78f7170-706b-47c4-a504-40dec671b6ae
+  track-desc:
+  - Wish - Partie 1 (inclus la chanson "Bienvenue à Rosas" - version abrégée)
+  - Wish - Partie 2 (inclus la chanson "Ma promesse" - version abrégée)
+  - Wish - Partie 3 (inclus la chanson "Je fais le voeu" - version abrégée)
+  - Wish - Partie 4 (inclus la chanson "Tous des étoiles" - version abrégée)
+  - Wish - Partie 5 (inclus la chanson "Ma récompense" - version abrégée)
+  - Wish - Partie 6
+  - Wish - Partie 7 (inclus la chanson "Ce n'est plus mon roi" - version abrégée)
+  - Wish - Partie 8 (inclus la chanson "Je fais le voeu (reprise)" - version abrégée)
+  ids: []

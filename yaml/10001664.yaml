@@ -22,4 +22,9 @@ data:
   - Amour vache
   - La blague de trop
   - 'Bonus : 3 Chansons'
-  ids: []
+  ids:
+  - audio-id: 1682069209
+    hash: 188b0cc09bcfd8d773d753d61ba0a173e2a2c830
+    size: 38222736
+    tracks: 7
+    confidence: 1

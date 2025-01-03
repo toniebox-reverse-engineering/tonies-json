@@ -24,4 +24,9 @@ data:
   - Cours yoga 2 - La montagne
   - Cours yoga 3 - La savane
   - Cours yoga 4 - La ferme
-  ids: []
+  ids:
+  - audio-id: 1673358450
+    hash: 87cc7a7343067f64cd3d7e70a491ab39727e30bc
+    size: 162471926
+    tracks: 9
+    confidence: 1

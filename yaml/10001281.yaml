@@ -30,4 +30,9 @@ data:
   - Petit Ours Brun joue à la plage
   - Petit Ours Brun se promène en forêt
   - Petit Ours Brun joue dans la neige
-  ids: []
+  ids:
+  - audio-id: 1685715501
+    hash: 088dcd8386123ada85febd5414d0edb9eb82f338
+    size: 36865054
+    tracks: 15
+    confidence: 1

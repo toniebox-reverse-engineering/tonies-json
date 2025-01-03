@@ -32,4 +32,9 @@ data:
   - 'Jeu #5 : Les danses au fil du temps'
   - 'Jeu #6 : Quelques conseils pour danser chez toi'
   - 'Jeu #7 : Les cinq positions de départ'
-  ids: []
+  ids:
+  - audio-id: 1686064365
+    hash: afd3903063a0bc04f76c9f1cb1c825b52f994d91
+    size: 53265009
+    tracks: 17
+    confidence: 1

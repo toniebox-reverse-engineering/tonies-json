@@ -2,7 +2,7 @@ article: '2000010837'
 lock-data: false
 data:
 - series: Barbie
-  series-id: null
+  series-id: barbie
   episode: Prinsesse på rockeventyr
   release: 1713312000
   language: da-dk

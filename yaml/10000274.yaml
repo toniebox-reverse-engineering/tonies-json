@@ -25,4 +25,9 @@ data:
   - Spot‘s Favourite Toy
   - Spot‘s Show and Tell
   - Spot Plays Hide-and-Seek
-  ids: []
+  ids:
+  - audio-id: 1603457927
+    hash: 02e1629a1dbaf37c9350b50f5387df2361d291bd
+    size: 20494873
+    tracks: 10
+    confidence: 1

@@ -3,7 +3,7 @@ lock-data: false
 data:
 - series: Lalalinos
   series-id: lalalinos
-  episode: Es groovt in Bumbaloo
+  episode: Es groovt in Bumbaloo (Scout)
   release: 1732060800
   language: de-de
   category: audio-play-songs
@@ -11,9 +11,14 @@ data:
   age: 3
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11000615_1_a-DXsZbnYT.png
-  sample: https://cdn.tonies.de/o/audio_samples/c9f6d8048aa7b5b6c35ed5bbb635295f4ecd4788d0e797c7089a93fc/171024_lalalino_theme_dach_mix_v1.mp3
+  sample: https://cdn.tonies.de/o/audio_samples/447eab224eb463b83d2927afa5836daa4436254aaf3b7d280e780dac/horprobe_lalalinos_s2_scout.wav
   web: https://tonies.com/de-de/tonies/lalalinos/lalalinos-es-groovt-in-bumbaloo/
   shop-id: 46295ffc-1b7b-43e3-928d-02820af19129
   track-desc:
-  - erstes Kapitel
+  - Lalalinos Titelsong
+  - Lalalinos Intro
+  - Lass uns tauschen!
+  - Das Xylo-Buch
+  - Plopp-oder-Flopp
+  - Der Schatz von Bumbaloo
   ids: []

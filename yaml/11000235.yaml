@@ -22,4 +22,9 @@ data:
   - 'STORY: Star Search'
   - 'STORY: Swapsies'
   - 'QUIZ: The Music Quiz'
-  ids: []
+  ids:
+  - audio-id: 1728480490
+    hash: 00cafea29d02ca370ba754384dc34fd698e093f9
+    size: 46894475
+    tracks: 7
+    confidence: 1

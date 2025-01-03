@@ -25,4 +25,9 @@ data:
   - La fois où Jack a mal coupé le haricot magique
   - La fois où les 3 petits cochons sont allés au bal
   - Conclusion
-  ids: []
+  ids:
+  - audio-id: 1695394582
+    hash: ba0d8af539501e61762254b15995b1673dfb12ad
+    size: 66235816
+    tracks: 9
+    confidence: 1

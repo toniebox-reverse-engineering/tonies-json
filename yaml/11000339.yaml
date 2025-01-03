@@ -21,4 +21,9 @@ data:
   - Capitaine Ruby et la recette rêvée
   - Châtelain et le royaume secret
   - Kaleb et le Soleil qui crépite
-  ids: []
+  ids:
+  - audio-id: 1697111847
+    hash: 578ddaf87be3d9c349786052707835ab43cc41f4
+    size: 53771456
+    tracks: 6
+    confidence: 1

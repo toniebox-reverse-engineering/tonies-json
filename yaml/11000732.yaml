@@ -4,7 +4,7 @@ data:
 - series: Judith Kerr
   series-id: judith-kerr
   episode: The Tiger Who Came to Tea
-  release: 1731456000
+  release: 1731628800
   language: en-gb
   category: audio-book
   runtime: 45
@@ -25,4 +25,9 @@ data:
   - 'BONUS: Quiz & Trivia'
   - 'BONUS: Fun Activities'
   - 'BONUS: Trivia & Action Song'
-  ids: []
+  ids:
+  - audio-id: 1731068429
+    hash: 9bc0848e3e137c5f2dd673f12ed14d1da8ed1c12
+    size: 35444436
+    tracks: 10
+    confidence: 1

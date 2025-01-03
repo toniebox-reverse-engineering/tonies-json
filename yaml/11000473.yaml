@@ -19,4 +19,9 @@ data:
   - 'MEDITATION: Chirpy''s Happy Thoughts'
   - 'MEDITATION: Rise and Shine with Chirpy'
   - 'INSTRUMENTAL: Franzipan Farm Birdsong'
-  ids: []
+  ids:
+  - audio-id: 1721984612
+    hash: 1ea7d07b4bb6e23230190421aef010c5697de864
+    size: 52354597
+    tracks: 4
+    confidence: 1

@@ -1,0 +1,47 @@
+article: '2000011276'
+lock-data: false
+data:
+- series: Die drei ??? Kids
+  series-id: die-drei-kids
+  episode: Adventskalender - 24 Tage Elfen-Alarm
+  release: 1732492800
+  language: de-de
+  category: audio-play
+  runtime: 7456
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/f13ef71c8ba7e78b765c747c756bd9c62e47f2fca6d077b247c9e638/3_MmvVm-zyr1nf.bRD/die_drei_kids_adventskalender_24_tage_elfe_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-drei-kids/die-drei-kids-adventskalender-24-tage-elfen-alarm/
+  shop-id: 5dfedf53-abc7-4f2e-8cef-b66ce0836502
+  track-desc:
+  - Adventskalender - 24 Tage Elfen-Alarm (Intro)
+  - Die drei ??? Kids Titelsong
+  - Tag 01 - Weihnachtsmarkt
+  - Tag 02 - Elfen-Alarm
+  - Tag 03 - Geschenkemanufaktur
+  - Tag 04 - Sabotage
+  - Tag 05 - Alptraum
+  - Tag 06 - Norris' Bar
+  - Tag 07 - Cliff Hotel
+  - Tag 08 - Geheimgang
+  - Tag 09 - Im Nebel
+  - Tag 10 - Erpressung
+  - Tag 11 - Sonderauftrag
+  - Tag 12 - Hinterhalt
+  - Tag 13 - Playground (Teil 01)
+  - Tag 13 - Playground (Teil 02)
+  - Tag 14 - Tarnung
+  - Tag 15 - Die Fabrik
+  - Tag 16 - Weihnachtsfeier
+  - Tag 17 - Die Wahrheit
+  - Tag 18 - Tresorknacker
+  - Tag 19 - Erpresservideo
+  - Tag 20 - Die Falle
+  - Tag 21 - Der Film
+  - Tag 22 - Weihnachtsmann
+  - Tag 23 - Fluchtboot
+  - Tag 24 - Weihnachtskrippe
+  - Die drei ??? Kids Schlußsong
+  - Adventskalender - 24 Tage Elfen-Alarm (Outro)
+  ids: []
