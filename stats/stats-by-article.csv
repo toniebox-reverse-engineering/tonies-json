@@ -200,7 +200,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000002,Julia Donaldson,julia-donaldson,The Gruffalo's Child,en-gb,audio-book,stock,7d54abc7-2d64-4a3a-85fd-a33d862577c5,https://tonies.com/en-gb/tonies/julia-donaldson/the-gruffalos-child/,1,0,0,0
 10000003,Julia Donaldson,julia-donaldson,Room on the Broom,en-gb,audio-book,stock,342f8b26-0a11-4dae-a3c3-6a312c91567a,https://tonies.com/en-gb/tonies/julia-donaldson/room-on-the-broom/,1,1,1,1
 10000004,The Snowman,the-snowman,The Snowman/The Snowman and the Snowdog,en-gb,audio-book,stock,2eb100d0-4a9a-41fb-bad6-04334d84b8f6,https://tonies.com/en-gb/tonies/the-snowman/the-snowman-and-the-snowdog/,1,1,1,3
-10000005,Highway Rat,highway-rat,Highway Rat,en-gb,audio-book-songs,stock,64132198-c82f-4f56-a30b-1620589b45a6,https://tonies.com/en-gb/tonies/highway-rat/highway-rat/,1,0,0,0
+10000005,Julia Donaldson,julia-donaldson,Highway Rat,en-gb,audio-book-songs,stock,64132198-c82f-4f56-a30b-1620589b45a6,https://tonies.com/en-gb/tonies/julia-donaldson/highway-rat/,1,0,0,0
 10000006,Julia Donaldson,julia-donaldson,Zog,en-gb,audio-book-songs,stock,07984db1-13a3-4f6a-84b6-27b6ba1b0f74,https://tonies.com/en-gb/tonies/julia-donaldson/zog/,1,1,1,1
 10000007,Julia Donaldson,julia-donaldson,Stick Man,en-gb,audio-book-songs,stock,b73dfc00-f6d7-4924-a859-b0677e33ff5c,https://tonies.com/en-gb/tonies/julia-donaldson/stick-man/,1,1,0,0
 10000008,HOW AND WHY,,The Age of Dinosaurs / Prehistoric Animals,en-gb,audio-play-educational,stock,,,1,0,0,1
@@ -322,7 +322,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000247,Pumuckl,pumuckl,Spuk in der Werkstatt/Das verkaufte Bett,de-de,audio-play,stock,5e42ada7-f19e-4b58-8e80-48adcaac8d77,https://tonies.com/de-de/tonies/pumuckl/spuk-in-der-werkstatt-das-verkaufte-bett/,1,1,1,2
 10000248,Yakari,yakari,Best of Kleiner Donner,de-de,audio-play,stock,960ae3c8-3a47-4968-9d33-b7861e8193d0,https://tonies.com/de-de/tonies/yakari/best-of-kleiner-donner/,1,1,1,4
 10000249,Creative-Tonie,,Fairy,en-gb,creative-tonie,stock,5dc6eb33-9352-4eb0-8dfa-003c531e955e,https://tonies.com/de-de///,1,1,0,0
-10000250,Disney,disney,Cinderella,en-gb,audio-play-songs,stock,72199863-f304-4999-819a-327207686eb5,https://tonies.com/en-gb/tonies/disney/cinderella/,1,1,1,1
+10000250,Cinderella,disney-cinderella,Cinderella,en-gb,audio-play-songs,stock,72199863-f304-4999-819a-327207686eb5,https://tonies.com/en-gb/tonies/disney-cinderella/cinderella/,1,1,1,1
 10000251,Favourite Children’s Songs,,Playtime and Action Songs 2,en-gb,music,stock,,,1,1,1,1
 10000252,Favourite Tales,favourite-tales,Puss in Boots and other fairy tales,en-gb,audio-book,stock,91a59dd3-b50e-42b0-b4c3-f739b8bde93d,https://tonies.com/en-gb/tonies/favourite-tales/puss-in-boots-and-other-fairy-tales/,1,1,1,1
 10000254,Benjamin Blümchen,,Das Original-Hörspiel zum Kinofilm und Songs,de-de,audio-play-songs,stock,,,1,2,1,3
@@ -1083,7 +1083,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10002103,Sleepy Friends,,Bedtime Stories with Sleepy Bear,en-us,Tonie,stock,7912828829847,,1,1,1,1
 10002104,Sleepy Friends,,Classical Music with Sleepy Rabbit,en-us,Tonie,stock,7926741532823,,1,1,1,1
 10002132,Lucie Petite Danseuse,lucie-petite-danseuse,Lucie,fr-fr,audio-play,stock,e5829bde-2e47-4c5b-afd7-199c29ed45a3,https://tonies.com/fr-fr/tonies/lucie-petite-danseuse/lucie/,1,1,1,1
-10002135,Pummel & Friends,pummel-friends,Das Pummeleinhorn: Der Herr der Donuts & Alles versalzen,de-de,audio-play,stock,ec709cb5-1688-42d4-aed7-0a6262fa04a6,https://tonies.com/de-de/tonies/pummel-friends/das-pummeleinhorn-der-herr-der-donuts-alles-versalzen/,1,1,1,1
+10002135,Pummel & Friends,pummel-friends-2,Das Pummeleinhorn: Der Herr der Donuts & Alles versalzen,de-de,audio-play,stock,ec709cb5-1688-42d4-aed7-0a6262fa04a6,https://tonies.com/de-de/tonies/pummel-friends/das-pummeleinhorn-der-herr-der-donuts-alles-versalzen/,1,1,1,1
 10002136,PAW Patrol,paw-patrol,Ein neuer Fellfreund,de-de,audio-play,stock,2c3495cc-0c5e-43f7-8ce9-2f6909951664,https://tonies.com/de-de/tonies/paw-patrol/ein-neuer-fellfreund/,1,1,1,3
 10002137,Jan Brett Collection,,,en-us,Tonie,stock,7953348198551,,1,3,3,1
 10002140,Leo's Day,,Routines,en-us,Tonie,stock,8020002308247,,1,3,3,1
