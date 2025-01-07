@@ -53,9 +53,9 @@ data:
   - Mylodon, Wollhaarmammut - Track 036
   - Wollhaarmammut, Schrecklicher Wolf - Track 037
   - Ausrottung -Track 038
-  ids: 
+  ids:
   - audio-id: 1718009185
     hash: bfad0af77cec670ba2fa8758d0d7697839d8b74a
     size: 57359019
     tracks: 38
-    confidence: 0
+    confidence: 1
