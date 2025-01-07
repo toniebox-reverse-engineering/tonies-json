@@ -24,4 +24,9 @@ data:
   - 'Kapitel 02: Rhinoctopus'
   - 'Kapitel 01: Der Riesenkürbis'
   - 'Kapitel 02: Der Riesenkürbis'
-  ids: []
+  ids:
+  - audio-id: 1730887104
+    hash: 3fdeb170922b90d565b04f82edf3d4cc1ded1303
+    size: 40560890
+    tracks: 9
+    confidence: 0
