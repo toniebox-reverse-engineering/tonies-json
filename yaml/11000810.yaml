@@ -11,7 +11,7 @@ data:
   age: 3
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/51003858-Tonie_Shado-A-uOp-N3.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/cee2a58f3b2a45e2346bda6efca61e52919570b9107d6f4f4492b29b/skye_2_promo.wav
   web: https://tonies.com/en-gb/tonies/paw-patrols-jungle-pups/jungle-pups-skye/
   shop-id: d8913c45-22bc-4835-a6a7-2c54d3d1b898
   track-desc:

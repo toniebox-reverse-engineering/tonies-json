@@ -11,7 +11,7 @@ data:
   age: 3
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/51003852-Tonie_Shado-gHsttU4C.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/f19b8bfc8f1e3bed5380a13b1a76445223cc4fe7cf9ee510e721e689/chase_promo_1__160lufsint.wav
   web: https://tonies.com/en-gb/tonies/paw-patrols-jungle-pups/jungle-pups-chase/
   shop-id: 05ea7ae4-f121-43c6-b22b-ee0b7ce281bc
   track-desc:
