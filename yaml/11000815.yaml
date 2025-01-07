@@ -21,4 +21,9 @@ data:
   - 'CHAPTER 3: Secrets Part 1'
   - 'CHAPTER 4: Secrets Part 2'
   - 'CHAPTER 5: Secrets Part 3'
-  ids: []
+  ids:
+  - audio-id: 1730977512
+    hash: d027b2ce72d49444fa69c5cfdda5650ab807b166
+    size: 31413286
+    tracks: 6
+    confidence: 1

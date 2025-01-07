@@ -19,4 +19,9 @@ data:
   - 'MEDITATION: ShiShi''s Soothing Anxiety Shrinker'
   - 'MEDITATION: Growing a Flower Garden with ShiShi'
   - 'INSTRUMENTAL: Dreaming Moshi Anxiety Relief'
-  ids: []
+  ids:
+  - audio-id: 1725027256
+    hash: d25483f4edc8fb82d5ebd2fd6b382887661e0b60
+    size: 61278081
+    tracks: 4
+    confidence: 1

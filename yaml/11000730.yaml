@@ -26,4 +26,9 @@ data:
   - 'CHAPTER 9: Alfred The Cake'
   - 'CHAPTER 10: Mighty Men'
   - 'CHAPTER 11: Vicious Viking Lessons'
-  ids: []
+  ids:
+  - audio-id: 1727345902
+    hash: 346571b262d7cc1fcb3ac70f0692015882bdcad5
+    size: 44867290
+    tracks: 11
+    confidence: 1

@@ -1,0 +1,28 @@
+article: '11000357'
+lock-data: false
+data:
+- series: La Pat' Patrouille
+  series-id: paw-patrol
+  episode: Tracker
+  release: 1735776000
+  language: fr-fr
+  category: audio-play
+  runtime: 76
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51000847-Tonie_Shado-AZ_FztOc.png
+  sample: https://cdn.tonies.de/o/audio_samples/17f5c24953ff15cb08b89f80ea46506d916d377e6ae8c73454e7c16e/11000357_pat_patrouille_tracker_extrait_site.mp3
+  web: https://tonies.com/fr-fr/tonies/la-pat-patrouille/tracker/
+  shop-id: dd759402-4a54-42fd-af5e-7e0025e76a40
+  track-desc:
+  - Introduction
+  - Générique de la Pat' Patrouille
+  - Tracker, le ranger de la jungle
+  - Interlude
+  - Le Grand Singe
+  - Interlude
+  - Le courrier du facture
+  - Interlude
+  - La Relique en or
+  - Conclusion
+  ids: []

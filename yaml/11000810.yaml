@@ -1,0 +1,21 @@
+article: '11000810'
+lock-data: false
+data:
+- series: PAW Patrol's Jungle Pups
+  series-id: paw-patrols-jungle-pups
+  episode: 'Jungle Pups: Skye'
+  release: 1736726400
+  language: en-gb
+  category: audio-play
+  runtime: 45
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/51003858-Tonie_Shado-A-uOp-N3.png
+  sample: null
+  web: https://tonies.com/en-gb/tonies/paw-patrols-jungle-pups/jungle-pups-skye/
+  shop-id: d8913c45-22bc-4835-a6a7-2c54d3d1b898
+  track-desc:
+  - 'STORY: Jungle Pups - Pups Find a Hidden Jungle'
+  - 'STORY: Jungle Pups - Pups Save the Giant Ants'
+  - 'STORY: Pups Save a Hum-Hippo'
+  ids: []

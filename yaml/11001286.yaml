@@ -1,0 +1,32 @@
+article: '11001286'
+lock-data: false
+data:
+- series: Sleepy Friends
+  series-id: sleepy-friends
+  episode: Sleepy Sheep – Lullabies from the Meadow
+  release: 1736726400
+  language: en-gb
+  category: music
+  runtime: 140
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/51004463-Tonie_Shado-mL-O6zZa.png
+  sample: https://cdn.tonies.de/o/audio_samples/c3bd4656add876f8c881337463a4ca55adebe24e28d6864d0f7df8b8/sleepy_sheep_lullabies_from_meadow_limited_sample.wav
+  web: https://tonies.com/en-gb/tonies/sleepy-friends/sleepy-sheep-lullabies-from-the-meadow/
+  shop-id: d33bb659-a139-42a3-b48e-9a246e2410f0
+  track-desc:
+  - 'SOUNDSCAPE: Lullabies from the Meadow 1'
+  - 'SOUNDSCAPE: Lullabies from the Meadow 2'
+  - 'SOUNDSCAPE: Lullabies from the Meadow 3'
+  - 'SOUNDSCAPE: Lullabies from the Meadow 4'
+  - 'SOUNDSCAPE: Lullabies from the Meadow 5'
+  - 'SOUNDSCAPE: Lullabies from the Meadow 6'
+  - 'SOUNDSCAPE: Lullabies from the Meadow 7'
+  - 'SOUNDSCAPE: Lullabies from the Meadow 8'
+  - 'SOUNDSCAPE: Lullabies from the Meadow 9'
+  - 'SOUNDSCAPE: Lullabies from the Meadow 10'
+  - 'SOUNDSCAPE: Lullabies from the Meadow 11'
+  - 'SOUNDSCAPE: Lullabies from the Meadow 12'
+  - 'SOUNDSCAPE: Lullabies from the Meadow 13'
+  - 'SOUNDSCAPE: Lullabies from the Meadow 14'
+  ids: []
