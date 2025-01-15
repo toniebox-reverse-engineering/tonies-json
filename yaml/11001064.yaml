@@ -1,0 +1,44 @@
+article: '11001064'
+lock-data: false
+data:
+- series: Sendung mit der Maus zum hören
+  series-id: sendung-mit-der-maus-zum-horen
+  episode: Frag doch mal … die Maus! Wissen für Kinder
+  release: 1739318400
+  language: de-de
+  category: audio-book
+  runtime: 72
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11001064_1_a-CvC-l95x.png
+  sample: null
+  web: https://tonies.com/de-de/clever-tonies/sendung-mit-der-maus-zum-hoeren/frag-doch-mal-die-maus-wissen-fuer-kinder/
+  shop-id: d8428c33-0af6-4442-ab9e-1c53c0498918
+  track-desc:
+  - Intro Maus Thema
+  - Warum Ist die Banane Krumm?
+  - Wie kommen die Farben in die Murmel?
+  - Wer hat das Klopapier erfunden?
+  - Warum heißt das Spiegelei Spiegelei?
+  - Wie kommen Die Löcher in den Käse?
+  - Wieso knistert das Feuer?
+  - Wie kommen die Streifen in die Zahnpasta?
+  - Warum klebt der Kleber?
+  - Warum ist der Badeschaum immer weiß?
+  - Warum sieht man sich in einem Löffel auf dem Kopf stehend?
+  - Wie bildet sich eine Haut auf der Milch?
+  - Wie wird man Balletttänzerin?
+  - Wie wird man Polizist?
+  - Musik
+  - Wie kommt der Strom in die Steckdose?
+  - Wie funktioniert ein Smartphone?
+  - Was ist eine App?
+  - Wie funktioniert ein Touchscreen?
+  - Was Ist Gps?
+  - Warum zeigt die Kompassnadel immer nach Norden?
+  - Warum können Flugzeuge fliegen?
+  - Wie funktioniert eine Wunderkerze?
+  - Wie kommen die Kondensstreifen an den Himmel?
+  - Wieso schweben Raumfahrer im Weltall?
+  - Schlussmusik Maus Thema
+  ids: []

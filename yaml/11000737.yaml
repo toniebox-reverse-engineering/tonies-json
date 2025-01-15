@@ -1,0 +1,26 @@
+article: '11000737'
+lock-data: false
+data:
+- series: Aladdin
+  series-id: disney-aladdin
+  episode: Jasmin
+  release: 1739318400
+  language: de-de
+  category: audio-play
+  runtime: 47
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11000737_1_a-_4e-MXa-.png
+  sample: https://cdn.tonies.de/o/audio_samples/f8cdb10fdce1c2f0cc3028b94cd0369048e41211ffa6d0048a1ddae2/hoerprobe_11000737_disney_jasmin_neu.mp3
+  web: https://tonies.com/de-de/tonies/disney-aladdin/prinzessin-jasmin/
+  shop-id: f1acb7cf-0037-433a-9ea8-037b4e308a9d
+  track-desc:
+  - 'Kapitel 01: Aladdin'
+  - 'Kapitel 02: Aladdin'
+  - 'Kapitel 03: Aladdin'
+  - 'Kapitel 04: Aladdin'
+  - 'Kapitel 05: Aladdin'
+  - 'Kapitel 06: Aladdin'
+  - Ein Traum wird wahr
+  - Ich werd niemals schweigen (Teil 2)
+  ids: []

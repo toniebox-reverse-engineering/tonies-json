@@ -1,0 +1,19 @@
+article: '11001758'
+lock-data: false
+data:
+- series: Bibi Blocksberg - Englisch lernen
+  series-id: bibi-blocksberg-englisch-lernen
+  episode: Der Schatz von Blackford Castle
+  release: 1739318400
+  language: de-de
+  category: audio-play
+  runtime: 39
+  age: 6
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11001758_1_a-1DLh2huB.png
+  sample: null
+  web: https://tonies.com/de-de/clever-tonies/bibi-blocksberg-englisch-lernen/englisch-lernen-kinder-mit-bibi-blocksberg/
+  shop-id: 00b4aedb-4f4a-4a45-ab69-644019246988
+  track-desc:
+  - Der Schatz von Blackford Castle
+  ids: []

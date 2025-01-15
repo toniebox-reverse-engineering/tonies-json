@@ -1,0 +1,28 @@
+article: '11001060'
+lock-data: false
+data:
+- series: Little People - Big Dreams
+  series-id: kleine-menschen-grosse-ziele
+  episode: Little People, Big Dreams - Frida Kahlo, Rosa Parks, Marie Curie, Amelia
+    Earhart
+  release: 1741737600
+  language: de-de
+  category: audio-play
+  runtime: 37
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11001060_1_a-fsGwEiqj.png
+  sample: https://cdn.tonies.de/o/audio_samples/8e7dfe7c627cabee1cb85398aee20e5dda9d8939d4deacfb01e719dd/hoerprobe_11001060_little_people_big_dreams.mp3
+  web: https://tonies.com/de-de/clever-tonies/kleine-menschen-grosse-ziele/little-people-big-dreams/
+  shop-id: 8b511651-b2d2-4b48-887d-d72572b8e388
+  track-desc:
+  - Frida Kahlo - 1
+  - Frida Kahlo - 2
+  - Rosa Parks - 3
+  - Rosa Parks - 4
+  - Rosa Parks - 5
+  - Marie Curie - 6
+  - Marie Curie - 7
+  - Amelia Earhart - 8
+  - Amelia Earhart - 9
+  ids: []

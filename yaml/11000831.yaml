@@ -1,0 +1,27 @@
+article: '11000831'
+lock-data: false
+data:
+- series: Lalalinos
+  series-id: lalalinos
+  episode: Les Superstars De Bumbaloo (Akio)
+  release: 1738800000
+  language: fr-fr
+  category: audio-play-songs
+  runtime: 0
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51003607-Tonie_Shado-nZ7LeA0C.png
+  sample: null
+  web: https://tonies.com/fr-fr/tonies/lalalinos/les-superstars-de-bumbaloo/
+  shop-id: 5706f214-2bff-41fd-b529-110d7bff1964
+  track-desc:
+  - 1. Générique
+  - 2. Présentation des Lalalinos
+  - 3. Bulles de star (inclus les chansons "L’harmonie c’est la clé", "Nous c’est
+    l’harmonie")
+  - 4. Le rythme des Lalalinos (inclus les chansons "S’en tenir au plan", "Tu es unique",
+    "Le rythme des Lalalinos")
+  - 5. Le micro magique (inclus les chansons "Je me sens au top !", "Le micro magique")
+  - 6. La boum de Bumbaloo (inclus les chansons "Tout ce que tu veux", "Pop corn",
+    "Bumba Bumba")
+  ids: []

@@ -1,0 +1,29 @@
+article: '11000830'
+lock-data: false
+data:
+- series: Lalalinos
+  series-id: lalalinos
+  episode: Ça Groove À Bumbaloo (Scout)
+  release: 1738800000
+  language: fr-fr
+  category: audio-play-songs
+  runtime: 0
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51003600-Tonie_Shado-lWOoQskv.png
+  sample: null
+  web: https://tonies.com/fr-fr/tonies/lalalinos/ca-groove-a-bumbaloo/
+  shop-id: 389e0c43-fee1-48a5-bdee-98e94b53ed74
+  track-desc:
+  - 1. Générique
+  - 2. Présentation des Lalalinos
+  - 3. Un échange musical (inclus les chansons "Mon harmonica", "Ça s’appelle un échange
+    - timbales", "Ça s’appelle un échange - gong", "Coup d’pouce")
+  - 4. Le xylolivre (inclus les chansons "Cogite - je cogite", "Cogite - on cogite")
+  - 5. Le Dribble-rimes-ball (inclus les chansons "Dribble-rimes-ball - kiffer, rimer,
+    dribler", "Dribble-rimes-ball - champions du ballon", "Dribble-rimes-ball - la
+    Passe Classe", "Dribble-rimes-ball - Dégonfé", "Dribble-rimes-ball - pourpres",
+    "Quand on fait une chanson")
+  - 6. Le trésor de Bumbaloo (inclus les chansons "Une formidable quête", "Le trésor
+    de Bumbaloo")
+  ids: []
