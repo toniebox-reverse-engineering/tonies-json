@@ -11,7 +11,7 @@ data:
   age: 3
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51003607-Tonie_Shado-nZ7LeA0C.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/5338fe5e3ce25c470f0f46dd0f1af036f852c63ea04aefa9e4da430a/11000831_lalalinos_akio_extrait.mp3
   web: https://tonies.com/fr-fr/tonies/lalalinos/les-superstars-de-bumbaloo/
   shop-id: 5706f214-2bff-41fd-b529-110d7bff1964
   track-desc:

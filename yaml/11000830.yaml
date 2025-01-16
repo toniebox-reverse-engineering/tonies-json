@@ -11,7 +11,7 @@ data:
   age: 3
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51003600-Tonie_Shado-lWOoQskv.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/a44583d20fc37c2f425a6540b930cfabbf44548347dd9f2bcb861b05/11000831_lalalinos_scout_extrait.wav
   web: https://tonies.com/fr-fr/tonies/lalalinos/ca-groove-a-bumbaloo/
   shop-id: 389e0c43-fee1-48a5-bdee-98e94b53ed74
   track-desc:
