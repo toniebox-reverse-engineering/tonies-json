@@ -1,18 +1,18 @@
 article: '11000830'
 lock-data: false
 data:
-- series: tonies-shopapi-fr-fr,
-  series-id: tonies-shopapi-fr-fr,
-  episode: tonies-shopapi-fr-fr,
-  release: tonies-shopapi-fr-fr,
-  language: tonies-shopapi-fr-fr,
-  category: tonies-shopapi-fr-fr,
+- series: ''
+  series-id: ''
+  episode: ''
+  release: ''
+  language: ''
+  category: ''
   runtime: ''
-  age: tonies-shopapi-fr-fr,
-  origin: tonies-shopapi-fr-fr,
-  image: tonies-shopapi-fr-fr,
-  sample: ''
-  web: tonies-shopapi-fr-fr,
-  shop-id: tonies-shopapi-fr-fr,
-  track-desc: tonies-shopapi-fr-fr,fix-whitespace-tracks,
+  age: ''
+  origin: ''
+  image: ''
+  sample: tonies-shopapi-fr-fr,
+  web: ''
+  shop-id: ''
+  track-desc: ''
   ids: []
