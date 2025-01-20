@@ -1,18 +1,18 @@
 article: '10000690'
 lock-data: false
 data:
-- series: Disney
-  series-id: disney
+- series: Tangled
+  series-id: disney-tangled
   episode: Tangled
   release: 1646265600
   language: en-gb
   category: audio-play-songs
   runtime: 30
-  age: 3
+  age: 4
   origin: stock
   image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000690-50002183-b-UN40KbFW.png
   sample: https://cdn.tonies.de/o/audio_samples/a81cdf5189a87e71fd2b8a066706b9054bac5a0d43a72472fe6c42d7/tangled_sample.mp3
-  web: https://tonies.com/en-gb/tonies/disney/tangled/
+  web: https://tonies.com/en-gb/tonies/disney-tangled/tangled/
   shop-id: 968aba4a-efa1-407e-b262-75d0c48413b4
   track-desc:
   - When Will My Life Begin?
