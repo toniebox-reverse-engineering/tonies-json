@@ -23,6 +23,11 @@ data:
   - The Squirrels Who Squabbled
   - Cyril Squirrel Bonus Track Goodbye
   ids:
+  - audio-id: 1737442838
+    hash: b6de5b24c3423e7c28a526b462ac89949ae7f85a
+    size: 22014749
+    tracks: 7
+    confidence: 1
   - audio-id: 1737382961
     hash: 0ff89b37b42bca10942ad34f0af663e5b8c7d51a
     size: 22014749
