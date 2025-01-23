@@ -1,7 +1,7 @@
 article: '11001338'
 lock-data: false
 data:
-- series: ''
+- series: tonies-json-de-de,
   series-id: ''
   episode: ''
   release: ''
@@ -10,7 +10,7 @@ data:
   runtime: ''
   age: ''
   origin: ''
-  image: tonies-json-de-de,
+  image: ''
   sample: ''
   web: ''
   shop-id: ''
