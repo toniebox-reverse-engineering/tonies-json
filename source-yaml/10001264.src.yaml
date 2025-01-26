@@ -2,7 +2,7 @@ article: '10001264'
 lock-data: false
 data:
 - series: ''
-  series-id: ''
+  series-id: tonies-json-de-de,
   episode: ''
   release: ''
   language: ''
@@ -14,5 +14,5 @@ data:
   sample: ''
   web: ''
   shop-id: ''
-  track-desc: ''
+  track-desc: tonies-json-de-de,
   ids: []
