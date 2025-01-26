@@ -2,7 +2,7 @@ article: '10001264'
 lock-data: false
 data:
 - series: Snöfrid aus dem Wiesental
-  series-id: snoefrid-aus-dem-wiesental
+  series-id: snofrid-2
   episode: Das wahrlich große Geheimnis von Appelgarden
   release: 0
   language: de-de
@@ -15,7 +15,21 @@ data:
   web: https://tonies.com/de-de/tonies/snoefrid-aus-dem-wiesental/geheimnis-von-appelgarden/
   shop-id: e5aa0626-9c2d-44f9-9508-3b4855281ecb
   track-desc:
-  - '1 – 18: Das wahrlich große Geheimnis von Appelgarden'
+  - Ansage
+  - 'Musik: Taradam'
+  - „Hochverehrte Hörer, als ich damals mit den Forschungen ...“
+  - „Der Sommer war so gut wie vorüber.“
+  - „Es ging um Apfelmus, erinnert ihr euch?“
+  - „Je weiter Snöfrid nach Osten marschierte …“
+  - „Es dauerte nicht lange, da hatte Snöfrid …“
+  - „Alles in allem stand Snöfrids Plan fest.“
+  - „Snöfrid unterhielt sich fast die ganze Nacht …“
+  - „Am frühen Abend verließen Snöfrid und Björn den Wald.“
+  - „Snöfrid und Björn bekamen eine behagliche Kammer …“
+  - „Was um Mitternacht hinter dem FROSCH passierte …“
+  - „Du hast doch gar keinen Platz …“
+  - „Liebe Hörer, womöglich kann ich euch …“
+  - 'Musik: Taradam'
   ids:
   - audio-id: 1650637322
     hash: a40cb1f5036c2de96f740514514c58fd49612340
