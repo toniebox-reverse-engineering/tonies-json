@@ -11,7 +11,7 @@ data:
   age: 3
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/51003600-Tonie_Shado-0ttzaclH.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/0cecf588570f64c6da9fb5e6d5aa49e381fc82eef28ee2108b03ae20/scout_hero_episode_pdp_clip.wav
   web: https://tonies.com/en-gb/tonies/lalalinos/scout/
   shop-id: 2c74b96d-d22c-49c7-b623-0a36b8492488
   track-desc:
