@@ -1,0 +1,24 @@
+article: '11000575'
+lock-data: false
+data:
+- series: Drôles de petites bêtes
+  series-id: droles-de-petites-betes
+  episode: Mireille L'Abeille
+  release: 1738800000
+  language: fr-fr
+  category: audio-book
+  runtime: 32
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51003470-Tonie_Shado-LdOb6lv-.png
+  sample: https://cdn.tonies.de/o/audio_samples/398eaf85df5c75bbc7062e97c7b49de315f037e47adbf400925fe6a6/00_mireille_l_abeille_extrait_site.mp3
+  web: https://tonies.com/fr-fr/tonies/droles-de-petites-betes/mireille-l-abeille/
+  shop-id: 874ccbc7-0eac-4240-a8ea-dfa3028f4841
+  track-desc:
+  - Mireille l'abeille
+  - Belle la coccinelle
+  - Siméon le papillon
+  - Huguette la guêpe
+  - Georges le rouge-gorge
+  - Nora petit rat de l'Opéra
+  ids: []

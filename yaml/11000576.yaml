@@ -1,0 +1,24 @@
+article: '11000576'
+lock-data: false
+data:
+- series: Drôles de petites bêtes
+  series-id: droles-de-petites-betes
+  episode: Camille La Chenille
+  release: 1738800000
+  language: fr-fr
+  category: audio-book
+  runtime: 33
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51003473-Tonie_Shado-nJf58Gmr.png
+  sample: https://cdn.tonies.de/o/audio_samples/3e1e0079327eb812af29ad5df6c6826b85a63a4328a00136f4caf375/00_camille_la_chenille_extrait_site.mp3
+  web: https://tonies.com/fr-fr/tonies/droles-de-petites-betes/camille-la-chenille/
+  shop-id: 1ede1777-a81d-4ba8-88d7-3831ca8972e8
+  track-desc:
+  - Camille la chenille
+  - Margot l'escargot
+  - Loulou le pou
+  - Marguerite petite reine
+  - Gabriel le lutin de Noël
+  - Robin l'écureuil du jardin
+  ids: []

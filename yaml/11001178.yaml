@@ -1,0 +1,26 @@
+article: '11001178'
+lock-data: false
+data:
+- series: Jasmine
+  series-id: disney-jasmine
+  episode: Jasmine
+  release: 1738800000
+  language: fr-fr
+  category: audio-play-songs
+  runtime: 0
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/50005134-Tonie_Shado-UdoDHBUk.png
+  sample: https://cdn.tonies.de/o/audio_samples/ca36123226c1b5e91278023876a7fd27a974eb2faa25db8a0f3b0338/00_jasmine_extrait_site.mp3
+  web: https://tonies.com/fr-fr/tonies/disney-jasmine/jasmine/
+  shop-id: 57bce8e7-ce9f-4d4b-8e5e-a1c671b84a97
+  track-desc:
+  - Jasmine - Partie 1
+  - Jasmine - Partie 2 (inclus la chanson "Parler" - version abrégée)
+  - Jasmine - Partie 3
+  - Jasmine - Partie 4
+  - Jasmine - Partie 5
+  - Jasmine - Partie 6
+  - Ce rêve bleu (chanson)
+  - Parler - Version longue (chanson)
+  ids: []
