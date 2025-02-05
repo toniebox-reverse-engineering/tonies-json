@@ -1,0 +1,21 @@
+article: '11000729'
+lock-data: false
+data:
+- series: Jasmine
+  series-id: null
+  episode: Jasmine
+  release: 1739404800
+  language: en-gb
+  category: audio-play-songs
+  runtime: 48
+  age: 6
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/50005134-Tonie_Shado-2TBGMq63.png
+  sample: https://cdn.tonies.de/o/audio_samples/484d1e2e4e4e686c3ad2d2b721b5c3bf5efb3c16e7946ff629d5556f/jasmine_sample.mp3
+  web: https://tonies.com/en-gb/tonies/jasmine/
+  shop-id: 5a3f3dfa-bab3-4ec2-b12a-10f3283bc182
+  track-desc:
+  - 'STORY: Disney Aladdin: Jasmine'
+  - 'SONG: A Whole New World'
+  - 'SONG: Speechless'
+  ids: []

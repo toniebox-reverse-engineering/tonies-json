@@ -1,0 +1,25 @@
+article: '11000236'
+lock-data: false
+data:
+- series: Pip and Posy
+  series-id: pip-and-posy
+  episode: Posy
+  release: 1739404800
+  language: en-gb
+  category: audio-play
+  runtime: 60
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/51000785-Tonie_Shado-i9tXb6rW.png
+  sample: https://cdn.tonies.de/o/audio_samples/a34f8cf32b3c7ca95db4cf2293d52d83a94e738836ad9835375ae556/posy_sample.wav
+  web: https://tonies.com/en-gb/tonies/pip-and-posy/posy/
+  shop-id: a8556dbb-7993-429b-9174-8ab220a12529
+  track-desc:
+  - 'STORY: The Grumpy Pebble'
+  - 'STORY: Feel Better Pip'
+  - 'STORY: Spotty Dotty'
+  - 'STORY: King Posy'
+  - 'STORY: Rrrroarsome'
+  - 'STORY: The Action Quiz'
+  - 'QUIZ: The Music Quiz'
+  ids: []
