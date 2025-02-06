@@ -2,7 +2,7 @@ article: '11001178'
 lock-data: false
 data:
 - series: Jasmine
-  series-id: disney-jasmine
+  series-id: jasmine
   episode: Jasmine
   release: 1738800000
   language: fr-fr

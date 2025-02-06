@@ -15,15 +15,12 @@ data:
   web: https://tonies.com/fr-fr/tonies/lalalinos/ca-groove-a-bumbaloo/
   shop-id: 389e0c43-fee1-48a5-bdee-98e94b53ed74
   track-desc:
-  - 1. Générique
-  - 2. Présentation des Lalalinos
-  - 3. Un échange musical (inclus les chansons "Mon harmonica", "Ça s’appelle un échange
-    - timbales", "Ça s’appelle un échange - gong", "Coup d’pouce")
-  - 4. Le xylolivre (inclus les chansons "Cogite - je cogite", "Cogite - on cogite")
-  - 5. Le Dribble-rimes-ball (inclus les chansons "Dribble-rimes-ball - kiffer, rimer,
-    dribler", "Dribble-rimes-ball - champions du ballon", "Dribble-rimes-ball - la
-    Passe Classe", "Dribble-rimes-ball - Dégonfé", "Dribble-rimes-ball - pourpres",
-    "Quand on fait une chanson")
-  - 6. Le trésor de Bumbaloo (inclus les chansons "Une formidable quête", "Le trésor
+  - Générique
+  - Présentation des Lalalinos
+  - Un échange musical (inclus les chansons "Mon harmonica", "Timbales", "Gong", "Coup
+    d'pouce")
+  - Le xylolivre (inclus les chansons "Je cogite", "n cogite")
+  - Le Dribble-rimes-ball (inclus 6 chansons)
+  - Le trésor de Bumbaloo (inclus les chansons "Une formidable quête", "Le trésor
     de Bumbaloo")
   ids: []
