@@ -4,16 +4,16 @@ data:
 - series: Favourite Classics
   series-id: null
   episode: Pinocchio and other classic stories
-  release: 0
+  release: 1568851200
   language: en-gb
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 87
+  age: 3
   origin: stock
   image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000013-50000053-b-hN2-98K9.png
   sample: null
-  web: null
-  shop-id: null
+  web: https://tonies.com/de-de/tonies/pinocchio-and-other-classic-stories-DE/
+  shop-id: f2baffc6-5a49-49af-a648-4def77c05194
   track-desc: []
   ids:
   - audio-id: 1537281089

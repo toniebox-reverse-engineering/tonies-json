@@ -1,0 +1,19 @@
+article: '11001164'
+lock-data: false
+data:
+- series: Schlummerbande
+  series-id: schlummerbande
+  episode: Nachtlicht Tonie - Schlummerschaf
+  release: 1738540800
+  language: de-de
+  category: music
+  runtime: 75
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11001164_3_f-WkbT8lgI.png
+  sample: null
+  web: https://tonies.com/de-de/tonies/schlummerbande/nachtlicht-tonie-schlummerschaf/
+  shop-id: d24896ae-ef31-4fb2-8513-ba330253d2e6
+  track-desc:
+  - '09: Einschlafmelodie "Schlummerschaf am Zaubersee"'
+  ids: []
