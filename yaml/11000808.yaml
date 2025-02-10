@@ -15,8 +15,14 @@ data:
   web: https://tonies.com/en-gb/tonies/paw-patrols-jungle-pups/jungle-pups-chase/
   shop-id: 05ea7ae4-f121-43c6-b22b-ee0b7ce281bc
   track-desc:
-  - 'STORY: Jungle Pups - Pups Save the Meerkat Pirates'
-  - 'STORY: Jungle Pups - Pups Solve the Mystery of the Missing Art'
+  - INTRO
+  - 'SONG: PAW Patrol Theme Song'
+  - 'STORY:  Jungle Pups: Pups Save the Meerkat Pirates'
+  - INTERLUDE
+  - 'STORY: Pups Solve the Mystery of the Missing Art'
+  - INTERLUDE
   - 'STORY: Pups Save a High-Flying Hen'
+  - INTERLUDE
   - 'STORY: Pups Save a Sloth'
+  - OUTRO
   ids: []

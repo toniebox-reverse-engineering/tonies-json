@@ -15,7 +15,12 @@ data:
   web: https://tonies.com/en-gb/tonies/paw-patrols-jungle-pups/jungle-pups-skye/
   shop-id: d8913c45-22bc-4835-a6a7-2c54d3d1b898
   track-desc:
-  - 'STORY: Jungle Pups - Pups Find a Hidden Jungle'
-  - 'STORY: Jungle Pups - Pups Save the Giant Ants'
-  - 'STORY: Pups Save a Hum-Hippo'
+  - INTRO
+  - 'SONG: PAW Patrol Theme Song'
+  - 'STORY: Jungle Pups: Pups Find A Hidden Jungle'
+  - INTERLUDE
+  - 'STORY: Jungle Pups: Pups Save The Giant Ants'
+  - INTERLUDE
+  - 'STORY: Jungle Pups: Pups Save A Hum Hippo'
+  - OUTRO
   ids: []
