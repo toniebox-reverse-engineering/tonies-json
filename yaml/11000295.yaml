@@ -1,0 +1,28 @@
+article: '11000295'
+lock-data: false
+data:
+- series: Die Häschenschule
+  series-id: die-haeschenschule
+  episode: Die neue Häschenschule
+  release: 1741737600
+  language: de-de
+  category: audio-book-songs
+  runtime: 39
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11000295_1_a-XuQlUmnJ.png
+  sample: https://cdn.tonies.de/o/audio_samples/21e927edcf5d46771f18f0b56992b2fbcf3ef260c16d2854319983e4/hoerprobe_11000295_die_neue_haschenschule.mp3
+  web: https://tonies.com/de-de/tonies/die-haeschenschule/die-neue-haeschenschule-anke-engelke/
+  shop-id: 9e2614b9-2411-4fe1-ab49-4b699400f486
+  track-desc:
+  - Aufsager
+  - 'Anke Engelke: Die neue Häschenschule'
+  - 'Julia Walther: Ostern in der Häschenschule'
+  - 'Anne Mühlhaus: Ferien in der Häschenschule'
+  - 'Albert Sixtus: Winter in der Häschenschule'
+  - 'Anne Mühlhaus: Ein Tag in der Häschenschule'
+  - 'Anne Mühlhaus: Musik in der Häschenschule 1'
+  - 'Anne Mühlhaus: Musik in der Häschenschule 2'
+  - 'Anne Mühlhaus: Musik in der Häschenschule 3'
+  - Absager
+  ids: []

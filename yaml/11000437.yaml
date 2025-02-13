@@ -1,0 +1,25 @@
+article: '11000437'
+lock-data: false
+data:
+- series: Rachel Bright Series
+  series-id: rachel-bright-series
+  episode: Trau dich, Koalabär
+  release: 1741737600
+  language: de-de
+  category: audio-book
+  runtime: 36
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11000437_1_a-wNkvGCSM.png
+  sample: https://cdn.tonies.de/o/audio_samples/6732a3fcbf76bfb18325e79409973fad1adb3d8b8bfddcc9d189ae2e/hoerprobe_11000437_rachel_bright_trau_dich_koalabar.mp3
+  web: https://tonies.com/de-de/tonies/rachel-bright-series/trau-dich-koala/
+  shop-id: c8751bd3-12dd-4783-95bf-0ba30dd152ba
+  track-desc:
+  - „Trau dich, Koalabär“ Teil 1
+  - „Trau dich, Koalabär“ Teil 2
+  - „Gecko und das Glück des Gebens“ Teil 1
+  - „Gecko und das Glück des Gebens“ Teil 2
+  - „Der Wal, der immer mehr wollte“ Teil 1
+  - „Der Wal, der immer mehr wollte“ Teil 2
+  - 7 Biografien Rachel Bright und Jim Field
+  ids: []
