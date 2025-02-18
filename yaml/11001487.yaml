@@ -40,6 +40,21 @@ data:
   - Friends Outdoors - Lodistar Quiz 2
   - Friends Outdoors - Outro
   ids:
+  - audio-id: 1739869464
+    hash: 3e1da4dee37309915fd2278988502d5c4c0ef2e8
+    size: 21524897
+    tracks: 6
+    confidence: 1
+  - audio-id: 1739869441
+    hash: ab78dbc33c91531807175ce7f846327ff99fe178
+    size: 22017485
+    tracks: 6
+    confidence: 1
+  - audio-id: 1739869414
+    hash: 9c8d25c3e1ee5a4c5607eba45e68f997b59ad5c9
+    size: 25065186
+    tracks: 6
+    confidence: 1
   - audio-id: 1734081668
     hash: cbdf4db6ae4694dca369b92bf0c64a96c7965134
     size: 21723786
