@@ -1,0 +1,33 @@
+article: '11001751'
+lock-data: false
+data:
+- series: Sleepy Friends
+  series-id: sleepy-friends
+  episode: Sleepy Whale - Lullabies from the Ocean
+  release: 1741824000
+  language: en-gb
+  category: music
+  runtime: 140
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/51004466-Tonie_Shado-CU7AeC0a.png
+  sample: https://cdn.tonies.de/o/audio_samples/bb806cb5f352b7af639cbba8186a61cc5a380e99c68f177ffdd21cad/sleepy_whale_sample.wav
+  web: https://tonies.com/en-gb/tonies/sleepy-friends/sleepy-whale-lullabies-from-the-ocean/
+  shop-id: 7ff3e7f7-2316-4866-9576-607b60a404a2
+  track-desc:
+  - Tonies Intro
+  - Lullabies from the Ocean 1
+  - Lullabies from the Ocean 2
+  - Lullabies from the Ocean 3
+  - Lullabies from the Ocean 4
+  - Lullabies from the Ocean 5
+  - Lullabies from the Ocean 6
+  - Lullabies from the Ocean 7
+  - Lullabies from the Ocean 8
+  - Lullabies from the Ocean 9
+  - Lullabies from the Ocean 10
+  - Lullabies from the Ocean 11
+  - Lullabies from the Ocean 12
+  - Lullabies from the Ocean 13
+  - Lullabies from the Ocean 14
+  ids: []
