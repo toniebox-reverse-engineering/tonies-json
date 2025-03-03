@@ -188,7 +188,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001514,Smokey Bear,,,en-us,Tonie,stock,7953347510423,,1,2,2,1
 10001523,Peppa Pig,,George,en-us,Tonie,stock,7629784252567,,1,2,2,1
 10001550,Dr. Seuss,,Green Eggs & Ham,en-us,Tonie,stock,8040230879383,,1,1,1,1
-10001551,Disney,,Aladdin: Jasmine,en-us,Tonie,stock,8623909109911,,1,0,0,0
+10001551,Disney,,Aladdin: Jasmine,en-us,Tonie,stock,8623909109911,,1,1,1,1
 10001697,Ask the StoryBots,,Beep,en-us,Tonie,stock,8031929139351,,1,2,2,2
 10001698,Disney,,Hercules,en-us,Tonie,stock,8134562906263,,1,2,2,1
 10001711,Maestro,,,en-us,Tonie,stock,8072079147159,,1,2,2,1
@@ -247,7 +247,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000264,Carmen Sandiego,,,en-us,Tonie,stock,8134562775191,,1,1,1,1
 11000265,King of Kindergarten,,,en-us,Tonie,stock,8260127948951,,1,0,0,1
 11000266,PAW Patrol,,Tracker,en-us,Tonie,stock,8081283317911,,1,2,2,1
-11000271,National Geographic Kids,,Amazon Rainforest,en-us,Tonie,stock,8614612205719,,1,0,0,0
+11000271,National Geographic Kids,,Amazon Rainforest,en-us,Tonie,stock,8614612205719,,1,1,1,1
 11000358,Marvel's Spidey and His Amazing Friends,,Ghost-Spider,en-us,Tonie,stock,8072395915415,,1,2,1,2
 11000359,Marvel's Spidey and His Amazing Friends,,Spin,en-us,Tonie,stock,8072395817111,,1,2,1,2
 11000399,Spookley the Square Pumpkin,,,en-us,Tonie,stock,8057951355031,,1,2,2,1
@@ -264,38 +264,38 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000499,Piney,,The Lonesome Pine,en-us,Tonie,stock,8225978941591,,1,1,1,1
 11000526,Disney,,Wish,en-us,Tonie,stock,8124400664727,,1,2,2,2
 11000527,Pinkalicious,,,en-us,Tonie,stock,8562942181527,,1,1,1,1
-11000528,More About Paddington,,,en-us,Tonie,stock,8614602834071,,1,0,0,0
+11000528,More About Paddington,,,en-us,Tonie,stock,8614602834071,,1,0,0,1
 11000529,Kung Fu Panda,,,en-us,Tonie,stock,8472681414807,,1,1,1,1
 11000540,Trolls,,Viva,en-us,Tonie,stock,7806499094679,,1,1,1,1
 11000541,Disney,,the Muppets: Kermit the Frog,en-us,Tonie,stock,8473935380631,,1,1,1,1
 11000542,Disney,,The Muppets: Miss Piggy,en-us,Tonie,stock,8473936429207,,1,0,0,1
-11000557,All Engines Go,,Percy,en-us,Tonie,stock,8614676267159,,1,0,0,0
-11000558,All Engines Go,,Thomas the Train,en-us,Tonie,stock,8614654640279,,1,0,0,0
+11000557,All Engines Go,,Percy,en-us,Tonie,stock,8614676267159,,1,1,1,1
+11000558,All Engines Go,,Thomas the Train,en-us,Tonie,stock,8614654640279,,1,1,1,1
 11000560,Alejandro the Armadillo,,,en-us,Tonie,stock,8491398594711,,1,1,1,1
 11000567,Wow in the World,,Reggie,en-us,Tonie,stock,8260132044951,,1,1,1,1
-11000568,Lunar New Year,,,en-us,Tonie,stock,8614600212631,,1,0,0,0
+11000568,Lunar New Year,,,en-us,Tonie,stock,8614600212631,,1,1,1,1
 11000574,Creative-Tonie,,Mermaid,en-us,creative-tonie,stock,8134563692695,,1,0,0,0
-11000613,Lalalinos,,Scout Tonie - Move and Groove in Bumbaloo,en-us,Tonie,stock,8614794625175,,1,0,0,0
-11000617,Lalalinos,,Akio - The Best Band in Bumbaloo,en-us,Tonie,stock,8623894954135,,1,0,0,0
+11000613,Lalalinos,,Scout Tonie - Move and Groove in Bumbaloo,en-us,Tonie,stock,8614794625175,,1,1,1,1
+11000617,Lalalinos,,Akio - The Best Band in Bumbaloo,en-us,Tonie,stock,8623894954135,,1,1,1,1
 11000645,PAW Patrol Jungle Pups,,Chase,en-us,Tonie,stock,8258466644119,,1,1,1,1
 11000646,PAW Patrol Jungle Pups,,Marshall,en-us,Tonie,stock,8258467790999,,1,1,1,1
 11000647,PAW Patrol Jungle Pups,,Skye,en-us,Tonie,stock,8473934659735,,1,1,1,1
-11000704,Disney & Pixar,,Ratatouille,en-us,Tonie,stock,8614614433943,,1,0,0,0
+11000704,Disney & Pixar,,Ratatouille,en-us,Tonie,stock,8614614433943,,1,1,1,1
 11000708,Clever Tonies Set,,Marine Life,en-us,Tonie,stock,8076775293079,,1,20,20,4
 11000709,Clever Tonies Set,,Kid Comedy,en-us,Tonie,stock,8076776112279,,1,17,17,4
 11000710,Clever Tonies Set,,Inventions and Innovation,en-us,Tonie,stock,8076775555223,,1,16,16,4
 11000712,Clever Tonies Set,,Gentle Giant Dinosaurs,en-us,Tonie,stock,8076776341655,,1,16,16,4
-11000741,Canciones Infantiles Favoritas,,Canciones De Viaje En Español,en-us,Tonie,stock,8623950823575,,1,0,0,0
-11000742,Canciones Infantiles Favoritas,,Canciones De Animales En Español,en-us,Tonie,stock,8623938011287,,1,0,0,0
-11000743,Canciones Infantiles Favoritas,,Canciones Para Contar En Español,en-us,Tonie,stock,8623955771543,,1,0,0,0
+11000741,Canciones Infantiles Favoritas,,Canciones De Viaje En Español,en-us,Tonie,stock,8623950823575,,1,1,1,1
+11000742,Canciones Infantiles Favoritas,,Canciones De Animales En Español,en-us,Tonie,stock,8623938011287,,1,1,1,1
+11000743,Canciones Infantiles Favoritas,,Canciones Para Contar En Español,en-us,Tonie,stock,8623955771543,,1,1,1,1
 11000744,Canciones Infantiles Favoritas,,Canciones De Celebración En Español,en-us,Tonie,stock,8225965408407,,1,4,4,1
 11000746,KidNation,,,en-us,Tonie,stock,8623912353943,,1,1,1,1
 11000748,Sesame Street,,Elmo & Tango,en-us,Tonie,stock,8562891096215,,1,1,1,1
-11000749,Sesame Street,,Abby Cadabby,en-us,Tonie,stock,8614605815959,,1,0,0,0
+11000749,Sesame Street,,Abby Cadabby,en-us,Tonie,stock,8614605815959,,1,1,1,1
 11000757,Doggyland,,,en-us,Tonie,stock,8236933742743,,1,1,1,1
 11000762,DC,,Batwheels,en-us,Tonie,stock,8491443126423,,1,1,1,1
-11000839,Laurie Berkner 2,,,en-us,Tonie,stock,8614780305559,,1,0,0,0
-11000853,Daniel Tiger's Neighborhood,,Jodi Platypus,en-us,Tonie,stock,8679927546007,,1,0,0,0
+11000839,Laurie Berkner 2,,,en-us,Tonie,stock,8614780305559,,1,1,1,1
+11000853,Daniel Tiger's Neighborhood,,Jodi Platypus,en-us,Tonie,stock,8679927546007,,1,1,1,1
 11000855,Mo Willems' The Pigeon Series,,,en-us,Tonie,stock,8558127120535,,1,0,0,1
 11000859,Clever Tonies Set,,Cool Jobs,en-us,Tonie,stock,8134563299479,,1,4,4,4
 11000881,Clever Tonies Set,,Animal World: Record Breakers,en-us,Tonie,stock,8134563168407,,1,13,13,4
