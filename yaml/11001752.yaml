@@ -1,0 +1,21 @@
+article: '11001752'
+lock-data: false
+data:
+- series: Sleepy Friends
+  series-id: sleepy-friends
+  episode: Sleepy Penguin - White Noise from the Ocean
+  release: 1741824000
+  language: en-gb
+  category: audio-play
+  runtime: 120
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/51006464-Tonie_Shado-wk1-WZ4f.png
+  sample: https://cdn.tonies.de/o/audio_samples/abb6ab5d09f31457b00f6a1408d6863e8a4a22391d1d9bbd675288cc/sleepy_penguin_sample.wav
+  web: https://tonies.com/en-gb/tonies/sleepy-friends/sleepy-penguin-white-noise-from-the-ocean/
+  shop-id: dff84fa2-275e-4eca-8547-71b989bdde50
+  track-desc:
+  - Tonies Intro
+  - White Noise from the Ocean
+  - White Noise from the Ocean
+  ids: []
