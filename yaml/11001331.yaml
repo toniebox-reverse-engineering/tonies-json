@@ -1,0 +1,27 @@
+article: '11001331'
+lock-data: false
+data:
+- series: Sleepy Friends
+  series-id: sleepy-friends
+  episode: Sleepy Octopus - A Bedtime Story from the Ocean
+  release: 1741824000
+  language: en-gb
+  category: audio-play-songs
+  runtime: 41
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/51006617-Tonie_Shado-E_iWwyFm.png
+  sample: https://cdn.tonies.de/o/audio_samples/adb95a93165b029c972e6af424484ebedd33332143fa70df717ddc76/sleepy_octopus_sample.wav
+  web: https://tonies.com/en-gb/tonies/sleepy-friends/sleepy-octopus-a-bedtime-story-from-the-ocean/
+  shop-id: e5864bec-4963-4380-bd66-f16e08e74fab
+  track-desc:
+  - Tonies Intro
+  - INTRO
+  - SONG - The Octopus Lullaby
+  - STORY - The End of a Wonderful Day
+  - STORY - The Crab's Trumpet Shell
+  - STORY - The Clownfish in the Coral Reef
+  - STORY - The Sleepy Hollow
+  - STORY - The Whale and The Slumber-Bloom
+  - STORY - Sleep Well, Little Octopus
+  ids: []
