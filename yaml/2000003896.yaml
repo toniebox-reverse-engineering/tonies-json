@@ -35,10 +35,9 @@ data:
   - Teil 16
   - TKKG Junior Schlußsong
   - Outro
-  ids: []
   ids:
-  audio-id: 1701262715
-  hash: b98d294e1bfe36fd149b43068f0133436fa8924c
-  size: 40041672
-  tracks: 19
-  confidence: 0
+  - audio-id: 1701262715
+    hash: b98d294e1bfe36fd149b43068f0133436fa8924c
+    size: 40041672
+    tracks: 19
+    confidence: 0
