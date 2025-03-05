@@ -27,4 +27,9 @@ data:
   - Das Märchen vom Sterntaler
   - Gemeinsames Singen
   - Fröhliche Weihnachten!
-  ids: []
+  ids:
+  - audio-id: 1732108126
+    hash: 68bdd0d6930f3f4e9098c25d8c8d25110ab24f84
+    tracks: 12
+    size: 35035794
+    confidence: 0
