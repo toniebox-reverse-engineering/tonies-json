@@ -14,21 +14,7 @@ data:
   sample: null
   web: null
   shop-id: null
-  track-desc: 
-  - "Mücken nerven Leute" von Laing
-  - "Quatschmachen und Schlapplachen" von Das Bo & Co
-  - "Svenja und Raul" von Erdmöbel
-  - "Andersrum" von Lisa Bassenge
-  - "Stachelschwein" von Enno Bunger
-  - "Gib nich' so an" von Die Höchste Eisenbahn
-  - "Der Wolf mit dem Hut" von Bela B
-  - "Fahrradfahren" von Cäthe
-  - "Von hier oben" von Locas In Love
-  - "Was der Papa sagt" von Deniz Jaspersen
-  - "Eine Cola soll es sein!" von Die Liga der gewöhnlichen Gentlemen
-  - "Farben" von Erobique & Jacques Palminge
-  - "Ich und die anderen" von Albrecht Schrader
-  - "Den lieben langen Tag" von Dota
+  track-desc: []
   ids:
   - audio-id: 1489080791
     hash: 5915eecec17f04b47122e8c454c695e4a8f9f425
