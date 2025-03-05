@@ -1,0 +1,26 @@
+article: '11000832'
+lock-data: false
+data:
+- series: Mini-Loup
+  series-id: mini-loup
+  episode: Mini-Loup Pirate
+  release: 1741219200
+  language: fr-fr
+  category: audio-play
+  runtime: 48
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51004692-Tonie_Shado-lr90t3Jb.png
+  sample: https://cdn.tonies.de/o/audio_samples/a5dda0756597add52b9ccfe993a802251375c82ffa53dd6702a0e0e7/11000832_mini_loup_pirate_extraitmp3.mp3
+  web: https://tonies.com/fr-fr/tonies/mini-loup/mini-loup-pirate/
+  shop-id: c1d29abb-9aaf-4058-9473-70ed6c1ca2b8
+  track-desc:
+  - Générique
+  - Mini-Loup et les pirates
+  - Mini-Loup super-héros
+  - Mini-Loup et le lapin de Pâques
+  - Mini-Loup et les dinosaures
+  - Mini-Loup et la maison hantée
+  - Mini-Loup policier
+  - Mini-Loup dans l'espace
+  ids: []

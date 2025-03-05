@@ -1,0 +1,29 @@
+article: '11001772'
+lock-data: false
+data:
+- series: Les Copains Du Dodo
+  series-id: les-copains-du-dodo
+  episode: Tonie-Veilleuse - Doudou Lapinou
+  release: 1741219200
+  language: fr-fr
+  category: music
+  runtime: 75
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/Rabbit_sleepy_glowin-yrzdmdt-.png
+  sample: https://cdn.tonies.de/o/audio_samples/89afbf4bf0ed43701bca99c418eda33a8ab8d510accde2492e65e0fb/sleepyrabbit_nightlight_audio_sample.mp3
+  web: https://tonies.com/fr-fr/tonies/les-copains-du-dodo/tonie-veilleuse-doudou-lapinou/
+  shop-id: 02898656-f7d7-4ed1-a030-4be5dd817ccd
+  track-desc:
+  - Edvard Grieg - Peer Gynt
+  - Fantaisie de Moussorgski
+  - Johannes Brahms - Berceuse
+  - Antonio Vivaldi - Concerto pour luth
+  - J.S. Bach - Concerto pour clavecin n. 5 en fa mineur
+  - Wolgang Amadeus Mozart - Adagio en mi majeur K. 261
+  - Maurice Ravel - Concerto pour piano en sol majeur
+  - Felix Mendelssohn - Romance sans paroles
+  - Franz Schubert - La nuit
+  - Ludwig van Beethoven - Sonate au clair de lune
+  - Johannes Brahms - Six pièces pour piano, Op. 118
+  ids: []

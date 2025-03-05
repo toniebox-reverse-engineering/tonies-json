@@ -1,0 +1,34 @@
+article: '11002028'
+lock-data: false
+data:
+- series: La Journée De Léo
+  series-id: la-journee-de-leo
+  episode: 'Mission : Tous Sur Le Pot !'
+  release: 1741219200
+  language: fr-fr
+  category: audio-play-songs
+  runtime: 51
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51000958-Tonie_Shado-mobKpTIQ.png
+  sample: https://cdn.tonies.de/o/audio_samples/694016e383294a416ae7136e10e600147f1a7977566ea6f371c93767/00_la_journee_de_leo_3_extrait_site.mp3
+  web: https://tonies.com/fr-fr/tonies/la-journee-de-leo/mission-tous-sur-le-pot/
+  shop-id: 5af60dc6-f4c6-415a-8f03-1b765a65447d
+  track-desc:
+  - Présentations
+  - Intro-Minute (chanson)
+  - Je n'ai pas pu me retenir !
+  - La salsa sans ouate (chanson)
+  - Pas de couche pour maman ?
+  - Montre-toi, tête de prout !
+  - WC, pot, wawa (chanson)
+  - Le pot de Léo
+  - Chacun fait pipi comme il veut (chanson)
+  - Le premier essai de Léo
+  - C'est si long (chanson)
+  - Léo est toujours curieux
+  - J'ai mal au bidou (chanson)
+  - Il faut du temps pour la grosse comission
+  - L'important c'est d'avoir envie
+  - Tenez-vous prêts (chanson)
+  ids: []

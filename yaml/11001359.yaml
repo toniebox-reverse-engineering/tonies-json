@@ -1,0 +1,20 @@
+article: '11001359'
+lock-data: false
+data:
+- series: Les Copains Du Dodo
+  series-id: les-copains-du-dodo
+  episode: Doudou Pingouin
+  release: 1741219200
+  language: fr-fr
+  category: music
+  runtime: 121
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51006464-Tonie_Shado-Dq3Jtbqq.png
+  sample: https://cdn.tonies.de/o/audio_samples/f02287343ee5d5185739e1ef5eacd4a1206908785c42149c51f713b2/11001359_01_les_copains_du_dodo_doudou_pingouin_extraitmp3.mp3
+  web: https://tonies.com/fr-fr/tonies/les-copains-du-dodo/doudou-pingouin/
+  shop-id: 633cbd75-a561-45ac-9fd4-eab16f65507b
+  track-desc:
+  - Bruit blanc de l'océan 1
+  - Bruit blanc de l'océan 2
+  ids: []

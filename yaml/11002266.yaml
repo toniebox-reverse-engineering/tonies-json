@@ -1,0 +1,29 @@
+article: '11002266'
+lock-data: false
+data:
+- series: Vaiana
+  series-id: disney-vaiana
+  episode: Vaiana 2
+  release: 1741219200
+  language: fr-fr
+  category: audio-play-songs
+  runtime: 63
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51006299-Tonie_Shado-1rDPshcF.png
+  sample: https://cdn.tonies.de/o/audio_samples/d304d88e95b91a2a4e0e83e178926eed7da62fef23bf189327085183/11002266_disney_vaiana_2_extraitmp3.mp3
+  web: https://tonies.com/fr-fr/tonies/disney-vaiana/vaiana-2/
+  shop-id: 5cb6c65c-57b6-4146-8423-6bd722fe68df
+  track-desc:
+  - Vaiana 2 - Partie 1 (inclus la chanson "Notre paradis" - version abrégée)
+  - Vaiana 2 - Partie 2
+  - Vaiana 2 - Partie 3 (inclus la chanson "Aller plus loin" - version abrégée)
+  - Vaiana 2 - Partie 4 (inclus la chanson "Que peut-on rêver de mieux ?" - version
+    abrégée)
+  - Vaiana 2 - Partie 5
+  - Vaiana 2 - Partie 6 (inclus la chanson "Invente ta route" - version abrégée)
+  - Vaiana 2 - Partie 7
+  - Vaiana 2 - Partie 8
+  - Vaiana 2 - Partie 9 (inclus les chansons "Aller plus loin (Reprise)" et "L'explorateur
+    (Te Fenua te Malie)" - versions abrégées)
+  ids: []
