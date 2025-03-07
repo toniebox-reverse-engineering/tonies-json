@@ -15,5 +15,19 @@ data:
   web: https://tonies.com/de-de/tonies/schlummerbande/nachtlicht-tonie-schlummerbr/
   shop-id: ebf7dac5-8922-4fe7-a165-77e85d8fb062
   track-desc:
-  - '09: Einschlafmelodie "Der kleine Bär im Schlummerwald"'
-  ids: []
+  - 'Intro'
+  - 'Einschlafmelodie "Der kleine Bär im Schlummerwald" - 01'
+  - 'Einschlafmelodie "Der kleine Bär im Schlummerwald" - 02'
+  - 'Einschlafmelodie "Der kleine Bär im Schlummerwald" - 03'
+  - 'Einschlafmelodie "Der kleine Bär im Schlummerwald" - 04'
+  - 'Einschlafmelodie "Der kleine Bär im Schlummerwald" - 05'
+  - 'Einschlafmelodie "Der kleine Bär im Schlummerwald" - 06'
+  - 'Einschlafmelodie "Der kleine Bär im Schlummerwald" - 07'
+  - 'Einschlafmelodie "Der kleine Bär im Schlummerwald" - 08'
+  - 'Einschlafmelodie "Der kleine Bär im Schlummerwald" - 09'
+  ids:
+  - audio-id: 1717423922
+    hash: 7b91dfc7bb39f1b74de7df115a2ca2d8f0111d31
+    size: 67963645
+    tracks: 10
+    confidence: 0

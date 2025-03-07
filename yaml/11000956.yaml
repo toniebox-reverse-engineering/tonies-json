@@ -1,0 +1,32 @@
+article: '11000956'
+lock-data: false
+data:
+- series: Les Copains Du Dodo
+  series-id: sleepy-friends
+  episode: Doudou Baleine
+  release: 1741219200
+  language: fr-fr
+  category: music
+  runtime: 139
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51004466-Tonie_Shado-FKZCPD9c.png
+  sample: https://cdn.tonies.de/o/audio_samples/210bd31c92c48dbc31620c37880df6225db47f2d7fa4b8aa3c2e8a91/00_extrait_doudou_baleine.mp3
+  web: https://tonies.com/fr-fr/tonies/les-copains-du-dodo/doudou-baleine/
+  shop-id: 0ecab802-0af5-4b11-b34e-d891dede7b7a
+  track-desc:
+  - Berceuse enchantée 1
+  - Berceuse enchantée 2
+  - Berceuse enchantée 3
+  - Berceuse enchantée 4
+  - Berceuse enchantée 5
+  - Berceuse enchantée 6
+  - Berceuse enchantée 7
+  - Berceuse enchantée 8
+  - Berceuse enchantée 9
+  - Berceuse enchantée 10
+  - Berceuse enchantée 11
+  - Berceuse enchantée 12
+  - Berceuse enchantée 13
+  - Berceuse enchantée 14
+  ids: []

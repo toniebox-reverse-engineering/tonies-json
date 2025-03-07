@@ -11,7 +11,7 @@ data:
   age: 3
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11001763_3_a-XlIt_1Ns.png
-  sample: null
+  sample: https://downloads.ctfassets.net/l6vo76cztcax/5SWfkMh33LvygPwqm1uQ8S/8f1f48211e4778215978795bb162c25d/SleepyRabbit-NightLight-Audio-Sample.wav
   web: https://tonies.com/de-de/tonies/schlummerbande/nachtlicht-tonie-schlummerhase/
   shop-id: 54b11941-5e27-4229-b835-19c7a3337278
   track-desc:
