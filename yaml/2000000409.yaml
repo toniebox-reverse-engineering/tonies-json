@@ -41,8 +41,8 @@ data:
   - Socke will alles können und zwar ruckzuck! - Kapitel 8
   - Socke will alles können und zwar ruckzuck! - Kapitel 9
   ids:
-    - audio-id: 1701241493
-      hash: d7b94534171ff82f604e08a6611d6a2e11b99234
-      size: 29206793
-      tracks: 25
-      confidence: 0
+  - audio-id: 1701241493
+    hash: d7b94534171ff82f604e08a6611d6a2e11b99234
+    size: 29206793
+    tracks: 25
+    confidence: 0
