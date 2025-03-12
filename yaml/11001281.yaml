@@ -2,13 +2,13 @@ article: '11001281'
 lock-data: false
 data:
 - series: Schlummerbande
-  series-id: schlummerbande
+  series-id: sleepy-friends
   episode: Schlummerpinguin - Weißes Rauschen aus dem Ozean
   release: 1741737600
   language: de-de
   category: music
   runtime: 120
-  age: 1
+  age: 3
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11001281_1_a-ouR2OZfX.png
   sample: https://cdn.tonies.de/o/audio_samples/c8c75e297622f565583c96ce49ceaeb934c444a926da60536ba1a2a6/hoerprobe_11001281_schlummerbande_schlummerpinguin_weies_rauschen_aus_dem_ozean.mp3

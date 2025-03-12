@@ -1,0 +1,36 @@
+article: '11000935'
+lock-data: false
+data:
+- series: Robin Hood - Schlitzohr von Sherwood Forest
+  series-id: robin-hood-schlitzohr-von-sherwood-forest
+  episode: Die Schatzkiste und 3 weitere Geschichten
+  release: 1744156800
+  language: de-de
+  category: audio-play
+  runtime: 55
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11000935_1_a-WXtFEEDz.png
+  sample: https://cdn.tonies.de/o/audio_samples/ffb2c0cc6a1aa44f9203e3c0f3221fd5529f50bf59e21e75a324a245/hoerprobe_11000935_robin_hood_schlitzohr_von_sherwood.mp3
+  web: https://tonies.com/de-de/tonies/robin-hood-schlitzohr-von-sherwood-forest/robin-hood-schlitzohr-von-sherwood-hoerspiel/
+  shop-id: cfe4eb16-53cf-4524-9b3f-5628a3c6c1cb
+  track-desc:
+  - Intro
+  - Die Schatzkiste Teil 1
+  - Die Schatzkiste Teil 2
+  - Die Schatzkiste Teil 3
+  - Die Schatzkiste Teil 4
+  - Die Entführung Teil 1
+  - Die Entführung Teil 2
+  - Die Entführung Teil 3
+  - Die Entführung Teil 4
+  - Der Hypnotiseur Teil 1
+  - Der Hypnotiseur Teil 2
+  - Der Hypnotiseur Teil 3
+  - Der Hypnotiseur Teil 4
+  - Der Wunderheiler Teil 1
+  - Der Wunderheiler Teil 2
+  - Der Wunderheiler Teil 3
+  - Der Wunderheiler Teil 4
+  - Outro
+  ids: []

@@ -2,7 +2,7 @@ article: '11001544'
 lock-data: false
 data:
 - series: Vaiana
-  series-id: disney-vaiana
+  series-id: disney-moana
   episode: Vaiana 2
   release: 1741737600
   language: de-de
@@ -16,4 +16,12 @@ data:
   shop-id: dc424c11-b10b-4845-b2ed-0e27aca585d0
   track-desc:
   - 'Kapitel 01: Vaiana 2'
+  - 'Kapitel 02: Vaiana 2'
+  - 'Kapitel 03: Vaiana 2'
+  - 'Kapitel 04: Vaiana 2'
+  - 'Kapitel 05: Vaiana 2'
+  - 'Kapitel 06: Vaiana 2'
+  - 'Kapitel 07: Vaiana 2'
+  - 'Kapitel 08: Vaiana 2'
+  - 'Kapitel 09: Vaiana 2'
   ids: []
