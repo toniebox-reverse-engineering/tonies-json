@@ -1,0 +1,30 @@
+article: '11000975'
+lock-data: false
+data:
+- series: Green Team
+  series-id: green-team
+  episode: 'Green Team - Mission: Rettung im Wasser mit Bobby, der Meeresschildkröte'
+  release: 1744156800
+  language: de-de
+  category: audio-play
+  runtime: 64
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11000975%20_1_a-RIYacV5Z.png
+  sample: https://cdn.tonies.de/o/audio_samples/b27e2767b878766d940792e97b31f15477cb9bf904b5b4cac99fd817/bobby_horprobe.mp3
+  web: https://tonies.com/de-de/tonies/green-team/green-team-mission-rettung-im-wasser-mit-bobby-der-meeresschildkrote/
+  shop-id: 119e72fd-8115-4c2b-8e01-50e4a4916720
+  track-desc:
+  - Vorstellung
+  - Der schönste Hochzeitsanzug 1
+  - Der schönste Hochzeitsanzug 2
+  - Der schönste Hochzeitsanzug 3
+  - Der schönste Hochzeitsanzug 4
+  - Der Gesang der Frösche 1
+  - Der Gesang der Frösche 2
+  - Der Gesang der Frösche 3
+  - Der Gesang der Frösche 4
+  - Biber im Himmel 1
+  - Biber im Himmel 2
+  - Biber im Himmel 3
+  ids: []
