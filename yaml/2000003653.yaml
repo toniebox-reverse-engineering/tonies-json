@@ -26,9 +26,9 @@ data:
   - 20 - Scarlet soll bleiben! (Teil 07)
   - 20 - Scarlet soll bleiben! (Teil 08)
   - 20 - Scarlet soll bleiben! (Outro)
-ids:
-- audio-id: 1699261053
-  hash: 9bade7ff60441bf01231d07acf51aa626f4c53db
-  size: 21321278
-  tracks: 11
-  confidence: 0
+  ids:
+  - audio-id: 1699261053
+    hash: 9bade7ff60441bf01231d07acf51aa626f4c53db
+    size: 21321278
+    tracks: 11
+    confidence: 0
