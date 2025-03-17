@@ -1,0 +1,32 @@
+article: '11001909'
+lock-data: false
+data:
+- series: Tom Fletcher
+  series-id: tom-fletcher
+  episode: The Danger Gang
+  release: 1728604800
+  language: en-gb
+  category: audio-book
+  runtime: 252
+  age: 7
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11001909-UK-Book_Ton-WWHT5DUa.png
+  sample: https://cdn.tonies.de/o/audio_samples/b0d7fe5575fa43444de3743d5d82a0f2801fb4bef15e4f3e04a01be3/the_danger_gang_sample.wav
+  web: https://tonies.com/en-gb/book-tonies/tom-fletcher/the-danger-gang/
+  shop-id: 257d0a00-8c71-4597-a867-299cbb4fcf76
+  track-desc:
+  - 'PROLOGUE: The Storm'
+  - 'CHAPTER 1: January'
+  - 'CHAPTER 2: February'
+  - 'CHAPTER 3: March'
+  - 'CHAPTER 4: April'
+  - 'CHAPTER 5: May'
+  - 'CHAPTER 6: June'
+  - 'CHAPTER 7: July'
+  - 'CHAPTER 8: August'
+  - 'CHAPTER 9: September'
+  - 'CHAPTER 10: October'
+  - 'CHAPTER 11: November'
+  - 'CHAPTER 12: December'
+  - EPILOGUE
+  ids: []
