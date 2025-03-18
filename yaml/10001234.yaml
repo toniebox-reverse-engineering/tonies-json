@@ -20,6 +20,11 @@ data:
   - Eloise at Christmastime
   - Eloise in Moscow
   ids:
+  - audio-id: 1742315017
+    hash: 5b57b3e54f11be5cab0cc6226de61d04b2797d68
+    size: 87936991
+    tracks: 29
+    confidence: 1
   - audio-id: 1731545762
     hash: 0cfdda008e378f75340647c10706050b5f66a1a1
     size: 84052266
