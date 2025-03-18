@@ -39,4 +39,9 @@ data:
   - 'Kapitel 04: Das Sportfest (Folge 292)'
   - 'Kapitel 05: Das Sportfest (Folge 292)'
   - 'Kapitel 06: Das Sportfest (Folge 292)'
-  ids: []
+  ids:
+  - audio-id: 1727249286
+    hash: 10ced4edaed6931fb5c4cc13aef2e7336e29830c
+    size: 37946725
+    tracks: 24
+    confidence: 0
