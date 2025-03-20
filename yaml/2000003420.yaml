@@ -46,4 +46,9 @@ data:
   - 'Kapitel 03: Der Sohn von Lilly (Folge 160)'
   - 'Kapitel 04: Der Sohn von Lilly (Folge 160)'
   - 'Kapitel 05: Der Sohn von Lilly (Folge 160)'
-  ids: []
+  ids:
+  - audio-id: 1706186774
+    hash: 45a819fc424276c19f7a0b0453db7f2be481d887
+    size: 52444879
+    tracks: 20
+    confidence: 0
