@@ -10,7 +10,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 01-0006,Maus,maus,(M)auserlesene Lieder,de-de,music,stock,40c54e57-495c-4134-a8f7-b3e660ca99d6,https://tonies.com/de-de/tonies/maus/mauserlesene-lieder-1/,1,1,1,4
 01-0007,Das Sams,das-sams,Eine Woche voller Samstage,de-de,audio-play,stock,233fa707-b983-4440-bad5-72af0d00ebaa,https://tonies.com/de-de/tonies/das-sams/eine-woche-voller-samstage/,1,1,1,3
 01-0008,Das Sams,,Am Samstag kam das Sams zurück,de-de,audio-play,stock,,,1,1,1,2
-01-0009,Bobo Siebenschläfer,bobo-siebenschlaefer,Bobos Ausflug zum Spielplatz,de-de,audio-play,stock,82cdeab9-b995-4e52-a555-032c216d4c48,https://tonies.com/de-de/tonies/bobo-siebenschlaefer/bobos-ausflug-zum-spielplatz/,1,1,1,1
+01-0009,Bobo Siebenschläfer,bobo-siebenschlafer,Bobos Ausflug zum Spielplatz,de-de,audio-play,stock,82cdeab9-b995-4e52-a555-032c216d4c48,https://tonies.com/de-de/tonies/bobo-siebenschlaefer/bobos-ausflug-zum-spielplatz/,1,1,1,1
 01-0010,Conni,,Conni kommt in den Kindergarten / Conni macht das Seepferdchen,de-de,audio-play,stock,,,1,1,1,2
 01-0011,Conni,,Conni auf dem Bauernhof / Conni und das neue Baby,de-de,audio-play,stock,,,1,1,1,2
 01-0012,Bibi Blocksberg,bibi-blocksberg,Hexen gibt es doch,de-de,audio-play,stock,605e7271-1678-45d8-954f-92e31e5368db,https://tonies.com/de-de/tonies/bibi-blocksberg/hexen-gibt-es-doch/,1,1,1,4
@@ -480,7 +480,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000577,Moana,disney-moana,Moana,en-gb,audio-play-songs,stock,547dc87c-1ecd-44a3-b7a1-203a236da545,https://tonies.com/en-gb/tonies/disney-moana/moana/,1,1,0,0
 10000579,Hanni und Nanni,hanni-und-nanni,Hanni und Nanni voll im Trend,de-de,audio-play,stock,5199f0fa-7fd5-45b9-852a-1f15eab2074b,https://tonies.com/de-de/tonies/hanni-und-nanni/hanni-nanni-voll-im-trend/,1,1,1,1
 10000580,Hanni und Nanni,hanni-und-nanni,Hanni und Nanni im Hochzeitsrausch,de-de,audio-play,stock,fb73977d-8b33-4acf-a81f-1b1343aa08eb,https://tonies.com/de-de/tonies/hanni-und-nanni/hanni-und-nanni-im-hochzeitsrausch/,1,1,1,2
-10000581,100% Wolf,100-wolf,100% Wolf - Das Original-Hörspiel zum Kinofilm,de-de,audio-play,stock,80b3ee4b-4196-4ae3-bac0-a2aaadb1ce0b,https://tonies.com/de-de/tonies/100-wolf/100-wolf/,1,1,1,2
+10000581,100% Wolf,100-wolf-horspiel-zur-tv-serie,100% Wolf - Das Original-Hörspiel zum Kinofilm,de-de,audio-play,stock,80b3ee4b-4196-4ae3-bac0-a2aaadb1ce0b,https://tonies.com/de-de/tonies/100-wolf/100-wolf/,1,1,1,2
 10000583,Pittiplatsch,pittiplatsch,Neue Abenteuer mit Pittiplatsch,de-de,audio-play,stock,c73c94d9-879e-4486-9feb-f2741280fdf7,https://tonies.com/de-de/tonies/pittiplatsch/neue-abenteuer-mit-pittiplatsch/,1,1,1,2
 10000591,Favourite Children’s Songs,,Christmas Songs and Carols 2,en-gb,music,stock,,,1,1,1,1
 10000599,Oi Frog,oi-frog,Oi Frog and Friends,en-gb,audio-book,stock,300f01d0-6452-4c1b-94e5-dbc323bbd217,https://tonies.com/en-gb/tonies/oi-frog/oi-frog-and-friends/,1,1,1,1
@@ -655,7 +655,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000896,Wie kleine Tiere schlafen gehen,wie-kleine-tiere-schlafen-gehen,Wie kleine Tiere schlafen gehen / Wie kleine Kinder schlafen gehen,de-de,audio-play-songs,stock,ed6329eb-d053-4370-9fc3-f481e7710dea,https://tonies.com/de-de/tonies/wie-kleine-tiere-schlafen-gehen/wie-kleine-tiere-schlafen-gehen-wie-kleine-kinder-schlafen-gehen/,1,1,1,1
 10000897,Michel aus Lönneberga,michel-aus-loenneberga,"Der Tag, an dem Michel besonders nett sein wollte",de-de,audio-book,stock,e280c834-fe41-4794-b0d6-7735cf2d722a,https://tonies.com/de-de/tonies/michel-aus-loenneberga/der-tag-an-dem-michel-besonders-nett-sein-wollte/,1,1,1,4
 10000898,Jan Tenner,jan-tenner,Jan Tenner - Planet der 1000 Wunder,de-de,audio-play,stock,c83981cc-7b3e-4cbe-8d5f-f853538a80f0,https://tonies.com/de-de/tonies/jan-tenner/jan-tenner-planet-der-1000-wunder/,1,1,1,1
-10000899,Der Löwe in dir,der-loewe-in-dir,Der Löwe in dir und andere Geschichten,de-de,audio-book,stock,b8037c0f-0c5e-4b2a-9b63-1ac3428f47eb,https://tonies.com/de-de/tonies/der-loewe-in-dir/der-lowe-in-dir-und-andere-geschichten-von-rachel-bright-dach/,1,1,1,1
+10000899,Der Löwe in dir,der-lowe-in-dir,Der Löwe in dir und andere Geschichten,de-de,audio-book,stock,b8037c0f-0c5e-4b2a-9b63-1ac3428f47eb,https://tonies.com/de-de/tonies/der-loewe-in-dir/der-lowe-in-dir-und-andere-geschichten-von-rachel-bright-dach/,1,1,1,1
 10000906,Das kleine WIR,das-kleine-wir,Das kleine WIR,de-de,audio-play,stock,34a35e60-20c0-4f70-bff7-142d2a20b482,https://tonies.com/de-de/tonies/das-kleine-wir/das-kleine-wir/,1,1,1,1
 10000907,Der kleine Nick,nick-2,Der kleine Nick ist der Beste,de-de,audio-book,stock,640b57a8-8ca2-44cd-bb0d-d6823d43e8c7,https://tonies.com/de-de/tonies/der-kleine-nick/der-kleine-nick-ist-der-beste/,1,1,0,0
 10000908,Die kleine Raupe Nimmersatt,die-kleine-raupe-nimmersatt,Schlaf gut! Die kleine Raupe Nimmersatt und weitere Geschichten,de-de,audio-book,stock,6a136a9c-bfd7-4434-aa5b-fb87f48fec05,https://tonies.com/de-de/tonies/die-kleine-raupe-nimmersatt/schlaf-gut-die-kleine-raupe-nimmersatt-und-weitere-geschichten/,1,1,1,2
@@ -663,7 +663,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000910,Leo Lausemaus,leo-lausemaus,Das Original-Hörspiel zu den Büchern 3,de-de,audio-play,stock,da499155-c3ed-4883-9f8a-27cd2feb9d7b,https://tonies.com/de-de/tonies/leo-lausemaus/das-original-hoerspiel-zu-den-buechern-3/,1,1,1,3
 10000911,Willy Astor,willy-astor,Kindischer Ozean,de-de,audio-book-songs,stock,afdccb48-045b-4eb5-84ed-b62595accd4d,https://tonies.com/de-de/tonies/willy-astor/kindischer-ozean/,1,1,1,3
 10000912,Prinzessin Lillifee,prinzessin-lillifee,Gute-Nacht-Geschichten - Die verzauberten Seerosen/Die goldene Perle,de-de,audio-play-songs,stock,b0ff0fb0-abf8-4976-b60f-59de75ceb6af,https://tonies.com/de-de/tonies/prinzessin-lillifee/gute-nacht-geschichten-die-verzauberten-seerosendie-goldene-perle/,1,1,1,1
-10000913,Das kleine Hörbuch vom großen Glück,das-kleine-hoerbuch-vom-grossen-glueck,Das kleine Hörbuch vom großen Glück - Die Glücksfee,de-de,audio-book-songs,stock,a5422d8a-aaca-488c-8bf9-2f28ceb0e06c,https://tonies.com/de-de/tonies/das-kleine-hoerbuch-vom-grossen-glueck/das-kleine-hoerbuch-vom-groszen-glueck-die-gluecksfee-dach/,1,1,1,2
+10000913,Das kleine Hörbuch vom großen Glück,das-kleine-horbuch-vom-groen-gluck,Das kleine Hörbuch vom großen Glück - Die Glücksfee,de-de,audio-book-songs,stock,a5422d8a-aaca-488c-8bf9-2f28ceb0e06c,https://tonies.com/de-de/tonies/das-kleine-hoerbuch-vom-grossen-glueck/das-kleine-hoerbuch-vom-groszen-glueck-die-gluecksfee-dach/,1,1,1,2
 10000925,LMNO Peas,,,en-us,Tonie,stock,7727258665111,,1,2,2,1
 10000926,Chicka Chicka Boom Boom,,,en-us,Tonie,stock,7465440411799,,1,2,2,1
 10000927,Minimusiker,minimusiker,Lieder für dich 2,de-de,music,stock,53209d2e-c40c-4b01-8e81-019c32ca8285,https://tonies.com/de-de/tonies/minimusiker/lieder-fuer-dich-2/,1,1,1,2
@@ -894,7 +894,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001479,Masha Et Michka,mascha-und-der-bar,Masha,fr-fr,audio-play-songs,stock,d1b4b1df-462f-480b-8b51-0e51dd40d037,https://tonies.com/fr-fr/tonies/masha-et-michka/masha/,1,0,0,0
 10001480,Mes Comptines Préférées,lieblings-kinderlieder,Pour Apprendre,fr-fr,music,stock,afd9c52b-e6fc-4626-99a6-6d39c35b5d06,https://tonies.com/fr-fr/tonies/mes-comptines-preferees/pour-apprendre/,1,1,1,1
 10001481,Pirata Et Capitano,pirata-et-capitano,Pirata,fr-fr,audio-play,stock,d5d0df38-59b4-45a2-b4b2-b77d09a7b069,https://tonies.com/fr-fr/tonies/pirata-et-capitano/pirata/,1,1,1,1
-10001482,Club Écolo,club-ecolo,Sauvetages en Terre !,fr-fr,audio-play,stock,7bf5eeb6-1e86-4986-ab39-f7e652f30b5d,https://tonies.com/fr-fr/tonies/club-ecolo/sauvetages-en-terre/,1,0,0,0
+10001482,Club Écolo,club-ecolo-2,Sauvetages en Terre !,fr-fr,audio-play,stock,7bf5eeb6-1e86-4986-ab39-f7e652f30b5d,https://tonies.com/fr-fr/tonies/club-ecolo/sauvetages-en-terre/,1,0,0,0
 10001483,Gloria Glühwürmchen,gloria-gluehwuermchen,Bezaubernde Gutenachtgeschichten,de-de,audio-book,stock,9302d380-cabc-4dc1-a3f5-15d11a5c9967,https://tonies.com/de-de/tonies/gloria-gluehwuermchen/bezaubernde-gutenachtgeschichten/,1,1,1,2
 10001484,Lieblings-Märchen,lieblings-marchen,Rotkäppchen (Neuauflage 2023),de-de,audio-book,stock,231a87e1-6a25-4e2f-ba6e-1a886c7c577d,https://tonies.com/de-de/tonies/lieblings-maerchen/rotkppchen-neuauflage-2023/,1,1,0,0
 10001485,Disney,disney,Buh machst du! & 3 weitere Geschichten,de-de,audio-play,stock,85a858dd-5d83-473b-bf02-bbceabc2dfa6,https://tonies.com/de-de/tonies/disney/buh-machst-du-3-weitere-geschichten/,1,1,0,0
@@ -1045,7 +1045,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10002001,Worldwide Tales,,West African Tales,en-us,Tonie,stock,7907849568407,,1,2,2,1
 10002002,Adventskalender,adventskalender,Ein Fest für die Waldfreunde,de-de,audio-play,stock,52da5059-9853-48ce-86cc-4dea2d30ed2a,https://tonies.com/de-de/tonies/adventskalender/ein-fest-fur-die-waldfreunde/,1,29,29,1
 10002003,Lieblings-Märchen,lieblings-maerchen,Der gestiefelte Kater (Neuauflage 2023),de-de,audio-book,stock,0ffc4b6f-6711-49fd-ad6e-c33281dd6de9,https://tonies.com/de-de/tonies/lieblings-maerchen/lieblingsmarchen-der-gestiefelte-kater-neuauflage-2023/,1,1,0,0
-10002008,"Billie, der Regenbogentiger",billie-der-regenbogentiger,"Billie, der Regenbogentiger",de-de,audio-play,stock,4dad6ba1-6f2a-4a03-965a-ac8eb8deb4a9,https://tonies.com/de-de/tonies/billie-der-regenbogentiger/billie-der-regenbogentiger/,1,1,1,3
+10002008,"Billie, der Regenbogentiger",billie-der-regenbogentiger-2,"Billie, der Regenbogentiger",de-de,audio-play,stock,4dad6ba1-6f2a-4a03-965a-ac8eb8deb4a9,https://tonies.com/de-de/tonies/billie-der-regenbogentiger/billie-der-regenbogentiger/,1,1,1,3
 10002010,Lassie,lassie,Freunde fürs Leben,de-de,audio-play,stock,99d572a8-a52f-49e4-bd3c-48ca8d16c86b,https://tonies.com/de-de/tonies/lassie/lassie-freunde-furs-leben/,1,1,1,1
 10002011,Das kleine Böse Buch,das-kleine-boese-buch,Das kleine Böse Buch,de-de,audio-book,stock,89af5580-62fc-4976-8556-8546ce672015,https://tonies.com/de-de/tonies/das-kleine-boese-buch/das-kleine-bse-buch/,1,1,1,3
 10002016,Steiff Soft Cuddly Friends,steiff-soft-cuddly-friends,Bodo Schimpanse,de-de,audio-play,stock,fc9b9559-ac02-4c25-9e45-6ecbaefc637b,https://tonies.com/de-de/tonies/steiff-soft-cuddly-friends/bodo-schimpanse/,1,1,1,3
@@ -5411,6 +5411,14 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 2000011185,Gigi et Pipo,gigi-et-pipo,Gigi et Pipo vol. 4,fr-fr,audio-play,tunes,263314c7-6d5b-4796-8c00-fb2a453495a8,https://tonies.com/fr-fr/tonie-librairie/gigi-et-pipo/gigi-et-pipo-vol4/,1,0,0,0
 2000011186,Gigi et Pipo,gigi-et-pipo,Gigi et Pipo vol. 5,fr-fr,audio-play,tunes,07fa8c47-4b18-4214-9405-083d09d03d3e,https://tonies.com/fr-fr/tonie-librairie/gigi-et-pipo/gigi-et-pipo-vol5/,1,0,0,0
 2000011187,Gigi et Pipo,gigi-et-pipo,Gigi et Pipo vol. 6,fr-fr,audio-play,tunes,96802b21-88d4-4586-bbec-5aaeb0090837,https://tonies.com/fr-fr/tonie-librairie/gigi-et-pipo/gigi-et-pipo-vol6/,1,0,0,0
+2000011188,Peppa Pig,peppa-pig,Family Stories,en-gb,audio-play,tunes,267446c9-98be-4a9b-b338-afd15f81e5f7,https://tonies.com/en-gb/audio-content/peppa-pig/family-stories/,1,0,0,0
+2000011189,Peppa Pig,peppa-pig,Friendship Stories,en-gb,audio-play,tunes,e3ea6713-ff0e-47da-b774-8da094a7e3e3,https://tonies.com/en-gb/audio-content/peppa-pig/friendship-stories/,1,0,0,0
+2000011190,Peppa Pig,peppa-pig,Club Stories,en-gb,audio-play,tunes,f5987008-4dc8-482e-b5a8-73e3c28b47fa,https://tonies.com/en-gb/audio-content/peppa-pig/club-stories/,1,0,0,0
+2000011191,Peppa Pig,peppa-pig,Food Stories,en-gb,audio-play,tunes,abe43680-6e8f-4259-836a-7663053066b4,https://tonies.com/en-gb/audio-content/peppa-pig/food-stories/,1,0,0,0
+2000011192,Peppa Pig,peppa-pig,Imagination Stories,en-gb,audio-play,tunes,c79c4c5a-5338-4032-8760-177e1f3493b2,https://tonies.com/en-gb/audio-content/peppa-pig/imagination-stories/,1,0,0,0
+2000011193,Peppa Pig,peppa-pig,Music Stories,en-gb,audio-play,tunes,1ed30aa3-14fb-4ef9-aea1-92824888d16b,https://tonies.com/en-gb/audio-content/peppa-pig/music-stories/,1,0,0,0
+2000011194,Peppa Pig,peppa-pig,Travel Stories,en-gb,audio-play,tunes,def07d53-d141-49e0-8948-37c8a08fe211,https://tonies.com/en-gb/audio-content/peppa-pig/travel-stories/,1,0,0,0
+2000011195,Peppa Pig,peppa-pig,Learning Stories,en-gb,audio-play,tunes,4a60ea46-4238-4da2-aa17-72f47dd161a2,https://tonies.com/en-gb/audio-content/peppa-pig/learning-stories/,1,0,0,0
 2000011196,Pêche et Ninon,peche-et-ninon,Pêche et Ninon vol. 1,fr-fr,audio-play,tunes,0cdf7196-b8c2-4064-b48c-482b02347185,https://tonies.com/fr-fr/tonie-librairie/peche-et-ninon/peche-et-ninon-vol1/,1,0,0,0
 2000011197,Die Playmos,die-playmos,Folge 87: Verschwörung im Olymp (Das Original Playmobil Hörspiel),de-de,audio-play,tunes,7d6d34e1-3daa-4e66-9417-73e1afef3fc0,https://tonies.com/de-de/audio-content/die-playmos/die-playmos-folge-87-verschworung-in-olymp-das-ori/,1,0,0,0
 2000011198,Die Playmos,die-playmos,"Die Playmos - Das Original Playmobil Hörspiel, Folge 88: Wo ist Stürmer Leon Blitz?",de-de,audio-play,tunes,d401385f-1956-43bf-8a2c-564f6200ca50,https://tonies.com/de-de/audio-content/die-playmos/die-playmos-das-original-playmobil-horspiel-fol-13/,1,0,0,0
