@@ -11,7 +11,7 @@ data:
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_7797f7b8524ca3506eefe6b0c448800e42ceec0a37097bf24b158297/3_MLgSjZwp194w8lWy/peppa_pig_learning_stories_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/514f3e7291f93490e59afc36d3847a4ab6e938a5f1c5981e8d7cb346/learning_stories.m4a
   web: https://tonies.com/en-gb/audio-content/peppa-pig/learning-stories/
   shop-id: 4a60ea46-4238-4da2-aa17-72f47dd161a2
   track-desc:

@@ -11,7 +11,7 @@ data:
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_9cbc8658676191256b21a0804256789308cf790b5348f546bd118731/3_kRTq8V._4xmYlRZz/peppa_pig_imagination_stories_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/12cbbfd8e5ebfcd46dfea52426cf8a6fd319dd9c373377bac11037df/imagination_stroies.m4a
   web: https://tonies.com/en-gb/audio-content/peppa-pig/imagination-stories/
   shop-id: c79c4c5a-5338-4032-8760-177e1f3493b2
   track-desc:

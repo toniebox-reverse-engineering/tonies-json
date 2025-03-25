@@ -11,7 +11,7 @@ data:
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_d52d9bb46d7022b435448877289027dcf6a94a7985a66f2cbf46c0a6/3_JGyT2L5F_dpKR~6P/peppa_pig_club_stories_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/2ec5dfdac1e2bf1f84600238ba700f0d1a4beef279ddee3c25bf8f00/club_stories.m4a
   web: https://tonies.com/en-gb/audio-content/peppa-pig/club-stories/
   shop-id: f5987008-4dc8-482e-b5a8-73e3c28b47fa
   track-desc:
