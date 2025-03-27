@@ -12,7 +12,7 @@ data:
   origin: stock
   image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000224-50001088-g-Egc7k2z-.png
   sample: null
-  web: null
-  shop-id: null
+  web: https://tonies.com/en-gb/creative-tonies/creative-tonie-easter-bunny/
+  shop-id: ced1b162-2aa3-4469-b8d5-9a398433d39f
   track-desc: []
   ids: []
