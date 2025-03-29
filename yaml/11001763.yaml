@@ -27,4 +27,9 @@ data:
   - Kapitel 10 - Franz Schubert - Die Nacht
   - Kapitel 11 - Ludwig van Beethoven - Mondscheinsonate
   - Kapitel 12 - Johannes Brahms - Sechs Klavierstücke Op 118
-  ids: []
+  ids:
+  - audio-id: 1727440095
+    hash: af2199266affde39ed16d64126026b7491564b47
+    size: 67459446
+    tracks: 12
+    confidence: 0
