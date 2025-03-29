@@ -1,0 +1,23 @@
+article: '2000011189'
+lock-data: false
+data:
+- series: Peppa Pig
+  series-id: peppa-pig
+  episode: Friendship Stories
+  release: 1742774400
+  language: en-gb
+  category: audio-play
+  runtime: 1399
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_d28800a86ac623826df458d45ca4dce2fb47b3dcb97bdb24e6fcf2f5/3_7qH.PfJ-lGgSt~nx/peppa_pig_friendship_stories_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/9a072225749f23f91c1f345644b938460951ec6b0a031ae0ee262cc2/friend_stories.m4a
+  web: https://tonies.com/en-gb/audio-content/peppa-pig/friendship-stories/
+  shop-id: e3ea6713-ff0e-47da-b774-8da094a7e3e3
+  track-desc:
+  - Mr Bull's New Road
+  - Mandy Mouse
+  - Talent Day
+  - Cowboy Pedro
+  - Suzy Goes Away
+  ids: []

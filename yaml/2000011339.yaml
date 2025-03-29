@@ -1,0 +1,31 @@
+article: '2000011339'
+lock-data: false
+data:
+- series: Jan Tenner
+  series-id: jan-tenner
+  episode: 'Jan Tenner, Folge 9: Invasion der Androiden'
+  release: 1742428800
+  language: de-de
+  category: audio-book
+  runtime: 2904
+  age: 9
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/6a093a7311035d970e859dce65dcbd694d95f1fddd9bb380b28266cb/3_Y43fQbTHDdfBms33/jan_tenner_009_jan_tenner_folge_9__invasion_d_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/fc7d3776bb2740107270d92eb2c201c2c685a322c5eacfde7049ebc3/4033694277096_audiosample.mp3
+  web: https://tonies.com/de-de/audio-content/jan-tenner/jan-tenner-folge-9-invasion-der-androiden/
+  shop-id: 64d455b4-e183-4556-b0d2-4a09cf786878
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  ids: []
