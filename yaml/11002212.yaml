@@ -1,0 +1,41 @@
+article: '11002212'
+lock-data: false
+data:
+- series: Captain Underpants
+  series-id: audiobooks-captain-underpants
+  episode: The Adventures of Captain Underpants
+  release: 1728604800
+  language: en-gb
+  category: audio-book
+  runtime: 60
+  age: 7
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002212-UK-Audioboo-62OnYa4I.png
+  sample: https://cdn.tonies.de/o/audio_samples/7e8d8cceb4f8470076a267f312dc895d8dd1ba695203f10bef81757a/the_adventure_of_captain_underpants_sample.wav
+  web: https://tonies.com/en-gb/book-tonies/audiobooks-captain-underpants/the-adventures-of-captain-underpants/
+  shop-id: dd3c4df3-de4e-4c6c-808f-c11204118031
+  track-desc:
+  - 'CHAPTER 1: George and Harold'
+  - 'CHAPTER 2: Treehouse Comix, Inc.'
+  - 'CHAPTER 3: The Adventures of Captain Underpants'
+  - 'CHAPTER 4: Mean Old Mr. Krupp'
+  - 'CHAPTER 5: One Day, Very Very Soon'
+  - 'CHAPTER 6: Busted'
+  - 'CHAPTER 7: A Little Blackmail'
+  - 'CHAPTER 8: Crime and Punishment'
+  - 'CHAPTER 9: Four-to-Six Weeks Later'
+  - 'CHAPTER 10: The 3-D Hypno-Ring'
+  - 'CHAPTER 11: Fun with Hypnosis'
+  - 'CHAPTER 12: Out the Window'
+  - 'CHAPTER 13: Bank Robbers'
+  - 'CHAPTER 14: The Big Bang'
+  - 'CHAPTER 15: Dr. Diaper'
+  - 'CHAPTERr 16: The Extremely Graphic Violence Chapter'
+  - 'CHAPTER 17: The Escape'
+  - 'CHAPTER 18: To Make a Long Story Short'
+  - 'CHAPTER 19: Back to School'
+  - 'CHAPTER 20: The End?'
+  - The Origin of Captain Underpants
+  - Fun Facts
+  - Legal Copyright
+  ids: []
