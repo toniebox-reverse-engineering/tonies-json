@@ -1,0 +1,27 @@
+article: '10000602'
+lock-data: false
+data:
+- series: tonies® Original
+  series-id: tonies-originals
+  episode: 'Mindfulness: Meditations with Mo the Sloth'
+  release: 1744588800
+  language: en-gb
+  category: audio-play
+  runtime: 60
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/10000602_7_Landscape-MkMp8D6l.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/fcbe2b4f7ac081cae32d3f77f969642d55fd879beb9bf60249ab5d0b/meditation_sloth_1_min_sample.wav
+  web: https://tonies.com/en-gb/tonies/tonies-originals/mindfulness-meditations-with-mo-the-sloth/
+  shop-id: 5777bc5c-0442-4829-8c53-9d63497c1ea8
+  track-desc:
+  - Tonies Intro
+  - INTRO
+  - JOURNEY 1 - Discovering the Jungle
+  - JOURNEY 2 - Expedition in the Savannah
+  - JOURNEY 3 - Mysteries of the Underwater World
+  - JOURNEY 4 - Footprints in the Snow
+  - JOURNEY 5 - Your World Seen From Above
+  - JOURNEY 6 - Walk Along The Water
+  - Tonies Outro
+  ids: []
