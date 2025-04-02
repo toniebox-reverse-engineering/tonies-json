@@ -1,0 +1,23 @@
+article: '11001089'
+lock-data: false
+data:
+- series: Club Écolo
+  series-id: club-ecolo
+  episode: Sauvetages Dans Les Grands Espaces
+  release: 1743638400
+  language: fr-fr
+  category: audio-play
+  runtime: 64
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51005740-Tonie_Shado-DhS2zlbe.png
+  sample: https://cdn.tonies.de/o/audio_samples/e600467ed3ddc6cf9e7c8ffde2287488147bd28018b4fd3f8ebc449c/11001089_club_ecolo_melha_extraitmp3.mp3
+  web: https://tonies.com/fr-fr/tonies/club-ecolo/sauvetages-dans-les-grands-espaces/
+  shop-id: c4bfd917-4654-4deb-9020-d76153bf9ebb
+  track-desc:
+  - Présentation du Club Écolo
+  - Le plus beau des manguiers
+  - En panne de fleurs
+  - Perdu dans la mangrove
+  - Alerte "algues vertes" !
+  ids: []

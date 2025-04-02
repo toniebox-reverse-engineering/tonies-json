@@ -1,0 +1,38 @@
+article: '11001152'
+lock-data: false
+data:
+- series: Mes Mythes Préférés
+  series-id: mes-mythes-preferes
+  episode: Les 12 Travaux d'Hercule
+  release: 1743638400
+  language: fr-fr
+  category: audio-play
+  runtime: 80
+  age: 7
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51006038-Tonie_Shado-NN4oG5Ku.png
+  sample: https://cdn.tonies.de/o/audio_samples/2c4a0cd8f4a81a27f5170260b33b7f62af85f3d841c93670e95495be/11001152_mes_mythes_preferes_12_travaux_d_hercule_extraitmp3.mp3
+  web: https://tonies.com/fr-fr/tonies/mes-mythes-preferes/les-12-travaux-dhercule/
+  shop-id: f1a698a9-0eda-4d95-b5fa-56093badd3e2
+  track-desc:
+  - Prologue
+  - La conception et la naissance d'Hercule
+  - L'enfance et l'adolescence d'Hercule
+  - Un bonheur de courte durée
+  - Les quatre premiers travaux
+  - Rapporter la peau du Lion de Némée
+  - Tuer l’Hydre de Lerne
+  - Capturer la biche aux cornes d’or
+  - Ramener vivant le sanglier d'Erymanthe
+  - Les quatre travaux suivants
+  - Nettoyer les écuries d'Augias
+  - Tuer les oiseaux du lac Stymphale
+  - Dompter le taureau de Crète
+  - Enlever les juments de Diomède
+  - Les quatre derniers travaux
+  - Rapporter la ceinture d'Hippolyté
+  - Voler les mille bœufs du géant Géryon
+  - Rapporter les pommes d'or du jardin des Hespérides
+  - Capturer Cerbère, le chien des Enfers
+  - L’amour brûlant de Déjanire
+  ids: []

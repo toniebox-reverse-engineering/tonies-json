@@ -1,0 +1,24 @@
+article: '10001101'
+lock-data: false
+data:
+- series: Sam Le Pompier
+  series-id: sam-le-pompier
+  episode: Sam Le Pompier
+  release: 1743638400
+  language: fr-fr
+  category: audio-play
+  runtime: 47
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/98-0627-Tonie_Shadow-P7l-vUUh.png
+  sample: https://cdn.tonies.de/o/audio_samples/d630052c5e3245c9b298a0c90d0077711efbe64ce329e80e85e5f8c4/10001101_sam_le_pompier_extraitmp3.mp3
+  web: https://tonies.com/fr-fr/tonies/sam-le-pompier/sam-le-pompier/
+  shop-id: 89f24260-e629-4b19-a78d-a896d9bc101c
+  track-desc:
+  - Générique
+  - La fête de la pizza
+  - Le feu d'artifice
+  - Nicolas et la mer
+  - SOS animaux en détresse
+  - Opération Dépollution
+  ids: []

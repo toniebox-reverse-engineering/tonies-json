@@ -1,0 +1,50 @@
+article: '11001173'
+lock-data: false
+data:
+- series: Mes Comptines Préférées
+  series-id: mes-comptines-preferees
+  episode: Bizzy Au Pays Des Fleurs
+  release: 1743638400
+  language: fr-fr
+  category: music
+  runtime: 63
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51000652-Tonie_Shado-oiwKZEzZ.png
+  sample: https://cdn.tonies.de/o/audio_samples/d44d6f008d5d0be40dfda61dc4ed2f1cbf730471c56d88febcf2ca1a/bizzy_extrait_mp3.mp3
+  web: https://tonies.com/fr-fr/tonies/mes-comptines-preferees/bizzy-au-pays-des-fleurs/
+  shop-id: 1590009d-ef23-48fd-a2af-962a7772d35b
+  track-desc:
+  - Bizzy l'abeille
+  - Vole comme une abeille (chanson)
+  - La reine des abeilles
+  - Jules la libellule
+  - Libellule pas si belle (chanson)
+  - Amandine la mante religieuse
+  - La reine du déguisement (chanson)
+  - Plus que dix champs de tournesols
+  - Bébert le coléoptère
+  - Tant de coléoptères (chanson)
+  - Bye Bye Bébert !
+  - Coccinelle adorée (chanson)
+  - Cricky le criquet
+  - Hop hop hop (chanson)
+  - Camille l'armadille
+  - Le petit jardinier (chanson)
+  - Les fourmis
+  - La marche des fourmis (chanson)
+  - Oups, ce n'est pas par là !
+  - Fredy le phasme
+  - Je me fonds dans l'écorce (chanson)
+  - Les grands cerisiers
+  - Valter le ver de terre
+  - Comme un ver de terre (chanson)
+  - Les arbres aux fleurs jaunes
+  - Blaise la punaise
+  - C'est quoi cette odeur ? (chanson)
+  - Annie l'arachnide
+  - Les papillons dans le soleil (chanson)
+  - Monica le papillon monarque / On a réussi !
+  - La danse des abeilles (chanson)
+  - Chanson bonus
+  ids: []
