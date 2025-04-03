@@ -31,7 +31,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001021,Mes Comptines Préférées,lieblings-kinderlieder,Pour Faire la Fête,fr-fr,music,stock,c7975780-dae2-4496-ae1c-beaea567a53b,https://tonies.com/fr-fr/tonies/mes-comptines-preferees/pour-faire-la-fete/,2,1,1,1
 10001041,Maya L'Abeille,maya-l-abeille,Maya L'Abeille,fr-fr,audio-play-songs,stock,bb7a2283-5b34-45fb-a7dd-fe31f9e6bb38,https://tonies.com/fr-fr/tonies/maya-l-abeille/maya-l-abeille/,1,1,1,1
 10001043,Heidi,heidi,Heidi,fr-fr,audio-play-songs,stock,a2fbe823-ac77-40a5-8d08-3242793c7ae9,https://tonies.com/fr-fr/tonies/heidi/heidi/,1,1,1,1
-10001101,Sam Le Pompier,sam-le-pompier,Sam Le Pompier,fr-fr,audio-play,stock,89f24260-e629-4b19-a78d-a896d9bc101c,https://tonies.com/fr-fr/tonies/sam-le-pompier/sam-le-pompier/,1,0,0,0
+10001101,Sam Le Pompier,feuerwehrmann-sam,Sam Le Pompier,fr-fr,audio-play,stock,89f24260-e629-4b19-a78d-a896d9bc101c,https://tonies.com/fr-fr/tonies/sam-le-pompier/sam-le-pompier/,1,0,0,0
 10001104,Cendrillon,disney-cinderella,Cendrillon,fr-fr,audio-play-songs,stock,843fc10b-e16e-4ee2-a8e1-1a187a2dd895,https://tonies.com/fr-fr/tonies/disney-cendrillon/cendrillon/,1,0,0,0
 10001217,Mes Comptines Préférées,lieblings-kinderlieder,En Anglais,fr-fr,music,stock,4a869e3c-3a17-430a-ae11-d73eef261823,https://tonies.com/fr-fr/tonies/mes-comptines-preferees/en-anglais/,1,1,1,1
 10001220,Les 101 Dalmatiens,disney-101-dalmatians,Les 101 Dalmatiens,fr-fr,audio-play-songs,stock,bb3d5f35-347f-4e04-8478-44ac94e99926,https://tonies.com/fr-fr/tonies/disney-les-101-dalmatiens/les-101-dalmatiens/,1,0,0,0
@@ -178,12 +178,12 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000955,Les Copains Du Dodo,sleepy-friends,Doudou Mouton Noir,fr-fr,music,stock,3e7bfe3a-44c8-4fe1-a65f-d2554d5cbd92,https://tonies.com/fr-fr/tonies/les-copains-du-dodo/doudou-mouton-noir/,1,0,0,0
 11000956,Les Copains Du Dodo,sleepy-friends,Doudou Baleine,fr-fr,music,stock,0ecab802-0af5-4b11-b34e-d891dede7b7a,https://tonies.com/fr-fr/tonies/les-copains-du-dodo/doudou-baleine/,1,0,0,0
 11001088,Les Copains Du Dodo,sleepy-friends,Tonie-Veilleuse - Doudou Nounours,fr-fr,music,stock,70abd56e-8c47-4b1f-8388-2935f109f32b,https://tonies.com/fr-fr/tonies/les-copains-du-dodo/tonie-veilleuse-doudou-nounours/,1,0,0,0
-11001089,Club Écolo,club-ecolo,Sauvetages Dans Les Grands Espaces,fr-fr,audio-play,stock,c4bfd917-4654-4deb-9020-d76153bf9ebb,https://tonies.com/fr-fr/tonies/club-ecolo/sauvetages-dans-les-grands-espaces/,1,0,0,0
+11001089,Club Écolo,club-ecolo-2,Sauvetages Dans Les Grands Espaces,fr-fr,audio-play,stock,c4bfd917-4654-4deb-9020-d76153bf9ebb,https://tonies.com/fr-fr/tonies/club-ecolo/sauvetages-dans-les-grands-espaces/,1,0,0,0
 11001147,Spidey Et Ses Amis Extraordinaires,marvel-spidey-and-his-amazing-friends,Black Panther,fr-fr,audio-play-songs,stock,8e79495a-72ac-4a68-9c28-f7e9cad0bd36,https://tonies.com/fr-fr/tonies/spidey-et-ses-amis-extraordinaires/black-panther/,1,0,0,0
-11001152,Mes Mythes Préférés,mes-mythes-preferes,Les 12 Travaux d'Hercule,fr-fr,audio-play,stock,f1a698a9-0eda-4d95-b5fa-56093badd3e2,https://tonies.com/fr-fr/tonies/mes-mythes-preferes/les-12-travaux-dhercule/,1,0,0,0
+11001152,Mes Mythes Préférés,mes-mythes-preferes-2,Les 12 Travaux D'Hercule,fr-fr,audio-play,stock,f1a698a9-0eda-4d95-b5fa-56093badd3e2,https://tonies.com/fr-fr/tonies/mes-mythes-preferes/les-12-travaux-dhercule/,1,0,0,0
 11001166-b,Les Copains Du Dodo,les-copains-du-dodo,Tonie-Veilleuse - Doudou Mouton,fr-fr,music,stock,5e71b044-7265-4d5b-a2a8-67e1bf96262b,https://tonies.com/fr-fr/tonies/les-copains-du-dodo/tonie-veilleuse-doudou-mouton-2024/,1,0,0,0
 11001166,Les Copains Du Dodo,sleepy-friends,Tonie-Veilleuse - Doudou Mouton (Édition 2024),fr-fr,music,stock,c8f16056-62bc-4554-b80c-4764ae16e439,https://tonies.com/fr-fr/tonies/les-copains-du-dodo/tonie-veilleuse-doudou-mouton/,1,0,0,0
-11001173,Mes Comptines Préférées,mes-comptines-preferees,Bizzy Au Pays Des Fleurs,fr-fr,music,stock,1590009d-ef23-48fd-a2af-962a7772d35b,https://tonies.com/fr-fr/tonies/mes-comptines-preferees/bizzy-au-pays-des-fleurs/,1,0,0,0
+11001173,Mes Comptines Préférées,lieblings-kinderlieder,Bizzy Au Pays Des Fleurs,fr-fr,music,stock,1590009d-ef23-48fd-a2af-962a7772d35b,https://tonies.com/fr-fr/tonies/mes-comptines-preferees/bizzy-au-pays-des-fleurs/,1,0,0,0
 11001178,Jasmine,jasmine,Jasmine,fr-fr,audio-play-songs,stock,57bce8e7-ce9f-4d4b-8e5e-a1c671b84a97,https://tonies.com/fr-fr/tonies/disney-jasmine/jasmine/,1,0,0,0
 11001332,Les Copains Du Dodo,sleepy-friends,Doudou Poulpe,fr-fr,audio-play-songs,stock,e061d350-a143-4bbd-93f7-006df9877b00,https://tonies.com/fr-fr/tonies/les-copains-du-dodo/doudou-poulpe/,1,0,0,0
 11001359,Les Copains Du Dodo,sleepy-friends,Doudou Pingouin,fr-fr,music,stock,633cbd75-a561-45ac-9fd4-eab16f65507b,https://tonies.com/fr-fr/tonies/les-copains-du-dodo/doudou-pingouin/,1,0,0,0
@@ -249,6 +249,8 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 2000011271,Sonia pas de souci,sonia-pas-de-souci,Sonia pas de souci vol. 1,fr-fr,audio-play,tunes,910ab813-9402-497d-8d37-cda68e9b3426,https://tonies.com/fr-fr/tonie-librairie/sonia-pas-de-souci/sonia-pas-de-souci-vol-1/,1,0,0,0
 2000011272,Sonia pas de souci,sonia-pas-de-souci,Sonia pas de souci vol. 2,fr-fr,audio-play,tunes,61b6eec3-94a3-426a-87c4-03fcd9b63657,https://tonies.com/fr-fr/tonie-librairie/sonia-pas-de-souci/sonia-pas-de-souci-vol-2/,1,0,0,0
 2000011273,Popa Noël n'en fait qu'à sa tête,popa-noel-nen-fait-qua-sa-tete,Popa Noël n'en fait qu'à sa tête,fr-fr,audio-play,tunes,e7e939cb-4776-4d92-a69c-3c5d9127db62,https://tonies.com/fr-fr/tonie-librairie/popa-noel-nen-fait-qua-sa-tete/popa-noel-nen-fait-qua-sa-tete/,1,0,0,0
+2000011350,Petite Fée,petite-fee,Petite Fée et la magie perdue,fr-fr,audio-play-songs,tunes,77fc2ebf-e0e6-46e4-9343-2fddbff28248,https://tonies.com/fr-fr/tonie-librairie/petite-fee/petite-fee-et-la-magie-perdue/,1,0,0,0
+2000011351,Petit Pirate,petit-pirate,Les trésors de Petit Pirate,fr-fr,audio-play-songs,tunes,375cf7f6-7317-470d-a8d3-bedc455fc8ec,https://tonies.com/fr-fr/tonie-librairie/petit-pirate/les-tresors-de-petit-pirate/,1,0,0,0
 99-0005,Tonie Créatif,,Gulli,fr-fr,creative-tonie,stock,,,1,0,0,0
 box-fr-fr-03-00000000,System sounds fr-fr,system-fr-fr,Jingle (Startup),fr-fr,system,stock,,,1,1,1,1
 box-fr-fr-03-00000001,System sounds fr-fr,system-fr-fr,,fr-fr,system,stock,,,1,1,1,1
