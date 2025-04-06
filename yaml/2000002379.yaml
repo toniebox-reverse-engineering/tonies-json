@@ -40,4 +40,9 @@ data:
   - 'Kapitel 04: Die Riesen-Kuppel (Folge 130)'
   - 'Kapitel 05: Die Riesen-Kuppel (Folge 130)'
   - 'Kapitel 06: Die Riesen-Kuppel (Folge 130)'
-  ids: []
+  ids:
+  - audio-id: 1734513560
+    hash: c247457ea95a35c91363a66a1cabc6ffa7700160
+    size: 42663506
+    tracks: 25
+    confidence: 0
