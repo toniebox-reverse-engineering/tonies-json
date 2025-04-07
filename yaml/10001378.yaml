@@ -1,8 +1,8 @@
 article: '10001378'
 lock-data: false
 data:
-- series: Disney
-  series-id: disney
+- series: Schneewittchen und die sieben Zwerge
+  series-id: disney-snow-white-and-the-seven-dwarfs
   episode: Schneewittchen und die sieben Zwerge
   release: 1699401600
   language: de-de
@@ -12,7 +12,7 @@ data:
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/BOX10001378_1_a-m-a98EFW.png
   sample: https://cdn.tonies.de/o/audio_samples/61b9d88afede2ff5b4bf4c0772330c28995eea5b7257450a6e904d53/hoerprobe_10001378disney_schneewittchen_und_die_sieben_zwerge.mp3
-  web: https://tonies.com/de-de/tonies/disney/disney-schneewittchen-und-die-sieben-zwerge-schneewittchen-und-die-sieben-zwerge-dach/
+  web: https://tonies.com/de-de/tonies/disney-schneewittchen-und-die-sieben-zwerge/disney-schneewittchen-und-die-sieben-zwerge-schneewittchen-und-die-sieben-zwerge-dach/
   shop-id: 2c917a4e-081b-455c-9af0-58b4301a10ba
   track-desc:
   - 'Kapitel 01: Schneewittchen und die sieben Zwerge'
