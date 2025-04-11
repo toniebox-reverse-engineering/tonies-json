@@ -19,4 +19,9 @@ data:
   - 'Kapitel 02: Aristocats'
   - 'Kapitel 03: Aristocats'
   - 'Kapitel 04: Aristocats'
-  ids: []
+  ids:
+  - audio-id: 1743601033
+    hash: 77aac7a1bdc3236aa087f28d6e14da91be42bf58
+    size: 41600031
+    tracks: 4
+    confidence: 0
