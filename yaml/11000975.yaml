@@ -27,4 +27,9 @@ data:
   - Biber im Himmel 1
   - Biber im Himmel 2
   - Biber im Himmel 3
-  ids: []
+  ids:
+  - audio-id: 1744039466
+    hash: 2881a8981a9369bb03a3bbdd49654889efa78214
+    size: 46234745
+    tracks: 12
+    confidence: 0
