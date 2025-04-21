@@ -10,26 +10,10 @@ data:
   runtime: 129
   age: 4
   origin: stock
-  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11000185_1_a-IdhMejde.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/11000185_Pippi-inkl--WQF-bCQ7.png
   sample: https://cdn.tonies.de/o/audio_samples/cafb1a6db8792736167624a084da9803f5c5469a865fd97535eabd9f/hoerprobe_11000185_pippi_langstrumpf_horspiel.mp3
   web: https://tonies.com/de-de/tonies/pippi-langstrumpf/pippi-langstrumpf-hoerspiel/
   shop-id: de0ec06b-8d64-462a-9689-fc36c63460d2
   track-desc:
-  - 01 Pippi Langstrumpf Das Hoerspiel Relaunch
   - 01 Hej Pippi Langstrumpf
-  - 02 Ach Tommy
-  - 03 Am Nächsten Morgen
-  - 04 Nebenan In Der Villa Kunterbunt
-  - 05 Ach Meine Lieben Wie Schade
-  - 06 In Der Kleinen Stadt
-  - 07 Tommy Und Annika Gingen Natürlich In Die Schule
-  - 08 Ja So War Das Mit Pippi Und Der Schule
-  - 09 Am Rand Der Kleinen Kleinen Stadt
-  - 10 Tommy Und Annika Liefen Nach Hause
-  - 11 In Die Kleine Stadt War Ein Zirkus Gekommen
-  - 12 Nach Pippis Auftritt Im Zirkus
-  - 13 Als Tommy Und Annika Am Nächsten Morgen
-  - 14 Es War An Einem Späten Sonntagnachmittag Im Herbst
-  - 15 Sieh Mal Tommy
-  - 16 Hej Pippi Langstrumpf
   ids: []

@@ -1,18 +1,18 @@
 article: '10000674'
 lock-data: false
 data:
-- series: Disney
-  series-id: disney
+- series: Frozen 2
+  series-id: disney-frozen-2
   episode: Frozen 2
   release: 1638403200
   language: en-gb
   category: audio-play-songs
   runtime: 31
-  age: 3
+  age: 4
   origin: stock
   image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000674-50002145-b-8FA4W3eY.png
   sample: https://cdn.tonies.de/o/audio_samples/4aa1387665d5b0d977b5a730730dab76e46908e2a471c206912b8e09/audio_sample_10000674_disney_frozen_2.mp3
-  web: https://tonies.com/en-gb/tonies/disney/frozen-2/
+  web: https://tonies.com/en-gb/tonies/disney-frozen-2/frozen-2/
   shop-id: 39bbbc2b-23d3-4c00-a453-c13c9480b861
   track-desc:
   - Into the Unknown
