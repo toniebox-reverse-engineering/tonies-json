@@ -1,0 +1,38 @@
+article: '2000011354'
+lock-data: false
+data:
+- series: SpongeBob Schwammkopf
+  series-id: spongebob-squarepants
+  episode: Ragga Ding Dong!
+  release: 1745971200
+  language: de-de
+  category: music
+  runtime: 0
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_6181dfccb23da42853875bc175deb51bcfb3a053df6330d825b2b40f/3_Py2fgz7gGWzCp-z~/spongebob_squarepants_ragga_ding_dong_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/8a9a476ac64fd2a309efd0e490eb52d19dbe042be39557ee0d35d512/spongebob_schwammkopf_ragga_ding_dong_g010005336357g_01_14_sandys_rodeo_show_dec712412918_defaultclip.mp3
+  web: https://tonies.com/de-de/audio-content/spongebob-squarepants/ragga-ding-dong/
+  shop-id: 158eafd9-8b37-4c3d-baea-322a4220838e
+  track-desc:
+  - Fische haben keine Beine
+  - schlau klein oho
+  - Stein zu Stein
+  - Sandys Rodeo Show
+  - Wir gra-la-latulieren (Geburtstagslied)
+  - Mich nervt der Schwamm
+  - Diener
+  - Schneller Spongie Schneller
+  - Ragga Ding Dong!
+  - Taddel Klarinette
+  - Fische haben keine Beine (Instrumentalversion)
+  - schlau klein oho (Instrumentalversion)
+  - Stein zu Stein (Instrumentalversion)
+  - Sandys Rodeo Show (Instrumentalversion)
+  - Wir gra-la-latulieren (Geburtstagslied, Mitsingversion)
+  - Mich nervt der Schwamm (Instrumentalversion)
+  - Diener (Instrumentalversion)
+  - Schneller Spongie Schneller (Instrumentalversion)
+  - Ragga Ding Dong! (Instrumentalversion)
+  - Taddel Klarinette (Instrumentalversion)
+  ids: []

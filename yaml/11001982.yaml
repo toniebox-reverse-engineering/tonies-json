@@ -1,0 +1,26 @@
+article: '11001982'
+lock-data: false
+data:
+- series: La Pat' Patrouille
+  series-id: la-pat-patrouille
+  episode: Stella - Jungle Pups
+  release: 1746057600
+  language: fr-fr
+  category: audio-play
+  runtime: 42
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51003858-Tonie_Shado-fwcITgWL.png
+  sample: https://cdn.tonies.de/o/audio_samples/8d2a49e145764a6e3d3964e21d3e0d22a1063d1e579261da8f07480a/11001982_1_stellajunglepups_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/la-pat-patrouille/stella-jungle-pups/
+  shop-id: 0b725fc7-8051-488c-adce-d19ab60a9ec9
+  track-desc:
+  - Introduction
+  - Générique de la Pat' Patrouille
+  - 'Mission jungle : Une grande découverte'
+  - Interlude
+  - 'Mission jungle : Les fourmis géantes'
+  - Interlude
+  - 'Mission jungle : L''hippopotame de Monsieur Hellinger'
+  - 11001982 8 Stellajunglepups Conclusion
+  ids: []
