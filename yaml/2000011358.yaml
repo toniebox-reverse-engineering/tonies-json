@@ -4,15 +4,45 @@ data:
 - series: Feuerwehrmann Sam
   series-id: feuerwehrmann-sam
   episode: 'Folgen 202-206: Das Back-Debakel'
-  release: 0
-  language: null
-  category: null
-  runtime: 0
+  release: 1745971200
+  language: de-de
+  category: audio-play
+  runtime: 3589
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/ceface34dcbc4ec126803a95f7afb3346da256b5e2a54976a8eb44ad/3_X.4snWSjGQczbNLP/fireman_sam_202_folgen_202_206__das_back_debak_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/e9146ceb467074399cd3d8b37dfc4bcdb4d65f9e42f4c7a6c831808e/4013575956593_preview.mp3
   web: https://tonies.com/de-de/audio-content/feuerwehrmann-sam/folgen-202-206-das-back-debakel/
   shop-id: e93e5d1d-acfe-4582-af74-1552347f7471
-  track-desc: []
+  track-desc:
+  - Feuerwehrmann Sam Titellied
+  - 'Kapitel 01: Das Back-Debakel (Folge 202)'
+  - 'Kapitel 02: Das Back-Debakel (Folge 202)'
+  - 'Kapitel 03: Das Back-Debakel (Folge 202)'
+  - 'Kapitel 04: Das Back-Debakel (Folge 202)'
+  - 'Kapitel 05: Das Back-Debakel (Folge 202)'
+  - 'Kapitel 06: Das Back-Debakel (Folge 202)'
+  - 'Kapitel 01: Der Aufrechte Oktopus (Folge 203)'
+  - 'Kapitel 02: Der Aufrechte Oktopus (Folge 203)'
+  - 'Kapitel 03: Der Aufrechte Oktopus (Folge 203)'
+  - 'Kapitel 04: Der Aufrechte Oktopus (Folge 203)'
+  - 'Kapitel 05: Der Aufrechte Oktopus (Folge 203)'
+  - 'Kapitel 06: Der Aufrechte Oktopus (Folge 203)'
+  - 'Kapitel 01: Die Gokart-Challenge (Folge 204)'
+  - 'Kapitel 02: Die Gokart-Challenge (Folge 204)'
+  - 'Kapitel 03: Die Gokart-Challenge (Folge 204)'
+  - 'Kapitel 04: Die Gokart-Challenge (Folge 204)'
+  - 'Kapitel 05: Die Gokart-Challenge (Folge 204)'
+  - 'Kapitel 01: Der Werfuchs (Folge 205)'
+  - 'Kapitel 02: Der Werfuchs (Folge 205)'
+  - 'Kapitel 03: Der Werfuchs (Folge 205)'
+  - 'Kapitel 04: Der Werfuchs (Folge 205)'
+  - 'Kapitel 05: Der Werfuchs (Folge 205)'
+  - 'Kapitel 01: Ein Fest für Hauptfeuerwehrmann Steele (Folge 206)'
+  - 'Kapitel 02: Ein Fest für Hauptfeuerwehrmann Steele (Folge 206)'
+  - 'Kapitel 03: Ein Fest für Hauptfeuerwehrmann Steele (Folge 206)'
+  - 'Kapitel 04: Ein Fest für Hauptfeuerwehrmann Steele (Folge 206)'
+  - 'Kapitel 05: Ein Fest für Hauptfeuerwehrmann Steele (Folge 206)'
+  - 'Kapitel 06: Ein Fest für Hauptfeuerwehrmann Steele (Folge 206)'
+  - Feuerwehrmann Sam Credits
   ids: []
