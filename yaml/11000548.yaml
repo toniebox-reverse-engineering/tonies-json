@@ -1,0 +1,24 @@
+article: '11000548'
+lock-data: false
+data:
+- series: Disney The Muppets
+  series-id: disney-the-muppets
+  episode: Kermit the Frog
+  release: 1747094400
+  language: en-gb
+  category: audio-play-songs
+  runtime: 32
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11000548_7_Landscape-u5KpeBrF.png
+  sample: https://cdn.tonies.de/o/audio_samples/734e45bce3bbb25fd7d899e57086f72a53cd40fcfa3ba4ede0e0ea28/kermit_audio_sample.mp3
+  web: https://tonies.com/en-gb/tonies/disney-the-muppets/kermit-the-frog/
+  shop-id: 2dcab0ee-8001-44e6-bb29-08d2ba81ed7b
+  track-desc:
+  - 'SONG: The Muppet Show Theme Song'
+  - 'SONG: Life''s a Happy Song'
+  - 'SONG: Pictures In My Head'
+  - 'SONG: Man or Muppet'
+  - 'SONG: Rainbow Connection'
+  - 'STORY: The Muppets'
+  ids: []

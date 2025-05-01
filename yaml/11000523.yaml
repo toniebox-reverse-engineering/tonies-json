@@ -1,0 +1,33 @@
+article: '11000523'
+lock-data: false
+data:
+- series: Ten Little
+  series-id: ten-little
+  episode: The Ten Little Collection
+  release: 1747094400
+  language: en-gb
+  category: audio-book
+  runtime: 40
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11000523_7_Landscape-Xrgqi0M4.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/31f7ae63f47d122bdb2f9340f75d46b1af563fba001f9243510c5fe1/approved_sample_ten_little_collection.wav
+  web: https://tonies.com/en-gb/tonies/ten-little/the-ten-little-collection/
+  shop-id: e364be42-e2bf-449c-b18d-8a14079e0e6d
+  track-desc:
+  - INTRO - The Ten Little Collection
+  - STORY -  Ten Little Dinosaurs
+  - STORY -  Ten Little Bugs
+  - STORY -  Ten Little Aliens
+  - STORY -  Ten Little Elves
+  - STORY -  Ten Little Monkeys
+  - STORY -  Ten Little Monsters
+  - STORY - Ten Little Penguins
+  - STORY - Ten Little Pirates
+  - STORY - Ten Little Princesses
+  - STORY -  Ten Little Pumpkins
+  - STORY -  Ten Little Robots
+  - STORY -  Ten Little Super Heroes
+  - STORY -  Ten Little Unicorns
+  - OUTRO - Credits
+  ids: []
