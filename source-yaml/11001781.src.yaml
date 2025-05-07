@@ -1,16 +1,16 @@
 article: '11001781'
 lock-data: false
 data:
-- series: ''
+- series: tonies-us-en-us,
   series-id: ''
-  episode: ''
-  release: tonies-us-en-us,
+  episode: tonies-us-en-us,
+  release: ''
   language: ''
   category: ''
   runtime: ''
   age: ''
   origin: ''
-  image: ''
+  image: tonies-us-en-us,
   sample: ''
   web: ''
   shop-id: ''
