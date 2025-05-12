@@ -290,7 +290,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000370,Der Sternenmann,der-sternenmann,Lieder und Hörspiel zur guten Nacht,de-de,audio-play-songs,stock,e7c49d3f-eb45-440f-83cb-060a75873619,https://tonies.com/de-de/tonies/der-sternenmann/lieder-und-hoerspiel-zur-guten-nacht/,1,1,1,4
 10000371,Kikaninchen,kikaninchen,Die Mischung macht’s!,de-de,music,stock,e8bfc77e-ac06-475b-956e-d1464c2a327c,https://tonies.com/de-de/tonies/kikaninchen/die-mischung-machts/,1,2,1,2
 10000373,Disney,disney,101 Dalmatiner,de-de,audio-play,stock,78f61664-4bde-471f-bd52-cddfddd80b76,https://tonies.com/de-de/tonies/disney/101-dalmatiner/,1,1,1,3
-10000374,Disney,disney,Merida - Legende der Highlands,de-de,audio-play-songs,stock,4df5b24c-577d-49fe-8e2f-479ff650a5bd,https://tonies.com/de-de/tonies/disney/merida-legende-der-highlands/,1,1,1,3
+10000374,Merida – Legende der Highlands,disney-brave,Merida - Legende der Highlands,de-de,audio-play-songs,stock,4df5b24c-577d-49fe-8e2f-479ff650a5bd,https://tonies.com/de-de/tonies/disney-merida-legende-der-highlands/merida-legende-der-highlands/,1,1,1,3
 10000381,Paddington,paddington,Geschichten von Paddington,de-de,audio-book,stock,9efac991-a993-475d-a467-fff52dcb526c,https://tonies.com/de-de/tonies/paddington/geschichten-von-paddington/,1,1,1,4
 10000383,Die kleine Schnecke Monika Häuschen,die-kleine-schnecke-monika-haeuschen,Warum stolpern Tausendfüßler nicht?,de-de,audio-play,stock,c3d35dab-a4e9-4e27-a4be-c7fbeb09a51d,https://tonies.com/de-de/tonies/die-kleine-schnecke-monika-haeuschen/warum-stolpern-tausendfuessler-nicht/,1,1,1,4
 10000384,Eule findet den Beat,eule-findet-den-beat,Mit Gefühl,de-de,audio-play-songs,stock,8f10a202-a45f-40ae-8e16-7b9e09fa940b,https://tonies.com/de-de/tonies/eule-findet-den-beat/mit-gefuehl/,1,1,1,2
@@ -425,7 +425,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001396,Disney,disney,Woohoo! / Die Suche nach Atlantis,de-de,audio-play,stock,c7083d07-f05c-4c99-87ef-60ffd0cdaed8,https://tonies.com/de-de/tonies/disney/woohoo-die-suche-nach-atlantis/,1,1,1,3
 10001397,Schlummerbande,sleepy-friends,"Klassik zum Einschlafen - Träum schön, kleiner Schlummerhase",de-de,music,stock,c8225280-653e-4fa8-904c-566735f77a39,https://tonies.com/de-de/tonies/schlummerbande/klassik-zum-einschlafen-trum-schn-kleiner-schlummerhase/,1,1,0,0
 10001398,Super Wings,super-wings,Feuer im Wald,de-de,audio-play,stock,07e14381-a6ea-473b-851c-8c610e97fc75,https://tonies.com/de-de/tonies/super-wings/feuer-im-wald/,1,1,0,0
-10001409,Käpt'n Blaubär,kaept-n-blaubaer,Seemannsgarn,de-de,audio-play,stock,01e07128-8638-462b-899c-e91ffc9de2fb,https://tonies.com/de-de/tonies/kaept-n-blaubaer/seemannsgarn/,1,1,1,2
+10001409,Käpt'n Blaubär,kaptn-blaubar,Seemannsgarn,de-de,audio-play,stock,01e07128-8638-462b-899c-e91ffc9de2fb,https://tonies.com/de-de/tonies/kaept-n-blaubaer/seemannsgarn/,1,1,1,2
 10001471,Lieblings-Klassiker,mes-classiques-preferes,Pinocchio (Neuauflage 2024),de-de,audio-book,stock,e8049cc1-19c0-4dc6-a1fe-e5c8a41f4eca,https://tonies.com/de-de/tonies/lieblings-klassiker/pinocchio-neuauflage-2024/,1,0,0,0
 10001472,PAW Patrol,paw-patrol,Der Piratenschatz,de-de,audio-play,stock,bed6385a-903a-4f26-ab05-bbccf35a14fb,https://tonies.com/de-de/tonies/paw-patrol/der-piratenschatz/,1,1,1,3
 10001473,Leos Tag,leos-tag,"Achtung, fertig, Zähneputzen!",de-de,audio-play-songs,stock,e280136f-64ca-4ebb-aa93-29a30334008d,https://tonies.com/de-de/tonies/leos-tag/achtung-fertig-zhneputzen/,1,1,1,1
@@ -506,7 +506,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000201,Die Sendung mit dem Elefanten,die-sendung-mit-dem-elefanten,Schlaf schön! (Neuauflage 2023),de-de,audio-book-songs,stock,fe510ac5-e375-4b01-a68f-5da58aee59e9,https://tonies.com/de-de/tonies/die-sendung-mit-dem-elefanten/schlaf-schon-neuauflage-2023/,1,1,1,1
 11000247,PAW Patrol,paw-patrol,Die Hundeschau,de-de,audio-play,stock,d8593db8-ad2a-49e9-9d12-b10d5c3e18f9,https://tonies.com/de-de/tonies/paw-patrol/die-hundeschau/,1,2,1,1
 11000248,PAW Patrol,paw-patrol,Zuma,de-de,audio-play,stock,48d1494c-f5f5-469e-94f1-2cc4b9bf4687,https://tonies.com/de-de/tonies/paw-patrol/zuma/,1,2,1,2
-11000249,Disney,disney,Tiggers großes Abenteuer,de-de,audio-play,stock,af4b11b7-0713-4f58-b1b5-25e134092b6b,https://tonies.com/de-de/tonies/disney/disney-tigger-tiggers-groes-abenteuer/,1,2,2,3
+11000249,Winnie Puuh,disney-winnie-the-pooh,Tiggers großes Abenteuer,de-de,audio-play,stock,af4b11b7-0713-4f58-b1b5-25e134092b6b,https://tonies.com/de-de/tonies/disney-winnie-puuh/disney-tigger-tiggers-groes-abenteuer/,1,2,2,3
 11000250,Schüttel den Apfelbaum,schuettel-den-apfelbaum-schaukel-das-schaf,Schüttel den Apfelbaum & Schaukel das Schaf,de-de,audio-play,stock,ee152cd2-1312-4e82-bc86-c8935bda1c95,https://tonies.com/de-de/tonies/schuettel-den-apfelbaum/schuttel-den-apfelbaum-apfelbaum-schaukel-das-schaf-dach/,1,1,1,2
 11000251,Lichterkinder,lichterkinder-2,Laternen- und Herbstlieder,de-de,music,stock,74ecac51-38cc-450c-a405-166b68560670,https://tonies.com/de-de/tonies/lichterkinder/laternen-und-herbstlieder/,1,1,1,1
 11000274,Ohrenbär,ohrenbar,Mulles Zaubersteinchen,de-de,audio-book,stock,2b81a78f-db3a-4c7f-b650-944ec5156a6d,https://tonies.com/de-de/tonies/ohrenbaer/mulles-zaubersteinchen/,1,1,1,1
