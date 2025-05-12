@@ -1,8 +1,8 @@
 article: '10000374'
 lock-data: false
 data:
-- series: Disney
-  series-id: disney
+- series: Merida – Legende der Highlands
+  series-id: disney-brave
   episode: Merida - Legende der Highlands
   release: 1691539200
   language: de-de
@@ -12,7 +12,7 @@ data:
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/BOX10000374_1_a-AD_RKQDt.png
   sample: https://cdn.tonies.de/o/audio_samples/8f9f6a77d0f246b20b81c7f7e071c3699fb6c8f8df2379ff2c34c92f/hoerprobe_10000374_disney_merida_merida_legende_der_highlands.mp3
-  web: https://tonies.com/de-de/tonies/disney/merida-legende-der-highlands/
+  web: https://tonies.com/de-de/tonies/disney-merida-legende-der-highlands/merida-legende-der-highlands/
   shop-id: 4df5b24c-577d-49fe-8e2f-479ff650a5bd
   track-desc:
   - 'Kapitel 01: Merida - Legende der Highlands'
