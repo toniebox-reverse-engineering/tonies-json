@@ -12,7 +12,7 @@ data:
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002029_7_Landscape-r4yzLPcE.png
   sample: https://cdn.tonies.de/o/audio_samples/d44c82620f3d30352c55dc76d597adb290934dc725db96b5ae48c2b8/ratatouille_sample.wav
-  web: https://tonies.com/en-gb/tonies/ratatouille/ratatouille/
+  web: https://tonies.com/en-gb/tonies/disney-ratatouille/ratatouille/
   shop-id: 1b0e80ed-ea82-4d48-9f6a-f87148461acc
   track-desc:
   - 'STORY: Ratatouille'
