@@ -23,4 +23,9 @@ data:
   - 'Kapitel 06: Aladdin'
   - Ein Traum wird wahr
   - Ich werd niemals schweigen
-  ids: []
+  ids:
+  - audio-id: 1738783330
+    hash: 971a5d2d0c25c3c64b0e7af75a57de0169f6fa12
+    size: 35416206
+    tracks: 8
+    confidence: 0
