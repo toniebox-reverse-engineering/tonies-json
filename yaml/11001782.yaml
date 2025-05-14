@@ -1,0 +1,19 @@
+article: '11001782'
+lock-data: false
+data:
+- series: Gabby's Dollhouse
+  series-id: gabby-s-dollhouse
+  episode: Der Cupcake-Baum / Die Puppenhausdetektive
+  release: 1749600000
+  language: de-de
+  category: audio-play
+  runtime: 50
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX1211001782_1_a-SsAD1Ow_.png
+  sample: null
+  web: https://tonies.com/de-de/tonies/gabby-s-dollhouse/kuchi/
+  shop-id: 0c8142f6-8078-46a8-a015-d21c11525cbe
+  track-desc:
+  - Der Cupcake-Baum
+  ids: []

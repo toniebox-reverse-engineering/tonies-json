@@ -1,0 +1,38 @@
+article: '11002660'
+lock-data: false
+data:
+- series: Heavysaurus
+  series-id: heavysaurus
+  episode: Pommesgabel - Best of Dino Metal (Neuauflage 2025)
+  release: 1749600000
+  language: de-de
+  category: music
+  runtime: 73
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11002660_1_a-CT9ufT85.png
+  sample: https://cdn.tonies.de/o/audio_samples/cc5b947bc9a82e49a6c8ccd9b0e3ae5bb608e4c3211ef7b6e1d8bbb5/hoerprobe_11002660_heavysaurus_pommesgabel_best_of_dino_metal.mp3
+  web: https://tonies.com/de-de/tonies/heavysaurus/pommesgabel-best-of-dino-metal/
+  shop-id: 16fa3b10-f1e0-496c-a387-fbfef769f5c5
+  track-desc:
+  - Pommesgabel
+  - Flugsaurier
+  - Kaugummi ist mega
+  - Rarrr
+  - Laserninja
+  - Schatzsuche
+  - Der haarige Kobold (feat. Saltatio Morits)
+  - Rupuliina
+  - Dinos wolln euch tanzen sehn (Rock You Like A Hurricane)
+  - Yeah, Heavysaurus!
+  - Dino-Disko
+  - Dino-Metalheads
+  - Super Monster-Auto
+  - Luna - unser Hund
+  - Die Waldfee
+  - Retter der Welt
+  - Der Freundschafts-Song (feat. Jennifer Haben)
+  - Stark wie ein Tiger (Eye Of The Tiger)
+  - Ich will einen Milchshake
+  - Raumschiff Juranoid
+  ids: []

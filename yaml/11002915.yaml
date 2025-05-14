@@ -1,0 +1,35 @@
+article: '11002915'
+lock-data: false
+data:
+- series: 'Rolf Zuckowski: Rolfs neue Schulweg-Hitparade'
+  series-id: rolf-zuckowski-rolfs-neue-schulweg-hitparade
+  episode: 'Rolf Zuckowski: Rolfs neue Schulweg-Hitparade'
+  release: 1749600000
+  language: de-de
+  category: music
+  runtime: 47
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX1211002915_2_a-KhIzzpAX.png
+  sample: https://cdn.tonies.de/o/audio_samples/0143869dc1de45654e12f71f4facea58b7a4ba235d633742240ce529/hoeprobe_11002915_rolf_zuckowski_rolfs_neue_schulweg_hitparade.mp3
+  web: https://tonies.com/de-de/clever-tonies/rolf-zuckowski-rolfs-neue-schulweg-hitparade/rolf-zuckowski-rolfs-neue-schulweg-hitparade/
+  shop-id: d9831c43-02da-4f25-80ac-4d54a42f5970
+  track-desc:
+  - Mein Weg Zur Schule
+  - Hallo Siehst Du Mich
+  - Schulbus
+  - Alle Machen Fehler
+  - Rot Und Grün
+  - Es Ist Rot Elfriede
+  - Was Zieh Ich An
+  - Aus Der Traum
+  - Ich Hab Mich Verlaufen
+  - Mein Platz Im Auto Ist Hinten
+  - Zebrastreifen
+  - Zwischen Den Autos
+  - An Meinem Fahrrad Ist Alles Dran
+  - Wo Kein Gehweg Ist
+  - Heute Bleibt Das Auto Stehn
+  - Linker Schuh Rechter Schuh
+  - Deine Welt Meine Welt
+  ids: []

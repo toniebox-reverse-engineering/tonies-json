@@ -1,0 +1,24 @@
+article: '11000612'
+lock-data: false
+data:
+- series: Lalalinos
+  series-id: lalalinos
+  episode: Lalalinos - Bumbaloo Beats (Cosmo)
+  release: 1749600000
+  language: de-de
+  category: audio-play-songs
+  runtime: 45
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11000612_1_a-vuf1L8-c.png
+  sample: https://cdn.tonies.de/o/audio_samples/f7b2a2cb54c204c51f4caf2b8aa942aeba393d5fcd393649b5ef5770/horprobe_lalalinos_se01_cosmo.wav
+  web: https://tonies.com/de-de/tonies/lalalinos/cosmo-lalalinos-bumbaloo-beats/
+  shop-id: 2f5d7afb-3718-4513-90e8-adccc3e3091f
+  track-desc:
+  - Lalalinos Titelsong
+  - Lalalinos Intro
+  - Das längste Trommelsolo in Bumbaloo
+  - Musikalische Höhen und Tiefen
+  - Der Alleingang
+  - Das Razzamoon-Konzert
+  ids: []
