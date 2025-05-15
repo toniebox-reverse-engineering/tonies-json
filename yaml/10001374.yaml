@@ -28,6 +28,11 @@ data:
   - 'STORY: The Colour Badge'
   - Closing Credits
   ids:
+  - audio-id: 1747300880
+    hash: 65d2f1c2a25939d4ab120fd8016ec6659273cc9a
+    size: 54395789
+    tracks: 12
+    confidence: 1
   - audio-id: 1732273071
     hash: 239085aec376cc245a83813fc3e1ead2cacae8d0
     size: 53668545
