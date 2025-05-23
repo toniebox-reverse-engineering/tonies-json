@@ -24,4 +24,9 @@ data:
   - Der Reiterhof 2
   - Der Reiterhof 3
   - Der Reiterhof 4
-  ids: []
+  ids:
+  - audio-id: 1736861405
+    hash: 1e68422e65b06c518e4eddfc28e63d8e6ff97509
+    size: 43739649
+    tracks: 10
+    confidence: 0
