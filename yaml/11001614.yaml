@@ -1,0 +1,48 @@
+article: '11001614'
+lock-data: false
+data:
+- series: Enid Blyton
+  series-id: enid-blyton
+  episode: Winter Stories
+  release: 1728604800
+  language: en-gb
+  category: audio-book
+  runtime: 324
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11001614-UK-Audioboo-susLX1A3.png
+  sample: https://cdn.tonies.de/o/audio_samples/540e952cf769b977c6f975c142c21ad7176a471a3a7aaf52351540f3/winter_stories_sample.wav
+  web: https://tonies.com/en-gb/book-tonies/enid-blyton/winter-stories/
+  shop-id: abeb4e94-c5e2-40b7-a8c1-b23bece7fe77
+  track-desc:
+  - 'STORY: A Little Snow House'
+  - 'STORY: It''s Really True!'
+  - 'STORY: The Sparrow Children'
+  - 'STORY: A Peep into the Magic Mirror'
+  - 'STORY: Mr Stamp-About Loses His Temper'
+  - 'STORY: Big-Foot is Very Clever'
+  - 'STORY: Two Good Turns'
+  - 'STORY: Bad Luck, Wily Weasel'
+  - 'STORY: I Dare You To!'
+  - 'STORY: The Hungry Little Robin'
+  - 'STORY: He Was Much Too Clever!'
+  - 'STORY: Mr Pink-Whistle Comes Along'
+  - 'STORY: She Never Could Remember'
+  - 'STORY: The Swallow Fairy'
+  - 'STORY: Father Time and His Pattern Book'
+  - 'STORY: Mr Snoop''s Carrots'
+  - 'STORY: A Jolly Thing to Do!'
+  - 'STORY: Heyho and the North Wind'
+  - 'STORY: Scallywag''s Mistake'
+  - 'STORY: The Proud Fir Tree'
+  - 'STORY: The Winter Wide-Awakes'
+  - 'STORY: Mr Twiddle and the Snowman'
+  - 'STORY: What a Good Thing!'
+  - 'STORY: Brer Rabbit Lays in His Winter Stores'
+  - 'STORY: Mr Meddle and the Snow'
+  - 'STORY: One Winter Morning'
+  - 'STORY: Is There Anything Particular You Want?'
+  - 'STORY: Happy New Year!'
+  - 'STORY: When Mr Pink-Whistle Met the Twins'
+  - 'STORY: A Boy in a Thousand!'
+  ids: []

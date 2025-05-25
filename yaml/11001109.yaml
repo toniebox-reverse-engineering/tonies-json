@@ -11,24 +11,24 @@ data:
   age: 4
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11001109-Joke%20of%20the-67VVr-dW.png
-  sample: https://cdn.tonies.de/o/audio_samples/0aa4ed2bda9f29d933dc35da67819bff3c31e03519a88c928aa1b2bd/11001109_joke_of_the_day_sample.wav
+  sample: https://cdn.tonies.de/o/audio_samples/57a0bbc5c327f1520af819d24647d18fa2e53dc6fd563aad34ca1a14/joke_of_the_day_sample.wav
   web: https://tonies.com/en-gb/clever-tonies/joke-of-the-day/joke-of-the-day/
   shop-id: c31bee4a-d638-47da-b7c5-f27bd51ebb1d
   track-desc:
-  - Sunday 1st September
-  - Saturday 31st August
-  - Friday 30th August
-  - Thursday 29th August
-  - Wednesday 28th August
-  - Tuesday 27th August
-  - Monday 26th August
-  - Sunday 25th August
-  - Saturday 24th August
-  - Friday 23rd August
-  - Thursday 22nd August
-  - Wednesday 21st August
-  - Tuesday 20th August
-  - Monday 19th August
+  - 25th May
+  - 24th May
+  - 23rd May
+  - 22nd May
+  - 21st May
+  - 20th May
+  - 19th May
+  - 18th May
+  - 17th May
+  - 16th May
+  - 15th May
+  - 14th May
+  - 13th May
+  - 12th May
   - Joke Of The Day Jingle
   ids:
   - audio-id: 1748131511

@@ -1,0 +1,33 @@
+article: '11002709'
+lock-data: false
+data:
+- series: Conni & Co
+  series-id: conni-co
+  episode: Conni & Co 1
+  release: 0
+  language: de-de
+  category: audio-book
+  runtime: 170
+  age: 10
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11002709_1_a-cmZnqUqt.png
+  sample: https://cdn.tonies.de/o/audio_samples/52a2aa352f4cb445c3e221b7cbfb404826a15522a1042a1a61ccb630/hoerprobe_11002709_conni_und_co_1.mp3
+  web: https://tonies.com/de-de/book-tonies/conni-co/conni-co-1/
+  shop-id: d15cfbd2-c991-4a45-a2d7-c8a4e3fdbc03
+  track-desc:
+  - 01 Conni&Co
+  - 02 Conni&Co
+  - 03 Conni&Co
+  - 04 Conni&Co
+  - 05 Conni&Co
+  - 06 Conni&Co
+  - 07 Conni&Co
+  - 08 Conni&Co
+  - 09 Conni&Co
+  - 10 Conni&Co
+  - 11 Conni&Co
+  - 12 Conni&Co
+  - 13 Conni&Co
+  - 14 Conni&Co
+  - 15 Conni&Co
+  ids: []

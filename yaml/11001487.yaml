@@ -4,13 +4,13 @@ data:
 - series: Animal World
   series-id: animal-world
   episode: Precious Pets
-  release: 1731628800
+  release: 1731542400
   language: en-gb
   category: audio-play-educational
   runtime: 25
   age: 5
   origin: stock
-  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11001487_2_Landscape-VD-BNp6Q.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11001487-UK-CleverTo-oQWP01RG.png
   sample: https://cdn.tonies.de/o/audio_samples/fe667103aec1fb2d90b313359c48477c88fa8e8a8b147b8515bd3fea/animal_world_pecious_pets_cats.wav
   web: https://tonies.com/en-gb/clever-tonies/animal-world/precious-pets/
   shop-id: 4a426b4e-9c6a-4cd6-8b17-37f45c901408

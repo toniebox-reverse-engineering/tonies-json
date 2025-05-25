@@ -1,8 +1,8 @@
 article: '11001114'
 lock-data: false
 data:
-- series: Blue Zoo
-  series-id: blue-zoo
+- series: Alphablocks
+  series-id: alphablocks
   episode: Alphablocks
   release: 1726790400
   language: en-gb
@@ -10,12 +10,31 @@ data:
   runtime: 0
   age: 3
   origin: stock
-  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11001114-Alphablocks-f_6_5SBT.jpg
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11001114-Alphablocks-uitjjRMl.jpg
   sample: https://cdn.tonies.de/o/audio_samples/447220ad8d0a64ee447470bf10c40e10deab29cbf6be463574e50137/alphablocks_sample.mp3
-  web: https://tonies.com/en-gb/clever-tonies/blue-zoo/alphablocks/
+  web: https://tonies.com/en-gb/clever-tonies/alphablocks/alphablocks/
   shop-id: 6e047293-b044-4ec9-bcb9-d9025c99b07d
   track-desc:
-  - Coming soon
+  - Vehicles - Introduction and Musical Theme
+  - Vehicles - Van ft. portion of 'Help You Fly' song
+  - Vehicles - The bus breaks down
+  - Vehicles - A different vehicle ft. portion of 'Help you Fly' song
+  - Vehicles - Big balloon ft. 'Dig' song
+  - Vehicles - Time to travel home to Alphaland ft. portion of 'Help you Fly' song
+  - Animal Friends - Introduction and Musical Theme
+  - Animal Friends - The singalong starts
+  - Animal Friends - At the farm ft. portions of 'Fox', 'Song' and 'Cat and Dog' songs
+  - Animal Friends - Back to Alphaland
+  - Rhyme Time - Introduction and Musical Theme
+  - Rhyme Time - The hill ft. portion of 'Frog on a Dog' song
+  - Rhyme Time - Back at the Big Blocks Box
+  - Rhyme Time - The chase!
+  - Rhyme Time - Back to Alphaland
+  - Bedtime -  Introduction and Musical Theme
+  - Bedtime - The Alphablocks make a storybook
+  - Bedtime - The sun has set ft. portion of 'Twinkle, Twinkle Little Star' and 'Lullaby'
+    and 'Five Little Alphablocks' songs
+  - Bedtime - Time to sleep ft. portion of 'What a Day' song
   ids:
   - audio-id: 1726742928
     hash: a0834f8b2864be949557c37f22de59ab4da033f7

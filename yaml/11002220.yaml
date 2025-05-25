@@ -1,0 +1,43 @@
+article: '11002220'
+lock-data: false
+data:
+- series: The Questioneers
+  series-id: the-questioneers
+  episode: Sofia Valdez and the Vanishing Vote
+  release: 1728604800
+  language: en-gb
+  category: audio-book
+  runtime: 91
+  age: 6
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002220%20-%20Sofia%20Val-moLSDGTv.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/fc3bf482748a01d401d32cc6a42722c995061fe0697492f6401da243/sofia_valdez_and_the_vanishing_vote_sample.wav
+  web: https://tonies.com/en-gb/book-tonies/the-questioneers/sofia-valdez-and-the-vanishing-vote/
+  shop-id: be081a31-ec84-466d-a7d0-a9e4d152a974
+  track-desc:
+  - CHAPTER 1
+  - CHAPTER 2
+  - CHAPTER 3
+  - CHAPTER 4
+  - CHAPTER 5
+  - CHAPTER 6
+  - CHAPTER 7
+  - CHAPTER 8
+  - CHAPTER 9
+  - CHAPTER 10
+  - CHAPTER 11
+  - CHAPTER 12
+  - CHAPTER 13
+  - CHAPTER 14
+  - CHAPTER 15
+  - CHAPTER 16
+  - CHAPTER 17
+  - CHAPTER 18
+  - CHAPTER 19
+  - CHAPTER 20
+  - CHAPTER 21
+  - CHAPTER 22
+  - CHAPTER 23
+  - CHAPTER 24
+  - End Notes
+  ids: []

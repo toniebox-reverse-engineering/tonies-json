@@ -3,11 +3,11 @@ lock-data: false
 data:
 - series: Today with tonies
   series-id: today-with-tonies
-  episode: tonies® Podcast
+  episode: tonies Daily Show
   release: 1699228800
   language: en-gb
   category: audio-play
-  runtime: 70
+  runtime: 140
   age: 4
   origin: stock
   image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/TWT_product_image%20(2-tfVUrvzk.png
@@ -15,20 +15,20 @@ data:
   web: https://tonies.com/en-gb/clever-tonies/today-with-tonies/today-with-tonies/
   shop-id: a742a774-63b0-450f-8303-6552b3c99bc9
   track-desc:
-  - Monday 26th August
-  - Sunday 25th August
-  - Saturday 24th August
-  - Friday 23rd August
-  - Thursday 22nd August
-  - Wednesday 21st August
-  - Tuesday 20th August
-  - Monday 19th August
-  - Sunday 18th August
-  - Saturday 17th August
-  - Friday 16th August
-  - Thursday 15th Aug August
-  - Wednesday 14th August
-  - Tuesday 13th August
+  - Sunday 25th May
+  - Saturday 24th May
+  - Friday 23rd May
+  - Thursday 22nd May
+  - Wednesday 21st May
+  - Tuesday 20th May
+  - Monday 19th May
+  - Sunday 18th May
+  - Saturday 17th May
+  - Friday 16th May
+  - Thursday 15th May
+  - Wednesday 14th May
+  - Tuesday 13th May
+  - Monday 12th May
   - Today With Tonies Jingle
   ids:
   - audio-id: 1748127911

@@ -1,0 +1,51 @@
+article: '11002219'
+lock-data: false
+data:
+- series: The Questioneers
+  series-id: the-questioneers
+  episode: Iggy Peck and the Mysterious Mansion
+  release: 1728604800
+  language: en-gb
+  category: audio-book
+  runtime: 101
+  age: 6
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002219-UK-Audioboo-JLFpEUSj.png
+  sample: https://cdn.tonies.de/o/audio_samples/0e7c9843ffe66142481880da1454c55c6aea1e254703a3ec0e57eff4/iggy_peck_and_the_mysterious_mansion_sample.wav
+  web: https://tonies.com/en-gb/book-tonies/the-questioneers/iggy-peck-and-the-mysterious-mansion/
+  shop-id: 59332f65-584c-461c-a76b-a75731429e0d
+  track-desc:
+  - 'CHAPTER: Ode To An Architect'
+  - Credits
+  - CHAPTER 1
+  - CHAPTER 2
+  - CHAPTER 3
+  - CHAPTER 4
+  - CHAPTER 5
+  - CHAPTER 6
+  - CHAPTER 7
+  - CHAPTER 8
+  - CHAPTER 9
+  - CHAPTER 10
+  - CHAPTER 11
+  - CHAPTER 12
+  - CHAPTER 13
+  - CHAPTER 14
+  - CHAPTER 15
+  - CHAPTER 16
+  - CHAPTER 17
+  - CHAPTER 18
+  - CHAPTER 19
+  - CHAPTER 20
+  - CHAPTER 21
+  - CHAPTER 22
+  - CHAPTER 23
+  - CHAPTER 24
+  - 'CHAPTER: Ode To An Architect'
+  - 'CHAPTER: Art Nouveau And Art Deco'
+  - 'CHAPTER: Weird Wonderful And Wonderfully Weird Cats'
+  - 'CHAPTER: How To Make Ice Cream'
+  - 'CHAPTER: What Happened There'
+  - 'CHAPTER: Who Is Ida B Wells'
+  - Credits
+  ids: []

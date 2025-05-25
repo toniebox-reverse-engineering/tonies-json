@@ -1,20 +1,56 @@
 article: '11001908'
 lock-data: false
 data:
-- series: null
-  series-id: null
-  episode: null
-  release: 0
-  language: null
-  category: null
-  runtime: 0
-  age: 99
-  origin: null
-  image: null
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+- series: Tom Fletcher
+  series-id: tom-fletcher
+  episode: A Christmasaurus Carol
+  release: 1728604800
+  language: en-gb
+  category: audio-book
+  runtime: 290
+  age: 6
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11001908-UK-Audioboo-pHNk4Wta.png
+  sample: https://cdn.tonies.de/o/audio_samples/e7d481dac9e265fe3f9b6275f3dfe3c22e768437cba7c24611b01388/a_christmasaurus_carol_sample.wav
+  web: https://tonies.com/en-gb/book-tonies/tom-fletcher/a-christmasaurus-carol/
+  shop-id: 292dbd2d-68db-4394-b679-0e07ee280aa3
+  track-desc:
+  - Opening Credits
+  - Epigraph
+  - You Are About to Go on a Christmas Adventure
+  - Prologue
+  - 'CHAPTER 1: The Holly Jolly Jinglers'
+  - 'CHAPTER 2: The Next Chapter'
+  - 'CHAPTER 3: William''s Letter'
+  - 'CHAPTER 4: Jinglers, Assemble!'
+  - 'CHAPTER 5: Bejingled'
+  - 'CHAPTER 6: The Night-Before Library'
+  - 'CHAPTER 7: Story Time'
+  - 'CHAPTER 8: A December Disturbance'
+  - 'CHAPTER 9: Christmess'
+  - 'CHAPTER 10: De-Christmas'
+  - 'CHAPTER 11: The Disappearing Library'
+  - 'CHAPTER 12: Scrooge-Vision'
+  - 'CHAPTER 13: A Wildy Wicked Week'
+  - 'CHAPTER 14: A Whisper in Whiffington'
+  - 'CHAPTER 15: Ash'
+  - 'CHAPTER 16: Fire'
+  - 'CHAPTER 17: Santa''s Other Sleigh'
+  - 'CHAPTER 18: An Uninvited Guest'
+  - 'CHAPTER 19: A Kitchen Carol'
+  - 'CHAPTER 20: The Map to Scrooge'
+  - 'CHAPTER 21: Bob''s Back-Up Trees'
+  - 'CHAPTER 22: Scrooge Trap'
+  - 'CHAPTER 23: Flying Rubbish'
+  - 'CHAPTER 24: Dropping Decorations'
+  - 'CHAPTER 25: Cancelled Carols'
+  - 'CHAPTER 26: Finding The Jingler!'
+  - 'CHAPTER 27: Scrooge'
+  - 'CHAPTER 28: Santa''s Last Words'
+  - 'CHAPTER 29: Humbug'
+  - 'CHAPTER 30: A Christmasaurus Carol'
+  - 'CHAPTER 31: The Christmas That Almost Never Was'
+  - Closing Credits
   ids:
   - audio-id: 1729150284
     hash: 935168e7e891ec17a045944eefe0e72c41852c8e

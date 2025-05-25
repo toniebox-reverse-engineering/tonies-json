@@ -1,20 +1,91 @@
 article: '11001608'
 lock-data: false
 data:
-- series: null
-  series-id: null
-  episode: null
-  release: 0
-  language: null
-  category: null
-  runtime: 0
-  age: 99
-  origin: null
-  image: null
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+- series: David Walliams
+  series-id: david-walliams-2
+  episode: The Blunders
+  release: 1728604800
+  language: en-gb
+  category: audio-book
+  runtime: 278
+  age: 7
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11001608-UK-Audioboo-hDUI5anT.png
+  sample: https://cdn.tonies.de/o/audio_samples/0cbf683ef4a5eb200f9676e0fdc04cfd03b1a28802e9f3bf19f2f3b4/the_blunders_sample.wav
+  web: https://tonies.com/en-gb/book-tonies/david-walliams-2/the-blunders/
+  shop-id: 2d79d0fa-969a-4134-aeda-613b5e93a397
+  track-desc:
+  - Opening Credits
+  - Introduction
+  - The Terrible Business of the Terrible Business / Part I
+  - Part II
+  - Part III
+  - Part IV
+  - Part V
+  - The Blunders' Blundering Orchestra / Part I
+  - Part II
+  - Part III
+  - Part IV
+  - Part V
+  - Part VI
+  - Exploding Baked Beans and Other Disasters / Part I
+  - Part II
+  - Part III
+  - Part IV
+  - Part V
+  - Part VI
+  - Part VII
+  - Part VIII
+  - Part IX
+  - Part X
+  - A Deadly Game of Snakes and Ladders / Part I
+  - Part II
+  - Part III
+  - Part IV
+  - Part V
+  - Part VI
+  - The Scandal of the Giant Marrow / Part I
+  - Part II
+  - Part III
+  - Part IV
+  - Part V
+  - Part VI
+  - Part VII
+  - The Mysterious Mystery of the Missing Butler / Part I
+  - Part II
+  - Part III
+  - Part IV
+  - Part V
+  - Part VI
+  - Part VII
+  - The Thrilling Blunderwater Adventure / Part I
+  - Part II
+  - Part III
+  - Part IV
+  - Part V
+  - Part VI
+  - Part VII
+  - The Blunders' Board Game / Part I
+  - Part II
+  - Part III
+  - Part IV
+  - Part V
+  - The Terrifying Tale of Tiddlypops / Part I
+  - Part II
+  - Part III
+  - Part IV
+  - Part V
+  - Part VI
+  - The Great Knicker Caper / Part I
+  - Part II
+  - Part III
+  - Part IV
+  - Part V
+  - Part VI
+  - Part VII
+  - Part VIII
+  - Part IX
+  - Closing Credits
   ids:
   - audio-id: 1728993399
     hash: 4ede5c66b2ee1b00bc09c732e957d8e4be2a255c

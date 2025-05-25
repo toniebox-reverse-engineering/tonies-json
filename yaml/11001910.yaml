@@ -1,20 +1,37 @@
 article: '11001910'
 lock-data: false
 data:
-- series: null
-  series-id: null
-  episode: null
-  release: 0
-  language: null
-  category: null
-  runtime: 0
-  age: 99
-  origin: null
-  image: null
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+- series: Adam Kay
+  series-id: adam-kay
+  episode: Kay's Anatomy
+  release: 1728604800
+  language: en-gb
+  category: audio-book
+  runtime: 336
+  age: 7
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11001910-UK-Audioboo-LC_81K05.png
+  sample: https://cdn.tonies.de/o/audio_samples/4b2ab12f5a0aca2d62c24e98998edeee437cb683d83ada1298bad0ea/kays_anatomy_sample.wav
+  web: https://tonies.com/en-gb/book-tonies/adam-kay/kays-anatomy/
+  shop-id: d27a6e20-866e-48a9-943d-5154cd25ede2
+  track-desc:
+  - Opening Titles
+  - Introduction
+  - 'CHAPTER: Skin'
+  - 'CHAPTER: Heart'
+  - 'CHAPTER: Blood'
+  - 'CHAPTER: Lungs'
+  - 'CHAPTER: Brain'
+  - 'CHAPTER: Hair And Nails'
+  - 'CHAPTER: Eyes And Ears And Mouth And Nose'
+  - 'CHAPTER: Bones'
+  - 'CHAPTER: Muscles'
+  - 'CHAPTER: Gut'
+  - 'CHAPTER: Kidneys and Liver'
+  - 'CHAPTER: Reproduction'
+  - 'CHAPTER: Germs'
+  - Conclusion
+  - Credits
   ids:
   - audio-id: 1729152702
     hash: 1ae03a14480c769b3175f3215ef441a11ed61d8f

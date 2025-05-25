@@ -1,0 +1,31 @@
+article: '11002600'
+lock-data: false
+data:
+- series: David Walliams
+  series-id: david-walliams-2
+  episode: The World's Worst Children
+  release: 1744934400
+  language: en-gb
+  category: audio-book
+  runtime: 176
+  age: 7
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002600-UK-Audioboo-5XlwaUdr.png
+  sample: https://cdn.tonies.de/o/audio_samples/8d31bd2d79eb5f233ddbe37e725a03fdaed29f657f983b1009afa082/wwc1_sample.wav
+  web: https://tonies.com/en-gb/book-tonies/david-walliams-2/the-worlds-worst-children/
+  shop-id: 654c5269-9607-4ea6-bbe8-05924987e159
+  track-desc:
+  - Opening Credits
+  - Introduction by Raj
+  - Dribbling Drew
+  - Bertha the Blubberer
+  - Nigel Nit Boy
+  - Miss Petula Perpetualmotion
+  - Peter Picker
+  - Grubby Gertrude
+  - Charlie the Chucker
+  - Windy Mindy
+  - Earnest Ernest
+  - Sofia Sofa
+  - Closing Credits
+  ids: []

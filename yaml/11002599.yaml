@@ -1,0 +1,49 @@
+article: '11002599'
+lock-data: false
+data:
+- series: Roald Dahl
+  series-id: roald-dahl
+  episode: The Twits
+  release: 1747353600
+  language: en-gb
+  category: audio-book
+  runtime: 62
+  age: 6
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002599-UK-Audioboo-460UWzRE.png
+  sample: https://cdn.tonies.de/o/audio_samples/b78446585404eb36f00cb0d927e7d7118266e0d467b3544164a12bb6/the_twits_sample.wav
+  web: https://tonies.com/en-gb/book-tonies/roald-dahl/the-twits/
+  shop-id: 57fd318b-74b9-4028-8f5b-daba581f77c4
+  track-desc:
+  - Opening Credits
+  - 'CHAPTER 1: Hairy Faces'
+  - 'CHAPTER 2: Mr Twit'
+  - 'CHAPTER 3: Dirty Beards'
+  - 'CHAPTER 4: Mrs Twit'
+  - 'CHAPTER 5: The Glass Eye'
+  - 'CHAPTER 6: The Frog'
+  - 'CHAPTER 7: The Wormy Spaghetti'
+  - 'CHAPTER 8: The Funny Walking Stick'
+  - 'CHAPTER 9: Mrs Twit Has the Shrinks'
+  - 'CHAPTER 10: Mrs Twit Gets a Stretching'
+  - 'CHAPTER 11: Mrs Twit Goes Ballooning Up'
+  - 'CHAPTER 12: Mrs Twit Comes Ballooning Down'
+  - 'CHAPTER 13: Mr Twit Gets a Horrid Shock'
+  - 'CHAPTER 14: The House, the Tree and the Monkey Cage'
+  - 'CHAPTER 15: Hugtight Sticky Glue'
+  - 'CHAPTER 16: Four Sticky Little Boys'
+  - 'CHAPTER 17: The Great Upside-Down Monkey Circus'
+  - 'CHAPTER 18: The Roly-Poly Bird to the Rescue'
+  - 'CHAPTER 19: No Bird Pie for Mr Twit'
+  - 'CHAPTER 20: Still No Bird Pie for Mr Twit'
+  - 'CHAPTER 21: Mr and Mrs Twit Go Off to Buy Guns'
+  - 'CHAPTER 22: Muggle-Wump Has an Idea'
+  - 'CHAPTER 23: The Great Glue Painting Begins'
+  - 'CHAPTER 24: The Carpet Goes on the Ceiling'
+  - 'CHAPTER 25: The Furniture Goes Up'
+  - 'CHAPTER 26: The Ravens Swoop Over'
+  - 'CHAPTER 27: The Twits Are Turned Upside Down'
+  - 'CHAPTER 28: The Monkeys Escape'
+  - 'CHAPTER 29: The Twits Get the Shrinks'
+  - Closing Credits
+  ids: []

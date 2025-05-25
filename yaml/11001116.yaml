@@ -4,13 +4,13 @@ data:
 - series: tonies® Original
   series-id: tonies-originals
   episode: Kids Comedy Club
-  release: 1731628800
+  release: 1731542400
   language: en-gb
   category: audio-play
   runtime: 35
   age: 5
   origin: stock
-  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11001116_1_landscape-Rkt3D0Nb.jpg
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11001116-UK-CleverTo-zm8-_AWR.png
   sample: https://cdn.tonies.de/o/audio_samples/6c0cecc1d132571215fb41e5d0a7d8bd54b1f057f2ba195c75ac1504/kids_comedy_club_samplw.wav
   web: https://tonies.com/en-gb/clever-tonies/tonies-originals/kids-comedy-club/
   shop-id: cbd76c94-4622-4f8e-b7fa-799a8ac4ffe7
