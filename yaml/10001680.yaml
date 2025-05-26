@@ -1,8 +1,8 @@
 article: '10001680'
 lock-data: false
 data:
-- series: Disney
-  series-id: disney
+- series: Dornröschen
+  series-id: disney-sleeping-beauty
   episode: Dornröschen
   release: 1683676800
   language: de-de
@@ -12,15 +12,10 @@ data:
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/BOX10001680_1_a-bW4XdhgQ.png
   sample: https://cdn.tonies.de/o/audio_samples/ecf09f23014cf0df75e283918ecaa5110c2e08814340eba539d00bf1/hoerprobe_10001680_disney_dornroschen_dornroschen.mp3
-  web: https://tonies.com/de-de/tonies/disney/dornrschen/
+  web: https://tonies.com/de-de/tonies/disney-dornroeschen/dornrschen/
   shop-id: bb0b251f-3b82-4367-bfdd-45d0c6e55bc9
   track-desc:
-  - Kapitel 1
-  - Kapitel 2
-  - Kapitel 3
-  - Kapitel 4
-  - Kapitel 5
-  - Kapitel 6
+  - '06: Disney - Dornröschen'
   ids:
   - audio-id: 1681469988
     hash: 9166d81d8297abac68f4c055602a2bba95156119
