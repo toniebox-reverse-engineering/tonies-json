@@ -38,4 +38,9 @@ data:
   - Da standen wir nun ...
   - Eine halbe Stunde später ...
   - Plötzlich öffnete sich die Ladentür ...
-  ids: []
+  ids:
+  - audio-id: 1747232532
+    hash: e3500805aec94d2bf07ce7ef4e91bf3f2b83d36f
+    size: 116188829
+    tracks: 23
+    confidence: 0
