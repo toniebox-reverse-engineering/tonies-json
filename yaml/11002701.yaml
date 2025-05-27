@@ -75,4 +75,9 @@ data:
   - 058 Koboldkroniken Sie Sind Unter Uns
   - 059 Koboldkroniken Sie Sind Unter Uns
   - 060 Koboldkroniken Sie Sind Unter Uns
-  ids: []
+  ids:
+  - audio-id: 1747232474
+    hash: 41c73c07128fe57fe9bf1f87dd382309e29be8b9
+    size: 183320998
+    tracks: 60
+    confidence: 0
