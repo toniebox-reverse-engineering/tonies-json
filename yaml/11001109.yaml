@@ -15,6 +15,7 @@ data:
   web: https://tonies.com/en-gb/clever-tonies/joke-of-the-day/joke-of-the-day/
   shop-id: c31bee4a-d638-47da-b7c5-f27bd51ebb1d
   track-desc:
+  - 27th May
   - 26th May
   - 25th May
   - 24th May
@@ -28,7 +29,6 @@ data:
   - 16th May
   - 15th May
   - 14th May
-  - 13th May
   - Joke Of The Day Jingle
   ids:
   - audio-id: 1748217911
