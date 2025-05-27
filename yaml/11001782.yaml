@@ -11,7 +11,7 @@ data:
   age: 4
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX1211001782_1_a-SsAD1Ow_.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/19f84f52475912dbd2ae1b5f3cf7bf3224d723713ff52c4406023e6a/hoerprobe_11001782_gabbys_dollhouse_kuchi.mp3
   web: https://tonies.com/de-de/tonies/gabby-s-dollhouse/kuchi/
   shop-id: 0c8142f6-8078-46a8-a015-d21c11525cbe
   track-desc:
