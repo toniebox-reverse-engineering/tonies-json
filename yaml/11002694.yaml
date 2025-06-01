@@ -1,0 +1,38 @@
+article: '11002694'
+lock-data: false
+data:
+- series: tonies® Original
+  series-id: tonies-originals
+  episode: The Sunspeed Explorers
+  release: 1749772800
+  language: en-gb
+  category: audio-play-educational
+  runtime: 0
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002694_1_Landscape-1iisHdVq.png
+  sample: https://cdn.tonies.de/o/audio_samples/d7835e2fb2a864706b89ebab4952c92c9cbd1237b1522244a8cf72d0/copy_of_sample_sunspeedexplorers1.wav
+  web: https://tonies.com/en-gb/clever-tonies/tonies-originals/the-sunspeed-explorers/
+  shop-id: 9813c1b9-5dbc-4d4c-8b2c-f8c3cb745d0d
+  track-desc:
+  - Diving In - Intro
+  - Diving In - The Australia Coral Reef Rescue Adventure
+  - Diving In - Why Coral Reefs Matter
+  - Diving In - Over To You
+  - Diving In - Outro
+  - No Waste - Intro
+  - No Waste - The Japan Waste Reduction Adventure
+  - No Waste - How Zero Waste Happens
+  - No Waste - Over To You
+  - No Waste - Outro
+  - Share It - Intro
+  - Share It - The Copenhagen Recycling Adventure
+  - Share It - Why Repairing Works
+  - Share It - Over To You
+  - Share It - Outro
+  - Use Again - Intro
+  - Use Again - The Lamu Island Reuse Adventure
+  - Use Again - Why Plastic Reuse Wins
+  - Use Again - Over To You
+  - Use Again - Outro
+  ids: []
