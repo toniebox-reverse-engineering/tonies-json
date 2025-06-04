@@ -1,0 +1,35 @@
+article: '11001000'
+lock-data: false
+data:
+- series: Cocomelon
+  series-id: cocomelon
+  episode: Cody
+  release: 1750032000
+  language: en-gb
+  category: music
+  runtime: 45
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11001000_4_Landscape--PP_QYyU.png
+  sample: https://cdn.tonies.de/o/audio_samples/202eee1f5231883d79820815c0256d61af359338f3906a9131ba3b94/01_song_cody_song_sample.wav
+  web: https://tonies.com/en-gb/tonies/cocomelon/cody/
+  shop-id: 0e3e8999-4026-44c0-97ff-5e44ab47e6ba
+  track-desc:
+  - SONG - Cody Song
+  - SONG - Mister Dinosaur
+  - SONG - African Melody Song
+  - SONG - Cody's Spy Song
+  - SONG - I'm Going to be a Big Brother
+  - SONG - Home Sweet Home
+  - SONG - Baby in the Mirror
+  - SONG - Anansi Song
+  - SONG - Cody's Dino Birthday
+  - SONG - Cody and Cece Nature Walk Song
+  - SONG - Car Seat Song
+  - SONG - Dinoland Birthday
+  - SONG - Cody's Bath Song
+  - SONG - Hair Wash Day
+  - SONG - Cody's Dino Day Comes True
+  - SONG - Bad Dream Song
+  - SONG - Goodbye Song
+  ids: []

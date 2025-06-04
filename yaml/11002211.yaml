@@ -1,0 +1,35 @@
+article: '11002211'
+lock-data: false
+data:
+- series: tonies® Original
+  series-id: tonies-originals
+  episode: Potty Training
+  release: 1749772800
+  language: en-gb
+  category: audio-play
+  runtime: 46
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002211_4_Landscape-M9C06ECG.png
+  sample: https://cdn.tonies.de/o/audio_samples/42857fa751e38d23fcbe11253e88f42ba7f260cf43465e308d9d4b44/tonies_potty_training_tonie_sample.wav
+  web: https://tonies.com/en-gb/tonies/tonies-originals/potty-training/
+  shop-id: aea3bd46-51aa-42bd-8b39-b95ac5573bb1
+  track-desc:
+  - INTRO - Introduction to Potty Training
+  - SONG - Potty Break!
+  - STORY - Leo and Lily start their potty-training journey
+  - STORY - Leo and Lily’s trip to the shops
+  - SONG - Try Again
+  - STORY - Leo and Lily continue their potty-training
+  - SONG - The Pants Dance!
+  - INTERSTITIAL
+  - SONG - Potty All Over The World!
+  - STORY - Wiping
+  - STORY - Washing Hands
+  - QUIZ - When Should You Use The Potty
+  - SONG - Don't Throw Everything In The Potty
+  - STORY - The Slippery Slide Adventure of Food
+  - STORY - Big Boy Big Girl Pants Are Exciting!
+  - SONG - The Pants Dance (Reprise)
+  - OUTRO
+  ids: []

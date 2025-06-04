@@ -1,0 +1,54 @@
+article: '11002602'
+lock-data: false
+data:
+- series: David Walliams
+  series-id: david-walliams-2
+  episode: Slime
+  release: 1749772800
+  language: en-gb
+  category: audio-book
+  runtime: 187
+  age: 7
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002602_1_Landscape-Vq1fgJ2I.png
+  sample: https://cdn.tonies.de/o/audio_samples/dc3a6a27f7d943b670a7bfd1dd648cf71a968adac8e1194c95b7b99d/slime_sample.wav
+  web: https://tonies.com/en-gb/book-tonies/david-walliams-2/slime/
+  shop-id: f0ad35fa-40be-46f0-95cf-166759092d9d
+  track-desc:
+  - Opening Credits
+  - Meet the Characters
+  - Prologue
+  - 'Chapter 1: Mulch'
+  - 'Chapter 2: A Beastly Girl'
+  - 'Chapter 3: Gunk'
+  - 'Chapter 4: Bogeys Under the Bed'
+  - 'Chapter 5: The Bath of Doom'
+  - 'Chapter 6: Gunk Monster'
+  - 'Chapter 7: Blobby Blob'
+  - 'Chapter 8: A Particularly Noisy Poo'
+  - 'Chapter 9: Slimeball'
+  - 'Chapter 10: Wrath''s Rules'
+  - 'Chapter 11: Blazing Bottom'
+  - 'Chapter 12: Cold Hearts'
+  - 'Chapter 13: Clockwork Robot'
+  - 'Chapter 14: The Most Revolting Toys in the World'
+  - 'Chapter 15: Giant Jelly Babies'
+  - 'Chapter 16: The Perfect Shade of Green'
+  - 'Chapter 17: The Book of Park Occurrences'
+  - 'Chapter 18: Bottom Banger'
+  - 'Chapter 19: Dance to the Music of Slime'
+  - 'Chapter 20: Gruesome Twosome'
+  - 'Chapter 21: Peeved Cow'
+  - 'Chapter 22: Ice-cream Party'
+  - 'Chapter 23: Flying Saucer'
+  - 'Chapter 24: Kitty Litter Castle'
+  - 'Chapter 25: A Swarming Sea of Cats'
+  - 'Chapter 26: Eaten Alive'
+  - 'Chapter 27: A Cat as Big as a Bear'
+  - 'Chapter 28: A Mountain of Moggies'
+  - 'Chapter 29: Setting Sun'
+  - 'Chapter 30: Forever'
+  - 'Chapter 31: Final Flight'
+  - Epilogue
+  - Closing Credits
+  ids: []
