@@ -1,0 +1,28 @@
+article: '11001185'
+lock-data: false
+data:
+- series: Simon
+  series-id: simon
+  episode: Super Lou
+  release: 1749081600
+  language: fr-fr
+  category: audio-play
+  runtime: 47
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51006180-Tonie_Shado-VouLnVGw.png
+  sample: https://cdn.tonies.de/o/audio_samples/d2412be70b27c1d86c5b22de3395e11e10b61a890b067a28b9f24302/simon_superlapin_super_lou_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/simon/super-lou/
+  shop-id: 2ca8c52d-aadd-4155-82ec-5403a5fbc1bd
+  track-desc:
+  - Générique
+  - Piégés par le loup
+  - Le voleur de bonbons
+  - Cabane secrète en danger
+  - Sauvons la reine des fourmis
+  - La course des méga vaisseaux
+  - Une super équipe
+  - Mission super grand
+  - Le chapeau du dragon
+  - Le super méga parcours
+  ids: []

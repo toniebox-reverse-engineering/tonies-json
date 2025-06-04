@@ -1,0 +1,25 @@
+article: '11000829'
+lock-data: false
+data:
+- series: Lalalinos
+  series-id: lalalinos
+  episode: Bumbaloo Donne Le Rythme (Cosmo)
+  release: 1749081600
+  language: fr-fr
+  category: audio-play-songs
+  runtime: 48
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51003573-Tonie_Shado-Y55cKXpv.png
+  sample: https://cdn.tonies.de/o/audio_samples/2fda203777e27d193daad70ff85efd732d8630a0f02227abd2547208/11000829_lalalinos_cosmo_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/lalalinos/bumbaloo-donne-le-rythme/
+  shop-id: 63cf80ad-b67c-4a63-8a10-12e4af099c4a
+  track-desc:
+  - Générique
+  - Présentation des Lalalinos
+  - Le solo de bongo de Cosmo (inclus les chansons "Passion percussions")
+  - La musique donne le La (inclus les chansons "La Musique donne le la")
+  - Scout la joue solo (inclus la chanson "Pirate")
+  - Le décollage des Razzamoons (inclus les chansons "Faut que ça brille !", "Aliens
+    Violets")
+  ids: []
