@@ -3,7 +3,7 @@ lock-data: false
 data:
 - series: Simon
   series-id: simon
-  episode: Super Lou
+  episode: SuperLou
   release: 1749081600
   language: fr-fr
   category: audio-play

@@ -1,0 +1,42 @@
+article: '11002546'
+lock-data: false
+data:
+- series: Animal World
+  series-id: animal-world
+  episode: Wildlife In The Woods
+  release: 1749772800
+  language: en-gb
+  category: audio-play-educational
+  runtime: 100
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002546_1_Landscape-3EV8zvr1.png
+  sample: https://cdn.tonies.de/o/audio_samples/ba4ab8a5d9e3cefd155d8e93dbaacd748bdcc91a2bca2aa5c5a3f837/animalworld_wildlifeinthewoods_fantasticforests_sample.wav
+  web: https://tonies.com/en-gb/clever-tonies/animal-world/wildlife-in-the-woods/
+  shop-id: 6ae03e77-c0f1-43ba-bd21-b92c1569ffcd
+  track-desc:
+  - Amongst Giants - Intro
+  - Amongst Giants - Redwoods and Rascals
+  - Amongst Giants - Lodistar Quiz 1
+  - Amongst Giants - Sacred Hugs with Bears and Trees
+  - Amongst Giants - Lodistar Quiz 2
+  - Amongst Giants - Outro
+  - Discover the Amazon - Intro
+  - Discover the Amazon - Roots of Life (Forest Floor and Understory)
+  - Discover the Amazon - Lodistar Quiz 1
+  - Discover the Amazon - Here Comes the Sun (Canopy and Emergent Layer)
+  - Discover the Amazon - Lodistar Quiz 2
+  - Discover the Amazon - Outro
+  - Fantastical Forests - Intro
+  - Fantastical Forests - Fierce Beasts of Folklore
+  - Fantastical Forests - Lodistar Quiz 1
+  - Fantastical Forests - Ancient in Transylvania
+  - Fantastical Forests - Lodistar Quiz 2
+  - Fantastical Forests - Outro
+  - Mighty Mangroves - Intro
+  - Mighty Mangroves - The Swampy Sundarbans
+  - Mighty Mangroves - Lodistar Quiz 1
+  - Mighty Mangroves - Get Up and Gálapagos!
+  - Mighty Mangroves - Lodistar Quiz 2
+  - Mighty Mangroves - Outro
+  ids: []

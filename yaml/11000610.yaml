@@ -1,0 +1,24 @@
+article: '11000610'
+lock-data: false
+data:
+- series: Lalalinos
+  series-id: lalalinos
+  episode: 'Cosmo: Bumbaloo Beats'
+  release: 1750032000
+  language: en-gb
+  category: audio-play-songs
+  runtime: 45
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/51003573-Tonie_Shado-YS84nyEu.png
+  sample: https://cdn.tonies.de/o/audio_samples/30e7607f715ce2e83e188088dcf22ed9c711994f9de174f33f862d1e/cosmo_sample.wav
+  web: https://tonies.com/en-gb/tonies/lalalinos/cosmo-bumbaloo-beats/
+  shop-id: 3265c3f3-f918-4311-839d-17e0c38c5a72
+  track-desc:
+  - LALALINOS THEME SONG
+  - INTRO
+  - STORY - Longest Drum Solo
+  - STORY - Musical Ups & Downs
+  - STORY - Going Solo
+  - STORY - Razzamoon Landing
+  ids: []
