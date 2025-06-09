@@ -10,8 +10,8 @@ data:
   runtime: 60
   age: 3
   origin: stock
-  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/51000548-Tonie_Shado-_6V2NlJu.png
-  sample: https://cdn.tonies.de/o/audio_samples/062bf219bd78b6e88b0dfd1d5d506a261b1a676576b7ff0f44063be8/11000174_cocomelon_getting_ready_with_jj_sample.wav
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11000177_PDP2-1c1NGO1U.png
+  sample: https://cdn.tonies.de/o/audio_samples/66eaf217122cc96cdbf0aab2deae4cef6f539a95e69ab80ad420d655/cocomelon_3_outdoor_adventures_with_jj_audio_sample.mp3
   web: https://tonies.com/en-gb/tonies/cocomelon/outdoor-adventures-with-jj/
   shop-id: 6ace88a8-9b66-46ce-8ada-73cec13118f7
   track-desc:
@@ -30,7 +30,7 @@ data:
   - One Potato Two Potato
   - Humpty Dumpty
   - Helping Song
-  - Clean Up Trash Song
+  - My Dog Song (Bingo)
   - Wash Your Hands Song
   - Balloon Boat Race
   - Rain Rain Go Away
