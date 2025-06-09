@@ -2,7 +2,7 @@ article: '10001231'
 lock-data: false
 data:
 - series: Peppa Pig
-  series-id: peppa-pig
+  series-id: peppa-pig-2
   episode: George Pig
   release: 1655856000
   language: en-gb
