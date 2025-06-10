@@ -2,7 +2,7 @@ article: '11002635'
 lock-data: false
 data:
 - series: Sunspeed Explorers
-  series-id: gemeinsam-fuer-eine-gruene-zukunft
+  series-id: sunspeed-explorers
   episode: Sunspeed Explorers - Set
   release: 1749600000
   language: de-de
@@ -10,7 +10,7 @@ data:
   runtime: 129
   age: 5
   origin: stock
-  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11002635_2_a-GjW4eXRu.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11002635_1_a-UVxozqx9.png
   sample: https://cdn.tonies.de/o/audio_samples/9d35702f12ff69c0d5ff8a5f33e857d8826dfb0c495252e0ff77e85d/horprobe_sunspeed_explorers_set_1.wav
   web: https://tonies.com/de-de/clever-tonies/gemeinsam-fuer-eine-gruene-zukunft/sunspeed-explorers-set/
   shop-id: 1e5f13d5-ceda-4c36-8195-ea85a9284cdb
