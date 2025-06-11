@@ -2,7 +2,7 @@ article: '11001782'
 lock-data: false
 data:
 - series: Gabby's Dollhouse
-  series-id: gabby-s-dollhouse
+  series-id: gab-dollhouse-us
   episode: Der Cupcake-Baum / Die Puppenhausdetektive
   release: 1749600000
   language: de-de
@@ -15,5 +15,20 @@ data:
   web: https://tonies.com/de-de/tonies/gabby-s-dollhouse/kuchi/
   shop-id: 0c8142f6-8078-46a8-a015-d21c11525cbe
   track-desc:
-  - Der Cupcake-Baum
+  - Die Puppenhaus-Detektive – Teil 1
+  - Die Puppenhaus-Detektive – Teil 2
+  - Die Puppenhaus-Detektive – Teil 3
+  - Die Puppenhaus-Detektive – Teil 4
+  - Die Puppenhaus-Detektive – Teil 5
+  - Die Puppenhaus-Detektive – Teil 6
+  - Die Puppenhaus-Detektive – Teil 7
+  - Die Puppenhaus-Detektive – Teil 8
+  - Der Cupcake-Baum – Teil 1
+  - Der Cupcake-Baum – Teil 2
+  - Der Cupcake-Baum – Teil 3
+  - Der Cupcake-Baum – Teil 4
+  - Der Cupcake-Baum – Teil 5
+  - Der Cupcake-Baum – Teil 6
+  - Der Cupcake-Baum – Teil 7
+  - Credits
   ids: []
