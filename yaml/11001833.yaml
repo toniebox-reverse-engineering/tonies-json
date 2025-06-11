@@ -1,0 +1,32 @@
+article: '11001833'
+lock-data: false
+data:
+- series: Gabby's Dollhouse
+  series-id: gabby-s-dollhouse
+  episode: Eröffnungsfeier im Puppenhaus / Kitty Fees Übernachtungsparty
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 50
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51006406-Tonie_Shado-MYUFg7va.png
+  sample: null
+  web: https://tonies.com/de-de/tonies/gabby-s-dollhouse/kitty-fee/
+  shop-id: a63ea71b-23ef-4e97-8e1a-535187c7b640
+  track-desc:
+  - Eröffnungsfeier im Puppenhaus – Teil 1
+  - Eröffnungsfeier im Puppenhaus – Teil 2
+  - Eröffnungsfeier im Puppenhaus – Teil 3
+  - Eröffnungsfeier im Puppenhaus – Teil 4
+  - Eröffnungsfeier im Puppenhaus – Teil 5
+  - Eröffnungsfeier im Puppenhaus – Teil 6
+  - Eröffnungsfeier im Puppenhaus – Teil 7
+  - Kitty Fees Übernachtungsparty – Teil 1
+  - Kitty Fees Übernachtungsparty – Teil 2
+  - Kitty Fees Übernachtungsparty – Teil 3
+  - Kitty Fees Übernachtungsparty – Teil 4
+  - Kitty Fees Übernachtungsparty – Teil 5
+  - Kitty Fees Übernachtungsparty – Teil 6
+  - Kitty Fees Übernachtungsparty – Teil 7
+  ids: []

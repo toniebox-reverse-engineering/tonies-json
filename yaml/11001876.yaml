@@ -1,0 +1,33 @@
+article: '11001876'
+lock-data: false
+data:
+- series: Positives Denken mit Elefant Greta
+  series-id: positives-denken-mit-elefant-greta
+  episode: Positives Denken mit Elefant Greta - Geschichten für mehr Selbstsicherheit
+    und Achtsamkeit
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 60
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11001876_1_a-V7Ppz0k1.png
+  sample: https://cdn.tonies.de/o/audio_samples/561b3c228d9028a29768562cf20bdf91d0e4bd61d0de804b68ec5848/horprobe_positives_denken_mit_elefant_greta_ubung_herzensumarmung_1.wav
+  web: https://tonies.com/de-de/tonies/positives-denken-mit-elefant-greta/positives-denken-mit-elefant-greta-selbstsicherheit-achtsamkeit-affirmationen-fuer-kinder/
+  shop-id: 342314ac-b439-4aae-86e6-e47c594cf151
+  track-desc:
+  - Intro
+  - 'Übung: Bereitsein'
+  - Der Wald der Ermutigung
+  - 'Übung: Sorgenbild'
+  - 'Übung: Herzensumarmung'
+  - 'Übung: Om-Singen'
+  - Das Grasland des Wachstums
+  - 'Übung: Die Kraft von "Noch"'
+  - 'Übung: Gedanken umdrehen'
+  - Das Meer der Gefühle
+  - 'Übung: Bis ruhig zählen'
+  - 'Übung: Meditationsminute'
+  - 'Übung: Heimreise'
+  - Outro
+  ids: []
