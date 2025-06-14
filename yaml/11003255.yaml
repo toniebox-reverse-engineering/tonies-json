@@ -19,4 +19,24 @@ data:
   - 2. Retter im Einsatz 1-25
   - 3. Die Erde 1-29
   - 4. Erfindungen 1-21
-  ids: []
+  ids:
+  - audio-id: 1749798654
+    hash: 3ee80444bfc504d6642436fe47274c8c47698ee3
+    size: 57803454
+    tracks: 20
+    confidence: 0
+  - audio-id: 1749798734
+    hash: fbd7383ce4975d9f1894da4fd820090e593c9eec
+    size: 63429990
+    tracks: 25
+    confidence: 0
+  - audio-id: 1749798695
+    hash: 208ce29a13e3275c7cabb8fe5d6d9a980e89c6ac
+    size: 66861412
+    tracks: 21
+    confidence: 0
+  - audio-id: 1749798713
+    hash: 0810ca768d17d818c337ab7afd43bc5d5f3cb3b8
+    size: 57352887
+    tracks: 29
+    confidence: 0
