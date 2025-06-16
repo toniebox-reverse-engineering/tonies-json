@@ -15,26 +15,7 @@ data:
   web: https://tonies.com/de-de/book-tonies/zippel-das-wirklich-wahre-schlossgespenst/zippel-das-wirklich-wahre-schlossgespenst/
   shop-id: be29212b-3b0a-46c6-8dfa-cf180a1bf97d
   track-desc:
-  - Zippel
-  - Zippel
-  - Zippel
-  - Zippel
-  - Zippel
-  - Zippel
-  - Zippel
-  - Zippel
-  - Zippel
-  - Zippel
-  - Zippel
-  - Zippel
-  - Zippel
-  - Zippel
-  - Zippel
-  - Zippel
-  - Zippel
-  - Zippel
-  - Zippel
-  - Zippel
+  - '20: Zippel, das wirklich wahre Schlossgespenst'
   ids:
   - audio-id: 1747232520
     hash: 87fbdfd34ea864cc0b54da3bbd5639b0e5eaa4df

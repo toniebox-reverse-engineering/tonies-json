@@ -15,21 +15,7 @@ data:
   web: https://tonies.com/de-de/book-tonies/conni-co/conni-co-1/
   shop-id: d15cfbd2-c991-4a45-a2d7-c8a4e3fdbc03
   track-desc:
-  - 01 Conni&Co
-  - 02 Conni&Co
-  - 03 Conni&Co
-  - 04 Conni&Co
-  - 05 Conni&Co
-  - 06 Conni&Co
-  - 07 Conni&Co
-  - 08 Conni&Co
-  - 09 Conni&Co
-  - 10 Conni&Co
-  - 11 Conni&Co
-  - 12 Conni&Co
-  - 13 Conni&Co
-  - 14 Conni&Co
-  - 15 Conni&Co
+  - '15: Conni&Co'
   ids:
   - audio-id: 1746431381
     hash: 45a6768e2835743922ab8a938c40f10f370a753e

@@ -1,8 +1,8 @@
 article: '11002997'
 lock-data: false
 data:
-- series: Moby Dick
-  series-id: moby-dick
+- series: Lieblings-Literatur
+  series-id: lieblings-literatur
   episode: Moby Dick
   release: 0
   language: de-de
@@ -12,7 +12,7 @@ data:
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11002997_1_a-Ksb-FtuI.png
   sample: https://cdn.tonies.de/o/audio_samples/182daa78c2260368bef94849523cc9b9a655e84c479b647fb36e49d4/moby_dick_horprobe.mp3
-  web: https://tonies.com/de-de/book-tonies/moby-dick/moby-dick/
+  web: https://tonies.com/de-de/book-tonies/lieblings-literatur/moby-dick/
   shop-id: 85325856-a2cf-447b-82ae-883029fb8700
   track-desc:
   - Etwas, das ihr vorher wissen solltet

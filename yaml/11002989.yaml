@@ -3,7 +3,7 @@ lock-data: false
 data:
 - series: School of Talents
   series-id: school-of-talents
-  episode: School of Talents - Erste Stunde tierisch laut
+  episode: 'School of Talents - Erste Stunde: Tierisch laut!'
   release: 0
   language: de-de
   category: audio-book
@@ -15,42 +15,7 @@ data:
   web: https://tonies.com/de-de/book-tonies/school-of-talents/school-of-talents-erste-stunde-tierisch-laut/
   shop-id: 7593e3d7-6b66-47d3-ba0d-82257f797682
   track-desc:
-  - 1 School Of Talents Erste Stunde
-  - 2 School Of Talents Erste Stunde
-  - 3 School Of Talents Erste Stunde
-  - 4 School Of Talents Erste Stunde
-  - 5 School Of Talents Erste Stunde
-  - 6 School Of Talents Erste Stunde
-  - 7 School Of Talents Erste Stunde
-  - 8 School Of Talents Erste Stunde
-  - 9 School Of Talents Erste Stunde
-  - 10 School Of Talents Erste Stunde
-  - 11 School Of Talents Erste Stunde
-  - 12 School Of Talents Erste Stunde
-  - 13 School Of Talents Erste Stunde
-  - 14 School Of Talents Erste Stunde
-  - 15 School Of Talents Erste Stunde
-  - 16 School Of Talents Erste Stunde
-  - 17 School Of Talents Erste Stunde
-  - 18 School Of Talents Erste Stunde
-  - 19 School Of Talents Erste Stunde
-  - 20 School Of Talents Erste Stunde
-  - 21 School Of Talents Erste Stunde
-  - 22 School Of Talents Erste Stunde
-  - 23 School Of Talents Erste Stunde
-  - 24 School Of Talents Erste Stunde
-  - 25 School Of Talents Erste Stunde
-  - 26 School Of Talents Erste Stunde
-  - 27 School Of Talents Erste Stunde
-  - 28 School Of Talents Erste Stunde
-  - 29 School Of Talents Erste Stunde
-  - 30 School Of Talents Erste Stunde
-  - 31 School Of Talents Erste Stunde
-  - 32 School Of Talents Erste Stunde
-  - 33 School Of Talents Erste Stunde
-  - 34 School Of Talents Erste Stunde
-  - 35 School Of Talents Erste Stunde
-  - 36 School Of Talents Erste Stunde
+  - '36:  School of Talents - Erste Stunde: Tierisch laut!'
   ids:
   - audio-id: 1747230768
     hash: 26cdad4061211380783211b2d57ff4c97db145fc
