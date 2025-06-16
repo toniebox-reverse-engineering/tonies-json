@@ -1,18 +1,18 @@
 article: '11002701'
 lock-data: false
 data:
-- series: tonies-json-de-de,
-  series-id: tonies-json-de-de,
-  episode: tonies-json-de-de,
+- series: ''
+  series-id: ''
+  episode: ''
   release: ''
-  language: tonies-json-de-de,
-  category: tonies-json-de-de,
-  runtime: tonies-json-de-de,
-  age: tonies-json-de-de,
-  origin: tonies-json-de-de,
-  image: tonies-json-de-de,
-  sample: tonies-json-de-de,
-  web: tonies-json-de-de,
-  shop-id: tonies-json-de-de,
+  language: ''
+  category: ''
+  runtime: ''
+  age: ''
+  origin: ''
+  image: ''
+  sample: ''
+  web: ''
+  shop-id: ''
   track-desc: tonies-json-de-de,
   ids: []
