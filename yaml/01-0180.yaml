@@ -1,8 +1,8 @@
 article: 01-0180
 lock-data: false
 data:
-- series: Disney
-  series-id: disney
+- series: Arielle, die Meerjungfrau
+  series-id: disney-the-little-mermaid
   episode: Arielle die Meerjungfrau
   release: 1570665600
   language: de-de
@@ -12,10 +12,10 @@ data:
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0180-98-0553-b-3l4n0rZ3.png
   sample: https://cdn.tonies.de/o/audio_samples/a6612060a564d73fe9b12f77fd17e56702ea692815202a7755d19f3e/hoerprobe_01_0180_disney_arielle_die_meerjungfrau_ext1_1.mp3
-  web: https://tonies.com/de-de/tonies/disney/arielle-die-meerjungfrau/
+  web: https://tonies.com/de-de/tonies/disney-arielle-die-meerjungfrau/arielle-die-meerjungfrau/
   shop-id: d3367fe5-bc78-4d6c-9088-6339684b86e9
   track-desc:
-  - Ariel
+  - Arielle
   - In deiner Welt
   - Unten im Meer
   - In deiner Welt (Reprise)
