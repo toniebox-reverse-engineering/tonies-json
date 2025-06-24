@@ -2,7 +2,7 @@ article: '11001133'
 lock-data: false
 data:
 - series: Raya und der letzte Drache
-  series-id: raya-und-der-letzte-drache
+  series-id: disney-raya-und-der-letzte-drache
   episode: Raya und der letzte Drache
   release: 1749600000
   language: de-de
@@ -12,7 +12,7 @@ data:
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11001133_1_a-qhnStZXV.png
   sample: https://cdn.tonies.de/o/audio_samples/63c46c939eb71e5eb91cd27e124205a3684fcb5de8fa4de4ef96b3dd/hoerprobe_11001133_raya_und_der_letzte_drache.mp3
-  web: https://tonies.com/de-de/tonies/raya-und-der-letzte-drache/raya-und-der-letzte-drache/
+  web: https://tonies.com/de-de/tonies/disney-raya-und-der-letzte-drache/raya-und-der-letzte-drache/
   shop-id: 5a900d71-1f99-4265-9349-f4a436123fa1
   track-desc:
   - 'Kapitel 01: Raya und der letzte Drache'
