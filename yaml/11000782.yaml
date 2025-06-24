@@ -15,6 +15,7 @@ data:
   web: https://tonies.com/en-gb/clever-tonies/today-with-tonies/today-with-tonies/
   shop-id: a742a774-63b0-450f-8303-6552b3c99bc9
   track-desc:
+  - Tuesday 24th June
   - Monday 23rd June
   - Sunday 22nd June
   - Saturday 21st June
@@ -28,7 +29,6 @@ data:
   - Friday 13th June
   - Thursday 12th June
   - Wednesday 11th June
-  - Tuesday 10th June
   - Today With Tonies Jingle
   ids:
   - audio-id: 1750633512
