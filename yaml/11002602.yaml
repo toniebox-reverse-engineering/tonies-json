@@ -4,13 +4,13 @@ data:
 - series: David Walliams
   series-id: david-walliams-2
   episode: Slime
-  release: 1749772800
+  release: 1750809600
   language: en-gb
   category: audio-book
   runtime: 187
   age: 7
   origin: stock
-  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002602_1_Landscape-Vq1fgJ2I.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002599_%20Landscape--EUJRUc31.png
   sample: https://cdn.tonies.de/o/audio_samples/dc3a6a27f7d943b670a7bfd1dd648cf71a968adac8e1194c95b7b99d/slime_sample.wav
   web: https://tonies.com/en-gb/book-tonies/david-walliams-2/slime/
   shop-id: f0ad35fa-40be-46f0-95cf-166759092d9d

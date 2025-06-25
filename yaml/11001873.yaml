@@ -1,0 +1,32 @@
+article: '11001873'
+lock-data: false
+data:
+- series: Bewegungsgeschichten mit Affe Marty
+  series-id: bewegungsgeschichten-mit-affe-marty
+  episode: Bewegungsgeschichten mit Affe Marty - Mit lustigen Übungen zum Mitspielen
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 60
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11001873_1_a-XfTmG4JN.png
+  sample: https://cdn.tonies.de/o/audio_samples/1ea8243006d9f715f9c1ca5bc69dc8b32c994d78186dded173ff8854/horprobe_bewegungsgeschichten_mit_affe_marty_ubung_anspannen_und_lockerlassen_1.wav
+  web: https://tonies.com/de-de/tonies/bewegungsgeschichten-mit-affe-marty/bewegungsgeschichten-mit-affe-marty-mit-lustigen-uebungen-zum-mitspielen/
+  shop-id: cf4592a9-9951-48f9-a90e-cae42f28e3df
+  track-desc:
+  - Intro
+  - 'Übung: Auf Bäume klettern'
+  - 'Übung: In sich hineinhören'
+  - 'Übung: Freies Springen'
+  - 'Übung: Achtsames Laufen'
+  - 'Übung: Hampelmann'
+  - 'Übung: Stachelrochen-Tanzstunde'
+  - 'Übung: Anspannen und lockerlassen'
+  - 'Übung: Zu einer Kugel zusammenrollen'
+  - Übung:Tanzspiel
+  - 'Übung: Regenmassage'
+  - 'Übung: Fliegen'
+  - 'Übung: Alles abschütteln'
+  - Outro
+  ids: []
