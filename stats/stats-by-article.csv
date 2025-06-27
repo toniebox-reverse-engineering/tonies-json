@@ -869,6 +869,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001349,Les Copains Du Dodo,sleepy-friends,Doudou Mouton,fr-fr,music,stock,ce11f0b3-a483-4c3f-8117-2cf11d231b74,https://tonies.com/fr-fr/tonies/les-copains-du-dodo/doudou-mouton/,1,1,0,0
 10001352,,,,,,stock,,,1,1,1,1
 10001357,Didier Jeunesse,didier-jeunesse,Écoute Et Devine Les Instruments,fr-fr,music,stock,243cd003-f378-4fe1-8c3e-b1f4ef7a0628,https://tonies.com/fr-fr/tonies/didier-jeunesse/ecoute-et-devine-les-instruments/,1,1,1,1
+10001358,Disney,,The Nightmare Before Christmas,en-us,Tonie,stock,8985752076439,,1,0,0,0
 10001359,Favorite Tales,,Spooky Tales,en-us,Tonie,stock,8041066004631,,1,3,2,1
 10001366,GoNoodle x tonies® Mindfulness,,,en-us,Tonie,stock,6664641773719,,1,1,0,0
 10001367,Der Grolltroll,der-grolltroll,Der Grolltroll – Das Liederalbum,de-de,music,stock,1ef7015c-4d81-4760-984b-7feed57a2478,https://tonies.com/de-de/tonies/der-grolltroll/der-grolltroll/,1,1,1,2
@@ -1455,6 +1456,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11001185,Simon,simon,SuperLou,fr-fr,audio-play,stock,2ca8c52d-aadd-4155-82ec-5403a5fbc1bd,https://tonies.com/fr-fr/tonies/simon/super-lou/,1,0,0,0
 11001242,Disney,,Moana 2: Simea,en-us,Tonie,stock,8757194457239,,1,0,0,0
 11001243,Animal World,animal-world,Wild Survivors,en-gb,audio-play-educational,stock,749f2518-b8fe-43ed-9e93-18d5892a9fd2,https://tonies.com/en-gb/clever-tonies/animal-world/wild-survivors/,1,0,0,0
+11001267,Gabby's Dollhouse,,Cakey Cat,en-us,Tonie,stock,9000607350935,,1,0,0,0
 11001276,Qai Qai,,Invisible Universe,en-us,Tonie,stock,8961040810135,,1,0,0,0
 11001281,Schlummerbande,sleepy-friends,Schlummerpinguin - Weißes Rauschen aus dem Ozean,de-de,music,stock,44fd5abe-29c2-4efb-ad03-1564e2fcc95e,https://tonies.com/de-de/tonies/schlummerbande/schlummerpinguin-weisses-rauschen-einschlafhilfe/,1,1,0,0
 11001285,Sleepy Sheep,,Lullabies from the Meadow,en-us,Tonie,stock,8539707605143,,1,2,2,1
@@ -1511,7 +1513,9 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11001865,Disney,,Enredados Tonie (en Español),en-us,Tonie,stock,8537910837399,,1,1,1,1
 11001866,Disney,,La Sirenita Tonie (en Español),en-us,Tonie,stock,8517937987735,,1,1,1,1
 11001867,Disney,,El Rey León Tonie (en Español),en-us,Tonie,stock,8537910968471,,1,1,1,1
+11001870,Mindfulness,,Movement with Marty the Monkey,en-us,Tonie,stock,8985771770007,,1,0,0,0
 11001873,Bewegungsgeschichten mit Affe Marty,bewegungsgeschichten-mit-affe-marty,Bewegungsgeschichten mit Affe Marty - Mit lustigen Übungen zum Mitspielen,de-de,audio-play,stock,cf4592a9-9951-48f9-a90e-cae42f28e3df,https://tonies.com/de-de/tonies/bewegungsgeschichten-mit-affe-marty/bewegungsgeschichten-mit-affe-marty-mit-lustigen-uebungen-zum-mitspielen/,1,0,0,0
+11001874,Mindfulness,,Affirmations with Greta the Elephant,en-us,Tonie,stock,8985769050263,,1,0,0,0
 11001876,Positives Denken mit Elefant Greta,positives-denken-mit-elefant-greta,Positives Denken mit Elefant Greta - Geschichten für mehr Selbstsicherheit und Achtsamkeit,de-de,audio-play,stock,342314ac-b439-4aae-86e6-e47c594cf151,https://tonies.com/de-de/tonies/positives-denken-mit-elefant-greta/positives-denken-mit-elefant-greta-selbstsicherheit-achtsamkeit-affirmationen-fuer-kinder/,1,0,0,0
 11001878,Disney & Pixar,,Toy Story: Woody Tonie (en Español),en-us,Tonie,stock,8565943992471,,1,1,1,1
 11001907,Tom Fletcher,tom-fletcher,The Christmasaurus and the Naughty List,en-gb,audio-book,stock,3524aeb5-316c-410f-8ce8-4ed49a7edc98,https://tonies.com/en-gb/book-tonies/tom-fletcher/the-christmasaurus-and-the-naughty-list/,1,1,1,1
@@ -5676,6 +5680,18 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 2000011373,Lalalinos,lalalinos,Es groovt in Bumbaloo - Das Musikalbum,de-de,music,tunes,61137a84-a116-4c78-97e2-50e72bb9208c,https://tonies.com/de-de/audio-content/lalalinos/es-groovt-in-bumbaloo-das-musikalbum/,1,0,0,0
 2000011374,Lalalinos,lalalinos,The best Band in Bumbaloo - The Music Album,en-us,music,tunes,ba25e92d-9f6a-429d-bfda-8ae2089ffd36,https://tonies.com/en-gb/audio-content/lalalinos/the-best-band-in-bumbaloo-the-music-album/,1,0,0,0
 2000011375,Today with tonies – Limited Edition,today-with-tonies-limited-edition,Today with tonies – Trial Episode,en-gb,audio-play,tunes,4972d049-98ab-42e3-82c7-d59507e0580b,https://tonies.com/en-gb/audio-content/today-with-tonies-limited-edition/today-with-tonies-trial-episode/,1,0,0,0
+2000011378,Pumuckl,pumuckl,Werkstatt in Gefahr (Neue Geschichten vom Pumuckl),de-de,audio-play,tunes,90713537-8fe2-42b9-8963-669c39f4c362,https://tonies.com/de-de/audio-content/pumuckl/werkstatt-in-gefahr-neue-geschichten-vom-pumuckl/,1,0,0,0
+2000011379,Pumuckl,pumuckl,Pumuckl will Skifahren (Neue Geschichten vom Pumuckl),de-de,audio-play,tunes,0a474634-47d7-4853-8700-f084a51493b5,https://tonies.com/de-de/audio-content/pumuckl/pumuckl-will-skifahren-neue-geschichten-vom-pumuck/,1,0,0,0
+2000011380,Pumuckl,pumuckl,Pumuckl wird verschenkt (Neue Geschichten vom Pumuckl),de-de,audio-play,tunes,481a99b9-cd9b-4abe-a545-ed8f1ae16d65,https://tonies.com/de-de/audio-content/pumuckl/pumuckl-wird-verschenkt-neue-geschichten-vom-pumuc/,1,0,0,0
+2000011381,Pumuckl,pumuckl,Pumuckl feiert Silvester (Neue Geschichten vom Pumuckl),de-de,audio-play,tunes,163054e4-ee64-4a53-b6f3-3e437a886966,https://tonies.com/de-de/audio-content/pumuckl/pumuckl-feiert-silvester-neue-geschichten-vom-pumu/,1,0,0,0
+2000011382,Pumuckl,pumuckl,Der alte Eder (Neue Geschichten vom Pumuckl),de-de,audio-play,tunes,4935d704-5e08-47c3-8047-24291896b38c,https://tonies.com/de-de/audio-content/pumuckl/der-alte-eder-neue-geschichten-vom-pumuckl/,1,0,0,0
+2000011383,Pumuckl,pumuckl,Eder ist an allem schuld (Neue Geschichten vom Pumuckl),de-de,audio-play,tunes,d2fa4ad8-6798-4288-9289-b2662cf51dfb,https://tonies.com/de-de/audio-content/pumuckl/eder-ist-an-allem-schuld-neue-geschichten-vom-pumu/,1,0,0,0
+2000011384,Pumuckl,pumuckl,Pumuckl und die Spinne (Neue Geschichten vom Pumuckl),de-de,audio-play,tunes,6f95ec82-b891-41c1-b1c8-66421c741a71,https://tonies.com/de-de/audio-content/pumuckl/pumuckl-und-die-spinne-neue-geschichten-vom-pumuck/,1,0,0,0
+2000011385,Pumuckl,pumuckl,Pumuckl wird verzaubert (Neue Geschichten vom Pumuckl),de-de,audio-play,tunes,a6680f00-e529-48cb-a66c-5dc1117457f7,https://tonies.com/de-de/audio-content/pumuckl/pumuckl-wird-verzaubert-neue-geschichten-vom-pumuc/,1,0,0,0
+2000011386,Pumuckl,pumuckl,Koboldsgesetz (Neue Geschichten vom Pumuckl),de-de,audio-play,tunes,7acc982b-3e86-4548-96b4-a75ef391d6ea,https://tonies.com/de-de/audio-content/pumuckl/koboldsgesetz-neue-geschichten-vom-pumuckl/,1,0,0,0
+2000011387,Pumuckl,pumuckl,Pumuckl geht Angeln (Neue Geschichten vom Pumuckl),de-de,audio-play,tunes,b9fd7764-af0f-4e08-a6da-f6fabb8f5af5,https://tonies.com/de-de/audio-content/pumuckl/pumuckl-geht-angeln-neue-geschichten-vom-pumuckl/,1,0,0,0
+2000011388,Pumuckl,pumuckl,Der verflixte Kaugummi (Neue Geschichten vom Pumuckl),de-de,audio-play,tunes,7e295623-1d8b-4d2b-bca2-c5bbcf19fad8,https://tonies.com/de-de/audio-content/pumuckl/der-verflixte-kaugummi-neue-geschichten-vom-pumuck/,1,0,0,0
+2000011389,Pumuckl,pumuckl,Pumuckl und die Geburtstagsüberraschung (Neue Geschichten vom Pumuckl),de-de,audio-play,tunes,e0d69c3a-b506-4978-9fa3-cfb90102a88c,https://tonies.com/de-de/audio-content/pumuckl/pumuckl-und-die-geburtstagsuberraschung-neue-gesch/,1,0,0,0
 43314534219927,The Elf on the Shelf,,,en-us,Tonie,stock,8072067055767,,1,0,0,0
 43314558009495,Favorite Masterpieces,,The Nutcracker,en-us,Tonie,stock,8072076656791,,1,0,0,0
 43314564169879,Maestro,,,en-us,Tonie,stock,8072079147159,,1,0,0,0
