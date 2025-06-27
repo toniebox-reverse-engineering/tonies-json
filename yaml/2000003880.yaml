@@ -38,4 +38,9 @@ data:
   - 'Kapitel 04: Yumi in Gefahr (Folge 266)'
   - 'Kapitel 05: Yumi in Gefahr (Folge 266)'
   - 'Kapitel 06: Yumi in Gefahr (Folge 266)'
-  ids: []
+  ids:
+  - audio-id: 1750405418
+    hash: f30e18c1529deffe5ee7bd231fb00ff7887fbc4b
+    size: 39701022
+    tracks: 23
+    confidence: 0
