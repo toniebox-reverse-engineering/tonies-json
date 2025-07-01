@@ -15,6 +15,7 @@ data:
   web: https://tonies.com/en-gb/clever-tonies/joke-of-the-day/joke-of-the-day/
   shop-id: c31bee4a-d638-47da-b7c5-f27bd51ebb1d
   track-desc:
+  - 1st July
   - 30th June
   - 29th June
   - 28th June
@@ -28,7 +29,6 @@ data:
   - 20th June
   - 19th June
   - 18th June
-  - 17th June
   - Joke Of The Day Jingle
   ids:
   - audio-id: 1751241921
