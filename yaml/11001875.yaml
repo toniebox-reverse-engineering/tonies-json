@@ -1,0 +1,22 @@
+article: '11001875'
+lock-data: false
+data:
+- series: tonies® Original
+  series-id: tonies-originals
+  episode: 'Mindfulness: Affirmations with Greta the Elephant'
+  release: 1752451200
+  language: en-gb
+  category: audio-play
+  runtime: 59
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/51008241-Tonie_Shado-pPbBK0-j.png
+  sample: https://cdn.tonies.de/o/audio_samples/3741138d9570fb182bfd67f22c718e3bde2429a1a357798dff99b602/affirmations_elephant_sample.wav
+  web: https://tonies.com/en-gb/tonies/tonies-originals/mindfulness-affirmations-with-greta-the-elephant/
+  shop-id: 8192912d-1d72-42ba-83bc-1b1981b190c5
+  track-desc:
+  - 'STORY: Entering the Forest'
+  - 'STORY: The Trembling Tree'
+  - 'STORY: The Grasslands of Growth'
+  - 'STORY: The Sea of Feels'
+  ids: []

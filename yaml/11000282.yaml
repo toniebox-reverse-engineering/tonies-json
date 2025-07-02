@@ -1,8 +1,8 @@
 article: '11000282'
 lock-data: false
 data:
-- series: Disney
-  series-id: disney
+- series: Susi und Strolch
+  series-id: disney-lady-and-the-tramp
   episode: Susi und Strolch
   release: 1715126400
   language: de-de
@@ -12,7 +12,7 @@ data:
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11000282_1_a-f8MR_8Ih.png
   sample: https://cdn.tonies.de/o/audio_samples/fd38058a22cc13548c10412cf75995a7b434da59160e11471ac5b389/hoerprobe_11000282_disney_susi_und_strolch.mp3
-  web: https://tonies.com/de-de/tonies/disney/susi-und-strolch/
+  web: https://tonies.com/de-de/tonies/disney-susi-und-strolch/susi-und-strolch/
   shop-id: 7ca36ac6-8df7-46af-86e2-716b2e32a958
   track-desc:
   - 'Kapitel 01: Susi und Strolch'

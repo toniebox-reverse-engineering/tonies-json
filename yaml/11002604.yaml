@@ -1,0 +1,31 @@
+article: '11002604'
+lock-data: false
+data:
+- series: David Walliams
+  series-id: david-walliams-2
+  episode: The World's Worst Children 2
+  release: 1752796800
+  language: en-gb
+  category: audio-book
+  runtime: 186
+  age: 7
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002604_1_Landscape-8430u-CS.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/c51b38895469156642431f408a48658f8f23bd38a4de16e067519eb3/worlds_worst_children_2_sample.wav
+  web: https://tonies.com/en-gb/book-tonies/david-walliams-2/the-worlds-worst-children-2/
+  shop-id: 54a2cc86-b0da-4f32-a5c8-e76b5e8502d8
+  track-desc:
+  - Opening credits
+  - Foreword by Her Majesty The Queen
+  - Humbert the Hungry Baby
+  - Stacey Superstar
+  - Fussy Frankie
+  - Cruel Clarissa
+  - Harry Who Never, Ever Did His Homework
+  - Gruesome Griselda
+  - Spoiled Brad
+  - Trish the Troll
+  - Competitive Colin
+  - No No Noe
+  - Closing credits
+  ids: []

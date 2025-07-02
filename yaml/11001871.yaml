@@ -1,0 +1,22 @@
+article: '11001871'
+lock-data: false
+data:
+- series: tonies® Original
+  series-id: tonies-originals
+  episode: 'Mindfulness: Movement with Marty the Monkey'
+  release: 1752451200
+  language: en-gb
+  category: audio-play
+  runtime: 59
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/51008232-Tonie_Shado-emHvPZvH.png
+  sample: https://cdn.tonies.de/o/audio_samples/04edff9b1fae7ee089f505c3f488b9149a37a036427d2c66271775a6/movement_monkey_sample.wav
+  web: https://tonies.com/en-gb/tonies/tonies-originals/mindfulness-movement-with-marty-the-monkey/
+  shop-id: 73eea530-5f94-4f36-9b20-91db1e99afb2
+  track-desc:
+  - STORY - Tree Trekking
+  - STORY - Waterfall Wading
+  - STORY - Small Steps
+  - STORY - Flying Free
+  ids: []

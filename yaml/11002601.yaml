@@ -1,0 +1,42 @@
+article: '11002601'
+lock-data: false
+data:
+- series: Roald Dahl
+  series-id: roald-dahl
+  episode: The BFG
+  release: 1752796800
+  language: en-gb
+  category: audio-book
+  runtime: 240
+  age: 6
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002601_1_Landscape-UxpV0EwH.png
+  sample: https://cdn.tonies.de/o/audio_samples/0da24ac51a2f94a1f2489aad06234eed67b265154953425913f9c121/bfg_sample.wav
+  web: https://tonies.com/en-gb/book-tonies/roald-dahl/the-bfg/
+  shop-id: c84afd3a-f5c7-4919-ab31-abcc4bd8efc5
+  track-desc:
+  - CHAPTER 1 - The Witching Hour
+  - CHAPTER 2 - Who?
+  - CHAPTER 3 - The Snatch
+  - CHAPTER 4 - The Cave
+  - CHAPTER 5 - The BFG
+  - CHAPTER 6 - The Giants
+  - CHAPTER 7 - The Marvellous Ears
+  - CHAPTER 8 - Snozzcumbers
+  - CHAPTER 9 - Bloodbottler
+  - CHAPTER 10 - Frobscottle And Whizzpoppers
+  - CHAPTER 11 - Journey To Dream Country
+  - CHAPTER 12 - Dreamcatching
+  - CHAPTER 13 - A Trogglehumper For The Fleshlumpeater
+  - CHAPTER 14 - Dreams
+  - CHAPTER 15 - The Great Plan
+  - CHAPTER 16 - Mixing The Dream
+  - CHAPTER 17 - Journey To London
+  - CHAPTER 18 - The Palace
+  - CHAPTER 19 - The Queen
+  - CHAPTER 20 - The Royal Breakfast
+  - CHAPTER 21 - The Plan
+  - CHAPTER 22 - Capture!
+  - CHAPTER 23 - Feeding Time
+  - CHAPTER 24 - The Author
+  ids: []

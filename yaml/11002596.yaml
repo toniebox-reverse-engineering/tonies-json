@@ -1,0 +1,33 @@
+article: '11002596'
+lock-data: false
+data:
+- series: Adam Kay
+  series-id: adam-kay
+  episode: Kay's Incredible Inventions
+  release: 1752796800
+  language: en-gb
+  category: audio-book
+  runtime: 345
+  age: 7
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002596_1_Landscape-NcDkBjrl.png
+  sample: https://cdn.tonies.de/o/audio_samples/87c21437977caf12dd4d00b741be59e2cd937d4f641515d12b5e5f78/adam_kay_sample.wav
+  web: https://tonies.com/en-gb/book-tonies/adam-kay/kays-incredible-inventions/
+  shop-id: cc8b3c8f-c03c-4bfb-9c12-f42c3c825c67
+  track-desc:
+  - INTRO
+  - 'At Home: The Bathroom'
+  - 'At Home: The Bedroom'
+  - 'At Home: The Kitchen'
+  - 'At Home: The Living Room'
+  - 'At Home: Electricity'
+  - 'Out and About: Building'
+  - 'Out and About: Travel - On the Ground'
+  - 'Out and About: Travel - Sea and Air'
+  - 'Out and About: Travel - Space'
+  - 'Technology: Communication'
+  - 'Technology: Computers'
+  - 'Technology: The Internet'
+  - 'Technology: Robots'
+  - The Conclusion
+  ids: []
