@@ -1171,7 +1171,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000274,Ohrenbär,ohrenbar,Mulles Zaubersteinchen,de-de,audio-book,stock,2b81a78f-db3a-4c7f-b650-944ec5156a6d,https://tonies.com/de-de/tonies/ohrenbaer/mulles-zaubersteinchen/,1,1,1,1
 11000279,Tabaluga,tabaluga,Drachen weinen nicht & Mondsüchtig,de-de,audio-play-songs,stock,d63d2e6c-3839-4d11-87b1-78e5de9f15ee,https://tonies.com/de-de/tonies/tabaluga/drachen-weinen-nicht-mondschtig/,1,1,1,3
 11000280,Lieblings-Kinderlieder,lieblings-kinderlieder,Frühlingslieder,de-de,music,stock,01b33faf-2232-4c86-9a7c-3feb7e438b5b,https://tonies.com/de-de/tonies/lieblings-kinderlieder/fruhlingslieder/,1,1,1,1
-11000282,Disney,disney,Susi und Strolch,de-de,audio-play-songs,stock,7ca36ac6-8df7-46af-86e2-716b2e32a958,https://tonies.com/de-de/tonies/disney/susi-und-strolch/,1,1,1,1
+11000282,Susi und Strolch,disney-lady-and-the-tramp,Susi und Strolch,de-de,audio-play-songs,stock,7ca36ac6-8df7-46af-86e2-716b2e32a958,https://tonies.com/de-de/tonies/disney-susi-und-strolch/susi-und-strolch/,1,1,1,1
 11000283,Leos Tag,leos-tag,Es ist so weit – Badezeit!,de-de,audio-play-songs,stock,69747609-f08f-49e7-a583-9d92cba0d2d6,https://tonies.com/de-de/tonies/leos-tag/es-ist-so-weit-badezeit/,1,1,1,1
 11000284,Yakari,yakari,Best of Regenbogen,de-de,audio-play,stock,5d753e40-9aa7-4a40-a483-bf3dec8ebfd8,https://tonies.com/de-de/tonies/yakari/best-of-regenbogen/,1,1,0,0
 11000286,Findet Nemo,disney-finding-nemo,Findet Dorie,de-de,audio-play,stock,a3adb9f7-f8d7-4864-b44e-630fb659bca5,https://tonies.com/de-de/tonies/disney-findet-nemo/findet-dorie/,1,1,1,3
@@ -1514,8 +1514,10 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11001866,Disney,,La Sirenita Tonie (en Español),en-us,Tonie,stock,8517937987735,,1,1,1,1
 11001867,Disney,,El Rey León Tonie (en Español),en-us,Tonie,stock,8537910968471,,1,1,1,1
 11001870,Mindfulness,,Movement with Marty the Monkey,en-us,Tonie,stock,8985771770007,,1,0,0,0
+11001871,tonies® Original,tonies-originals,Mindfulness: Movement with Marty the Monkey,en-gb,audio-play,stock,73eea530-5f94-4f36-9b20-91db1e99afb2,https://tonies.com/en-gb/tonies/tonies-originals/mindfulness-movement-with-marty-the-monkey/,1,0,0,0
 11001873,Bewegungsgeschichten mit Affe Marty,bewegungsgeschichten-mit-affe-marty,Bewegungsgeschichten mit Affe Marty - Mit lustigen Übungen zum Mitspielen,de-de,audio-play,stock,cf4592a9-9951-48f9-a90e-cae42f28e3df,https://tonies.com/de-de/tonies/bewegungsgeschichten-mit-affe-marty/bewegungsgeschichten-mit-affe-marty-mit-lustigen-uebungen-zum-mitspielen/,1,0,0,0
 11001874,Mindfulness,,Affirmations with Greta the Elephant,en-us,Tonie,stock,8985769050263,,1,0,0,0
+11001875,tonies® Original,tonies-originals,Mindfulness: Affirmations with Greta the Elephant,en-gb,audio-play,stock,8192912d-1d72-42ba-83bc-1b1981b190c5,https://tonies.com/en-gb/tonies/tonies-originals/mindfulness-affirmations-with-greta-the-elephant/,1,0,0,0
 11001876,Positives Denken mit Elefant Greta,positives-denken-mit-elefant-greta,Positives Denken mit Elefant Greta - Geschichten für mehr Selbstsicherheit und Achtsamkeit,de-de,audio-play,stock,342314ac-b439-4aae-86e6-e47c594cf151,https://tonies.com/de-de/tonies/positives-denken-mit-elefant-greta/positives-denken-mit-elefant-greta-selbstsicherheit-achtsamkeit-affirmationen-fuer-kinder/,1,0,0,0
 11001878,Disney & Pixar,,Toy Story: Woody Tonie (en Español),en-us,Tonie,stock,8565943992471,,1,1,1,1
 11001907,Tom Fletcher,tom-fletcher,The Christmasaurus and the Naughty List,en-gb,audio-book,stock,3524aeb5-316c-410f-8ce8-4ed49a7edc98,https://tonies.com/en-gb/book-tonies/tom-fletcher/the-christmasaurus-and-the-naughty-list/,1,1,1,1
@@ -1557,10 +1559,16 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11002563,KLE!NE EXPERTEN,klene-experten,KLE!NE EXPERTEN muhen mit Kühen,de-de,audio-play,stock,adb1dd43-7af2-4c89-a958-f21915d04c36,https://tonies.com/de-de/tonies/klene-experten/kleine-experten-muhen-mit-kuehen/,1,0,0,0
 11002576,Tierisch!,tierisch,Tierisch! Beste Freunde - Set,de-de,audio-play,stock,2ea8d354-8f47-461a-a46b-51445ccc1401,https://tonies.com/de-de/clever-tonies/tierisch/tierisch-beste-freunde-haustiere-wissen-fuer-kinder/,1,0,0,0
 11002594,David Walliams,david-walliams-2,Gangsta Granny Strikes Again!,en-gb,audio-book,stock,1dc4ca6a-f733-4755-bee4-893cc03fcae5,https://tonies.com/en-gb/book-tonies/david-walliams-2/gangsta-granny-strikes-again/,1,0,0,0
+11002596,Adam Kay,adam-kay,Kay's Incredible Inventions,en-gb,audio-book,stock,cc8b3c8f-c03c-4bfb-9c12-f42c3c825c67,https://tonies.com/en-gb/book-tonies/adam-kay/kays-incredible-inventions/,1,0,0,0
 11002598,Tom Fletcher,tom-fletcher,The Creakers,en-gb,audio-book,stock,e13a41b5-e7bc-477f-9904-69b6a59cfeed,https://tonies.com/en-gb/book-tonies/tom-fletcher/the-creakers/,1,0,0,0
 11002599,Roald Dahl,roald-dahl,The Twits,en-gb,audio-book,stock,57fd318b-74b9-4028-8f5b-daba581f77c4,https://tonies.com/en-gb/book-tonies/roald-dahl/the-twits/,1,0,0,0
 11002600,David Walliams,david-walliams-2,The World's Worst Children,en-gb,audio-book,stock,654c5269-9607-4ea6-bbe8-05924987e159,https://tonies.com/en-gb/book-tonies/david-walliams-2/the-worlds-worst-children/,1,0,0,0
+11002601,Roald Dahl,roald-dahl,The BFG,en-gb,audio-book,stock,c84afd3a-f5c7-4919-ab31-abcc4bd8efc5,https://tonies.com/en-gb/book-tonies/roald-dahl/the-bfg/,1,0,0,0
 11002602,David Walliams,david-walliams-2,Slime,en-gb,audio-book,stock,f0ad35fa-40be-46f0-95cf-166759092d9d,https://tonies.com/en-gb/book-tonies/david-walliams-2/slime/,1,0,0,0
+11002603,Adam Kay,adam-kay,Kay's Marvellous Medicine,en-gb,audio-book,stock,f01ce58a-d873-47b4-8db0-228a9ca14ac2,https://tonies.com/en-gb/book-tonies/adam-kay/kays-marvellous-medicine/,1,0,0,0
+11002604,David Walliams,david-walliams-2,The World's Worst Children 2,en-gb,audio-book,stock,54a2cc86-b0da-4f32-a5c8-e76b5e8502d8,https://tonies.com/en-gb/book-tonies/david-walliams-2/the-worlds-worst-children-2/,1,0,0,0
+11002609,"Little People, Big Dreams",kleine-menschen-grosse-ziele,Women In Science,en-gb,audio-play-educational,stock,7d7cc827-6cc8-4f5c-9c9d-648c3c6752ca,https://tonies.com/en-gb/clever-tonies/little-people-big-dreams/women-in-science/,1,0,0,0
+11002611,Today with tonies,today-with-tonies,True or False?,en-gb,audio-play-educational,stock,eec206e6-0e4c-45d7-bcb4-6f2d7e061b64,https://tonies.com/en-gb/clever-tonies/today-with-tonies/true-or-false/,1,0,0,0
 11002618,David Walliams,david-walliams-2,Robodog,en-gb,audio-book,stock,72d672bc-35c0-495a-aa0a-5af264ac521c,https://tonies.com/en-gb/book-tonies/david-walliams-2/robodog/,1,0,0,0
 11002635,Sunspeed Explorers,sunspeed-explorers,Sunspeed Explorers - Set,de-de,audio-play,stock,1e5f13d5-ceda-4c36-8195-ea85a9284cdb,https://tonies.com/de-de/clever-tonies/gemeinsam-fuer-eine-gruene-zukunft/sunspeed-explorers-set/,1,4,0,0
 11002660,Heavysaurus,heavysaurus,Pommesgabel - Best of Dino Metal (Neuauflage 2025),de-de,music,stock,16fa3b10-f1e0-496c-a387-fbfef769f5c5,https://tonies.com/de-de/tonies/heavysaurus/pommesgabel-best-of-dino-metal/,1,1,0,0
@@ -1581,6 +1589,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11002989,School of Talents,school-of-talents,School of Talents - Erste Stunde: Tierisch laut!,de-de,audio-book,stock,7593e3d7-6b66-47d3-ba0d-82257f797682,https://tonies.com/de-de/book-tonies/school-of-talents/school-of-talents-erste-stunde-tierisch-laut/,1,1,0,0
 11002997,Lieblings-Literatur,lieblings-literatur,Moby Dick,de-de,audio-book,stock,85325856-a2cf-447b-82ae-883029fb8700,https://tonies.com/de-de/book-tonies/lieblings-literatur/moby-dick/,1,1,0,0
 11003255,Wieso? Weshalb? Warum? Profiwissen - Set,wieso-weshalb-warum-profiwissen-set,Wieso? Weshalb? Warum? Profiwissen - Set,de-de,audio-play,stock,51735a81-0882-4678-ab73-e08a3562720d,https://tonies.com/de-de/clever-tonies/wieso-weshalb-warum-profiwissen-set/wieso-weshalb-warum-profiwissen-set/,1,4,0,0
+11003613,Enid Blyton,enid-blyton,Five-Minute Stories,en-gb,audio-book,stock,a25475f5-c5d7-4113-bc22-8a5a82ad123f,https://tonies.com/en-gb/tonies/enid-blyton/five-minute-stories/,1,0,0,0
 11111111,Coming Soon Tonie 2,,,en-us,Tonie,stock,8416058638487,,1,0,0,0
 2000000000,Benjamin Blümchen,benjamin-bluemchen,5:0 für Benjamin,de-de,audio-play,tunes,216ab895-8d92-44e7-b3ae-cb085cf5ada7,https://tonies.com/de-de/audio-content/benjamin-bluemchen/50-fur-benjamin/,1,0,0,0
 2000000001,Benjamin Blümchen,benjamin-bluemchen,Abschied von Stella,de-de,audio-play,tunes,984c3380-84e8-4245-beea-5ba84587a9b6,https://tonies.com/de-de/audio-content/benjamin-bluemchen/abschied-von-stella/,1,0,0,0
