@@ -19,6 +19,11 @@ data:
   - Giraffes Can't Dance Read Along
   - Giraffes Can't Dance Song
   ids:
+  - audio-id: 1751870915
+    hash: ceed70e0efc7994539b3b15af3707af5426480d2
+    size: 23285803
+    tracks: 24
+    confidence: 1
   - audio-id: 1751625184
     hash: f5d1b2b304474ff42da9cb883b07dcb4c2f50e0a
     size: 23231224
