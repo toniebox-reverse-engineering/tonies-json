@@ -2,7 +2,7 @@ article: '10001925'
 lock-data: false
 data:
 - series: ''
-  series-id: tonies-json-fr-fr,
+  series-id: ''
   episode: ''
   release: ''
   language: ''
@@ -10,7 +10,7 @@ data:
   runtime: ''
   age: ''
   origin: ''
-  image: ''
+  image: tonies-json-fr-fr,
   sample: ''
   web: ''
   shop-id: ''
