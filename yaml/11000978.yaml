@@ -26,4 +26,9 @@ data:
   - Alles doppelt 1
   - Alles doppelt 2
   - Alles doppelt 3
-  ids: []
+  ids:
+  - audio-id: 1751549544
+    hash: a9a6d37e5c31ba45848d0b9457e1581256c3414c
+    size: 44132270
+    tracks: 11
+    confidence: 0
