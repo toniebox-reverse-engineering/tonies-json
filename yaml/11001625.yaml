@@ -2,7 +2,7 @@ article: '11001625'
 lock-data: false
 data:
 - series: Die Monster AG
-  series-id: disney-die-monster-ag
+  series-id: disney-monsters-inc
   episode: Die Monster Uni
   release: 0
   language: de-de
@@ -15,5 +15,10 @@ data:
   web: https://tonies.com/de-de/tonies/disney-die-monster-ag/die-monster-uni/
   shop-id: cbc643fd-cfce-4d42-8b6b-c99a004c0dfb
   track-desc:
-  - '06: Disney - Die Monster Uni'
+  - 'Kapitel 01: Die Monster Uni'
+  - 'Kapitel 02: Die Monster Uni'
+  - 'Kapitel 03: Die Monster Uni'
+  - 'Kapitel 04: Die Monster Uni'
+  - 'Kapitel 05: Die Monster Uni'
+  - 'Kapitel 06: Die Monster Uni'
   ids: []
