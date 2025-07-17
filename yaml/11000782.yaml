@@ -31,6 +31,11 @@ data:
   - Friday 4th July
   - Today With Tonies Jingle
   ids:
+  - audio-id: 1752707125
+    hash: f3f303fece181cb12a4ad3ee1d10dc2055f0dccb
+    size: 149630540
+    tracks: 15
+    confidence: 1
   - audio-id: 1752620738
     hash: d85addfeadd1bc5df0b4c05a7098d4d90c49218e
     size: 147907411
