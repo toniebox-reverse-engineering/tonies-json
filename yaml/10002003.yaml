@@ -2,7 +2,7 @@ article: '10002003'
 lock-data: false
 data:
 - series: Lieblings-Märchen
-  series-id: lieblings-maerchen
+  series-id: lieblings-marchen
   episode: Der gestiefelte Kater (Neuauflage 2023)
   release: 1699401600
   language: de-de
