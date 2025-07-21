@@ -31,6 +31,11 @@ data:
   - 8th July
   - Joke Of The Day Jingle
   ids:
+  - audio-id: 1753056325
+    hash: 676ec1a8945a5506d60273d0fc20bb682196e7a1
+    size: 39256746
+    tracks: 15
+    confidence: 1
   - audio-id: 1752969924
     hash: fd011459b56eb0d048506ea3d5f5a73d46fbfcff
     size: 39732078
