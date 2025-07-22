@@ -11,7 +11,7 @@ data:
   age: 4
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51006406-Tonie_Shado-MYUFg7va.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/7655d7db136e4f04ee04b2275ca5b7ea00a6c8feddc8eb7ce1ab3a5c/hoerprope_11001833_gabbys_dollhouse_kitty_feemp3.mp3
   web: https://tonies.com/de-de/tonies/gabby-s-dollhouse/kitty-fee/
   shop-id: a63ea71b-23ef-4e97-8e1a-535187c7b640
   track-desc:
