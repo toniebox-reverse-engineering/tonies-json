@@ -1,18 +1,18 @@
-article: '10000771'
+article: '123456789'
 lock-data: false
 data:
-- series: ''
+- series: tonies-us-en-us,
   series-id: ''
   episode: ''
   release: tonies-us-en-us,
-  language: ''
-  category: ''
+  language: tonies-us-en-us,
+  category: tonies-us-en-us,
   runtime: ''
   age: ''
-  origin: ''
+  origin: tonies-us-en-us,
   image: ''
   sample: ''
   web: ''
-  shop-id: ''
+  shop-id: tonies-us-en-us,
   track-desc: ''
   ids: []
