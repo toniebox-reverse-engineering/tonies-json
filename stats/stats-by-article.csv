@@ -985,7 +985,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001797,Steiff Soft Cuddly Friends,steiff-soft-cuddly-friends-mit-hoerspiel,Hoppie Rabbit,en-gb,audio-play,stock,feab76bc-fa31-416c-975b-3f640eacfdfb,https://tonies.com/en-gb/tonies/steiff-soft-cuddly-friends-mit-hoerspiel/hoppie-rabbit/,1,0,0,0
 10001798,Steiff Soft Cuddly Friends,steiff-soft-cuddly-friends-mit-hoerspiel,Jimmy Bear,en-gb,audio-play,stock,30fa74a8-268a-47f4-a116-007cde365fd6,https://tonies.com/en-gb/tonies/steiff-soft-cuddly-friends-mit-hoerspiel/jimmy-bear/,1,0,0,0
 10001799,Steiff Soft Cuddly Friends,steiff-soft-cuddly-friends-mit-hoerspiel,Lita Lamb,en-gb,audio-play,stock,60b45f04-2ad0-46b7-8b76-56206a96d60b,https://tonies.com/en-gb/tonies/steiff-soft-cuddly-friends-mit-hoerspiel/lita-lamb/,1,1,1,1
-10001826,LeVar Burton,,,en-us,Tonie,stock,6978548727959,,1,1,1,1
+10001826,LeVar Burton,,,en-us,Creative Tonie,stock,6978548727959,,1,1,1,1
 10001829,Favourite Classics,favourite-classics,A Christmas Carol and other classic stories (2024 edition),en-gb,audio-book,stock,c299efcb-ad6a-415e-a00d-66d8921c2aed,https://tonies.com/en-gb/tonies/favourite-classics/a-christmas-carol-and-other-stories/,1,1,1,1
 10001830,Word Party Presents,,Math!,en-us,Tonie,stock,8007349731479,,1,2,2,1
 10001831,Les Schtroumpfs,les-schtroumpfs,L'Apprenti Schtroumpf Et 2 Autres Histoires,fr-fr,audio-play,stock,146d3f06-02ac-4c55-ac44-c31e2b85fa31,https://tonies.com/fr-fr/tonies/les-schtroumpfs/l-apprenti-schtroumpf-et-2-autres-histoires/,1,1,1,1
@@ -1109,7 +1109,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10002268,Schlummerbande,sleepy-friends,Nachtlicht Tonie - Schlummerschaf,de-de,music,stock,b97900ea-3926-4b41-9856-d971c6038dcd,https://tonies.com/de-de/tonies/schlummerbande/nachtlicht-tonie-schlummerschaf/,1,1,0,0
 10002269,Les Copains Du Dodo,sleepy-friends,Tonie-Veilleuse - Doudou Mouton,fr-fr,music,stock,c8f16056-62bc-4554-b80c-4764ae16e439,https://tonies.com/fr-fr/tonies/les-copains-du-dodo/tonie-veilleuse-doudou-mouton/,1,0,0,0
 10002429,Collections,,Collection Ostern,de-de,audio-play-songs,stock,,,1,0,0,0
-10002570,tonies® x Steiff Jimmy Bear,,,en-us,Accessory,stock,,,1,1,0,0
+10002570,tonies® x Steiff Jimmy Bear Plush,,,en-us,Tonie,stock,7580259451031,,1,1,0,0
 10002571,tonies® x Steiff Hoppie Rabbit,,,en-us,Accessory,stock,,,1,0,0,0
 11000173,Adventskalender,adventskalender,"Wünsch dir was, kleines Rentier - Adventskalender-Weihnachtshörspiel",de-de,audio-play,stock,c0361b0e-7333-4651-b052-ed50e23ad5e5,https://tonies.com/de-de/tonies/adventskalender/wuensch-dir-was-kleines-rentier-adventskalender-weihnachtshrspiel/,1,22,21,2
 11000174,Cocomelon,cocomelon,Getting Ready with JJ,en-gb,music,stock,eac46717-455f-40ac-b193-8ee7f12756be,https://tonies.com/en-gb/tonies/cocomelon/getting-ready-with-jj/,1,0,0,0
@@ -1244,7 +1244,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000446,Favorite Classics,,Alice's Adventures in Wonderland,en-us,Tonie,stock,8984500895895,,1,0,0,0
 11000447,Planet Omar,,Accidental Trouble Magnet,en-us,Tonie,stock,7907850649751,,1,1,0,0
 11000456,Peppa Pig,,My First Album,en-us,Tonie,stock,8258465988759,,1,1,1,1
-11000457,Calm x tonies®,,Calm,en-us,Tonie,stock,7806525866135,,1,1,0,0
+11000457,Calm x tonies®,,Calm,en-us,Creative Tonie,stock,7806525866135,,1,1,0,0
 11000458,Calm,,Calm,en-gb,,stock,d7d0d398-f289-47f3-acff-8e0cb0a47158,https://tonies.com/de-de///,1,0,0,0
 11000460,DC,dc,Batwheels,en-gb,audio-play,stock,f154cffc-351f-4b6e-a3fd-1054185ea6eb,https://tonies.com/en-gb/tonies/dc/batwheels/,1,1,1,1
 11000462,MARVEL Spidey und seine Super-Freunde,marvel-spidey-and-his-amazing-friends,Spidey und seine Super-Freunde - Das Spidey Team & 3 weitere spannende Abenteuer,de-de,audio-play,stock,fb34e8ef-b3e2-4360-b8e2-da048a87df28,https://tonies.com/de-de/tonies/marvel-spidey-and-his-amazing-friends/marvel-spidey-und-seine-super-freunde-das-spidey-team-3-weitere-spannende-abenteuer/,1,1,1,2
@@ -1556,6 +1556,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11002237,Sam's Club Disney Bundle with Red Toniebox,,,en-us,Tonie,stock,8533490204823,,1,0,0,0
 11002266,Vaiana,disney-moana,Vaiana 2,fr-fr,audio-play-songs,stock,5cb6c65c-57b6-4146-8423-6bd722fe68df,https://tonies.com/fr-fr/tonies/disney-vaiana/vaiana-2/,1,0,0,0
 11002272,Ms. Rachel,ms-rachel,Ms. Rachel,en-gb,audio-play-songs,stock,64e6aa9a-084c-4e7a-960e-3a49f3ed94ea,https://tonies.com/en-gb/tonies/ms-rachel/msrachel/,1,0,0,0
+11002400,Julia Donaldson,julia-donaldson,Tiddler,en-gb,audio-book-songs,stock,73edda0b-9cb6-45c2-b8a9-fd883f56d00d,https://tonies.com/en-gb/tonies/julia-donaldson/tiddler/,1,0,0,0
 11002458,BiBiBiber hat da mal 'ne Frage,bibibiber,Sind Dinos wirklich alle tot?,de-de,audio-book-songs,stock,fa630283-363b-4026-bdba-f1da99996c37,https://tonies.com/de-de/clever-tonies/bibibiber/bibibiber-hat-da-mal-ne-frage-sind-dinos-wirklich-alle-tot-mit-mai-thi-nguyen-kim/,1,1,0,0
 11002546,Animal World,animal-world,Wildlife In The Woods,en-gb,audio-play-educational,stock,6ae03e77-c0f1-43ba-bd21-b92c1569ffcd,https://tonies.com/en-gb/clever-tonies/animal-world/wildlife-in-the-woods/,1,0,0,0
 11002550,Bühne frei für...,buehne-frei-fuer,Bühne frei für... - Set,de-de,audio-play,stock,9f700a20-cd87-4d29-ab0c-b690a6d797ed,https://tonies.com/de-de/clever-tonies/buehne-frei-fuer/buhne-frei-fuer-den-koerper-wissen-fuer-kinder/,1,4,0,0
@@ -1594,6 +1595,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11003255,Wieso? Weshalb? Warum? Profiwissen - Set,wieso-weshalb-warum-profiwissen-set,Wieso? Weshalb? Warum? Profiwissen - Set,de-de,audio-play,stock,51735a81-0882-4678-ab73-e08a3562720d,https://tonies.com/de-de/clever-tonies/wieso-weshalb-warum-profiwissen-set/wieso-weshalb-warum-profiwissen-set/,1,4,0,0
 11003613,Enid Blyton,enid-blyton,Five-Minute Stories,en-gb,audio-book,stock,a25475f5-c5d7-4113-bc22-8a5a82ad123f,https://tonies.com/en-gb/book-tonies/enid-blyton/five-minute-stories/,1,0,0,0
 11111111,Coming Soon Tonie 2,,,en-us,Tonie,stock,8416058638487,,1,0,0,0
+123456789,TEST Copy of Disney Encanto,,,en-us,Tonie,stock,9132808765591,,1,0,0,0
 2000000000,Benjamin Blümchen,benjamin-bluemchen,5:0 für Benjamin,de-de,audio-play,tunes,216ab895-8d92-44e7-b3ae-cb085cf5ada7,https://tonies.com/de-de/audio-content/benjamin-bluemchen/50-fur-benjamin/,1,0,0,0
 2000000001,Benjamin Blümchen,benjamin-bluemchen,Abschied von Stella,de-de,audio-play,tunes,984c3380-84e8-4245-beea-5ba84587a9b6,https://tonies.com/de-de/audio-content/benjamin-bluemchen/abschied-von-stella/,1,0,0,0
 2000000002,Benjamin Blümchen,benjamin-bluemchen,Alle meine Freunde,de-de,music,tunes,e4335a48-fab8-449e-b01b-8b44a823f486,https://tonies.com/de-de/audio-content/benjamin-bluemchen/alle-meine-freunde/,1,0,0,0
