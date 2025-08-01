@@ -6,11 +6,11 @@ data:
   episode: ''
   release: ''
   language: ''
-  category: tonies-us-en-us,
+  category: ''
   runtime: ''
   age: ''
   origin: ''
-  image: ''
+  image: tonies-us-en-us,
   sample: ''
   web: ''
   shop-id: ''
