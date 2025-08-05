@@ -14,7 +14,37 @@ data:
   sample: null
   web: null
   shop-id: null
-  track-desc: []
+  track-desc:
+  - Der Schaffner hebt den Stab
+  - Auf der schwäbschen Eisenbahne
+  - Taler, Taler, du musst wandern
+  - Ein Männlein steht im Walde
+  - Zeigt her eure Füße
+  - Zehn kleine Zappelmänner
+  - Dornröschen war ein schönes Kind
+  - Brüderchen, komm tanz mit mir
+  - Auf der Mauer, auf der Lauer
+  - Alle Vögel sind schon da
+  - Fuchs, du hast die Gans gestohlen
+  - Häschen in der Grube
+  - Summ, summ, summ, Bienchen summ herum
+  - Kommt ein Vogel geflogen
+  - O du lieber Augustin
+  - Grün, grün, grün, sind alle meine Kleider
+  - Der Kuckuck und der Esel
+  - Es klappert die Mühle am rauschenden Bach
+  - Wenn ich ein Vöglein wär
+  - Wer will fleißige Handwerker sehen
+  - He ho, spann den Wagen an
+  - Spannenlanger Hansel
+  - Bruder Jakob
+  - Kuckuck, Kuckuck, ruft's aus dem Wald
+  - Die Vogelhochzeit
+  - Hopp, hopp, hopp, Pferdchen lauf Galopp
+  - Hoppe, hoppe Reiter
+  - Hänschen klein
+  - Backe, backe Kuchen
+  - Weißt du wie viel Sternlein stehen
   ids:
   - audio-id: 1684759356
     hash: daa45df1d1c4d17e43344ae275ab593fad68ba4e
