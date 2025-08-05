@@ -1,28 +1,58 @@
-article: '10000143'
+article: "10000143"
 lock-data: false
 data:
-- series: Kinderliederzug
-  series-id: null
-  episode: Bitte alle einsteigen!
-  release: 1567641600
-  language: de-de
-  category: music
-  runtime: 0
-  age: 99
-  origin: stock
-  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000143-98-1008-b-OHyav2rn.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
-  ids:
-  - audio-id: 1684759356
-    hash: daa45df1d1c4d17e43344ae275ab593fad68ba4e
-    size: 49710998
-    tracks: 30
-    confidence: 4
-  - audio-id: 1565696659
-    hash: 85c3670c165e28dbec49f2a7de4c94b4b693e9f5
-    size: 0
-    tracks: 0
-    confidence: 0
+  - series: Kinderliederzug
+    series-id: null
+    episode: Bitte alle einsteigen!
+    release: 1567641600
+    language: de-de
+    category: music
+    runtime: 0
+    age: 99
+    origin: stock
+    image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000143-98-1008-b-OHyav2rn.png
+    sample: null
+    web: null
+    shop-id: null
+    track-desc:
+      - Der Schaffner hebt den Stab
+      - Auf der schwäbschen Eisenbahne
+      - Taler, Taler, du musst wandern
+      - Ein Männlein steht im Walde
+      - Zeigt her eure Füße
+      - Zehn kleine Zappelmänner
+      - Dornröschen war ein schönes Kind
+      - Brüderchen, komm tanz mit mir
+      - Auf der Mauer, auf der Lauer
+      - Alle Vögel sind schon da
+      - Fuchs, du hast die Gans gestohlen
+      - Häschen in der Grube
+      - Summ, summ, summ, Bienchen summ herum
+      - Kommt ein Vogel geflogen
+      - O du lieber Augustin
+      - Grün, grün, grün, sind alle meine Kleider
+      - Der Kuckuck und der Esel
+      - Es klappert die Mühle am rauschenden Bach
+      - Wenn ich ein Vöglein wär
+      - Wer will fleißige Handwerker sehen
+      - He ho, spann den Wagen an
+      - Spannenlanger Hansel
+      - Bruder Jakob
+      - Kuckuck, Kuckuck, ruft's aus dem Wald
+      - Die Vogelhochzeit
+      - Hopp, hopp, hopp, Pferdchen lauf Galopp
+      - Hoppe, hoppe Reiter
+      - Hänschen klein
+      - Backe, backe Kuchen
+      - Weißt du wie viel Sternlein stehen
+    ids:
+      - audio-id: 1684759356
+        hash: daa45df1d1c4d17e43344ae275ab593fad68ba4e
+        size: 49710998
+        tracks: 30
+        confidence: 4
+      - audio-id: 1565696659
+        hash: 85c3670c165e28dbec49f2a7de4c94b4b693e9f5
+        size: 0
+        tracks: 0
+        confidence: 0
