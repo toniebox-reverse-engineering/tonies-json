@@ -3,14 +3,14 @@ lock-data: false
 data:
 - series: Canciones Infantiles Favoritas
   series-id: null
-  episode: Canciones de Cuna Tonie (En Español)
+  episode: Canciones de Cuna en Español
   release: 1641905205
   language: en-us
   category: Tonie
   runtime: 0
   age: 99
   origin: stock
-  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Canciones-de-Cuna-10001154-PLPHero1.png?v=1754053335
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Canciones-de-Cuna-10001154-PLPHero1.png?v=1754503419
   sample: null
   web: null
   shop-id: '7325088809111'
