@@ -21,6 +21,11 @@ data:
   - A Quiet Night In
   - Mr Large in Charge
   ids:
+  - audio-id: 1754576407
+    hash: fc88cb66fc5ac5f1de6ac58327a1fa687501a76c
+    size: 24340748
+    tracks: 5
+    confidence: 1
   - audio-id: 1751459102
     hash: 13c64869554399f5d601a9f1334af5174ac257ff
     size: 19974413
