@@ -14,7 +14,37 @@ data:
   sample: null
   web: null
   shop-id: null
-  track-desc: []
+  track-desc:
+  - Teddybär, Teddybär, dreh dich um
+  - Das Krokodil vom Nil
+  - Mein Hut, der hat drei Ecken
+  - Hände waschen
+  - Wer will fleißige Handwerker sehn
+  - Seht die große Riesenschlange
+  - Es tanzt ein Bi-Ba-Butzemann
+  - Wozu sind die Hände da?
+  - Komm, wir wollen tanzen
+  - Ich bin ein kleiner Esel
+  - Ich bin die kleine Hexe und habe rote Schuhe
+  - Zehn kleine Zappelmänner
+  - Zeigt her eure Füße
+  - Wenn du fröhlich bist
+  - Das ist gerade, das ist schief
+  - Der Apfelbaum
+  - Back, backe Kuchen
+  - Was müssen das für Bäume sein
+  - Jetzt steigt Hampelmann, jetzt steigt Hampelmann
+  - Brüderchen, komm tanz mit mir
+  - Nun sind wir wieder da
+  - Ich bin der kleine Hampelmann
+  - Große Uhren machen tick-tack
+  - Und wer im Januar geboren ist
+  - Auf uns'rer Wiese geht was
+  - Das Tickitackitucki-Häuschen
+  - Ringel, Ringel, Reihe
+  - Aramsamsam
+  - Wie das Fähnchen auf dem Turme
+  - Laurenzia
   ids:
   - audio-id: 1505232981
     hash: 0b5277535ffc20350e0d3379d89b3d9a663835b6
