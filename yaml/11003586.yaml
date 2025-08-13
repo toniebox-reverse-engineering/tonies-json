@@ -1,0 +1,37 @@
+article: '11003586'
+lock-data: false
+data:
+- series: Lieblings-Literatur
+  series-id: lieblings-literatur
+  episode: Eine Weihnachtsgeschichte
+  release: 1757462400
+  language: de-de
+  category: audio-book
+  runtime: 130
+  age: 8
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11003586_1_a-rO_SIFIG.png
+  sample: https://cdn.tonies.de/o/audio_samples/a84bb9447220f4a1918581e6c2c8358465c763238406eac1820f87ca/eine_weihnachtsgeschichte_horprobe.wav
+  web: https://tonies.com/de-de/book-tonies/lieblings-literatur/eine-weihnachtsgeschichte/
+  shop-id: 4ed7d444-e95e-4152-925f-383a75bf6e3d
+  track-desc:
+  - Gestatten Ebenezer Scrooge
+  - Scrooge und Marley 1
+  - Scrooge und Marley 2
+  - Marleys Geist 1
+  - Marleys Geist 2
+  - Der Geist der vergangenen Weihnacht
+  - Der alte und der Junge Scrooge 1
+  - Der alte und der Junge Scrooge 2
+  - Belle
+  - Der Geist der gegenwärtigen Weihnacht
+  - Bei der Familie Cratchit 1
+  - Bei der Familie Cratchit 2
+  - Bei Scrooges Neffen Fred 1
+  - Bei Scrooges Neffen Fred 2
+  - Der Geist der zukünftigen Weihnacht
+  - Ein Leben wird verscherbelt
+  - Eine bittere Zukunft
+  - Ein neuer Mensch 1
+  - Ein neuer Mensch 2
+  ids: []

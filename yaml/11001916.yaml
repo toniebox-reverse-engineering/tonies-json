@@ -1,0 +1,20 @@
+article: '11001916'
+lock-data: false
+data:
+- series: Adventskalender
+  series-id: adventskalender
+  episode: Adventskalender 2025 – Flöckchen und die verschwundenen Weihnachtslichter
+  release: 1757462400
+  language: de-de
+  category: audio-play
+  runtime: 120
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11001916_1_a-momB1SeP.png
+  sample: https://cdn.tonies.de/o/audio_samples/f28cd2f3464ca6323f68ef7164aad4c7572743fa45b22f69bbae2528/audio_sample_flockchen.wav
+  web: https://tonies.com/de-de/tonies/adventskalender/adventskalender-tonie-2025-floeckchen-und-die-verschwundenen-weihnachtslichter/
+  shop-id: 7555b9a9-2216-4a20-8fb5-e2cde5f8be84
+  track-desc:
+  - Flöckchen und die verlorenen Weihnachtslichter Anleitung
+  - Flöckchen und die verlorenen Weihnachtslichter Intro
+  ids: []

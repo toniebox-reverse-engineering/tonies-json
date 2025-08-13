@@ -1,0 +1,19 @@
+article: '11002917'
+lock-data: false
+data:
+- series: Hot Wheels
+  series-id: hot-wheels
+  episode: Hot Wheels
+  release: 1757462400
+  language: de-de
+  category: audio-play
+  runtime: 60
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11002917_1_a-KVIRttyj.png
+  sample: https://cdn.tonies.de/o/audio_samples/dce23409dccb6a57d198bfb92b9d2d8522a7ef2c3ffc10e3f18bfcbd/hoerprobe_11002917_hot_wheels.mp3
+  web: https://tonies.com/de-de/tonies/hot-wheels/hot-wheels/
+  shop-id: b6316d6a-c8ad-4a46-889c-fb7401096655
+  track-desc:
+  - Titelsong
+  ids: []

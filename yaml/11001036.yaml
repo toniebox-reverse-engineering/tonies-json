@@ -1,0 +1,29 @@
+article: '11001036'
+lock-data: false
+data:
+- series: Benjamin Blümchen
+  series-id: benjamin-bluemchen
+  episode: Benjamin als Weihnachtsmann
+  release: 1757462400
+  language: de-de
+  category: audio-play
+  runtime: 38
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11001036_1_a-nVLAmKds.png
+  sample: https://cdn.tonies.de/o/audio_samples/0963dd9182bf82b2bbdce1e3148e55fb9ece47b7532dfe0e00f29ac3/hoerprobe_11003587_benjamin_blumchen_als_weihnachtsmann_1.mp3
+  web: https://tonies.com/de-de/tonies/benjamin-bluemchen/benjamin-als-weihnachtsmann/
+  shop-id: 794e9dfe-a6bc-40f6-8dd2-4de6936e9381
+  track-desc:
+  - 01 Titelsong
+  - 02 Trübe Aussichten
+  - 03 Ein Besuch Im Kaufhaus
+  - 04 Kostümsuche
+  - 05 Der Friedenselefanten Weihnachtsmann
+  - 06 Der Dieb
+  - 07 Die Presse Berichtet
+  - 08 Karlas Spendenaufruf
+  - 09 Die Polizei Hilft
+  - 10 Das Fliegende Giraffenhaus
+  - 11 Weihnachtsfeier Im Zoo
+  ids: []
