@@ -1,0 +1,24 @@
+article: '11001521'
+lock-data: false
+data:
+- series: La Maison De Gabby
+  series-id: gab-dollhouse-us
+  episode: P'tichou
+  release: 0
+  language: fr-fr
+  category: audio-play
+  runtime: 49
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51006403-Tonie_Shado-JDYSkcm8.png
+  sample: https://cdn.tonies.de/o/audio_samples/0ca36b1d1567ebe4277d7f498d97a8277d2c1de15d8f281828c0baa6/gabby_p_tichou_11001521_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/la-maison-de-gabby/ptichou/
+  shop-id: 35757ba0-5b59-4c6d-a8ff-233e256898a6
+  track-desc:
+  - Introduction
+  - Générique
+  - L'arbre à cupcakes
+  - Interlude
+  - Les détectives de la maison magique
+  - Conclusion
+  ids: []

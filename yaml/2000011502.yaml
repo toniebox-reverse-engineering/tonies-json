@@ -1,0 +1,36 @@
+article: '2000011502'
+lock-data: false
+data:
+- series: Die Schlümpfe
+  series-id: die-schluempfe
+  episode: 'Folge 3: Wer ist heftiger?'
+  release: 1753920000
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_a0787621b401fe1ebd0d895aa1ce8ca46229a1d1e8105e2a286dce63/3_fWrqKYbkTk-9Cw2T/the_smurfs_folge_3__wer_ist_heftiger_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-schluempfe/folge-3-wer-ist-heftiger/
+  shop-id: 9f64177f-1478-4417-ad77-a4e2b14aeadb
+  track-desc:
+  - Wer ist heftiger? (Inhaltsangabe)
+  - Driiinnggggg (Teil 1)
+  - Driiinnggggg (Teil 2)
+  - Driiinnggggg (Teil 3)
+  - Driiinnggggg (Teil 4)
+  - Die Sarsaparillafalle (Teil 1)
+  - Die Sarsaparillafalle (Teil 2)
+  - Die Sarsaparillafalle (Teil 3)
+  - Die Sarsaparillafalle (Teil 4)
+  - Der Außerschlumpfige (Teil 1)
+  - Der Außerschlumpfige (Teil 2)
+  - Der Außerschlumpfige (Teil 3)
+  - Der Außerschlumpfige (Teil 4)
+  - Wer ist heftiger? (Teil 1)
+  - Wer ist heftiger? (Teil 2)
+  - Wer ist heftiger? (Teil 3)
+  - Wer ist heftiger? (Teil 4)
+  - Wer ist heftiger? (Outro)
+  ids: []

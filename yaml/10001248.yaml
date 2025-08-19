@@ -2,7 +2,7 @@ article: '10001248'
 lock-data: false
 data:
 - series: L'Heure De La Sieste
-  series-id: l-heure-de-la-sieste
+  series-id: nap-time
   episode: Sons De La Nature
   release: 0
   language: fr-fr

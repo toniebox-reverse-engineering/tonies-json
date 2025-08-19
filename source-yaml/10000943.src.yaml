@@ -2,7 +2,7 @@ article: '10000943'
 lock-data: false
 data:
 - series: ''
-  series-id: tonies-json-en-gb,
+  series-id: ''
   episode: ''
   release: ''
   language: ''
@@ -12,7 +12,7 @@ data:
   origin: ''
   image: ''
   sample: ''
-  web: tonies-json-en-gb,
+  web: ''
   shop-id: ''
-  track-desc: ''
+  track-desc: tonies-json-en-gb,
   ids: []

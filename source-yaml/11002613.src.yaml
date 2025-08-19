@@ -1,0 +1,18 @@
+article: '11002613'
+lock-data: false
+data:
+- series: tonies-json-en-gb,
+  series-id: tonies-json-en-gb,
+  episode: tonies-json-en-gb,
+  release: tonies-json-en-gb,
+  language: tonies-json-en-gb,
+  category: tonies-json-en-gb,
+  runtime: tonies-json-en-gb,
+  age: tonies-json-en-gb,
+  origin: tonies-json-en-gb,
+  image: tonies-json-en-gb,
+  sample: tonies-json-en-gb,
+  web: tonies-json-en-gb,
+  shop-id: tonies-json-en-gb,
+  track-desc: tonies-json-en-gb,
+  ids: []

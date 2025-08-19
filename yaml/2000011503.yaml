@@ -1,0 +1,39 @@
+article: '2000011503'
+lock-data: false
+data:
+- series: Die Schlümpfe
+  series-id: die-schluempfe
+  episode: 'Folge 4: Mein Schlumpf, der Held'
+  release: 1753920000
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_4a9ab9e1f4d8528c2bade71249a84a785fa43f278df9468dfebafb81/3_YJ38bvsjGhZL~YVp/the_smurfs_folge_4__mein_schlumpf_der_held_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-schluempfe/folge-4-mein-schlumpf-der-held/
+  shop-id: 42c6719c-995e-4cb7-b524-9b96153106c5
+  track-desc:
+  - Mein Schlumpf, der Held (Inhaltsangabe)
+  - Vorsicht vor der Katze! (Teil 1)
+  - Vorsicht vor der Katze! (Teil 2)
+  - Vorsicht vor der Katze! (Teil 3)
+  - Vorsicht vor der Katze! (Teil 4)
+  - Vorsicht vor der Katze! (Teil 5)
+  - Eine schlumpfige Maskerade (Teil 1)
+  - Eine schlumpfige Maskerade (Teil 2)
+  - Eine schlumpfige Maskerade (Teil 3)
+  - Eine schlumpfige Maskerade (Teil 4)
+  - Mein Schlumpf, der Held (Teil 1)
+  - Mein Schlumpf, der Held (Teil 2)
+  - Mein Schlumpf, der Held (Teil 3)
+  - Mein Schlumpf, der Held (Teil 4)
+  - Mein Schlumpf, der Held (Teil 5)
+  - Schlumpfige Erziehung (Teil 1)
+  - Schlumpfige Erziehung (Teil 2)
+  - Schlumpfige Erziehung (Teil 3)
+  - Schlumpfige Erziehung (Teil 4)
+  - Schlumpfige Erziehung (Teil 5)
+  - Mein Schlumpf, der Held (Outro)
+  ids: []

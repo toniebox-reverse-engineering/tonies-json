@@ -10,9 +10,9 @@ data:
   runtime: 261
   age: 5
   origin: stock
-  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11003613_1_Landscape-NUt0pFU1.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11003613-UK-Audioboo-smdMwPWY.png
   sample: https://cdn.tonies.de/o/audio_samples/60835c0b6b0ac3f3b958160f9375abbeb9597c613cd6dff645841906/five_minstories_sample.wav
-  web: https://tonies.com/en-gb/tonies/enid-blyton/five-minute-stories/
+  web: https://tonies.com/en-gb/book-tonies/enid-blyton/five-minute-stories/
   shop-id: a25475f5-c5d7-4113-bc22-8a5a82ad123f
   track-desc:
   - STORY - Intro Credits + Eight Times Nine!

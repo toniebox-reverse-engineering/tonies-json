@@ -1,0 +1,35 @@
+article: '11000261'
+lock-data: false
+data:
+- series: Weihnachtsmann & Co. KG
+  series-id: weihnachtsmann-co-kg
+  episode: Die magische Perle & Rudolph ist verschwunden
+  release: 1757462400
+  language: de-de
+  category: audio-play
+  runtime: 55
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11000261_1_a-dv8YNUlC.png
+  sample: https://cdn.tonies.de/o/audio_samples/6c7994b60caac54d3c7a619a1f5372e23c09748ba31f4d95b39447c0/hoerprobe_11000261_weihnachtsmann_und_co_kg_perle.wav
+  web: https://tonies.com/de-de/tonies/weihnachtsmann-co-kg/die-magische-perle-rudolph-ist-verschwunden/
+  shop-id: 319a2333-38f4-4914-a6aa-68e94acf7410
+  track-desc:
+  - Die magische Perle – Teil 1
+  - Die magische Perle – Teil 2
+  - Die magische Perle – Teil 3
+  - Die magische Perle – Teil 4
+  - Die magische Perle – Teil 5
+  - Die magische Perle – Teil 6
+  - Die magische Perle – Teil 7
+  - Die magische Perle – Teil 8
+  - Die magische Perle – Teil 9
+  - Rudolph ist verschwunden – Teil 1
+  - Rudolph ist verschwunden – Teil 2
+  - Rudolph ist verschwunden – Teil 3
+  - Rudolph ist verschwunden – Teil 4
+  - Rudolph ist verschwunden – Teil 5
+  - Rudolph ist verschwunden – Teil 6
+  - Rudolph ist verschwunden – Teil 7
+  - Rudolph ist verschwunden – Teil 8
+  ids: []

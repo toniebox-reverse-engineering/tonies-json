@@ -1,19 +1,19 @@
 article: '10002570'
 lock-data: false
 data:
-- series: tonies® x Steiff Jimmy Bear
+- series: tonies® x Steiff Jimmy Bear Plush
   series-id: null
   episode: null
-  release: 1668556800
+  release: 1668632320
   language: en-us
-  category: Accessory
+  category: Tonie
   runtime: 0
   age: 99
   origin: stock
-  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-jimmybear-transparent.png?v=1668614742
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Jimmy-Bear-10002570-PLPHero1.png?v=1755545476
   sample: null
   web: null
-  shop-id: null
+  shop-id: '7580259451031'
   track-desc: []
   ids:
   - audio-id: 1667476206
