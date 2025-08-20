@@ -24,8 +24,8 @@ data:
   - Der Rückflug
   - Credits
   ids:
-    - audio-id: 1709205834
-      hash: 435f449f5f6a2888c36254383fbfef330adc2867
-      size: 47643881
-      tracks: 8
-      confidence: 0
+  - audio-id: 1709205834
+    hash: 435f449f5f6a2888c36254383fbfef330adc2867
+    size: 47643881
+    tracks: 8
+    confidence: 0
