@@ -2,7 +2,7 @@ article: '2000011523'
 lock-data: false
 data:
 - series: Folge 4
-  series-id: null
+  series-id: heavysaurus
   episode: Die Hexenmeister des Metal
   release: 1755216000
   language: de-de
@@ -10,7 +10,7 @@ data:
   runtime: 0
   age: 3
   origin: tunes
-  image: null
+  image: https://cdn.tonies.de/o/images/1_0406787912c40b705879e0ff4dd74e229cb481ea42bf04014010b54f/3_3MZF1_5-qjb37_t~/heavysaurus_folge_4__die_hexenmeister_des_metal_530x530.jpg
   sample: null
   web: https://tonies.com/de-de/audio-content/folge-4-die-hexenmeister-des-metal/
   shop-id: 608c35d3-7582-4b20-8d23-10ff0a609a4b
