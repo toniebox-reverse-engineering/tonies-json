@@ -15,6 +15,7 @@ data:
   web: https://tonies.com/en-gb/clever-tonies/today-with-tonies/today-with-tonies/
   shop-id: a742a774-63b0-450f-8303-6552b3c99bc9
   track-desc:
+  - Friday 22nd August
   - Thursday 21st August
   - Wednesday 20th August
   - Tuesday 19th August
@@ -28,7 +29,6 @@ data:
   - Monday 11th August
   - Sunday 10th August
   - Saturday 9th August
-  - Friday 8th August
   - Today With Tonies Jingle
   ids:
   - audio-id: 1755731102
