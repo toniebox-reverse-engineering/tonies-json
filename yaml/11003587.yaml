@@ -11,7 +11,7 @@ data:
   age: 9
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/DACH11003587_1_a-VwZrt1Ld.png
-  sample: https://cdn.tonies.de/o/audio_samples/07b6995a0f4bcff85227e9901314f5317976abc2383f8cc25ffc14b3/01_ein_madchen_namens_willow.wav
+  sample: https://cdn.tonies.de/o/audio_samples/e87312fb280ea80eadb5c1fad7eb1f96c3ac89cbc3e9f9a17e07d5ac/hoerprobe_11003587_ein_madchen_namens_willow.mp3
   web: https://tonies.com/de-de/book-tonies/ein-maedchen-namens-willow/ein-maedchen-namens-willow/
   shop-id: 9a3ccd70-9b3a-44f9-a1bb-507122f343d5
   track-desc:
