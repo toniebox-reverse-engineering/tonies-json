@@ -8,7 +8,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 01-0006,Maus,maus,(M)auserlesene Lieder,de-de,music,stock,40c54e57-495c-4134-a8f7-b3e660ca99d6,https://tonies.com/de-de/tonies/maus/mauserlesene-lieder-1/,1,1,1,4
 01-0007,Das Sams,das-sams,Eine Woche voller Samstage,de-de,audio-play,stock,233fa707-b983-4440-bad5-72af0d00ebaa,https://tonies.com/de-de/tonies/das-sams/eine-woche-voller-samstage/,1,1,1,3
 01-0008,Das Sams,,Am Samstag kam das Sams zurück,de-de,audio-play,stock,,,1,1,1,2
-01-0009,Bobo Siebenschläfer,bobo-siebenschlafer,Bobos Ausflug zum Spielplatz,de-de,audio-play,stock,82cdeab9-b995-4e52-a555-032c216d4c48,https://tonies.com/de-de/tonies/bobo-siebenschlaefer/bobos-ausflug-zum-spielplatz/,1,1,1,1
+01-0009,Bobo Siebenschläfer,bobo-siebenschlafer,Bobos Ausflug zum Spielplatz,de-de,audio-play,stock,82cdeab9-b995-4e52-a555-032c216d4c48,https://tonies.com/de-de/tonies/bobo-siebenschlaefer/bobos-ausflug-zum-spielplatz/,1,1,1,2
 01-0010,Conni,,Conni kommt in den Kindergarten / Conni macht das Seepferdchen,de-de,audio-play,stock,,,1,1,1,2
 01-0011,Conni,,Conni auf dem Bauernhof / Conni und das neue Baby,de-de,audio-play,stock,,,1,1,1,2
 01-0012,Bibi Blocksberg,bibi-blocksberg,Hexen gibt es doch,de-de,audio-play,stock,605e7271-1678-45d8-954f-92e31e5368db,https://tonies.com/de-de/tonies/bibi-blocksberg/hexen-gibt-es-doch/,1,1,1,4
@@ -60,7 +60,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 01-0082,Der kleine Prinz,der-kleine-prinz,Der Kleine Prinz,de-de,audio-book,stock,a53b946d-3ca6-4089-a228-d3dce7576dd7,https://tonies.com/de-de/tonies/der-kleine-prinz/der-kleine-prinz/,1,1,1,2
 01-0083,Leo Lausemaus,leo-lausemaus,Das Original-Hörspiel zu den Büchern 1,de-de,audio-play,stock,13cc2e52-6381-4d76-b82b-7531cbef8593,https://tonies.com/de-de/tonies/leo-lausemaus/leo-lausemaus-das-original-hoerspiel-zu-den-buechern-1/,1,1,1,2
 01-0084,Yakari,yakari,Best of Yakari,de-de,audio-play,stock,92767d36-29f3-4d98-9098-0bcc59c2833c,https://tonies.com/de-de/tonies/yakari/best-of-yakari/,1,1,1,5
-01-0095,Die Eule mit der Beule,die-eule-mit-der-beule,Die kleine Eule feiert Weihnachten,de-de,audio-book-songs,stock,87bac7da-898a-4cce-a73d-291df7a32a74,https://tonies.com/de-de/tonies/die-eule-mit-der-beule/die-kleine-eule-feiert-weihnachten/,1,1,1,3
+01-0095,Die Eule mit der Beule,die-eule-mit-der-beule,Die kleine Eule feiert Weihnachten,de-de,audio-book-songs,stock,87bac7da-898a-4cce-a73d-291df7a32a74,https://tonies.com/de-de/tonies/die-eule-mit-der-beule/die-kleine-eule-feiert-weihnachten/,1,1,1,4
 01-0097,Die Sendung mit dem Elefanten,,Schlaf schön!,de-de,audio-book-songs,stock,,,1,2,1,4
 01-0098,Die Eule mit der Beule,die-eule-mit-der-beule,Die Eule mit der Beule,de-de,audio-book-songs,stock,2246fa6e-97e9-4ff9-b614-a7b1b475d0c7,https://tonies.com/de-de/tonies/die-eule-mit-der-beule/die-eule-mit-der-beule/,1,2,1,4
 01-0100,Die Schule der magischen Tiere,die-schule-der-magischen-tiere,Die Schule der magischen Tiere,de-de,audio-play,stock,6ae8edb5-c885-4836-a7f8-9e15a271ce2a,https://tonies.com/de-de/tonies/die-schule-der-magischen-tiere/die-schule-der-magischen-tiere/,1,2,1,2
@@ -275,7 +275,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000304,Rolf Zuckowski,rolf-zuckowski,In der Weihnachtsbäckerei,de-de,music,stock,b66d7654-2b23-4ad9-9a34-ab2a70255425,https://tonies.com/de-de/tonies/rolf-zuckowski/in-der-weihnachtsbaeckerei/,1,1,1,3
 10000320,PAW Patrol,paw-patrol,Die Rettung der Meeresschildkröten,de-de,audio-play,stock,90120294-6d78-43be-a7af-8c2fa9d6a6ac,https://tonies.com/de-de/tonies/paw-patrol/die-rettung-der-meeresschildkroeten/,1,8,7,4
 10000330,Kreativ-Tonie,,Borussia Dortmund,de-de,creative-tonie,stock,,,1,1,0,0
-10000331,Miffy,miffy,Miffy,de-de,audio-play,stock,fe4f8dff-c33c-4650-b6ba-ee1298a6c4dc,https://tonies.com/de-de/tonies/miffy/miffy/,1,1,1,1
+10000331,Miffy,miffy,Miffy,de-de,audio-play,stock,fe4f8dff-c33c-4650-b6ba-ee1298a6c4dc,https://tonies.com/de-de/tonies/miffy/miffy/,1,1,1,2
 10000332,Kreativ-Tonie,,Fortuna Düsseldorf,de-de,creative-tonie,stock,,,1,1,0,0
 10000333,Beethoven für Kids,beethoven-fuer-kids,Beethoven für Kids - Gelesen von Daniel Hope,de-de,audio-book,stock,06898a62-c71e-434f-8fdd-1c7da29aacd1,https://tonies.com/de-de/tonies/beethoven-fuer-kids/gelesen-von-daniel-hope/,1,1,1,3
 10000334,Winnie Puuh,disney-winnie-the-pooh,Winnie Puuh auf großer Reise,de-de,audio-play,stock,10be7d65-cf26-40c4-a786-787a75e1a2ff,https://tonies.com/de-de/tonies/disney-winnie-puuh/winnie-puuh-auf-grosser-reise/,1,1,1,2
@@ -389,7 +389,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000991,Disney,disney,Toy Story 2,de-de,audio-play,stock,8222b0f3-31bf-4a31-9619-6a716a1b9c2b,https://tonies.com/de-de/tonies/disney/toy-story-2/,1,2,1,1
 10000992,Schlummerbande,sleepy-friends,Einschlafmelodien - Schlummerschaf im Zauberwald,de-de,music,stock,6e520ab0-9ebb-4c73-bf0d-7633d935d37a,https://tonies.com/de-de/tonies/schlummerbande/einschlafmelodien-schlummerschaf-im-zauberwald/,1,1,1,1
 10000993,PAW Patrol,paw-patrol,Der Delfin-Freund,de-de,audio-play,stock,65972121-405a-4060-a99b-56a2511db3c5,https://tonies.com/de-de/tonies/paw-patrol/der-delfin-freund/,1,1,1,4
-10000994,Lotta,lotta,"Na klar, Lotta kann Rad fahren und zwei weitere Geschichten",de-de,audio-book,stock,162a9bb1-38f5-4bbe-8f5a-758d88eb7ed0,https://tonies.com/de-de/tonies/lotta/na-klar-lotta-kann-radfahren-lotta-zieht-um/,1,1,1,3
+10000994,Lotta,lotta,"Na klar, Lotta kann Rad fahren und zwei weitere Geschichten",de-de,audio-book,stock,162a9bb1-38f5-4bbe-8f5a-758d88eb7ed0,https://tonies.com/de-de/tonies/lotta/na-klar-lotta-kann-radfahren-lotta-zieht-um/,1,1,1,4
 10000995,Unter meinem Bett,unter-meinem-bett,Unter meinem Bett 6,de-de,music,stock,3585ab2c-9d57-4ff9-b14f-d20576e38036,https://tonies.com/de-de/tonies/unter-meinem-bett/unter-meinem-bett-6/,1,1,1,2
 10000996,Die Eiskönigin – Olaf taut auf,disney-olafs-frozen-adventure,Die Eiskönigin - Olaf taut auf,de-de,audio-play-songs,stock,d0a7b819-a62f-4f3d-af32-667928493674,https://tonies.com/de-de/tonies/disney-die-eiskoenigin-olaf-taut-auf/die-eiskoenigin-olaf-taut-auf/,1,1,1,3
 10000997,Peppa Pig,peppa-pig-2,Die schönsten Geschichten von Schorsch,de-de,audio-play,stock,5145595b-fe7f-4fc7-b465-931285fd0c67,https://tonies.com/de-de/tonies/peppa-pig/die-schoensten-geschichten-von-schorsch/,1,1,0,0
@@ -488,7 +488,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10002020,Conni,conni,Conni kommt in den Kindergarten/ Conni geht aufs Töpfchen,de-de,audio-play,stock,7ae5f5da-fd73-4fa1-b365-3a360a85b515,https://tonies.com/de-de/tonies/conni/conni-kommt-in-den-kindergarten-conni-geht-aufs-toepfchen/,1,1,1,2
 10002021,Conni,conni,Conni auf dem Bauernhof / Conni und das neue Baby (Neuauflage 2023),de-de,audio-play,stock,b5e1d298-54cb-4380-b104-28d14117e847,https://tonies.com/de-de/tonies/conni/conni-auf-dem-bauernhof-conni-und-das-neue-baby/,1,1,1,1
 10002022,Conni,conni,Conni backt Pizza / Conni lernt Rad fahren,de-de,audio-play,stock,bf2b0a26-c326-43c0-ad60-1d476e3cfb69,https://tonies.com/de-de/tonies/conni/conni-backt-pizza-conni-lernt-rad-fahren/,1,0,0,0
-10002023,Secret Science Club,secret-science-club,"Secret Science Club: Abwehrstark - Rund um Viren, Abwehrkräfte und Immunhelfer! mit Özlem & Ugur",de-de,audio-play,stock,78ad5a7d-5960-4000-9234-1544289da82f,https://tonies.com/de-de/tonies/secret-science-club/secret-science-club-abwehrstark/,1,1,0,0
+10002023,Secret Science Club,secret-science-club,"Secret Science Club: Abwehrstark - Rund um Viren, Abwehrkräfte und Immunhelfer! mit Özlem & Ugur",de-de,audio-play,stock,78ad5a7d-5960-4000-9234-1544289da82f,https://tonies.com/de-de/tonies/secret-science-club/secret-science-club-abwehrstark/,1,1,1,1
 10002027,Steiff Soft Cuddly Friends,steiff-soft-cuddly-friends,Joshi T-Rex,de-de,audio-play,stock,edbf9f65-7f52-476a-9529-9a2b022cd903,https://tonies.com/de-de/tonies/steiff-soft-cuddly-friends/joshi-t-rex/,1,1,1,3
 10002028,Steiff Soft Cuddly Friends,steiff-soft-cuddly-friends,Unica Einhorn,de-de,audio-play,stock,a5f0076f-21f4-4ca4-8e26-3ad1f03aefd9,https://tonies.com/de-de/tonies/steiff-soft-cuddly-friends/unica-einhorn/,1,1,1,2
 10002083,Steiff Soft Cuddly Friends,steiff-soft-cuddly-friends,Ben Teddybär Hörspiel,de-de,audio-play-songs,stock,3e838a04-fd8e-4c01-98a7-31ecf78282d2,https://tonies.com/de-de/tonies/steiff-soft-cuddly-friends/ben-teddybaer-horspiel/,1,1,1,1
@@ -614,7 +614,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11001763,Schlummerbande,sleepy-friends,Nachtlicht Tonie - Schlummerhase,de-de,music,stock,54b11941-5e27-4229-b835-19c7a3337278,https://tonies.com/de-de/tonies/schlummerbande/nachtlicht-tonie-schlummerhase/,1,1,0,0
 11001782,Gabby's Dollhouse,gab-dollhouse-us,Der Cupcake-Baum / Die Puppenhausdetektive,de-de,audio-play,stock,0c8142f6-8078-46a8-a015-d21c11525cbe,https://tonies.com/de-de/tonies/gabby-s-dollhouse/kuchi/,1,1,0,0
 11001833,Gabby's Dollhouse,gab-dollhouse-us,Eröffnungsfeier im Puppenhaus / Kitty Fees Übernachtungsparty,de-de,audio-play,stock,a63ea71b-23ef-4e97-8e1a-535187c7b640,https://tonies.com/de-de/tonies/gabby-s-dollhouse/kitty-fee/,1,1,0,0
-11001834,Cocomelon,cocomelon,Raus in die Welt mit JJ,de-de,music,stock,ec1ab74e-d820-4abc-be01-1a71d504c30c,https://tonies.com/de-de/tonies/cocomelon/raus-in-die-welt-mit-jj/,1,2,0,0
+11001834,Cocomelon,cocomelon,Raus in die Welt mit JJ,de-de,music,stock,ec1ab74e-d820-4abc-be01-1a71d504c30c,https://tonies.com/de-de/tonies/cocomelon/raus-in-die-welt-mit-jj/,1,2,1,1
 11001861,Der kleine Prinz,the-little-prince,Der kleine Prinz (Neuauflage 2025),de-de,audio-book,stock,119af1a4-2df3-4b86-8d2e-5f290fe5c2ef,https://tonies.com/de-de/tonies/der-kleine-prinz/der-kleine-prinz-hoerbuch-neuauflage/,1,1,0,0
 11001873,Bewegungsgeschichten mit Affe Marty,bewegungsgeschichten-mit-affe-marty,Bewegungsgeschichten mit Affe Marty - Mit lustigen Übungen zum Mitspielen,de-de,audio-play,stock,cf4592a9-9951-48f9-a90e-cae42f28e3df,https://tonies.com/de-de/tonies/bewegungsgeschichten-mit-affe-marty/bewegungsgeschichten-mit-affe-marty-mit-lustigen-uebungen-zum-mitspielen/,1,1,0,0
 11001876,Positives Denken mit Elefant Greta,positives-denken-mit-elefant-greta,Positives Denken mit Elefant Greta - Geschichten für mehr Selbstsicherheit und Achtsamkeit,de-de,audio-play,stock,342314ac-b439-4aae-86e6-e47c594cf151,https://tonies.com/de-de/tonies/positives-denken-mit-elefant-greta/positives-denken-mit-elefant-greta-selbstsicherheit-achtsamkeit-affirmationen-fuer-kinder/,1,1,0,0

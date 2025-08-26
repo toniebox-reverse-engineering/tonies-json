@@ -183,7 +183,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001343,Giraffes Can't Dance,,,en-us,Tonie,stock,7806566563991,,1,2,2,1
 10001344,DC,,Wonder Woman,en-us,Tonie,stock,8032004931735,,1,1,1,2
 10001345,Sleepy Sheep,,Lullabies From the Sleepy Meadow,en-us,Tonie,stock,7912828469399,,1,1,1,1
-10001358,Disney,,The Nightmare Before Christmas,en-us,Tonie,stock,8985752076439,,1,0,0,0
+10001358,Disney,,The Nightmare Before Christmas,en-us,Tonie,stock,8985752076439,,1,1,1,1
 10001359,Favorite Tales,,Spooky Tales,en-us,Tonie,stock,8041066004631,,1,3,2,1
 10001366,GoNoodle x tonies® Mindfulness,,,en-us,Creative Tonie,stock,6664641773719,,1,1,0,0
 10001514,Smokey Bear,,,en-us,Tonie,stock,7953347510423,,1,2,2,1
@@ -230,9 +230,9 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000200,Potty Training,,,en-us,Tonie,stock,8134364266647,,1,3,3,1
 11000202,Disney,,Encanto,en-us,Tonie,stock,7988035354775,,1,1,1,2
 11000203,Favorite Children's Songs,,Bugs!,en-us,Tonie,stock,8220603252887,,1,0,0,1
-11000211,Animal Adventures,,"Barry, Buddy & Swansea Jack",en-us,Tonie,stock,8899367567511,,1,0,0,0
+11000211,Animal Adventures,,"Barry, Buddy & Swansea Jack",en-us,Tonie,stock,8899367567511,,1,1,1,1
 11000212,Favorite Myths,,Egyptian Mythology,en-us,Tonie,stock,8041065250967,,1,4,3,1
-11000213,Animal Adventures,,Balto & Togo,en-us,Tonie,stock,8614594379927,,1,0,0,0
+11000213,Animal Adventures,,Balto & Togo,en-us,Tonie,stock,8614594379927,,1,1,1,1
 11000214,Favorite Classics,,The Velveteen Rabbit,en-us,Tonie,stock,8072085471383,,1,2,2,1
 11000215,Favorite Myths,,Greek Mythology,en-us,Tonie,stock,8041065513111,,1,3,2,1
 11000217,Calm x tonies®,,Cap'n Dreambeard,en-us,Tonie,stock,7926749724823,,1,1,1,1
@@ -250,7 +250,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000264,Carmen Sandiego,,,en-us,Tonie,stock,8134562775191,,1,1,1,1
 11000265,King of Kindergarten,,,en-us,Tonie,stock,8260127948951,,1,0,0,1
 11000266,PAW Patrol,,Tracker,en-us,Tonie,stock,8081283317911,,1,2,2,1
-11000270,National Geographic Kids,,Elephants,en-us,Tonie,stock,8899577741463,,1,0,0,0
+11000270,National Geographic Kids,,Elephants,en-us,Tonie,stock,8899577741463,,1,1,1,1
 11000271,National Geographic Kids,,Amazon Rainforest,en-us,Tonie,stock,8614612205719,,1,1,1,1
 11000358,Marvel's Spidey and His Amazing Friends,,Ghost-Spider,en-us,Tonie,stock,8072395915415,,1,2,1,2
 11000359,Marvel's Spidey and His Amazing Friends,,Spin,en-us,Tonie,stock,8072395817111,,1,2,1,2
@@ -258,7 +258,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000405,Make Way for Ducklings,,,en-us,Tonie,stock,8134567002263,,1,0,0,0
 11000441,National Geographic Kids,,Octopus,en-us,Tonie,stock,8143490941079,,1,1,1,1
 11000445,Octonauts,,Peso,en-us,Tonie,stock,8031548899479,,1,0,0,0
-11000446,Favorite Classics,,Alice's Adventures in Wonderland,en-us,Tonie,stock,8984500895895,,1,0,0,0
+11000446,Favorite Classics,,Alice's Adventures in Wonderland,en-us,Tonie,stock,8984500895895,,1,1,1,1
 11000447,Planet Omar,,Accidental Trouble Magnet,en-us,Tonie,stock,7907850649751,,1,1,0,0
 11000456,Peppa Pig,,My First Album,en-us,Tonie,stock,8258465988759,,1,1,1,1
 11000457,Calm x tonies®,,Calm,en-us,Creative Tonie,stock,7806525866135,,1,1,0,0
@@ -266,8 +266,8 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000476,Alma and How She Got Her Name,,,en-us,Tonie,stock,8517907742871,,1,1,1,1
 11000479,PAW Patrol,,Liberty,en-us,Tonie,stock,8041408004247,,1,3,3,2
 11000480,Pretzel and the Puppies,,,en-us,Tonie,stock,8143490810007,,1,2,2,1
-11000482,Moshi,,SleepyPaws,en-us,Tonie,stock,8984506106007,,1,0,0,0
-11000483,Moshi,,Fluttercup,en-us,Tonie,stock,8984508006551,,1,0,0,0
+11000482,Moshi,,SleepyPaws,en-us,Tonie,stock,8984506106007,,1,1,1,1
+11000483,Moshi,,Fluttercup,en-us,Tonie,stock,8984508006551,,1,1,1,1
 11000484,Disney & Pixar,,Inside Out,en-us,Tonie,stock,8472681840791,,1,1,1,1
 11000499,Piney,,The Lonesome Pine,en-us,Tonie,stock,8225978941591,,1,1,1,1
 11000526,Disney,,Wish,en-us,Tonie,stock,8124400664727,,1,2,2,2
@@ -283,14 +283,14 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000567,Wow in the World,,Reggie,en-us,Tonie,stock,8260132044951,,1,1,1,1
 11000568,Lunar New Year,,,en-us,Tonie,stock,8614600212631,,1,1,1,1
 11000574,Creative-Tonie,,Mermaid,en-us,creative-tonie,stock,8134563692695,,1,0,0,0
-11000611,Lalalinos,,Cosmo - Bumbaloo Beats,en-us,Tonie,stock,8753159831703,,1,0,0,0
+11000611,Lalalinos,,Cosmo - Bumbaloo Beats,en-us,Tonie,stock,8753159831703,,1,1,1,1
 11000613,Lalalinos,,Scout - Move and Groove in Bumbaloo,en-us,Tonie,stock,8614794625175,,1,2,2,1
 11000617,Lalalinos,,Akio - The Best Band in Bumbaloo,en-us,Tonie,stock,8623894954135,,1,2,2,1
-11000639,Duck & Goose,,,en-us,Tonie,stock,8984950210711,,1,0,0,0
+11000639,Duck & Goose,,,en-us,Tonie,stock,8984950210711,,1,1,1,1
 11000645,PAW Patrol Jungle Pups,,Chase,en-us,Tonie,stock,8258466644119,,1,1,1,1
 11000646,PAW Patrol Jungle Pups,,Marshall,en-us,Tonie,stock,8258467790999,,1,1,1,1
 11000647,PAW Patrol Jungle Pups,,Skye,en-us,Tonie,stock,8473934659735,,1,1,1,1
-11000651,Story Pirates,,,en-us,Tonie,stock,8961020100759,,1,0,0,0
+11000651,Story Pirates,,,en-us,Tonie,stock,8961020100759,,1,0,0,1
 11000704,Disney & Pixar,,Ratatouille,en-us,Tonie,stock,8614614433943,,1,2,2,1
 11000708,Clever Tonies Set,,Marine Life,en-us,Tonie,stock,8076775293079,,1,20,20,4
 11000709,Clever Tonies Set,,Kid Comedy,en-us,Tonie,stock,8076776112279,,1,17,17,4
@@ -312,20 +312,20 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000859,Clever Tonies Set,,Cool Jobs,en-us,Tonie,stock,8134563299479,,1,4,4,4
 11000881,Clever Tonies Set,,Animal World: Record Breakers,en-us,Tonie,stock,8134563168407,,1,13,13,4
 11000886,Clever Tonies Set,,Cool Jobs,en-us,Tonie,stock,8134563299479,,1,0,0,0
-11001086,Canticos,,,en-us,Tonie,stock,8921888882839,,1,0,0,0
-11001170,Elephant & Piggie,,,en-us,Tonie,stock,8911599468695,,1,0,0,0
-11001242,Disney,,Moana 2: Simea,en-us,Tonie,stock,8757194457239,,1,0,0,0
-11001267,Gabby's Dollhouse,,Cakey Cat,en-us,Tonie,stock,9000607350935,,1,0,0,0
+11001086,Canticos,,,en-us,Tonie,stock,8921888882839,,1,1,1,1
+11001170,Elephant & Piggie,,,en-us,Tonie,stock,8911599468695,,1,1,1,1
+11001242,Disney,,Moana 2: Simea,en-us,Tonie,stock,8757194457239,,1,1,1,1
+11001267,Gabby's Dollhouse,,Cakey Cat,en-us,Tonie,stock,9000607350935,,1,1,1,1
 11001268,Gabby's Dollhouse,,Kitty Fairy,en-us,Tonie,stock,9128606302359,,1,0,0,0
-11001276,Qai Qai,,Invisible Universe,en-us,Tonie,stock,8961040810135,,1,0,0,0
+11001276,Qai Qai,,Invisible Universe,en-us,Tonie,stock,8961040810135,,1,1,1,1
 11001285,Sleepy Sheep,,Lullabies from the Meadow,en-us,Tonie,stock,8539707605143,,1,2,2,1
-11001330,Sleepy Octopus,,Bedtime Story from the Ocean,en-us,Tonie,stock,8756375290007,,1,0,0,0
-11001344,Ms. Rachel,,,en-us,Tonie,stock,8988405661847,,1,0,0,0
-11001348,Sleepy Whale,,Lullabies from the Ocean,en-us,Tonie,stock,8740305895575,,1,0,0,0
+11001330,Sleepy Octopus,,Bedtime Story from the Ocean,en-us,Tonie,stock,8756375290007,,1,1,1,1
+11001344,Ms. Rachel,,,en-us,Tonie,stock,8988405661847,,1,0,0,1
+11001348,Sleepy Whale,,Lullabies from the Ocean,en-us,Tonie,stock,8740305895575,,1,1,1,1
 11001363,Disney & Pixar,,Finding Dory,en-us,Tonie,stock,8517893259415,,1,1,1,1
 11001510,Jurassic World,,Camp Cretaceous,en-us,Tonie,stock,8562972393623,,1,1,1,1
-11001621,Sleepy Penguin,,White Noise from the Ocean,en-us,Tonie,stock,8756368703639,,1,0,0,0
-11001781,Cocomelon,,Cody,en-us,Tonie,stock,8961124434071,,1,0,0,0
+11001621,Sleepy Penguin,,White Noise from the Ocean,en-us,Tonie,stock,8756368703639,,1,1,1,1
+11001781,Cocomelon,,Cody,en-us,Tonie,stock,8961124434071,,1,1,1,1
 11001851,Disney,,"Bundle with Tigger, Woody & Stitch - Red",en-us,Tonie,stock,8481763459223,,1,0,0,0
 11001852,Disney,,"Bundle with Belle, Cinderella & Ariel - Pink",en-us,Tonie,stock,8482426847383,,1,0,0,0
 11001863,Disney,,Moana: Un Mar de Aventuras Tonie (en Español),en-us,Tonie,stock,8565784838295,,1,1,1,1
@@ -333,8 +333,8 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11001865,Disney,,Enredados Tonie (en Español),en-us,Tonie,stock,8537910837399,,1,1,1,1
 11001866,Disney,,La Sirenita Tonie (en Español),en-us,Tonie,stock,8517937987735,,1,1,1,1
 11001867,Disney,,El Rey León Tonie (en Español),en-us,Tonie,stock,8537910968471,,1,1,1,1
-11001870,Mindfulness,,Movement with Marty the Monkey,en-us,Tonie,stock,8985771770007,,1,0,0,0
-11001874,Mindfulness,,Affirmations with Greta the Elephant,en-us,Tonie,stock,8985769050263,,1,0,0,0
+11001870,Mindfulness,,Movement with Marty the Monkey,en-us,Tonie,stock,8985771770007,,1,0,0,1
+11001874,Mindfulness,,Affirmations with Greta the Elephant,en-us,Tonie,stock,8985769050263,,1,1,1,1
 11001878,Disney & Pixar,,Toy Story: Woody Tonie (en Español),en-us,Tonie,stock,8565943992471,,1,1,1,1
 11002140,Potty Training,,,en-us,Tonie,stock,8134364266647,,1,0,0,0
 11002237,Sam's Club Disney Bundle with Red Toniebox,,,en-us,Tonie,stock,8533490204823,,1,0,0,0
