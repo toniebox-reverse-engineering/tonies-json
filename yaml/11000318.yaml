@@ -22,4 +22,9 @@ data:
   - Le thé
   - Les fruits confits
   - Le départ
-  ids: []
+  ids:
+  - audio-id: 1714404303
+    hash: a504ba11b86271ddfd87a835321ff70b801ee2b1
+    size: 44015042
+    tracks: 7
+    confidence: 1

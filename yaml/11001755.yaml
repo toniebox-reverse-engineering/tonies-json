@@ -20,4 +20,9 @@ data:
   - 'GAME: The Tabby McTat Game'
   - 'MUSIC: Tabby McTat Instrumental'
   - 'READALONG: Tabby McTat Readalong'
-  ids: []
+  ids:
+  - audio-id: 1745407680
+    hash: 847a352572acd5bf70e1bb71b49f5f1846b0eedd
+    size: 27644387
+    tracks: 5
+    confidence: 1

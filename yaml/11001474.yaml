@@ -1,0 +1,38 @@
+article: '11001474'
+lock-data: false
+data:
+- series: null
+  series-id: null
+  episode: null
+  release: 0
+  language: null
+  category: null
+  runtime: 0
+  age: 99
+  origin: null
+  image: null
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1741896728
+    hash: abb12af11b2847e39ee5b5a4f2ffaeecfa6276f3
+    size: 19096021
+    tracks: 6
+    confidence: 1
+  - audio-id: 1741896395
+    hash: 38c8627646f63af35262469f6242a087e08e25c9
+    size: 20942096
+    tracks: 6
+    confidence: 1
+  - audio-id: 1741895731
+    hash: d1489783d44b65f431ba4584f666caaacb7f4fa4
+    size: 21242440
+    tracks: 6
+    confidence: 1
+  - audio-id: 1741895407
+    hash: 82bf3ed6011ad3889b55163a172dbe08710cd918
+    size: 20419998
+    tracks: 6
+    confidence: 1

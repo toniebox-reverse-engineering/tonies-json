@@ -28,4 +28,9 @@ data:
   - 'CHAPTER 11: Awful For Animals'
   - 'CHAPTER 12: Crime Time'
   - 'CHAPTER 13: Dying For A Poem'
-  ids: []
+  ids:
+  - audio-id: 1746009617
+    hash: a031bc3f33052d29d32a13f83155386daa02c6e7
+    size: 49156819
+    tracks: 13
+    confidence: 1
