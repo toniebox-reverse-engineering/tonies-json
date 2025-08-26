@@ -11,6 +11,9 @@ on:
   push:
     branches:
       - master
+  pull_request:
+    branches:
+      - master
 permissions:
   contents: write
 concurrency:
@@ -67,14 +70,21 @@ jobs:
       - name: Run yaml2tonies-json.py
         run: |
           cd tonies-json-tools
-          ./yaml2tonies-json.py
+          if [[ "${{ github.event_name }}" == "pull_request" ]]; then
+            echo "Running in simulate mode for PR validation..."
+            ./yaml2tonies-json.py --simulate
+          else
+            ./yaml2tonies-json.py
+          fi
           
       - name: Run stats.py
+        if: github.event_name != 'pull_request'
         run: |
           cd tonies-json-tools
           ./stats.py
 
       - name: Check if files exist
+        if: github.event_name != 'pull_request'
         run: |
           cd tonies-json-release
           if [ -f "tonies.json" ] && [ -f "toniesV2.json" ]; then
@@ -85,11 +95,13 @@ jobs:
           fi
           
       - name: Configure Git
+        if: github.event_name != 'pull_request'
         run: |
           git config --global user.email "scilor@users.noreply.github.com"
           git config --global user.name "SciLor"
 
       - name: Commit and push if changed
+        if: github.event_name != 'pull_request'
         run: |
           cd tonies-json-release
           if [[ -n $(git status --porcelain) ]]; then
