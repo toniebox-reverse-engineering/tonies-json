@@ -577,7 +577,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000748,Nap Time,,White Noise,en-us,Tonie,stock,6220652150935,,1,1,1,0
 10000749,Llama Llama,,,en-us,Tonie,stock,7173642748055,,1,2,2,0
 10000750,Llama Llama,,Mama Llama,en-us,Tonie,stock,7173645959319,,1,3,3,0
-10000752,Roald Dahl,,Matilda,en-us,Tonie,stock,7685476876439,,1,2,2,0
+10000752,Roald Dahl,,Matilda,en-us,Tonie,stock,7685476876439,,1,3,2,0
 10000753,Roald Dahl,,The Witches,en-us,Tonie,stock,7768863015063,,1,3,3,0
 10000755,Nap Time,,Nature Sounds,en-us,Tonie,stock,6220646252695,,1,1,1,0
 10000768,Disney,,101 Dalmatians,en-us,Tonie,stock,7325056598167,,1,2,2,0
@@ -731,7 +731,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001020,Tonie Créatif,,Fée,fr-fr,creative-tonie,stock,d2bbc940-f776-43d7-80a4-278db6dc243e,https://tonies.com/fr-fr/tonies-creatifs/tonie-creatif-fee/,1,0,0,0
 10001021,Mes Comptines Préférées,lieblings-kinderlieder,Pour Faire la Fête,fr-fr,music,stock,c7975780-dae2-4496-ae1c-beaea567a53b,https://tonies.com/fr-fr/tonies/mes-comptines-preferees/pour-faire-la-fete/,2,1,1,0
 10001022,The Little Prince,the-little-prince,The Little Prince (relaunch),en-gb,audio-book,stock,d04edcb6-913b-4c2c-8439-5edb7fa039a1,https://tonies.com/en-gb/tonies/the-little-prince/the-little-prince-relaunch/,1,1,1,0
-10001035,Favourite Tales,favourite-tales,Little Red Riding Hood (relaunch),en-gb,audio-book,stock,b2592527-aea2-4ef8-b826-e630ef946737,https://tonies.com/en-gb/tonies/favourite-tales/little-red-riding-hood-relaunch/,1,0,0,0
+10001035,Favourite Tales,favourite-tales,Little Red Riding Hood (relaunch),en-gb,audio-book,stock,b2592527-aea2-4ef8-b826-e630ef946737,https://tonies.com/en-gb/tonies/favourite-tales/little-red-riding-hood-relaunch/,1,1,0,0
 10001036,Favourite Classics,favourite-classics,Pinocchio (relaunch),en-gb,audio-book,stock,ef215f9f-a1e7-4cb2-a463-e27069d0a93f,https://tonies.com/en-gb/tonies/favourite-classics/pinocchio-relaunch/,1,1,1,0
 10001037,Favourite Children's Songs,lieblings-kinderlieder,Playtime & Action (relaunch),en-gb,music,stock,de7dd07e-35cf-433f-9b3c-43d72fa3bae6,https://tonies.com/en-gb/tonies/favourite-children-s-songs/playtime-action/,1,1,1,0
 10001038,Favourite Children's Songs,favourite-children-s-songs,Bedtime & Lullabies (relaunch),en-gb,music,stock,ce876e76-0265-4222-acae-6cbd789dc2c9,https://tonies.com/en-gb/tonies/favourite-children-s-songs/favourite-childrens-songs-bedtime-lullabies/,1,1,1,0
@@ -1914,7 +1914,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 2000000303,Bibi & Tina,bibi-tina,Das wilde Fohlen,de-de,audio-play,tunes,8356cd91-4d67-4eed-8517-319268404c5d,https://tonies.com/de-de/audio-content/bibi-tina/das-wilde-fohlen/,1,0,0,0
 2000000304,Bibi & Tina,bibi-tina,Das Zeltlager,de-de,audio-play,tunes,74ddea05-d2b7-420a-a786-3219d0afef5a,https://tonies.com/de-de/audio-content/bibi-tina/das-zeltlager/,1,0,0,0
 2000000305,Bibi & Tina,bibi-tina,Das Zirkuspony,de-de,audio-play,tunes,4ade8db0-67a2-490f-af6b-0181937ac925,https://tonies.com/de-de/audio-content/bibi-tina/das-zirkuspony/,1,0,0,0
-2000000306,Bibi & Tina,bibi-tina,Der Abschied,de-de,audio-play,tunes,9682ea52-2026-49ff-9f92-e13094b31dfb,https://tonies.com/de-de/audio-content/bibi-tina/der-abschied/,1,0,0,0
+2000000306,Bibi & Tina,bibi-tina,Der Abschied,de-de,audio-play,tunes,9682ea52-2026-49ff-9f92-e13094b31dfb,https://tonies.com/de-de/audio-content/bibi-tina/der-abschied/,1,1,0,0
 2000000307,Bibi & Tina,bibi-tina,Der fliegende Sattel,de-de,audio-play,tunes,b5c6b48a-fd68-4c1d-a243-303bd31d7934,https://tonies.com/de-de/audio-content/bibi-tina/der-fliegende-sattel/,1,0,0,0
 2000000308,Bibi & Tina,bibi-tina,Der Freundschaftstag,de-de,audio-play,tunes,6ab81e7c-12c8-4eaf-bdca-dbb300dd875c,https://tonies.com/de-de/audio-content/bibi-tina/der-freundschaftstag/,1,0,0,0
 2000000309,Bibi & Tina,bibi-tina,Der geheimnisvolle Falke,de-de,audio-play,tunes,8b7b2a10-1a4d-4117-bef4-03a138ef3fc5,https://tonies.com/de-de/audio-content/bibi-tina/der-geheimnisvolle-falke/,1,0,0,0
@@ -3477,7 +3477,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 2000002591,WAS IST WAS,was-ist-was,Wunder Evolution / Darwins Weltreise,de-de,audio-play,tunes,769d0760-907f-48d3-95b5-78f5d855a179,https://tonies.com/de-de/audio-content/was-ist-was/wunder-evolution-darwins-weltreise/,1,0,0,0
 2000002592,Lichterkinder,lichterkinder,Liki und die Lichterkinder – Vom Sternenreich zur Erde,de-de,audio-play,tunes,9f60d378-fcbc-4c0f-82b7-594b675146d5,https://tonies.com/de-de/audio-content/lichterkinder/vom-sternenreich-zur-erde/,1,0,0,0
 2000002612,Hanni und Nanni,hanni-und-nanni,auf hoher See,de-de,audio-play,tunes,552c186a-ee32-47cd-9b5e-146b6cd31540,https://tonies.com/de-de/audio-content/hanni-und-nanni/hanni-nanni-auf-hoher-see/,1,0,0,0
-2000002613,Hanni und Nanni,hanni-und-nanni,Süße Versuchung für Hanni und Nanni,de-de,audio-play,tunes,0355fa27-7add-4ccc-bef1-4dd88c786761,https://tonies.com/de-de/audio-content/hanni-und-nanni/hanni-nanni-sue-versuchung-fur-hanni-_886449081912/,1,0,0,0
+2000002613,Hanni und Nanni,hanni-und-nanni,Süße Versuchung für Hanni und Nanni,de-de,audio-play,tunes,0355fa27-7add-4ccc-bef1-4dd88c786761,https://tonies.com/de-de/audio-content/hanni-und-nanni/hanni-nanni-sue-versuchung-fur-hanni-_886449081912/,1,1,0,0
 2000002622,Maus,maus,MausGeburtstag – Hallo Zukunft,de-de,audio-play,tunes,a5e3ea43-9461-440c-9d71-d57a6324fc74,https://tonies.com/de-de/audio-content/maus/mausgeburtstag-hallo-zukunft/,1,0,0,0
 2000002623,Bob der Baumeister,bob-der-baumeister,Wie Hund und Katze,de-de,audio-play,tunes,b8d8732c-f511-4bf0-9832-dc9f9cb3a068,https://tonies.com/de-de/audio-content/bob-der-baumeister/bob-der-baumeister-wie-hund-und-katze/,1,0,0,0
 2000002624,Bob der Baumeister (Die Klassiker),bob-der-baumeister-die-klassiker,"Yo, wir schaffen das!",de-de,audio-play,tunes,3e16cd17-d309-420d-b916-e9ac444439a9,https://tonies.com/de-de/audio-content/bob-der-baumeister-die-klassiker/bob-der-baumeister-yo-wir-schaffen-das/,1,0,0,0
@@ -3622,7 +3622,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 2000002786,Benjamin Blümchen,benjamin-bluemchen,als Rettungselefant,de-de,audio-play,tunes,49a1cd06-448d-443a-955a-226576c28a68,https://tonies.com/de-de/audio-content/benjamin-bluemchen/als-rettungselefant/,1,0,0,0
 2000002787,Benjamin Blümchen,benjamin-bluemchen,auf der Tankstelle,de-de,audio-play,tunes,46f1474d-e0ed-4940-9ee5-8512b9a73baa,https://tonies.com/de-de/audio-content/benjamin-bluemchen/auf-der-tankstelle/,1,0,0,0
 2000002791,Leo Lausemaus,leo-lausemaus,Folge 04: Will nicht baden,de-de,audio-play,tunes,0b50e32f-55e3-4201-a240-824f2e9f9c6b,https://tonies.com/de-de/audio-content/leo-lausemaus/folge-04-will-nicht-baden/,1,1,0,0
-2000002792,Leo Lausemaus,leo-lausemaus,Folge 05: Und sein erster Wackelzahn,de-de,audio-play,tunes,927314af-8f5d-4792-988d-c1e436b5606b,https://tonies.com/de-de/audio-content/leo-lausemaus/folge-05-und-sein-erster-wackelzahn/,1,0,0,0
+2000002792,Leo Lausemaus,leo-lausemaus,Folge 05: Und sein erster Wackelzahn,de-de,audio-play,tunes,927314af-8f5d-4792-988d-c1e436b5606b,https://tonies.com/de-de/audio-content/leo-lausemaus/folge-05-und-sein-erster-wackelzahn/,1,1,0,0
 2000002793,Leo Lausemaus,leo-lausemaus,Folge 06: Will nicht teilen,de-de,audio-play,tunes,7c70b15f-71e2-46fd-a3b4-7ee2eb22cf60,https://tonies.com/de-de/audio-content/leo-lausemaus/folge-06-will-nicht-teilen/,1,0,0,0
 2000002794,Leo Lausemaus,leo-lausemaus,Folge 07: Geht in den Zirkus,de-de,audio-play,tunes,d03a7c08-42d5-4608-aa8d-01d3876697cf,https://tonies.com/de-de/audio-content/leo-lausemaus/folge-07-geht-in-den-zirkus/,1,0,0,0
 2000002795,Leo Lausemaus,leo-lausemaus,Folge 08: Der erste Schultag,de-de,audio-play,tunes,c2902690-8671-4a29-9d38-82a6bef1db72,https://tonies.com/de-de/audio-content/leo-lausemaus/folge-08-der-erste-schultag/,1,0,0,0
