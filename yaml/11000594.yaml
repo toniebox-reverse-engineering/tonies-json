@@ -24,6 +24,11 @@ data:
   - Asterix - Der Hafen Von Tyros
   - Asterix - Zaubertrank Mit Verbessertem Geschmack
   ids:
+  - audio-id: 1751970454
+    hash: 240a0ceba7fb2ff20ced1451a512bee38bfb37f8
+    size: 31225777
+    tracks: 26
+    confidence: 1
   - audio-id: 1710414443
     hash: 34fba7f9c2ebfafa7bb49fcea0ad43e20ed3e655
     size: 39862698
