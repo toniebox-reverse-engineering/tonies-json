@@ -46,12 +46,6 @@ jobs:
           repository: toniebox-reverse-engineering/tonies-json
           ref: release
           path: tonies-json-release
-      - name: Checkout auth
-        uses: actions/checkout@v4
-        with:
-          repository: toniebox-reverse-engineering/tonies-json-auth
-          path: tonies-json-auth
-          ssh-key: ${{ secrets.TONIES_JSON_AUTH_PRIVATE_SSH_KEY }}
           
       - name: Delete old artifacts tonies-json-release
         run: |
