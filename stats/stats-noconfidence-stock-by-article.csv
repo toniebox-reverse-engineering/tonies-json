@@ -1465,27 +1465,27 @@ NOT-TODAY-STAN-11000499,Piney,,The Lonesome Pine,en-us,Tonie,stock,8225978941591
 None,Z,,Purple Dot Test Product 1,en-us,Creative Tonie,stock,9101505265815,,1,0,0,0
 SAMSBUNDLE,Sam's Club Disney Bundle with Red Toniebox,,,en-us,Tonie,stock,8533490204823,,1,0,0,0
 box-de-de-01-00000000,System sounds de-de,system-de-de,Jingle (Startup),de-de,system,stock,,,1,1,1,0
-box-de-de-01-00000007,System sounds de-de,system-de-de,,de-de,system,stock,,,1,1,1,0
-box-de-de-01-00000008,System sounds de-de,system-de-de,,de-de,system,stock,,,1,1,1,0
-box-de-de-01-0000000A,System sounds de-de,system-de-de,,de-de,system,stock,,,1,1,1,0
-box-de-de-01-00000011,System sounds de-de,system-de-de,,de-de,system,stock,,,1,1,1,0
+box-de-de-01-00000007,System sounds de-de,system-de-de,Offlinemodus an,de-de,system,stock,,,1,1,1,0
+box-de-de-01-00000008,System sounds de-de,system-de-de,Offlinemodus aus,de-de,system,stock,,,1,1,1,0
+box-de-de-01-0000000A,System sounds de-de,system-de-de,Koalabär,de-de,system,stock,,,1,1,1,0
+box-de-de-01-00000011,System sounds de-de,system-de-de,Schildkröte,de-de,system,stock,,,1,1,1,0
 box-en-gb-00-00000000,System sounds en-gb,system-en-gb,Jingle (Startup),en-gb,system,stock,,,1,1,1,0
 box-en-gb-00-00000001,System sounds en-gb,system-en-gb,,en-gb,system,stock,,,1,1,1,0
-box-en-gb-00-00000002,System sounds en-gb,system-en-gb,,en-gb,system,stock,,,1,1,1,0
-box-en-gb-00-00000003,System sounds en-gb,system-en-gb,,en-gb,system,stock,,,1,1,1,0
+box-en-gb-00-00000002,System sounds en-gb,system-en-gb,Tadum MhhMhhh,en-gb,system,stock,,,1,1,1,0
+box-en-gb-00-00000003,System sounds en-gb,system-en-gb,Tadududu,en-gb,system,stock,,,1,1,1,0
 box-en-gb-00-00000006,System sounds en-gb,system-en-gb,Clingclong (finished audio),en-gb,system,stock,,,1,3,3,0
-box-en-gb-00-00000007,System sounds en-gb,system-en-gb,,en-gb,system,stock,,,1,1,1,0
-box-en-gb-00-00000008,System sounds en-gb,system-en-gb,,en-gb,system,stock,,,1,1,1,0
-box-en-gb-00-00000009,System sounds en-gb,system-en-gb,,en-gb,system,stock,,,1,1,1,0
+box-en-gb-00-00000007,System sounds en-gb,system-en-gb,Offlinemode on,en-gb,system,stock,,,1,1,1,0
+box-en-gb-00-00000008,System sounds en-gb,system-en-gb,Offlinemode off,en-gb,system,stock,,,1,1,1,0
+box-en-gb-00-00000009,System sounds en-gb,system-en-gb,Low battery,en-gb,system,stock,,,1,1,1,0
 box-en-gb-00-0000000A,System sounds en-gb,system-en-gb,,en-gb,system,stock,,,1,1,1,0
-box-en-gb-00-0000000B,System sounds en-gb,system-en-gb,,en-gb,system,stock,,,1,1,1,0
-box-en-gb-00-0000000D,System sounds en-gb,system-en-gb,,en-gb,system,stock,,,1,1,1,0
-box-en-gb-00-0000000E,System sounds en-gb,system-en-gb,,en-gb,system,stock,,,1,1,1,0
-box-en-gb-00-0000000F,System sounds en-gb,system-en-gb,,en-gb,system,stock,,,1,1,1,0
-box-en-gb-00-00000010,System sounds en-gb,system-en-gb,,en-gb,system,stock,,,1,1,1,0
+box-en-gb-00-0000000B,System sounds en-gb,system-en-gb,Setup,en-gb,system,stock,,,1,1,1,0
+box-en-gb-00-0000000D,System sounds en-gb,system-en-gb,Keep on charger,en-gb,system,stock,,,1,1,1,0
+box-en-gb-00-0000000E,System sounds en-gb,system-en-gb,Limit reached,en-gb,system,stock,,,1,1,1,0
+box-en-gb-00-0000000F,System sounds en-gb,system-en-gb,Download interrupted,en-gb,system,stock,,,1,1,1,0
+box-en-gb-00-00000010,System sounds en-gb,system-en-gb,Box ready,en-gb,system,stock,,,1,1,1,0
 box-en-gb-00-00000011,System sounds en-gb,system-en-gb,,en-gb,system,stock,,,1,1,1,0
 box-en-gb-00-00000012,System sounds en-gb,system-en-gb,,en-gb,system,stock,,,1,1,1,0
-box-en-gb-00-00000013,System sounds en-gb,system-en-gb,,en-gb,system,stock,,,1,1,1,0
+box-en-gb-00-00000013,System sounds en-gb,system-en-gb,WiFi password wrong,en-gb,system,stock,,,1,1,1,0
 box-en-gb-00-00000014,System sounds en-gb,system-en-gb,,en-gb,system,stock,,,1,1,1,0
 box-en-gb-00-00000015,System sounds en-gb,system-en-gb,,en-gb,system,stock,,,1,1,1,0
 box-en-gb-00-00000016,System sounds en-gb,system-en-gb,,en-gb,system,stock,,,1,1,1,0

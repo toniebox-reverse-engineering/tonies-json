@@ -4594,7 +4594,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 99-0001,Kreativ-Tonie,,(Platzhalter) - DE,de-de,creative-tonie,stock,,,1,1,0,0
 99-0004,Kreativ-Tonie,,GESPERRT in einem anderen Haushalt,de-de,creative-tonie,stock,,,1,0,0,0
 box-de-de-01-00000000,System sounds de-de,system-de-de,Jingle (Startup),de-de,system,stock,,,1,1,1,0
-box-de-de-01-00000007,System sounds de-de,system-de-de,,de-de,system,stock,,,1,1,1,0
-box-de-de-01-00000008,System sounds de-de,system-de-de,,de-de,system,stock,,,1,1,1,0
-box-de-de-01-0000000A,System sounds de-de,system-de-de,,de-de,system,stock,,,1,1,1,0
-box-de-de-01-00000011,System sounds de-de,system-de-de,,de-de,system,stock,,,1,1,1,0
+box-de-de-01-00000007,System sounds de-de,system-de-de,Offlinemodus an,de-de,system,stock,,,1,1,1,0
+box-de-de-01-00000008,System sounds de-de,system-de-de,Offlinemodus aus,de-de,system,stock,,,1,1,1,0
+box-de-de-01-0000000A,System sounds de-de,system-de-de,Koalabär,de-de,system,stock,,,1,1,1,0
+box-de-de-01-00000011,System sounds de-de,system-de-de,Schildkröte,de-de,system,stock,,,1,1,1,0
