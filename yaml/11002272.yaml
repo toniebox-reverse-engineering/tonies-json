@@ -10,7 +10,7 @@ data:
   runtime: 53
   age: 1
   origin: stock
-  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/51006661-Tonie_Shado-BGMaTWyH.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002272_Landscape_7-5eM3_fFd.png
   sample: https://cdn.tonies.de/o/audio_samples/19d167337cad42a6c69ace0e3df901468da787b6a45ef528d0311753/ms_rachel_sample.mp3
   web: https://tonies.com/en-gb/tonies/ms-rachel/msrachel/
   shop-id: 64e6aa9a-084c-4e7a-960e-3a49f3ed94ea
@@ -25,14 +25,14 @@ data:
   - SONG - Hop Little Bunnies
   - SONG - Hungry Ants
   - STORY - Field Trip to School
-  - SONG - Wheels on the Bus
+  - SONG - Wheels On The Bus
   - SONG - Counting
   - SONG - I Could Be Your Friend
   - SONG - Alphabet
   - SONG - Phonics
   - STORY - Field Trip to the Big City
   - SONG - Take the Elevator
-  - SONG - Big Feelings
+  - SONG - Big Feeling
   - SONG - Row, Row, Row Your Boat
   - SONG - Bubble Bubble Pop
   - SONG - Walking at the Zoo
