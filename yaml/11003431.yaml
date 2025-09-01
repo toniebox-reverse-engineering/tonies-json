@@ -1,0 +1,33 @@
+article: '11003431'
+lock-data: false
+data:
+- series: Dans la jungle
+  series-id: dans-la-jungle
+  episode: Coffret Mes Premiers Tonies - Dans La Jungle
+  release: 1756252800
+  language: fr-fr
+  category: audio-play-songs
+  runtime: 36
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51016903-FR-11003431-oU9Sd9QN.png
+  sample: https://cdn.tonies.de/o/audio_samples/9cee4eba20598f4b92894312adb3cf2d5c02090834f11010403d71b3/11003431_1_mptjungle_tigre_extrait.mp3
+  web: https://tonies.com/fr-fr/mes-premiers-tonies/dans-la-jungle/coffret-mes-premiers-tonies-dans-la-jungle/
+  shop-id: 59681b47-1cb7-472f-bebb-149debd83e92
+  track-desc:
+  - 'Singe :'
+  - 1. Ha ha ha ! et la chanson du singe
+  - 2. Tu entends le singe ?
+  - 3. Tout en haut des arbres
+  - 4. Jeux de singes dans la jungle (ambiance sonore et musique)
+  - 'Perroquet :'
+  - 1. Coco coco ! et la chanson du perroquet
+  - 2. Tu entends le perroquet ?
+  - 3. Bonjour, petit perroquet !
+  - 4. Blablabla le perroquet... (ambiance sonore et musique)
+  - 'Tigre :'
+  - 1. Roar roar ! et la chanson du tigre
+  - 2. Tu entends le tigre ?
+  - 3. Le tigre et l'abeille
+  - 4. La jungle rugit (ambiance sonore et musique)
+  ids: []

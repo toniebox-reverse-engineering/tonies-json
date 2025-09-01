@@ -1,0 +1,33 @@
+article: '11003420'
+lock-data: false
+data:
+- series: En voyage
+  series-id: en-voyage
+  episode: Coffret Mes Premiers Tonies - En Voyage
+  release: 1756252800
+  language: fr-fr
+  category: audio-play-songs
+  runtime: 36
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51016886-FR-11003420-eP48MUP2.png
+  sample: https://cdn.tonies.de/o/audio_samples/f50fbaff2c609dc6c1f1da5fb5164b0065bdfcbccb468d6487360241/11003420_1_mptvoyage_train_extrait.mp3
+  web: https://tonies.com/fr-fr/mes-premiers-tonies/en-voyage/coffret-mes-premiers-tonies-en-voyage/
+  shop-id: f8b12dbc-8e46-44f3-a6cf-ae78f1c73866
+  track-desc:
+  - 'Avion :'
+  - 1. Vroum vroum ! et la chanson de l'avion
+  - 2. Tu entends l'avion ?
+  - 3. Le vol magique de Lulu
+  - 4. Tout là-haut, dans le ciel (ambiance sonore et musique)
+  - 'Bateau :'
+  - 1. Hisse et ho ! et la chanson du bateau
+  - 2. Tu entends le bateau ?
+  - 3. Ohé, les marins !
+  - 4. Balade en mer (ambiance sonore et musique)
+  - 'Train :'
+  - 1. Tchou tchou ! et la chanson du train
+  - 2. Tu entends le train ?
+  - 3. La petite souris et le train
+  - 4. En route ! (ambiance sonore et musique)
+  ids: []

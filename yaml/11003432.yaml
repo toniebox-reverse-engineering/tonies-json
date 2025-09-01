@@ -1,0 +1,33 @@
+article: '11003432'
+lock-data: false
+data:
+- series: À la ferme
+  series-id: a-la-ferme
+  episode: Coffret Mes Premiers Tonies - À La Ferme
+  release: 1756252800
+  language: fr-fr
+  category: audio-play-songs
+  runtime: 36
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51018379-FR-11003432-dYOzj6Kb.png
+  sample: https://cdn.tonies.de/o/audio_samples/3943da7d8be00c20379090732121a398defe6417ccf8fcc557e56d11/11003432_1_mptferme_cochon_extrait.mp3
+  web: https://tonies.com/fr-fr/mes-premiers-tonies/a-la-ferme/coffret-mes-premiers-tonies-a-la-ferme/
+  shop-id: fa48107c-7da6-4911-af7d-d89323fc680f
+  track-desc:
+  - 'Vache :'
+  - 1. Meuh meuh ! et la chanson de la vache
+  - 2. Tu entends la vache ?
+  - 3. La vache et le trèfle
+  - 4. Les vaches dans le pré (ambiance sonore et musique)
+  - 'Cochon :'
+  - 1. Groik groik ! et la chanson du cochon
+  - 2. Tu entends le cochon ?
+  - 3. Dix petits cochons
+  - 4. On joue dans la boue (ambiance sonore et musique)
+  - 'Cheval :'
+  - 1. Hue hue ! et la chanson du cheval
+  - 2. Tu entends le cheval ?
+  - 3. Maman cheval et son poulain
+  - 4. Au trot jusqu'au pommier (ambiance sonore et musique)
+  ids: []
