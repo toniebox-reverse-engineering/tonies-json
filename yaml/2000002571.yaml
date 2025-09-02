@@ -43,4 +43,9 @@ data:
   - 'Thema 2: Was sind Zinsen?'
   - 'Thema 2: Strafen für Falschgeld'
   - 'Thema 2: Die verschiedenen Währungen'
-  ids: []
+  ids:
+  - audio-id: 1701247316
+    hash: b5db5441376e1744799b78d30ea742239d3716ca
+    size: 64603226
+    tracks: 28
+    confidence: 0
