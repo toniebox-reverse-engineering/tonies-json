@@ -23,6 +23,11 @@ data:
   - 'Kapitel 06: Raya und der letzte Drache'
   - 'Kapitel 07: Raya und der letzte Drache'
   ids:
+  - audio-id: 1750749339
+    hash: 036c9a765d8c2bcf354a19ffb8ff1973d3f6970c
+    size: 53168611
+    tracks: 7
+    confidence: 0
   - audio-id: 1749039049
     hash: 0103dff21869dc8748de6ce45ac8d46c6510662e
     size: 53168611
