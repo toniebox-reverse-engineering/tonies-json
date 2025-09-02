@@ -42,4 +42,9 @@ data:
   - 'Chapitre 19 : Nouveau record battu'
   - 'Chapitre 20 : Tout se termine par un camping sauvage (inclus la chanson « Séléna
     reviendra »)'
-  ids: []
+  ids:
+  - audio-id: 1733302625
+    hash: 9375a7c207a529efa83f365c038929d01139e432
+    size: 60404298
+    tracks: 21
+    confidence: 0
