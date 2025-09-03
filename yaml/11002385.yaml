@@ -1,0 +1,25 @@
+article: '11002385'
+lock-data: false
+data:
+- series: Hot Wheels
+  series-id: hot-wheels
+  episode: GT-Scorcher
+  release: 1756944000
+  language: fr-fr
+  category: audio-play
+  runtime: 60
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51008805-Tonie_Shado-3qtatxaB.png
+  sample: https://cdn.tonies.de/o/audio_samples/1a1a4c2e3e845bb2a669e540f45990fdea60409bca691db97f86ca33/11002385_hot_wheels_lets_race_extraitmp3.mp3
+  web: https://tonies.com/fr-fr/tonies/hot-wheels/gt-scorcher/
+  shop-id: 53ccec68-c2d5-40d4-930b-7d0977005cbc
+  track-desc:
+  - Générique
+  - Les pilotes de Hot Wheels
+  - La voiture hantée
+  - Restauration rapide... très rapide
+  - L'attaque de la pieuvre
+  - Attaque de cobra
+  - Un dino au garage
+  ids: []

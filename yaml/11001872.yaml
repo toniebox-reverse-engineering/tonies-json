@@ -1,0 +1,22 @@
+article: '11001872'
+lock-data: false
+data:
+- series: Ma Pause Zen
+  series-id: ma-pause-zen
+  episode: Se Canaliser Avec Marty Le Ouistiti
+  release: 1756944000
+  language: fr-fr
+  category: audio-play
+  runtime: 57
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51008232-Tonie_Shado-aLL8MeYq.png
+  sample: https://cdn.tonies.de/o/audio_samples/52046a1b512492473cb7ec116546216916baf0626ce90bae52a8e94b/tonies_bien_etre_marty_ep01_randonnee_dans_les_arbre_110625.mp3
+  web: https://tonies.com/fr-fr/tonies/ma-pause-zen/se-canaliser-avec-marty-le-ouistiti/
+  shop-id: 7e4d0725-9be5-40ee-b943-db5c393b9467
+  track-desc:
+  - Randonnée dans les arbres
+  - Barboter dans la cascade
+  - Un petit pas pour un grand changement
+  - On vole !
+  ids: []
