@@ -1,0 +1,43 @@
+article: '2000011545'
+lock-data: false
+data:
+- series: Caillou
+  series-id: caillou
+  episode: 'Folgen 33-36: Caillous Kita-Regeln'
+  release: 1756857600
+  language: de-de
+  category: audio-play
+  runtime: 3013
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/aadc51a415d80a235888e715f8c8503eb1f57f1861ab150569d69bbb/3_P29StRwy~FxV.NWd/caillou_009_folgen_33_36__caillous_kita_regeln_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/ffba4090f6d165160cef35946321261fc9040af6e334a6920fd69758/4013575960552_preview.mp3
+  web: https://tonies.com/de-de/audio-content/caillou/folgen-33-36-caillous-kita-regeln/
+  shop-id: bb6d3aa5-775a-4d22-9f27-ad2afc0c416e
+  track-desc:
+  - Caillou Titelsong (2024)
+  - 'Kapitel 01: Caillous Kita-Regeln (Folge 33)'
+  - 'Kapitel 02: Caillous Kita-Regeln (Folge 33)'
+  - 'Kapitel 03: Caillous Kita-Regeln (Folge 33)'
+  - 'Kapitel 04: Caillous Kita-Regeln (Folge 33)'
+  - 'Kapitel 05: Caillous Kita-Regeln (Folge 33)'
+  - 'Credits: Caillous Kita-Regeln (Folge 33)'
+  - 'Kapitel 01: Cody, der Cowboy (Folge 34)'
+  - 'Kapitel 02: Cody, der Cowboy (Folge 34)'
+  - 'Kapitel 03: Cody, der Cowboy (Folge 34)'
+  - 'Kapitel 04: Cody, der Cowboy (Folge 34)'
+  - 'Kapitel 05: Cody, der Cowboy (Folge 34)'
+  - 'Credits: Cody, der Cowboy (Folge 34)'
+  - 'Kapitel 01: Das besondere Dankeschön (Folge 35)'
+  - 'Kapitel 02: Das besondere Dankeschön (Folge 35)'
+  - 'Kapitel 03: Das besondere Dankeschön (Folge 35)'
+  - 'Kapitel 04: Das besondere Dankeschön (Folge 35)'
+  - 'Kapitel 05: Das besondere Dankeschön (Folge 35)'
+  - 'Credits: Das besondere Dankeschön (Folge 35)'
+  - 'Kapitel 01: R-O-Uh-Oh! (Folge 36)'
+  - 'Kapitel 02: R-O-Uh-Oh! (Folge 36)'
+  - 'Kapitel 03: R-O-Uh-Oh! (Folge 36)'
+  - 'Kapitel 04: R-O-Uh-Oh! (Folge 36)'
+  - 'Kapitel 05: R-O-Uh-Oh! (Folge 36)'
+  - 'Credits: R-O-Uh-Oh! (Folge 36)'
+  ids: []
