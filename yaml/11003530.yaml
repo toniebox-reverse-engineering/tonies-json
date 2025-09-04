@@ -1,0 +1,44 @@
+article: '11003530'
+lock-data: false
+data:
+- series: Minecraft
+  series-id: minecraft
+  episode: 'Minecraft: The Island'
+  release: 1758326400
+  language: en-gb
+  category: audio-book
+  runtime: 377
+  age: 9
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11003530_Landscape_1-nZ0tNdoN.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/e25a39719c78f537a13324ac97e39974a8d7f85f9217ca20ae80f0a8/the_island_sample_minecraft.wav
+  web: https://tonies.com/en-gb/book-tonies/minecraft/minecraft-the-island/
+  shop-id: eb16326c-6fca-49b1-92a9-059e6c8779be
+  track-desc:
+  - INTRO - Minecraft The Island (Narrated by Jack Black)
+  - OPENING - The following is based...
+  - Chapter 1 - Never Give Up
+  - Chapter 2 - Panic Drowns Thought
+  - Chapter 3 - Don't Assume Anything
+  - Chapter 4 - Details Make The Difference
+  - Chapter 5 - Be Grateful For What You Have
+  - Chapter 6 - Overconfidence
+  - Chapter 7 - Take Life in Steps
+  - Chapter 8 - The Way
+  - Chapter 9 - Friends Keep You Sane
+  - Chapter 10 - Nothing Clears The Mind Like Sleep
+  - Chapter 11 - Courage is a Full-Time Job
+  - Chapter 12 - Risk and Reward
+  - Chapter 13 - When The World Changes
+  - Chapter 14 - Always Be Aware of Your Surroundings
+  - Chapter 15 - Take Care of Your Environment So It Can Take Care of You
+  - Chapter 16 - Everything Has A Price
+  - Chapter 17 - It's Not Failure That Matters, But How You Recover
+  - Chapter 18 - When Trying to Tell Yourself Something, Listen
+  - Chapter 19 - Books Make The World Bigger
+  - Chapter 20 - Revenge Hurts Only You
+  - Chapter 21 - Knowledge, Like A Seed, Needs The Right Time to Bloom
+  - Chapter 22 - The End and The Beginning
+  - Epilogue
+  - Credits
+  ids: []

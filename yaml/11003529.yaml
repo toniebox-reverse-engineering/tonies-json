@@ -1,0 +1,43 @@
+article: '11003529'
+lock-data: false
+data:
+- series: Minecraft
+  series-id: minecraft
+  episode: 'Minecraft: The Village'
+  release: 1758326400
+  language: en-gb
+  category: audio-book
+  runtime: 591
+  age: 9
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11003529_Landscape_1-m6EueEWb.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/00470df7430c96fd6e18b7dee3633c80f8bd4bd7c9eb83f85c82a8d4/the_village_sample_minecraft.wav
+  web: https://tonies.com/en-gb/book-tonies/minecraft/minecraft-the-village/
+  shop-id: 6fd84d01-9720-49c4-b38b-a8b0d70f9287
+  track-desc:
+  - 'Minecraft: The Village: An Official Minecraft Novel: Intro'
+  - Introduction
+  - Chapter 1
+  - Chapter 2
+  - Chapter 3
+  - Chapter 4
+  - Chapter 5
+  - Chapter 6
+  - Chapter 7
+  - Chapter 8
+  - Chapter 9
+  - Chapter 10
+  - Chapter 11
+  - Chapter 12
+  - Chapter 13
+  - Chapter 14
+  - Chapter 15
+  - Chapter 16
+  - Chapter 17
+  - Chapter 18
+  - Chapter 19
+  - Chapter 20
+  - Epilogue
+  - What We've Learned from the World of Minecraft
+  - Credits
+  ids: []

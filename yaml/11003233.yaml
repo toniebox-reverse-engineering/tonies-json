@@ -1,0 +1,30 @@
+article: '11003233'
+lock-data: false
+data:
+- series: Horrid Henry
+  series-id: horrid-henry
+  episode: Horridly Spooky Stories
+  release: 1758326400
+  language: en-gb
+  category: audio-book
+  runtime: 120
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11003233_Landscape_1-BKxiEukt.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/dd6369e1eca3b50292a89d4b9fd86600b977df4f866bc1d727525103/horrid_henry_horridly_scary_stories_sample.wav
+  web: https://tonies.com/en-gb/book-tonies/horrid-henry/horrid-henry-horridly-spooky-stories/
+  shop-id: 34e1fec7-7059-453b-a97b-bff9c304daf4
+  track-desc:
+  - INTRO
+  - 'STORY: Horrid Henry And The Cracking Code Cracker'
+  - 'STORY: Horrid Henry And The Evil Guardian'
+  - 'STORY: Horrid Henry And The Lucky Thing'
+  - 'STORY: Horrid Henry And The Miserable Musical'
+  - 'STORY: Horrid Henry And The Scooter Of Doom'
+  - 'STORY: Horrid Henry And The Secrets Of The Universe'
+  - 'STORY: Horrid Henry And The Super Monster Wheels'
+  - 'STORY: Horrid Henry Treehouse Of Terror'
+  - 'OUTRO: A Brilliantly Horrid Sign Off'
+  - OUTRO
+  - CREDITS
+  ids: []

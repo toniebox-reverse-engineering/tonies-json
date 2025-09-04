@@ -1,0 +1,24 @@
+article: '11002143'
+lock-data: false
+data:
+- series: Gabby's Dollhouse
+  series-id: gabby-s-dollhouse
+  episode: Kitty Fairy
+  release: 1758326400
+  language: en-gb
+  category: audio-play-songs
+  runtime: 45
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002143_Landscape_7-RHxERKMA.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/31dd94f309a6083b2517ffb2d8495f079286f358c350b5747d3ade66/kitty_fairy_audio_sample.wav
+  web: https://tonies.com/en-gb/tonies/gabby-s-dollhouse/gabbys-dollhouse-kitty-fairy/
+  shop-id: 8223d81e-4721-4c08-863e-7f50163e4a9c
+  track-desc:
+  - INTRO
+  - SONG - Kitty Fairy Theme Song
+  - STORY - Kitty Fairy's Sleepover
+  - INTERSTITIAL - Fairy Tale Garden Guessing Game
+  - STORY - Dollhouse Store Day
+  - OUTRO
+  ids: []

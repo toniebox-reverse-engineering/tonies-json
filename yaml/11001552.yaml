@@ -1,0 +1,22 @@
+article: '11001552'
+lock-data: false
+data:
+- series: Sleepy Friends
+  series-id: sleepy-friends
+  episode: Sleepy Duck - Limited Edition
+  release: 1758326400
+  language: en-gb
+  category: music
+  runtime: 120
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11001552_Landscape_7-B9XR7BAO.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/98760ec9000dc7bbb3165369922fedc859463c6920426a6895f5e9db/sleepy_duck_audio_sample.wav
+  web: https://tonies.com/en-gb/tonies/sleepy-friends/sleepy-duck-a-sound-journey-through-the-forest-limited-edition/
+  shop-id: 5c8b9e09-6d82-480d-bebf-a196fb4e0b6b
+  track-desc:
+  - INTRO
+  - SOUNDSCAPE - Sleepy Duck
+  - SOUNDSCAPE - Sleepy Duck
+  - SOUNDSCAPE - Sleepy Duck
+  ids: []

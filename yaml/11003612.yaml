@@ -1,0 +1,44 @@
+article: '11003612'
+lock-data: false
+data:
+- series: Enid Blyton
+  series-id: enid-blyton
+  episode: The Folk of the Faraway Tree
+  release: 1758326400
+  language: en-gb
+  category: audio-book
+  runtime: 306
+  age: 6
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11003612_Landscape_1-5TLxPEhw.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/fa85afd1b0addc4a50e4fe63b51c9fd7d33adf50c3699f9a9d1a106f/folk_of_the_faraway_tree_sample.mp3
+  web: https://tonies.com/en-gb/book-tonies/enid-blyton/the-folk-of-the-faraway-tree/
+  shop-id: 9537145d-0a6b-44b2-95bf-8da327b0c776
+  track-desc:
+  - 'STORY: Curious Connie Comes To Stay'
+  - 'STORY: Up The Faraway Tree'
+  - 'STORY: Connie Meets A Few People'
+  - 'STORY: Dinner With Moon Face'
+  - 'STORY: Off To Jack And The Bean Stalk'
+  - 'STORY: To The Land Of Giants'
+  - 'STORY: Up The Ladder That Has No Top'
+  - 'STORY: The Faraway Tree Again'
+  - 'STORY: Nursery Rhyme Land'
+  - 'STORY: Miss Muffet''s Spider'
+  - 'STORY: Back At Moon Face''s'
+  - 'STORY: Saucepan Is Very Cross'
+  - 'STORY: In The Land Of Dame Snap'
+  - 'STORY: Dame Snap S School'
+  - 'STORY: The Land Of Tea Parties'
+  - 'STORY: In The Land Of Secrets'
+  - 'STORY: Connie In Trouble'
+  - 'STORY: Off To Find Connie''s Lost Voice'
+  - 'STORY: The Land Of Enchantments'
+  - 'STORY: What Is Wrong With The Faraway Tree'
+  - 'STORY: Down To The Jewel Caves'
+  - 'STORY: The Rabbits Come To Help'
+  - 'STORY: The Land Of Know Alls'
+  - 'STORY: A Surprise For The Trolls'
+  - 'STORY: The Land Of Treats'
+  - 'STORY: Goodbye To The Faraway Tree'
+  ids: []
