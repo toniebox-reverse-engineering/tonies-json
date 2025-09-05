@@ -7,7 +7,7 @@ data:
   release: 0
   language: de-de
   category: audio-play
-  runtime: 90
+  runtime: 68
   age: 5
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11002141_1_a-v-FE9byt.png
@@ -15,5 +15,24 @@ data:
   web: https://tonies.com/de-de/tonies/europa-park/ed-edda-grand-prix-of-europe/
   shop-id: 8a8fc8d5-3662-46a9-ba88-4ac6025c3da3
   track-desc:
-  - Ed & Edda – Grand Prix of Europe
+  - Grand Prix of Europe – Teil 1
+  - Grand Prix of Europe – Teil 2
+  - Grand Prix of Europe – Teil 3
+  - Grand Prix of Europe – Teil 4
+  - Grand Prix of Europe – Teil 5
+  - Grand Prix of Europe – Teil 6
+  - Grand Prix of Europe – Teil 7
+  - Grand Prix of Europe – Teil 8
+  - Grand Prix of Europe – Teil 9
+  - Grand Prix of Europe – Teil 10
+  - Grand Prix of Europe – Teil 11
+  - Grand Prix of Europe – Teil 12
+  - Grand Prix of Europe – Teil 13
+  - Grand Prix of Europe – Teil 14
+  - Grand Prix of Europe – Teil 15
+  - Grand Prix of Europe – Teil 16
+  - Grand Prix of Europe – Teil 17
+  - Grand Prix of Europe – Teil 18
+  - Grand Prix of Europe – Teil 19
+  - Grand Prix of Europe – Teil 20
   ids: []
