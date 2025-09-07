@@ -31,6 +31,11 @@ data:
   - 25th August
   - Joke Of The Day Jingle
   ids:
+  - audio-id: 1757203513
+    hash: 4db673d762c85eea6815c47ccdc7e10dd2ea1d75
+    size: 20180633
+    tracks: 15
+    confidence: 1
   - audio-id: 1757117113
     hash: 046cdd6c6f1c3cf623a1d031737b29fb543f5110
     size: 19769756
