@@ -2,7 +2,7 @@ article: '11000423'
 lock-data: false
 data:
 - series: Micky Maus & Freunde
-  series-id: disney-micky-maus-freunde
+  series-id: disney-mickey-mouse-friends
   episode: Mickys großes Weihnachtsfest – Eingeschneit im Haus der Maus
   release: 1757462400
   language: de-de
@@ -15,5 +15,11 @@ data:
   web: https://tonies.com/de-de/tonies/disney-micky-maus-freunde/mickys-grosses-weihnachtsfest-eingeschneit-im-haus-der-maus/
   shop-id: 47350d19-8c0d-4d19-9983-706ae6f6346b
   track-desc:
-  - 'Kapitel 01: Mickys großes Weihnachstfest'
+  - Mickys großes Weihnachtsfest – Eingeschneit im Haus der Maus – Kapitel 1
+  - Mickys großes Weihnachtsfest – Eingeschneit im Haus der Maus – Kapitel 2
+  - Mickys großes Weihnachtsfest – Eingeschneit im Haus der Maus – Kapitel 3
+  - Mickys großes Weihnachtsfest – Eingeschneit im Haus der Maus – Kapitel 4
+  - Mickys großes Weihnachtsfest – Eingeschneit im Haus der Maus – Kapitel 5
+  - Mickys großes Weihnachtsfest – Eingeschneit im Haus der Maus – Kapitel 6
+  - Mickys großes Weihnachtsfest – Eingeschneit im Haus der Maus – Kapitel 7
   ids: []
