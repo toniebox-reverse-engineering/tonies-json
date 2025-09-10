@@ -1,0 +1,39 @@
+article: '11002597'
+lock-data: false
+data:
+- series: Teenage Mutant Ninja Turtles
+  series-id: teenage-mutant-ninja-turtles
+  episode: 'Die Abenteuer der Teenage Mutant Ninja Turtles: Leonardo'
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 63
+  age: 7
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11002597_1_a-AMDISMgP.png
+  sample: https://cdn.tonies.de/o/audio_samples/a87ac2960e98fa36faddc84c1fb08169bbc38c7a7d9925f0ce5eee92/hoerprobe_11002597_teenage_mutant_ninja_turtles_leonardo.mp3
+  web: https://tonies.com/de-de/tonies/teenage-mutant-ninja-turtles/die-abenteuer-der-teenage-mutant-ninja-turtles-leonardo/
+  shop-id: 35e549a5-af95-4334-9324-b2417e726ea8
+  track-desc:
+  - Intro
+  - Leonardo und die Mechazoids – Kapitel 1
+  - Leonardo und die Mechazoids – Kapitel 2
+  - Leonardo und die Mechazoids – Kapitel 3
+  - Leonardo und die Mechazoids – Kapitel 4
+  - Leonardo und die Mechazoids – Kapitel 5
+  - Leonardo und die Mechazoids – Kapitel 6
+  - Leonardo und die Mechazoids – Kapitel 7
+  - Leonardo und die Mechazoids – Kapitel 8
+  - Leonardo und die Mechazoids – Kapitel 9
+  - Leonardo und die Mechazoids – Kapitel 10
+  - Leonardo und die Mechazoids – Kapitel 11
+  - Leonardo und die Mechazoids – Kapitel 12
+  - Leonardo und die Mechazoids – Kapitel 13
+  - Leonardo und die Mechazoids – Kapitel 14
+  - Leonardo und die Mechazoids – Kapitel 15
+  - Leonardo und die Mechazoids – Kapitel 16
+  - Leonardo und die Mechazoids – Kapitel 17
+  - Leonardo und die Mechazoids – Kapitel 18
+  - Leonardo und die Mechazoids – Kapitel 19
+  - Leonardo und die Mechazoids – Kapitel 20
+  ids: []

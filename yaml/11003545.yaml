@@ -1,0 +1,46 @@
+article: '11003545'
+lock-data: false
+data:
+- series: Astrid Lindgren
+  series-id: astrid-lindgren
+  episode: Weihnachten mit Astrid Lindgren - Die schönsten Geschichten von Pippi Langstrumpf,
+    Michel, Madita, den Kindern aus Bullerbü u. a.
+  release: 0
+  language: de-de
+  category: audio-book
+  runtime: 192
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11003545_1_a-dU_kLFqf.png
+  sample: https://cdn.tonies.de/o/audio_samples/37ab0444c87fce5884bbe12f3ba5b5023df6e591615349d96191191a/hoerprobe_11003545_astrid_lindgren_weihnachten.mp3
+  web: https://tonies.com/de-de/book-tonies/astrid-lindgren/weihnachten-mit-astrid-lindgren/
+  shop-id: 3428be93-bc22-4f95-9d82-db3cf2b1a471
+  track-desc:
+  - 1 Intro
+  - 2 Pelle zieht aus
+  - 3 Lotta kann fast alles
+  - 4 In der Mülltonne …
+  - 5 Und während Lotta …
+  - 6 Wie gut, dass es Weihnachtsferien gibt, sagte Madita
+  - 7 Die Birken auf Birkenlund …
+  - 8 Zu passenderer Zeit …
+  - 9 In einer Box liegt …
+  - 10 Tomte Tummetott
+  - 11 Guck mal, Madita, es schneit!
+  - 12 Doch da ist noch jemand …
+  - 13 Da drinnen in der Küche …
+  - 14 Tomte und der Fuchs
+  - 15 Weihnachten auf Birkenlund
+  - 16 Und dann kommt …
+  - 17 Madita und Lisabeth …
+  - 18 Weihnachten in Bullerbü
+  - 19 Pippi Langstrumpf feiert Weihnachten
+  - 20 Nur nicht knausern, sagte Michel aus Lönneberga
+  - 21 Währenddessen saß Michel …
+  - 22 Das Spiel ging weiter …
+  - 23 Ein Kalb fällt vom Himmel
+  - 24 Es hatte aufgehört zu schneien …
+  - 25 Johann schaufelt …
+  - 26 Weihnachten im Stall
+  - 27 Outro
+  ids: []
