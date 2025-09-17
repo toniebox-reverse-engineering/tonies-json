@@ -1,0 +1,36 @@
+article: '2000000469'
+lock-data: false
+data:
+- series: Griechische Sagen
+  series-id: griechische-sagen
+  episode: Griechische Sagen II
+  release: null
+  language: de-de
+  category: Wissen & Lernen
+  runtime: 4831
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_4ddff3657f3740bb73351bf0f1fe73d16ce0aad43c4b70434e5cb8fa/3_kCp59lyCD-v4zZD./griechische_sagen_002_griechische_sagen_ii_530x530.jpg
+  sample: null
+  web: null
+  shop-id: null
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  ids:
+  - audio-id: 1701247288
+    hash: d0a6bfaa5047493ecf15e7ad8261bce25cea8703
+    size: 51209989
+    tracks: 13
+    confidence: 0
