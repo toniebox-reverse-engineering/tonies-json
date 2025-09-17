@@ -11,7 +11,7 @@ data:
   age: 3
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11001983_Landscape_7-tsChvH2A.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/13a629e7162790f4bb678d8514938b214dce8e48a17d32351d7efb9b/uk_ryder_sample_audio.wav
   web: https://tonies.com/en-gb/tonies/paw-patrol/paw-patrol-ryder/
   shop-id: 7c2ede02-14e8-40de-9f0d-53560533cb12
   track-desc:
