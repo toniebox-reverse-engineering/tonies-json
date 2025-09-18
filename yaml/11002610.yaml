@@ -2,7 +2,7 @@ article: '11002610'
 lock-data: false
 data:
 - series: Little People, Big Dreams
-  series-id: little-people-big-dreams
+  series-id: kleine-menschen-grosse-ziele
   episode: Inspiring Musicians
   release: 1758326400
   language: en-gb
@@ -10,7 +10,7 @@ data:
   runtime: 41
   age: 3
   origin: stock
-  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002610_Landscape_1-H01HQLH8.jpg
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002610-UK-CleverTo-i2XhGQY2.png
   sample: https://cdn.tonies.de/o/audio_samples/afa42b4c9ca72bb03532555dd2cf307da7ce08d464a544d25fa8bc02/inspiring_musicians_sample.wav
   web: https://tonies.com/en-gb/clever-tonies/little-people-big-dreams/little-people-big-dreams-inspiring-musicians/
   shop-id: 8bb937de-54bf-44eb-9044-ae71a2bd6cd0
