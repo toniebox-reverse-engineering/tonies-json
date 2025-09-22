@@ -20,6 +20,26 @@ data:
   - Discovery Crew - British Wildlife
   - Discovery Crew - Museum at Night
   ids:
+  - audio-id: 1758558375
+    hash: 10bf62a22331db105e7a17a610281b157647a405
+    size: 24217246
+    tracks: 3
+    confidence: 1
+  - audio-id: 1758558167
+    hash: edb197a46beae08f847b6f2420bce3427bcb5b3f
+    size: 23942022
+    tracks: 3
+    confidence: 1
+  - audio-id: 1758557792
+    hash: 9914e7317a6b07fb8da6b02a8653dccb26e30260
+    size: 26889385
+    tracks: 4
+    confidence: 1
+  - audio-id: 1758557087
+    hash: c3d6e75caa4a7bf3a46d53a7cca44379ff28b21b
+    size: 30433046
+    tracks: 5
+    confidence: 1
   - audio-id: 1728289371
     hash: 60499c62a0d6aef817599c7e84da45c92b612de1
     size: 27379916
