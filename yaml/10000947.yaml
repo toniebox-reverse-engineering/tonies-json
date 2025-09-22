@@ -1,0 +1,22 @@
+article: '10000947'
+lock-data: false
+data:
+- series: Look Up!
+  series-id: nathan-bryon
+  episode: Look Up! A Rocket Audio Collection
+  release: 0
+  language: en-gb
+  category: audio-book
+  runtime: 40
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/10001372_Landscape_2-9HIuqea5.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/2dba73ece4fe2e49e3b10663576b285869e86d40f765203df58a76d1/rocket_audio_collection_sample.wav
+  web: https://tonies.com/en-gb/tonies/nathan-bryon/look-up-a-rocket-audio-collection/
+  shop-id: 0eb82432-0267-41ef-b4f6-a13d2e39bab1
+  track-desc:
+  - 'STORY: LOOK UP! Space-loving Rocket inspires brother.'
+  - 'STORY: CLEAN UP! Rocket tackles island pollution.'
+  - 'STORY: SPEAK UP! Rocket fights to save the library.'
+  - 'STORY: BONUS QUIZ'
+  ids: []
