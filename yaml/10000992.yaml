@@ -34,6 +34,11 @@ data:
   - Schlummerschaf im Zauberwald - 17
   - Schlummerschaf im Zauberwald - 18
   ids:
+  - audio-id: 1758628670
+    hash: 5aa214356c2d84b4a4e5a4aefcc46bad6ef8dcf0
+    size: 114788931
+    tracks: 18
+    confidence: 1
   - audio-id: 1662711040
     hash: 76d2fc59e26a4c339c0c6543563b29fcd792e28c
     size: 114706234
