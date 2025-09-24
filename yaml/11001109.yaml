@@ -15,6 +15,7 @@ data:
   web: https://tonies.com/en-gb/clever-tonies/joke-of-the-day/joke-of-the-day/
   shop-id: c31bee4a-d638-47da-b7c5-f27bd51ebb1d
   track-desc:
+  - 24th September
   - 23rd September
   - 22nd September
   - 21st September
@@ -28,7 +29,6 @@ data:
   - 13th September
   - 12th September
   - 11th September
-  - 10th September
   - Joke Of The Day Jingle
   ids:
   - audio-id: 1758585924
