@@ -1,0 +1,25 @@
+article: '11002020'
+lock-data: false
+data:
+- series: tonies® Originals
+  series-id: tonies-originals
+  episode: Un Noël À Croquer
+  release: 0
+  language: fr-fr
+  category: audio-play
+  runtime: 45
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51008744-Tonie_Shado-SSH8rBlk.png
+  sample: null
+  web: https://tonies.com/fr-fr/tonies/tonies-originals-2/un-noel-a-croquer/
+  shop-id: e6a1ba95-c7f5-4aa5-949e-e14c7129032e
+  track-desc:
+  - Prologue - Il était une fois…
+  - Premiers pas (de danse) à Bourg Croquant
+  - La Forêt Gourmande (ou Le Roi des Forêts)
+  - Chaud Cacao
+  - La Mélodie du Chocolat
+  - L’Atelier des Délices
+  - Épilogue - Rendez-vous à Noël prochain
+  ids: []

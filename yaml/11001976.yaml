@@ -1,0 +1,26 @@
+article: '11001976'
+lock-data: false
+data:
+- series: La Pat' Patrouille
+  series-id: paw-patrol
+  episode: Ryder
+  release: 0
+  language: fr-fr
+  category: audio-play
+  runtime: 50
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51008401-Tonie_Shado-196Ju-HO.png
+  sample: null
+  web: https://tonies.com/fr-fr/tonies/la-pat-patrouille/ryder/
+  shop-id: 01559a89-d6ee-42d6-bccd-f2f4e1d1d601
+  track-desc:
+  - Introduction
+  - Générique de la Pat' Patrouille
+  - La Pat' Patrouille sauve Ryder
+  - Interlude
+  - Le Pique-nique de l'extrême
+  - Interlude
+  - La surprise de Ryder
+  - Conclusion
+  ids: []
