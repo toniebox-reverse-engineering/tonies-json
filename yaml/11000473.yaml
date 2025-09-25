@@ -20,6 +20,11 @@ data:
   - 'MEDITATION: Rise and Shine with Chirpy'
   - 'INSTRUMENTAL: Franzipan Farm Birdsong'
   ids:
+  - audio-id: 1758790162
+    hash: aa7fc703eca3f5a98ba9ab47dd8514669e28e227
+    size: 53175557
+    tracks: 9
+    confidence: 1
   - audio-id: 1721984612
     hash: 1ea7d07b4bb6e23230190421aef010c5697de864
     size: 52354597
