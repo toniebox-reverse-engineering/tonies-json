@@ -11,34 +11,10 @@ data:
   age: 4
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51008389-Tonie_Shado--1udpIql.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/d9e7ddf0dc724028999a9185695cde34e1c94fecf08543ac2178f6e3/11001917_calendrierpompon_extrait.mp3
   web: https://tonies.com/fr-fr/tonies/calendrier-de-l-avent/pompon-et-les-lumieres-de-noel/
   shop-id: d122ab72-0ce2-4c98-a7d7-999f05354c73
   track-desc:
   - Introduction
-  - 1er décembre
-  - 2 décembre
-  - 3 décembre
-  - 4 décembre
-  - 5 décembre
-  - 6 décembre
-  - 7 décembre
-  - 8 décembre
-  - 9 décembre
-  - 10 décembre
-  - 11 décembre
-  - 12 décembre
-  - 13 décembre
-  - 14 décembre
-  - 15 décembre
-  - 16 décembre
-  - 17 décembre
-  - 18 décembre
-  - 19 décembre
-  - 20 décembre
-  - 21 décembre
-  - 22 décembre
-  - 23 décembre
-  - 24 décembre
-  - 25 décembre
+  - Présentation de Pompon
   ids: []
