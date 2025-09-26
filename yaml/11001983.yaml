@@ -16,8 +16,11 @@ data:
   shop-id: 7c2ede02-14e8-40de-9f0d-53560533cb12
   track-desc:
   - 01. INTRO
-  - 02. STORY - Pups Save Ryder
-  - 03. STORY - Pups Save an Extreme Lunch
-  - 04. STORY - Pups Save Ryder’s Surprise
-  - 05. OUTRO
+  - 02. SONG - PAW Patrol Theme
+  - 03. STORY - Pups Save Ryder
+  - 04. INTERSTITIAL
+  - 05. STORY - Pups Save an Extreme Lunch
+  - 06. INTERSTITIAL
+  - 07. STORY - Pups Save Ryder’s Surprise
+  - OUTRO
   ids: []
