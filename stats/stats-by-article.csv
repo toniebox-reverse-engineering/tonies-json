@@ -676,6 +676,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000935,Disney,disney,Fantasia,en-gb,audio-play-songs,stock,04299db4-54e4-40f2-a36b-405651bf3e84,https://tonies.com/en-gb/tonies/disney/fantasia/,1,0,0,0
 10000936,Disney,,Lilo & Stitch,en-us,Tonie,stock,7907852648599,,1,1,1,0
 10000937,DC,,Batman,en-us,Tonie,stock,8032002211991,,1,1,1,0
+10000938,Dr. Seuss,,The Lorax,en-us,Tonie,stock,9173752610967,,1,0,0,0
 10000940,Roald Dahl,roald-dahl,James and the Giant Peach,en-gb,audio-book,stock,c8eabd6e-330a-47e2-bc29-a7997cae2753,https://tonies.com/en-gb/tonies/roald-dahl/james-and-the-giant-peach/,1,0,0,0
 10000941,Horrible Histories,horrible-histories,Rotten Romans,en-gb,audio-play-songs,stock,c72e4bea-7658-4c73-804c-026a15b0ea77,https://tonies.com/en-gb/tonies/horrible-histories/rotten-romans/,1,1,1,0
 10000942,DC,dc,Batman,en-gb,audio-play,stock,8a182795-0faf-40e5-a0e7-0fc50112eae7,https://tonies.com/en-gb/tonies/dc/batman/,1,0,0,0
@@ -1413,6 +1414,8 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000903,Big Bright Feelings,big-bright-feelings,Big Bright Feelings Collection,en-gb,audio-play-educational,stock,563f4267-e1e9-4bb8-bb01-52bbe13bf023,https://tonies.com/en-gb/clever-tonies/big-bright-feelings/big-bright-feelings-collection/,1,4,4,0
 11000904,Horrible Histories,horrible-histories,Vile Victorians,en-gb,audio-play,stock,8a8e18e3-7aa1-431c-abe9-7245c12e3a0c,https://tonies.com/en-gb/tonies/horrible-histories/vile-victorians/,1,1,1,0
 11000925,Fantasia,disney-fantasia,Fantasia,de-de,audio-play,stock,a61cabd9-3024-47ce-85f2-ccbf8f3b5f17,https://tonies.com/de-de/tonies/disney-fantasia/fantasia/,1,2,0,0
+11000926,Pinocho y Otros Cuentos Clásicos Tonie (en Español),,,en-us,Tonie,stock,9161066381463,,1,0,0,0
+11000928,Caperucita Roja y Otros Cuentos De Hadas Tonie (en Español),,,en-us,Tonie,stock,9161066315927,,1,0,0,0
 11000933,Gabby's Dollhouse,gab-dollhouse-us,Das Raumschiff / Gabby hat einen Schluckauf,de-de,audio-play,stock,b795c6fd-553b-47c2-9e4c-47910c03fe49,https://tonies.com/de-de/tonies/gabby-s-dollhouse/das-raumschiff-gabby-hat-einen-schluckauf-dach/,1,1,1,0
 11000935,Robin Hood - Schlitzohr von Sherwood Forest,robin-hood-schlitzohr-von-sherwood-forest,Die Schatzkiste und 3 weitere Geschichten,de-de,audio-play,stock,cfe4eb16-53cf-4524-9b3f-5628a3c6c1cb,https://tonies.com/de-de/tonies/robin-hood-schlitzohr-von-sherwood-forest/robin-hood-schlitzohr-von-sherwood-hoerspiel/,1,3,0,0
 11000936,Die Unglaublichen,disney-the-incredibles,Die Unglaublichen – The Incredibles,de-de,audio-play,stock,273fb236-8e04-418c-821f-a6c192f56947,https://tonies.com/de-de/tonies/disney-die-unglaublichen/die-unglaublichen-the-incredibles/,1,1,0,0
@@ -1491,6 +1494,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11001487,Animal World,animal-world,Precious Pets,en-gb,audio-play-educational,stock,4a426b4e-9c6a-4cd6-8b17-37f45c901408,https://tonies.com/en-gb/clever-tonies/animal-world/precious-pets/,1,7,7,0
 11001496,Animal World,animal-world,Animals of Africa,en-gb,audio-play-educational,stock,b89aa94c-3265-4394-8f2c-eac701a0dc77,https://tonies.com/en-gb/clever-tonies/animal-world/animals-of-africa/,1,0,0,0
 11001510,Jurassic World,,Camp Cretaceous,en-us,Tonie,stock,8562972393623,,1,1,1,0
+11001516,Sleepy Duck,,A Sound Journey Through the Forest,en-us,Tonie,stock,9166229340311,,1,0,0,0
 11001517,Schlummerbande,sleepy-friends,Schlummerente - Eine Klangreise durch den Schlummerwald (Limited Edition),de-de,music,stock,3554b44c-c578-42b0-85d5-c30c10d81dba,https://tonies.com/de-de/tonies/schlummerbande/schlummerente-eine-klangreise-durch-den-schlummerwald/,1,0,0,0
 11001518,Tonie Créatif,,Père Noël,fr-fr,creative-tonie,stock,d73dca59-2461-46a6-8cde-a41db962f78d,https://tonies.com/fr-fr/tonies-creatifs/tonie-creatif-pere-noel/,1,0,0,0
 11001520,La Maison De Gabby,gab-dollhouse-us,Marine,fr-fr,audio-play,stock,5e2310c0-8b66-4228-92dc-4a2ef2919fdd,https://tonies.com/fr-fr/tonies/la-maison-de-gabby/marine/,1,0,0,0
@@ -1526,7 +1530,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11001782,Gabby's Dollhouse,gab-dollhouse-us,Der Cupcake-Baum / Die Puppenhausdetektive,de-de,audio-play,stock,0c8142f6-8078-46a8-a015-d21c11525cbe,https://tonies.com/de-de/tonies/gabby-s-dollhouse/kuchi/,1,1,0,0
 11001807,Moana,disney-moana,Moana 2 - Simea,en-gb,audio-play-songs,stock,c512f3a1-c121-4d7c-96f3-ecc16b02504c,https://tonies.com/en-gb/tonies/disney-moana/moana-2-simea/,1,0,0,0
 11001808,Gabby's Dollhouse,gab-dollhouse-us,Cakey Cat,en-gb,audio-play,stock,483182e0-8912-4f22-93f2-3cac3166c081,https://tonies.com/en-gb/tonies/gabby-s-dollhouse/cakey-cat/,1,0,0,0
-11001809,Gabby's Dollhouse,gabby-s-dollhouse,Mercat,en-gb,audio-play-songs,stock,c4538e3b-9450-4dc4-9c03-05190b2a7064,https://tonies.com/en-gb/tonies/gabby-s-dollhouse/gabbys-dollhouse-mercat/,1,0,0,0
+11001809,Gabby's Dollhouse,gab-dollhouse-us,Mercat,en-gb,audio-play-songs,stock,c4538e3b-9450-4dc4-9c03-05190b2a7064,https://tonies.com/en-gb/tonies/gabby-s-dollhouse/gabbys-dollhouse-mercat/,1,0,0,0
 11001810,The Nightmare Before Christmas,the-nightmare-before-christmas,The Nightmare Before Christmas,en-gb,audio-play-songs,stock,8717ef8c-db04-463e-823f-6d2bee76e986,https://tonies.com/en-gb/tonies/the-nightmare-before-christmas/the-nightmare-before-christmas/,1,0,0,0
 11001833,Gabby's Dollhouse,gab-dollhouse-us,Eröffnungsfeier im Puppenhaus / Kitty Fees Übernachtungsparty,de-de,audio-play,stock,a63ea71b-23ef-4e97-8e1a-535187c7b640,https://tonies.com/de-de/tonies/gabby-s-dollhouse/kitty-fee/,1,2,0,0
 11001834,Cocomelon,cocomelon,Raus in die Welt mit JJ,de-de,music,stock,ec1ab74e-d820-4abc-be01-1a71d504c30c,https://tonies.com/de-de/tonies/cocomelon/raus-in-die-welt-mit-jj/,1,2,1,0
@@ -1557,7 +1561,9 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11001914,Enid Blyton,enid-blyton,The Magic Faraway Tree,en-gb,audio-book,stock,37b4d799-d44d-4801-a01e-e6c6f964c9bc,https://tonies.com/en-gb/book-tonies/enid-blyton/the-magic-faraway-tree/,1,0,0,0
 11001916,Adventskalender,adventskalender,Adventskalender 2025 – Flöckchen und die verschwundenen Weihnachtslichter,de-de,audio-play,stock,7555b9a9-2216-4a20-8fb5-e2cde5f8be84,https://tonies.com/de-de/tonies/adventskalender/adventskalender-tonie-2025-floeckchen-und-die-verschwundenen-weihnachtslichter/,1,1,1,0
 11001917,Calendrier De L'Avent,adventskalender,Pompon Et Les Lumières De Noël,fr-fr,audio-play,stock,d122ab72-0ce2-4c98-a7d7-999f05354c73,https://tonies.com/fr-fr/tonies/calendrier-de-l-avent/pompon-et-les-lumieres-de-noel/,1,0,0,0
+11001918,Snowflake and the Missing Christmas Lights Advent Calendar,,,en-us,Tonie,stock,9166191132823,,1,0,0,0
 11001919,tonies® Original,tonies-originals,Advent Calendar 2025: Snowflake and the Missing Christmas Lights,en-gb,audio-play,stock,142ee0ec-7b61-4930-ba8a-1bf5bc48e676,https://tonies.com/en-gb/tonies/tonies-originals/advent-calendar-2025-snowflake-and-the-missing-christmas-lights/,1,0,0,0
+11001921,Peanuts,,A Charlie Brown Christmas (Vince Guaraldi Trio),en-us,Tonie,stock,9166191100055,,1,0,0,0
 11001973,,,,,,,,,1,4,4,0
 11001976,La Pat' Patrouille,paw-patrol,Ryder,fr-fr,audio-play,stock,01559a89-d6ee-42d6-bccd-f2f4e1d1d601,https://tonies.com/fr-fr/tonies/la-pat-patrouille/ryder/,1,0,0,0
 11001977,PAW Patrol,,Ryder,en-us,Tonie,stock,9148582101143,,1,0,0,0
@@ -1574,14 +1580,15 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11002028,La Journée De Léo,la-journee-de-leo,Mission : Tous Sur Le Pot !,fr-fr,audio-play-songs,stock,5af60dc6-f4c6-415a-8f03-1b765a65447d,https://tonies.com/fr-fr/tonies/la-journee-de-leo/mission-tous-sur-le-pot/,1,0,0,0
 11002029,Ratatouille,ratatouille,Ratatouille,en-gb,audio-play,stock,1b0e80ed-ea82-4d48-9f6a-f87148461acc,https://tonies.com/en-gb/tonies/disney-ratatouille/ratatouille/,1,0,0,0
 11002051,Worldwide Tales,w-wide-tales,South Asian Tales,en-gb,audio-play,stock,847cfb9f-8003-435b-8dad-072be54676c4,https://tonies.com/en-gb/tonies/worldwide-tales/south-asian-tales/,1,0,0,0
+11002052,Dora the Explorer,,,en-us,Tonie,stock,9161066348695,,1,0,0,0
 11002084,Tonie Créatif,,Mon Coffret De Coloriage Pirate,fr-fr,creative-tonie,stock,7d37043e-6d71-4d25-81d1-1642e17de461,https://tonies.com/fr-fr/tonies-creatifs/mon-coffret-de-coloriage-pirate/,1,0,0,0
 11002087,Tonie Créatif,,Mon Coffret De Coloriage Féerique,fr-fr,creative-tonie,stock,eb3cb998-4eaa-4130-a065-fe115a73f464,https://tonies.com/fr-fr/tonies-creatifs/mon-coffret-de-coloriage-feerique/,1,0,0,0
 11002135,Sesame Street,,Elmo & Tango Tonie (en Español),en-us,Tonie,stock,9148582068375,,1,0,0,0
 11002136,Sesame Street,,Elmo Tonie (en Español),en-us,Tonie,stock,9148582133911,,1,0,0,0
 11002137,Sesame Street,,Comegalletas Tonie (en Español),en-us,Tonie,stock,9148582035607,,1,0,0,0
-11002140,Potty Training,,,en-us,Tonie,stock,8134364266647,,1,0,0,0
+11002140,Aprendiendo A Ir Al Baño Tonie (en Español),,,en-us,Tonie,stock,9161066283159,,1,0,0,0
 11002141,Europa-Park,europa-park,Ed & Edda – Grand Prix of Europe,de-de,audio-play,stock,8a8fc8d5-3662-46a9-ba88-4ac6025c3da3,https://tonies.com/de-de/tonies/europa-park/ed-edda-grand-prix-of-europe/,1,0,0,0
-11002143,Gabby's Dollhouse,gabby-s-dollhouse,Kitty Fairy,en-gb,audio-play-songs,stock,8223d81e-4721-4c08-863e-7f50163e4a9c,https://tonies.com/en-gb/tonies/gabby-s-dollhouse/gabbys-dollhouse-kitty-fairy/,1,0,0,0
+11002143,Gabby's Dollhouse,gab-dollhouse-us,Kitty Fairy,en-gb,audio-play-songs,stock,8223d81e-4721-4c08-863e-7f50163e4a9c,https://tonies.com/en-gb/tonies/gabby-s-dollhouse/gabbys-dollhouse-kitty-fairy/,1,0,0,0
 11002151,Tales of Teenage Mutant Ninja Turtles,,Leonardo,en-us,Tonie,stock,9148582002839,,1,0,0,0
 11002211,tonies® Original,tonies-originals,Potty Training,en-gb,audio-play,stock,aea3bd46-51aa-42bd-8b39-b95ac5573bb1,https://tonies.com/en-gb/tonies/tonies-originals/potty-training/,1,0,0,0
 11002212,Captain Underpants,audiobooks-captain-underpants,The Adventures of Captain Underpants,en-gb,audio-book,stock,dd3c4df3-de4e-4c6c-808f-c11204118031,https://tonies.com/en-gb/book-tonies/audiobooks-captain-underpants/the-adventures-of-captain-underpants/,1,0,0,0
