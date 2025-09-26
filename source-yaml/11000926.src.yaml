@@ -1,15 +1,15 @@
-article: '11002140'
+article: '11000926'
 lock-data: false
 data:
 - series: tonies-us-en-us,
   series-id: ''
   episode: ''
   release: tonies-us-en-us,
-  language: ''
-  category: ''
+  language: tonies-us-en-us,
+  category: tonies-us-en-us,
   runtime: ''
   age: ''
-  origin: ''
+  origin: tonies-us-en-us,
   image: tonies-us-en-us,
   sample: ''
   web: ''
