@@ -11,7 +11,7 @@ data:
   age: 5
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11003772_2_a-Wm8122Ou.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/1c958b091b71e03647bc80c3ebdcb67699328222a37397ccea9e067b/hoerprobe_11003772_lichterkinder_das_kleine_1x1.mp3
   web: https://tonies.com/de-de/clever-tonies/lichterkinder/das-kleine-einmaleins/
   shop-id: 0ab2c74f-0fce-43ef-a043-940eef333eca
   track-desc:
