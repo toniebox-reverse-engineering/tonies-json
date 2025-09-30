@@ -23,6 +23,11 @@ data:
   - Encanto Storyette
   - Encanto Storyette – Spanish Version
   ids:
+  - audio-id: 1759176165
+    hash: ac4631e0338c5ad8a348f969e6e379092ab98712
+    size: 43027032
+    tracks: 11
+    confidence: 1
   - audio-id: 1758720814
     hash: af168b1ae708cb4274d9e49ed54db85bc5b585ca
     size: 45331458
