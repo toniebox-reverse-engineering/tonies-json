@@ -10,12 +10,12 @@ data:
   runtime: 46
   age: 5
   origin: stock
-  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX1103771_2_a-yrTDEynm.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX1103771_1_a-bPylHsrv.png
   sample: https://cdn.tonies.de/o/audio_samples/42d0339d914a492a70cd3183e5bb8db6b9cc2fe36e3ab2c23192e370/hoerprobe_11003771_geolino_mini_alles_uber_polizei_feuerwehr_und_rettung.mp3
   web: https://tonies.com/de-de/clever-tonies/geo/geolino-mini-alles-ueber-polizei-feuerwehr-und-rettung/
   shop-id: ca0468c6-4a01-4cb1-9f16-0b554127f5f7
   track-desc:
-  - 01 Wiese unter Wasser - Intro
+  - 01 Wiese unter Wasser
   - 02 Wiese unter Wasser
   - 03 Polizei Feuerwehr und Rettung
   - 04 Rettung naht
@@ -27,5 +27,5 @@ data:
   - 10 Tierische Retter – Wir retten euch
   - 11 Die erste Krabbel- und Fliegerrettungsstaffel
   - 12 Alle packen an
-  - 13 Alle packen an - Outro
+  - 13 Alle packen an
   ids: []
