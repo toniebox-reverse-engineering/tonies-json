@@ -31,6 +31,11 @@ data:
   - 17th September
   - Joke Of The Day Jingle
   ids:
+  - audio-id: 1759277116
+    hash: db2fea2605bade07deb67dfb75ea6d7d3ee24ea0
+    size: 20157444
+    tracks: 15
+    confidence: 1
   - audio-id: 1759190716
     hash: 5bf7c336d90f22871e1294808ad6261e6fc58172
     size: 20525571
