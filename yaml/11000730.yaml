@@ -11,7 +11,7 @@ data:
   age: 6
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11000730_1_landscape-9mBCPqod.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/ba41344363458ea7858d32b26d740d39198eaf5a15904a631428260a/01_vicious_violent_and_very_vile_1.mp3
   web: https://tonies.com/en-gb/tonies/horrible-histories/vicious-vikings/
   shop-id: c165654e-4ec3-4c06-82fa-99d2de13f18c
   track-desc:
