@@ -1,18 +1,18 @@
 article: '11001522'
 lock-data: false
 data:
-- series: tonies-json-fr-fr,
-  series-id: tonies-json-fr-fr,
-  episode: tonies-json-fr-fr,
-  release: ''
-  language: tonies-json-fr-fr,
-  category: tonies-json-fr-fr,
-  runtime: tonies-json-fr-fr,
-  age: tonies-json-fr-fr,
-  origin: tonies-json-fr-fr,
-  image: tonies-json-fr-fr,
-  sample: tonies-json-fr-fr,
-  web: tonies-json-fr-fr,
-  shop-id: tonies-json-fr-fr,
-  track-desc: tonies-json-fr-fr,
+- series: ''
+  series-id: ''
+  episode: ''
+  release: tonies-json-fr-fr,
+  language: ''
+  category: ''
+  runtime: ''
+  age: ''
+  origin: ''
+  image: ''
+  sample: ''
+  web: ''
+  shop-id: ''
+  track-desc: ''
   ids: []
