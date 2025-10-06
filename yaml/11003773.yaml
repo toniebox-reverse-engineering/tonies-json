@@ -10,7 +10,7 @@ data:
   runtime: 35
   age: 5
   origin: stock
-  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX1103773_2_a-w1gfL64b.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX1103773_1_a-P-VsbAW9.png
   sample: https://cdn.tonies.de/o/audio_samples/3f46f217cdda90774e36851cec010f250a63c73ec165dc73e178b38b/der_familienzauber_trailer_2_v3.wav
   web: https://tonies.com/de-de/clever-tonies/mira/mira-und-das-fliegende-haus-der-familienzauber/
   shop-id: fcbb6954-3ffe-42fc-8872-618cefe1608c
@@ -22,6 +22,6 @@ data:
   - 05 Der Familienzauber
   - 06 Der Familienzauber
   - 07 Der Familienzauber
-  - 08 Ende Der Welt - MIRA
+  - 08 Ende Der Welt Mira
   - 09 Der Familienzauber
   ids: []

@@ -2,7 +2,7 @@ article: '11003772'
 lock-data: false
 data:
 - series: Lichterkinder
-  series-id: lichterkinder
+  series-id: lichterkinder-2
   episode: Lichterkinder - Das kleine 1x1
   release: 0
   language: de-de
@@ -10,10 +10,41 @@ data:
   runtime: 52
   age: 5
   origin: stock
-  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11003772_2_a-Wm8122Ou.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11003772_1_a-G0VjkR9H.png
   sample: https://cdn.tonies.de/o/audio_samples/1c958b091b71e03647bc80c3ebdcb67699328222a37397ccea9e067b/hoerprobe_11003772_lichterkinder_das_kleine_1x1.mp3
   web: https://tonies.com/de-de/clever-tonies/lichterkinder/das-kleine-einmaleins/
   shop-id: 0ab2c74f-0fce-43ef-a043-940eef333eca
   track-desc:
   - Lernen mit Liki und Lumi
+  - Das Einmaleins hilft dir ein Leben lang
+  - Das 1x1
+  - Doppelt so viel
+  - Das 1x2
+  - Wir tanzen mit der Drei
+  - Das 1x3
+  - Vier Pferdebeine
+  - Das 1x4
+  - Die fünf Sternenzacken
+  - Das 1x5
+  - Ein Reim zu jedem Ergebnis
+  - Das 1x6
+  - Die Glückszahl
+  - Das 1x7
+  - Die Achterbahn
+  - Das 1x8
+  - Der Finger-Zaubertrick
+  - Das 1x9
+  - Prächtige Zahlen
+  - Das 1x10
+  - Zahlen mit sich selbst malnehmen
+  - Die Quadratzahl
+  - Was haben wir gelernt?
+  - Das Aufgabenlied mit der 2
+  - Wir üben mit der Vier
+  - Das Aufgabenlied mit der 4
+  - Die Zahlen werden größer
+  - Das Aufgabenlied mit der 7
+  - Mal so mal so, mal hin und her
+  - Kreuz und quer
+  - Das war die Reise durch's Einmaleins
   ids: []
