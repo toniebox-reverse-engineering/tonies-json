@@ -1,7 +1,7 @@
 article: '11000926'
 lock-data: false
 data:
-- series: tonies-us-en-us,
+- series: ''
   series-id: ''
   episode: ''
   release: ''
@@ -10,7 +10,7 @@ data:
   runtime: ''
   age: ''
   origin: ''
-  image: ''
+  image: tonies-us-en-us,
   sample: ''
   web: ''
   shop-id: ''
