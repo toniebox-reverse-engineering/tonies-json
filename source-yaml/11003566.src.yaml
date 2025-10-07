@@ -4,7 +4,7 @@ data:
 - series: ''
   series-id: ''
   episode: ''
-  release: ''
+  release: tonies-json-de-de,
   language: ''
   category: ''
   runtime: ''
@@ -14,5 +14,5 @@ data:
   sample: ''
   web: ''
   shop-id: ''
-  track-desc: tonies-json-de-de,
+  track-desc: ''
   ids: []
