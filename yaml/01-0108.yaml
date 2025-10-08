@@ -14,7 +14,21 @@ data:
   sample: null
   web: null
   shop-id: null
-  track-desc: []
+  track-desc:
+  - Der kleine Mann in meinem Kopf – Tele
+  - Mein neuer Bruder – Sven van Thom
+  - Supermänsch – Mine & Edgar Wasser
+  - Issam – Maxim
+  - Schweinhornschnabelohrwurm – Klee
+  - Lass mich (nicht) allein – Dokter Renz & Francesco Wilking
+  - Ein neuer Tag – Clueso
+  - Lisa – OVE
+  - Planet – Deniz Jaspersen
+  - Uhlalala – Lisa Who & Sebastian Madsen
+  - Ich kann stehen – Tex
+  - Raus an die Luft – Lina Maly
+  - Seeigel – Keimzeit
+  - Hummelsong – Spaceman Spiff
   ids:
   - audio-id: 1506522101
     hash: ffb1c3856dac652008bff6debab4033a2b2a9e54
