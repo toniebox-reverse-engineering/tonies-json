@@ -14,7 +14,15 @@ data:
   sample: null
   web: null
   shop-id: null
-  track-desc: []
+  track-desc:
+  - Üben, Üben, Üben!
+  - Beim Eis-Dealer!
+  - Absolute Beginner!
+  - Krashkiddz!
+  - Von Sieb an der Hacke!
+  - 1:0 Für die Punkies!
+  - Krasser Prank!
+  - Punkies Forever!
   ids:
   - audio-id: 1539355961
     hash: 5db7422d7409e12c3c615aed52eff3e117526a2a
