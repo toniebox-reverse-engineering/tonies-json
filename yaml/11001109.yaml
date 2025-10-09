@@ -31,6 +31,11 @@ data:
   - 26th September
   - Joke Of The Day Jingle
   ids:
+  - audio-id: 1759968314
+    hash: 43b5aefd12f08f3e96259a85413a067f9ea4b5b9
+    size: 21761896
+    tracks: 15
+    confidence: 1
   - audio-id: 1759881914
     hash: 2e8e3c9a8731c14d816d4e0e90f32a9508a61f99
     size: 21522254
