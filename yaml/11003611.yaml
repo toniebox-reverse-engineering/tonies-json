@@ -4,10 +4,10 @@ data:
 - series: Enid Blyton
   series-id: enid-blyton
   episode: One-A-Day Christmas Stories
-  release: 0
+  release: 1760313600
   language: en-gb
   category: audio-book
-  runtime: 0
+  runtime: 275
   age: 5
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11003611_Landscape_7-xfxbkTc9.png

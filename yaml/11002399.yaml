@@ -4,7 +4,7 @@ data:
 - series: Teenage Mutant Ninja Turtles
   series-id: teenage-mutant-ninja-turtles
   episode: 'Teenage Mutant Ninja Turtles: Leonardo'
-  release: 0
+  release: 1760313600
   language: en-gb
   category: audio-play
   runtime: 45
@@ -15,11 +15,11 @@ data:
   web: https://tonies.com/en-gb/tonies/teenage-mutant-ninja-turtles/teenage-mutant-ninja-turtles-leonardo/
   shop-id: c8b885f8-7852-4409-9647-bacefc409db6
   track-desc:
-  - 01_STORY_Meet the Turtles
-  - 02_SONG_Theme Song
-  - 03_STORY_Adventure Part 1
-  - 04_QUIZ_Know Your Turtles
-  - 05_STORY_Adventure Part 2
-  - 06_STORY_April Interviews
-  - 07_STORY_Adventure Part 3
+  - 'STORY: Meet The Turtles'
+  - 'SONG: Theme Song'
+  - 'STORY: Adventure Part 1'
+  - 'QUIZ: Know Your Turtles'
+  - 'STORY: Adventure Part 2'
+  - 'STORY: April Interviews'
+  - 'STORY: Adventure Part 3'
   ids: []

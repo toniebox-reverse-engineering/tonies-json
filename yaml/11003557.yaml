@@ -1,0 +1,33 @@
+article: '11003557'
+lock-data: false
+data:
+- series: tonies® Original
+  series-id: tonies-originals
+  episode: My First Tonies - Travel Set
+  release: 1755216000
+  language: en-gb
+  category: audio-play-songs
+  runtime: 0
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11003557_Landscape_1-r6nFrdne.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/d4627b24d88c4089bac09319544a5e6714e482c04386813282347789/audio_sample_train_song.wav
+  web: https://tonies.com/en-gb/my-first-tonies/tonies-originals/my-first-tonies-travel-set/
+  shop-id: e41031ca-77c4-4153-b9a5-b4d967a6aece
+  track-desc:
+  - Plane - Aeroplane Sound & Song
+  - Plane - Can You Hear the Ship?
+  - Plane -  Freddy's Special Flight
+  - Plane - Above The Clouds (Soundscape & Music)
+  - Plane - Outro
+  - Train - Train Sound & Song
+  - Train - Can You Hear the Train?
+  - Train - The Dandelion and the Train
+  - Train - Chugging Along (Soundscape & Music)
+  - Train - Outro
+  - Ship -  Ship Sound & Song
+  - Ship - Can You Hear the Ship?
+  - Ship - Sea Shanty
+  - Ship - On the Sea (Soundscape & Music)
+  - Ship - Outro
+  ids: []

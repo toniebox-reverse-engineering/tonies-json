@@ -4,14 +4,14 @@ data:
 - series: How to train your Dragon
   series-id: how-to-train-your-dragon
   episode: 'How to Train Your Dragon: Toothless'
-  release: 0
+  release: 1760313600
   language: en-gb
   category: audio-book
   runtime: 65
   age: 5
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002643_Landscape_7-Ekqm95fG.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/648e004a835c59b443f891d1f77aabbaf26070a583d1d59ace738000/copy_of_toothless_sample_1_30_secs.mp3
   web: https://tonies.com/en-gb/tonies/how-to-train-your-dragon/how-to-train-your-dragon-toothless/
   shop-id: 3d331645-36bf-4907-aba3-75c6094ba2a1
   track-desc:
