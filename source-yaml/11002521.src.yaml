@@ -2,9 +2,9 @@ article: '11002521'
 lock-data: false
 data:
 - series: ''
-  series-id: ''
+  series-id: tonies-json-de-de,
   episode: ''
-  release: tonies-shopapi-de-de,
+  release: ''
   language: ''
   category: ''
   runtime: ''
