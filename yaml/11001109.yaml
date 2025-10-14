@@ -31,6 +31,11 @@ data:
   - 1st October
   - Joke Of The Day Jingle
   ids:
+  - audio-id: 1760400312
+    hash: 49cfadd0569a3d3be2d4754374975b88aef96a47
+    size: 21188128
+    tracks: 15
+    confidence: 1
   - audio-id: 1760313912
     hash: 9618c88eac7532c34b89d1b80acd9b8417edf669
     size: 21333557
