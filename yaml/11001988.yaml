@@ -1,0 +1,19 @@
+article: '11001988'
+lock-data: false
+data:
+- series: PAW Patrol
+  series-id: paw-patrol
+  episode: Ryder
+  release: 1760486400
+  language: de-de
+  category: audio-play
+  runtime: 50
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11001988_1_a-wSOCbod3.png
+  sample: null
+  web: https://tonies.com/de-de/tonies/paw-patrol/ryder/
+  shop-id: e9c0cd11-5761-488b-aad4-84d3f1533e3e
+  track-desc:
+  - Paw Patrol – Intro
+  ids: []

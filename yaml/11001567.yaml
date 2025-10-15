@@ -1,0 +1,39 @@
+article: '11001567'
+lock-data: false
+data:
+- series: Sing Kinderlieder
+  series-id: sing-kinderlieder
+  episode: 'Timmy Traktor & seine Freunde: Ferien auf dem Bauernhof'
+  release: 1760486400
+  language: de-de
+  category: music
+  runtime: 60
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11001567_1_a-_Xz2MujJ.png
+  sample: https://cdn.tonies.de/o/audio_samples/3efc23e312bbea91d6ad505fcb249517b6854aebe4f6f5a52ef49900/hoerprobe_11001567_sing_kinderlieder_timmy_traktor_seine_freunde.mp3
+  web: https://tonies.com/de-de/tonies/sing-kinderlieder/timmy-traktor/
+  shop-id: fbc70bac-45f7-4547-bc85-7716078514e1
+  track-desc:
+  - 01. Endlich Ferien!
+  - 02. Der schnellste Traktor der Welt
+  - 03. Ich bin Bauer und ich lieb es!
+  - 04. Ronny, das Pony
+  - 05. Die Fliege Flo
+  - 06. Alles kuhl! (Hier im Kuhstall)
+  - 07. Melkroboter Merlin
+  - 08. Klein, aber oho!
+  - 09. Saustall (Der Aufräum-Song)
+  - 10. Guten Morgen, Kikerikiki!
+  - 11. 1, 2, 3 - Die Hühner zählen jedes Ei (Der Hühner-Song)
+  - 12. Lecker, Schmecker, Schmackofatz
+  - 13. Der rote Traktor (Ich bin ein Trak-Trak-Traktor)
+  - 14. Plitsch-Platsch (Der Güllewagen-Song)
+  - 15. Schafsalon (Schnipp, schnapp, Haare ab!)
+  - 16. Quak, Oink, Miau und Muh
+  - 17. Der Mähdrescher-Song
+  - 18. Kati, die Katze
+  - 19. Henri Hofhund
+  - 20. Der Bauer hat Geburtstag
+  - 21. Jetzt schläft der ganze Bauernhof
+  ids: []

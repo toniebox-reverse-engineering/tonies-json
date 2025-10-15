@@ -1,0 +1,25 @@
+article: '11001131'
+lock-data: false
+data:
+- series: Zoomania
+  series-id: disney-zoomania
+  episode: Zoomania 1 + 2
+  release: 1760486400
+  language: de-de
+  category: audio-play
+  runtime: 120
+  age: 6
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11001131_1_a-NLaidp9k.png
+  sample: https://cdn.tonies.de/o/audio_samples/f45705bb1a89b1cc2124ad932ebceec633ea477cbe5425ab731dfb32/hoerprobe_11001131_disney_zoomania.mp3
+  web: https://tonies.com/de-de/tonies/disney-zoomania/zoomania-1-2/
+  shop-id: 1f31ce7b-9fb7-40bc-8a0e-d00a0845a940
+  track-desc:
+  - 'Kapitel 01: Zoomania 1'
+  - 'Kapitel 02: Zoomania 1'
+  - 'Kapitel 03: Zoomania 1'
+  - 'Kapitel 04: Zoomania 1'
+  - 'Kapitel 05: Zoomania 1'
+  - 'Kapitel 06: Zoomania 1'
+  - 'Kapitel 07: Zoomania 1'
+  ids: []
