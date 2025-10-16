@@ -14,7 +14,20 @@ data:
   sample: null
   web: null
   shop-id: null
-  track-desc: []
+  track-desc:
+  - Mein neuer Bruder
+  - Die Geschichte vom fliegenden Kaugummi
+  - Mein Pups
+  - Schokoladenpilz
+  - Stefanie
+  - Nicht schon wieder an die Ostsee
+  - Cowie Harpendale
+  - Ich tanz den Spatz
+  - Glatze wie Opa
+  - Der Sommer ist vorbei
+  - Nie wieder heim
+  - Gummistiefel sind nicht zum Kauen da
+  - Der alte Baum
   ids:
   - audio-id: 1579697260
     hash: 98e226360981b5402c2d523dba1b1b597eb30e74
