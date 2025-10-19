@@ -31,6 +31,11 @@ data:
   - Monday 6th October
   - Today With Tonies Jingle
   ids:
+  - audio-id: 1760828712
+    hash: 00ef2a39121c7a78509324380aff017a96032c68
+    size: 155364582
+    tracks: 15
+    confidence: 1
   - audio-id: 1760742312
     hash: 72760eb3add7cc9d88f16267dc58ec86de64cebd
     size: 155548902
