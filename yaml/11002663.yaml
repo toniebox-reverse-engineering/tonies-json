@@ -11,7 +11,7 @@ data:
   age: 8
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11002663_1_a-XDNP_KrU.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/7d2b8d71b1b00959994f3f8af6191043333ac72c576a47c56cf8ac43/horprobe_wicked.mp3
   web: https://tonies.com/de-de/tonies/wicked/wicked/
   shop-id: ec3233e7-01e3-4fab-a85c-80cddc0c227e
   track-desc:
