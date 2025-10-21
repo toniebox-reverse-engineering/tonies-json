@@ -15,6 +15,7 @@ data:
   web: https://tonies.com/en-gb/clever-tonies/today-with-tonies/today-with-tonies/
   shop-id: a742a774-63b0-450f-8303-6552b3c99bc9
   track-desc:
+  - Tuesday 21st October
   - Monday 20th October
   - Sunday 19th October
   - Saturday 18th October
@@ -28,7 +29,6 @@ data:
   - Friday 10th October
   - Thursday 9th October
   - Wednesday 8th October
-  - Tuesday 7th October
   - Today With Tonies Jingle
   ids:
   - audio-id: 1760915112
