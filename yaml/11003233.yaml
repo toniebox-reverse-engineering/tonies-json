@@ -27,4 +27,9 @@ data:
   - 'OUTRO: A Brilliantly Horrid Sign Off'
   - OUTRO
   - CREDITS
-  ids: []
+  ids:
+  - audio-id: 1756205438
+    hash: 0e5f68a7155443ce8d658afe2fb7800ff2ca8063
+    size: 80233487
+    tracks: 12
+    confidence: 1
