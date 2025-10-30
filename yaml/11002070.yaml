@@ -1,0 +1,28 @@
+article: '11002070'
+lock-data: false
+data:
+- series: Dora L'Exploratrice
+  series-id: dora-the-explorer
+  episode: Dora
+  release: 1761782400
+  language: fr-fr
+  category: audio-play
+  runtime: 64
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51008863-Tonie_Shado-pzkp4g1B.png
+  sample: https://cdn.tonies.de/o/audio_samples/16fd9d9e0fe55c731453b7ca365e24fb7402df185b38ed831d2b3d65/dora_tonies_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/dora-l-exploratrice/dora/
+  shop-id: 75b6eb5a-f964-43b1-89f3-305cb130cf88
+  track-desc:
+  - Introduction
+  - Générique
+  - À la recherche de Rapidou
+  - Interlude
+  - Le cadeau mystérieux
+  - Interlude
+  - La chemisette magique
+  - Interlude
+  - Une grande surprise pour Chipeur
+  - Conclusion
+  ids: []

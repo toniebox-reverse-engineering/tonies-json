@@ -1,0 +1,24 @@
+article: '10001497'
+lock-data: false
+data:
+- series: Cars
+  series-id: disney-cars
+  episode: Cars 2
+  release: 1761782400
+  language: fr-fr
+  category: audio-play
+  runtime: 59
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/98-1255-Disney-Cars_-eqKvP3yA.png
+  sample: https://cdn.tonies.de/o/audio_samples/f84c49c6398094a9a131ef645fcbd6aefdd55a7e1f5e5dbef9144c08/cars2_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/disney-cars/cars-2/
+  shop-id: 9e1ca529-addb-4b97-bf2c-8cb94b5d5267
+  track-desc:
+  - Cars 2 - Partie 1
+  - Cars 2 - Partie 2
+  - Cars 2 - Partie 3
+  - Cars 2 - Partie 4
+  - Cars 2 - Partie 5
+  - Cars 2 - Partie 6
+  ids: []
