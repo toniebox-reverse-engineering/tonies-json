@@ -1,0 +1,40 @@
+article: '2000011567'
+lock-data: false
+data:
+- series: Fünf Freunde Junior
+  series-id: fuenf-freunde-junior
+  episode: 'Folge 13: Der Schneemann-Wettbewerb/Wal in Not'
+  release: 1761868800
+  language: de-de
+  category: audio-play
+  runtime: 3475
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_8c611fa9f5e4187dd53a4078747ccc41bba4afe97f5c1c19f0fa78f1/3_9CqzVmXmFwCzcQjJ/funf_freunde_junior_folge_13__der_schneemann_wet_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/fuenf-freunde-junior/folge-13-der-schneemann-wettbewerbwal-in-not/
+  shop-id: 1f780e8c-c83f-4928-a843-4535a60932d4
+  track-desc:
+  - 'Inhaltsangabe: Der Schneemann-Wettbewerb (Folge 13)'
+  - Fünf Freunde Junior Titelsong
+  - 'Kapitel 01: Der Schneemann-Wettbewerb (Folge 13)'
+  - 'Kapitel 02: Der Schneemann-Wettbewerb (Folge 13)'
+  - 'Kapitel 03: Der Schneemann-Wettbewerb (Folge 13)'
+  - 'Kapitel 04: Der Schneemann-Wettbewerb (Folge 13)'
+  - 'Kapitel 05: Der Schneemann-Wettbewerb (Folge 13)'
+  - 'Kapitel 06: Der Schneemann-Wettbewerb (Folge 13)'
+  - 'Kapitel 07: Der Schneemann-Wettbewerb (Folge 13)'
+  - Titelsong (Instrumental)
+  - 'Inhaltsangab: Wal in Not (Folge 13)'
+  - Fünf Freunde Junior Titelsong (Reprise)
+  - 'Kapitel 01: Wal in Not (Folge 13)'
+  - 'Kapitel 02: Wal in Not (Folge 13)'
+  - 'Kapitel 03: Wal in Not (Folge 13)'
+  - 'Kapitel 04: Wal in Not (Folge 13)'
+  - 'Kapitel 05: Wal in Not (Folge 13)'
+  - 'Kapitel 06: Wal in Not (Folge 13)'
+  - 'Kapitel 07: Wal in Not (Folge 13)'
+  - 'Kapitel 08: Wal in Not (Folge 13)'
+  - Fünf Freunde Junior Schlusssong
+  - 'Outro: Wal in Not (Folge 13)'
+  ids: []
