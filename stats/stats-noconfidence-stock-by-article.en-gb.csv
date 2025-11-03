@@ -44,6 +44,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000197,Favourite Children’s Songs,,Counting Songs / Times,en-gb,music,stock,,,1,1,1,0
 10000201,Favourite Classics,,Robinson Crusoe and other classic stories,en-gb,audio-book,stock,,,1,1,1,0
 10000210,Disney,disney,Mulan,en-gb,audio-play-songs,stock,ef321c83-b494-4a4d-a63b-336a9febc720,https://tonies.com/en-gb/tonies/disney/mulan/,1,0,0,0
+10000212,Disney,disney-disney,Up,en-gb,audio-book-songs,stock,39528dde-463d-47ba-b651-c0f0d344f0ae,https://tonies.com/en-gb/tonies/disney-disney/disney-up/,1,0,0,0
 10000225,Guess How Much I Love You,guess-how-much-i-love-you,Guess How Much I Love You,en-gb,audio-play-songs,stock,78e82d6a-bb4e-4616-9e77-d52ac2422a56,https://tonies.com/en-gb/tonies/guess-how-much-i-love-you/guess-how-much-i-love-you/,1,0,0,0
 10000227,Maya The Bee,,The birth of Maya,en-gb,Audiobook,stock,,,1,0,0,0
 10000228,Despicable Me,ich-einfach-unverbesserlich,The Junior Novel,en-gb,audio-book,stock,90d0622f-8fb9-4cbd-b38f-409567abe6a4,https://tonies.com/en-gb/tonies/despicable-me/the-junior-novel/,1,1,1,0
@@ -268,6 +269,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000522,In the Night Garden,in-the-night-garden,Bedtime with Upsy Daisy,en-gb,audio-play,stock,b7a1ae7f-1662-4251-a830-12d5ba0d7149,https://tonies.com/en-gb/tonies/in-the-night-garden/bedtime-with-upsy-daisy/,1,1,1,0
 11000523,Ten Little,ten-little,The Ten Little Collection,en-gb,audio-book,stock,e364be42-e2bf-449c-b18d-8a14079e0e6d,https://tonies.com/en-gb/tonies/ten-little/the-ten-little-collection/,1,1,1,0
 11000524,Kung Fu Panda,kung-fu-panda,Kung Fu Panda,en-gb,audio-play,stock,2642471f-420a-4c3f-82b0-7a2596666a04,https://tonies.com/en-gb/tonies/kung-fu-panda/kung-fu-panda/,1,1,1,0
+11000525,Rabbit & Bear,rabbit-bear,Rabbit & Bear,en-gb,audio-book,stock,230da0f3-757c-465d-9b6c-5321764c3f7e,https://tonies.com/en-gb/tonies/rabbit-bear/rabbit-bear/,1,0,0,0
 11000537,Thomas and Friends,thomas-and-friends,All Engines Go: Thomas the Tank Engine,en-gb,audio-play,stock,1f87fc67-4ec3-42e8-a155-986314df5532,https://tonies.com/en-gb/tonies/thomas-and-friends/all-engines-go-thomas/,1,0,0,0
 11000538,Thomas and Friends,thomas-seine-freunde,All Engines Go: Percy,en-gb,audio-play,stock,bad32e9e-837a-4eed-9c2c-a723541efe67,https://tonies.com/en-gb/tonies/thomas-and-friends/all-engines-go-percy/,1,2,2,0
 11000548,Disney The Muppets,disney-the-muppets,Kermit the Frog,en-gb,audio-play-songs,stock,2dcab0ee-8001-44e6-bb29-08d2ba81ed7b,https://tonies.com/en-gb/tonies/disney-the-muppets/kermit-the-frog/,1,0,0,0
@@ -299,6 +301,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000904,Horrible Histories,horrible-histories,Vile Victorians,en-gb,audio-play,stock,8a8e18e3-7aa1-431c-abe9-7245c12e3a0c,https://tonies.com/en-gb/tonies/horrible-histories/vile-victorians/,1,1,1,0
 11000942,tonies® Original,tonies-originals,Team Smarticus,en-gb,audio-play-educational,stock,a9100d1a-5951-4c7b-be26-a9c502e5d40c,https://tonies.com/en-gb/clever-tonies/tonies-originals/team-smarticus/,1,2,2,0
 11000943,Supertato,supertato,Simon & Schuster Supertato,en-gb,audio-play,stock,3d132218-db2d-403b-8f06-d695d43a96c9,https://tonies.com/en-gb/tonies/supertato/simon-schuster-supertato/,1,1,1,0
+11000952,Bing,bing,Bing's Bedtime,en-gb,audio-play-songs,stock,b2a4e4e7-43ff-4115-aa37-4627a6c77f60,https://tonies.com/en-gb/tonies/bing/bings-bedtime/,1,0,0,0
 11000957,Daniel Tiger,daniel-tiger,Daniel Tiger's Neighbourhood,en-gb,audio-play-songs,stock,7fd14d2a-907b-418c-9d9c-e07c503c0fab,https://tonies.com/en-gb/tonies/daniel-tiger/daniel-tiger-daniel-tiger-uk/,1,0,0,0
 11000958,Rachel Riley,rachel-riley,Rachel Riley's Maths Magic,en-gb,audio-play-educational,stock,dd2a8a7b-b1a0-44cc-bd65-68adb3f367ec,https://tonies.com/en-gb/clever-tonies/rachel-riley/rachel-rileys-maths-magic/,1,1,1,0
 11001000,Cocomelon,cocomelon,Cody,en-gb,music,stock,0e3e8999-4026-44c0-97ff-5e44ab47e6ba,https://tonies.com/en-gb/tonies/cocomelon/cody/,1,0,0,0
@@ -342,6 +345,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11001983,PAW Patrol,paw-patrol,Ryder,en-gb,audio-play,stock,7c2ede02-14e8-40de-9f0d-53560533cb12,https://tonies.com/en-gb/tonies/paw-patrol/paw-patrol-ryder/,1,0,0,0
 11002027,Finding Dory,finding-dory,Finding Dory,en-gb,audio-play,stock,b5de3826-319f-4f46-92f2-998245e6810c,https://tonies.com/en-gb/tonies/disney-finding-dory/finding-dory/,1,0,0,0
 11002029,Ratatouille,ratatouille,Ratatouille,en-gb,audio-play,stock,1b0e80ed-ea82-4d48-9f6a-f87148461acc,https://tonies.com/en-gb/tonies/disney-ratatouille/ratatouille/,1,0,0,0
+11002048,Hot Wheels,hot-wheels,Hot Wheels,en-gb,audio-play,stock,86b71b22-eb42-444a-8630-eba604db2612,https://tonies.com/en-gb/tonies/hot-wheels/hot-wheels/,1,0,0,0
 11002051,Worldwide Tales,w-wide-tales,South Asian Tales,en-gb,audio-play,stock,847cfb9f-8003-435b-8dad-072be54676c4,https://tonies.com/en-gb/tonies/worldwide-tales/south-asian-tales/,1,0,0,0
 11002143,Gabby's Dollhouse,gab-dollhouse-us,Kitty Fairy,en-gb,audio-play-songs,stock,8223d81e-4721-4c08-863e-7f50163e4a9c,https://tonies.com/en-gb/tonies/gabby-s-dollhouse/gabbys-dollhouse-kitty-fairy/,1,0,0,0
 11002211,tonies® Original,tonies-originals,Potty Training,en-gb,audio-play,stock,aea3bd46-51aa-42bd-8b39-b95ac5573bb1,https://tonies.com/en-gb/tonies/tonies-originals/potty-training/,1,0,0,0
@@ -353,6 +357,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11002217,The Questioneers,the-questioneers,Ada Twist and the Perilous Pants,en-gb,audio-book,stock,0a50c7fa-45fa-4d2c-8493-2b04e04314cf,https://tonies.com/en-gb/book-tonies/the-questioneers/ada-twist-and-the-perilous-pants/,1,0,0,0
 11002219,The Questioneers,the-questioneers,Iggy Peck and the Mysterious Mansion,en-gb,audio-book,stock,59332f65-584c-461c-a76b-a75731429e0d,https://tonies.com/en-gb/book-tonies/the-questioneers/iggy-peck-and-the-mysterious-mansion/,1,0,0,0
 11002220,The Questioneers,the-questioneers,Sofia Valdez and the Vanishing Vote,en-gb,audio-book,stock,be081a31-ec84-466d-a7d0-a9e4d152a974,https://tonies.com/en-gb/book-tonies/the-questioneers/sofia-valdez-and-the-vanishing-vote/,1,0,0,0
+11002265,Wicked,wicked,Wicked,en-gb,audio-play-songs,stock,281698ea-f672-4dfc-934b-34d1f82ebc0b,https://tonies.com/en-gb/tonies/wicked/wicked/,1,0,0,0
 11002272,Ms. Rachel,ms-rachel,Ms. Rachel,en-gb,audio-play-songs,stock,64e6aa9a-084c-4e7a-960e-3a49f3ed94ea,https://tonies.com/en-gb/tonies/ms-rachel/msrachel/,1,0,0,0
 11002399,Teenage Mutant Ninja Turtles,teenage-mutant-ninja-turtles,Teenage Mutant Ninja Turtles: Leonardo,en-gb,audio-play,stock,c8b885f8-7852-4409-9647-bacefc409db6,https://tonies.com/en-gb/tonies/teenage-mutant-ninja-turtles/teenage-mutant-ninja-turtles-leonardo/,1,0,0,0
 11002400,Julia Donaldson,julia-donaldson,Tiddler,en-gb,audio-book-songs,stock,73edda0b-9cb6-45c2-b8a9-fd883f56d00d,https://tonies.com/en-gb/tonies/julia-donaldson/tiddler/,1,0,0,0
@@ -366,7 +371,9 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11002602,David Walliams,david-walliams-2,Slime,en-gb,audio-book,stock,f0ad35fa-40be-46f0-95cf-166759092d9d,https://tonies.com/en-gb/book-tonies/david-walliams-2/slime/,1,0,0,0
 11002603,Adam Kay,adam-kay,Kay's Marvellous Medicine,en-gb,audio-book,stock,f01ce58a-d873-47b4-8db0-228a9ca14ac2,https://tonies.com/en-gb/book-tonies/adam-kay/kays-marvellous-medicine/,1,1,1,0
 11002604,David Walliams,david-walliams-2,The World's Worst Children 2,en-gb,audio-book,stock,54a2cc86-b0da-4f32-a5c8-e76b5e8502d8,https://tonies.com/en-gb/book-tonies/david-walliams-2/the-worlds-worst-children-2/,1,1,1,0
+11002605,David Walliams,david-walliams-2,The World's Worst Children 3,en-gb,audio-book,stock,131ce759-0c28-4a1b-a823-117025c729ee,https://tonies.com/en-gb/book-tonies/david-walliams-2/the-worlds-worst-children-3/,1,0,0,0
 11002606,Roald Dahl,roald-dahl,Fantastic Mr. Fox,en-gb,audio-book,stock,ac9cb591-5fd5-4568-953f-bd509ec9600e,https://tonies.com/en-gb/book-tonies/roald-dahl/fantastic-mr-fox/,1,0,0,0
+11002607,Roald Dahl,roald-dahl,Georges Marvellous Medicine,en-gb,audio-book,stock,64b581ef-78f2-4e6a-8af7-e457aeb553a6,https://tonies.com/en-gb/book-tonies/roald-dahl/georges-marvellous-medicine/,1,0,0,0
 11002609,"Little People, Big Dreams",kleine-menschen-grosse-ziele,Women In Science,en-gb,audio-play-educational,stock,7d7cc827-6cc8-4f5c-9c9d-648c3c6752ca,https://tonies.com/en-gb/clever-tonies/little-people-big-dreams/women-in-science/,1,0,0,0
 11002610,"Little People, Big Dreams",kleine-menschen-grosse-ziele,Inspiring Musicians,en-gb,audio-play-educational,stock,8bb937de-54bf-44eb-9044-ae71a2bd6cd0,https://tonies.com/en-gb/clever-tonies/little-people-big-dreams/little-people-big-dreams-inspiring-musicians/,1,0,0,0
 11002611,Today with tonies,today-with-tonies,True or False?,en-gb,audio-play-educational,stock,eec206e6-0e4c-45d7-bcb4-6f2d7e061b64,https://tonies.com/en-gb/clever-tonies/today-with-tonies/true-or-false/,1,1,1,0
@@ -387,6 +394,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11003562,tonies® Original,tonies-originals,My First Tonies - Farm Set,en-gb,audio-play-songs,stock,6e4cffdb-4b8e-40b7-b268-1b4ce6b4a988,https://tonies.com/en-gb/my-first-tonies/tonies-originals/my-first-tonies-farm-set/,1,0,0,0
 11003563,tonies® Original,tonies-originals,My First Tonies - Jungle Set,en-gb,audio-play-songs,stock,5cf96a60-e3ae-4ed2-8f53-8a7d3c6c01b8,https://tonies.com/en-gb/my-first-tonies/tonies-originals/my-first-tonies-jungle-set/,1,0,0,0
 11003583,tonies® Original,tonies-originals,Every Body's Talking (Set),en-gb,audio-play-educational,stock,7a1a393a-336f-4aca-87de-2bf2162c4334,https://tonies.com/en-gb/clever-tonies/tonies-originals/every-bodys-talkin/,1,0,0,0
+11003592,Ladybird Audio Adventures,ladybird-audio-adventures,Adventure Atlas: Wild Earth,en-gb,audio-play-educational,stock,0d7e1386-1ade-4bfa-9244-98c693db07a7,https://tonies.com/en-gb/clever-tonies/ladybird-audio-adventures/adventure-atlas-wild-earth/,1,0,0,0
 11003611,Enid Blyton,enid-blyton,One-A-Day Christmas Stories,en-gb,audio-book,stock,04dea33e-0b8f-4261-9ed8-0ac1aca2a400,https://tonies.com/en-gb/book-tonies/enid-blyton/one-a-day-christmas-stories/,1,0,0,0
 11003612,Enid Blyton,enid-blyton,The Folk of the Faraway Tree,en-gb,audio-book,stock,9537145d-0a6b-44b2-95bf-8da327b0c776,https://tonies.com/en-gb/book-tonies/enid-blyton/the-folk-of-the-faraway-tree/,1,0,0,0
 11003613,Enid Blyton,enid-blyton,Five-Minute Stories,en-gb,audio-book,stock,a25475f5-c5d7-4113-bc22-8a5a82ad123f,https://tonies.com/en-gb/book-tonies/enid-blyton/five-minute-stories/,1,0,0,0

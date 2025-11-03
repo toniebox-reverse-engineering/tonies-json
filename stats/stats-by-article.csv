@@ -305,6 +305,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000205,Creative-Tonie,,Conductor,en-gb,creative-tonie,stock,2fd15152-abff-4b8e-a707-e6db486c9b65,https://tonies.com/de-de///,1,0,0,0
 10000209,Mulan,disney-mulan,Mulan,de-de,audio-play-songs,stock,936418a2-dc36-461d-81ac-d4e5d650b82e,https://tonies.com/de-de/tonies/disney-mulan/mulan/,1,1,1,0
 10000210,Disney,disney,Mulan,en-gb,audio-play-songs,stock,ef321c83-b494-4a4d-a63b-336a9febc720,https://tonies.com/en-gb/tonies/disney/mulan/,1,0,0,0
+10000212,Disney,disney-disney,Up,en-gb,audio-book-songs,stock,39528dde-463d-47ba-b651-c0f0d344f0ae,https://tonies.com/en-gb/tonies/disney-disney/disney-up/,1,0,0,0
 10000215,Geschichten vom Löwen,geschichten-vom-loewen,"Die Geschichte vom Löwen, der nicht schreiben konnte und zwei weitere Löwengeschichten",de-de,audio-book,stock,ce6dde0c-7644-497d-ba37-214098ae4806,https://tonies.com/de-de/tonies/geschichten-vom-loewen/die-geschichte-vom-loewen-der-nicht-schreiben-konnte/,1,1,1,0
 10000223,"Weißt du eigentlich, wie lieb ich dich hab",weisst-du-eigentlich-wie-lieb-ich-dich-hab,"Weißt du eigentlich, wie lieb ich dich hab?",de-de,audio-book-songs,stock,afe9a3eb-e3a1-4124-b78c-271695458cc5,https://tonies.com/de-de/tonies/weisst-du-eigentlich-wie-lieb-ich-dich-hab/weisst-du-eigentlich-wie-lieb-ich-dich-hab/,1,1,1,0
 10000224,Creative-Tonie,,Easter Bunny,en-gb,creative-tonie,stock,ced1b162-2aa3-4469-b8d5-9a398433d39f,https://tonies.com/en-gb/creative-tonies/creative-tonie-easter-bunny/,1,0,0,0
@@ -1282,6 +1283,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000522,In the Night Garden,in-the-night-garden,Bedtime with Upsy Daisy,en-gb,audio-play,stock,b7a1ae7f-1662-4251-a830-12d5ba0d7149,https://tonies.com/en-gb/tonies/in-the-night-garden/bedtime-with-upsy-daisy/,1,1,1,0
 11000523,Ten Little,ten-little,The Ten Little Collection,en-gb,audio-book,stock,e364be42-e2bf-449c-b18d-8a14079e0e6d,https://tonies.com/en-gb/tonies/ten-little/the-ten-little-collection/,1,1,1,0
 11000524,Kung Fu Panda,kung-fu-panda,Kung Fu Panda,en-gb,audio-play,stock,2642471f-420a-4c3f-82b0-7a2596666a04,https://tonies.com/en-gb/tonies/kung-fu-panda/kung-fu-panda/,1,1,1,0
+11000525,Rabbit & Bear,rabbit-bear,Rabbit & Bear,en-gb,audio-book,stock,230da0f3-757c-465d-9b6c-5321764c3f7e,https://tonies.com/en-gb/tonies/rabbit-bear/rabbit-bear/,1,0,0,0
 11000526,Disney,,Wish,en-us,Tonie,stock,8124400664727,,1,2,2,0
 11000527,Pinkalicious,,,en-us,Tonie,stock,8562942181527,,1,1,1,0
 11000528,More About Paddington,,,en-us,Tonie,stock,8614602834071,,1,0,0,0
@@ -1428,6 +1430,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000949,Trolls,trolls,Gemeinsam Stark,de-de,audio-play,stock,c738d003-1e1e-4ae0-891b-28af621927dd,https://tonies.com/de-de/tonies/trolls/gemeinsam-stark/,1,1,0,0
 11000950,Toto und der Mann im Mond,toto-und-der-mann-im-mond,Toto und der Mann im Mond,de-de,audio-play-songs,stock,d4cbac77-8e03-4dd7-8248-4d000e30bd61,https://tonies.com/de-de/tonies/toto-und-der-mann-im-mond/toto-und-der-mann-im-mond/,1,1,0,0
 11000951,Encanto,disney-encanto,Encanto,fr-fr,audio-play-songs,stock,d0536670-b258-44fd-ad27-a6ee9a8f3172,https://tonies.com/fr-fr/tonies/disney-encanto/encanto/,1,0,0,0
+11000952,Bing,bing,Bing's Bedtime,en-gb,audio-play-songs,stock,b2a4e4e7-43ff-4115-aa37-4627a6c77f60,https://tonies.com/en-gb/tonies/bing/bings-bedtime/,1,0,0,0
 11000953,Coco,disney-coco,Coco,fr-fr,audio-play-songs,stock,434052c2-3e93-436d-a8d1-880462959d7f,https://tonies.com/fr-fr/tonies/disney-coco/coco/,1,0,0,0
 11000955,Les Copains Du Dodo,sleepy-friends,Doudou Mouton Noir,fr-fr,music,stock,3e7bfe3a-44c8-4fe1-a65f-d2554d5cbd92,https://tonies.com/fr-fr/tonies/les-copains-du-dodo/doudou-mouton-noir/,1,0,0,0
 11000956,Les Copains Du Dodo,sleepy-friends,Doudou Baleine,fr-fr,music,stock,0ecab802-0af5-4b11-b34e-d891dede7b7a,https://tonies.com/fr-fr/tonies/les-copains-du-dodo/doudou-baleine/,1,0,0,0
@@ -1595,6 +1598,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11002027,Finding Dory,finding-dory,Finding Dory,en-gb,audio-play,stock,b5de3826-319f-4f46-92f2-998245e6810c,https://tonies.com/en-gb/tonies/disney-finding-dory/finding-dory/,1,0,0,0
 11002028,La Journée De Léo,la-journee-de-leo,Mission : Tous Sur Le Pot !,fr-fr,audio-play-songs,stock,5af60dc6-f4c6-415a-8f03-1b765a65447d,https://tonies.com/fr-fr/tonies/la-journee-de-leo/mission-tous-sur-le-pot/,1,0,0,0
 11002029,Ratatouille,ratatouille,Ratatouille,en-gb,audio-play,stock,1b0e80ed-ea82-4d48-9f6a-f87148461acc,https://tonies.com/en-gb/tonies/disney-ratatouille/ratatouille/,1,0,0,0
+11002048,Hot Wheels,hot-wheels,Hot Wheels,en-gb,audio-play,stock,86b71b22-eb42-444a-8630-eba604db2612,https://tonies.com/en-gb/tonies/hot-wheels/hot-wheels/,1,0,0,0
 11002051,Worldwide Tales,w-wide-tales,South Asian Tales,en-gb,audio-play,stock,847cfb9f-8003-435b-8dad-072be54676c4,https://tonies.com/en-gb/tonies/worldwide-tales/south-asian-tales/,1,0,0,0
 11002052,Dora the Explorer,,,en-us,Tonie,stock,9161066348695,,1,0,0,0
 11002070,Dora L'Exploratrice,dora-the-explorer,Dora,fr-fr,audio-play,stock,75b6eb5a-f964-43b1-89f3-305cb130cf88,https://tonies.com/fr-fr/tonies/dora-l-exploratrice/dora/,1,0,0,0
@@ -1619,6 +1623,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11002219,The Questioneers,the-questioneers,Iggy Peck and the Mysterious Mansion,en-gb,audio-book,stock,59332f65-584c-461c-a76b-a75731429e0d,https://tonies.com/en-gb/book-tonies/the-questioneers/iggy-peck-and-the-mysterious-mansion/,1,0,0,0
 11002220,The Questioneers,the-questioneers,Sofia Valdez and the Vanishing Vote,en-gb,audio-book,stock,be081a31-ec84-466d-a7d0-a9e4d152a974,https://tonies.com/en-gb/book-tonies/the-questioneers/sofia-valdez-and-the-vanishing-vote/,1,0,0,0
 11002237,Sam's Club Disney Bundle with Red Toniebox,,,en-us,Tonie,stock,8533490204823,,1,0,0,0
+11002265,Wicked,wicked,Wicked,en-gb,audio-play-songs,stock,281698ea-f672-4dfc-934b-34d1f82ebc0b,https://tonies.com/en-gb/tonies/wicked/wicked/,1,0,0,0
 11002266,Vaiana,disney-moana,Vaiana 2,fr-fr,audio-play-songs,stock,5cb6c65c-57b6-4146-8423-6bd722fe68df,https://tonies.com/fr-fr/tonies/disney-vaiana/vaiana-2/,1,0,0,0
 11002272,Ms. Rachel,ms-rachel,Ms. Rachel,en-gb,audio-play-songs,stock,64e6aa9a-084c-4e7a-960e-3a49f3ed94ea,https://tonies.com/en-gb/tonies/ms-rachel/msrachel/,1,0,0,0
 11002293,Target Bullseye,,,en-us,Tonie,stock,9160670707863,,1,0,0,0
@@ -1643,7 +1648,9 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11002602,David Walliams,david-walliams-2,Slime,en-gb,audio-book,stock,f0ad35fa-40be-46f0-95cf-166759092d9d,https://tonies.com/en-gb/book-tonies/david-walliams-2/slime/,1,0,0,0
 11002603,Adam Kay,adam-kay,Kay's Marvellous Medicine,en-gb,audio-book,stock,f01ce58a-d873-47b4-8db0-228a9ca14ac2,https://tonies.com/en-gb/book-tonies/adam-kay/kays-marvellous-medicine/,1,1,1,0
 11002604,David Walliams,david-walliams-2,The World's Worst Children 2,en-gb,audio-book,stock,54a2cc86-b0da-4f32-a5c8-e76b5e8502d8,https://tonies.com/en-gb/book-tonies/david-walliams-2/the-worlds-worst-children-2/,1,1,1,0
+11002605,David Walliams,david-walliams-2,The World's Worst Children 3,en-gb,audio-book,stock,131ce759-0c28-4a1b-a823-117025c729ee,https://tonies.com/en-gb/book-tonies/david-walliams-2/the-worlds-worst-children-3/,1,0,0,0
 11002606,Roald Dahl,roald-dahl,Fantastic Mr. Fox,en-gb,audio-book,stock,ac9cb591-5fd5-4568-953f-bd509ec9600e,https://tonies.com/en-gb/book-tonies/roald-dahl/fantastic-mr-fox/,1,0,0,0
+11002607,Roald Dahl,roald-dahl,Georges Marvellous Medicine,en-gb,audio-book,stock,64b581ef-78f2-4e6a-8af7-e457aeb553a6,https://tonies.com/en-gb/book-tonies/roald-dahl/georges-marvellous-medicine/,1,0,0,0
 11002609,"Little People, Big Dreams",kleine-menschen-grosse-ziele,Women In Science,en-gb,audio-play-educational,stock,7d7cc827-6cc8-4f5c-9c9d-648c3c6752ca,https://tonies.com/en-gb/clever-tonies/little-people-big-dreams/women-in-science/,1,0,0,0
 11002610,"Little People, Big Dreams",kleine-menschen-grosse-ziele,Inspiring Musicians,en-gb,audio-play-educational,stock,8bb937de-54bf-44eb-9044-ae71a2bd6cd0,https://tonies.com/en-gb/clever-tonies/little-people-big-dreams/little-people-big-dreams-inspiring-musicians/,1,0,0,0
 11002611,Today with tonies,today-with-tonies,True or False?,en-gb,audio-play-educational,stock,eec206e6-0e4c-45d7-bcb4-6f2d7e061b64,https://tonies.com/en-gb/clever-tonies/today-with-tonies/true-or-false/,1,1,1,0
@@ -1705,6 +1712,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11003583,tonies® Original,tonies-originals,Every Body's Talking (Set),en-gb,audio-play-educational,stock,7a1a393a-336f-4aca-87de-2bf2162c4334,https://tonies.com/en-gb/clever-tonies/tonies-originals/every-bodys-talkin/,1,0,0,0
 11003586,Lieblings-Literatur,lieblings-literatur,Eine Weihnachtsgeschichte,de-de,audio-book,stock,4ed7d444-e95e-4152-925f-383a75bf6e3d,https://tonies.com/de-de/book-tonies/lieblings-literatur/eine-weihnachtsgeschichte/,1,1,1,0
 11003587,Ein Mädchen namens Willow,ein-maedchen-namens-willow,Ein Mädchen namens Willow,de-de,audio-book,stock,9a3ccd70-9b3a-44f9-a1bb-507122f343d5,https://tonies.com/de-de/book-tonies/ein-maedchen-namens-willow/ein-maedchen-namens-willow/,1,0,0,0
+11003592,Ladybird Audio Adventures,ladybird-audio-adventures,Adventure Atlas: Wild Earth,en-gb,audio-play-educational,stock,0d7e1386-1ade-4bfa-9244-98c693db07a7,https://tonies.com/en-gb/clever-tonies/ladybird-audio-adventures/adventure-atlas-wild-earth/,1,0,0,0
 11003611,Enid Blyton,enid-blyton,One-A-Day Christmas Stories,en-gb,audio-book,stock,04dea33e-0b8f-4261-9ed8-0ac1aca2a400,https://tonies.com/en-gb/book-tonies/enid-blyton/one-a-day-christmas-stories/,1,0,0,0
 11003612,Enid Blyton,enid-blyton,The Folk of the Faraway Tree,en-gb,audio-book,stock,9537145d-0a6b-44b2-95bf-8da327b0c776,https://tonies.com/en-gb/book-tonies/enid-blyton/the-folk-of-the-faraway-tree/,1,0,0,0
 11003613,Enid Blyton,enid-blyton,Five-Minute Stories,en-gb,audio-book,stock,a25475f5-c5d7-4113-bc22-8a5a82ad123f,https://tonies.com/en-gb/book-tonies/enid-blyton/five-minute-stories/,1,0,0,0
