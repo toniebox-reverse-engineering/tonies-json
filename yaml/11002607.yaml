@@ -1,0 +1,33 @@
+article: '11002607'
+lock-data: false
+data:
+- series: Roald Dahl
+  series-id: roald-dahl
+  episode: Georges Marvellous Medicine
+  release: 1762992000
+  language: en-gb
+  category: audio-book
+  runtime: 96
+  age: 6
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/SKU_Landscape_1-T7iu5PBn.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/d0c378f771a9ee33a8aed84937cc9f226b99f1c5445a466fe49601c4/george_s_marvelous_medicine_sample.wav
+  web: https://tonies.com/en-gb/book-tonies/roald-dahl/georges-marvellous-medicine/
+  shop-id: 64b581ef-78f2-4e6a-8af7-e457aeb553a6
+  track-desc:
+  - Chapter 1 Grandma
+  - Chapter 2 The Marvelous Plan
+  - Chapter 3 George Begins To Make The Medicine
+  - Chapter 4 Animal Pills
+  - Chapter 5 The Cook Up
+  - Chapter 6 Brown Paint
+  - Chapter 7 Grandma Gets The Medicine
+  - Chapter 8 The Brown Hen
+  - Chapter 9 The Pig The Cows The Sheep The Pony And The Nanny Goat
+  - Chapter 10 A Crane For Grandma
+  - Chapter 11 Mr
+  - Chapter 12 Marvelous Medicine Number Two
+  - Chapter 13 Marvelous Medicine Number Three
+  - Chapter 14 Marvelous Medicine Number Four
+  - Chapter 15 Goodbye Grandma
+  ids: []

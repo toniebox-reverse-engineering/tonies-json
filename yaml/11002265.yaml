@@ -1,0 +1,29 @@
+article: '11002265'
+lock-data: false
+data:
+- series: Wicked
+  series-id: wicked
+  episode: Wicked
+  release: 1762992000
+  language: en-gb
+  category: audio-play-songs
+  runtime: 39
+  age: 8
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/51006658-Tonie_Shado-l3shPXgx.png
+  sample: https://cdn.tonies.de/o/audio_samples/ed429b78b0be16c836fcfab1e0bb4f674473545e44d81c3063869c16/wicked_audio_preview.wav
+  web: https://tonies.com/en-gb/tonies/wicked/wicked/
+  shop-id: 281698ea-f672-4dfc-934b-34d1f82ebc0b
+  track-desc:
+  - Elphaba's Beginning
+  - The Wizard And I
+  - The Reluctant Roommates
+  - What Is This Feeling
+  - A Prince And A Party
+  - Dancing Through Life
+  - An Unlikely Friendship
+  - Popular
+  - The Wizards Invitation
+  - Defying Gravity
+  - Farewell For Now
+  ids: []
