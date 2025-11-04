@@ -15,6 +15,7 @@ data:
   web: https://tonies.com/en-gb/clever-tonies/today-with-tonies/today-with-tonies/
   shop-id: a742a774-63b0-450f-8303-6552b3c99bc9
   track-desc:
+  - Tuesday 4th November
   - Monday 3rd November
   - Sunday 2nd November
   - Saturday 1st November
@@ -28,7 +29,6 @@ data:
   - Friday 24th October
   - Thursday 23rd October
   - Wednesday 22nd October
-  - Tuesday 21st October
   - Today With Tonies Jingle
   ids:
   - audio-id: 1762128326
