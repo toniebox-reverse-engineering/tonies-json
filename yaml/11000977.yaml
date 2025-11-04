@@ -25,4 +25,9 @@ data:
   - Beluga in der Patsche 1
   - Beluga in der Patsche 2
   - Beluga in der Patsche 3
-  ids: []
+  ids:
+  - audio-id: 1762276735
+    hash: 9ffe3214479148e2a214a0b5e19817e5bd6c0511
+    size: 15237223
+    tracks: 1
+    confidence: 0
