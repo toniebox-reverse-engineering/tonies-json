@@ -15,6 +15,7 @@ data:
   web: https://tonies.com/en-gb/clever-tonies/joke-of-the-day/joke-of-the-day/
   shop-id: c31bee4a-d638-47da-b7c5-f27bd51ebb1d
   track-desc:
+  - 8th November
   - 7th November
   - 6th November
   - 5th November
@@ -28,7 +29,6 @@ data:
   - 28th October
   - 27th October
   - 26th October
-  - 25th October
   - Joke Of The Day Jingle
   ids:
   - audio-id: 1762473926
