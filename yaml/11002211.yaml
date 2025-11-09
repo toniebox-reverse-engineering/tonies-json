@@ -32,4 +32,9 @@ data:
   - STORY - Big Boy Big Girl Pants Are Exciting!
   - SONG - The Pants Dance (Reprise)
   - OUTRO
-  ids: []
+  ids:
+  - audio-id: 1747063124
+    hash: 6901bfcf6d1973560452938350785e4defbb8109
+    size: 34102971
+    tracks: 17
+    confidence: 1

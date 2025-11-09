@@ -1,0 +1,32 @@
+article: '11002605'
+lock-data: false
+data:
+- series: David Walliams
+  series-id: david-walliams-2
+  episode: The World's Worst Children 3
+  release: 1762992000
+  language: en-gb
+  category: audio-book
+  runtime: 194
+  age: 7
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/SKU_Landscape_1-lWw45AwS.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/d261d27c3399e0a416d8f4fe296a73e43b591c39a95a93ba2c705a01/worlds_worst_children_3.wav
+  web: https://tonies.com/en-gb/book-tonies/david-walliams-2/the-worlds-worst-children-3/
+  shop-id: 131ce759-0c28-4a1b-a823-117025c729ee
+  track-desc:
+  - Opening Credits
+  - STORY - From the desk of the President of the United States of America
+  - STORY - The Terrible Triplets
+  - STORY - Tandy's Tantrums
+  - STORY - Boastful Barnabus
+  - STORY - Fanny's Funny Faces
+  - STORY - Hank's Pranks
+  - STORY - Honey The Hogger
+  - STORY - Vain Valentine
+  - STORY - Bonnie Bossypants
+  - STORY - Walter The Wasp
+  - STORY - Kung Fu Kylie
+  - STORY - From The Desk Of David Walliams
+  - Closing Credits
+  ids: []

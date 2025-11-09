@@ -21,6 +21,11 @@ data:
   - STORY - The Nutcracker
   - STORY - The Elves and the Shoemaker
   ids:
+  - audio-id: 1762189548
+    hash: 776809c7ffba8eaced02bfa6540d9ebde813b047
+    size: 45060736
+    tracks: 5
+    confidence: 1
   - audio-id: 1728556247
     hash: a988fcf6c2f9f88f19b6274630bd7f4644e01240
     size: 45060736

@@ -1,0 +1,24 @@
+article: '10000212'
+lock-data: false
+data:
+- series: Disney
+  series-id: disney-disney
+  episode: Up
+  release: 1762992000
+  language: en-gb
+  category: audio-book-songs
+  runtime: 44
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/98-1130-Tonie_Shadow-ej5wAiyc.png
+  sample: https://cdn.tonies.de/o/audio_samples/9bdfae8538cc739afbe1e404189daa9fdce06d3e672f0f577ef506d0/disney_pixar__up_audiosample.mp3
+  web: https://tonies.com/en-gb/tonies/disney-disney/disney-up/
+  shop-id: 39528dde-463d-47ba-b651-c0f0d344f0ae
+  track-desc:
+  - Up Storyteller Tonies Track 1
+  - Up Storyteller Tonies Track 2
+  - Up Storyteller Tonies Track 3
+  - Up Storyteller Tonies Track 4
+  - Up Storyteller Tonies Track 5
+  - Up Storyteller Tonies Track 6
+  ids: []
