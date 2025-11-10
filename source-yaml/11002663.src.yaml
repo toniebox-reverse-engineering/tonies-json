@@ -7,12 +7,12 @@ data:
   release: ''
   language: ''
   category: ''
-  runtime: ''
+  runtime: tonies-json-de-de,
   age: ''
   origin: ''
   image: ''
-  sample: tonies-shopapi-de-de,
+  sample: ''
   web: ''
   shop-id: ''
-  track-desc: ''
+  track-desc: tonies-json-de-de,
   ids: []
