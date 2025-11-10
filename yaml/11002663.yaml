@@ -7,7 +7,7 @@ data:
   release: 1760486400
   language: de-de
   category: audio-play-songs
-  runtime: 75
+  runtime: 70
   age: 8
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11002663_1_a-XDNP_KrU.png
@@ -15,5 +15,15 @@ data:
   web: https://tonies.com/de-de/tonies/wicked/wicked/
   shop-id: ec3233e7-01e3-4fab-a85c-80cddc0c227e
   track-desc:
-  - '11: Wicked'
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
   ids: []
