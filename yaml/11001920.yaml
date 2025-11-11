@@ -22,9 +22,4 @@ data:
   - Leo hat die Nase voll
   - Kuscheln ist die beste Medizin
   - Leo ist wieder da!
-  ids:
-  - audio-id: 1762277170
-    hash: 573723ec7d243e2e6af728b8ffb7a31a95c3208f
-    size: 2862894
-    tracks: 1
-    confidence: 0
+  ids: []
