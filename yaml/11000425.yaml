@@ -1,0 +1,26 @@
+article: '11000425'
+lock-data: false
+data:
+- series: Peppa Pig
+  series-id: peppa-pig
+  episode: Das Schulfest & 7 weitere Geschichten
+  release: 1765324800
+  language: de-de
+  category: audio-play
+  runtime: 42
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11000425_1_a--Z0X_EgK.png
+  sample: https://cdn.tonies.de/o/audio_samples/684271bd8f321409fd069de864696e2643587d9e79e0a7f8aeb4ab5f/hoerprobe_11000425_peppa_pig_das_schulfest.mp3
+  web: https://tonies.com/de-de/tonies/peppa-pig/das-schulfest-7-weitere-geschichten/
+  shop-id: e055b7df-cdd0-4d63-ad52-f2e2d6e32ec5
+  track-desc:
+  - 01 - Das Schulfest
+  - 02 - Herr Bulle als Lehrer
+  - 03 - Das Quiz von Mister Kartoffel
+  - 04 - Im Wissenschaftsmuseum
+  - 05 - Rätsel
+  - 06 - Experimente mit Peppa Wutz
+  - 07 - Das Theaterstück
+  - 08 - Gedichte
+  ids: []
