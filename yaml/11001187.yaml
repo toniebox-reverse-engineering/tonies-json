@@ -1,0 +1,28 @@
+article: '11001187'
+lock-data: false
+data:
+- series: Petit Ours Brun
+  series-id: petit-ours-brun-2
+  episode: Petit Ours Brun (Vol. 3)
+  release: 1761782400
+  language: fr-fr
+  category: audio-book
+  runtime: 52
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51006186-Tonie_Shado-m-38IkeF.png
+  sample: https://cdn.tonies.de/o/audio_samples/6b2a3fcabb87dbbd78041388647fe4ec00cfc61f00e3dcca5374c83e/01_petit_ours_brun_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/petit-ours-brun/petit-ours-brun-vol-3/
+  shop-id: 00a4cf53-8ceb-47b1-b491-dde2aa41a599
+  track-desc:
+  - Je me réveille en douceur !
+  - J'adore le bain !
+  - J'ai un peu peur de la nuit !
+  - Je fais une petite colère !
+  - Quand est-ce qu'on arrive ?
+  - Moi je suis timide !
+  - Il est où mon doudou ?
+  - Beurk ! Beurk ! J'aime pas ça !
+  - Moi je suis grand !
+  - Je suis trop content !
+  ids: []

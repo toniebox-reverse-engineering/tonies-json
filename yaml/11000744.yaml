@@ -10,12 +10,17 @@ data:
   runtime: 0
   age: 99
   origin: stock
-  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Canciones-De-Celebracion-En-Espanol-11000744-PLPTB2Hero1.png?v=1758034834
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Canciones-De-Celebracion-En-Espanol-11000744-PLPTB2MainImageTransparent.png?v=1762436276
   sample: null
   web: null
   shop-id: '8225965408407'
   track-desc: []
   ids:
+  - audio-id: 1760032186
+    hash: 552d0148563b1fb5c11de3772da252760be63c61
+    size: 32183969
+    tracks: 22
+    confidence: 1
   - audio-id: 1727810303
     hash: d70b294446b0f49264d5800e0171e075e58b837c
     size: 32404767

@@ -10,12 +10,17 @@ data:
   runtime: 0
   age: 99
   origin: stock
-  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Traveling-Songs-11000741-PLPTB2Hero1.png?v=1758034856
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Traveling-Songs-_en-Espanol_-11000741-PLPTB2MainImageTransparent.png?v=1762438893
   sample: null
   web: null
   shop-id: '8623950823575'
   track-desc: []
   ids:
+  - audio-id: 1760032353
+    hash: 94a148eb114f33472fae481fdfa95779de29f841
+    size: 37649689
+    tracks: 15
+    confidence: 1
   - audio-id: 1739821610
     hash: 1b5060f820c6f5a07b988ebdbbd32b9181401722
     size: 37848880

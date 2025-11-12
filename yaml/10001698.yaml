@@ -10,12 +10,22 @@ data:
   runtime: 0
   age: 99
   origin: stock
-  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Hercules-10001698-PLPTB2Hero1.png?v=1758034826
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Hercules-10001698-PLPTB2MainImageTransparent.png?v=1762436238
   sample: null
   web: null
   shop-id: '8134562906263'
   track-desc: []
   ids:
+  - audio-id: 1759218085
+    hash: c24356b07415d11ea54267a2e248fb595474c29b
+    size: 35159722
+    tracks: 6
+    confidence: 1
+  - audio-id: 1758637721
+    hash: c18e3be16d6f65d13aa24d47b8383eb037b4a51c
+    size: 35006494
+    tracks: 6
+    confidence: 1
   - audio-id: 1721192602
     hash: e650521c9bd454048d9157fe933eb386d298848a
     size: 35171785

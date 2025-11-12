@@ -1,0 +1,18 @@
+article: '11003082'
+lock-data: false
+data:
+- series: My First Tonies
+  series-id: null
+  episode: Pig
+  release: 1759890068
+  language: en-us
+  category: Tonie
+  runtime: 0
+  age: 99
+  origin: stock
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Pig-11003082-PLPTB2MainImageTransparent.png?v=1759778464
+  sample: null
+  web: null
+  shop-id: '9167823011991'
+  track-desc: []
+  ids: []

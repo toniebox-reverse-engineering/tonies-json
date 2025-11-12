@@ -1,0 +1,41 @@
+article: '11002595'
+lock-data: false
+data:
+- series: Dora
+  series-id: dora
+  episode: Dora
+  release: 1760486400
+  language: de-de
+  category: audio-play
+  runtime: 60
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11002595_1_a-8n-DD04z.png
+  sample: https://cdn.tonies.de/o/audio_samples/b69be827eebb7d72c434fa5cde291147653910248b748a2df38832dd/hoerprobe_11002595_dora_the_explorer.mp3
+  web: https://tonies.com/de-de/tonies/dora/dora/
+  shop-id: 638408f9-ed0f-4361-bb91-6c520b326c0e
+  track-desc:
+  - Intro
+  - Fangt den Flitzadu – Kapitel 01
+  - Fangt den Flitzadu – Kapitel 02
+  - Fangt den Flitzadu – Kapitel 03
+  - Fangt den Flitzadu – Kapitel 04
+  - Fangt den Flitzadu – Kapitel 05
+  - Fangt den Flitzadu – Kapitel 06
+  - Das rätselhafte Geschenk – Kapitel 01
+  - Das rätselhafte Geschenk – Kapitel 02
+  - Das rätselhafte Geschenk – Kapitel 03
+  - Das rätselhafte Geschenk – Kapitel 04
+  - Das rätselhafte Geschenk – Kapitel 05
+  - Ein Guayabera-Hemd für Tico – Kapitel 01
+  - Ein Guayabera-Hemd für Tico – Kapitel 02
+  - Ein Guayabera-Hemd für Tico – Kapitel 03
+  - Ein Guayabera-Hemd für Tico – Kapitel 04
+  - Ein Guayabera-Hemd für Tico – Kapitel 05
+  - Swipers Überraschungsparty – Kapitel 01
+  - Swipers Überraschungsparty – Kapitel 02
+  - Swipers Überraschungsparty – Kapitel 03
+  - Swipers Überraschungsparty – Kapitel 04
+  - Swipers Überraschungsparty – Kapitel 05
+  - Swipers Überraschungsparty – Kapitel 06
+  ids: []

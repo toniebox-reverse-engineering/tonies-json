@@ -15,22 +15,301 @@ data:
   web: https://tonies.com/en-gb/clever-tonies/joke-of-the-day/joke-of-the-day/
   shop-id: c31bee4a-d638-47da-b7c5-f27bd51ebb1d
   track-desc:
-  - 17th September
-  - 16th September
-  - 15th September
-  - 14th September
-  - 13th September
-  - 12th September
-  - 11th September
-  - 10th September
-  - 9th September
-  - 8th September
-  - 7th September
-  - 6th September
-  - 5th September
-  - 4th September
+  - 11th November
+  - 10th November
+  - 9th November
+  - 8th November
+  - 7th November
+  - 6th November
+  - 5th November
+  - 4th November
+  - 3rd November
+  - 2nd November
+  - 1st November
+  - 31st October
+  - 30th October
   - Joke Of The Day Jingle
   ids:
+  - audio-id: 1762905926
+    hash: 1c76be3a2e4085a379e7a643cdfacdbceb50c2b2
+    size: 22066350
+    tracks: 14
+    confidence: 1
+  - audio-id: 1762819526
+    hash: df55e0bcee54562f97d3a1b96b39c1a76d4d3d9e
+    size: 23774176
+    tracks: 15
+    confidence: 1
+  - audio-id: 1762733127
+    hash: ad0e554cd76dd342505d83a79fd9d51f98ed421b
+    size: 23606603
+    tracks: 15
+    confidence: 1
+  - audio-id: 1762646726
+    hash: 06215899ca55b91d363cf5e8b906dd09cbde0589
+    size: 24089058
+    tracks: 15
+    confidence: 1
+  - audio-id: 1762560326
+    hash: 8a937689e63cdcda7a58d0a2d427df1a898e8ca8
+    size: 23810042
+    tracks: 15
+    confidence: 1
+  - audio-id: 1762473926
+    hash: 44429fdb2183471b07f86b4d3bbe245b8dfdd5c9
+    size: 23974743
+    tracks: 15
+    confidence: 1
+  - audio-id: 1762387526
+    hash: fd5f7c493bcaba5b3bdadc54b3b5f8b7665fbe95
+    size: 24331418
+    tracks: 15
+    confidence: 1
+  - audio-id: 1762301126
+    hash: 59573757d034bcf25300beca1a8734e96078b0cc
+    size: 24352159
+    tracks: 15
+    confidence: 1
+  - audio-id: 1762214726
+    hash: da3aa8b4369fb0c6f991ff89c597950e546ab48c
+    size: 24585550
+    tracks: 15
+    confidence: 1
+  - audio-id: 1762128326
+    hash: 39bb73c9b5aab45a5751ba5c11fad4e7aa2664f6
+    size: 24707529
+    tracks: 15
+    confidence: 1
+  - audio-id: 1762041926
+    hash: 9b62d49883a8ab54ddf1950852fad492acc88ac0
+    size: 24175423
+    tracks: 15
+    confidence: 1
+  - audio-id: 1761955526
+    hash: d64160cab70a98d560e4136ec5eafbbc42a27d17
+    size: 24285163
+    tracks: 15
+    confidence: 1
+  - audio-id: 1761869126
+    hash: 477d447e314270de17279c07179c13a7b4557834
+    size: 24302024
+    tracks: 15
+    confidence: 1
+  - audio-id: 1761782726
+    hash: d8f76a49e12565d97139006a44fb8bd3ab7dacef
+    size: 24352380
+    tracks: 15
+    confidence: 1
+  - audio-id: 1761696326
+    hash: 4648e1bd7e9ce45840949b059dd057c47a5bcceb
+    size: 24315859
+    tracks: 15
+    confidence: 1
+  - audio-id: 1761609919
+    hash: d3d0cb003fe4e3badd86bceb24155097e4ab1357
+    size: 24083041
+    tracks: 15
+    confidence: 1
+  - audio-id: 1761523520
+    hash: 2eba5a88303aa5213da8d06a0350490f59413897
+    size: 23844703
+    tracks: 15
+    confidence: 1
+  - audio-id: 1761444319
+    hash: 6cd61b6edf135104d425096303098ef5dcd65339
+    size: 23523789
+    tracks: 15
+    confidence: 1
+  - audio-id: 1761350719
+    hash: 53d78e01329ac7e4c3744f3c627183b5f39d1348
+    size: 23921099
+    tracks: 15
+    confidence: 1
+  - audio-id: 1761264320
+    hash: 8e7693c77fb764ee7515a554ade3eb66c6002f77
+    size: 23536912
+    tracks: 15
+    confidence: 1
+  - audio-id: 1761177919
+    hash: 048b2e1bc1f3b8b680a770b53e131e195c0f2706
+    size: 22852660
+    tracks: 15
+    confidence: 1
+  - audio-id: 1761091519
+    hash: 3af958081343e7058030e5d99201c92f67bb0c34
+    size: 22724594
+    tracks: 15
+    confidence: 1
+  - audio-id: 1761005112
+    hash: 91b372012f4350ca7788289a9e542d521fc758bf
+    size: 22482525
+    tracks: 15
+    confidence: 1
+  - audio-id: 1760918712
+    hash: a0b963f5096dcdcf535cfb18fa8e679fab36fb23
+    size: 22310790
+    tracks: 15
+    confidence: 1
+  - audio-id: 1760832312
+    hash: 09a24fdc94b22e87f6c2fdb80629bca210137bea
+    size: 22899287
+    tracks: 15
+    confidence: 1
+  - audio-id: 1760745912
+    hash: ef21206fa82563e8b9264a1a8d7f4b6980a7e410
+    size: 22353555
+    tracks: 15
+    confidence: 1
+  - audio-id: 1760659512
+    hash: 2a7e7aadbd68b130eb85a206725d216af1971c6f
+    size: 22414411
+    tracks: 15
+    confidence: 1
+  - audio-id: 1760573112
+    hash: f1d76312e7493d178d51073d4049a68bbb6596fc
+    size: 20741819
+    tracks: 15
+    confidence: 1
+  - audio-id: 1760486712
+    hash: 283df290bd902df8da4cde1279bead7427bc64a7
+    size: 20828615
+    tracks: 15
+    confidence: 1
+  - audio-id: 1760400312
+    hash: 49cfadd0569a3d3be2d4754374975b88aef96a47
+    size: 21188128
+    tracks: 15
+    confidence: 1
+  - audio-id: 1760313912
+    hash: 9618c88eac7532c34b89d1b80acd9b8417edf669
+    size: 21333557
+    tracks: 15
+    confidence: 1
+  - audio-id: 1760227512
+    hash: 0a5dcc7536825f0efe13b9f18a8b46a5ebc69825
+    size: 21566953
+    tracks: 15
+    confidence: 1
+  - audio-id: 1760141112
+    hash: 12197a1cdf09bb32a0e111d9a7f77b6da16cefea
+    size: 21434011
+    tracks: 15
+    confidence: 1
+  - audio-id: 1760054714
+    hash: 57543a348ab03e9e8c52b7692ccec57faac5c9b9
+    size: 21434209
+    tracks: 15
+    confidence: 1
+  - audio-id: 1759968314
+    hash: 43b5aefd12f08f3e96259a85413a067f9ea4b5b9
+    size: 21761896
+    tracks: 15
+    confidence: 1
+  - audio-id: 1759881914
+    hash: 2e8e3c9a8731c14d816d4e0e90f32a9508a61f99
+    size: 21522254
+    tracks: 15
+    confidence: 1
+  - audio-id: 1759795513
+    hash: 53c642051d318e2f88b7a315d4880214d2d73410
+    size: 21463749
+    tracks: 15
+    confidence: 1
+  - audio-id: 1759709105
+    hash: 669d0ce461ef26a1921d4aa33bd7f77b9e27c435
+    size: 21153692
+    tracks: 15
+    confidence: 1
+  - audio-id: 1759622705
+    hash: 9e3b4f55239a8d69ed3ba1ce7e046a2ac52f0241
+    size: 21335808
+    tracks: 15
+    confidence: 1
+  - audio-id: 1759536304
+    hash: 3e5ccae0e43b39fd45e406d33968a0bafffa31bb
+    size: 21281865
+    tracks: 15
+    confidence: 1
+  - audio-id: 1759449905
+    hash: 640bab0bef66ff194ab97ea5720dcc65a92f379d
+    size: 20857335
+    tracks: 15
+    confidence: 1
+  - audio-id: 1759363516
+    hash: c102db07f23cbe04398e06740eab4e4e33541099
+    size: 20526867
+    tracks: 15
+    confidence: 1
+  - audio-id: 1759277116
+    hash: db2fea2605bade07deb67dfb75ea6d7d3ee24ea0
+    size: 20157444
+    tracks: 15
+    confidence: 1
+  - audio-id: 1759190716
+    hash: 5bf7c336d90f22871e1294808ad6261e6fc58172
+    size: 20525571
+    tracks: 15
+    confidence: 1
+  - audio-id: 1759104316
+    hash: bb195891d9c285cf00da9fae6029c8dd848e51e5
+    size: 20948197
+    tracks: 15
+    confidence: 1
+  - audio-id: 1759017916
+    hash: 573e61353be26efc8d46d0938679f673d4ed4384
+    size: 20459019
+    tracks: 15
+    confidence: 1
+  - audio-id: 1758931516
+    hash: 81ee04f45247ba87ec2f601a43b0aade8ef18a9c
+    size: 20570033
+    tracks: 15
+    confidence: 1
+  - audio-id: 1758845116
+    hash: 3d991f47d55310b19651c50ffedc4e182bf4c6de
+    size: 20791688
+    tracks: 15
+    confidence: 1
+  - audio-id: 1758758716
+    hash: 8912212b4ce44892deadbb8dc46c3a374b67aba3
+    size: 21085633
+    tracks: 15
+    confidence: 1
+  - audio-id: 1758672316
+    hash: 791987d73616789481531974cf35781ed5cc9d72
+    size: 21773165
+    tracks: 15
+    confidence: 1
+  - audio-id: 1758585924
+    hash: c6e2d7be0253950c346d0a828319a0db92de1a06
+    size: 22246124
+    tracks: 15
+    confidence: 1
+  - audio-id: 1758499524
+    hash: ae71179aa106905a9a6904be0fae4ee9af055134
+    size: 22398831
+    tracks: 15
+    confidence: 1
+  - audio-id: 1758413124
+    hash: 1d13112ea6b15da7958d6d925f94e11e7d76215c
+    size: 22691528
+    tracks: 15
+    confidence: 1
+  - audio-id: 1758326724
+    hash: 43fe39a95eb70169f599e0ce25aad10030c62f2f
+    size: 23099480
+    tracks: 15
+    confidence: 1
+  - audio-id: 1758240324
+    hash: f900f843fe3c85e4d734a1f98e7fcf1ff69ea32e
+    size: 23261690
+    tracks: 15
+    confidence: 1
+  - audio-id: 1758153914
+    hash: 6aca5c937e28a335f120a01e7d625b53daebfcf6
+    size: 23581667
+    tracks: 15
+    confidence: 1
   - audio-id: 1758067517
     hash: 5ffd6aebe38f839b172c34e6ce35ee13cfa7c7cf
     size: 23571607

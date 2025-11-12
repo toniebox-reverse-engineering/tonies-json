@@ -1,0 +1,19 @@
+article: '11002695'
+lock-data: false
+data:
+- series: Europa-Park
+  series-id: europa-park
+  episode: Ed et Edda - Super Grand Prix
+  release: 1759363200
+  language: fr-fr
+  category: audio-play
+  runtime: 69
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51009107-Tonie_Shado-jTTlgD3Z.png
+  sample: https://cdn.tonies.de/o/audio_samples/b3c06c1b1c2e8ca1644c9b2a98280acd72b92ca03fdfeba05bb2ccba/europapark_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/europa-park/ed-et-edda-super-grand-prix/
+  shop-id: d16b3bfe-efe4-4f17-b4db-623bc9569016
+  track-desc:
+  - Ed et Edda - Parties 1 à 20
+  ids: []

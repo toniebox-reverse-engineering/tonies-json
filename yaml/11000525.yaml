@@ -1,0 +1,22 @@
+article: '11000525'
+lock-data: false
+data:
+- series: Rabbit & Bear
+  series-id: rabbit-bear
+  episode: Rabbit & Bear
+  release: 1762992000
+  language: en-gb
+  category: audio-book
+  runtime: 103
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/51003300-Tonie_Shado-rYo4pNCd.png
+  sample: https://cdn.tonies.de/o/audio_samples/feac80df89ba2670c4cc365a6803a9b1470a6acda137307d4e2ddc58/rabbit_and_bear_sample.wav
+  web: https://tonies.com/en-gb/tonies/rabbit-bear/rabbit-bear/
+  shop-id: 230da0f3-757c-465d-9b6c-5321764c3f7e
+  track-desc:
+  - 'STORY: Rabbit''s Bad Habits'
+  - 'STORY: The Pest In The Nest'
+  - 'STORY: Attack Of The Snack'
+  - 'STORY: A Bite In The Night'
+  ids: []

@@ -10,12 +10,17 @@ data:
   runtime: 0
   age: 99
   origin: stock
-  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Moshi_-SleepyPaws-11000482-PLPTB2Hero1.png?v=1758034850
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Moshi_-SleepyPaws-11000482-PLPTB2MainImageTransparent.png?v=1762436262
   sample: null
   web: null
   shop-id: '8984506106007'
   track-desc: []
   ids:
+  - audio-id: 1759219068
+    hash: 8a010d1c3dd3820fa74330834ede6faec1312bcd
+    size: 60539897
+    tracks: 10
+    confidence: 1
   - audio-id: 1746844084
     hash: ba2a292416432aa5670a27bb1094456b53abe6f0
     size: 60589391

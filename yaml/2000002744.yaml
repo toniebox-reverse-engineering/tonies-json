@@ -40,4 +40,9 @@ data:
   - 'Kapitel 11: Drei Super-Bösewichte in der Abenteuerbucht (Folge 174)'
   - 'Kapitel 12: Drei Super-Bösewichte in der Abenteuerbucht (Folge 174)'
   - 'Kapitel 13: Drei Super-Bösewichte in der Abenteuerbucht (Folge 174)'
-  ids: []
+  ids:
+  - audio-id: 1753963218
+    hash: be0a92906cd956e63cc73594ea233a17e055a145
+    size: 42163468
+    tracks: 25
+    confidence: 0

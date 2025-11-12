@@ -15,8 +15,21 @@ data:
   web: https://tonies.com/en-gb/tonies/sleepy-friends/sleepy-duck-a-sound-journey-through-the-forest-limited-edition/
   shop-id: 5c8b9e09-6d82-480d-bebf-a196fb4e0b6b
   track-desc:
-  - INTRO
-  - SOUNDSCAPE - Sleepy Duck
-  - SOUNDSCAPE - Sleepy Duck
-  - SOUNDSCAPE - Sleepy Duck
-  ids: []
+  - A sound journey through the forest - 01
+  - A sound journey through the forest - 02
+  - A sound journey through the forest - 03
+  - A sound journey through the forest - 04
+  - A sound journey through the forest - 05
+  - A sound journey through the forest - 06
+  - A sound journey through the forest - 07
+  - A sound journey through the forest - 08
+  - A sound journey through the forest - 09
+  - A sound journey through the forest - 10
+  - A sound journey through the forest - 11
+  - A sound journey through the forest - 12
+  ids:
+  - audio-id: 1758628861
+    hash: b07713da11dfc11d89fc0af07363bf4334c24b89
+    size: 86900549
+    tracks: 12
+    confidence: 1

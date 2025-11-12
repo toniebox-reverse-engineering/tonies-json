@@ -15,22 +15,302 @@ data:
   web: https://tonies.com/en-gb/clever-tonies/today-with-tonies/today-with-tonies/
   shop-id: a742a774-63b0-450f-8303-6552b3c99bc9
   track-desc:
-  - Wednesday 17th September
-  - Tuesday 16th September
-  - Monday 15th September
-  - Sunday 14th September
-  - Saturday 13th September
-  - Friday 12th September
-  - Thursday 11th September
-  - Wednesday 10th September
-  - Tuesday 9th September
-  - Monday 8th September
-  - Sunday 7th September
-  - Saturday 6th September
-  - Friday 5th September
-  - Thursday 4th September
+  - Wednesday 12th November
+  - Tuesday 11th November
+  - Monday 10th November
+  - Sunday 9th November
+  - Saturday 8th November
+  - Friday 7th November
+  - Thursday 6th November
+  - Wednesday 5th November
+  - Tuesday 4th November
+  - Monday 3rd November
+  - Sunday 2nd November
+  - Saturday 1st November
+  - Friday 31st October
+  - Thursday 30th October
   - Today With Tonies Jingle
   ids:
+  - audio-id: 1762905926
+    hash: ca5246b7231aa87bd5da740fd57cb4a88af01d92
+    size: 153963750
+    tracks: 15
+    confidence: 1
+  - audio-id: 1762819527
+    hash: 4135ad318cfd8135941e0e35205511c504f4361e
+    size: 155585766
+    tracks: 15
+    confidence: 1
+  - audio-id: 1762733126
+    hash: 61144901173a12039ff0ffcc8cd7113e10464f3c
+    size: 156871910
+    tracks: 15
+    confidence: 1
+  - audio-id: 1762646726
+    hash: 449dd35c1e2cae377b610c2146853ac5ddbf5513
+    size: 157228262
+    tracks: 15
+    confidence: 1
+  - audio-id: 1762560326
+    hash: 4cea8c81aa771f6cae1939180bd434cc669ea422
+    size: 156736742
+    tracks: 15
+    confidence: 1
+  - audio-id: 1762473927
+    hash: d273ade0f8e9f857708b60ffbdea359e406f8154
+    size: 155917542
+    tracks: 15
+    confidence: 1
+  - audio-id: 1762387526
+    hash: dd88b4c6790ce6696b287ce495fda66ac2701e78
+    size: 154660070
+    tracks: 15
+    confidence: 1
+  - audio-id: 1762301126
+    hash: 185ae243ff700e7bcfc9cd22f163138d3a82de07
+    size: 155299046
+    tracks: 15
+    confidence: 1
+  - audio-id: 1762214726
+    hash: 21f11991feec05d9ec734afab69f405dd448e68c
+    size: 154393830
+    tracks: 15
+    confidence: 1
+  - audio-id: 1762128326
+    hash: 15ed77256e52efe95f6c32c6166466e12f60158a
+    size: 153009382
+    tracks: 15
+    confidence: 1
+  - audio-id: 1762041926
+    hash: 7ca2d8164694a956de08dc4e0ed416d6a2688b8e
+    size: 154811622
+    tracks: 15
+    confidence: 1
+  - audio-id: 1761955526
+    hash: d13acbb43c91191ebbffc544ee167154dd378ef8
+    size: 154238182
+    tracks: 15
+    confidence: 1
+  - audio-id: 1761869126
+    hash: 5e72ee1fbe102d228ada255d8d0de524d7d29b57
+    size: 154799334
+    tracks: 15
+    confidence: 1
+  - audio-id: 1761782726
+    hash: 06b154306558a38b37ee64f839ebc4ae2105a37d
+    size: 154381542
+    tracks: 15
+    confidence: 1
+  - audio-id: 1761696326
+    hash: 521109840d5c3ccf3bc2d4e32a2d7244be786148
+    size: 156409062
+    tracks: 15
+    confidence: 1
+  - audio-id: 1761609919
+    hash: 1d2d6ef212769a786e4abc50b69aa9024055e061
+    size: 153775334
+    tracks: 15
+    confidence: 1
+  - audio-id: 1761523520
+    hash: f3d8d19485e06be22789b747d40d1b9ab6276f77
+    size: 152259814
+    tracks: 15
+    confidence: 1
+  - audio-id: 1761433519
+    hash: bcd63a16ac26671862b9f887eaba9ecf2a10e661
+    size: 151248102
+    tracks: 15
+    confidence: 1
+  - audio-id: 1761347119
+    hash: 62ad9aee474a1bd5d82f5b1df7acc680f342c7c4
+    size: 150666470
+    tracks: 15
+    confidence: 1
+  - audio-id: 1761260719
+    hash: 18b2bf3838d77f961d46dc87c41e82cfbb3f07f5
+    size: 150539494
+    tracks: 15
+    confidence: 1
+  - audio-id: 1761174320
+    hash: 6feb405d9a5752880053999a72edc8bd8d802273
+    size: 153279718
+    tracks: 15
+    confidence: 1
+  - audio-id: 1761087920
+    hash: c41ac917f7bb238e79aed93b8f9e31dab0d4862b
+    size: 152411366
+    tracks: 15
+    confidence: 1
+  - audio-id: 1761001512
+    hash: 81e49c1abb4b0d7bee4f858d4c4d349a74b49f46
+    size: 152349926
+    tracks: 15
+    confidence: 1
+  - audio-id: 1760915112
+    hash: b0bcfbc0cb2e214b099e981f9cff2ff05a36079e
+    size: 155413734
+    tracks: 15
+    confidence: 1
+  - audio-id: 1760828712
+    hash: 00ef2a39121c7a78509324380aff017a96032c68
+    size: 155364582
+    tracks: 15
+    confidence: 1
+  - audio-id: 1760742312
+    hash: 72760eb3add7cc9d88f16267dc58ec86de64cebd
+    size: 155548902
+    tracks: 15
+    confidence: 1
+  - audio-id: 1760655912
+    hash: 51982098cb704e3f36fe00fd8f08a7b92c5f091c
+    size: 155385062
+    tracks: 15
+    confidence: 1
+  - audio-id: 1760569513
+    hash: 845d79b04846f833835c7af4fa94c51475de0dbc
+    size: 153681126
+    tracks: 15
+    confidence: 1
+  - audio-id: 1760483112
+    hash: cbdf98c588ba5e47f0775d1e695f5dbaf2315768
+    size: 151403750
+    tracks: 15
+    confidence: 1
+  - audio-id: 1760396712
+    hash: 98ecf8fabbad409e7422fbc5084c78d98bd1ca21
+    size: 152646500
+    tracks: 15
+    confidence: 1
+  - audio-id: 1760310312
+    hash: 3a35ee854140c7eb224222a320c9a57f21408a2c
+    size: 153181414
+    tracks: 15
+    confidence: 1
+  - audio-id: 1760223912
+    hash: dc0606ed34bfa3589d92c8b1f89a7ee852f6eeb5
+    size: 152163959
+    tracks: 15
+    confidence: 1
+  - audio-id: 1760137512
+    hash: 182831da3c1669234d8ea255401c5d74783c3147
+    size: 151960806
+    tracks: 15
+    confidence: 1
+  - audio-id: 1760051114
+    hash: 713161ed84a10bceeaa69822a8fd90c03e6d93ce
+    size: 151649510
+    tracks: 15
+    confidence: 1
+  - audio-id: 1759964714
+    hash: ba0e5e019d4777a9e5de39990b8e974f582143b6
+    size: 150971236
+    tracks: 15
+    confidence: 1
+  - audio-id: 1759878314
+    hash: 6d47a30512f64fafc72f107a7cafbfe0a11c5a84
+    size: 150442852
+    tracks: 15
+    confidence: 1
+  - audio-id: 1759791913
+    hash: 14ae2de320c5c8b2d1df2e7c9ae19f96553d1f7d
+    size: 149668708
+    tracks: 15
+    confidence: 1
+  - audio-id: 1759705505
+    hash: 44cb1a037ccd1e2147ca6e05591e1c2026d94eec
+    size: 148589798
+    tracks: 15
+    confidence: 1
+  - audio-id: 1759619105
+    hash: 2d1a81a8751a051f6b4e7da02b1ca8076654cab9
+    size: 148495590
+    tracks: 15
+    confidence: 1
+  - audio-id: 1759532705
+    hash: e33c6204924309c178f1a6accb3c9fafe314c78d
+    size: 149912806
+    tracks: 15
+    confidence: 1
+  - audio-id: 1759446305
+    hash: ffc95e4ba6643770b45987a293433e4358a8cece
+    size: 150400230
+    tracks: 15
+    confidence: 1
+  - audio-id: 1759359916
+    hash: 59de85563c50aab39e7c5754787e2c3560071607
+    size: 151690470
+    tracks: 15
+    confidence: 1
+  - audio-id: 1759273516
+    hash: a600a70e300cfd3b1ad065a044da585c3efa55dd
+    size: 152427750
+    tracks: 15
+    confidence: 1
+  - audio-id: 1759187116
+    hash: 0dd2bbd165ee816510c32a5f1317457cb53b0964
+    size: 154045670
+    tracks: 15
+    confidence: 1
+  - audio-id: 1759100716
+    hash: e8e906a0578accc568f043326e49e6f2895bea41
+    size: 153758950
+    tracks: 15
+    confidence: 1
+  - audio-id: 1759014316
+    hash: 19a2b45e770afa6847d626fa28b84ff5ecb394ab
+    size: 156593382
+    tracks: 15
+    confidence: 1
+  - audio-id: 1758927916
+    hash: 26804d9e2cae167bda267b9f1be3c706e8ee8732
+    size: 156769510
+    tracks: 15
+    confidence: 1
+  - audio-id: 1758841516
+    hash: b52e31425af8b0678b0f99bcffc022e8320de0fe
+    size: 157774692
+    tracks: 15
+    confidence: 1
+  - audio-id: 1758755116
+    hash: 4d5e39a8f8c53378020057c8d8cde60693b80425
+    size: 157197943
+    tracks: 15
+    confidence: 1
+  - audio-id: 1758668716
+    hash: f31a603919303c8821aebed1b597dc6e5c2c1906
+    size: 159755494
+    tracks: 15
+    confidence: 1
+  - audio-id: 1758582324
+    hash: 83de2796aabebccd0145dd43f3021502f76d2c13
+    size: 158829798
+    tracks: 15
+    confidence: 1
+  - audio-id: 1758495924
+    hash: e88685663982dde761df493e59c101c5d26268b3
+    size: 158891238
+    tracks: 15
+    confidence: 1
+  - audio-id: 1758409524
+    hash: 8d00317236eb8a6aa5215a438db7ecbe6ba5c81f
+    size: 158997734
+    tracks: 15
+    confidence: 1
+  - audio-id: 1758323124
+    hash: 596404b8ba5492d2a1dec54144ed3300f235e416
+    size: 157465830
+    tracks: 15
+    confidence: 1
+  - audio-id: 1758236724
+    hash: 62d2298d67eee3f1441bcf9b8edc7bf4689bc0e2
+    size: 158080230
+    tracks: 15
+    confidence: 1
+  - audio-id: 1758150314
+    hash: 17fd6194eac6bd7cea2ffffe877a48f063e9ef8a
+    size: 157560038
+    tracks: 15
+    confidence: 1
   - audio-id: 1758063917
     hash: 6b355437ffed56d4bf7b72ddd73ff6ddccea49fb
     size: 158837990

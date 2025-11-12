@@ -1,0 +1,27 @@
+article: '11000952'
+lock-data: false
+data:
+- series: Bing
+  series-id: bing
+  episode: Bing's Bedtime
+  release: 1762992000
+  language: en-gb
+  category: audio-play-songs
+  runtime: 65
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11000952_Landscape_7-Plpszu2Y.png
+  sample: https://cdn.tonies.de/o/audio_samples/3733cba718a980a1d696dbc37f5d4913cd820128ab158a243363a6d7/bing_s_bedtime_sample.wav
+  web: https://tonies.com/en-gb/tonies/bing/bings-bedtime/
+  shop-id: b2a4e4e7-43ff-4115-aa37-4627a6c77f60
+  track-desc:
+  - INTRO - Hello
+  - STORY - Say Goodbye
+  - STORY - Blankie
+  - SONG - Toothbrushing Song
+  - STORY - Dark
+  - SONG - Twinkle Twinkle Song
+  - STORY - Story
+  - STORY - Mine
+  - INSTRUMENTAL - Sleepy Music
+  ids: []

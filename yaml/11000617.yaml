@@ -10,12 +10,17 @@ data:
   runtime: 0
   age: 99
   origin: stock
-  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Lalalinos_-Akio-11000617-PLPTB2Hero1.png?v=1758034855
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Lalalinos_-Akio-11000617-PLPTB2MainImageTransparent.png?v=1762436228
   sample: null
   web: null
   shop-id: '8623894954135'
   track-desc: []
   ids:
+  - audio-id: 1758911358
+    hash: e502355c01f07bc3036e7b175306b7ffc13da60b
+    size: 38953704
+    tracks: 6
+    confidence: 1
   - audio-id: 1744315652
     hash: fb3b1d86556dc8cfc9be8161b532a99928603f1c
     size: 38934321

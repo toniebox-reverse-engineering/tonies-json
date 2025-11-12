@@ -10,12 +10,17 @@ data:
   runtime: 0
   age: 99
   origin: stock
-  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Sing-Along-Songs-10000568-PLPTB2Hero1.png?v=1758034833
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Sing-Along-Songs-10000568-PLPTB2MainImageTransparent.png?v=1762436244
   sample: null
   web: null
   shop-id: '8016776200343'
   track-desc: []
   ids:
+  - audio-id: 1760031923
+    hash: 882ca50db5d4865d28039226dbfff5adc775eb70
+    size: 33806363
+    tracks: 17
+    confidence: 1
   - audio-id: 1729108183
     hash: 2c0a10274c15feeb0c0791f25e7cab19f9b5184f
     size: 33975843

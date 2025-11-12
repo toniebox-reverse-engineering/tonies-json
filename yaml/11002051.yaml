@@ -1,0 +1,26 @@
+article: '11002051'
+lock-data: false
+data:
+- series: Worldwide Tales
+  series-id: w-wide-tales
+  episode: South Asian Tales
+  release: 1760313600
+  language: en-gb
+  category: audio-play
+  runtime: 60
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002051_Landscape_7-aJxOKaaG.png
+  sample: https://cdn.tonies.de/o/audio_samples/4140ab354f4e7081839c38c95f43e284287236bcbd0c01314f15b10a/south_asian_tales_sample.wav
+  web: https://tonies.com/en-gb/tonies/worldwide-tales/south-asian-tales/
+  shop-id: 847cfb9f-8003-435b-8dad-072be54676c4
+  track-desc:
+  - 01 Intro
+  - 02 Clever Rabbit
+  - 03 Gajasingha
+  - 04 Banyan Tree
+  - 05 Chatty Tortoise
+  - 06 Giant Pumpkin
+  - 07 Treasure Fish
+  - 08 Outro
+  ids: []

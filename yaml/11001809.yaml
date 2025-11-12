@@ -2,7 +2,7 @@ article: '11001809'
 lock-data: false
 data:
 - series: Gabby's Dollhouse
-  series-id: gabby-s-dollhouse
+  series-id: gab-dollhouse-us
   episode: Mercat
   release: 1758326400
   language: en-gb
@@ -21,4 +21,9 @@ data:
   - INTERSTITIAL
   - STORY - Pete The Polar Bear
   - OUTRO
-  ids: []
+  ids:
+  - audio-id: 1756736239
+    hash: f96f9b962205fcf8afdbf373fabda062af8cd143
+    size: 37078835
+    tracks: 6
+    confidence: 1

@@ -1,8 +1,8 @@
 article: 01-0095
 lock-data: false
 data:
-- series: Die Eule mit der Beule
-  series-id: die-eule-mit-der-beule
+- series: Die kleine Eule
+  series-id: die-kleine-eule
   episode: Die kleine Eule feiert Weihnachten
   release: 1543449600
   language: de-de
@@ -12,7 +12,7 @@ data:
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0095-98-0586-b-eGPAP8Ml.png
   sample: https://cdn.tonies.de/o/audio_samples/9c6f3e39e63cacf4e12838f6f9433d6dbf27b4103d5c1e4523a6620e/hoerprobe_kleine_eule_feiert_weihnachten.mp3
-  web: https://tonies.com/de-de/tonies/die-eule-mit-der-beule/die-kleine-eule-feiert-weihnachten/
+  web: https://tonies.com/de-de/tonies/die-kleine-eule/die-kleine-eule-feiert-weihnachten/
   shop-id: 87bac7da-898a-4cce-a73d-291df7a32a74
   track-desc:
   - Plätzchen backen

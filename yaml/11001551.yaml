@@ -1,0 +1,30 @@
+article: '11001551'
+lock-data: false
+data:
+- series: Les Copains Du Dodo
+  series-id: sleepy-friends
+  episode: Doudou Caneton
+  release: 1759363200
+  language: fr-fr
+  category: music
+  runtime: 119
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51007164-Tonie_Shado-VautT8rR.png
+  sample: https://cdn.tonies.de/o/audio_samples/91d16ed0e1589b59c9ff552897e814d46a419d60a0bffcbdee308292/01_sleepy_duck_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/les-copains-du-dodo/doudou-caneton/
+  shop-id: 2431fc60-d22c-445f-b445-236ddfbd00e2
+  track-desc:
+  - Un voyage sonore à travers la forêt - 01
+  - Un voyage sonore à travers la forêt - 02
+  - Un voyage sonore à travers la forêt - 03
+  - Un voyage sonore à travers la forêt - 04
+  - Un voyage sonore à travers la forêt - 05
+  - Un voyage sonore à travers la forêt - 06
+  - Un voyage sonore à travers la forêt - 07
+  - Un voyage sonore à travers la forêt - 08
+  - Un voyage sonore à travers la forêt - 09
+  - Un voyage sonore à travers la forêt - 10
+  - Un voyage sonore à travers la forêt - 11
+  - Un voyage sonore à travers la forêt - 12
+  ids: []

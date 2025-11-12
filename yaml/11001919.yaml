@@ -1,0 +1,19 @@
+article: '11001919'
+lock-data: false
+data:
+- series: tonies® Original
+  series-id: tonies-originals
+  episode: 'Advent Calendar 2025: Snowflake and the Missing Christmas Lights'
+  release: 1760313600
+  language: en-gb
+  category: audio-play
+  runtime: 145
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/%2011001919_Landscape_-0pI1CdMH.png
+  sample: https://cdn.tonies.de/o/audio_samples/b43e6dae34353a141c1dd7f3f6848a46907284c3020797120d743ed2/snowflake_and_the_missing_christmas_lights_sample.wav
+  web: https://tonies.com/en-gb/tonies/tonies-originals/advent-calendar-2025-snowflake-and-the-missing-christmas-lights/
+  shop-id: 142ee0ec-7b61-4930-ba8a-1bf5bc48e676
+  track-desc:
+  - INTRO
+  ids: []

@@ -1,0 +1,20 @@
+article: '11001917'
+lock-data: false
+data:
+- series: Calendrier De L'Avent
+  series-id: adventskalender
+  episode: Pompon Et Les Lumières De Noël
+  release: 1759363200
+  language: fr-fr
+  category: audio-play
+  runtime: 120
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51008389-Tonie_Shado--1udpIql.png
+  sample: https://cdn.tonies.de/o/audio_samples/d9e7ddf0dc724028999a9185695cde34e1c94fecf08543ac2178f6e3/11001917_calendrierpompon_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/calendrier-de-l-avent/pompon-et-les-lumieres-de-noel/
+  shop-id: d122ab72-0ce2-4c98-a7d7-999f05354c73
+  track-desc:
+  - Introduction
+  - Présentation de Pompon
+  ids: []

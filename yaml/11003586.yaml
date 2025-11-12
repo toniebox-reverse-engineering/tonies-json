@@ -34,4 +34,9 @@ data:
   - Eine bittere Zukunft
   - Ein neuer Mensch 1
   - Ein neuer Mensch 2
-  ids: []
+  ids:
+  - audio-id: 1754476794
+    hash: 94bb0a1d89a7a290d44b9d0960db4ceee29c50e9
+    size: 104263153
+    tracks: 19
+    confidence: 1

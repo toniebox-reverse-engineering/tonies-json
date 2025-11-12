@@ -1,0 +1,24 @@
+article: '11002048'
+lock-data: false
+data:
+- series: Hot Wheels
+  series-id: hot-wheels
+  episode: Hot Wheels
+  release: 1762992000
+  language: en-gb
+  category: audio-play
+  runtime: 60
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002048_Landscape_7-GXVkDon0.png
+  sample: https://cdn.tonies.de/o/audio_samples/89afa68c67f8aaf7d71b3af2b79930f44d21f85ce2387bf8caf577dd/hot_wheels_sample.wav
+  web: https://tonies.com/en-gb/tonies/hot-wheels/hot-wheels/
+  shop-id: 86b71b22-eb42-444a-8630-eba604db2612
+  track-desc:
+  - 'STORY: Ultimate Racers'
+  - 'STORY: Haunted Car'
+  - 'STORY: Fast Food Cars'
+  - 'STORY: Attack Of The Octopus'
+  - 'STORY: Snake Attack'
+  - 'STORY: Dino Dash'
+  ids: []

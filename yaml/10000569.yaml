@@ -10,12 +10,17 @@ data:
   runtime: 0
   age: 99
   origin: stock
-  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Puss-in-Boots-10000569-PLPTB2Hero1.png?v=1758034830
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Puss-in-Boots-10000569-PLPTB2MainImageTransparent.png?v=1762436226
   sample: null
   web: null
   shop-id: '7806510694551'
   track-desc: []
   ids:
+  - audio-id: 1758714495
+    hash: 8ca98e46f5aa3f29c1f97c5000a7c0e271244ff7
+    size: 49363512
+    tracks: 9
+    confidence: 1
   - audio-id: 1732154930
     hash: 947d908cd2172e1dbfbabc9cc0b1c9957519d58b
     size: 49262568

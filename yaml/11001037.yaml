@@ -1,0 +1,47 @@
+article: '11001037'
+lock-data: false
+data:
+- series: Lieblings-Kinderlieder
+  series-id: lieblings-kinderlieder
+  episode: Herbst- und Laternenlieder
+  release: 1761782400
+  language: de-de
+  category: music
+  runtime: 50
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11001037_1_a-HqbnZ8_6.png
+  sample: https://cdn.tonies.de/o/audio_samples/861d06b22d6074cd6176ea9998ac0d2b27aba2124a2becdafd286c30/audio_sample_herbst_und_laternenlieder.wav
+  web: https://tonies.com/de-de/tonies/lieblings-kinderlieder/herbst-und-laternenlieder/
+  shop-id: 208a18d3-298a-4866-9384-78c20c062f90
+  track-desc:
+  - Igor, der Igel
+  - Der Herbst ist da
+  - Blätterfall
+  - Erntelied
+  - Wind, Wind, fröhlicher Gesell
+  - Drachen im Wind
+  - Der Herbst hat bunte Blätter
+  - Kastanie, Kastanie
+  - Hejo, spann den Wagen an
+  - Laterne, Laterne
+  - Kommt, wir woll'n Laterne laufen
+  - Abends, wenn es dunkel wird
+  - Wir halten die Laternen
+  - Ich geh mit meiner Laterne
+  - Licht in der Laterne
+  - Sankt Martin ritt durch Schnee und Wind
+  - Durch die Straßen auf und nieder
+  - Sankt Martin
+  - Leute, es ist Halloween
+  - Finster Finster
+  - Kürbis, Kürbis
+  - Ihr Blätter, wollt ihr tanzen?
+  - Tiere im Herbst
+  - Tonies Original Outro
+  ids:
+  - audio-id: 1755598108
+    hash: 881e09d862a0d8eb57d9f3e00b0f2872346e46a4
+    size: 41164747
+    tracks: 24
+    confidence: 0

@@ -4,16 +4,54 @@ data:
 - series: Der Weihnachtosaurus
   series-id: der-weihnachtosaurus
   episode: Der Weihnachtosaurus
-  release: 1757462400
+  release: 1759881600
   language: de-de
   category: audio-book
   runtime: 309
-  age: 8
+  age: 7
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11003568_1_a-1dR0uO-5.png
   sample: https://cdn.tonies.de/o/audio_samples/87626eb5c9ac5f298dc99c13916208ed03976a0d6c471e4c41c7a5fa/hoerprobe_11003568_der_weihnachtosaurus.mp3
   web: https://tonies.com/de-de/book-tonies/der-weihnachtosaurus/der-weihnachtosaurus/
   shop-id: 711ee8e7-735e-4ca1-aaa3-ef8a422b7dbf
   track-desc:
-  - '34: Der Weihnachtosaurus'
-  ids: []
+  - 01 Der Weihnachtosaurus
+  - 02 Der Weihnachtosaurus
+  - 03 Der Weihnachtosaurus
+  - 04 Der Weihnachtosaurus
+  - 05 Der Weihnachtosaurus
+  - 06 Der Weihnachtosaurus
+  - 07 Der Weihnachtosaurus
+  - 08 Der Weihnachtosaurus
+  - 09 Der Weihnachtosaurus
+  - 10 Der Weihnachtosaurus
+  - 11 Der Weihnachtosaurus
+  - 12 Der Weihnachtosaurus
+  - 13 Der Weihnachtosaurus
+  - 14 Der Weihnachtosaurus
+  - 15 Der Weihnachtosaurus
+  - 16 Der Weihnachtosaurus
+  - 17 Der Weihnachtosaurus
+  - 18 Der Weihnachtosaurus
+  - 19 Der Weihnachtosaurus
+  - 20 Der Weihnachtosaurus
+  - 21 Der Weihnachtosaurus
+  - 22 Der Weihnachtosaurus
+  - 23 Der Weihnachtosaurus
+  - 24 Der Weihnachtosaurus
+  - 25 Der Weihnachtosaurus
+  - 26 Der Weihnachtosaurus
+  - 27 Der Weihnachtosaurus
+  - 28 Der Weihnachtosaurus
+  - 29 Der Weihnachtosaurus
+  - 30 Der Weihnachtosaurus
+  - 31 Der Weihnachtosaurus
+  - 32 Der Weihnachtosaurus
+  - 33 Der Weihnachtosaurus
+  - 34 Der Weihnachtosaurus
+  ids:
+  - audio-id: 1758538647
+    hash: 4a4874aec3f861559109bce63d3070b9b2c6f82d
+    size: 206502742
+    tracks: 34
+    confidence: 0

@@ -2,9 +2,9 @@ article: '11002521'
 lock-data: false
 data:
 - series: Schlummerbande
-  series-id: schlummerbande
+  series-id: sleepy-friends
   episode: Nachtlicht Tonie - Schlummerpinguin
-  release: 0
+  release: 1759881600
   language: de-de
   category: music
   runtime: 75
@@ -16,4 +16,9 @@ data:
   shop-id: 652d156c-11a3-4d0d-b625-a412b2f339d2
   track-desc:
   - Schlummerpinguin - Einschlafmelodien
-  ids: []
+  ids:
+  - audio-id: 1760001975
+    hash: fa56b9e35d49706aac3555976b056034f581f4a3
+    size: 58145587
+    tracks: 6
+    confidence: 0

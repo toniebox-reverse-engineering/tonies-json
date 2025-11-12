@@ -1,0 +1,24 @@
+article: '11001520'
+lock-data: false
+data:
+- series: La Maison De Gabby
+  series-id: gab-dollhouse-us
+  episode: Marine
+  release: 1759363200
+  language: fr-fr
+  category: audio-play
+  runtime: 51
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51006399-Tonie_Shado-WLpKHXd8.png
+  sample: https://cdn.tonies.de/o/audio_samples/f05c0c45af5748f926f592c126c4dbd174ef5f3e2ca4120dac8d7223/gabby_marine_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/la-maison-de-gabby/marine/
+  shop-id: 5e2310c0-8b66-4228-92dc-4a2ef2919fdd
+  track-desc:
+  - Introduction
+  - Générique
+  - Gabby, j'ai rétréci les Gabbychats !
+  - Interlude
+  - Paul, l'ours polaire
+  - Conclusion
+  ids: []

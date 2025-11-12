@@ -1,0 +1,33 @@
+article: '11003562'
+lock-data: false
+data:
+- series: tonies® Original
+  series-id: tonies-originals
+  episode: My First Tonies - Farm Set
+  release: 1755216000
+  language: en-gb
+  category: audio-play-songs
+  runtime: 0
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11003562_Landscape_1-CqaGlXtU.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/13a0c4adeb4706ec5f1df12b6e0be6c233e5acf351d1875a53910329/cow_cow_sound_song_sample.wav
+  web: https://tonies.com/en-gb/my-first-tonies/tonies-originals/my-first-tonies-farm-set/
+  shop-id: 6e4cffdb-4b8e-40b7-b268-1b4ce6b4a988
+  track-desc:
+  - Cow - Cow Sound & Song
+  - Cow - Can You Hear The Cow?
+  - Cow - The Cow and The Clover
+  - Cow - Cows in the Meadow (Soundscape & Music)
+  - Cow - Outro
+  - Pig - Pig Sound & Song
+  - Pig - Can You Hear the Pig?
+  - Pig - Ten Little Piglets
+  - Pig - Playing in the Mud (Soundscape & Music)
+  - Pig - Outro
+  - Horse - Horse Sound & Song
+  - Horse - Can You Hear the Horse?
+  - Horse - Mama Horse and her Foal
+  - Horse - Trotting to the Apple Tree (Soundscape & Music)
+  - Horse - Outro
+  ids: []

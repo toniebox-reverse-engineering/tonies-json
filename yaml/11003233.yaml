@@ -10,7 +10,7 @@ data:
   runtime: 120
   age: 5
   origin: stock
-  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11003233_Landscape_1-BKxiEukt.jpg
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11003233_Landscape_7-KK4HfWIc.jpg
   sample: https://cdn.tonies.de/o/audio_samples/dd6369e1eca3b50292a89d4b9fd86600b977df4f866bc1d727525103/horrid_henry_horridly_scary_stories_sample.wav
   web: https://tonies.com/en-gb/book-tonies/horrid-henry/horrid-henry-horridly-spooky-stories/
   shop-id: 34e1fec7-7059-453b-a97b-bff9c304daf4
@@ -27,4 +27,9 @@ data:
   - 'OUTRO: A Brilliantly Horrid Sign Off'
   - OUTRO
   - CREDITS
-  ids: []
+  ids:
+  - audio-id: 1756205438
+    hash: 0e5f68a7155443ce8d658afe2fb7800ff2ca8063
+    size: 80233487
+    tracks: 12
+    confidence: 1

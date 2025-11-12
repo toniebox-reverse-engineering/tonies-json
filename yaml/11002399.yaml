@@ -1,0 +1,30 @@
+article: '11002399'
+lock-data: false
+data:
+- series: Teenage Mutant Ninja Turtles
+  series-id: teenage-mutant-ninja-turtles
+  episode: 'Teenage Mutant Ninja Turtles: Leonardo'
+  release: 1760313600
+  language: en-gb
+  category: audio-play
+  runtime: 45
+  age: 6
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002399_Landscape_7-u6oVtfzS.png
+  sample: https://cdn.tonies.de/o/audio_samples/931be7f69fb929541202980d6682387076640a67786eb88efd81f4e8/leonardo_teenage_mutant_ninja_turtles_sample.wav
+  web: https://tonies.com/en-gb/tonies/teenage-mutant-ninja-turtles/teenage-mutant-ninja-turtles-leonardo/
+  shop-id: c8b885f8-7852-4409-9647-bacefc409db6
+  track-desc:
+  - 'STORY: Meet The Turtles'
+  - 'SONG: Theme Song'
+  - 'STORY: Adventure Part 1'
+  - 'QUIZ: Know Your Turtles'
+  - 'STORY: Adventure Part 2'
+  - 'STORY: April Interviews'
+  - 'STORY: Adventure Part 3'
+  ids:
+  - audio-id: 1759234702
+    hash: fd43f7e91abd99a00779a12c57b3f9d074976e2e
+    size: 43680968
+    tracks: 21
+    confidence: 0

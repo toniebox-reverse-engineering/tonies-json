@@ -1,0 +1,37 @@
+article: '11003583'
+lock-data: false
+data:
+- series: tonies® Original
+  series-id: tonies-originals
+  episode: Every Body's Talking (Set)
+  release: 1760313600
+  language: en-gb
+  category: audio-play-educational
+  runtime: 100
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11003583_Landscape_1-nzgmZMVU.png
+  sample: https://cdn.tonies.de/o/audio_samples/6085b7a9e0221910e3057c384cfa56370327a1664b96c03fa0fbfebe/every_bodys_talkin_sample.wav
+  web: https://tonies.com/en-gb/clever-tonies/tonies-originals/every-bodys-talkin/
+  shop-id: 7a1a393a-336f-4aca-87de-2bf2162c4334
+  track-desc:
+  - Nervous System - 01_CHAPTER_Opening Monologue
+  - Nervous System - 02_CHAPTER_Commercial
+  - Nervous System - 03_CHAPTER_Five Senses
+  - Nervous System - 04_CHAPTER_What's in the Box?
+  - Nervous System - 05_OUTRO
+  - Skeletal System - 01_CHAPTER_Opening Monologue
+  - Skeletal System - 02_CHAPTER_Commercial
+  - Skeletal System - 03_CHAPTER_Skeleton Standup
+  - Skeletal System - 04_OUTRO
+  - Immune System - 01_CHAPTER_Opening Monologue
+  - Immune System - 02_CHAPTER_Ellie-Oke
+  - Immune System - 03_SONG_The Antibodies
+  - Immune System - 04_CHAPTER_Commercial
+  - Immune System - 05_OUTRO
+  - Digestive System - 01_CHAPTER_Opening Monologue
+  - Digestive System - 02_CHAPTER_Skeleton Standup
+  - Digestive System - 03_CHAPTER_Commercial
+  - Digestive System - 04_CHAPTER_Every Body's Cookin'
+  - Digestive System - 05_OUTRO
+  ids: []
