@@ -1239,6 +1239,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000422,Maestro,maestro,Maestro,en-gb,music,stock,8c87a5e8-2600-443c-ae7a-0e9d917a8c8f,https://tonies.com/en-gb/tonies/maestro/maestro/,1,0,0,0
 11000423,Micky Maus & Freunde,disney-mickey-mouse-friends,Mickys großes Weihnachtsfest – Eingeschneit im Haus der Maus,de-de,audio-play,stock,47350d19-8c0d-4d19-9983-706ae6f6346b,https://tonies.com/de-de/tonies/disney-micky-maus-freunde/mickys-grosses-weihnachtsfest-eingeschneit-im-haus-der-maus/,1,1,0,0
 11000424,Sleepy Friends,sleepy-friends,Classical Music with Sleepy Rabbit,en-gb,music,stock,1cd2a495-cc66-4b2a-a28f-9c7b8d897225,https://tonies.com/en-gb/tonies/sleepy-friends/classical-music-with-sleepy-rabbit/,1,0,0,0
+11000425,Peppa Pig,peppa-pig,Das Schulfest & 7 weitere Geschichten,de-de,audio-play,stock,e055b7df-cdd0-4d63-ad52-f2e2d6e32ec5,https://tonies.com/de-de/tonies/peppa-pig/das-schulfest-7-weitere-geschichten/,1,0,0,0
 11000430,Dino Ranch,dino-ranch,Mächtig Ärger für Jon & 3 weitere Abenteuer,de-de,audio-play,stock,6617d727-a3e3-4be6-9ec1-7004682fe20e,https://tonies.com/de-de/tonies/dino-ranch/machtig-arger-fur-jon-3-weitere-abenteuer/,1,1,0,0
 11000431,Soul,disney-soul,Soul,de-de,audio-play-songs,stock,b7e7882e-2179-4a50-b5af-64d5f7dce431,https://tonies.com/de-de/tonies/disney-soul/soul/,1,1,0,0
 11000432,Disney,disney,Hercules,de-de,audio-play-songs,stock,7874a5c0-def3-4663-b093-5421a8884c9d,https://tonies.com/de-de/tonies/disney/hercules/,1,2,1,0
@@ -1605,6 +1606,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11002051,Worldwide Tales,w-wide-tales,South Asian Tales,en-gb,audio-play,stock,847cfb9f-8003-435b-8dad-072be54676c4,https://tonies.com/en-gb/tonies/worldwide-tales/south-asian-tales/,1,0,0,0
 11002052,Dora the Explorer,,,en-us,Tonie,stock,9161066348695,,1,1,1,0
 11002070,Dora L'Exploratrice,dora-the-explorer,Dora,fr-fr,audio-play,stock,75b6eb5a-f964-43b1-89f3-305cb130cf88,https://tonies.com/fr-fr/tonies/dora-l-exploratrice/dora/,1,0,0,0
+11002078,Bibi Blocksberg,bibi-blocksberg,Ausgehext!,de-de,audio-play,stock,1873e8fa-8d86-4f0a-acff-f5383e5e0e35,https://tonies.com/de-de/tonies/bibi-blocksberg/ausgehext/,1,0,0,0
 11002084,Tonie Créatif,,Mon Coffret De Coloriage Pirate,fr-fr,creative-tonie,stock,7d37043e-6d71-4d25-81d1-1642e17de461,https://tonies.com/fr-fr/tonies-creatifs/mon-coffret-de-coloriage-pirate/,1,0,0,0
 11002087,Tonie Créatif,,Mon Coffret De Coloriage Féerique,fr-fr,creative-tonie,stock,eb3cb998-4eaa-4130-a065-fe115a73f464,https://tonies.com/fr-fr/tonies-creatifs/mon-coffret-de-coloriage-feerique/,1,0,0,0
 11002135,Sesame Street,,Elmo & Tango Tonie (en Español),en-us,Tonie,stock,9148582068375,,1,1,1,0
@@ -1643,7 +1645,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11002576,Tierisch!,tierisch,Tierisch! Beste Freunde - Set,de-de,audio-play,stock,2ea8d354-8f47-461a-a46b-51445ccc1401,https://tonies.com/de-de/clever-tonies/tierisch/tierisch-beste-freunde-haustiere-wissen-fuer-kinder/,1,0,0,0
 11002581,Löwenzahn,loewenzahn,Löwenzahn - Set,de-de,audio-play,stock,fd687045-901f-4e10-954d-34fa9d5762fb,https://tonies.com/de-de/clever-tonies/loewenzahn/loewenzahn-set/,1,0,0,0
 11002594,David Walliams,david-walliams-2,Gangsta Granny Strikes Again!,en-gb,audio-book,stock,1dc4ca6a-f733-4755-bee4-893cc03fcae5,https://tonies.com/en-gb/book-tonies/david-walliams-2/gangsta-granny-strikes-again/,1,0,0,0
-11002595,Dora,dora,Dora,de-de,audio-play,stock,638408f9-ed0f-4361-bb91-6c520b326c0e,https://tonies.com/de-de/tonies/dora/dora/,1,0,0,0
+11002595,Dora,dora-the-explorer,Dora,de-de,audio-play,stock,638408f9-ed0f-4361-bb91-6c520b326c0e,https://tonies.com/de-de/tonies/dora/dora/,1,0,0,0
 11002596,Adam Kay,adam-kay,Kay's Incredible Inventions,en-gb,audio-book,stock,cc8b3c8f-c03c-4bfb-9c12-f42c3c825c67,https://tonies.com/en-gb/book-tonies/adam-kay/kays-incredible-inventions/,1,1,1,0
 11002597,Teenage Mutant Ninja Turtles,teenage-mutant-ninja-turtles,Die Abenteuer der Teenage Mutant Ninja Turtles: Leonardo,de-de,audio-play,stock,35e549a5-af95-4334-9324-b2417e726ea8,https://tonies.com/de-de/tonies/teenage-mutant-ninja-turtles/die-abenteuer-der-teenage-mutant-ninja-turtles-leonardo/,1,0,0,0
 11002598,Tom Fletcher,tom-fletcher,The Creakers,en-gb,audio-book,stock,e13a41b5-e7bc-477f-9904-69b6a59cfeed,https://tonies.com/en-gb/book-tonies/tom-fletcher/the-creakers/,1,0,0,0
@@ -1677,7 +1679,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11002708,Frau Honig,frau-honig,Und plötzlich war Frau Honig da,de-de,audio-book,stock,f48fc1ad-90c1-4a84-b7e3-dc54ee21e48c,https://tonies.com/de-de/book-tonies/frau-honig/und-plotzlich-war-frau-honig-da/,1,1,0,0
 11002709,Conni & Co,conni-co,Conni & Co 1,de-de,audio-book,stock,d15cfbd2-c991-4a45-a2d7-c8a4e3fdbc03,https://tonies.com/de-de/book-tonies/conni-co/conni-co-1/,1,1,0,0
 11002710,Emmi & Einschwein,emmi-einschwein,Emmi & Einschwein - Einhorn kann jeder!,de-de,audio-book,stock,bc2991f5-9efb-4b17-a47b-eec3edaa7f67,https://tonies.com/de-de/book-tonies/emmi-einschwein/emmi-einschwein-einhorn-kann-jeder/,1,1,0,0
-11002722,Die Schlümpfe,die-schluempfe,Der doppelte Papa Schlumpf & 3 weitere schlumpfige Abenteuer,de-de,audio-play,stock,21b5ac33-cbd4-46c3-a8d6-7cec98e56751,https://tonies.com/de-de/tonies/die-schluempfe/papa-schlumpf/,1,0,0,0
+11002722,Die Schlümpfe,die-schlumpfe,Der doppelte Papa Schlumpf & 3 weitere schlumpfige Abenteuer,de-de,audio-play,stock,21b5ac33-cbd4-46c3-a8d6-7cec98e56751,https://tonies.com/de-de/tonies/die-schluempfe/papa-schlumpf/,1,0,0,0
 11002834,Sleepy Friends,sleepy-friends,Penguin Night Light Tonie,en-gb,music,stock,dfa9f01b-a56a-485c-9d0b-164deaf45ad7,https://tonies.com/en-gb/tonies/sleepy-friends/sleepy-friends-penguin-night-light/,1,0,0,0
 11002835,Les Copains Du Dodo,sleepy-friends,Tonie-Veilleuse - Doudou Pingouin,fr-fr,music,stock,cf367b48-bda7-4cde-8b43-3adc385e1fd1,https://tonies.com/fr-fr/tonies/les-copains-du-dodo/tonie-veilleuse-doudou-pingouin/,1,0,0,0
 11002915,Rolf Zuckowski: Rolfs neue Schulweg-Hitparade,rolf-zuckowski-rolfs-neue-schulweg-hitparade,Rolf Zuckowski: Rolfs neue Schulweg-Hitparade,de-de,music,stock,d9831c43-02da-4f25-80ac-4d54a42f5970,https://tonies.com/de-de/clever-tonies/rolf-zuckowski-rolfs-neue-schulweg-hitparade/rolf-zuckowski-rolfs-neue-schulweg-hitparade/,1,1,0,0
@@ -6035,6 +6037,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 2000011583,Qui n'aimait pas,qui-n-aimait-pas,Qui n'aimait pas vol. 1,fr-fr,audio-play,tunes,ed848b46-914d-4997-95f3-37453c2b5642,https://tonies.com/fr-fr/tonie-librairie/qui-n-aimait-pas/qui-n-aimait-pas-vol-1/,1,0,0,0
 2000011584,Qui n'aimait pas,qui-n-aimait-pas,Qui n'aimait pas vol. 2,fr-fr,audio-play,tunes,1c350254-173c-41b3-b2bf-17a8d2761a41,https://tonies.com/fr-fr/tonie-librairie/qui-n-aimait-pas/qui-n-aimait-pas-vol-2/,1,0,0,0
 2000011585,SpongeBob Schwammkopf,spongebob-schwammkopf,X-Mas Edition,de-de,audio-play,tunes,e7c695ab-309f-40e3-824e-b43db672c2b0,https://tonies.com/de-de/audio-content/spongebob-schwammkopf/x-mas-edition/,1,0,0,0
+2000011586,Calendrier de l'Avent,calendrier-de-lavent,Le petit renne qui rêvait d'avoir des ailes,fr-fr,audio-play,tunes,3a7194f2-4fd9-41d8-b9f1-8de64f93fab8,https://tonies.com/fr-fr/tonie-librairie/calendrier-de-lavent/le-petit-renne-qui-revait-davoir-des-ailes/,1,0,0,0
 43314534219927,The Elf on the Shelf,,,en-us,Tonie,stock,8072067055767,,1,0,0,0
 43314558009495,Favorite Masterpieces,,The Nutcracker,en-us,Tonie,stock,8072076656791,,1,0,0,0
 43314564169879,Maestro,,,en-us,Tonie,stock,8072079147159,,1,0,0,0
