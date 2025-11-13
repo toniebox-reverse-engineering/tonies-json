@@ -14,7 +14,37 @@ data:
   sample: null
   web: null
   shop-id: null
-  track-desc: []
+  track-desc:
+  - Fröhliche Weihnacht überall
+  - Lasst uns froh und munter sein
+  - In der Weihnachtsbäckerei
+  - Am Weihnachtsbaum die Lichter brennen
+  - A, a, a, der Winter, der ist da
+  - Eine Muh, eine Mäh
+  - Morgen, Kinder wird's was geben
+  - Schneeflöckchen tanze
+  - Nun singet und seid froh
+  - Stille, stille (kein Geräusch gemacht)
+  - Juchhe, der erste Schnee
+  - Alle Jahre wieder
+  - Schneeflöckchen, Weißröckchen
+  - Still, still, still (weil's Kindlein schlafen will)
+  - Der Christbaum ist der schönste Baum
+  - Ihr Kinderlein kommet
+  - Es ist ein Ros' entsprungen
+  - Kling Glöckchen, klingelingeling
+  - In einem kleinen Apfel
+  - O Tannenbaum
+  - Die heiligen drei Könige
+  - Ich steh an deiner Krippen hier
+  - Leise rieselt der Schnee
+  - Süßer die Glocken nie klingen
+  - Tochter Zion, freue dich
+  - Macht hoch die Tür
+  - O du fröhliche
+  - Vom Himmel hoch, da komm ich her
+  - Stille Nacht, heilige Nacht
+  - Winter, ade
   ids:
   - audio-id: 1506519950
     hash: 3be2f4c9d08353c27f2b2bae91a9a22601eda9d9
