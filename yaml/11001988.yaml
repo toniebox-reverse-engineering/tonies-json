@@ -16,4 +16,25 @@ data:
   shop-id: e9c0cd11-5761-488b-aad4-84d3f1533e3e
   track-desc:
   - Paw Patrol – Intro
-  ids: []
+  - Das spezielle Mittagessen – Teil 1
+  - Das spezielle Mittagessen – Teil 2
+  - Das spezielle Mittagessen – Teil 3
+  - Das spezielle Mittagessen – Teil 4
+  - Ryders Roboterhund – Teil 1
+  - Ryders Roboterhund – Teil 2
+  - Ryders Roboterhund – Teil 3
+  - Ryders Roboterhund – Teil 4
+  - Ryder in Not – Teil 1
+  - Ryder in Not – Teil 2
+  - Ryder in Not – Teil 3
+  - Ryder in Not – Teil 4
+  - Eine Überraschung für Ryder – Teil 1
+  - Eine Überraschung für Ryder – Teil 2
+  - Eine Überraschung für Ryder – Teil 3
+  - Eine Überraschung für Ryder – Teil 4
+  ids:
+  - audio-id: 1761560525
+    hash: 53ef3a5ddcf1ac7f569d21f6b2588f8dfd9a3e9d
+    size: 38269823
+    tracks: 17
+    confidence: 0
