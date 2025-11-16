@@ -31,6 +31,11 @@ data:
   - 3rd November
   - Joke Of The Day Jingle
   ids:
+  - audio-id: 1763251507
+    hash: cf0e3ce5d3499972327244d3868f4387831ec28a
+    size: 23162575
+    tracks: 15
+    confidence: 1
   - audio-id: 1763165107
     hash: e7bf1ff29aa6009f4858287ebd7e2929a1d42e65
     size: 23473587

@@ -31,6 +31,11 @@ data:
   - Monday 3rd November
   - Today With Tonies Jingle
   ids:
+  - audio-id: 1763251507
+    hash: 3e910f8478383ac08e01576f5fa4b874fb012bc9
+    size: 154291430
+    tracks: 15
+    confidence: 1
   - audio-id: 1763165108
     hash: 5bfdfb548c6b3d8d8ed5f6a1f13a2198a06d0b45
     size: 154021094
