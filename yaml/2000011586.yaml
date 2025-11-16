@@ -1,0 +1,19 @@
+article: '2000011586'
+lock-data: false
+data:
+- series: Calendrier de l'Avent
+  series-id: calendrier-de-lavent
+  episode: Le petit renne qui rêvait d'avoir des ailes
+  release: 1762905600
+  language: fr-fr
+  category: audio-play
+  runtime: 10509
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_9333e331175e52b37fe57e8967ef5f11da2bf0a1c8198d3f90319f9a/3_675p-2kvpdYFLhXl/calendrier_de_l_avent_le_petit_renne_qui_revait__530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/e1319255720a900b5a69b3f748739891eeab4d2d4a4ff15d76c60d4b/11000349_calendrierrenne_extrait.wav
+  web: https://tonies.com/fr-fr/tonie-librairie/calendrier-de-lavent/le-petit-renne-qui-revait-davoir-des-ailes/
+  shop-id: 3a7194f2-4fd9-41d8-b9f1-8de64f93fab8
+  track-desc:
+  - Présentation de Léon
+  ids: []

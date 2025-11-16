@@ -8,10 +8,10 @@ data:
   language: ''
   category: ''
   runtime: ''
-  age: ''
+  age: tonies-json-de-de,
   origin: ''
   image: ''
-  sample: tonies-shopapi-de-de,
+  sample: ''
   web: ''
   shop-id: ''
   track-desc: ''

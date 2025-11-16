@@ -11,7 +11,7 @@ data:
   age: 9
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/SKU_Landscape_1-7gaALs1Z.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/0aa0c27f0163ef502cd9146d08620fa75b1be68315cfa4f387a21acb/narnia_audio_sample.wav
   web: https://tonies.com/en-gb/book-tonies/the-chronicles-of-narnia/the-lion-the-witch-and-the-wardrobe/
   shop-id: 6594e9db-f45b-4b75-a360-ddfb7f4f5008
   track-desc:

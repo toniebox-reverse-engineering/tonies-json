@@ -8,7 +8,7 @@ data:
   language: de-de
   category: audio-play
   runtime: 120
-  age: 6
+  age: 5
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11001131_1_a-NLaidp9k.png
   sample: https://cdn.tonies.de/o/audio_samples/f45705bb1a89b1cc2124ad932ebceec633ea477cbe5425ab731dfb32/hoerprobe_11001131_disney_zoomania.mp3
@@ -22,4 +22,5 @@ data:
   - 'Kapitel 05: Zoomania 1'
   - 'Kapitel 06: Zoomania 1'
   - 'Kapitel 07: Zoomania 1'
+  - Wie es weitergeht ...
   ids: []

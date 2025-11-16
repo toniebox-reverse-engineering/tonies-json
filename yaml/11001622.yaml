@@ -2,7 +2,7 @@ article: '11001622'
 lock-data: false
 data:
 - series: Lichterkinder
-  series-id: lichterkinder
+  series-id: lichterkinder-2
   episode: Lichterkinder Schlaflieder
   release: 1760486400
   language: de-de
@@ -15,27 +15,27 @@ data:
   web: https://tonies.com/de-de/tonies/lichterkinder/lumi-schlaflieder/
   shop-id: f53c6515-4a0a-44b8-bd3c-f795c6820750
   track-desc:
-  - 1000 Träumeland
+  - 1000 Träumeland
   - Lichterkinder Schlaflied
   - Schau nur, die Welt sie geht schlafen
   - La Le Lu
-  - Der Tag sagt Gute Nacht
+  - Lumi sagt dir Gute Nacht
   - Friedliche Stille am Abend
   - Nun bricht die Nacht herein
   - Der Mond geht auf seine Reise
   - Funkel, funkel kleiner Stern
-  - Schöner Traum
+  - Schöner Traum
   - Halli Hallo ich bin der Mond
   - Kleines Schiff
   - Die Nacht beginnt
-  - Abendstille überall
-  - Sonne, lösch dein Licht
+  - Abendstille überall
+  - Sonne, lösch dein Licht
   - Eins, Zwei, Drei
   - Lieber Mond
   - Lieblingsstern
-  - Land der Träume
+  - Land der Träume
   - Spieluhr
   - Lalelilalu
   - Kleines Licht
-  - Lumi sagt dir Gute Nacht
+  - Der Tag sagt Gute Nacht
   ids: []
