@@ -10,43 +10,42 @@ data:
   runtime: 262
   age: 9
   origin: stock
-  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/SKU_Landscape_1-7gaALs1Z.jpg
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11003683-US-Audioboo-cKjVEYjY.png
   sample: https://cdn.tonies.de/o/audio_samples/0aa0c27f0163ef502cd9146d08620fa75b1be68315cfa4f387a21acb/narnia_audio_sample.wav
   web: https://tonies.com/en-gb/book-tonies/the-chronicles-of-narnia/the-lion-the-witch-and-the-wardrobe/
   shop-id: 6594e9db-f45b-4b75-a360-ddfb7f4f5008
   track-desc:
-  - INTRO - The Lion, The Witch, and the Wardrobe
-  - Chapter 1 – Lucy Looks Into A Wardrobe
-  - Chapter 2 – What Lucy Found There – Part 1
-  - Chapter 2 – What Lucy Found There – Part 2
-  - Chapter 3 – Edmund and the Wardrobe
-  - Chapter 4 – Turkish Delight – Part 1
-  - Chapter 4 – Turkish Delight – Part 2
-  - Chapter 5 – Back On This Side Of The Door – Part 1
-  - Chapter 5 – Back On This Side Of The Door – Part 2
-  - Chapter 6 – Into The Forest – Part 1
-  - Chapter 6 – Into The Forest – Part 2
-  - Chapter 7 – A Day With The Beavers – Part 1
-  - Chapter 7 – A Day With The Beavers – Part 2
-  - Chapter 8 – What Happened After Dinner – Part 1
-  - Chapter 8 – What Happened After Dinner – Part 2
-  - Chapter 9 – In the Witch’s House – Part 1
-  - Chapter 9 – In the Witch’s House – Part 2
-  - Chapter 10 – The Spell Begins To Break – Part 1
-  - Chapter 10 – The Spell Begins To Break – Part 2
-  - Chapter 11 – Aslan Is Nearer – Part 1
-  - Chapter 11 – Aslan Is Nearer – Part 2
-  - Chapter 12 – Peter’s First Battle – Part 1
-  - Chapter 12 – Peter’s First Battle – Part 2
-  - Chapter 13 – Deep Magic From The Dawn Of Time – Part 1
-  - Chapter 13 – Deep Magic From The Dawn Of Time – Part 2
-  - Chapter 14 – The Triumph Of The Witch – Part 1
-  - Chapter 14 – The Triumph Of The Witch – Part 2
-  - Chapter 15 – Deeper Magic From Before The Dawn of Time – Part 1
-  - Chapter 15 – Deeper Magic From Before The Dawn of Time – Part 2
-  - Chapter 16 – What Happened About The Statues – Part 1
-  - Chapter 16 – What Happened About The Statues – Part 2
-  - Chapter 17 – The Hunting of the White Stag – Part 1
-  - Chapter 17 – The Hunting of the White Stag – Part 2
-  - ''
+  - The Lion, The Witch, and the Wardrobe - Intro
+  - Chapter 1 - Lucy Looks Into A Wardrobe
+  - Chapter 2 - What Lucy Found There - Part 1
+  - Chapter 2 - What Lucy Found There - Part 2
+  - Chapter 3 - Edmund and the Wardrobe
+  - Chapter 4 - Turkish Delight - Part 1
+  - Chapter 4 - Turkish Delight - Part 2
+  - Chapter 5 - Back On This Side Of The Door - Part 1
+  - Chapter 5 - Back On This Side Of The Door - Part 2
+  - Chapter 6 - Into The Forest - Part 1
+  - Chapter 6 - Into The Forest - Part 2
+  - Chapter 7 - A Day With The Beavers - Part 1
+  - Chapter 7 - A Day With The Beavers - Part 2
+  - Chapter 8 - What Happened After Dinner - Part 1
+  - Chapter 8 - What Happened After Dinner - Part 2
+  - Chapter 9 - In the Witch's House - Part 1
+  - Chapter 9 - In the Witch's House - Part 2
+  - Chapter 10 - The Spell Begins To Break - Part 1
+  - Chapter 10 - The Spell Begins To Break - Part 2
+  - Chapter 11 - Aslan Is Nearer - Part 1
+  - Chapter 11 - Aslan Is Nearer - Part 2
+  - Chapter 12 - Peter's First Battle - Part 1
+  - Chapter 12 - Peter's First Battle - Part 2
+  - Chapter 13 - Deep Magic From The Dawn Of Time - Part 1
+  - Chapter 13 - Deep Magic From The Dawn Of Time - Part 2
+  - Chapter 14 - The Triumph Of The Witch - Part 1
+  - Chapter 14 - The Triumph Of The Witch - Part 2
+  - Chapter 15 - Deeper Magic From Before The Dawn of Time - Part 1
+  - Chapter 15 - Deeper Magic From Before The Dawn of Time
+  - Chapter 16 - What Happened About The Statues - Part 1
+  - Chapter 16 - What Happened About The Statues - Part 2
+  - Chapter 17 - The Hunting of the White Stag - Part 1
+  - Chapter 17 - The Hunting of the White Stag - Part 2
   ids: []
