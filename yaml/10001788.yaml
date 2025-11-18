@@ -3,7 +3,7 @@ lock-data: false
 data:
 - series: Disney
   series-id: null
-  episode: 'Winnie the Pooh: Tigger'
+  episode: Tigger
   release: 1696612850
   language: en-us
   category: Tonie
