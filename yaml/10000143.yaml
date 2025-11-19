@@ -7,13 +7,13 @@ data:
   release: 1567641600
   language: de-de
   category: music
-  runtime: 0
-  age: 99
+  runtime: 60
+  age: 3
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000143-98-1008-b-OHyav2rn.png
-  sample: null
-  web: null
-  shop-id: null
+  sample: https://cdn.tonies.de/o/audio_samples/435e1a93a09ce1392894667534ea49e6503a64d60a6c795a7eb7e353/hoerprobe_10000143_kinderliederzug_bitte_alle_einsteigen.mp3
+  web: https://tonies.com/de-de/tonies/bitte-alle-einsteigen/
+  shop-id: a6e90b48-cfea-4019-941b-5173deffd3a0
   track-desc:
   - Der Schaffner hebt den Stab
   - Auf der schwäbschen Eisenbahne

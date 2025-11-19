@@ -4,13 +4,13 @@ data:
 - series: Roald Dahl
   series-id: roald-dahl
   episode: Georges Marvellous Medicine
-  release: 1762992000
+  release: 1763596800
   language: en-gb
   category: audio-book
   runtime: 96
   age: 6
   origin: stock
-  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/SKU_Landscape_1-T7iu5PBn.jpg
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/SKU_Landscape_7-H-BJBQdZ.png
   sample: https://cdn.tonies.de/o/audio_samples/d0c378f771a9ee33a8aed84937cc9f226b99f1c5445a466fe49601c4/george_s_marvelous_medicine_sample.wav
   web: https://tonies.com/en-gb/book-tonies/roald-dahl/georges-marvellous-medicine/
   shop-id: 64b581ef-78f2-4e6a-8af7-e457aeb553a6

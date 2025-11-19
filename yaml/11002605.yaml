@@ -4,13 +4,13 @@ data:
 - series: David Walliams
   series-id: david-walliams-2
   episode: The World's Worst Children 3
-  release: 1762992000
+  release: 1763683200
   language: en-gb
   category: audio-book
   runtime: 194
   age: 7
   origin: stock
-  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/SKU_Landscape_1-lWw45AwS.jpg
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002605-UK-Audioboo-TZ7YW8vk.png
   sample: https://cdn.tonies.de/o/audio_samples/d261d27c3399e0a416d8f4fe296a73e43b591c39a95a93ba2c705a01/worlds_worst_children_3.wav
   web: https://tonies.com/en-gb/book-tonies/david-walliams-2/the-worlds-worst-children-3/
   shop-id: 131ce759-0c28-4a1b-a823-117025c729ee

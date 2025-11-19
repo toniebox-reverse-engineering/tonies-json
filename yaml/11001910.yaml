@@ -15,23 +15,23 @@ data:
   web: https://tonies.com/en-gb/book-tonies/adam-kay/kays-anatomy/
   shop-id: d27a6e20-866e-48a9-943d-5154cd25ede2
   track-desc:
-  - Opening Titles
-  - Introduction
-  - 'CHAPTER: Skin'
-  - 'CHAPTER: Heart'
-  - 'CHAPTER: Blood'
-  - 'CHAPTER: Lungs'
-  - 'CHAPTER: Brain'
-  - 'CHAPTER: Hair And Nails'
-  - 'CHAPTER: Eyes And Ears And Mouth And Nose'
-  - 'CHAPTER: Bones'
-  - 'CHAPTER: Muscles'
-  - 'CHAPTER: Gut'
-  - 'CHAPTER: Kidneys and Liver'
-  - 'CHAPTER: Reproduction'
-  - 'CHAPTER: Germs'
-  - Conclusion
-  - Credits
+  - 01 Opening Titles
+  - 02 Introduction
+  - 03 Skin
+  - 04 Heart
+  - 05 Blood
+  - 06 Lungs
+  - 07 Brain
+  - 08 Hair and Nails
+  - 09 Eyes and Ears and Mouth and Nose
+  - 10 Bones
+  - 11 Muscles
+  - 12 Gut
+  - 13 Kidneys and Liver
+  - 14 Reproduction
+  - 15 Germs
+  - 16 Conclusion
+  - 17 Credits
   ids:
   - audio-id: 1729152702
     hash: 1ae03a14480c769b3175f3215ef441a11ed61d8f

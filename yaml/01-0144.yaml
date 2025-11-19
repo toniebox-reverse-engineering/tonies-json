@@ -7,14 +7,22 @@ data:
   release: 1543449600
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 60
+  age: 3
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0144-98-0423-b-v7mRq5dh.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/6f866d97eef9841985a4e30edad3d94b398f591cc7dd746531db97c8/hoerprobe_fuchsbande_1_2.mp3
+  web: https://tonies.com/de-de/tonies/fuchsbande-fall-1-und-2/
+  shop-id: 19a880a9-6c7b-49db-bcf7-9e0515481b76
+  track-desc:
+  - 'Fall 1: Der Skandal im Hof 1'
+  - 'Fall 1: Der Skandal im Hof 2'
+  - 'Fall 1: Der Skandal im Hof 3'
+  - 'Fall 1: Der Skandal im Hof 4'
+  - 'Fall 2: Die Spur des Riesen 1'
+  - 'Fall 2: Die Spur des Riesen 2'
+  - 'Fall 2: Die Spur des Riesen 3'
+  - 'Fall 2: Die Spur des Riesen 4'
   ids:
   - audio-id: 1542990413
     hash: ceef707ab0614e6d069cfdc40df3b5e96922fdb7

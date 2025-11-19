@@ -7,14 +7,27 @@ data:
   release: 1557360000
   language: de-de
   category: audio-play-songs
-  runtime: 0
-  age: 99
+  runtime: 36
+  age: 4
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0187-98-0585-b-n3fSy5Wn.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/6768a34222f6493cd46e2822fcace8c95a957c0f3ea1e80310e1320d/hoerprobe_01_0187_raeuber_ratte.mp3
+  web: https://tonies.com/de-de/tonies/raeuber-ratte/
+  shop-id: fb4f13a7-4bf4-45cb-aa2e-00a7818f966d
+  track-desc:
+  - Räuber Ratte (Geschichte) 1
+  - Räuber Ratte (Geschichte) 2
+  - Räuber Ratte (Geschichte) 3
+  - Räuber Ratte (Geschichte) 4
+  - Song (deutsch)
+  - Song (englisch)
+  - Song (Instrumental)
+  - Superwurm (Geschichte) 1
+  - Superwurm (Geschichte) 2
+  - Superwurm (Geschichte) 3
+  - Song (deutsch)
+  - Song (englisch)
+  - Song (Instrumental)
   ids:
   - audio-id: 1555486356
     hash: 93972b8f4e7dd543061a9dd973f9ec503cb24d86

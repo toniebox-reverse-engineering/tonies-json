@@ -7,14 +7,30 @@ data:
   release: 1528329600
   language: de-de
   category: music
-  runtime: 0
-  age: 99
+  runtime: 48
+  age: 6
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0126-98-0348-b-LCEoZX0w.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/40723a3a7777339d956b5580ed8ce844817280c008c24cd5a930117d/hoerprobe_die_gaeng.mp3
+  web: https://tonies.com/de-de/tonies/die-gaeng/
+  shop-id: 6dfd0ed5-d836-4d86-a8ae-44c7dfbf7bf0
+  track-desc:
+  - Eisbär
+  - Bla Bla Bla
+  - Flori, der Frosch
+  - Schlaraffenland
+  - Robbyfee (Mit Käptn Peng)
+  - Skit (Liedausdenken)
+  - Müde
+  - Weihnachtsmann (Mit Johnny Strange)
+  - Kugel Eis
+  - Zebra
+  - Ein Fisch
+  - Skit (Wir Sind Keine)
+  - Pizza, Pommes, Nudeln
+  - Der Falsche Vogel (Mit Sissi Perlinger)
+  - Klecker Wingelt (Mit Bummelkasten)
+  - Skit (Du bist doof)
   ids:
   - audio-id: 1522134717
     hash: d27fd54ad7dbdf2f2468c490839efa09be8abaee

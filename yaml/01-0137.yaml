@@ -7,14 +7,22 @@ data:
   release: 1517443200
   language: de-de
   category: audio-book-songs
-  runtime: 0
-  age: 99
+  runtime: 28
+  age: 4
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0137-b-6_zPmLKY.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/113f4e5703afa4df419acc5a3605f4bf47e5df9f63e298ad801aa8dc/1_113f4e5703afa4df419acc5a3605f4bf47e5df9f63e298ad801aa8dc_hoerprobe_stockmann.mp3
+  web: https://tonies.com/de-de/tonies/stockmann/
+  shop-id: ff1495a6-918f-4170-a74a-80d0eb630fb8
+  track-desc:
+  - Erzählung Stockmann
+  - Erzählung Stockmann
+  - Erzählung Stockmann
+  - 'Song: Stockmann'
+  - 'Englische Version vom Stockmann-Song: Stick Man'
+  - Instrumentalversion
+  - 'Bonus-Song: Der Wind und die Sonne'
+  - 'Bonus-Song: Instrumentalversion'
   ids:
   - audio-id: 1516115039
     hash: 71b071b6f06fde25c2207d779c6d6ee2d6f6d610

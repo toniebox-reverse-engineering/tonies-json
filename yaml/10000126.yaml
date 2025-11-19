@@ -2,7 +2,7 @@ article: '10000126'
 lock-data: false
 data:
 - series: Der glückliche Löwe
-  series-id: null
+  series-id: der-glueckliche-loewe
   episode: Der glückliche Löwe
   release: 0
   language: de-de
@@ -11,10 +11,10 @@ data:
   age: 4
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000126-50001104-b-cmMvC1Ah.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: 
+  sample: https://cdn.tonies.de/o/audio_samples/ff4ee9e1e39b4bd61d403271762b97fbcd6c78c39172c6dae49199de/hoerprobe_der_glueckliche_loewe_ext.mp3
+  web: https://tonies.com/de-de/tonies/der-glueckliche-loewe/der-glueckliche-loewe/
+  shop-id: bfd8cc28-9502-4975-9dd4-d8a9d2776f54
+  track-desc:
   - Der glückliche Löwe
   - Zwei glückliche Löwen
   - Das glückliche Löwenkind

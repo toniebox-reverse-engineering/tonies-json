@@ -7,14 +7,26 @@ data:
   release: 1559779200
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 60
+  age: 5
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0182-98-0556-b-RfBvCHlM.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/d45de7bb62972ff215c9dd8cfed3db44b6a388a42d716d32a51deb9e/hoerprobe_tkkgjunior_vorsicht_bissig.mp3
+  web: https://tonies.com/de-de/tonies/tkkg-folge-2-vorsicht-bissig/
+  shop-id: 4dff32b9-f918-4648-a399-80d746ecbd1a
+  track-desc:
+  - Ein Bad mit Folgen
+  - Das sehen wir uns an
+  - TKKG im Einsatz
+  - Das Ungeheuer von Loch Ness
+  - Zwei unangenehme Zeitgenossen
+  - Gummi-Nessie
+  - Eine Zeitungsente schwimmt nicht
+  - Eine tollkühne Idee
+  - 'Vorsicht: Bissig!'
+  - Dem Geheimnis auf der Spur
+  - Das Ungeheuer und sein Herrchen
+  - Auf der Titelseite
   ids:
   - audio-id: 1542991950
     hash: b808f5868b33e4f431f2d77adb05345f750dc4f3
