@@ -1,0 +1,22 @@
+article: '11002145'
+lock-data: false
+data:
+- series: Disney
+  series-id: disney
+  episode: Zootropolis
+  release: 0
+  language: en-gb
+  category: audio-play
+  runtime: 49
+  age: 6
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002145_Landscape_2-AW92B0Sp.jpg
+  sample: null
+  web: https://tonies.com/en-gb/tonies/disney/zootropolis/
+  shop-id: b4743afb-0d9c-476e-80da-47b75837f523
+  track-desc:
+  - 01. STORY - Zootropolis Storyteller
+  - 02. SONG - Try Everything
+  - 03. STORY - Zootropolis 2 Storyteller
+  - 04. SONG - Zoo
+  ids: []

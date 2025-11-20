@@ -3,14 +3,14 @@ lock-data: false
 data:
 - series: Disney
   series-id: null
-  episode: Tigger
+  episode: 'Winnie the Pooh: Tigger'
   release: 1696612850
   language: en-us
   category: Tonie
   runtime: 0
   age: 99
   origin: stock
-  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tigger-10001788-PLPTB2MainImageTransparent.png?v=1763407326
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tigger-10001788-PLPTB2MainImageTransparent.png?v=1763662552
   sample: null
   web: null
   shop-id: '8057957810327'
