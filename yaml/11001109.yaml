@@ -31,6 +31,11 @@ data:
   - 7th November
   - Joke Of The Day Jingle
   ids:
+  - audio-id: 1763597107
+    hash: 1faa4608bdd44fd9d69601a0b61e9302b2e64573
+    size: 22968208
+    tracks: 15
+    confidence: 1
   - audio-id: 1763510717
     hash: 5eda0e0e579419c07c3c442c529d42d8eb5638a3
     size: 23079704
