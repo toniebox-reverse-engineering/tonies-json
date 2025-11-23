@@ -2,7 +2,7 @@ article: 01-0182
 lock-data: false
 data:
 - series: TKKG Junior
-  series-id: null
+  series-id: tkkg
   episode: 'Vorsicht: bissig!'
   release: 1559779200
   language: de-de

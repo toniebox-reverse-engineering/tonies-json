@@ -2,7 +2,7 @@ article: 01-0137
 lock-data: false
 data:
 - series: Stockmann
-  series-id: null
+  series-id: stockmann
   episode: Stockmann
   release: 1517443200
   language: de-de

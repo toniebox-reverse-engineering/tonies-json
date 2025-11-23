@@ -2,7 +2,7 @@ article: 01-0186
 lock-data: false
 data:
 - series: Zogg
-  series-id: null
+  series-id: zogg
   episode: Zogg/Tommi Tatze
   release: 1557360000
   language: de-de
