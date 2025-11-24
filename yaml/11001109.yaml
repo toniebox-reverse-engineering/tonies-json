@@ -31,6 +31,11 @@ data:
   - 11th November
   - Joke Of The Day Jingle
   ids:
+  - audio-id: 1763942707
+    hash: 8acf59afb44221fa6dc725b1f00842f377d45ddb
+    size: 22721022
+    tracks: 15
+    confidence: 1
   - audio-id: 1763856307
     hash: dfd9d41c66a5426ce8b5e4c7228462b8b0cef6e0
     size: 22453149
