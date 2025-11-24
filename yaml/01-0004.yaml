@@ -2,19 +2,31 @@ article: 01-0004
 lock-data: false
 data:
 - series: Die Olchi-Detektive
-  series-id: null
+  series-id: die-olchi-detektive
   episode: Das Erbe der Piraten
   release: 1474934400
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 42
+  age: 6
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0004-98-0056-b-_Yr9cXo0.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/0e8022210720cf4c5b65b8674b5de30ae05166ccc085d92b3e439813/hoerprobe_olchi_detektive_1_128_kbps.mp3
+  web: https://tonies.com/de-de/tonies/die-olchi-detektive/das-erbe-der-piraten/
+  shop-id: 80a1e231-2f46-41d9-98a1-1e05fe8ab928
+  track-desc:
+  - Intro
+  - Smelly Fishbone! ...
+  - Hat ein ganz schönes ...
+  - Die Golden Hinde
+  - '"Cheesy Flyshit!"'
+  - Fritzi Federspiel hatte sich
+  - '"Nirgendwo ein Segelschiff ..."'
+  - '"Hi, Fritzi!"'
+  - Ausgerüstet mit zwei Enterhaken
+  - '"Mister Paddock!"'
+  - Als die Stinkerwolken
+  - Outro
   ids:
   - audio-id: 1490952704
     hash: 9fa0d659a0fee55230809ef907d7605e3b35ca2a

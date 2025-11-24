@@ -7,14 +7,25 @@ data:
   release: 0
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 64
+  age: 8
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0102-50000676-b-nKX6mBj8.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/81a854db58f635ef69381a01ef7026c048ced67a37da1c0b76795c6b/hoerprobe_die_drei_ausrufezeichen_mission_pferdeshow_ext.mp3
+  web: https://tonies.com/de-de/tonies/mission-pferdeshow/
+  shop-id: 5ac5238b-5af9-4e90-b0f1-0cd7b03872fb
+  track-desc:
+  - Ein unwiderstehliches Angebot
+  - Der falsche Schwur
+  - Die Höllenmaschine
+  - Eine Probe muss her!
+  - Dieb auf frischer Tat
+  - Aus und vorbei?
+  - Aladin außer Rand und Band
+  - Schock in der Manege
+  - Eine schreckliche Wendung
+  - Kommissar Peters greift zu
+  - Die Wahrheit sieht anders aus
   ids:
   - audio-id: 1584954252
     hash: 126afc63fbb6b33200d453639a7be89eca1195be

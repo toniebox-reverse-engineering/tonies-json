@@ -7,14 +7,50 @@ data:
   release: 1613001600
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 128
+  age: 5
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000695-50002222-b-PqSVAwrE.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/566e66ebcef14a3bc8fd0d4f6ba7942e338d7697da47ca729f4cd6a7/hoerprobe_schluss_mit_der_raeuberei.mp3
+  web: https://tonies.com/de-de/tonies/schluss-mit-der-raeuberei/
+  shop-id: e9b42711-941e-4956-a53d-c404f0f2fea3
+  track-desc:
+  - 'Kapitel 01: Schluss mit der Räuberei'
+  - 'Kapitel 02: Schluss mit der Räuberei'
+  - 'Kapitel 03: Schluss mit der Räuberei'
+  - 'Kapitel 04: Schluss mit der Räuberei'
+  - 'Kapitel 05: Schluss mit der Räuberei'
+  - 'Kapitel 06: Schluss mit der Räuberei'
+  - 'Kapitel 07: Schluss mit der Räuberei'
+  - 'Kapitel 08: Schluss mit der Räuberei'
+  - 'Kapitel 09: Schluss mit der Räuberei'
+  - 'Kapitel 10: Schluss mit der Räuberei'
+  - 'Kapitel 11: Schluss mit der Räuberei'
+  - 'Kapitel 12: Schluss mit der Räuberei'
+  - 'Kapitel 13: Schluss mit der Räuberei'
+  - 'Kapitel 14: Schluss mit der Räuberei'
+  - 'Kapitel 15: Schluss mit der Räuberei'
+  - 'Kapitel 16: Schluss mit der Räuberei'
+  - 'Kapitel 17: Schluss mit der Räuberei'
+  - 'Kapitel 18: Schluss mit der Räuberei'
+  - 'Kapitel 19: Schluss mit der Räuberei'
+  - 'Kapitel 20: Schluss mit der Räuberei'
+  - 'Kapitel 21: Schluss mit der Räuberei'
+  - 'Kapitel 22: Schluss mit der Räuberei'
+  - 'Kapitel 23: Schluss mit der Räuberei'
+  - 'Kapitel 24: Schluss mit der Räuberei'
+  - 'Kapitel 25: Schluss mit der Räuberei'
+  - 'Kapitel 26: Schluss mit der Räuberei'
+  - 'Kapitel 27: Schluss mit der Räuberei'
+  - 'Kapitel 28: Schluss mit der Räuberei'
+  - 'Kapitel 29: Schluss mit der Räuberei'
+  - 'Kapitel 30: Schluss mit der Räuberei'
+  - 'Kapitel 31: Schluss mit der Räuberei'
+  - 'Kapitel 32: Schluss mit der Räuberei'
+  - 'Kapitel 33: Schluss mit der Räuberei'
+  - 'Kapitel 34: Schluss mit der Räuberei'
+  - 'Kapitel 35: Schluss mit der Räuberei'
+  - 'Kapitel 36: Schluss mit der Räuberei'
   ids:
   - audio-id: 1611163363
     hash: e3b13f8f104db8a617d6141ec9b8d0728fb91de4

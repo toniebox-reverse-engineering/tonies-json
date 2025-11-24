@@ -8,13 +8,17 @@ data:
   language: de-de
   category: audio-play
   runtime: 0
-  age: 99
+  age: 5
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000694-50002220-b--xln-T1VO.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/80a321995d2a64e6f20bbfc7b5c4584128de54949e7e4eb389742b9b/hoerprobe_neues_vom_raeuber_hotzenplotz_neuauflage.mp3
+  web: https://tonies.com/de-de/tonies/neues-vom-raeuber-hotzenplotz-2021/
+  shop-id: 1c1b9c7d-164d-400b-a8c4-3868749262a4
+  track-desc:
+  - Bratwurst mit Sauerkraut
+  - Die Flaschenpost
+  - Die Kristallkugel
+  - Wastis großer Einsatz
   ids:
   - audio-id: 1611160097
     hash: d2e9b4a4d3b12f7911060e5bc452a4206b82c4fa

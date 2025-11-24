@@ -7,14 +7,21 @@ data:
   release: 0
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 65
+  age: 5
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000132-50000868-b-OPUBBioJ.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/b610af468d2ecb64f7debf0581343bfd951af4a77dfe5c024b8d9007/hoerprobe_fuenf_freunde_und_das_versunkene_schiff_ext.mp3
+  web: https://tonies.com/de-de/tonies/fuenf-freunde-und-das-versunkene-schiff/
+  shop-id: 7dfdbb41-ed55-40f7-bd3e-0154e00a24c5
+  track-desc:
+  - Auf Bernsteinsuche
+  - Das Schiff auf dem Meeresgrund
+  - Streit unter Freunden
+  - Wo sind Julian und Anne?
+  - Der ungelöste Fall von Bogna Bay
+  - Ein Rauchsignal am Horizont ...
+  - Kein Entkommen für die Gauner
   ids:
   - audio-id: 1584722674
     hash: d4ab8bd540e1cce86986e338b7f966d83bf18b78

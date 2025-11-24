@@ -7,14 +7,28 @@ data:
   release: 1557360000
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 69
+  age: 3
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0169-98-0513-b-yEMF7LOQ.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/cad35d4af2ec059394fbd449216cc88168ae7a59ab4df0656164e62d/hoerprobe_01_0169_hui_buh_schatzjagd.mp3
+  web: https://tonies.com/de-de/tonies/schatzjagd-im-museum/
+  shop-id: 9db79ce0-3894-422d-ab0c-6409ab0e55a4
+  track-desc:
+  - Schatzjagd im Museum - Kapitel 1
+  - .Schatzjagd im Museum - Kapitel 2
+  - .Schatzjagd im Museum - Kapitel 3
+  - .Schatzjagd im Museum - Kapitel 4
+  - .Schatzjagd im Museum - Kapitel 5
+  - .Schatzjagd im Museum - Kapitel 6
+  - .Schatzjagd im Museum - Kapitel 7
+  - Magische Meisterschaft - Kapitel 1
+  - Magische Meisterschaft - Kapitel 2
+  - Magische Meisterschaft - Kapitel 3
+  - Magische Meisterschaft - Kapitel 4
+  - Magische Meisterschaft - Kapitel 5
+  - Magische Meisterschaft - Kapitel 6
+  - Magische Meisterschaft - Kapitel 7
   ids:
   - audio-id: 1555489350
     hash: 46046c5f69a3ab79312d9d491db7217205d0e2b8

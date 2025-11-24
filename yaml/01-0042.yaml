@@ -7,14 +7,24 @@ data:
   release: 1498521600
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 66
+  age: 6
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0042-b-y1dcNyjv.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/083cd822d7247e5515cfa00074edb4f5bc4edaf024fb801b177d1405/hoerprobe_fragezeichen_radio_rocky_beach.mp3
+  web: https://tonies.com/de-de/tonies/radio-rocky-beach/
+  shop-id: 7ef118ce-e6f2-43f7-83ba-1c544393ce56
+  track-desc:
+  - Hektik bei Titus
+  - Spurensuche
+  - Polizeiarbeit
+  - Fred Fireman
+  - Hinter Gittern
+  - Radio Rocky Beach
+  - Wunschhits
+  - Auf der Lauer
+  - Auf Sendung
+  - Heimliche Helden
   ids:
   - audio-id: 1494603501
     hash: e1868443a3f33059bb099f3cbb2f7af53598e678

@@ -7,14 +7,22 @@ data:
   release: 1583366400
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 62
+  age: 5
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000134-50000867-b-ws0eZoLv.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/091e0f6d5dac73f2fdd662f416a33631b3ad718d009672f8d1993451/hoerprobe_fuenf_freunde_und_die_doppelte_erfindung_ext.mp3
+  web: https://tonies.com/de-de/tonies/fuenf-freunde-und-die-doppelte-erfindung/
+  shop-id: 11c1c77e-cb25-4b7d-bfe2-5a3e7c8ad38b
+  track-desc:
+  - Fünf Freunde fahren nach Newport
+  - Onkel Quentin ist verschwunden
+  - Klopfzeichen im Patentamt
+  - Eine rätselhafte Entführung
+  - Ermittlungen nach allen Seiten
+  - Julians cleverer Trick
+  - Der Gauner schlägt noch einmal zu
+  - Der Schwindel fliegt auf
   ids:
   - audio-id: 1580986736
     hash: 0359ce6d84668fa8bcb1918dc76bbf6e863c19f8
