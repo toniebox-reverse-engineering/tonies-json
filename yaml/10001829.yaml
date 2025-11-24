@@ -2,7 +2,7 @@ article: '10001829'
 lock-data: false
 data:
 - series: Favourite Classics
-  series-id: favourite-classics
+  series-id: mes-classiques-preferes
   episode: A Christmas Carol and other classic stories (2024 edition)
   release: 1728864000
   language: en-gb
@@ -10,14 +10,14 @@ data:
   runtime: 60
   age: 3
   origin: stock
-  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/10001829_1_landscape-kvFeDhEm.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/50005697-Tonie_Shado-EB74bvqO.png
   sample: https://cdn.tonies.de/o/audio_samples/0140ac05181414db972b746fa9ec96cfe93a880bb9dc0086c4fde8a2/a_christmas_carol_sample.wav
   web: https://tonies.com/en-gb/tonies/favourite-classics/a-christmas-carol-and-other-stories/
   shop-id: c299efcb-ad6a-415e-a00d-66d8921c2aed
   track-desc:
-  - 'STORY - A Christmas Carol - Part 1: Ebenezer Scrooge'
-  - 'STORY - A Christmas Carol - Part 2: The Ghost of Christmas Past'
-  - 'STORY - A Christmas Carol - Part 3: The Ghost of Christmas Future'
+  - 'STORY: A Christmas Carol - Part 1: Ebenezer Scrooge'
+  - 'STORY: A Christmas Carol - Part 2: The Ghost of Christmas Past'
+  - 'STORY: A Christmas Carol - Part 3: The Ghost of Christmas Future'
   - STORY - The Nutcracker
   - STORY - The Elves and the Shoemaker
   ids:

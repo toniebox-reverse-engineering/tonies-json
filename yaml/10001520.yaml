@@ -2,13 +2,13 @@ article: '10001520'
 lock-data: false
 data:
 - series: Favourite Children's Songs
-  series-id: favourite-children-s-songs
+  series-id: lieblings-kinderlieder
   episode: Travelling Songs (relaunch)
   release: 1677196800
   language: en-gb
   category: music
   runtime: 44
-  age: 3
+  age: 1
   origin: stock
   image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10001520-50004936-b-v30Oq6ug.png
   sample: https://cdn.tonies.de/o/audio_samples/2cccaf5e73cd7ea98331b2da09b2ada02e5225bb18a503f9477853eb/10001520_travelling_songs_sample.wav
