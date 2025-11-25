@@ -1,4 +1,4 @@
-article: 01-0069
+article: 01-0108
 lock-data: false
 data:
 - series: ''
@@ -7,12 +7,12 @@ data:
   release: ''
   language: ''
   category: ''
-  runtime: ''
-  age: ''
+  runtime: tonies-shopapi-de-de,
+  age: tonies-shopapi-de-de,
   origin: ''
   image: ''
-  sample: ''
-  web: ''
-  shop-id: ''
+  sample: tonies-shopapi-de-de,
+  web: tonies-shopapi-de-de,
+  shop-id: tonies-shopapi-de-de,
   track-desc: ''
   ids: []
