@@ -1,0 +1,19 @@
+article: '2000011589'
+lock-data: false
+data:
+- series: Lalalinos
+  series-id: lalalinos
+  episode: The Magic of Snow
+  release: 1764028800
+  language: en-us
+  category: audio-play-songs
+  runtime: 2973
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_39fdf5fa94cbbdb4a6f4303786d550ccc35bd092ba0a9048c362cfb8/3_3KCzWfgy3GTzhMzP/lalalinos_the_magic_of_snow_530x530.jpg
+  sample: null
+  web: https://tonies.com/en-gb/audio-content/lalalinos/the-magic-of-snow/
+  shop-id: 8f3b4203-620d-43da-9451-25d6a9064c8d
+  track-desc:
+  - The Magic Of Snow
+  ids: []

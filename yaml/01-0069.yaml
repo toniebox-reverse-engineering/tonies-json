@@ -2,7 +2,7 @@ article: 01-0069
 lock-data: false
 data:
 - series: Der Grüffelo
-  series-id: null
+  series-id: der-grueffelo
   episode: Das Grüffelokind
   release: 1508198400
   language: de-de

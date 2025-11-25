@@ -11,7 +11,7 @@ data:
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_3a20a0f73e5881cc2fce64bb80846ca8533995cb5476f3ae0f332d68/3_BxY129Hxnlyg-c7~/lalalinos_die_magie_des_schnees_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/87c69dbc6c9af4e5968316e3d678f0f60a3724a7de39a06ac33e7b35/audio_sample_die_magie_des_schnees.wav
   web: https://tonies.com/de-de/audio-content/lalalinos/die-magie-des-schnees/
   shop-id: cf0fb512-e28a-4f97-8ca5-8cfc49943d54
   track-desc:

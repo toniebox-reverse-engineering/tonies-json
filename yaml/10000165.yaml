@@ -7,14 +7,49 @@ data:
   release: 1570665600
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 58
+  age: 5
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000165-50000551-b-SBfVn2m4.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/069e3a6f4c7168e04330ad2e9c82fbf274facdfc12b620a1e5b4cdce/hoerprobe_tkkg_giftige_schokolade_ext.mp3
+  web: https://tonies.com/de-de/tonies/giftige-schokolade/
+  shop-id: 271a3a20-7416-48c5-90e4-1f9140a002b9
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  - Kapitel 17
+  - Kapitel 18
+  - Kapitel 19
+  - Kapitel 20
+  - Kapitel 21
+  - Kapitel 22
+  - Kapitel 23
+  - Kapitel 24
+  - Kapitel 25
+  - Kapitel 26
+  - Kapitel 27
+  - Kapitel 28
+  - Kapitel 29
+  - Kapitel 30
+  - Kapitel 31
+  - Kapitel 32
+  - Kapitel 33
+  - Kapitel 34
+  - Kapitel 35
   ids:
   - audio-id: 1567785245
     hash: c4a445f46df2e7b7646adae01d9659aaa26ad822

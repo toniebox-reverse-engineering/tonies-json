@@ -1,0 +1,21 @@
+article: '11002239'
+lock-data: false
+data:
+- series: Zootopie
+  series-id: disney-zootopie
+  episode: Zootopie (1 et 2)
+  release: 1764201600
+  language: fr-fr
+  category: audio-play
+  runtime: 48
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51005921-Tonie_Shado-2gYh238L.png
+  sample: https://cdn.tonies.de/o/audio_samples/aa9c61bcbcd9adacd3f378cc81b75b8ab628f6fbe9608dec0acf7e0b/00_zootopie_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/disney-zootopie/zootopie-1-et-2/
+  shop-id: e88ef8b0-3d2a-4fc1-a79c-c27d0a4d6563
+  track-desc:
+  - 'Zootopie : L''histoire du film'
+  - Try Everything (chanson)
+  - Message d'attente
+  ids: []
