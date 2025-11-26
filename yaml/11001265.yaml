@@ -1,0 +1,32 @@
+article: '11001265'
+lock-data: false
+data:
+- series: Les enquêtes d'Agatha Ligator
+  series-id: les-enquetes-d-agatha-ligator
+  episode: Mais Qui Retourne Toutes Les Tortues ?
+  release: 1764201600
+  language: fr-fr
+  category: audio-play
+  runtime: 73
+  age: 6
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51006377-Tonie_Shado-fp_y2xzD.png
+  sample: https://cdn.tonies.de/o/audio_samples/a343dc3e0e035e080980dab3f4f1f53bea0b172bfa56283cfda8a79b/11001265_agatha_ligator_extrait_mp3.mp3
+  web: https://tonies.com/fr-fr/tonies/les-enquetes-d-agatha-ligator/mais-qui-retourne-toutes-les-tortues/
+  shop-id: 9edc2f80-8730-4b01-84da-ec1f8002e8e0
+  track-desc:
+  - Chapitre 1 - Un lézard dans la nuit
+  - Chapitre 2 - Le mystère des tortues
+  - Chapitre 3 - Une visite à l'ATCHOUM
+  - Chapitre 4 - Stricta Exoskel entre en scène
+  - Chapitre 5 - Un lièvre et une tortue
+  - Chapitre 6 - Disparition au parc à jeux
+  - Chapitre 7 - Chanson douce et chute à pic
+  - Chapitre 8 - Une enquête pleine de rebondissements
+  - Chapitre 9 - Escale au RUCHO
+  - Chapitre 10 - Au cœur de la cascade
+  - Chapitre 11 - À l'orphelinat Sainte-Marie Leufdur
+  - Chapitre 12 - Le signe des sept
+  - Chapitre 13 - Épilogue et longues oreilles
+  - 'Bonus : La chanson de Stricta'
+  ids: []

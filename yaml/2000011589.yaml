@@ -11,7 +11,7 @@ data:
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_39fdf5fa94cbbdb4a6f4303786d550ccc35bd092ba0a9048c362cfb8/3_3KCzWfgy3GTzhMzP/lalalinos_the_magic_of_snow_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/756d948cc2f5056654b339608823373c660e27e681d97530821c8abd/audio_sample_the_way_of_snow.mp3
   web: https://tonies.com/en-gb/audio-content/lalalinos/the-magic-of-snow/
   shop-id: 8f3b4203-620d-43da-9451-25d6a9064c8d
   track-desc:
