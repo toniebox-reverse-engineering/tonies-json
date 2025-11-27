@@ -1,0 +1,22 @@
+article: '11000954'
+lock-data: false
+data:
+- series: Dragons
+  series-id: dragons
+  episode: Cavaliers De Beurk (Krokmou)
+  release: 1764201600
+  language: fr-fr
+  category: audio-play
+  runtime: 63
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/50006167-Tonie_Shado-XExaNgjG.png
+  sample: https://cdn.tonies.de/o/audio_samples/f33bca2305ad3496bac44516dbeba01267bf873ac41a8a25d0ade816/11000954_dragons_krokmou_extrait_mp3.mp3
+  web: https://tonies.com/fr-fr/tonies/dragons/cavaliers-de-beurk/
+  shop-id: e8fd0230-ff58-4c91-8ad2-3a6617ed713c
+  track-desc:
+  - L'Académie de dressage de dragons - Partie 1
+  - L'Académie de dressage de dragons - Partie 2
+  - Duo d'enfer
+  - Comment choisir votre dragon
+  ids: []

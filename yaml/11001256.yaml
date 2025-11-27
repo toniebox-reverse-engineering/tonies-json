@@ -1,0 +1,19 @@
+article: '11001256'
+lock-data: false
+data:
+- series: Alix Pix
+  series-id: alix-pix
+  episode: Excalibur Et La Quête Des Joyaux Magiques
+  release: 1764201600
+  language: fr-fr
+  category: audio-play
+  runtime: 60
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51006349-Tonie_Shado-y6hsPa6l.png
+  sample: null
+  web: https://tonies.com/fr-fr/tonies/alix-pix/excalibur-et-la-quete-des-joyaux-magiques/
+  shop-id: c4f77f4a-05f9-4920-a0c9-df617d3af6f7
+  track-desc:
+  - Alix Pix 3
+  ids: []
