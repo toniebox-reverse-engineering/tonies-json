@@ -11,9 +11,16 @@ data:
   age: 4
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51006349-Tonie_Shado-y6hsPa6l.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/e79dda2a2c9182557773edbe62b6954f492e5ae3d2c9e108b2a740b9/11001256_alix_pix_3_extrait_mp3.mp3
   web: https://tonies.com/fr-fr/tonies/alix-pix/excalibur-et-la-quete-des-joyaux-magiques/
   shop-id: c4f77f4a-05f9-4920-a0c9-df617d3af6f7
   track-desc:
-  - Alix Pix 3
+  - Introduction
+  - Chapitre 1 - Sur la route de Camelot
+  - Chapitre 2 - Le saphir de l’océan
+  - Chapitre 3 - Le rubis du désert
+  - Chapitre 4 - L’émeraude du labyrinthe
+  - Chapitre 5 - La légende d’Excalibur
+  - Chapitre 6 - De retour dans la forêt
+  - Chapitre 7 - La prophétie se réalise
   ids: []
