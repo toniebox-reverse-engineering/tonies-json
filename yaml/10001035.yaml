@@ -2,7 +2,7 @@ article: '10001035'
 lock-data: false
 data:
 - series: Favourite Tales
-  series-id: favourite-tales
+  series-id: lieblings-marchen
   episode: Little Red Riding Hood (relaunch)
   release: 1650585600
   language: en-gb
@@ -24,4 +24,4 @@ data:
     hash: 0e247d814a4a9497bdfb4093d8dd9a927af10472
     size: 52078707
     tracks: 4
-    confidence: 0  
+    confidence: 0
