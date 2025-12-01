@@ -611,7 +611,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001019,Mes Comptines Préférées,lieblings-kinderlieder,À Mimer,fr-fr,music,stock,24d9c453-5a60-4c36-8942-30e9ace867ac,https://tonies.com/fr-fr/tonies/mes-comptines-preferees/mimer/,1,1,1,0
 10001021,Mes Comptines Préférées,lieblings-kinderlieder,Pour Faire la Fête,fr-fr,music,stock,c7975780-dae2-4496-ae1c-beaea567a53b,https://tonies.com/fr-fr/tonies/mes-comptines-preferees/pour-faire-la-fete/,2,1,1,0
 10001022,The Little Prince,the-little-prince,The Little Prince (relaunch),en-gb,audio-book,stock,d04edcb6-913b-4c2c-8439-5edb7fa039a1,https://tonies.com/en-gb/tonies/the-little-prince/the-little-prince-relaunch/,1,1,1,0
-10001035,Favourite Tales,favourite-tales,Little Red Riding Hood (relaunch),en-gb,audio-book,stock,b2592527-aea2-4ef8-b826-e630ef946737,https://tonies.com/en-gb/tonies/favourite-tales/little-red-riding-hood-relaunch/,1,1,0,0
+10001035,Favourite Tales,lieblings-marchen,Little Red Riding Hood (relaunch),en-gb,audio-book,stock,b2592527-aea2-4ef8-b826-e630ef946737,https://tonies.com/en-gb/tonies/favourite-tales/little-red-riding-hood-relaunch/,1,1,0,0
 10001036,Favourite Classics,favourite-classics,Pinocchio (relaunch),en-gb,audio-book,stock,ef215f9f-a1e7-4cb2-a463-e27069d0a93f,https://tonies.com/en-gb/tonies/favourite-classics/pinocchio-relaunch/,1,1,1,0
 10001037,Favourite Children's Songs,lieblings-kinderlieder,Playtime & Action (relaunch),en-gb,music,stock,de7dd07e-35cf-433f-9b3c-43d72fa3bae6,https://tonies.com/en-gb/tonies/favourite-children-s-songs/playtime-action/,1,1,1,0
 10001038,Favourite Children's Songs,favourite-children-s-songs,Bedtime & Lullabies (relaunch),en-gb,music,stock,ce876e76-0265-4222-acae-6cbd789dc2c9,https://tonies.com/en-gb/tonies/favourite-children-s-songs/favourite-childrens-songs-bedtime-lullabies/,1,1,1,0
@@ -1319,7 +1319,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11001242,Disney,,Moana 2: Simea,en-us,Tonie,stock,8757194457239,,1,3,3,0
 11001243,Animal World,animal-world,Wild Survivors,en-gb,audio-play-educational,stock,749f2518-b8fe-43ed-9e93-18d5892a9fd2,https://tonies.com/en-gb/clever-tonies/animal-world/wild-survivors/,1,0,0,0
 11001256,Alix Pix,alix-pix-1,Excalibur Et La Quête Des Joyaux Magiques,fr-fr,audio-play,stock,c4f77f4a-05f9-4920-a0c9-df617d3af6f7,https://tonies.com/fr-fr/tonies/alix-pix/excalibur-et-la-quete-des-joyaux-magiques/,1,0,0,0
-11001265,Les enquêtes d'Agatha Ligator,les-enquetes-dagatha-ligator,Mais Qui Retourne Toutes Les Tortues ?,fr-fr,audio-play,stock,9edc2f80-8730-4b01-84da-ec1f8002e8e0,https://tonies.com/fr-fr/tonies/les-enquetes-d-agatha-ligator/mais-qui-retourne-toutes-les-tortues/,1,0,0,0
+11001265,Les Enquêtes D'Agatha Ligator,les-enquetes-dagatha-ligator,Mais Qui Retourne Toutes Les Tortues ?,fr-fr,audio-play,stock,9edc2f80-8730-4b01-84da-ec1f8002e8e0,https://tonies.com/fr-fr/tonies/les-enquetes-d-agatha-ligator/mais-qui-retourne-toutes-les-tortues/,1,0,0,0
 11001266,Gabby's Dollhouse,,MerCat,en-us,Tonie,stock,9185415233687,,1,0,0,0
 11001267,Gabby's Dollhouse,,Cakey Cat,en-us,Tonie,stock,9000607350935,,1,1,1,0
 11001268,Gabby's Dollhouse,,Kitty Fairy,en-us,Tonie,stock,9128606302359,,1,1,1,0
@@ -1525,9 +1525,9 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11003232,Ultimate Football Heroes,ultimate-football-heroes,Lionel Messi,en-gb,audio-book,stock,e49b78b9-93a1-486b-97d7-f45c5e4affe2,https://tonies.com/en-gb/book-tonies/ultimate-football-heroes/lionel-messi/,1,0,0,0
 11003233,Horrid Henry,horrid-henry,Horridly Spooky Stories,en-gb,audio-book,stock,34e1fec7-7059-453b-a97b-bff9c304daf4,https://tonies.com/en-gb/book-tonies/horrid-henry/horrid-henry-horridly-spooky-stories/,1,1,1,0
 11003255,Wieso? Weshalb? Warum? Profiwissen - Set,wieso-weshalb-warum-profiwissen-set,Wieso? Weshalb? Warum? Profiwissen - Set,de-de,audio-play,stock,51735a81-0882-4678-ab73-e08a3562720d,https://tonies.com/de-de/clever-tonies/wieso-weshalb-warum-profiwissen-set/wieso-weshalb-warum-profiwissen-set/,1,4,0,0
-11003420,En voyage,en-voyage,Coffret Mes Premiers Tonies - En Voyage,fr-fr,audio-play-songs,stock,f8b12dbc-8e46-44f3-a6cf-ae78f1c73866,https://tonies.com/fr-fr/mes-premiers-tonies/en-voyage/coffret-mes-premiers-tonies-en-voyage/,1,0,0,0
-11003431,Dans la jungle,dans-la-jungle,Coffret Mes Premiers Tonies - Dans La Jungle,fr-fr,audio-play-songs,stock,59681b47-1cb7-472f-bebb-149debd83e92,https://tonies.com/fr-fr/mes-premiers-tonies/dans-la-jungle/coffret-mes-premiers-tonies-dans-la-jungle/,1,0,0,0
-11003432,À la ferme,a-la-ferme,Coffret Mes Premiers Tonies - À La Ferme,fr-fr,audio-play-songs,stock,fa48107c-7da6-4911-af7d-d89323fc680f,https://tonies.com/fr-fr/mes-premiers-tonies/a-la-ferme/coffret-mes-premiers-tonies-a-la-ferme/,1,0,0,0
+11003420,En voyage,travel-set,Coffret Mes Premiers Tonies - En Voyage,fr-fr,audio-play-songs,stock,f8b12dbc-8e46-44f3-a6cf-ae78f1c73866,https://tonies.com/fr-fr/mes-premiers-tonies/en-voyage/coffret-mes-premiers-tonies-en-voyage/,1,0,0,0
+11003431,Dans la jungle,dschungel-set,Coffret Mes Premiers Tonies - Dans La Jungle,fr-fr,audio-play-songs,stock,59681b47-1cb7-472f-bebb-149debd83e92,https://tonies.com/fr-fr/mes-premiers-tonies/dans-la-jungle/coffret-mes-premiers-tonies-dans-la-jungle/,1,0,0,0
+11003432,À la ferme,bauernhof-set,Coffret Mes Premiers Tonies - À La Ferme,fr-fr,audio-play-songs,stock,fa48107c-7da6-4911-af7d-d89323fc680f,https://tonies.com/fr-fr/mes-premiers-tonies/a-la-ferme/coffret-mes-premiers-tonies-a-la-ferme/,1,0,0,0
 11003528,Minecraft,minecraft,Minecraft: The Mountain,en-gb,audio-book,stock,383fe0cd-6ac3-47d7-a7a0-707db8018dc5,https://tonies.com/en-gb/book-tonies/minecraft/minecraft-the-mountain/,1,0,0,0
 11003529,Minecraft,minecraft,Minecraft: The Village,en-gb,audio-book,stock,6fd84d01-9720-49c4-b38b-a8b0d70f9287,https://tonies.com/en-gb/book-tonies/minecraft/minecraft-the-village/,1,0,0,0
 11003530,Minecraft,minecraft,Minecraft: The Island,en-gb,audio-book,stock,eb16326c-6fca-49b1-92a9-059e6c8779be,https://tonies.com/en-gb/book-tonies/minecraft/minecraft-the-island/,1,0,0,0
