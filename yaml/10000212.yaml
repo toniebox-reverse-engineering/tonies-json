@@ -3,8 +3,8 @@ lock-data: false
 data:
 - series: Disney
   series-id: disney-disney
-  episode: Up
-  release: 1762992000
+  episode: Disney Up
+  release: 1764201600
   language: en-gb
   category: audio-book-songs
   runtime: 44
