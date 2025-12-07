@@ -2,7 +2,7 @@ article: 01-0102
 lock-data: false
 data:
 - series: Die drei !!!
-  series-id: null
+  series-id: die-drei-ausrufezeichen
   episode: Mission Pferdeshow
   release: 0
   language: de-de

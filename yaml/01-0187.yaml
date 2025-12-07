@@ -2,7 +2,7 @@ article: 01-0187
 lock-data: false
 data:
 - series: Räuber Ratte
-  series-id: null
+  series-id: raeuber-ratte
   episode: Räuber Ratte/Superwurm
   release: 1557360000
   language: de-de

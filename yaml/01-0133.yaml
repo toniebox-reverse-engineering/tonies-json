@@ -2,7 +2,7 @@ article: 01-0133
 lock-data: false
 data:
 - series: Bummelkasten
-  series-id: null
+  series-id: bummelkasten
   episode: Irgendwas Bestimmtes
   release: 1511222400
   language: de-de

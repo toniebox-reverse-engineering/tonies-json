@@ -2,7 +2,7 @@ article: '10000156'
 lock-data: false
 data:
 - series: TKKG Junior
-  series-id: null
+  series-id: tkkg-junior
   episode: Der rote Retter
   release: 1623283200
   language: de-de
