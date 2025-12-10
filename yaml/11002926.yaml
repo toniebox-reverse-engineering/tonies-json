@@ -1,0 +1,24 @@
+article: '11002926'
+lock-data: false
+data:
+- series: Oben
+  series-id: disney-oben
+  episode: Oben
+  release: 1767744000
+  language: de-de
+  category: audio-play
+  runtime: 60
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11002926_1_a-4dB28Wro.png
+  sample: https://cdn.tonies.de/o/audio_samples/e623467dbb25db8029b246fea469ae4b71d094b534c28e775daf662a/11002926_hoerprobe_disney_oben_1.mp3
+  web: https://tonies.com/de-de/tonies/disney-oben/oben/
+  shop-id: 123a2b3e-a23c-4627-a8d8-2559d8868b6f
+  track-desc:
+  - 'Kapitel 01: Oben'
+  - 'Kapitel 02: Oben'
+  - 'Kapitel 03: Oben'
+  - 'Kapitel 04: Oben'
+  - 'Kapitel 05: Oben'
+  - 'Kapitel 06: Oben'
+  ids: []
