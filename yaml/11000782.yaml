@@ -15,6 +15,7 @@ data:
   web: https://tonies.com/en-gb/clever-tonies/today-with-tonies/today-with-tonies/
   shop-id: a742a774-63b0-450f-8303-6552b3c99bc9
   track-desc:
+  - Thursday 11th December
   - Wednesday 10th December
   - Tuesday 9th December
   - Monday 8th December
@@ -28,7 +29,6 @@ data:
   - Sunday 30th November
   - Saturday 29th November
   - Friday 28th November
-  - Thursday 27th November
   - Today With Tonies Jingle
   ids:
   - audio-id: 1765325103
