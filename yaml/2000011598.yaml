@@ -1,0 +1,28 @@
+article: '2000011598'
+lock-data: false
+data:
+- series: Weihnachtsmann & Co. KG
+  series-id: weihnachtsmann-co-kg
+  episode: Das Super-Kaninchen (Folge 8)
+  release: 1765497600
+  language: de-de
+  category: audio-play
+  runtime: 1789
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_d3ba9d8907de55e75a8bb7e7c63ab43b74b54cc309fffdc08f1613c0/3_SvShc9pBfNmqv-~2/the_secret_world_of_santa_claus_das_super_kaninc_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/32816fbf0a7684cf1cd2255b4d3dc36cdb6f7c4d71e41b3bd1cffc1b/ch7812418848_sample.wav
+  web: https://tonies.com/de-de/audio-content/weihnachtsmann-co-kg/das-super-kaninchen-folge-8/
+  shop-id: f117bda1-f616-4b71-9e13-8667b9bf9225
+  track-desc:
+  - Intro
+  - Kapitel 01 - Das Super-Kaninchen (Folge 008)
+  - Kapitel 02 - Das Super-Kaninchen (Folge 008)
+  - Kapitel 03 - Das Super-Kaninchen (Folge 008)
+  - Kapitel 04 - Das Super-Kaninchen (Folge 008)
+  - Kapitel 05 - Das Super-Kaninchen (Folge 008)
+  - Kapitel 06 - Das Super-Kaninchen (Folge 008)
+  - Kapitel 07 - Das Super-Kaninchen (Folge 008)
+  - Kapitel 08 - Das Super-Kaninchen (Folge 008)
+  - Kapitel 09 - Das Super-Kaninchen (Folge 008)
+  ids: []
