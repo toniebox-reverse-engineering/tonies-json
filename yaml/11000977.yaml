@@ -3,7 +3,7 @@ lock-data: false
 data:
 - series: Green Team
   series-id: green-team
-  episode: 'Green Team - Mission: Rettung in der Luft mit John, der Schneeeule'
+  episode: 'Green Team - Mission: Rettung in der Luft mit John, der Schnee-Eule'
   release: 1760486400
   language: de-de
   category: audio-play
@@ -25,4 +25,9 @@ data:
   - Beluga in der Patsche 1
   - Beluga in der Patsche 2
   - Beluga in der Patsche 3
-  ids: []
+  ids:
+  - audio-id: 1757409113
+    hash: dda910e3e16fe882326487ba497abc8f3d0bad3d
+    size: 40414949
+    tracks: 10
+    confidence: 0
