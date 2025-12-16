@@ -1,0 +1,26 @@
+article: '2000011636'
+lock-data: false
+data:
+- series: Peppa Pig
+  series-id: peppa-pig
+  episode: 'Folge 59: Hops, Hüpf, Spring!'
+  release: 1765843200
+  language: de-de
+  category: audio-play
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_f1341c78174011aa197fa81565ede73395490637b103002e99ad3732/3_t_0QLbt27vtd-1yn/peppa_pig_folge_59__hops_hupf_spring_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/peppa-pig/folge-59-hops-hupf-spring/
+  shop-id: 094a0274-0f2b-446e-8c18-e7147c27857a
+  track-desc:
+  - Hops, Hüpf, Spring! (Inhaltsangabe)
+  - Hops, Hüpf, Spring!
+  - Hula Hoop
+  - Skateboard fahren
+  - Bergsteigen
+  - Motorradfahren
+  - Das Schwungtuch
+  - Hops, Hüpf, Spring! (Outro)
+  ids: []

@@ -1,0 +1,29 @@
+article: '2000011625'
+lock-data: false
+data:
+- series: Benjamin Blümchen
+  series-id: benjamin-bluemchen
+  episode: 'Benjamin Blümchen, Folge 166: Im Football-Fieber'
+  release: 1765843200
+  language: de-de
+  category: audio-book
+  runtime: 0
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_3f5e58e90792b2f666924321a0709d7b380a17f830d4852a66cb1447/3_.-gmsFw-4_ydqr4p/benjamin_blumchen_166_benjamin_blumchen_folge_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/baeeec11f9cad6c2f931f2266c2622197699be3dc34d2fa38cd8e74b/4033694255667_audiosample.mp3
+  web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/benjamin-blumchen-folge-166-im-football-fieber/
+  shop-id: 1be90aca-1890-4309-a992-2fb6b28d4c51
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  ids: []

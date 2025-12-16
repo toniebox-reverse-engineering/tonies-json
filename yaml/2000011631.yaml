@@ -1,0 +1,39 @@
+article: '2000011631'
+lock-data: false
+data:
+- series: LEGO Friends
+  series-id: lego-friends
+  episode: 'Folgen 118-121: Fake News Chaos'
+  release: 1765843200
+  language: de-de
+  category: audio-play
+  runtime: 2563
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/4f999cc8104dfaa746ad4d1d7f6a7a3845ce69b413051ce6b987762c/3_jvpXhL.fPMXJdR48/lego_friends_053_folgen_118_121__fake_news_cha_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/4d6bfd6c99a45c18c34b85584818ae7c0e97923708147fefa5cd5ae2/4013575964123_preview.mp3
+  web: https://tonies.com/de-de/audio-content/lego-friends/folgen-118-121-fake-news-chaos/
+  shop-id: 2b833ea1-2fbf-474a-bf47-b83612944614
+  track-desc:
+  - LEGO Friends Lied (Das nächste Kapitel)
+  - 'Kapitel 01: Fake News Chaos (Folge 118)'
+  - 'Kapitel 02: Fake News Chaos (Folge 118)'
+  - 'Kapitel 03: Fake News Chaos (Folge 118)'
+  - 'Kapitel 04: Fake News Chaos (Folge 118)'
+  - 'Kapitel 05: Fake News Chaos (Folge 118)'
+  - 'Kapitel 01: Rettet das Klavier (Folge 119)'
+  - 'Kapitel 02: Rettet das Klavier (Folge 119)'
+  - 'Kapitel 03: Rettet das Klavier (Folge 119)'
+  - 'Kapitel 04: Rettet das Klavier (Folge 119)'
+  - 'Kapitel 05: Rettet das Klavier (Folge 119)'
+  - 'Kapitel 01: Streiche-Krieg (Folge 120)'
+  - 'Kapitel 02: Streiche-Krieg (Folge 120)'
+  - 'Kapitel 03: Streiche-Krieg (Folge 120)'
+  - 'Kapitel 04: Streiche-Krieg (Folge 120)'
+  - 'Kapitel 05: Streiche-Krieg (Folge 120)'
+  - 'Kapitel 01: Pickles perfektes Hundefutter (Folge 121)'
+  - 'Kapitel 02: Pickles perfektes Hundefutter (Folge 121)'
+  - 'Kapitel 03: Pickles perfektes Hundefutter (Folge 121)'
+  - 'Kapitel 04: Pickles perfektes Hundefutter (Folge 121)'
+  - 'Kapitel 05: Pickles perfektes Hundefutter (Folge 121)'
+  ids: []
