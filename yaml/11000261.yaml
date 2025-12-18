@@ -32,6 +32,11 @@ data:
   - Rudolph ist verschwunden – Kapitel 6
   - Rudolph ist verschwunden – Kapitel 7
   ids:
+  - audio-id: 1766052101
+    hash: a106fe20d8102ee3504875690793b837dcac980b
+    size: 38054906
+    tracks: 17
+    confidence: 1
   - audio-id: 1756915362
     hash: 44406b00441452431065a0f8d848828b77ccde1a
     size: 35519482
