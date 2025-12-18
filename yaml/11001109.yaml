@@ -32,6 +32,11 @@ data:
   - 16th November
   - Joke Of The Day Jingle
   ids:
+  - audio-id: 1766016310
+    hash: 6973b9f3792b7834d96c353047c1354df0f759a0
+    size: 24660183
+    tracks: 16
+    confidence: 1
   - audio-id: 1765929909
     hash: 4de235ef9ef12ee410299670a9579b6eb9ef7e0c
     size: 24619845
