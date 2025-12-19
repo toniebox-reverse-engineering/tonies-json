@@ -11,7 +11,7 @@ data:
   age: 7
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11004430_2_a-l9BTVNQC.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/19383bc94b927e433ea6ab74be701efd245e15502a44a86f44516069/horprobe_checker_tobi_3.mp3
   web: https://tonies.com/de-de/clever-tonies/checker-tobi/checker-tobi-3-das-extra-zum-kinofilm/
   shop-id: a771c522-139a-4145-b081-8e7f1f26f016
   track-desc:
