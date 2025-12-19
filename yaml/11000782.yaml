@@ -31,6 +31,11 @@ data:
   - Saturday 6th December
   - Today With Tonies Jingle
   ids:
+  - audio-id: 1766102711
+    hash: a3763171087968b58c9ac4bfa472d90d944e6ed5
+    size: 163503334
+    tracks: 15
+    confidence: 1
   - audio-id: 1766016311
     hash: 93378ae4ff248a2b694ca6b91f46c9b7ca055c58
     size: 164187366
