@@ -331,7 +331,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000257,Kreativ-Tonie,,Sleepy,de-de,creative-tonie,stock,,,1,0,0,0
 10000258,Lieblings-Meisterstücke,lieblings-meisterstuecke,Hänsel und Gretel,de-de,audio-play-songs,stock,44645d35-eb1f-4ec2-b68c-04f3dd172d32,https://tonies.com/de-de/tonies/lieblings-meisterstuecke/haensel-und-gretel/,1,1,1,0
 10000259,Lieblings-Meisterstücke,lieblings-meisterstuecke,Die Zauberflöte,de-de,audio-play-songs,stock,8cb3942d-ab36-48ba-be36-cbd31bcb670e,https://tonies.com/de-de/tonies/lieblings-meisterstuecke/die-zauberfloete/,1,2,1,0
-10000260,Disney,disney,Findet Nemo,de-de,audio-play,stock,38a17126-3f7a-4224-85c6-0fd313085fa7,https://tonies.com/de-de/tonies/disney/findet-nemo/,1,1,1,0
+10000260,Findet Nemo,disney-finding-nemo,Findet Nemo,de-de,audio-play,stock,38a17126-3f7a-4224-85c6-0fd313085fa7,https://tonies.com/de-de/tonies/disney-findet-nemo/findet-nemo/,1,1,1,0
 10000261,Eule findet den Beat,eule-findet-den-beat,Auf Europatour,de-de,audio-play-songs,stock,b0d7a702-708e-44c2-aea5-7f4ac804c5e1,https://tonies.com/de-de/tonies/eule-findet-den-beat/auf-europatour/,1,2,1,0
 10000262,Kreativ-Tonie,,Polizist,de-de,creative-tonie,stock,96b8eb4b-35bf-4ea5-a03a-e8501ca00725,https://tonies.com/de-de/kreativ-tonies/kt-polizist/,1,0,0,0
 10000263,Lieblings-Kinderlieder,lieblings-kinderlieder,Europäische Kinderlieder,de-de,music,stock,d41e70e5-218c-4a50-aa30-b46cf1e15bef,https://tonies.com/de-de/tonies/lieblings-kinderlieder/europaeische-kinderlieder/,1,1,1,0
@@ -6050,6 +6050,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 2000011587,Lalalinos,lalalinos,Le Trésor de l'hiver,fr-fr,audio-play-songs,tunes,fa516740-d4b0-4dc4-b488-32276457d616,https://tonies.com/fr-fr/tonie-librairie/lalalinos/le-tresor-de-lhiver/,1,0,0,0
 2000011588,Lalalinos,lalalinos,Die Magie des Schnees,de-de,audio-play-songs,tunes,cf0fb512-e28a-4f97-8ca5-8cfc49943d54,https://tonies.com/de-de/audio-content/lalalinos/die-magie-des-schnees/,1,0,0,0
 2000011589,Lalalinos,lalalinos,The Magic of Snow,en-us,audio-play-songs,tunes,8f3b4203-620d-43da-9451-25d6a9064c8d,https://tonies.com/en-gb/audio-content/lalalinos/the-magic-of-snow/,1,0,0,0
+2000011590,Der zauberhafte Wunschbuchladen,der-zauberhafte-wunschbuchladen,Der hamsterstarke Harry,de-de,audio-play,tunes,169f8e86-41d5-4f1b-b8ec-d3b653874141,https://tonies.com/de-de/audio-content/der-zauberhafte-wunschbuchladen/der-hamsterstarke-harry/,1,0,0,0
 2000011591,Weihnachtsmann & Co. KG,weihnachtsmann-co-kg,Ein neues Kostüm für den Weihnachtsmann (Folge 14),de-de,audio-play,tunes,71f2ddd6-4b69-411c-b030-def25066f611,https://tonies.com/de-de/audio-content/weihnachtsmann-co-kg/ein-neues-kostum-fur-den-weihnachtsmann-folge-14/,1,0,0,0
 2000011592,Weihnachtsmann & Co. KG,weihnachtsmann-co-kg,Die Weihnachtsmann-Prüfung (Folge 2),de-de,audio-play,tunes,e5c6148e-f99d-490d-a79c-75afb5cc954f,https://tonies.com/de-de/audio-content/weihnachtsmann-co-kg/die-weihnachtsmann-prufung-folge-2/,1,0,0,0
 2000011593,Weihnachtsmann & Co. KG,weihnachtsmann-co-kg,Der Weihnachtsmann und sein Geheimnis (Folge 26),de-de,audio-play,tunes,8a08a62a-172a-4c71-8847-4fc545a9e119,https://tonies.com/de-de/audio-content/weihnachtsmann-co-kg/der-weihnachtsmann-und-sein-geheimnis-folge-26/,1,0,0,0
