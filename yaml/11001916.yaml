@@ -18,6 +18,11 @@ data:
   - Flöckchen und die verlorenen Weihnachtslichter Anleitung
   - Flöckchen und die verlorenen Weihnachtslichter Intro
   ids:
+  - audio-id: 1766185210
+    hash: a1c7f3c8bb7b621c416926225943d8752188ee93
+    size: 92498873
+    tracks: 24
+    confidence: 1
   - audio-id: 1766098811
     hash: b683cc89601806782dc20abc4cc9b4017f22e652
     size: 90377145
