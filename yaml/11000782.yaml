@@ -31,6 +31,11 @@ data:
   - Sunday 14th December
   - Today With Tonies Jingle
   ids:
+  - audio-id: 1766793920
+    hash: 71b5c2ac061a70e0d443d85e38c890f5b92d5ea9
+    size: 156892390
+    tracks: 15
+    confidence: 1
   - audio-id: 1766707520
     hash: e2a4b3057a3289ab83b5f080e5812154a4e84a58
     size: 158420198
