@@ -1,0 +1,33 @@
+article: '11001975'
+lock-data: false
+data:
+- series: La Journée De Léo
+  series-id: la-journee-de-leo
+  episode: C'Est L'Heure Du Bain !
+  release: 1767225600
+  language: fr-fr
+  category: music
+  runtime: 51
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/leo-only-tonie-NbJB7Mu5.png
+  sample: https://cdn.tonies.de/o/audio_samples/02bfee624ff64bd13bf631756f0dac9c259ca55a7ac205530bf39597/11001975_leo_c_est_l_heure_du_bain_00_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/la-journee-de-leo/c-est-l-heure-du-bain/
+  shop-id: 9143ac09-0078-4408-883b-799306832ffa
+  track-desc:
+  - Présentations
+  - Intro-Minute (chanson)
+  - Léo ne veut pas prendre son bain
+  - Plus de bain pour Léo ! (chanson)
+  - Plage de sable fin ou plage de salle de bain ?
+  - La chanson de la plage (chanson)
+  - Léo se jette à l'eau
+  - Les pirates de la baignoire (chanson)
+  - À la recherche du trésor perdu !
+  - La fête du shampoing (chanson)
+  - L'autoroute des vêtements
+  - La complainte de Coincoin (chanson)
+  - On part en vacances !
+  - Champions de plongeon (chanson)
+  - La plage, c'est génial !
+  ids: []

@@ -1,0 +1,33 @@
+article: '11001188'
+lock-data: false
+data:
+- series: Qui Que Quoi
+  series-id: qui-que-quoi
+  episode: Le Corps Humain
+  release: 1767225600
+  language: fr-fr
+  category: audio-play-educational
+  runtime: 49
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51006189-Tonie_Shado-dUCfrQtu.png
+  sample: https://cdn.tonies.de/o/audio_samples/05843240c4415dc25808871612277d5b7704dd06a77b835ea994e21a/11001188_qui_que_quoi_corps_humain_00_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/qui-que-quoi/le-corps-humain/
+  shop-id: 607ba4e1-38d2-4c8e-8e8e-082d8bb0940a
+  track-desc:
+  - Générique
+  - Introduction
+  - Arrivée dans un champ de cheveux
+  - Le bout du doigt
+  - L oeil
+  - La bouche
+  - Le nez
+  - L oreille
+  - Le coeur
+  - Un tas d autres muscles!
+  - La danse des bulles
+  - L orchestre de la respiration
+  - L aventure de la digestion
+  - La bataille des questions
+  - Générique de fin
+  ids: []
