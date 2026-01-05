@@ -1,0 +1,22 @@
+article: '11000535'
+lock-data: false
+data:
+- series: Disney
+  series-id: disney-disney
+  episode: 'Disney Winnie the Pooh: Piglet'
+  release: 1768262400
+  language: en-gb
+  category: audio-play-songs
+  runtime: 44
+  age: 2
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/Untitled%20design%20%2826%29--gNMP8m5.png
+  sample: https://cdn.tonies.de/o/audio_samples/0be24529cc63eaea11305be712f0879775cf80f3660a237ff7e4504d/disney_piglet_sample.mp3
+  web: https://tonies.com/en-gb/tonies/disney-disney/disney-winnie-the-pooh-piglet/
+  shop-id: 3db6c8b2-9283-4a41-8350-71d946cdf423
+  track-desc:
+  - 'Winnie The Pooh: Piglet Story'
+  - If I Wasnt So Small (The Piglet Song)
+  - Sing Ho For The Life Of A Bear (Expotition March)
+  - With A Few Good Friends
+  ids: []
