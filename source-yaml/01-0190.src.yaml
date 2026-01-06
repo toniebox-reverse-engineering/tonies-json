@@ -1,18 +1,18 @@
 article: 01-0190
 lock-data: false
 data:
-- series: tonies-json-de-de,
-  series-id: tonies-json-de-de,
+- series: ''
+  series-id: ''
   episode: ''
   release: ''
   language: ''
   category: ''
   runtime: ''
-  age: ''
+  age: tonies-json-de-de,
   origin: ''
   image: ''
   sample: ''
-  web: tonies-json-de-de,
+  web: ''
   shop-id: ''
-  track-desc: tonies-json-de-de,
+  track-desc: ''
   ids: []
