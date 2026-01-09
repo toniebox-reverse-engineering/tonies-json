@@ -31,6 +31,11 @@ data:
   - 27th December
   - Joke Of The Day Jingle
   ids:
+  - audio-id: 1767917120
+    hash: 764a7856cb6b621875c186c1a547469732183edf
+    size: 18195603
+    tracks: 15
+    confidence: 1
   - audio-id: 1767830720
     hash: 81cda46d90a5942f435ac0047cb7e46129b18c7b
     size: 17161841
