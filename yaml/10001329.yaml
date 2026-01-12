@@ -3,12 +3,12 @@ lock-data: false
 data:
 - series: Schlummerbande
   series-id: sleepy-friends
-  episode: Gutenachtgeschichten - Schlaf schön, kleiner Schlummerbär
+  episode: Schlummerbär -  Eine Gutenachtgeschichte aus dem Schlummerwald
   release: 0
   language: de-de
   category: audio-book
   runtime: 40
-  age: 3
+  age: 1
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001329-50003237-b-f0UvGMZQ.png
   sample: https://cdn.tonies.de/o/audio_samples/361d904d8285908636f763207eb9e89e50c71e721a76aa0fe9009165/hoerprobe_schlummerbande_gutenachtgeschichten_schlaf_schon.mp3
