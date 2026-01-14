@@ -1,0 +1,33 @@
+article: '11002277'
+lock-data: false
+data:
+- series: Cocomelon
+  series-id: cocomelon
+  episode: Spiel und Spaß mit JJ
+  release: 1770768000
+  language: de-de
+  category: music
+  runtime: 43
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11002277_1_a-0JSO4kTF.png
+  sample: null
+  web: https://tonies.com/de-de/tonies/cocomelon/spiel-und-spass-mit-jj/
+  shop-id: c2c79729-cb7a-4bed-b53b-e824411c3795
+  track-desc:
+  - 1. Gleite, kleines Boot
+  - 2. Fünf kleine Frösche
+  - 3. John Jacob Jingleheimer Schmidt
+  - 4. Ein Seemann liebt das Meer so sehr
+  - 5. Das Gegenteil-Lied
+  - 6. Wir retten die Erde
+  - 7. Klingelilu
+  - 8. Codys Dino-Tag
+  - 9. Das Grimassen-Lied
+  - 10. Humpty Dumpty
+  - 11. Springt hin und her
+  - 12. Das Schleifen-Lied
+  - 13. Das Schluckauf-Lied
+  - 14. Das kleine Schweinchen
+  - 15. Übernachtung im Zelt
+  ids: []

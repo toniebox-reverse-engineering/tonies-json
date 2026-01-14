@@ -1,0 +1,32 @@
+article: '11002692'
+lock-data: false
+data:
+- series: Küken Pitti
+  series-id: kueken-pitti
+  episode: Oster- und Frühlingsgeschichten
+  release: 1770768000
+  language: de-de
+  category: audio-play-songs
+  runtime: 50
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11002692_1_a-XMY26-02.png
+  sample: https://cdn.tonies.de/o/audio_samples/b27f03ff73dd9070698bb51a8d1f65629f1ed9f574ee1cccf39c9e07/pitti_horprobe_mit_song.mp3
+  web: https://tonies.com/de-de/tonies/kueken-pitti/oster-und-fruehlingsgeschichten/
+  shop-id: 471562a2-31f6-4ea3-998a-a9f018d237a9
+  track-desc:
+  - Intro
+  - Lied "Frühlingserwachen"
+  - Hallo Hier Kommt Pitti - Teil 1
+  - Hier Kommt Pitti - Teil 2
+  - Lied "Pitti"
+  - Ein Ganz Besonderes Spiel - Teil 1
+  - Ein Ganz Besonderes Spiel - Teil 2
+  - Lied "Freundschaftslied"
+  - Gar Nicht Langweilig - Teil 1
+  - Gar Nicht Langweilig - Teil 2
+  - Lied "Auf Dem Land"
+  - Klatschnasser Regenspielspaß - Teil 1
+  - Klatschnasser Regenspielspaß - Teil 2
+  - Lied "Es Regnet"
+  ids: []
