@@ -31,6 +31,11 @@ data:
   - 1st January
   - Joke Of The Day Jingle
   ids:
+  - audio-id: 1768349104
+    hash: fd980a430f608e26f7479f2acf051c758a8b9930
+    size: 17177981
+    tracks: 15
+    confidence: 1
   - audio-id: 1768262730
     hash: 33e9ed569d7e012d668b319be66ec6d0f4dbae49
     size: 17263984
