@@ -8,7 +8,7 @@ data:
   language: de-de
   category: audio-book
   runtime: 121
-  age: 8
+  age: 7
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/11000768_DACH_Clever-UoiqCzcQ.png
   sample: https://cdn.tonies.de/o/audio_samples/69b0f1dbb62fdf807ba8c6d4f81f88d2c9a1ecf83a4feefaf7125991/horprobe_11000768_ostwind_pferde_verstehen_mit_ostwind.mp3
@@ -66,8 +66,8 @@ data:
   - Die Zügel - 049
   - 'Extra: Reiten mit Halsring - 050'
   ids:
-    - audio-id: 1709133801
-      hash: 8dba747d2d0d3e0f1a802529ee92a40aedfa178f
-      size: 79052044
-      tracks: 50
-      confidence: 0
+  - audio-id: 1709133801
+    hash: 8dba747d2d0d3e0f1a802529ee92a40aedfa178f
+    size: 79052044
+    tracks: 50
+    confidence: 0
