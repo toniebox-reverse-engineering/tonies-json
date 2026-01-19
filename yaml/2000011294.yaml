@@ -39,4 +39,9 @@ data:
   - Kapitel 22
   - Kapitel 23
   - Kapitel 24
-  ids: []
+  ids: 
+  - audio-id: 1741192000
+    hash: eb4e3e5985cee8b44807e1937acfa0c8e7edb973
+    size: 56775689
+    tracks: 24
+    confidence: 0
