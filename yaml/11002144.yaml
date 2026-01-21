@@ -1,9 +1,9 @@
 article: '11002144'
 lock-data: false
 data:
-- series: Dora the Explorer
+- series: Dora
   series-id: dora-the-explorer
-  episode: Dora the Explorer
+  episode: Dora the explorer
   release: 1768262400
   language: en-gb
   category: audio-play-songs
@@ -15,18 +15,18 @@ data:
   web: https://tonies.com/en-gb/tonies/dora-the-explorer/dora-the-explorer/
   shop-id: c5d3bc91-c0fa-418c-a689-a364699ef538
   track-desc:
-  - 01. INTRO
-  - 02. SONG - Dora’s Theme Song
-  - 03. STORY - Catch The Quickatoo Part 1
-  - 04. STORY - Catch the Quickatoo Part 2
-  - 05. INTERSTITIAL
-  - 06. STORY - The Mystery Gift Part 1
-  - 07. STORY - The Mystery Gift Part 2
-  - 08. INTERSTITIAL 2
-  - 09. STORY - A Guayabera For Tico Part 1
-  - 10. STORY - A Guayabera For Tico Part 2
-  - 11. INTERSTITIAL 3
-  - 12. STORY - Swiper's Birthday Surprise Part 1
-  - 13. STORY - Swiper's Birthday Surprise Part 2
-  - 14. OUTRO
+  - Intro
+  - Dora’s Theme Song
+  - Catch The Quickatoo Part 1
+  - Catch The Quickatoo Part 2
+  - Interstitial 1
+  - The Mystery Gift Part 1
+  - The Mystery Gift Part 2
+  - Interstitial 2
+  - A Guayabera For Tico Part 1
+  - A Guayabera For Tico Part 2
+  - Interstitial 3
+  - Swiper's Birthday Surprise Part 1
+  - Swiper's Birthday Surprise Part 2
+  - Outro
   ids: []
