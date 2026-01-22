@@ -31,6 +31,11 @@ data:
   - Friday 9th January
   - Today With Tonies Jingle
   ids:
+  - audio-id: 1769040320
+    hash: 3111bb97c36b5808b9144340ca4e01897992f8ff
+    size: 162987238
+    tracks: 15
+    confidence: 1
   - audio-id: 1768953919
     hash: 3192f7e5487e087bcbf60e94223f16a70cb1f606
     size: 162610406
