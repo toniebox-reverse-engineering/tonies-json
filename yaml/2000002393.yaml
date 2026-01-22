@@ -34,4 +34,9 @@ data:
   - 'Folge 33: Die Ostereiersuche - Track 7'
   - 'Folge 33: Die Ostereiersuche - Track 8'
   - 'Folge 33: Die Ostereiersuche - Track 9'
-  ids: []
+  ids:
+  - audio-id: 387563992
+    hash: 5c308336dff229d8d3ed3700782956bf2886a18b
+    size: 40167347
+    tracks: 19
+    confidence: 0
