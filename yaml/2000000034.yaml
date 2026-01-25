@@ -23,4 +23,9 @@ data:
   - Ein neuer Freund
   - Ersatz fürs Glockenspiel
   - Triumphzug zum Zoo
-  ids: []
+  ids:
+  - audio-id: 1734620353
+    hash: 19b74eb88e1f7f86c0ebd7f18ee0f0d57caee3e5
+    size: 30594276
+    tracks: 8
+    confidence: 0
