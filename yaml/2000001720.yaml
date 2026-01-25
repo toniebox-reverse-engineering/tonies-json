@@ -41,4 +41,9 @@ data:
   - Die Befreiung (Teil 11)
   - Die Befreiung (Teil 12)
   - Die Befreiung (Teil 13)
-  ids: []
+  ids:
+  - audio-id: 1699260876
+    hash: 7b2610e199071f4069ce75882dae526ab3554803
+    size: 29001572
+    tracks: 26
+    confidence: 0
