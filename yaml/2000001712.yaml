@@ -41,4 +41,9 @@ data:
   - Der Eskimoschatz (Teil 11)
   - Der Eskimoschatz (Teil 12)
   - Der Eskimoschatz (Teil 13)
-  ids: []
+  ids:
+  - audio-id: 1701242033
+    hash: e44b2c5c8c3267713075c241fef30c29c3faf5a5
+    size: 29019822
+    tracks: 26
+    confidence: 0
