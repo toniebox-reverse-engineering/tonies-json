@@ -41,4 +41,9 @@ data:
   - Asterix und Kleopatra - Teil 24
   - Asterix und Kleopatra - Teil 25
   - Asterix und Kleopatra - Teil 26
-  ids: []
+  ids:
+  - audio-id: 1751970454
+    hash: 240a0ceba7fb2ff20ced1451a512bee38bfb37f8
+    size: 31225777
+    tracks: 26
+    confidence: 0
