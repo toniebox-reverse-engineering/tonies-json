@@ -41,4 +41,9 @@ data:
   - 'Kapitel 03: Schatten unterm Apfelbaum (Folge 8)'
   - 'Kapitel 04: Schatten unterm Apfelbaum (Folge 8)'
   - 'Kapitel 05: Schatten unterm Apfelbaum (Folge 8)'
-  ids: []
+  ids:
+  - audio-id: 1711366590
+    hash: 059d82d1c4505ed3ec7a105603106bf12c20647d
+    size: 39516570
+    tracks: 26
+    confidence: 0
