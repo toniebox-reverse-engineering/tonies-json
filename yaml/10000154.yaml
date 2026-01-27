@@ -14,7 +14,37 @@ data:
   sample: null
   web: null
   shop-id: null
-  track-desc: []
+  track-desc:
+  - Nicht schon wieder an die Ostsee
+  - Einmal um die Welt
+  - Seeräuber Opa Fabian
+  - Von den blauen Bergen kommen wir
+  - Da kommt 'ne Bimmelbahn
+  - Wenn der Sommer kommt
+  - Ein Mann, der sich Kolumbus nannt'
+  - Jetzt fahrn wir übern See
+  - Hänschen klein
+  - Eine Seefahrt, die ist lustig
+  - Trarira, der Sommer, der ist da
+  - Im Frühtau zu Berge
+  - Der Cowboy Jim aus Texas
+  - Das Wandern ist des Müllers Lust
+  - Ri-ra-rutsch
+  - Idas Sommerlied
+  - So a schöner Tag (Fliegerlied)
+  - Muss wandern
+  - So will ich immer reisen
+  - Drei Chinesen mit dem Kontrabass
+  - Faul sein ist wunderschön
+  - Paule Puhmanns Paddelboot
+  - Hab 'ne Tante aus Marokko
+  - Ferien auf Saltkrokan
+  - Schön ist es, auf der Welt zu sein
+  - Ich packe meinen Urlaubskoffer
+  - Ich flieg in meinem Flugzeug
+  - Den ganzen Sommer lang
+  - Endlich da
+  - Große Pause
   ids:
   - audio-id: 1561478364
     hash: 0d32a6bab607345d29e52152f94af65fcf971567
