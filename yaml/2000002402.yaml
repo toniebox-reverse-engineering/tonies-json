@@ -48,4 +48,9 @@ data:
   - 'Kapitel 06: Das Basketballspiel (Folge 64)'
   - 'Kapitel 07: Das Basketballspiel (Folge 64)'
   - 'Kapitel 08: Das Basketballspiel (Folge 64)'
-  ids: []
+  ids:
+  - audio-id: 1753963214
+    hash: 2224ed31195bc52ac064c79665421bce5104095b
+    size: 43306157
+    tracks: 33
+    confidence: 0
