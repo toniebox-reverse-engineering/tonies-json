@@ -3,14 +3,14 @@ lock-data: false
 data:
 - series: ''
   series-id: ''
-  episode: tonies-json-fr-fr,fix-whitespace-title,
+  episode: ''
   release: ''
   language: ''
   category: ''
   runtime: ''
-  age: ''
+  age: tonies-json-fr-fr,
   origin: ''
-  image: tonies-json-fr-fr,
+  image: ''
   sample: ''
   web: ''
   shop-id: ''
