@@ -11,7 +11,7 @@ data:
   age: 5
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51006367-Tonie_Shado-1jPHEIOD.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/31d341638406a420a7e4bcf3fd5f9ba1f436d1ad5cbd6c258f367f45/11001262_ptits_montres_pelote_extrait.wav
   web: https://tonies.com/fr-fr/tonies/les-ptits-monstres/pelote-et-la-maison-hantee/
   shop-id: c0db6f78-cded-48f4-ba8a-5b1a2e39c6e1
   track-desc:
