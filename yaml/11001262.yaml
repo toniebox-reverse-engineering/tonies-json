@@ -1,0 +1,19 @@
+article: '11001262'
+lock-data: false
+data:
+- series: Les P'tits Monstres
+  series-id: les-ptits-monstres
+  episode: Pelote Et La Maison Hantée
+  release: 1769644800
+  language: fr-fr
+  category: audio-play
+  runtime: 50
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51006367-Tonie_Shado-1jPHEIOD.png
+  sample: null
+  web: https://tonies.com/fr-fr/tonies/les-ptits-monstres/pelote-et-la-maison-hantee/
+  shop-id: c0db6f78-cded-48f4-ba8a-5b1a2e39c6e1
+  track-desc:
+  - Pelote et la maison hantée
+  ids: []

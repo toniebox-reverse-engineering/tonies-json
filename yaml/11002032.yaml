@@ -1,0 +1,28 @@
+article: '11002032'
+lock-data: false
+data:
+- series: Alma
+  series-id: alma
+  episode: Les Veggies
+  release: 1769644800
+  language: fr-fr
+  category: audio-play
+  runtime: 80
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51008798-Tonie_Shado-ba7B2eYX.png
+  sample: https://cdn.tonies.de/o/audio_samples/76b273704b55cff8af67d91d20605525043cab0e2b63f10a3259f736/11002032_les_veggies_00_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/alma/les-veggies/
+  shop-id: e63c0bf6-1b95-4fb5-bfea-6186836111b0
+  track-desc:
+  - Veggie Patate
+  - Veggie Banane
+  - Veggie Citron
+  - Veggie Kiwi
+  - Veggie Coco
+  - Veggie Poireau
+  - Veggie Chou
+  - Veggie Citrouille
+  - Veggie Piment
+  - Veggie Pomme
+  ids: []
