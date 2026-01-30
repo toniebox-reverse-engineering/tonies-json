@@ -15,46 +15,27 @@ data:
   web: https://tonies.com/de-de/tonies/sing-kinderlieder/timmy-traktor/
   shop-id: fbc70bac-45f7-4547-bc85-7716078514e1
   track-desc:
-  - 01 Endlich Ferien Sing Kinderlieder Timmy Traktor Seine Freunde Ferien Auf Dem
-    Bauernhof
-  - 02 Der Schnellste Traktor Der Welt Sing Kinderlieder Timmy Traktor Seine Freunde
-    Ferien Auf Dem Bauernhof
-  - 03 Ich Bin Bauer Und Ich Lieb Es Sing Kinderlieder Timmy Traktor Seine Freunde
-    Ferien Auf Dem Bauernhof
-  - 04 Ronny Das Pony Sing Kinderlieder Timmy Traktor Seine Freunde Ferien Auf Dem
-    Bauernhof
-  - 05 Fliege Flo Sing Kinderlieder Timmy Traktor Seine Freunde Ferien Auf Dem Bauernhof
-  - 06 Alles Kuhl Hier Im Kuhstall Sing Kinderlieder Timmy Traktor Seine Freunde Ferien
-    Auf Dem Bauernhof
-  - 07 Melkroboter Merlin Sing Kinderlieder Timmy Traktor Seine Freunde Ferien Auf
-    Dem Bauernhof
-  - 08 Klein Aber Oho Sing Kinderlieder Timmy Traktor Seine Freunde Ferien Auf Dem
-    Bauernhof V1
-  - 09 Saustall Der Aufraeum Song Sing Kinderlieder Timmy Traktor Seine Freunde Ferien
-    Auf Dem Bauernhof
-  - 10 Guten Morgen Kikerikiki Sing Kinderlieder Timmy Traktor Seine Freunde Ferien
-    Auf Dem Bauernhof
-  - 11 1 2 3 Die Huehner Zaehlen Jedes Ei Der Huehner Song Sing Kinderlieder Timmy
-    Traktor Seine Freunde Ferien Auf Dem Bauernhof
-  - 12 Lecker Schmecker Schmackofatz Sing Kinderlieder Timmy Traktor Seine Freunde
-    Ferien Auf Dem Bauernhof
-  - 13 Der Rote Traktor Ich Bin Ein Trak Trak Traktor
-  - 14 Plitsch Platsch Der Guellewagen Song Sing Kinderlieder Timmy Traktor Seine
-    Freunde Ferien Auf Dem Bauernhof
-  - 15 Schafsalon Schnipp Schnapp Haare Ab Sing Kinderlieder Timmy Traktor Seine Freunde
-    Ferien Auf Dem Bauernhof
-  - 16 Quak Oink Miau Und Muh Sing Kinderlieder Timmy Traktor Seine Freunde Ferien
-    Auf Dem Bauernhof
-  - 17 Der Maehdrescher Song Sing Kinderlieder Timmy Traktor Seine Freunde Ferien
-    Auf Dem Bauernhof
-  - 18 Kati Die Katze Sing Kinderlieder Timmy Traktor Seine Freunde Ferien Auf Dem
-    Bauernhof
-  - 19 Henri Hofhund Sing Kinderlieder Timmy Traktor Seine Freunde Ferien Auf Dem
-    Bauernhof
-  - 20 Der Bauer Hat Geburtstag Sing Kinderlieder Timmy Traktor Seine Freunde Ferien
-    Auf Dem Bauernhof
-  - 21 Jetzt Schlaeft Der Ganze Bauernhof Sing Kinderlieder Timmy Traktor Seine Freunde
-    Ferien Auf Dem Bauernhof
+  - Endlich Ferie
+  - Der schnellste Traktor der Welt
+  - Ich bin Bauer und ich lieb’ es
+  - Ronny das Pony
+  - Fliege Flo
+  - Alles kuhl hier im Kuhstall
+  - Melkroboter Merlin
+  - Klein aber oho
+  - 'Saustall: Der Aufräum-Song'
+  - Guten Morgen, Kikerikik
+  - '1, 2, 3 – Die Hühner zählen jedes Ei: Der Hühner-Song'
+  - Lecker, schmecker, Schmackofatz
+  - 'Der rote Traktor: Ich bin ein Trak-Trak-Traktor'
+  - Plitsch, platsch! Der Güllewagen-Song
+  - 'Schafsalon: Schnipp, schnapp – Haare ab!'
+  - Quak, Oink, Miau und Muh
+  - Der Mähdrescher-Song
+  - Kati die Katze
+  - Henri Hofhund
+  - Der Bauer hat Geburtstag
+  - Jetzt schläft der ganze Bauernhof
   ids:
   - audio-id: 1764067291
     hash: ba6207dc0f737e004ae257662ceafea14510c576
