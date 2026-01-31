@@ -1,16 +1,16 @@
 article: '10001892'
 lock-data: false
 data:
-- series: Disney & Pixar
+- series: Disney
   series-id: null
-  episode: 'Toy Story 3 & 4: Jessie'
+  episode: 'and Pixar Toy Story 3 & 4: Jessie'
   release: 1709047201
   language: en-us
   category: Tonie
   runtime: 0
   age: 99
   origin: stock
-  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Jessie-10001892-PLPTB2MainImageTransparent.png?v=1769440879
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Jessie-10001892-PLPTB2MainImageTransparent.png?v=1769802018
   sample: null
   web: null
   shop-id: '8143489892503'
