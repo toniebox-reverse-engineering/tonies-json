@@ -11,7 +11,7 @@ data:
   age: 3
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11003877_Transparent-ZO8P1CPi.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/194c8699692e30c1867358bbec7e854987d106d6be1319e4c150e418/cuddletonie_minnie_audiosample.wav
   web: https://tonies.com/en-gb/tonies/disney-mickey-mouse-friends/disney-plush-minnie-mouse/
   shop-id: c63c39fa-bac6-4114-a0c6-753e00269b7a
   track-desc:
