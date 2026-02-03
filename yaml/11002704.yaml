@@ -8,7 +8,7 @@ data:
   language: de-de
   category: audio-book
   runtime: 143
-  age: 6
+  age: 5
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11002704_1_a-CyohbN3V.png
   sample: https://cdn.tonies.de/o/audio_samples/033b0c98a85b71e5a6e48ff0d5c4ee14c181ea8177d212aa844edb4e/hoerprobe_zippel_01.mp3
@@ -26,4 +26,4 @@ data:
     hash: 87fbdfd34ea864cc0b54da3bbd5639b0e5eaa4df
     size: 91056246
     tracks: 20
-    confidence: 0  
+    confidence: 0

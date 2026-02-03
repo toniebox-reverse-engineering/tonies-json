@@ -9,7 +9,7 @@ data:
   language: de-de
   category: audio-play-educational
   runtime: 56
-  age: 8
+  age: 7
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11002916_1_a-AW21zXzz.png
   sample: https://cdn.tonies.de/o/audio_samples/0d811ff8598ff649ea37d5d20c84f2ac716bf0b91397a48e2d1b76af/hoerprobe_11002916_der_groe_demokratie_check_wahlen_parlamente_kinderrechte.mp3
@@ -29,4 +29,3 @@ data:
     size: 43878245
     tracks: 29
     confidence: 0
-

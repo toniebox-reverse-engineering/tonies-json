@@ -1,0 +1,26 @@
+article: '11003864'
+lock-data: false
+data:
+- series: Frozen 2
+  series-id: disney-frozen-2
+  episode: Disney Plush Olaf
+  release: 0
+  language: en-gb
+  category: audio-play
+  runtime: 30
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11003864_Transparent-qkYbY5Sk.png
+  sample: null
+  web: https://tonies.com/en-gb/tonies/disney-frozen-2/disney-plush-olaf/
+  shop-id: 07f2de93-511d-4fc0-a4b0-3edaeff9bdbc
+  track-desc:
+  - 01. INTRO - Olaf says hello
+  - 02. STORY - Little Brothers!
+  - 03. INTERSTITIAL - Olaf’s Storytime Surprise
+  - 04. STORY - Olaf’s Perfect Summer Day
+  - 05. INTERSTITIAL - A Silly Snowday Stroll
+  - 06. STORY - A Unicorn for Olaf
+  - 07. INTERSTITIAL - Snowman in the Stables
+  - 08. SOUNDSCAPE -Olaf’s Soundscap
+  ids: []

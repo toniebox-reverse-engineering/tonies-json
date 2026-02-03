@@ -1,0 +1,26 @@
+article: '11003877'
+lock-data: false
+data:
+- series: Mickey Mouse & Friends
+  series-id: disney-mickey-mouse-friends
+  episode: Disney Plush Minnie Mouse
+  release: 0
+  language: en-gb
+  category: audio-play
+  runtime: 30
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11003877_Transparent-ZO8P1CPi.png
+  sample: null
+  web: https://tonies.com/en-gb/tonies/disney-mickey-mouse-friends/disney-plush-minnie-mouse/
+  shop-id: c63c39fa-bac6-4114-a0c6-753e00269b7a
+  track-desc:
+  - 01. INTRO - Minnie Says Hello
+  - 02. STORY - Minnie's Secret Scavenger Hunt
+  - 03. INTERSTITIAL - Baking with Minnie
+  - 04. STORY - A Nice Day for a Sail
+  - 05. INTERSTITIAL - Minnie’s Neighbourhood Parade
+  - 06. STORY - The Bravest Dog
+  - 07. INTERSTITIAL - Birdwatching with Minnie
+  - 08. SOUNDSCAPE - Minnie’s Soundscape
+  ids: []

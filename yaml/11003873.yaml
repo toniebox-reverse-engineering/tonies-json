@@ -1,0 +1,26 @@
+article: '11003873'
+lock-data: false
+data:
+- series: Winnie the Pooh
+  series-id: disney-winnie-the-pooh
+  episode: Disney Plush Winnie
+  release: 0
+  language: en-gb
+  category: audio-play
+  runtime: 38
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11003873_Transparent-djLzwMvM.png
+  sample: https://cdn.tonies.de/o/audio_samples/8f4f7f5734e1cab183b8c411e29a70ccfaecc72c887180fd3dfd8266/pooh_audiosample.wav
+  web: https://tonies.com/en-gb/tonies/disney-winnie-the-pooh/disney-plush-winnie/
+  shop-id: a7344d38-3a4d-44e9-9b8a-c04a61e66024
+  track-desc:
+  - 01. INTRO - Pooh Says Hello
+  - 02. STORY - Pooh Goes Sledding
+  - 03. INTERSTITIAL - Pooh’s Honey Heist
+  - 04. STORY - Who Cares? Pooh Cares!
+  - 05. INTERSTITIAL - Pooh and Piglets’ Punchlines
+  - 06. STORY - Pooh’s Secret Garden
+  - 07. INTERSTITIAL - A Blustery Adventure
+  - 08. SOUNDSCAPE - Pooh's Soundscape
+  ids: []
