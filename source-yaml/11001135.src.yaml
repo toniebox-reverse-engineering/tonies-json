@@ -4,11 +4,11 @@ data:
 - series: ''
   series-id: ''
   episode: ''
-  release: tonies-json-de-de,
+  release: ''
   language: ''
   category: ''
   runtime: ''
-  age: ''
+  age: tonies-json-de-de,
   origin: ''
   image: ''
   sample: ''
