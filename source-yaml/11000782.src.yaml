@@ -3,16 +3,16 @@ lock-data: false
 data:
 - series: ''
   series-id: ''
-  episode: ''
+  episode: tonies-json-en-gb,
   release: ''
   language: ''
   category: ''
   runtime: ''
   age: ''
   origin: ''
-  image: ''
+  image: tonies-json-en-gb,
   sample: ''
   web: ''
   shop-id: ''
-  track-desc: tonies-json-en-gb,
+  track-desc: ''
   ids: []
