@@ -288,7 +288,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000729,Jasmine,disney-jasmine,Jasmine,en-gb,audio-play-songs,stock,5a3f3dfa-bab3-4ec2-b12a-10f3283bc182,https://tonies.com/en-gb/tonies/jasmine/,1,2,2,0
 11000730,Horrible Histories,horrible-histories,Vicious Vikings,en-gb,audio-book,stock,c165654e-4ec3-4c06-82fa-99d2de13f18c,https://tonies.com/en-gb/tonies/horrible-histories/vicious-vikings/,1,2,2,0
 11000732,Judith Kerr,judith-kerr,The Tiger Who Came to Tea,en-gb,audio-book,stock,020db413-0976-46f0-ba3b-0c8ff07ae560,https://tonies.com/en-gb/tonies/judith-kerr/the-tiger-who-came-to-tea/,1,1,1,0
-11000782,Today with tonies,today-with-tonies,tonies Daily Show,en-gb,audio-play,stock,a742a774-63b0-450f-8303-6552b3c99bc9,https://tonies.com/en-gb/clever-tonies/today-with-tonies/today-with-tonies/,1,759,758,0
+11000782,Today with tonies,today-with-tonies,tonies Mini Podcast,en-gb,audio-play,stock,a742a774-63b0-450f-8303-6552b3c99bc9,https://tonies.com/en-gb/clever-tonies/today-with-tonies/today-with-tonies/,1,759,758,0
 11000808,PAW Patrol's Jungle Pups,paw-patrols-jungle-pups,Jungle Pups: Chase,en-gb,audio-play,stock,05ea7ae4-f121-43c6-b22b-ee0b7ce281bc,https://tonies.com/en-gb/tonies/paw-patrols-jungle-pups/jungle-pups-chase/,1,0,0,0
 11000809,PAW Patrol's Jungle Pups,paw-patrols-jungle-pups,Jungle Pups: Marshall,en-gb,audio-play,stock,72c5f5d5-e102-46ab-a909-fa5d71300fa2,https://tonies.com/en-gb/tonies/paw-patrols-jungle-pups/jungle-pups-marshall/,1,0,0,0
 11000810,PAW Patrol's Jungle Pups,paw-patrols-jungle-pups,Jungle Pups: Skye,en-gb,audio-play,stock,d8913c45-22bc-4835-a6a7-2c54d3d1b898,https://tonies.com/en-gb/tonies/paw-patrols-jungle-pups/jungle-pups-skye/,1,0,0,0
@@ -407,8 +407,10 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11003614,The Chronicles of Narnia,the-chronicles-of-narnia,"The Lion, the Witch and the Wardrobe",en-gb,audio-book,stock,6594e9db-f45b-4b75-a360-ddfb7f4f5008,https://tonies.com/en-gb/book-tonies/the-chronicles-of-narnia/the-lion-the-witch-and-the-wardrobe/,1,0,0,0
 11003861,Mickey Mouse & Friends,disney-mickey-mouse-friends,Disney Plush Mickey Mouse,en-gb,audio-play,stock,790a0f49-be76-426b-93ed-fd9931dff0e5,https://tonies.com/en-gb/tonies/disney-mickey-mouse-friends/disney-plush-mickey-mouse/,1,0,0,0
 11003864,Frozen 2,disney-frozen-2,Disney Plush Olaf,en-gb,audio-play,stock,07f2de93-511d-4fc0-a4b0-3edaeff9bdbc,https://tonies.com/en-gb/tonies/disney-frozen-2/disney-plush-olaf/,1,0,0,0
+11003869,The Lion King,disney-the-lion-king,Disney Plush Simba,en-gb,audio-play,stock,e2e2f0ef-d030-4161-9876-aec5b43613a9,https://tonies.com/en-gb/tonies/disney-the-lion-king/disney-plush-simba/,1,0,0,0
 11003873,Winnie the Pooh,disney-winnie-the-pooh,Disney Plush Winnie,en-gb,audio-play,stock,a7344d38-3a4d-44e9-9b8a-c04a61e66024,https://tonies.com/en-gb/tonies/disney-winnie-the-pooh/disney-plush-winnie/,1,0,0,0
 11003877,Mickey Mouse & Friends,disney-mickey-mouse-friends,Disney Plush Minnie Mouse,en-gb,audio-play,stock,c63c39fa-bac6-4114-a0c6-753e00269b7a,https://tonies.com/en-gb/tonies/disney-mickey-mouse-friends/disney-plush-minnie-mouse/,1,0,0,0
+11003881,Lilo & Stitch,disney-lilo-stitch,Disney Plush Stitch,en-gb,audio-play,stock,791f2eda-a9fe-4ac6-81bb-86d9908fdbf8,https://tonies.com/en-gb/tonies/disney-lilo-stitch/disney-plush-stitch/,1,0,0,0
 box-en-gb-00-00000000,System sounds en-gb,system-en-gb,Jingle (Startup),en-gb,system,stock,,,1,1,1,0
 box-en-gb-00-00000001,System sounds en-gb,system-en-gb,,en-gb,system,stock,,,1,1,1,0
 box-en-gb-00-00000002,System sounds en-gb,system-en-gb,Tadum MhhMhhh,en-gb,system,stock,,,1,1,1,0
