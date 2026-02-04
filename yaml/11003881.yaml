@@ -1,0 +1,26 @@
+article: '11003881'
+lock-data: false
+data:
+- series: Lilo & Stitch
+  series-id: disney-lilo-stitch
+  episode: Disney Plush Stitch
+  release: 0
+  language: en-gb
+  category: audio-play
+  runtime: 30
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11003881_Transparent-h6PIJqgU.png
+  sample: https://cdn.tonies.de/o/audio_samples/eebb28f358eb1bb56989c199c8d75ab84f4af0a976cc68d15988f730/cuddletonie_stitch_audiosample.wav
+  web: https://tonies.com/en-gb/tonies/disney-lilo-stitch/disney-plush-stitch/
+  shop-id: 791f2eda-a9fe-4ac6-81bb-86d9908fdbf8
+  track-desc:
+  - 01. INTRO - Stitch Says Hello
+  - 02. STORY - Doggone It, Stitch!
+  - 03. INTERSTITIAL - Super-Mega Sandcastle Madness!
+  - 04. STORY - Go, Stitch, Go!
+  - 05. INTERSTITIAL - Silly Stitch!
+  - 06. STORY - Stitch Goes to the Beach
+  - 07. INTERSTITIAL - Stitch Tells His Story
+  - 08. SOUNDSCAPE - Stitch’s Soundscape
+  ids: []
