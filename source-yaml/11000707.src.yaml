@@ -2,17 +2,17 @@ article: '11000707'
 lock-data: false
 data:
 - series: tonies-json-de-de,fix-whitespace-title,
-  series-id: tonies-json-de-de,
+  series-id: ''
   episode: ''
   release: ''
   language: ''
   category: ''
   runtime: ''
-  age: ''
+  age: tonies-json-de-de,
   origin: ''
   image: ''
   sample: ''
-  web: tonies-json-de-de,
+  web: ''
   shop-id: ''
   track-desc: ''
   ids: []
