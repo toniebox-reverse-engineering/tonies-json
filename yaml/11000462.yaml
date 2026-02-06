@@ -26,6 +26,11 @@ data:
   - Eins nach dem anderen Kapitel 01
   - Eins nach dem anderen Kapitel 02
   ids:
+  - audio-id: 1770397513
+    hash: ca29e4ce068f697fc3adfda7d4b15cc8860dc09f
+    size: 42163583
+    tracks: 9
+    confidence: 2
   - audio-id: 1699484451
     hash: e41df6e5d93845239e55a63027a6e075079f7d55
     size: 42269097
