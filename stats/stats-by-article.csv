@@ -463,7 +463,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000550,Julia Donaldson,,Room on the Broom,en-us,Tonie,stock,6042920288407,,1,2,2,0
 10000551,The Pontypandy Pack,,Fireman Sam,en-us,Tonie,stock,8134366888087,,1,2,2,0
 10000553,Favorite Tales,,Rapunzel & Other Fairy Tales,en-us,Tonie,stock,5519419768983,,1,2,2,0
-10000554,Favorite Classics,,A Christmas Carol & Tales,en-us,Tonie,stock,5519710683287,,1,2,2,0
+10000554,Favorite Classics,,A Christmas Carol & Tales,en-us,Tonie,stock,5519710683287,,1,3,3,0
 10000555,Elmer & Friends Story Collection,,,en-us,Tonie,stock,6220876841111,,1,2,2,0
 10000556,Guess How Much I Love You,,,en-us,Tonie,stock,6462409015447,,1,1,1,0
 10000557,Favorite Children's Songs,,Animal Songs,en-us,Tonie,stock,7099440169111,,1,3,3,0
@@ -881,7 +881,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001372,Look Up!,nathan-bryon,Look Up! A Rocket Audio Collection,en-gb,audio-book,stock,0eb82432-0267-41ef-b4f6-a13d2e39bab1,https://tonies.com/en-gb/tonies/nathan-bryon/look-up-a-rocket-audio-collection/,1,0,0,0
 10001374,Hey Duggee,hey-duggee,Hey Duggee,en-gb,audio-play,stock,d7f53d5c-784c-481f-a15e-24971f06a191,https://tonies.com/en-gb/tonies/hey-duggee/hey-duggee/,1,2,2,0
 10001377,Lieblings-Märchen,lieblings-maerchen,Rapunzel (Neuauflage 2023),de-de,audio-play,stock,92595e81-6704-4bb4-b4f3-5af0b2fea623,https://tonies.com/de-de/tonies/lieblings-maerchen/rapunzel-neuauflage-2023/,1,1,0,0
-10001378,Schneewittchen und die sieben Zwerge,disney-snow-white-and-the-seven-dwarfs,Schneewittchen und die sieben Zwerge,de-de,audio-play-songs,stock,2c917a4e-081b-455c-9af0-58b4301a10ba,https://tonies.com/de-de/tonies/disney-schneewittchen-und-die-sieben-zwerge/disney-schneewittchen-und-die-sieben-zwerge-schneewittchen-und-die-sieben-zwerge-dach/,1,2,2,0
+10001378,Schneewittchen und die sieben Zwerge,disney-snow-white-and-the-seven-dwarfs,Schneewittchen und die sieben Zwerge,de-de,audio-play-songs,stock,2c917a4e-081b-455c-9af0-58b4301a10ba,https://tonies.com/de-de/tonies/disney-schneewittchen-und-die-sieben-zwerge/disney-schneewittchen-und-die-sieben-zwerge-schneewittchen-und-die-sieben-zwerge-dach/,1,3,3,0
 10001379,Der Regenbogenfisch,der-regenbogenfisch,Der Regenbogenfisch,de-de,audio-book-songs,stock,a14f69be-14f6-41a5-a4cf-c698570bacbf,https://tonies.com/de-de/tonies/der-regenbogenfisch/der-regenbogenfisch/,1,2,2,0
 10001386,Peter Rabbit,peter-rabbit,Jemima Puddleduck,en-gb,audio-book,stock,0b111820-d33f-49b2-aae1-f7cd0f479caa,https://tonies.com/en-gb/tonies/peter-rabbit/jemima-puddleduck/,1,1,1,0
 10001387,Horrible Histories,horrible-histories,Terrible Tudors,en-gb,audio-play,stock,a1afc11e-4028-43a8-983f-aeb0a83faede,https://tonies.com/en-gb/tonies/horrible-histories/terrible-tudors/,1,1,1,0
@@ -1054,7 +1054,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001998,Bibi Blocksberg,bibi-blocksberg,Die Junghexenbande,de-de,audio-play,stock,f286ee22-cf0c-480d-9a73-1c470d281ee9,https://tonies.com/de-de/tonies/bibi-blocksberg/junghexenbande/,1,1,1,0
 10002000,Karmas Welt,karm-worl-us,Karmas Welt,de-de,audio-play-songs,stock,f86cfd35-5809-4af6-800e-64fb0c3db67c,https://tonies.com/de-de/tonies/karmas-welt/karmas-welt/,1,1,0,0
 10002001,Worldwide Tales,,West African Tales,en-us,Tonie,stock,7907849568407,,1,2,2,0
-10002002,Adventskalender,adventskalender,Ein Fest für die Waldfreunde,de-de,audio-play,stock,52da5059-9853-48ce-86cc-4dea2d30ed2a,https://tonies.com/de-de/tonies/adventskalender/ein-fest-fur-die-waldfreunde/,1,32,32,0
+10002002,Adventskalender,adventskalender,Ein Fest für die Waldfreunde,de-de,audio-play,stock,52da5059-9853-48ce-86cc-4dea2d30ed2a,https://tonies.com/de-de/tonies/adventskalender/ein-fest-fur-die-waldfreunde/,1,33,33,0
 10002003,Lieblings-Märchen,lieblings-marchen,Der gestiefelte Kater (Neuauflage 2023),de-de,audio-book,stock,0ffc4b6f-6711-49fd-ad6e-c33281dd6de9,https://tonies.com/de-de/tonies/lieblings-maerchen/lieblingsmarchen-der-gestiefelte-kater-neuauflage-2023/,1,1,0,0
 10002008,"Billie, der Regenbogentiger",billie-der-regenbogentiger-2,"Billie, der Regenbogentiger",de-de,audio-play,stock,4dad6ba1-6f2a-4a03-965a-ac8eb8deb4a9,https://tonies.com/de-de/tonies/billie-der-regenbogentiger/billie-der-regenbogentiger/,1,1,1,0
 10002010,Lassie,lassie,Freunde fürs Leben,de-de,audio-play,stock,99d572a8-a52f-49e4-bd3c-48ca8d16c86b,https://tonies.com/de-de/tonies/lassie/lassie-freunde-furs-leben/,1,1,1,0
@@ -1118,7 +1118,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10002429,Collections,,Collection Ostern,de-de,audio-play-songs,stock,,,1,0,0,0
 10002570,tonies® x Steiff Jimmy Bear Plush,,,en-us,Tonie,stock,7580259451031,,1,1,0,0
 10002571,tonies® x Steiff Hoppie Rabbit Plush,,,en-us,Tonie,stock,7580257321111,,1,0,0,0
-11000173,Adventskalender,adventskalender,"Wünsch dir was, kleines Rentier - Adventskalender-Weihnachtshörspiel",de-de,audio-play,stock,c0361b0e-7333-4651-b052-ed50e23ad5e5,https://tonies.com/de-de/tonies/adventskalender/wuensch-dir-was-kleines-rentier-adventskalender-weihnachtshrspiel/,1,25,24,0
+11000173,Adventskalender,adventskalender,"Wünsch dir was, kleines Rentier - Adventskalender-Weihnachtshörspiel",de-de,audio-play,stock,c0361b0e-7333-4651-b052-ed50e23ad5e5,https://tonies.com/de-de/tonies/adventskalender/wuensch-dir-was-kleines-rentier-adventskalender-weihnachtshrspiel/,1,26,25,0
 11000174,Cocomelon,cocomelon,Getting Ready with JJ,en-gb,music,stock,eac46717-455f-40ac-b193-8ee7f12756be,https://tonies.com/en-gb/tonies/cocomelon/getting-ready-with-jj/,1,0,0,0
 11000175,CoComelon,,Getting Ready with JJ,en-us,Tonie,stock,7912829059223,,1,2,2,0
 11000177,Cocomelon,cocomelon,Outdoor Adventures with JJ,en-gb,music,stock,6ace88a8-9b66-46ce-8ada-73cec13118f7,https://tonies.com/en-gb/tonies/cocomelon/outdoor-adventures-with-jj/,1,0,0,0
@@ -1218,7 +1218,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000342,La Pat' Patrouille,la-pat-patrouille,Rocky,fr-fr,audio-play,stock,3371cd5e-4b84-4a37-a9b9-f84a1871091a,https://tonies.com/fr-fr/tonies/la-pat-patrouille/rocky/,1,0,0,0
 11000347,La Pat' Patrouille,paw-patrol,Rex,fr-fr,audio-play,stock,ec212d59-4bd0-4b74-948c-1f524cba415d,https://tonies.com/fr-fr/tonies/la-pat-patrouille/rex/,1,0,0,0
 11000348,La Pat' Patrouille,paw-patrol,Zuma,fr-fr,audio-play,stock,1cf1d8bc-e5df-481c-88a4-893b1e8dbe48,https://tonies.com/fr-fr/tonies/la-pat-patrouille/zuma/,1,0,0,0
-11000349,Calendrier De L'Avent,adventskalender,Le Petit Renne Qui Rêvait D'Avoir Des Ailes,fr-fr,audio-play,stock,ec6028d4-e0d4-4573-b61d-d9e47fe5d184,https://tonies.com/fr-fr/tonies/calendrier-de-l-avent/le-petit-renne-qui-revait-d-avoir-des-ailes/,1,3,3,0
+11000349,Calendrier De L'Avent,adventskalender,Le Petit Renne Qui Rêvait D'Avoir Des Ailes,fr-fr,audio-play,stock,ec6028d4-e0d4-4573-b61d-d9e47fe5d184,https://tonies.com/fr-fr/tonies/calendrier-de-l-avent/le-petit-renne-qui-revait-d-avoir-des-ailes/,1,4,4,0
 11000351,Winnie L'Ourson,disney-winnie-the-pooh,Tigrou,fr-fr,audio-play,stock,3b05b803-0274-496c-ae98-da53ba1f79f8,https://tonies.com/fr-fr/tonies/disney-winnie-lourson/tigrou/,1,0,0,0
 11000353,Masha Et Michka,mascha-und-der-bar,Michka,fr-fr,audio-play,stock,b006412f-f09d-4695-abca-b8562785ff2f,https://tonies.com/fr-fr/tonies/masha-et-michka/michka/,1,0,0,0
 11000355,La Journée De Léo,la-journee-de-leo,Mes Petits Rituels En Chansons,fr-fr,audio-play-songs,stock,4321ed79-2556-455e-8390-56acdefa08a8,https://tonies.com/fr-fr/tonies/la-journee-de-leo/mes-petits-rituels-en-chansons/,1,0,0,0
@@ -1260,7 +1260,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000458,Calm,,Calm,en-gb,,stock,d7d0d398-f289-47f3-acff-8e0cb0a47158,https://tonies.com/de-de///,1,0,0,0
 11000460,DC,dc,Batwheels,en-gb,audio-play,stock,f154cffc-351f-4b6e-a3fd-1054185ea6eb,https://tonies.com/en-gb/tonies/dc/batwheels/,1,1,1,0
 11000461,National Geographic Kids,,Ancient Egypt,en-us,Tonie,stock,9095581335703,,1,1,1,0
-11000462,MARVEL Spidey und seine Super-Freunde,marvel-spidey-and-his-amazing-friends,Spidey und seine Super-Freunde - Das Spidey Team & 3 weitere spannende Abenteuer,de-de,audio-play,stock,fb34e8ef-b3e2-4360-b8e2-da048a87df28,https://tonies.com/de-de/tonies/marvel-spidey-and-his-amazing-friends/marvel-spidey-und-seine-super-freunde-das-spidey-team-3-weitere-spannende-abenteuer/,1,1,1,0
+11000462,MARVEL Spidey und seine Super-Freunde,marvel-spidey-and-his-amazing-friends,Spidey und seine Super-Freunde - Das Spidey Team & 3 weitere spannende Abenteuer,de-de,audio-play,stock,fb34e8ef-b3e2-4360-b8e2-da048a87df28,https://tonies.com/de-de/tonies/marvel-spidey-and-his-amazing-friends/marvel-spidey-und-seine-super-freunde-das-spidey-team-3-weitere-spannende-abenteuer/,1,2,2,0
 11000465,MARVEL Spidey und seine Super-Freunde,marvel-spidey-and-his-amazing-friends,Spidey und seine Super-Freunde - Doc Ocks Superoktopus & 3 weitere spannende Abenteuer,de-de,audio-play,stock,d0fa8fcb-072f-480b-b41c-1faa2f1d93e3,https://tonies.com/de-de/tonies/marvel-spidey-and-his-amazing-friends/spidey-und-seine-super-freunde-doc-ocks-superoktopus-3-weitere-spannende-abenteuer/,1,1,1,0
 11000466,MARVEL Spidey und seine Super-Freunde,marvel-spidey-and-his-amazing-friends,Spidey und seine Super-Freunde - Kobzilla & 3 weitere spannende Abenteuer,de-de,audio-play,stock,2da830ca-4d8f-4c4a-b3cf-5d1ec5d299d4,https://tonies.com/de-de/tonies/marvel-spidey-and-his-amazing-friends/marvel-ghost-spider-dach/,1,1,1,0
 11000467,Milo,milo-2,Milo,en-gb,audio-play,stock,6bf176b2-713f-4e93-93d6-638079550586,https://tonies.com/en-gb/tonies/milo-2/milo/,1,1,1,0
@@ -1284,7 +1284,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000513,Sacha Danse Le Chachacha,sacha-dans-le-chachacha,Sacha,fr-fr,audio-play,stock,1f01dc51-c39e-48f0-8664-5d29b98e46bb,https://tonies.com/fr-fr/tonies/sacha-dans-le-chachacha/sacha/,1,0,0,0
 11000514,Timoté,timote,Je Grandis Avec Timoté,fr-fr,audio-book,stock,98d0c3f8-fad7-4079-aa91-00dabdadf6f1,https://tonies.com/fr-fr/tonies/timote/je-grandis-avec-timote/,1,1,1,0
 11000520,Wish,disney-wish,Wish,de-de,audio-play,stock,e15ddfd5-63e7-4f11-9e19-20ab0ffc5626,https://tonies.com/de-de/tonies/disney-wish/wish/,1,1,1,0
-11000521,Paddington Bear,paddington-bear,More About Paddington,en-gb,audio-book,stock,ea4e039f-2183-4206-ab08-82419b985748,https://tonies.com/en-gb/tonies/paddington-bear/more-about-paddington/,1,4,4,0
+11000521,Paddington Bear,paddington-bear,More About Paddington,en-gb,audio-book,stock,ea4e039f-2183-4206-ab08-82419b985748,https://tonies.com/en-gb/tonies/paddington-bear/more-about-paddington/,1,5,5,0
 11000522,In the Night Garden,in-the-night-garden,Bedtime with Upsy Daisy,en-gb,audio-play,stock,b7a1ae7f-1662-4251-a830-12d5ba0d7149,https://tonies.com/en-gb/tonies/in-the-night-garden/bedtime-with-upsy-daisy/,1,1,1,0
 11000523,Ten Little,ten-little,The Ten Little Collection,en-gb,audio-book,stock,e364be42-e2bf-449c-b18d-8a14079e0e6d,https://tonies.com/en-gb/tonies/ten-little/the-ten-little-collection/,1,1,1,0
 11000524,Kung Fu Panda,kung-fu-panda,Kung Fu Panda,en-gb,audio-play,stock,2642471f-420a-4c3f-82b0-7a2596666a04,https://tonies.com/en-gb/tonies/kung-fu-panda/kung-fu-panda/,1,1,1,0
@@ -1342,7 +1342,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000619,The Secret Garden,,,en-us,Tonie,stock,9409150124183,,1,0,0,0
 11000628,Petit Ours Brun,petit-ours-brun-2,Petit Ours Brun (Vol. 2),fr-fr,audio-book,stock,0de86d8f-849e-49d2-8eba-b20712eabd46,https://tonies.com/fr-fr/tonies/petit-ours-brun/petit-ours-brun-vol-2/,1,0,0,0
 11000629,Gus Le Chevalier Minus,gus,Gus,fr-fr,audio-play,stock,eaf4efc3-3b94-407d-bfb2-a04ba8f65803,https://tonies.com/fr-fr/tonies/gus/gus/,1,1,0,0
-11000631,Advent calendar,advent-calendar,The Little Reindeer's Christmas Wish,en-gb,audio-play,stock,2fbcc068-b538-478b-9081-cac9565e3df9,https://tonies.com/en-gb/tonies/advent-calendar/the-little-reindeers-christmas-wish/,1,5,5,0
+11000631,Advent calendar,advent-calendar,The Little Reindeer's Christmas Wish,en-gb,audio-play,stock,2fbcc068-b538-478b-9081-cac9565e3df9,https://tonies.com/en-gb/tonies/advent-calendar/the-little-reindeers-christmas-wish/,1,6,6,0
 11000639,Duck & Goose,,,en-us,Tonie,stock,8984950210711,,1,1,1,0
 11000645,PAW Patrol Jungle Pups,,Chase,en-us,Tonie,stock,8258466644119,,1,1,1,0
 11000646,PAW Patrol Jungle Pups,,Marshall,en-us,Tonie,stock,8258467790999,,1,1,1,0
@@ -1547,7 +1547,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11001608,David Walliams,david-walliams-2,The Blunders,en-gb,audio-book,stock,2d79d0fa-969a-4134-aeda-613b5e93a397,https://tonies.com/en-gb/book-tonies/david-walliams-2/the-blunders/,1,1,1,0
 11001609,Tom Fletcher,tom-fletcher,The Christmasaurus and the Winter Witch,en-gb,audio-book,stock,ae9b85d5-3b82-40af-aea8-5f46f996a20c,https://tonies.com/en-gb/book-tonies/tom-fletcher/the-christmasaurus-and-the-winter-witch/,1,1,1,0
 11001614,Enid Blyton,enid-blyton,Winter Stories,en-gb,audio-book,stock,abeb4e94-c5e2-40b7-a8c1-b23bece7fe77,https://tonies.com/en-gb/book-tonies/enid-blyton/winter-stories/,1,0,0,0
-11001621,Sleepy Penguin,,White Noise from the Ocean,en-us,Tonie,stock,8756368703639,,1,3,3,0
+11001621,Sleepy Penguin,,White Noise from the Ocean,en-us,Tonie,stock,8756368703639,,1,4,4,0
 11001622,Lichterkinder,lichterkinder-2,Lichterkinder Schlaflieder,de-de,music,stock,f53c6515-4a0a-44b8-bd3c-f795c6820750,https://tonies.com/de-de/tonies/lichterkinder/lumi-schlaflieder/,1,1,0,0
 11001623,Gabby's Dollhouse,gab-dollhouse-us,"Gabby, ich habe die Kätzchen geschrumpft! / Der Eisbär Pete",de-de,audio-play,stock,6f6731a6-ef02-4700-8434-9ad7e73ebfb6,https://tonies.com/de-de/tonies/gabby-s-dollhouse/mercat/,1,1,0,0
 11001625,Die Monster AG,disney-monsters-inc,Die Monster Uni,de-de,audio-play,stock,cbc643fd-cfce-4d42-8b6b-c99a004c0dfb,https://tonies.com/de-de/tonies/disney-die-monster-ag/die-monster-uni/,1,1,0,0
