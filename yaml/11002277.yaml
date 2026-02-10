@@ -11,7 +11,7 @@ data:
   age: 1
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11002277_1_a-0JSO4kTF.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/5593057c1f82c47129e7c5f2c900cc98765a22031183068b0e1e40ee/hoerprobe_11002277_cocomelon_spiel_un_spa_mit_jj.mp3
   web: https://tonies.com/de-de/tonies/cocomelon/spiel-und-spass-mit-jj/
   shop-id: c2c79729-cb7a-4bed-b53b-e824411c3795
   track-desc:

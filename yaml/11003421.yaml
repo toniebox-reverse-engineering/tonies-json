@@ -1,0 +1,38 @@
+article: '11003421'
+lock-data: false
+data:
+- series: Mes Comptines Préférées
+  series-id: lieblings-kinderlieder
+  episode: De La Maternelle
+  release: 0
+  language: fr-fr
+  category: music
+  runtime: 40
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51018329-Tonie_Shado-jibbW6gf.png
+  sample: https://cdn.tonies.de/o/audio_samples/e1899209ba57a9810668fab0acce52e0c503cde25dececf0f6e4c23e/sample_tonie_mcomp_maternelle.mp3
+  web: https://tonies.com/fr-fr/tonies/mes-comptines-preferees/de-la-maternelle/
+  shop-id: ad3cbc3c-e047-49ac-a45a-20dbf09fa373
+  track-desc:
+  - Maman les p'tits bateaux
+  - Une souris verte
+  - Promenons-nous dans les bois
+  - L'empereur, sa femme et le petit prince
+  - Pomme de reinette et pomme d'api
+  - La famille Tortue
+  - La mère Michel
+  - Au feu, les pompiers !
+  - ABCD
+  - L'araignée Gipsy
+  - Petit escargot
+  - Il pleut, il pleut, bergère
+  - Savez-vous planter les choux ?
+  - Ah les crocodiles
+  - Ainsi font, font, font...
+  - Mon âne
+  - Bonjour ma cousine
+  - Une poule sur un mur
+  - J'aime la galette
+  - J'ai un gros nez rouge
+  ids: []
