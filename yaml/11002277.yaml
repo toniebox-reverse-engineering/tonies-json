@@ -15,19 +15,18 @@ data:
   web: https://tonies.com/de-de/tonies/cocomelon/spiel-und-spass-mit-jj/
   shop-id: c2c79729-cb7a-4bed-b53b-e824411c3795
   track-desc:
-  - 1. Gleite, kleines Boot
-  - 2. Fünf kleine Frösche
-  - 3. John Jacob Jingleheimer Schmidt
-  - 4. Ein Seemann liebt das Meer so sehr
-  - 5. Das Gegenteil-Lied
-  - 6. Wir retten die Erde
-  - 7. Klingelilu
-  - 8. Codys Dino-Tag
-  - 9. Das Grimassen-Lied
-  - 10. Humpty Dumpty
-  - 11. Springt hin und her
-  - 12. Das Schleifen-Lied
-  - 13. Das Schluckauf-Lied
-  - 14. Das kleine Schweinchen
-  - 15. Übernachtung im Zelt
+  - 01 Gleite Kleines Boot
+  - 02 Fünf Kleine Frösche
+  - 03 John Jacob Jingleheimer Schmidt
+  - 04 Ein Seemann Liebt Das Meer So Sehr
+  - 06 Wir Retten Die Erde
+  - 07 Klingelilu
+  - 08 Codys Dino Tag
+  - 09 Das Grimassen Lied
+  - 10 Humpty Dumpty
+  - 11 Springt Hin Und Her
+  - 12 Das Schleifenlied
+  - 13 Das Schluckauf Lied
+  - 14 Das Kleine Schweinchen
+  - 15 Übernachtung Im Zelt
   ids: []
