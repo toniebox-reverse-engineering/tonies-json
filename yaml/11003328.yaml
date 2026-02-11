@@ -1,0 +1,28 @@
+article: '11003328'
+lock-data: false
+data:
+- series: Der Grüffelo
+  series-id: der-grueffelo
+  episode: Der Grüffelo & Das Grüffelokind (Relaunch 2026)
+  release: 1773187200
+  language: de-de
+  category: audio-play
+  runtime: 52
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/98_0090_the_gruffalo-Y8KfMs0b.png
+  sample: https://cdn.tonies.de/o/audio_samples/b3dcd2fd2243e9313c1cfa788ca9853ecb6e09ca9c0cb1b9044c9d92/gruffelo_horprobe.wav
+  web: https://tonies.com/de-de/tonies/der-grueffelo/der-grueffelo-das-grueffelokind-relaunch-2026/
+  shop-id: dafccb91-1e48-4a46-8704-58d26af2b8d5
+  track-desc:
+  - Der Grüffelo Pt1
+  - Der Grüffelo Pt2
+  - Der Grüffelo Pt3
+  - Der Grüffelo Pt4
+  - Der Grüffelo Pt5
+  - Das Grüffelokind Pt1
+  - Das Grüffelokind Pt2
+  - Das Grüffelokind Pt3
+  - Das Grüffelokind Pt4
+  - Das Grüffelokind Pt5
+  ids: []

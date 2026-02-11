@@ -1,0 +1,31 @@
+article: '11002278'
+lock-data: false
+data:
+- series: Cocomelon
+  series-id: cocomelon
+  episode: Mit JJ durch den Tag
+  release: 1773187200
+  language: de-de
+  category: music
+  runtime: 45
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11002278_1_a-btr3Gwjj.png
+  sample: null
+  web: https://tonies.com/de-de/tonies/cocomelon/cocomelon-mit-jj-durch-den-tag/
+  shop-id: 39afa3c2-45d0-4090-9b07-4c05701c788f
+  track-desc:
+  - Stelldichein
+  - Das heimliche Esslied
+  - Drei Kätzchen
+  - Regenkleidung
+  - Kuchenbacklied 2
+  - Das Händewaschlied
+  - Das Mittagslied
+  - Ruhezeit
+  - Musiklied
+  - Was mich glücklich macht
+  - Untersuchungslied
+  - Danke-und-Bitte-Lied
+  - Badelied
+  ids: []
