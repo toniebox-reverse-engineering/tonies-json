@@ -10,23 +10,23 @@ data:
   runtime: 78
   age: 3
   origin: stock
-  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/50004399-Tonie_Shado-C6_Qi9rV.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/10001374_Landscape_1-UzGgQy3t.jpg
   sample: https://cdn.tonies.de/o/audio_samples/d9a1ae758f7741e012b4979955fd7a581eb2f60e1abf88633987bb29/hey_duggee_sample.wav
   web: https://tonies.com/en-gb/tonies/hey-duggee/hey-duggee/
   shop-id: d7f53d5c-784c-481f-a15e-24971f06a191
   track-desc:
-  - Opening Credits
-  - 'STORY: The Big Day Out Badge'
-  - 'STORY: The Tooth Brushing Badge Ft The Toothbrushing Song'
-  - 'STORY: The Glasses Badge'
-  - 'STORY: The Dancing Bug Badge'
-  - 'STORY: The Duck Badge'
-  - 'STORY: The Stick Badge Ft The Stick Song'
-  - 'STORY: The Fashion Badge'
-  - 'STORY: The Island Badge'
-  - 'STORY: The Football Badge'
-  - 'STORY: The Colour Badge'
-  - Closing Credits
+  - 01. INTRO
+  - 02. STORY - The Big Day Out Badge
+  - 03. STORY - The Tooth Brushing Badge Ft The Toothbrushing Song
+  - 04. STORY - The Glasses Badge
+  - 05. STORY - The Dancing Bug Badge
+  - 06. STORY - The Duck Badge
+  - 07. STORY - The Stick Badge Ft The Stick Song
+  - 08. STORY - The Fashion Badge
+  - 09. STORY - The Island Badge
+  - 10. STORY -  The Football Badge
+  - 11. STORY - The Colour Badge
+  - 12. End Credits
   ids:
   - audio-id: 1747300880
     hash: 65d2f1c2a25939d4ab120fd8016ec6659273cc9a

@@ -10,15 +10,15 @@ data:
   runtime: 65
   age: 3
   origin: stock
-  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000273-50001635-b--3vVCvuHA.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/10000273_Landscape_1-dHKB4rZ9.jpg
   sample: https://cdn.tonies.de/o/audio_samples/6c252e3dff661de3ff85a21c5498e7006d1d482fafbf12c4ff0a69a4/audio_sample_peter_rabbit_ext.mp3
   web: https://tonies.com/en-gb/tonies/peter-rabbit/the-peter-rabbit-collection/
   shop-id: 92b11bf7-5357-430b-bd4c-df794c197263
   track-desc:
-  - The Tale of Peter Rabbit™️
-  - The Tale of Benjamin Bunny™️
-  - The Tale of Mr. Tod™️
-  - The Tale of The Flopsy Bunnies™️
+  - 01. STORY - The Tale of Peter Rabbit™️
+  - 02. STORY - The Tale of Benjamin Bunny™️
+  - 03. STORY - The Tale of Mr. Tod™️
+  - 04. STORY - The Tale of The Flopsy Bunnies™️
   ids:
   - audio-id: 1611154008
     hash: efe4ddef42d7ad8d9673217633d77b712beee31d
