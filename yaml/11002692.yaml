@@ -29,4 +29,9 @@ data:
   - Klatschnasser Regenspielspaß - Teil 1
   - Klatschnasser Regenspielspaß - Teil 2
   - Lied "Es Regnet"
-  ids: []
+  ids:
+  - audio-id: 1758261449
+    hash: 4b6a019b9b9a9586bd88762228ad6f36c4e00fe0
+    size: 38640097
+    tracks: 14
+    confidence: 0
