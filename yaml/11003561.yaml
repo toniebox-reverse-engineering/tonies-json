@@ -1,0 +1,33 @@
+article: '11003561'
+lock-data: false
+data:
+- series: Bauernhof Set
+  series-id: bauernhof-set
+  episode: My First Tonies - Bauernhof Set
+  release: 0
+  language: de-de
+  category: audio-play-songs
+  runtime: 36
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11003561_5_a-2QhysTL8.png
+  sample: https://cdn.tonies.de/o/audio_samples/c0b4c369888d8ba18bfc7771089c919e8e3030479c7bc854c8117125/my_first_farm_set_kuh_audio_sample.wav
+  web: https://tonies.com/de-de/my-first-tonies/bauernhof-set/my-first-tonies-bauernhof-set/
+  shop-id: 5b736d98-5255-44e7-bba2-870d4646e8c8
+  track-desc:
+  - Schwein - Geräusch & Lied
+  - Schwein - Hörst du das Schwein?
+  - Schwein - Zehn kleine Ferkel
+  - Schwein - Schweinchen im Matsch (Klanglandschaft & Musik)
+  - Schwein - Outro
+  - Kuh - Geräusch & Lied
+  - Kuh - Hörst du die Kuh?
+  - Kuh - Eine Kuh macht laut Muh!
+  - Kuh - Kühe auf der Weide (Klanglandschaft & Musik)
+  - Kuh - Outro
+  - Pferd - Geräusch & Lied
+  - Pferd - Hörst du das Pferd?
+  - Pferd - Mama Pferd und ihr Fohlen
+  - Pferd - Pferde auf der Wiese (Klanglandschaft & Musik)
+  - Pferd - Outro
+  ids: []

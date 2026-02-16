@@ -1,0 +1,33 @@
+article: '11003539'
+lock-data: false
+data:
+- series: Reise Set
+  series-id: travel-set
+  episode: My First Tonies - Reise Set
+  release: 1770768000
+  language: de-de
+  category: audio-play-songs
+  runtime: 36
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11003539_5_a-HJ-ngSIl.png
+  sample: https://cdn.tonies.de/o/audio_samples/5aa5797a800a5c4e56188c0e2113102d3f80ffc5ffc8f01cbfeb2cc4/my_first_tonies_reise_set_zug_audio_sample.wav
+  web: https://tonies.com/de-de/my-first-tonies/reise-set/my-first-tonies-reise-set/
+  shop-id: e94f37dd-d796-4cb5-ac07-7f1dceec6b97
+  track-desc:
+  - Schiff - Geräusch & Lied
+  - Schiff - Hörst du das Schiff?
+  - Schiff - Seemannslied
+  - Schiff - Auf dem Meer (Klanglandschaft & Musik)
+  - Schiff - Outro
+  - Flugzeug - Geräusch & Lied
+  - Flugzeug - Hörst du das kleine Flugzeug?
+  - Flugzeug - Das ist das kleine Flugzeug Freddy
+  - Flugzeug - Über den Wolken (Klanglandschaft & Musik)
+  - Flugzeug - Outro
+  - Zug - Geräusch & Lied
+  - Zug - Hörst du den Zug?
+  - Zug - Hallo, kleiner Löwenzahn!
+  - Zug - Quer durchs Land (Klanglandschaft & Musik)
+  - Zug - Outro
+  ids: []
