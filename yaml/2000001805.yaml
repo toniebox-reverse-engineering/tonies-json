@@ -1,0 +1,58 @@
+article: '2000001805'
+lock-data: false
+data:
+- series: Heidi - Die neue Serie
+  series-id: heidi-die-neue-serie
+  episode: Freunde für immer (CGI)
+  release: 1771286400
+  language: de-de
+  category: audio-play
+  runtime: 3832
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_5bdbaa1a819af6ab6e2c9a08f6b37ac3802a297a3ec69133a3a6cc78/3_gDgMH~43rL~.zLqw/heidi_die_neue_serie_002_freunde_fur_immer__530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/heidi-die-neue-serie/heidi-freunde-fur-immer-cgi/
+  shop-id: 995501d6-3c9e-43f3-9ffa-371c2e03db30
+  track-desc:
+  - Heidi (Titelsong)
+  - Heidi rettet ein Vögelchen (Teil 01)
+  - Heidi rettet ein Vögelchen (Teil 02)
+  - Heidi rettet ein Vögelchen (Teil 03)
+  - Heidi rettet ein Vögelchen (Teil 04)
+  - Heidi rettet ein Vögelchen (Teil 05)
+  - Heidi rettet ein Vögelchen (Teil 06)
+  - Heidi rettet ein Vögelchen (Teil 07)
+  - Heidi rettet ein Vögelchen (Teil 08)
+  - Heidi rettet ein Vögelchen (Teil 09)
+  - Heidi rettet ein Vögelchen (Teil 10)
+  - Heidi rettet ein Vögelchen (Teil 11)
+  - Heidi rettet ein Vögelchen (Teil 12)
+  - Heidi rettet ein Vögelchen (Teil 13)
+  - Freunde für immer (Teil 01)
+  - Freunde für immer (Teil 02)
+  - Freunde für immer (Teil 03)
+  - Freunde für immer (Teil 04)
+  - Freunde für immer (Teil 05)
+  - Freunde für immer (Teil 06)
+  - Freunde für immer (Teil 07)
+  - Freunde für immer (Teil 08)
+  - Freunde für immer (Teil 09)
+  - Freunde für immer (Teil 10)
+  - Freunde für immer (Teil 11)
+  - Freunde für immer (Teil 12)
+  - Freunde für immer (Teil 13)
+  - Heidi läuft weg (Teil 01)
+  - Heidi läuft weg (Teil 02)
+  - Heidi läuft weg (Teil 03)
+  - Heidi läuft weg (Teil 04)
+  - Heidi läuft weg (Teil 05)
+  - Heidi läuft weg (Teil 06)
+  - Heidi läuft weg (Teil 07)
+  - Heidi läuft weg (Teil 08)
+  - Heidi läuft weg (Teil 09)
+  - Heidi läuft weg (Teil 10)
+  - Heidi läuft weg (Teil 11)
+  - Heidi läuft weg (Teil 12)
+  - Heidi läuft weg (Teil 13)
+  ids: []
