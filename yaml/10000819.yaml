@@ -3,18 +3,37 @@ lock-data: false
 data:
 - series: Laurie Berkner
   series-id: null
-  episode: null
+  episode: Laurie Berkner
   release: 1671575124
   language: en-us
   category: Tonie
-  runtime: 0
-  age: 99
+  runtime: 51
+  age: 3
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Laurie-Berkner-10000819-PLPTB2MainImageTransparent.png?v=1771258707
-  sample: null
-  web: null
+  sample: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Laurie_Berkner_Audio_Clip.mp3
+  web: https://us.tonies.com/products/laurie-berkner-tonie
   shop-id: '7815911571607'
-  track-desc: []
+  track-desc:
+  - 'When I Woke Up Today'
+  - 'Victor Vito'
+  - 'Chipmunk At The Gas Pump'
+  - 'Bumblebee Buzz Buzz'
+  - 'Waiting For The Elevator'
+  - 'We Are The Dinosaurs'
+  - 'Drive My Car'
+  - 'The Goldfish'
+  - 'Monster Boogie'
+  - 'Look At All The Letters'
+  - 'I Know A Chicken'
+  - 'This Mountain'
+  - 'I am Gonna Catch You'
+  - 'One Seed'
+  - 'Rocketship Run'
+  - 'Pig On Her Head'
+  - 'My Family'
+  - 'Moon Moon Moon'
+  - 'Listen To The Sounds'
   ids:
   - audio-id: 1671183271
     hash: d2e234406b7bcb7ef9979e10ca44cbcde271e1ac
