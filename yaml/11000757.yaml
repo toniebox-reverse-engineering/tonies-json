@@ -3,18 +3,42 @@ lock-data: false
 data:
 - series: Doggyland
   series-id: null
-  episode: null
+  episode: Doggyland
   release: 1717088762
   language: en-us
   category: Tonie
-  runtime: 0
-  age: 99
+  runtime: 43
+  age: 3
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Doggyland-11000757-PLPTB2MainImageTransparent.png?v=1771258655
-  sample: null
-  web: null
+  sample: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Doggyland_Audio_Sample.mp3
+  web: https://us.tonies.com/products/doggyland-tonie
   shop-id: '8236933742743'
-  track-desc: []
+  track-desc:
+  - 'Affirmations'
+  - 'Wheels on the Bus'
+  - 'Please and Thank You'
+  - 'ABC Song'
+  - 'Everybody is Different'
+  - 'If You are Happy and You Know It'
+  - 'Scrub A Dub Dub'
+  - '5 Little Puppies'
+  - 'Humpty Dumpty'
+  - 'Eat Your Veggies'
+  - 'I Love Nature'
+  - 'Sharing is Caring'
+  - '7 Days Of The Week'
+  - 'Bah Bah Black Sheep'
+  - 'Rain Rain Go Away'
+  - 'Clean Up Song'
+  - 'Bully Song'
+  - 'We Have 5 Senses'
+  - 'Head Shoulders Knees and Toes'
+  - 'Pizza Time'
+  - 'I Am Me'
+  - 'Are You Sleeping?'
+  - 'Space Dreamers'
+  - 'Twinkle Twinkle'
   ids:
   - audio-id: 1717677602
     hash: 6f232989a2bbc23ce6e1b93d9a6799ec668e76a5
