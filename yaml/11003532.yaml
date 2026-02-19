@@ -1,7 +1,7 @@
 article: '11003532'
 lock-data: false
 data:
-- series: Science Museum
+- series: Discovery Crew
   series-id: science-museum
   episode: 'Science Museum: Discovery Crew'
   release: 1770940800
@@ -10,13 +10,13 @@ data:
   runtime: 101
   age: 5
   origin: stock
-  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11003532_Landscape_3-J-nF8jCm.jpg
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11003532_Landscape_1-TsQ0MyRc.jpg
   sample: https://cdn.tonies.de/o/audio_samples/42253f0ca723dbb6456e0d8dc448e1c25c880f42b8342ca18848099c/science_museum_discovery_crew_sample.wav
   web: https://tonies.com/en-gb/clever-tonies/science-museum/science-museum-discovery-crew/
   shop-id: 41ee409e-f6ea-48b6-b9b6-1216c45461e8
   track-desc:
-  - Exploring Space
-  - Medicine
-  - nformation Age
-  - Wonder Lab
+  - STORY - Exploring Space
+  - STORY - Medicine
+  - STORY - Information Age
+  - STORY - Wonder Lab
   ids: []
