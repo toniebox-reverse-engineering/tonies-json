@@ -27,7 +27,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000028,The Three Question Marks,,The Realm of Riddles,en-gb,Audiobook,stock,,,1,1,1,0
 10000029,The Three ???,,Night among Wolves,en-gb,audio-book,stock,,,1,1,1,0
 10000030,The Ballalloes,,Duel by Flood Light,en-gb,audio-play,stock,,,1,1,1,0
-10000031,Creative-Tonie,,Princess,en-gb,creative-tonie,stock,,,1,0,0,0
+10000031,Creative-Tonie,,Princess,en-gb,creative-tonie,stock,b2d66e36-975c-48ca-8383-3aff91b4961b,https://tonies.com/en-gb/creative-tonies/creative-tonie-princess/,1,0,0,0
 10000032,Creative-Tonie,,Pirate,en-gb,creative-tonie,stock,7ab7e407-b666-4e42-bfc8-6376d0a20553,https://tonies.com/de-de///,1,0,0,0
 10000033,Creative-Tonie,,Mermaid,en-gb,creative-tonie,stock,df8d5da2-5d91-4594-9472-1c65bc3c34e7,https://tonies.com/de-de///,1,0,0,0
 10000034,Creative-Tonie,,Spooky,en-gb,creative-tonie,stock,3149a2e9-2ba7-42d6-9837-503128c28c6a,https://tonies.com/de-de///,1,0,0,0
@@ -196,6 +196,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001309,Olaf's Frozen Adventure,disney-olafs-frozen-adventure,Olaf's Frozen Adventure,en-gb,audio-play-songs,stock,399905e2-2513-45ff-959e-e0a955021b8e,https://tonies.com/en-gb/tonies/disney-olafs-frozen-adventure/olafs-frozen-adventure/,1,0,0,0
 10001310,National Geographic Kids,national-geographic-kids,Horse,en-gb,audio-play,stock,43b50845-bb90-4599-9b18-12592e17f313,https://tonies.com/en-gb/tonies/national-geographic-kids/horse-uk/,1,0,0,0
 10001311,Sleepy Friends,sleepy-friends,Lullaby Melodies with Sleepy Sheep,en-gb,audio-book,stock,0b7755cc-cd79-4a82-aabc-5aa90927b773,https://tonies.com/en-gb/tonies/sleepy-friends/lullaby-melodies-with-sleepy-sheep/,1,0,0,0
+10001312,Favourite Tales,favourite-tales,Pride Tales,en-gb,audio-play-songs,stock,f6065a08-8be5-4ec7-8e1a-2fe632483d84,https://tonies.com/en-gb/tonies/favourite-tales/pride-tales/,1,1,1,0
 10001313,Marvel,marvel-2,Spidey & His Amazing Friends: Spidey,en-gb,audio-play-songs,stock,a3707d68-5477-472d-b2ce-d3b34a208697,https://tonies.com/en-gb/tonies/marvel/spidey-his-amazing-friends-spidey/,1,0,0,0
 10001314,Roald Dahl,roald-dahl,Matilda,en-gb,audio-book,stock,dfaa869e-bb74-460d-a034-aab4ca9e1539,https://tonies.com/en-gb/tonies/roald-dahl/matilda/,1,0,0,0
 10001315,Giraffes Can't Dance,giraffes-can-t-dance,Giraffes Can't Dance,en-gb,audio-book,stock,78f480fc-db15-4718-a3a1-b424a70f4c3c,https://tonies.com/en-gb/tonies/giraffes-can-t-dance/giraffes-cant-dance/,1,3,3,0
