@@ -38,4 +38,9 @@ data:
   - Swipers Überraschungsparty – Kapitel 04
   - Swipers Überraschungsparty – Kapitel 05
   - Swipers Überraschungsparty – Kapitel 06
-  ids: []
+  ids:
+  - audio-id: 1761646619
+    hash: 42eb49c9cecb7646bf6f0dbcc89a2bd95cd0526b
+    size: 49991274
+    tracks: 23
+    confidence: 0
