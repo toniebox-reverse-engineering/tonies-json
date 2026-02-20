@@ -3,18 +3,32 @@ lock-data: false
 data:
 - series: KidNation
   series-id: null
-  episode: null
+  episode: KidNation
   release: 1735588425
   language: en-us
   category: Tonie
-  runtime: 0
-  age: 99
+  runtime: 47
+  age: 5
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/KidNation-11000746-PLPTB2MainImageTransparent.png?v=1771258709
-  sample: null
-  web: null
+  sample: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/KidNation_Audio_Sample_2.mp3
+  web: https://us.tonies.com/products/kidnation-tonie
   shop-id: '8623912353943'
-  track-desc: []
+  track-desc:
+  - 'Limbo'
+  - 'HSKT'
+  - 'H2O'
+  - 'Stay in Shape'
+  - 'Good Friends'
+  - 'Love You'
+  - 'Colors'
+  - 'Science'
+  - 'Playground'
+  - 'Young CEO'
+  - 'Butterflies'
+  - 'I in Team'
+  - 'Sign My Name'
+  - 'Love Yourself'
   ids:
   - audio-id: 1733862861
     hash: 21b0199cc69a8af573b0da5d43d47ed6aba9d8a6

@@ -2,19 +2,50 @@ article: '11000203'
 lock-data: false
 data:
 - series: Favorite Children's Songs
-  series-id: null
+  series-id: favorite-childrens-songs-bugs-tonie
   episode: Bugs!
   release: 1714565863
   language: en-us
   category: Tonie
-  runtime: 0
-  age: 99
+  runtime: 60
+  age: 1
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Bugs_-11000203-PLPTB2MainImageTransparent.png?v=1771258688
-  sample: null
-  web: null
+  sample: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Bugs_sample.mp3
+  web: https://us.tonies.com/products/favorite-childrens-songs-bugs-tonie
   shop-id: '8220603252887'
-  track-desc: []
+  track-desc: 
+  - Bizzy
+  - Buzz Like a Honeybee
+  - Queen Bee
+  - Dragonfly Dash
+  - More Than Meets the Eye
+  - Mandy the Praying Mantis
+  - Master of Disguise
+  - Ten Sunflower Fields to Go
+  - Billy Beetle
+  - So Many Kinds of Beetles
+  - Bye Bye Beetle!
+  - Ladybug Luck
+  - Gary Grasshopper
+  - The Grasshopper Hop
+  - Polly Roly Poly
+  - I'm a Tiny Gardener
+  - March to the Ants
+  - The Ants Go Marching
+  - Uh Oh! Wrong Way
+  - Stick Bug Stevie
+  - Can Blend Into Bark
+  - Five Tall Cherry Trees
+  - Ernie Earthworm
+  - Squirm Like an Earthworm
+  - Yellow Flowered Trees
+  - Stink Bug Stanky
+  - What's That Smell?
+  - Arachnid Annie
+  - Follow the Butterflies
+  - Monica the Monarch Butterfly
+  - The Waggle Dance
   ids: 
   - audio-id: 1715014357
     hash: d4e8c2973b135474b7ec02156641d2dd7c33ec2a

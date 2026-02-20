@@ -1,4 +1,4 @@
-article: '11003544'
+article: '10000031'
 lock-data: false
 data:
 - series: ''
@@ -6,13 +6,13 @@ data:
   episode: ''
   release: ''
   language: ''
-  category: ''
+  category: fix-creative-cat-by-web,fix-creative-lang,
   runtime: ''
   age: ''
   origin: ''
   image: ''
   sample: ''
-  web: ''
-  shop-id: ''
-  track-desc: tonies-json-de-de,
+  web: tonies-shopapi-en-gb,,
+  shop-id: tonies-shopapi-en-gb,,
+  track-desc: ''
   ids: []
