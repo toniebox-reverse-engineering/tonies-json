@@ -2,19 +2,20 @@ article: '10000748'
 lock-data: false
 data:
 - series: Nap Time
-  series-id: null
+  series-id: nap-time-white-noise-tonie
   episode: White Noise
   release: 1611089590
   language: en-us
   category: Tonie
-  runtime: 0
-  age: 99
+  runtime: 120
+  age: 3
   origin: stock
-  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/White-Noise-10000748-PLPTB2MainImageTransparent.png?v=1771258678
-  sample: null
-  web: null
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/White-Noise-10000748-TB2Hero2.png?v=1771258678
+  sample: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/White_Noise_US_Snippet1_01.mp3
+  web: https://us.tonies.com/products/nap-time-white-noise-tonie
   shop-id: '6220652150935'
-  track-desc: []
+  track-desc: 
+  - White Noise
   ids:
   - audio-id: 1609250613
     hash: d6f218b54883ede9a6007a9e8f40607716cb4a56
