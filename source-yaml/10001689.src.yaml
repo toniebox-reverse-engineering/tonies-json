@@ -3,12 +3,12 @@ lock-data: false
 data:
 - series: ''
   series-id: ''
-  episode: tonies-json-de-de,
+  episode: ''
   release: ''
   language: ''
   category: ''
   runtime: ''
-  age: ''
+  age: tonies-json-de-de,
   origin: ''
   image: ''
   sample: ''
