@@ -10,11 +10,11 @@ data:
   runtime: 60
   age: 1
   origin: stock
-  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Bugs_-11000203-PLPTB2MainImageTransparent.png?v=1771258688
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Bugs_-11000203-PLPTB2MainImageTransparent.png?v=1772034064
   sample: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Bugs_sample.mp3
   web: https://us.tonies.com/products/favorite-childrens-songs-bugs-tonie
   shop-id: '8220603252887'
-  track-desc: 
+  track-desc:
   - Bizzy
   - Buzz Like a Honeybee
   - Queen Bee
@@ -46,7 +46,7 @@ data:
   - Follow the Butterflies
   - Monica the Monarch Butterfly
   - The Waggle Dance
-  ids: 
+  ids:
   - audio-id: 1715014357
     hash: d4e8c2973b135474b7ec02156641d2dd7c33ec2a
     size: 47369205
