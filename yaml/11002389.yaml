@@ -2,7 +2,7 @@ article: '11002389'
 lock-data: false
 data:
 - series: Les Copains Du Dodo
-  series-id: les-copains-du-dodo
+  series-id: sleepy-friends
   episode: Doudou Croco
   release: 1772064000
   language: fr-fr
@@ -11,7 +11,7 @@ data:
   age: 1
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51009993-Tonie_Shado-uLO_nnZQ.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/1f0c0bd2c2b862ca7b10593f2cbc7419a2d678cb2a8a8c0cb115a11b/11002389_00_doudou_croco_extrait.mp3
   web: https://tonies.com/fr-fr/tonies/les-copains-du-dodo/doudou-croco/
   shop-id: a8f8b904-e4d8-4e4a-90e5-c95bee8b0a1b
   track-desc:
