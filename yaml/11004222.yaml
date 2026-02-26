@@ -1,0 +1,22 @@
+article: '11004222'
+lock-data: false
+data:
+- series: Winnie L'Ourson
+  series-id: disney-winnie-lourson
+  episode: Porcinet
+  release: 1772064000
+  language: fr-fr
+  category: audio-play-songs
+  runtime: 43
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51003330-Tonie_Shado-09VxVrZc.png
+  sample: https://cdn.tonies.de/o/audio_samples/c0614f2a638af3b3d9dbe4738b49cbfc79c7d21a66725181fea63d02/01_pigletsbigmovie_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/disney-winnie-lourson/porcinet/
+  shop-id: f33605d8-64b5-4801-ab6f-edfb450907e9
+  track-desc:
+  - Les aventures de Porcinet - le film
+  - Si j'étais moins petit (chanson)
+  - Chantons avec Winnie l'Ourson
+  - Deux trois bons amis (chanson)
+  ids: []

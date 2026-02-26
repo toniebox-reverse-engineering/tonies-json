@@ -1,0 +1,25 @@
+article: '11002389'
+lock-data: false
+data:
+- series: Les Copains Du Dodo
+  series-id: les-copains-du-dodo
+  episode: Doudou Croco
+  release: 1772064000
+  language: fr-fr
+  category: audio-play
+  runtime: 40
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51009993-Tonie_Shado-uLO_nnZQ.png
+  sample: null
+  web: https://tonies.com/fr-fr/tonies/les-copains-du-dodo/doudou-croco/
+  shop-id: a8f8b904-e4d8-4e4a-90e5-c95bee8b0a1b
+  track-desc:
+  - Introduction
+  - Chanson du dodo
+  - Doudou Croco n'arrive pas à s'endormir
+  - Au calme sous la cascade
+  - Construire une grotte du dodo
+  - L'endroit le plus silencieux du monde
+  - Dors bien, Doudou Croco
+  ids: []

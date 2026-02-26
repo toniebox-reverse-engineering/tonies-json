@@ -1,0 +1,19 @@
+article: '11003894'
+lock-data: false
+data:
+- series: Les Copains Du Dodo
+  series-id: les-copains-du-dodo
+  episode: Tonie-Veilleuse - Doudou Croco
+  release: 1772064000
+  language: fr-fr
+  category: music
+  runtime: 75
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/NL_CrocSleepy_Front_-imOGABS-.png
+  sample: null
+  web: https://tonies.com/fr-fr/tonies/les-copains-du-dodo/tonie-veilleuse-doudou-croco/
+  shop-id: 2ac2f019-3990-4dcf-bbad-23c0b467d4c0
+  track-desc:
+  - Doudou Croco dans la jungle enchantée (pistes 1 à 7)
+  ids: []
