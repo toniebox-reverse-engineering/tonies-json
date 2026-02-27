@@ -1,0 +1,25 @@
+article: '11003506'
+lock-data: false
+data:
+- series: Peppa Pig
+  series-id: peppa-pig-2
+  episode: La Nouvelle Petite Sœur
+  release: 1772409600
+  language: fr-fr
+  category: audio-play-songs
+  runtime: 45
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51010322-Tonie_Shado-l9dB6Gbp.png
+  sample: https://cdn.tonies.de/o/audio_samples/add3fc9ce984bebdcec66c0f6633f40d5e3849d6938b73df41952099/peppa_pig_la_nouvelle_petite_soeur_extrait_mp3.mp3
+  web: https://tonies.com/fr-fr/tonies/peppa-pig/la-nouvelle-petite-soeur/
+  shop-id: 2bb3f5fe-3d9d-471b-9c3b-3e1c63b4bb00
+  track-desc:
+  - La grande nouvelle
+  - La couverture en patchwork
+  - La leçon des grands frères et grandes sœurs
+  - Le nouveau bébé
+  - Un prénom pour bébé
+  - Tenir bébé dans ses bras
+  - Un petit moment avec maman
+  ids: []
