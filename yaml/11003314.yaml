@@ -1,0 +1,25 @@
+article: '11003314'
+lock-data: false
+data:
+- series: Peppa Pig
+  series-id: peppa-pig
+  episode: 'Peppa Pig: The New Baby (UK)'
+  release: 1773964800
+  language: en-gb
+  category: audio-book
+  runtime: 50
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11003314_Transparent-a2gvixXW.png
+  sample: https://cdn.tonies.de/o/audio_samples/4c7e896f46bc963f0d61f7a3502f83b424141dd5f4484442a02f9aff/peppa_baby_sample.wav
+  web: https://tonies.com/en-gb/tonies/peppa-pig/the-new-baby/
+  shop-id: 7c9f8a91-16b8-4f42-9b8a-82fa92110bee
+  track-desc:
+  - 01. STORY - The Big Announcement
+  - 02. STORY - Patchwork Quilt
+  - 03. STORY - Sibling School
+  - 04. STORY - New Baby
+  - 05. STORY - Baby Names
+  - 06. STORY - Holding the Baby
+  - 07. STORY - Mummy Time (Bonus!)
+  ids: []

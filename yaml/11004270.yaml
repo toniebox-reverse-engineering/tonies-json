@@ -1,0 +1,26 @@
+article: '11004270'
+lock-data: false
+data:
+- series: Lottie Brooks
+  series-id: lottie-brooks
+  episode: Lottie Brooks - The Extremely Embarrassing Life of Lottie Brooks (Book
+    1)
+  release: 1773964800
+  language: en-gb
+  category: audio-book
+  runtime: 313
+  age: 7
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11004270_Landscape_1-MfQG1PUC.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/f16b997992f2c25c5188bbd7a722efba62493dc143290466e1799df2/the_extremely_embarrassing_life_of_lottie_brooks_sample.wav
+  web: https://tonies.com/en-gb/book-tonies/lottie-brooks/the-extremely-embarrassing-life-of-lottie-brooks-book-1/
+  shop-id: 5ed03409-8179-4581-83a6-f6904d25dd64
+  track-desc:
+  - 01_STORY_Wednesday 11th August
+  - 02_STORY_Sunday 22nd August
+  - 03_STORY_Sunday 5th September
+  - 04_STORY_Saturday 25th September
+  - 05_STORY_Monday 25th October
+  - 06_STORY_Saturday 20th November
+  - 07_STORY_Saturday 18th December
+  ids: []

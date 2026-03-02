@@ -1,0 +1,41 @@
+article: '11002527'
+lock-data: false
+data:
+- series: The Wiggles
+  series-id: the-wiggles
+  episode: 'The Wiggles: Dorothy Dinosaur'
+  release: 1773964800
+  language: en-gb
+  category: audio-play-songs
+  runtime: 41
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/51009219_Transparent-3pasmbK0.png
+  sample: https://cdn.tonies.de/o/audio_samples/612677bef56f16b6da1e1d44b47a15fe0b408a8752cc7601a0692701/dorothy_sample_intro_song_amended.wav
+  web: https://tonies.com/en-gb/tonies/the-wiggles/the-wiggles/
+  shop-id: a1b86ec0-4ca3-454e-be4e-afcd9f1bfbb8
+  track-desc:
+  - 00. INTRO - Hello from Dorothy
+  - 01. SONG - Dorothy the Dinosaur
+  - 02. SONG - Hot Potato
+  - 03. SONG - Do the Propeller!
+  - 04. SONG - Dance the Ooby Doo
+  - 05. SONG - The Monkey Dance
+  - 06. SONG - Hokey Pokey
+  - 07. SONG - Bouncing Balls
+  - 08. SONG - Banananana
+  - 09. SONG - Dippy Do Dinosaur Dance
+  - 10. SONG - Do the Wiggle Groove
+  - 11. SONG - Swim Like A Fish
+  - 12. SONG - Can You (Point Your Fingers and Do the Twist)?
+  - 13. SONG - Do the Skeleton Scat!
+  - 14. SONG - Friends of Dorothy The Dinosaur
+  - 15. SONG - Get Ready To Wiggle
+  - 16. SONG - Fruit Salad
+  - 17. SONG - D.O.R.O.T.H.Y. (My Favourite Dinosaur)
+  - 18. SONG - Ring a Ring a Rosie
+  - 19. SONG - Dr Knickerbocker
+  - 20. SONG - Say the Dance, Do the Dance!
+  - 21. SONG - Ready, Steady, Wiggle!
+  - 22. SONG - Romp Bomp a Stomp
+  ids: []

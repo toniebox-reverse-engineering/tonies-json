@@ -1,0 +1,26 @@
+article: '11002765'
+lock-data: false
+data:
+- series: Postman Pat
+  series-id: postman-pat-uk
+  episode: Postman Pat
+  release: 1773964800
+  language: en-gb
+  category: audio-play
+  runtime: 60
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/SKU_Transparent-bEFHhOv9.png
+  sample: null
+  web: https://tonies.com/en-gb/tonies/postman-pat-uk/postman-pat/
+  shop-id: a32c86d9-baf5-42fd-ac37-b4ddd59fb8e8
+  track-desc:
+  - 01. STORY - The Greendale Rocket feat. 'The Greendale Rocket' Song
+  - 02. INTERSTITIAL
+  - 03. STORY - Tricky Transport Day
+  - 04. INTERSTITIAL
+  - 05. STORY - Pat's Clifftop Adventure
+  - 06. INTERSTITIAL
+  - 07. STORY - Big Bob Bell
+  - 08. OUTRO
+  ids: []

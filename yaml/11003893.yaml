@@ -1,0 +1,25 @@
+article: '11003893'
+lock-data: false
+data:
+- series: Sleepy Friends
+  series-id: sleepy-friends
+  episode: Sleepy Crocodile Night Light (UK)
+  release: 1773360000
+  language: en-gb
+  category: audio-play
+  runtime: 75
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11003893_Clean_PNG_7-vgKy9HwL.png
+  sample: null
+  web: https://tonies.com/en-gb/tonies/sleepy-friends/sleepy-crocodile-night-light-uk/
+  shop-id: 1c5c5c88-f791-4bad-a53b-f2c2d74b5b94
+  track-desc:
+  - 01. SOUNDSCAPE - Sleepy Crocodile Night Light
+  - 02. SOUNDSCAPE - Sleepy Crocodile Night Light
+  - 03. SOUNDSCAPE - Sleepy Crocodile Night Light
+  - 04. SOUNDSCAPE - Sleepy Crocodile Night Light
+  - 05. SOUNDSCAPE - Sleepy Crocodile Night Light
+  - 06. SOUNDSCAPE - Sleepy Crocodile Night Light
+  - 07. SOUNDSCAPE - Sleepy Crocodile Night Light
+  ids: []
