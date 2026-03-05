@@ -1,0 +1,38 @@
+article: '2000011674'
+lock-data: false
+data:
+- series: Mes Comptines Préférées
+  series-id: mes-comptines-preferees
+  episode: Pour s'endormir
+  release: 1772668800
+  language: fr-fr
+  category: music
+  runtime: 2323
+  age: 1
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_8b6926013dadb5957545d6a1e45395df713d09f768a0b509e364db43/3_.BgvGhVc0ws~t3RL/favourite_children_s_songs_pour_s_endormir_530x530.jpg
+  sample: null
+  web: https://tonies.com/fr-fr/tonie-librairie/mes-comptines-preferees/pour-sendormir-digital/
+  shop-id: f9fe0c4e-8547-4d67-8876-c9892cf66908
+  track-desc:
+  - Au clair de la lune
+  - Fais dodo, Colas mon petit frère
+  - Doucement, doucement
+  - Meunier, tu dors
+  - Dodo, l'enfant do
+  - À la claire fontaine
+  - Passe la dormette
+  - Frère Jacques
+  - Bonsoir madame la lune
+  - La poule sur le toit
+  - Dors mon p'tit Quinquin
+  - Bateau sur l'eau
+  - Une petite poule grise
+  - Dodo goutte d'eau
+  - C'est la cloche du vieux manoir
+  - Jean de la lune
+  - Je fais le tour de la maison
+  - Fais dodo mon petit Pierrot
+  - Un petit grain d'or
+  - Brille, brille, petite étoile
+  ids: []
