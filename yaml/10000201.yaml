@@ -7,14 +7,19 @@ data:
   release: 1580947200
   language: en-gb
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 90
+  age: 3
   origin: stock
   image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000201-50000815-b-m4Xp_n3x.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/5e5a9d76cf2aca908d88ee82f709718394860c755578d1c555c72d23/audio_sample_fc_robinson_crusoe_ext.mp3
+  web: https://tonies.com/en-gb/tonies/robinson-crusoe-and-other-classic-stories/
+  shop-id: d5c5c4a5-8767-45b7-8cac-7349e4e6f600
+  track-desc:
+  - Daniel Defoe - Robinson Crusoe
+  - Aladdin
+  - Jules Verne - Around the World in 80 Days
+  - Frances Hodgson Burnett - The Secret Garden
+  - Marc Twain - Tom Sawyer
   ids:
   - audio-id: 1579698897
     hash: 376b1dbc9a5f0db0033c95bd9e3af3df915d7328
