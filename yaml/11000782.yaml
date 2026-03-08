@@ -15,6 +15,7 @@ data:
   web: https://tonies.com/en-gb/clever-tonies/today-with-tonies/today-with-tonies/
   shop-id: a742a774-63b0-450f-8303-6552b3c99bc9
   track-desc:
+  - Sunday 8th March
   - Saturday 7th March
   - Friday 6th March
   - Thursday 5th March
@@ -28,7 +29,6 @@ data:
   - Wednesday 25th February
   - Tuesday 24th February
   - Monday 23rd February
-  - Sunday 22nd February
   - Today With Tonies Jingle
   ids:
   - audio-id: 1772841912
