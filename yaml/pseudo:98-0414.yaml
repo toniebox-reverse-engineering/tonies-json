@@ -1,0 +1,23 @@
+article: pseudo:98-0414
+lock-data: false
+data:
+- series: null
+  series-id: null
+  episode: null
+  release: 0
+  language: null
+  category: null
+  runtime: 0
+  age: 99
+  origin: null
+  image: null
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1501087019
+    hash: 26ad7a48b7d153d1ceda753af25e38833db340df
+    size: 1378709
+    tracks: 2
+    confidence: 1

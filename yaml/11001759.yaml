@@ -21,4 +21,9 @@ data:
   - 'STORY: Up And Down'
   - 'STORY: Where To Hide A Star'
   - 'STORY: Bonus Bedtime Story'
-  ids: []
+  ids:
+  - audio-id: 1767704919
+    hash: 4b4dd3b623a85572ad87a0bc58d71cb21a893f0a
+    size: 39092840
+    tracks: 6
+    confidence: 1
