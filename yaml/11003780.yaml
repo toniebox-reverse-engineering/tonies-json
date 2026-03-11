@@ -19,4 +19,9 @@ data:
   - Die Sarsaparillafalle
   - Der Außerschlumpfige
   - Wer Ist Heftiger
-  ids: []
+  ids:
+  - audio-id: 1769682546
+    hash: c10dd16597ca5e0771ad5081892b4c55ff1c4cf5
+    size: 40967071
+    tracks: 4
+    confidence: 1
