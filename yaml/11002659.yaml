@@ -1,0 +1,29 @@
+article: '11002659'
+lock-data: false
+data:
+- series: KLE!NE EXPERTEN
+  series-id: klene-experten
+  episode: KLE!NE EXPERTEN schweben mit Astronauten
+  release: 1775606400
+  language: de-de
+  category: audio-play
+  runtime: 50
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11002659_1_a-CCaDwgW9.png
+  sample: https://cdn.tonies.de/o/audio_samples/1fca9634fa5f50a0ca4c83c5e4c70ff49a203aa1be24defa284e06ca/kleine_experten_astronauten_horprobe.wav
+  web: https://tonies.com/de-de/tonies/klene-experten/kleine-experten-schweben-mit-astronauten/
+  shop-id: 188ba500-a9f6-4f53-9f56-c96c91ada689
+  track-desc:
+  - Titelsong
+  - Der Flug ins All 1
+  - Der Flug ins All 2
+  - Der Flug ins All 3
+  - Der Flug ins All 4
+  - Der Flug ins All 5
+  - Die Raumstation 1
+  - Die Raumstation 2
+  - Die Raumstation 3
+  - Die Raumstation 4
+  - Die Raumstation 5
+  ids: []

@@ -1,0 +1,33 @@
+article: '11004564'
+lock-data: false
+data:
+- series: GROßE EXPERTEN
+  series-id: grosse-experten
+  episode: Das alte Ägypten
+  release: 1775606400
+  language: de-de
+  category: audio-play
+  runtime: 50
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11004564_2_a-uxig7y8K.png
+  sample: https://cdn.tonies.de/o/audio_samples/3be1e37d393c47540fdeb5892ebb32b0f7a96a47de48de712e9e7157/horprobe_agypten.wav
+  web: https://tonies.com/de-de/clever-tonies/grosse-experten/grosse-experten-das-alte-aegypten/
+  shop-id: cf33f116-3361-49da-99d0-cde0efeccc54
+  track-desc:
+  - Titelsong
+  - Am Ufer des Nils 1
+  - Am Ufer des Nils 2
+  - Am Ufer des Nils 3
+  - Am Ufer des Nils 4
+  - Am Ufer des Nils 5
+  - Am Ufer des Nils 6
+  - Im Palast des Pharao 1
+  - Im Palast des Pharao 2
+  - Im Palast des Pharao 3
+  - Im Palast des Pharao 4
+  - Im Palast des Pharao 5
+  - Im Palast des Pharao 6
+  - Im Palast des Pharao 7
+  - Im Palast des Pharao 8
+  ids: []
