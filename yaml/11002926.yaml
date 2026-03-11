@@ -21,4 +21,9 @@ data:
   - 'Kapitel 04: Oben'
   - 'Kapitel 05: Oben'
   - 'Kapitel 06: Oben'
-  ids: []
+  ids: 
+  - audio-id: 1767088343
+    hash: 5392ea435f35e1de01de2790d24d14cfd28fb495
+    size: 43717241
+    tracks: 6
+    confidence: 0
