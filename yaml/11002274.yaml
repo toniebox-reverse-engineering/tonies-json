@@ -3,7 +3,7 @@ lock-data: false
 data:
 - series: Lieblings-Kinderlieder
   series-id: lieblings-kinderlieder
-  episode: Kindergartenlieder
+  episode: Kindergartenlieder (Neuauflage 2026)
   release: 1767744000
   language: de-de
   category: music
@@ -39,4 +39,9 @@ data:
   - Es war eine Mutter
   - Happy Birthday
   - Alle Leut
-  ids: []
+  ids: 
+  - audio-id: 1756976291
+    hash: 7243a96990ab2229eed6c7e90ef357fa13ad417d
+    size: 40710593
+    tracks: 25
+    confidence: 0
