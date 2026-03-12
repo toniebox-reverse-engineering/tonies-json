@@ -1,16 +1,16 @@
 article: pseudo:98-0414
 lock-data: false
 data:
-- series: null
+- series: DEMO TONIE
   series-id: null
-  episode: null
+  episode: DEMO TONIE
   release: 0
-  language: null
-  category: null
+  language: de-de
+  category: DEMO TONIE
   runtime: 0
   age: 99
-  origin: null
-  image: null
+  origin: stock
+  image: ''
   sample: null
   web: null
   shop-id: null
