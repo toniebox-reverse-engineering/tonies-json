@@ -1,5 +1,4 @@
 article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,id-sets,id-sets-confidence,auth-sets
-01-0000,Geschichten vom Löwen,,"Die Geschichte vom Löwen, der nicht schreiben konnte",de-de,Hörspiele & Hörbücher,stock,,,1,1,1,0
 01-0001,Janosch,janosch,"Oh, wie schön ist Panama",de-de,audio-play,stock,eb5b755b-aae7-4415-8cef-7c8888198376,https://tonies.com/de-de/tonies/janosch/oh-wie-schoen-ist-panama/,1,1,1,0
 01-0002,Die Olchis,die-olchis,Die Olchis auf Geburtstagsreise,de-de,audio-play,stock,0e8d4e89-5225-41c1-a9ae-b86ba791c950,https://tonies.com/de-de/tonies/die-olchis/die-olchis-auf-geburtstagsreise/,1,1,1,0
 01-0003,Die Olchis,die-olchis,Die Olchis und der schwarze Pirat,de-de,audio-play,stock,55e5b220-aa7c-4ca7-b070-5dce7fbce71d,https://tonies.com/de-de/tonies/die-olchis/die-olchis-und-der-schwarze-pirat/,1,1,1,0
@@ -147,12 +146,12 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 01-0198,Der kleine Hui Buh,der-kleine-hui-buh,Der blubbernde Brotteig/Alarm in der Geheimzentrale,de-de,audio-play,stock,b2fef832-3016-4cc0-8258-3f66e3f20eac,https://tonies.com/de-de/tonies/der-kleine-hui-buh/der-blubbernde-brotteig/,1,1,1,0
 01-0199,Gorilla Club,,1-2-3-4!,de-de,music,stock,,,1,1,1,0
 01-0200,Feuerwehrmann Sam,feuerwehrmann-sam,In Pontypandy ist was los,de-de,audio-play,stock,532274c0-b87a-4a2f-9dd2-6c17c679741e,https://tonies.com/de-de/tonies/feuerwehrmann-sam/in-pontypandy-ist-was-los/,1,3,1,0
+03-1000,Geschichten vom Löwen,,"Die Geschichte vom Löwen, der nicht schreiben konnte",de-de,Hörspiele & Hörbücher,stock,,,1,1,1,0
 05-0001,Die Playmos,die-playmos,Der Schatz der Teufelsinsel,de-de,audio-play,stock,f06fe243-7428-4c09-9ae7-a3eb61c8513a,https://tonies.com/de-de/tonies/die-playmos/der-schatz-der-teufelsinsel/,1,1,1,0
 05-0002,Die Playmos,die-playmos,Das Turnier auf der Königsritterburg,de-de,audio-play,stock,5b52d2c7-0a25-4167-bf93-7eb57470fd6d,https://tonies.com/de-de/tonies/die-playmos/das-turnier-auf-der-koenigsritterburg/,1,1,1,0
 05-0003,Die Playmos,die-playmos,Der Ball im Prinzessinnen-Schloss,de-de,audio-play,stock,029df098-bb7f-4683-b10f-4cdbefe3885b,https://tonies.com/de-de/tonies/die-playmos/der-ball-im-prinzessinnen-schloss/,1,1,1,0
 05-0004,Die Playmos,die-playmos,Licht aus dem Drachenland,de-de,audio-play,stock,63df6c0a-5f79-4f32-baa4-2ef9922868ff,https://tonies.com/de-de/tonies/die-playmos/licht-aus-dem-drachenland/,1,1,1,0
 05-0005,Die Playmos,die-playmos,Großbrand in der Feuerwache,de-de,audio-play,stock,496b1803-66cb-45cc-842b-b04c5e33af59,https://tonies.com/de-de/tonies/die-playmos/grossbrand-in-der-feuerwache/,1,1,1,0
-09-0101,DEMO TONIE,,DEMO TONIE,de-de,DEMO TONIE,stock,,,1,1,1,0
 10-0001,Minimusiker,,Weihnachtslieder,de-de,Musik,stock,,,1,2,1,0
 10000027,Die drei ??? Kids Englisch,,Soccer Mania (Englische Version),de-de,audio-play,stock,,,1,1,1,0
 10000119,Disney,disney,Aladdin,de-de,audio-play-songs,stock,6dd72d92-b865-4bed-b49a-4537138876a5,https://tonies.com/de-de/tonies/disney/aladdin/,1,1,1,0
@@ -322,7 +321,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000933,PAW Patrol,paw-patrol,Marshall - Schneller als die Feuerwehr,de-de,audio-play,stock,0da87958-2460-4b46-8958-0a35a0a09ad6,https://tonies.com/de-de/tonies/paw-patrol/schneller-als-die-feuerwehr/,1,1,1,0
 10000989,Disney,disney,Cars 2,de-de,audio-play,stock,bfc34250-a35a-4ccd-a42c-c99775e3714c,https://tonies.com/de-de/tonies/disney/cars-2/,1,1,1,0
 10000990,Lieblings-Kinderlieder,lieblings-kinderlieder,Jahreszeitenlieder,de-de,music,stock,79bce9e0-8dc8-4e45-b046-afa22033ff84,https://tonies.com/de-de/tonies/lieblings-kinderlieder/jahreszeitenlieder/,1,2,1,0
-10000991,Disney,disney,Toy Story 2,de-de,audio-play,stock,8222b0f3-31bf-4a31-9619-6a716a1b9c2b,https://tonies.com/de-de/tonies/disney/toy-story-2/,1,2,1,0
+10000991,Disney,disney,Toy Story 2,de-de,audio-play,stock,8222b0f3-31bf-4a31-9619-6a716a1b9c2b,https://tonies.com/de-de/tonies/disney/toy-story-2/,1,1,0,0
 10000992,Schlummerbande,sleepy-friends,Schlummerschaf - Einschlafmelodien aus dem Zauberwald,de-de,music,stock,6e520ab0-9ebb-4c73-bf0d-7633d935d37a,https://tonies.com/de-de/tonies/schlummerbande/einschlafmelodien-schlummerschaf-im-zauberwald/,1,2,2,0
 10000993,PAW Patrol,paw-patrol,Der Delfin-Freund,de-de,audio-play,stock,65972121-405a-4060-a99b-56a2511db3c5,https://tonies.com/de-de/tonies/paw-patrol/der-delfin-freund/,1,1,1,0
 10000994,Lotta,lotta,"Na klar, Lotta kann Rad fahren und zwei weitere Geschichten",de-de,audio-book,stock,162a9bb1-38f5-4bbe-8f5a-758d88eb7ed0,https://tonies.com/de-de/tonies/lotta/na-klar-lotta-kann-radfahren-lotta-zieht-um/,1,1,1,0
@@ -387,7 +386,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001691,Caillou,caillou,Sternschnuppen und weitere Geschichten,de-de,audio-play,stock,821d2e7c-7df6-4d70-96ef-09f2cdc2d189,https://tonies.com/de-de/tonies/caillou/sternschnuppen-und-weitere-geschichten/,1,1,1,0
 10001693,Rolf Zuckowski,rolf-zuckowski,Rolfs Hasengeschichte,de-de,audio-book-songs,stock,60f9f424-d22f-438c-9b30-2cc87f3a71e7,https://tonies.com/de-de/tonies/rolf-zuckowski/rolfs-hasengeschichte/,1,1,1,0
 10001708,Lilo & Stitch,disney-lilo-stitch,Lilo & Stitch,de-de,audio-play,stock,45e2b9ff-f3fe-4fb7-a83e-c9a261047a88,https://tonies.com/de-de/tonies/disney-lilo-stitch/lilo-stitch/,1,1,1,0
-10001721,Lieblings-Kinderlieder,lieblings-kinderlieder,Zähllieder (Neuauflage 2023),de-de,music,stock,29d55713-bf65-4996-8b27-693505ef6085,https://tonies.com/de-de/tonies/lieblings-kinderlieder/zhllieder-neuauflage-2023/,1,2,1,0
+10001721,Lieblings-Kinderlieder,lieblings-kinderlieder,Zähllieder (Neuauflage 2023),de-de,music,stock,29d55713-bf65-4996-8b27-693505ef6085,https://tonies.com/de-de/tonies/lieblings-kinderlieder/zhllieder-neuauflage-2023/,1,1,0,0
 10001722,Miraculous,miraculous,Der Betrüger / Der Valentinstag,de-de,audio-play,stock,f8f55746-b079-41b7-b872-30979711e4f5,https://tonies.com/de-de/tonies/miraculous/der-betrger-der-valentinstag/,1,1,1,0
 10001898,Lieblings-Kinderlieder,lieblings-kinderlieder,Reiselieder (Neuauflage 2023),de-de,music,stock,8449c928-c879-4ac3-b320-aa1c258cc607,https://tonies.com/de-de/tonies/lieblings-kinderlieder/reiselieder-neuauflage-2023/,1,1,1,0
 10001921,Die Geggis,das-kleine-ich-bin-ich-die-geggis,Das kleine Ich bin Ich/Die Geggis,de-de,audio-book,stock,9528c83a-d524-46a8-8bf5-bfbb54e2ce84,https://tonies.com/de-de/tonies/das-kleine-ich-bin-ich-die-geggis/das-kleine-ich-bin-ich-die-geggis-dach/,1,1,1,0
@@ -627,3 +626,4 @@ box-de-de-01-00000007,System sounds de-de,system-de-de,Offlinemodus an,de-de,sys
 box-de-de-01-00000008,System sounds de-de,system-de-de,Offlinemodus aus,de-de,system,stock,,,1,1,1,0
 box-de-de-01-0000000A,System sounds de-de,system-de-de,Koalabär,de-de,system,stock,,,1,1,1,0
 box-de-de-01-00000011,System sounds de-de,system-de-de,Schildkröte,de-de,system,stock,,,1,1,1,0
+pseudo:98-0414,DEMO TONIE,,DEMO TONIE,de-de,DEMO TONIE,stock,,,1,1,1,0

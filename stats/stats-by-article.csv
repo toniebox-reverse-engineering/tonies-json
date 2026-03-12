@@ -1,7 +1,6 @@
 article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,id-sets,id-sets-confidence,auth-sets
 ,Coming Soon,,,en-us,Tonie,stock,8250222477463,,1,0,0,0
 00000000,Coming Soon Tonie 1,,,en-us,Tonie,stock,8250222477463,,1,0,0,0
-01-0000,Geschichten vom Löwen,,"Die Geschichte vom Löwen, der nicht schreiben konnte",de-de,Hörspiele & Hörbücher,stock,,,1,1,1,0
 01-0001,Janosch,janosch,"Oh, wie schön ist Panama",de-de,audio-play,stock,eb5b755b-aae7-4415-8cef-7c8888198376,https://tonies.com/de-de/tonies/janosch/oh-wie-schoen-ist-panama/,1,1,1,0
 01-0002,Die Olchis,die-olchis,Die Olchis auf Geburtstagsreise,de-de,audio-play,stock,0e8d4e89-5225-41c1-a9ae-b86ba791c950,https://tonies.com/de-de/tonies/die-olchis/die-olchis-auf-geburtstagsreise/,1,1,1,0
 01-0003,Die Olchis,die-olchis,Die Olchis und der schwarze Pirat,de-de,audio-play,stock,55e5b220-aa7c-4ca7-b070-5dce7fbce71d,https://tonies.com/de-de/tonies/die-olchis/die-olchis-und-der-schwarze-pirat/,1,1,1,0
@@ -178,7 +177,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 02-0033,Kreativ-Tonie,,Superheld,de-de,creative-tonie,stock,,,1,1,0,0
 02-0034,Kreativ-Tonie,,Superheldin,de-de,creative-tonie,stock,4da40a50-dbb4-4683-bda3-ad023f7825bb,https://tonies.com/de-de/kreativ-tonies/kreativ-tonie-superheld-maedchen/,1,1,0,0
 02-0036,Kreativ-Tonie,,Blanko,de-de,creative-tonie,stock,,,1,1,0,0
-03-1000,,,,,,,,,1,1,1,0
+03-1000,Geschichten vom Löwen,,"Die Geschichte vom Löwen, der nicht schreiben konnte",de-de,Hörspiele & Hörbücher,stock,,,1,1,1,0
 05-0001,Die Playmos,die-playmos,Der Schatz der Teufelsinsel,de-de,audio-play,stock,f06fe243-7428-4c09-9ae7-a3eb61c8513a,https://tonies.com/de-de/tonies/die-playmos/der-schatz-der-teufelsinsel/,1,1,1,0
 05-0002,Die Playmos,die-playmos,Das Turnier auf der Königsritterburg,de-de,audio-play,stock,5b52d2c7-0a25-4167-bf93-7eb57470fd6d,https://tonies.com/de-de/tonies/die-playmos/das-turnier-auf-der-koenigsritterburg/,1,1,1,0
 05-0003,Die Playmos,die-playmos,Der Ball im Prinzessinnen-Schloss,de-de,audio-play,stock,029df098-bb7f-4683-b10f-4cdbefe3885b,https://tonies.com/de-de/tonies/die-playmos/der-ball-im-prinzessinnen-schloss/,1,1,1,0
@@ -195,7 +194,6 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 09-0009,Creative-Tonie,,Purple White with Star (Starter Set),en-us,creative-tonie,stock,,,1,0,0,0
 09-0010,Creative-Tonie,,Purple Brown with Star (Starter Set),en-us,creative-tonie,stock,,,1,1,0,0
 09-0011,Creative-Tonie,,Purple Black with Star (Starter Set),en-us,creative-tonie,stock,,,1,1,0,0
-09-0101,DEMO TONIE,,DEMO TONIE,de-de,DEMO TONIE,stock,,,1,1,1,0
 10-0001,Minimusiker,,Weihnachtslieder,de-de,Musik,stock,,,1,2,1,0
 10000001,Julia Donaldson,julia-donaldson,The Gruffalo,en-gb,audio-play,stock,f16007bb-7600-4676-8221-6e2270d5c797,https://tonies.com/en-gb/tonies/julia-donaldson/the-gruffalo/,1,1,1,0
 10000002,Julia Donaldson,julia-donaldson,The Gruffalo's Child,en-gb,audio-book,stock,7d54abc7-2d64-4a3a-85fd-a33d862577c5,https://tonies.com/en-gb/tonies/julia-donaldson/the-gruffalos-child/,1,0,0,0
@@ -216,7 +214,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000017,Cars,disney-cars,Cars,en-gb,audio-play-songs,stock,d64ecced-3227-4768-bdc6-7638967241af,https://tonies.com/en-gb/tonies/disney-cars/cars/,1,0,0,0
 10000018,The Little Mermaid,disney-the-little-mermaid,The Little Mermaid,en-gb,audio-play-songs,stock,0cf4f3f5-0479-4834-a8e7-83a2041bc065,https://tonies.com/en-gb/tonies/disney-the-little-mermaid/the-little-mermaid/,1,1,0,0
 10000020,The Lion King,disney-the-lion-king,The Lion King,en-gb,audio-play-songs,stock,a28f7907-a83b-499e-8e34-189f271609f4,https://tonies.com/en-gb/tonies/disney-the-lion-king/the-lion-king/,1,2,0,0
-10000021,Hully Boo Spook'n Spell,,How Hully Boo got his rattling chain / Halloween at Palace Primary,en-gb,audio-play,stock,,,1,2,2,0
+10000021,Hully Boo Spook'n Spell,,How Hully Boo got his rattling chain / Halloween at Palace Primary,en-gb,audio-play,stock,,,1,1,1,0
 10000022,Hully Boo Spook'n Spell,,Treasure hunt in the Museum / The Magic Championships,en-gb,audio-play,stock,,,1,1,1,0
 10000023,The Fox Pack,,Mystery in the Garden/Tracks of a Giant,en-gb,audio-play,stock,,,1,1,1,0
 10000024,The Gnats,,Here come the Gnats!,en-gb,Audiobook,stock,,,1,1,1,0
@@ -543,7 +541,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000682,Barbie,barbie,Barbie Princess Adventure,en-gb,audio-play-songs,stock,5163f836-5ae7-4be8-8c7c-ff23b4b7ab31,https://tonies.com/en-gb/tonies/barbie/princess-adventure/,1,1,1,0
 10000683,Disney,disney,Mickys total verrücktes Fußballspiel,de-de,audio-play,stock,20e5d9e4-840b-4ef9-84d0-93754e67075a,https://tonies.com/de-de/tonies/disney/mickys-total-verruecktes-fussballspiel/,1,1,1,0
 10000684,Toy Story,toy-story-2,Toy Story 2,en-gb,audio-play-songs,stock,488322c0-650a-4d10-8d59-3640fdaef953,https://tonies.com/en-gb/tonies/disney-toy-story/toy-story-2/,1,0,0,0
-10000685,Disney,,and Pixar Toy Story 2: Buzz Lightyear,en-us,Tonie,stock,7223047848087,,1,1,1,0
+10000685,Disney,,and Pixar Toy Story 2: Buzz Lightyear,en-us,Tonie,stock,7223047848087,,1,0,0,0
 10000686,Disney,disney,Rapunzel – Neu verföhnt,de-de,audio-play,stock,c3cb8810-56aa-42ee-8dbb-8ec61bf5bc9a,https://tonies.com/de-de/tonies/disney/rapunzel/,1,1,1,0
 10000687,Disney,disney,Küss den Frosch,de-de,audio-play,stock,16ad2b9b-6fbd-44d0-92c3-ad6a230d2070,https://tonies.com/de-de/tonies/disney/kss-den-frosch/,1,1,1,0
 10000688,Disney,disney,The Princess and the Frog,en-gb,audio-play-songs,stock,c14bced7-de8e-4192-a51b-792747a3ea80,https://tonies.com/en-gb/tonies/disney/the-princess-and-the-frog/,1,0,0,0
@@ -712,7 +710,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000984,Creative-Tonie,,Pink (dark brown),en-gb,creative-tonie,stock,547fdbd2-6596-4a48-9497-f371b98608f9,https://tonies.com/de-de///,1,0,0,0
 10000989,Disney,disney,Cars 2,de-de,audio-play,stock,bfc34250-a35a-4ccd-a42c-c99775e3714c,https://tonies.com/de-de/tonies/disney/cars-2/,1,1,1,0
 10000990,Lieblings-Kinderlieder,lieblings-kinderlieder,Jahreszeitenlieder,de-de,music,stock,79bce9e0-8dc8-4e45-b046-afa22033ff84,https://tonies.com/de-de/tonies/lieblings-kinderlieder/jahreszeitenlieder/,1,2,1,0
-10000991,Disney,disney,Toy Story 2,de-de,audio-play,stock,8222b0f3-31bf-4a31-9619-6a716a1b9c2b,https://tonies.com/de-de/tonies/disney/toy-story-2/,1,2,1,0
+10000991,Disney,disney,Toy Story 2,de-de,audio-play,stock,8222b0f3-31bf-4a31-9619-6a716a1b9c2b,https://tonies.com/de-de/tonies/disney/toy-story-2/,1,1,0,0
 10000992,Schlummerbande,sleepy-friends,Schlummerschaf - Einschlafmelodien aus dem Zauberwald,de-de,music,stock,6e520ab0-9ebb-4c73-bf0d-7633d935d37a,https://tonies.com/de-de/tonies/schlummerbande/einschlafmelodien-schlummerschaf-im-zauberwald/,1,2,2,0
 10000993,PAW Patrol,paw-patrol,Der Delfin-Freund,de-de,audio-play,stock,65972121-405a-4060-a99b-56a2511db3c5,https://tonies.com/de-de/tonies/paw-patrol/der-delfin-freund/,1,1,1,0
 10000994,Lotta,lotta,"Na klar, Lotta kann Rad fahren und zwei weitere Geschichten",de-de,audio-book,stock,162a9bb1-38f5-4bbe-8f5a-758d88eb7ed0,https://tonies.com/de-de/tonies/lotta/na-klar-lotta-kann-radfahren-lotta-zieht-um/,1,1,1,0
@@ -871,7 +869,6 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001344,DC,,Wonder Woman,en-us,Tonie,stock,8032004931735,,1,1,1,0
 10001345,Sleepy Sheep,,Lullabies From the Sleepy Meadow,en-us,Tonie,stock,7912828469399,,1,2,2,0
 10001349,Les Copains Du Dodo,sleepy-friends,Doudou Mouton,fr-fr,music,stock,ce11f0b3-a483-4c3f-8117-2cf11d231b74,https://tonies.com/fr-fr/tonies/les-copains-du-dodo/doudou-mouton/,1,1,0,0
-10001352,,,,,,stock,,,1,1,1,0
 10001357,Didier Jeunesse,didier-jeunesse,Écoute Et Devine Les Instruments,fr-fr,music,stock,243cd003-f378-4fe1-8c3e-b1f4ef7a0628,https://tonies.com/fr-fr/tonies/didier-jeunesse/ecoute-et-devine-les-instruments/,1,1,1,0
 10001358,Disney,,The Nightmare Before Christmas,en-us,Tonie,stock,8985752076439,,1,3,3,0
 10001359,Favorite Tales,,Spooky Tales,en-us,Tonie,stock,8041066004631,,1,3,2,0
@@ -975,7 +972,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001708,Lilo & Stitch,disney-lilo-stitch,Lilo & Stitch,de-de,audio-play,stock,45e2b9ff-f3fe-4fb7-a83e-c9a261047a88,https://tonies.com/de-de/tonies/disney-lilo-stitch/lilo-stitch/,1,1,1,0
 10001711,Maestro,,,en-us,Tonie,stock,8072079147159,,1,2,2,0
 10001714,PAW Patrol,,Rubble,en-us,Tonie,stock,7806540546199,,1,2,2,0
-10001721,Lieblings-Kinderlieder,lieblings-kinderlieder,Zähllieder (Neuauflage 2023),de-de,music,stock,29d55713-bf65-4996-8b27-693505ef6085,https://tonies.com/de-de/tonies/lieblings-kinderlieder/zhllieder-neuauflage-2023/,1,2,1,0
+10001721,Lieblings-Kinderlieder,lieblings-kinderlieder,Zähllieder (Neuauflage 2023),de-de,music,stock,29d55713-bf65-4996-8b27-693505ef6085,https://tonies.com/de-de/tonies/lieblings-kinderlieder/zhllieder-neuauflage-2023/,1,1,0,0
 10001722,Miraculous,miraculous,Der Betrüger / Der Valentinstag,de-de,audio-play,stock,f8f55746-b079-41b7-b872-30979711e4f5,https://tonies.com/de-de/tonies/miraculous/der-betrger-der-valentinstag/,1,1,1,0
 10001724,Club Écolo,club-ecolo-2,Sauvetages En Mer !,fr-fr,audio-play,stock,5fc8a845-873d-4bec-b5b7-b1b91ee10e3c,https://tonies.com/fr-fr/tonies/club-ecolo/sauvetages-en-mer/,1,0,0,0
 10001727,Mes Classiques Préférés,mes-classiques-preferes,Peter Pan Et 2 Autres Classiques,fr-fr,audio-play,stock,d8f7f86b-7b0f-47c6-81c0-de7290a2faf2,https://tonies.com/fr-fr/tonies/mes-classiques-preferes/peter-pan-et-2-autres-classiques/,1,1,1,0
@@ -1524,7 +1521,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11001363,Disney,,and Pixar Finding Dory,en-us,Tonie,stock,8517893259415,,1,4,4,0
 11001469,Tierisch!,tierisch,Tierisch! Extrem - Set,de-de,audio-play,stock,3a98d904-96be-4548-ab0a-73407343f8d9,https://tonies.com/de-de/clever-tonies/tierisch/tierisch-extrem-set/,1,8,8,0
 11001474,,,,,,,,,1,4,4,0
-11001487,Animal World,animal-world,Precious Pets,en-gb,audio-play-educational,stock,4a426b4e-9c6a-4cd6-8b17-37f45c901408,https://tonies.com/en-gb/clever-tonies/animal-world/precious-pets/,1,7,7,0
+11001487,Animal World,animal-world,Precious Pets,en-gb,audio-play-educational,stock,4a426b4e-9c6a-4cd6-8b17-37f45c901408,https://tonies.com/en-gb/clever-tonies/animal-world/precious-pets/,1,6,6,0
 11001496,Animal World,animal-world,Animals of Africa,en-gb,audio-play-educational,stock,b89aa94c-3265-4394-8f2c-eac701a0dc77,https://tonies.com/en-gb/clever-tonies/animal-world/animals-of-africa/,1,0,0,0
 11001497,,,,,,,,,1,4,4,0
 11001505,Wonder,,,en-us,Tonie,stock,9185415331991,,1,0,0,0
@@ -1673,7 +1670,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11002220,The Questioneers,the-questioneers,Sofia Valdez and the Vanishing Vote,en-gb,audio-book,stock,be081a31-ec84-466d-a7d0-a9e4d152a974,https://tonies.com/en-gb/book-tonies/the-questioneers/sofia-valdez-and-the-vanishing-vote/,1,0,0,0
 11002237,Sam's Club Disney Bundle with Red Toniebox,,,en-us,Tonie,stock,8533490204823,,1,0,0,0
 11002239,Zootopie,disney-zoomania,Zootopie (1 et 2),fr-fr,audio-play,stock,e88ef8b0-3d2a-4fc1-a79c-c27d0a4d6563,https://tonies.com/fr-fr/tonies/disney-zootopie/zootopie-1-et-2/,1,0,0,0
-11002265,Wicked,wicked,Wicked,en-gb,audio-play-songs,stock,281698ea-f672-4dfc-934b-34d1f82ebc0b,https://tonies.com/en-gb/tonies/wicked/wicked/,1,1,0,0
+11002265,Wicked,wicked,Wicked,en-gb,audio-play-songs,stock,281698ea-f672-4dfc-934b-34d1f82ebc0b,https://tonies.com/en-gb/tonies/wicked/wicked/,1,0,0,0
 11002266,Vaiana,disney-moana,Vaiana 2,fr-fr,audio-play-songs,stock,5cb6c65c-57b6-4146-8423-6bd722fe68df,https://tonies.com/fr-fr/tonies/disney-vaiana/vaiana-2/,1,0,0,0
 11002272,Ms. Rachel,ms-rachel,Ms. Rachel,en-gb,audio-play-songs,stock,64e6aa9a-084c-4e7a-960e-3a49f3ed94ea,https://tonies.com/en-gb/tonies/ms-rachel/msrachel/,1,0,0,0
 11002274,Lieblings-Kinderlieder,lieblings-kinderlieder,Kindergartenlieder,de-de,music,stock,aadd8af4-78de-487d-ad02-993f36dba1e7,https://tonies.com/de-de/tonies/lieblings-kinderlieder/kindergartenlieder-neu/,1,1,1,0
@@ -6316,6 +6313,6 @@ box-fr-fr-03-00000015,System sounds fr-fr,system-fr-fr,,fr-fr,system,stock,,,1,2
 box-fr-fr-03-00000016,System sounds fr-fr,system-fr-fr,,fr-fr,system,stock,,,1,1,1,0
 box-fr-fr-03-00000017,System sounds fr-fr,system-fr-fr,,fr-fr,system,stock,,,1,1,1,0
 box-fr-fr-03-00000018,System sounds fr-fr,system-fr-fr,,fr-fr,system,stock,,,1,1,1,0
-pseudo:98-0414,,,,,,,,,1,1,1,0
+pseudo:98-0414,DEMO TONIE,,DEMO TONIE,de-de,DEMO TONIE,stock,,,1,1,1,0
 target3,Disney,,"Bundle with Tigger, Woody & Stitch - Red",en-us,Tonie,stock,8481763459223,,1,0,0,0
 target4,Disney,,"Bundle with Belle, Cinderella & Ariel - Pink",en-us,Tonie,stock,8482426847383,,1,0,0,0
