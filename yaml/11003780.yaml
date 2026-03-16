@@ -2,7 +2,7 @@ article: '11003780'
 lock-data: false
 data:
 - series: Die Schlümpfe
-  series-id: die-schluempfe
+  series-id: die-schlumpfe
   episode: Hefty Schlumpf - Wer ist heftiger? & 3 weitere schlumpfige Abenteuer
   release: 1773187200
   language: de-de
@@ -15,10 +15,10 @@ data:
   web: https://tonies.com/de-de/tonies/die-schluempfe/hefty-schlumpf/
   shop-id: e874deb3-9c10-456b-86a9-b77856207b2d
   track-desc:
-  - Driiinnggggg
-  - Die Sarsaparillafalle
-  - Der Außerschlumpfige
-  - Wer Ist Heftiger
+  - 01 Die Schlümpfe Folge 3 Wer Ist Heftiger Driiinnggggg
+  - 02 Die Schlümpfe Folge 3 Wer Ist Heftiger Die Sarsaparillafalle
+  - 03 Die Schlümpfe Folge 3 Wer Ist Heftiger Der Außerschlumpfige
+  - 04 Die Schlümpfe Folge 3 Wer Ist Heftiger Wer Ist Heftiger
   ids:
   - audio-id: 1769682546
     hash: c10dd16597ca5e0771ad5081892b4c55ff1c4cf5
