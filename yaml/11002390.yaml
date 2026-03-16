@@ -2,7 +2,7 @@ article: '11002390'
 lock-data: false
 data:
 - series: Schlummerbande
-  series-id: schlummerbande
+  series-id: sleepy-friends
   episode: Schlummerkrokodil - Eine Gutenachtgeschichte aus dem Schlummerdschungel
   release: 1773187200
   language: de-de
@@ -24,4 +24,9 @@ data:
   - Zu ruhig
   - Zurück in den Dschungel
   - Lass die Gedanken fliegen
-  ids: []
+  ids:
+  - audio-id: 1769782768
+    hash: 2fc73189e8841726021bb573669006fbe6b1c3c2
+    size: 33638209
+    tracks: 9
+    confidence: 1

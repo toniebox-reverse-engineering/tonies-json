@@ -10,7 +10,7 @@ data:
   runtime: 0
   age: 99
   origin: stock
-  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Pigeon-11000855-PLPTB2MainImageTransparent.png?v=1772467756
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Pigeon-11000855-PLPTB2MainImageTransparent.png?v=1773673820
   sample: null
   web: null
   shop-id: '8558127120535'
@@ -20,4 +20,4 @@ data:
     hash: 471ad4aa9d0993cefa5c34149d1bf1723a5e7add
     size: 28230559
     tracks: 12
-    confidence: 0
+    confidence: 1

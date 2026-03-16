@@ -8,7 +8,7 @@ data:
   language: de-de
   category: audio-book-songs
   runtime: 39
-  age: 4
+  age: 3
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11000295_1_a-XuQlUmnJ.png
   sample: https://cdn.tonies.de/o/audio_samples/21e927edcf5d46771f18f0b56992b2fbcf3ef260c16d2854319983e4/hoerprobe_11000295_die_neue_haschenschule.mp3
@@ -30,4 +30,4 @@ data:
     hash: 43274f33e7803b45ab948e6a06471492dad05c73
     size: 28936372
     tracks: 10
-    confidence: 0
+    confidence: 1

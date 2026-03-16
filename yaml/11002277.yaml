@@ -30,4 +30,9 @@ data:
   - Das Schluckauf Lied
   - Das Kleine Schweinchen
   - Übernachtung Im Zelt
-  ids: []
+  ids:
+  - audio-id: 1770986774
+    hash: f641b7ca98d949a1dc97a974efd87bfba65e4fb5
+    size: 37518807
+    tracks: 15
+    confidence: 1

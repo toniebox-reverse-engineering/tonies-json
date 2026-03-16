@@ -1,0 +1,36 @@
+article: '11003882'
+lock-data: false
+data:
+- series: Kleiner Otter, großes Herz
+  series-id: kleiner-otter-grosses-herz
+  episode: Lieder und Geschichten zum Liebhaben
+  release: 1775606400
+  language: de-de
+  category: audio-play-songs
+  runtime: 45
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11003882_1_a--wuasZbQ.png
+  sample: https://cdn.tonies.de/o/audio_samples/e065b7c764c106a621d54152ff3c3bfa91343c163053a9807dec86eb/kleiner_otter_hoerprobe_mp3_240226.mp3
+  web: https://tonies.com/de-de/tonies/kleiner-otter-grosses-herz/lieder-und-geschichten-zum-liebhaben/
+  shop-id: 7fa96a14-849b-461c-a425-f7e54a8b0141
+  track-desc:
+  - 01 Liebe Ist Song
+  - 02 Suki Geschichte
+  - 03 Die Liebe Dreht Sich Immer Weiter Song
+  - 04 Wie Zeigst Du Wen Du Liebst Song
+  - 05 Die Freunde Kommen Zur Party Geschichte
+  - 06 Ich Lieb Dich Um Die Welt Herum Song
+  - 07 Strahl Es Aus Song
+  - 08 Bienensummen Song
+  - 09 Liebe Wird Nie Alle Geschichte
+  - 10 Herzschlag Song
+  - 11 Ich Mag Mich Song
+  - 12 Liebt Euch Selbst Geschichte
+  - 13 Valentinstag Song
+  - 14 Liebe Überall Song
+  - 15 Bedingungslose Liebe Geschichte
+  - 16 Grenzenlos Song
+  - 17 Die Liebe Feiern Geschichte
+  - 18 So Otterlich Song
+  ids: []

@@ -19,4 +19,9 @@ data:
   - If I Wasnt So Small (The Piglet Song)
   - Sing Ho For The Life Of A Bear (Expotition March)
   - With A Few Good Friends
-  ids: []
+  ids:
+  - audio-id: 1767602795
+    hash: e9fd4f237a73b62ac8f8aed331d2352eb63a0136
+    size: 32182938
+    tracks: 4
+    confidence: 1

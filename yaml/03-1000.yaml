@@ -1,4 +1,4 @@
-article: 01-0000
+article: 03-1000
 lock-data: false
 data:
 - series: Geschichten vom Löwen
@@ -20,4 +20,4 @@ data:
     hash: 43b590e78f561bd167a75d698b19c07323f766d6
     size: 16181948
     tracks: 13
-    confidence: 2
+    confidence: 5

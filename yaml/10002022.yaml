@@ -21,4 +21,9 @@ data:
   - Aller Anfang ist schwer!
   - Das neue Fahrrad
   - Eine kleine Schadenfreude
-  ids: []
+  ids:
+  - audio-id: 1486647727
+    hash: 13b9c6ff850edb54ff576f27f9bbad698628d37f
+    size: 32991889
+    tracks: 6
+    confidence: 1

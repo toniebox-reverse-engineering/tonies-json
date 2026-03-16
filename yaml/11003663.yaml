@@ -1,0 +1,32 @@
+article: '11003663'
+lock-data: false
+data:
+- series: Paddington
+  series-id: paddington
+  episode: Die schönsten Geschichten von Paddington
+  release: 1775606400
+  language: de-de
+  category: audio-book
+  runtime: 46
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11003663_1_a-232ATG6m.png
+  sample: https://cdn.tonies.de/o/audio_samples/34507900bf13f01201c2570dfa21a70a395c799644d2c9a475345b04/hoerprobe_11003663_paddington_die_schonsten_geschichten_von_paddington.mp3
+  web: https://tonies.com/de-de/tonies/paddington/paddington-die-schoensten-geschichten-von-paddington/
+  shop-id: c085ee7a-bfd3-4ce7-8e60-0c2fbd8b366f
+  track-desc:
+  - Paddington Teil 1
+  - Paddington Teil 2
+  - Paddington Teil 3
+  - Paddington Teil 4
+  - Paddington besucht die Königin Teil 1
+  - Paddington besucht die Königin Teil 2
+  - Paddington Im Zoo
+  - Paddington wird Gärtner Teil 1
+  - Paddington wird Gärnter Teil 2
+  - Paddington wird Gärtner Teil 3
+  - Paddington im Marmeladenlabyrinth Teil 1
+  - Paddington im Marmeladenlabyrinth Teil 2
+  - Paddington wird Maler Teil 1
+  - Paddington wird Maler Teil 2
+  ids: []

@@ -10,17 +10,12 @@ data:
   runtime: 0
   age: 99
   origin: stock
-  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/WIsh-11000526-PLPTB2MainImageTransparent.png?v=1772467709
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/WIsh-11000526-PLPTB2MainImageTransparent.png?v=1773673770
   sample: null
   web: null
   shop-id: '8124400664727'
   track-desc: []
   ids:
-  - audio-id: 1721192604
-    hash: cbeb617462fcc0e1aa9243e1c64423a654e9dd0c
-    size: 32304254
-    tracks: 2
-    confidence: 2
   - audio-id: 1701069621
     hash: a516f507921e1fa4d1505c6e935e973a51141416
     size: 32351751
