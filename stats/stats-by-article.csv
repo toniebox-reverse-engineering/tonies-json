@@ -673,7 +673,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000931,National Geographic Kids,,Horse,en-us,Tonie,stock,7806559486103,,1,1,1,0
 10000933,PAW Patrol,paw-patrol,Marshall - Schneller als die Feuerwehr,de-de,audio-play,stock,0da87958-2460-4b46-8958-0a35a0a09ad6,https://tonies.com/de-de/tonies/paw-patrol/schneller-als-die-feuerwehr/,1,1,1,0
 10000934,Disney,,Fantasia,en-us,Tonie,stock,7223007674519,,1,1,1,0
-10000935,Disney,disney,Fantasia,en-gb,audio-play-songs,stock,04299db4-54e4-40f2-a36b-405651bf3e84,https://tonies.com/en-gb/tonies/disney/fantasia/,1,0,0,0
+10000935,Fantasia,disney-fantasia,Fantasia,en-gb,audio-play-songs,stock,04299db4-54e4-40f2-a36b-405651bf3e84,https://tonies.com/en-gb/tonies/disney-fantasia/fantasia/,1,0,0,0
 10000936,Disney,,Lilo & Stitch,en-us,Tonie,stock,7907852648599,,1,1,1,0
 10000937,DC,,Batman,en-us,Tonie,stock,8032002211991,,1,1,1,0
 10000938,Dr. Seuss,,The Lorax,en-us,Tonie,stock,9173752610967,,1,0,0,0
@@ -736,7 +736,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001035,Favourite Tales,lieblings-marchen,Little Red Riding Hood (relaunch),en-gb,audio-book,stock,b2592527-aea2-4ef8-b826-e630ef946737,https://tonies.com/en-gb/tonies/favourite-tales/little-red-riding-hood-relaunch/,1,1,0,0
 10001036,Favourite Classics,favourite-classics,Pinocchio (relaunch),en-gb,audio-book,stock,ef215f9f-a1e7-4cb2-a463-e27069d0a93f,https://tonies.com/en-gb/tonies/favourite-classics/pinocchio-relaunch/,1,1,1,0
 10001037,Favourite Children's Songs,lieblings-kinderlieder,Playtime & Action (relaunch),en-gb,music,stock,de7dd07e-35cf-433f-9b3c-43d72fa3bae6,https://tonies.com/en-gb/tonies/favourite-children-s-songs/playtime-action/,1,1,1,0
-10001038,Favourite Children's Songs,favourite-children-s-songs,Bedtime & Lullabies (relaunch),en-gb,music,stock,ce876e76-0265-4222-acae-6cbd789dc2c9,https://tonies.com/en-gb/tonies/favourite-children-s-songs/favourite-childrens-songs-bedtime-lullabies/,1,1,1,0
+10001038,Favourite Children's Songs,lieblings-kinderlieder,Bedtime & Lullabies (relaunch),en-gb,music,stock,ce876e76-0265-4222-acae-6cbd789dc2c9,https://tonies.com/en-gb/tonies/favourite-children-s-songs/favourite-childrens-songs-bedtime-lullabies/,1,1,1,0
 10001039,National Geographic Kids,,Penguin,en-us,Tonie,stock,7326666096791,,1,2,2,0
 10001041,Maya L'Abeille,maya-l-abeille,Maya L'Abeille,fr-fr,audio-play-songs,stock,bb7a2283-5b34-45fb-a7dd-fe31f9e6bb38,https://tonies.com/fr-fr/tonies/maya-l-abeille/maya-l-abeille/,1,1,1,0
 10001043,Heidi,heidi,Heidi,fr-fr,audio-play-songs,stock,a2fbe823-ac77-40a5-8d08-3242793c7ae9,https://tonies.com/fr-fr/tonies/heidi/heidi/,1,1,1,0
@@ -1800,7 +1800,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11003771,GEOlino,geo,"GEOlino Mini - Alles über Polizei, Feuerwehr und Rettung",de-de,audio-play,stock,ca0468c6-4a01-4cb1-9f16-0b554127f5f7,https://tonies.com/de-de/clever-tonies/geo/geolino-mini-alles-ueber-polizei-feuerwehr-und-rettung/,1,1,1,0
 11003772,Lichterkinder,lichterkinder-2,Lichterkinder - Das kleine 1x1,de-de,music,stock,0ab2c74f-0fce-43ef-a043-940eef333eca,https://tonies.com/de-de/clever-tonies/lichterkinder/das-kleine-einmaleins/,1,1,1,0
 11003773,MIRA und das fliegende Haus,mira,MIRA und das fliegende Haus - Der Familienzauber,de-de,audio-play,stock,fcbb6954-3ffe-42fc-8872-618cefe1608c,https://tonies.com/de-de/clever-tonies/mira/mira-und-das-fliegende-haus-der-familienzauber/,1,1,1,0
-11003780,Die Schlümpfe,die-schluempfe,Hefty Schlumpf - Wer ist heftiger? & 3 weitere schlumpfige Abenteuer,de-de,audio-play,stock,e874deb3-9c10-456b-86a9-b77856207b2d,https://tonies.com/de-de/tonies/die-schluempfe/hefty-schlumpf/,1,1,1,0
+11003780,Die Schlümpfe,die-schlumpfe,Hefty Schlumpf - Wer ist heftiger? & 3 weitere schlumpfige Abenteuer,de-de,audio-play,stock,e874deb3-9c10-456b-86a9-b77856207b2d,https://tonies.com/de-de/tonies/die-schluempfe/hefty-schlumpf/,1,1,1,0
 11003861,Mickey Mouse & Friends,disney-mickey-mouse-friends,Disney Plush Mickey Mouse,en-gb,audio-play,stock,790a0f49-be76-426b-93ed-fd9931dff0e5,https://tonies.com/en-gb/tonies/disney-mickey-mouse-friends/disney-plush-mickey-mouse/,1,0,0,0
 11003864,Frozen 2,disney-frozen-2,Disney Plush Olaf,en-gb,audio-play,stock,07f2de93-511d-4fc0-a4b0-3edaeff9bdbc,https://tonies.com/en-gb/tonies/disney-frozen-2/disney-plush-olaf/,1,0,0,0
 11003869,The Lion King,disney-the-lion-king,Disney Plush Simba,en-gb,audio-play,stock,e2e2f0ef-d030-4161-9876-aec5b43613a9,https://tonies.com/en-gb/tonies/disney-the-lion-king/disney-plush-simba/,1,0,0,0
