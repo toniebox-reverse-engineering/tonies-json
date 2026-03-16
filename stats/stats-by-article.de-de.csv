@@ -51,7 +51,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 01-0060,Wickie,wickie,Die Königin der Winde,de-de,audio-play,stock,6d52a760-4c49-496d-9b05-0bc8a924f1f8,https://tonies.com/de-de/tonies/wickie/die-koenigin-der-winde/,1,1,1,0
 01-0061,Heidi,heidi,Freunde für immer,de-de,audio-play,stock,5a9fdf34-e6d3-4848-a855-ac66f9e13b3b,https://tonies.com/de-de/tonies/heidi/freunde-fuer-immer/,1,1,1,0
 01-0062,Unser Sandmännchen,unser-sandmannchen,"Nachts, wenn alles schläft",de-de,audio-play-songs,stock,df2d5a3c-163c-4a0a-a4f7-19c3aac04486,https://tonies.com/de-de/tonies/unser-sandmaennchen/nachts-wenn-alles-schlaeft/,1,1,1,0
-01-0063,Benjamin Blümchen,benjamin-bluemchen,Ein Törööö für alle Fälle,de-de,audio-play,stock,7b3c28b5-81c3-41a4-88e0-f9bed586792b,https://tonies.com/de-de/tonies/benjamin-bluemchen/ein-torooo-fuer-alle-faelle/,1,1,1,0
+01-0063,Benjamin Blümchen,benjamin-bluemchen,Ein Törööö für alle Fälle,de-de,audio-play,stock,7b3c28b5-81c3-41a4-88e0-f9bed586792b,https://tonies.com/de-de/tonies/benjamin-bluemchen/ein-torooo-fuer-alle-faelle/,1,2,1,0
 01-0064,Der Räuber Hotzenplotz,,Neues vom Räuber Hotzenplotz,de-de,Hörspiele & Hörbücher,stock,,,1,1,1,0
 01-0065,Die kleine Hexe,,Die kleine Hexe,de-de,audio-play,stock,,,1,1,1,0
 01-0069,Der Grüffelo,der-grueffelo,Das Grüffelokind,de-de,audio-play,stock,dde98167-2455-4e9f-a5c2-31a923fa85f3,https://tonies.com/de-de/tonies/das-grueffelokind/,1,1,1,0
@@ -130,7 +130,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 01-0180,"Arielle, die Meerjungfrau",disney-the-little-mermaid,Arielle die Meerjungfrau,de-de,audio-play-songs,stock,d3367fe5-bc78-4d6c-9088-6339684b86e9,https://tonies.com/de-de/tonies/disney-arielle-die-meerjungfrau/arielle-die-meerjungfrau/,1,2,1,0
 01-0181,Der Räuber Hotzenplotz,,Hotzenplotz 3,de-de,Hörspiele & Hörbücher,stock,,,1,1,1,0
 01-0182,TKKG Junior,tkkg,Vorsicht: bissig!,de-de,audio-play,stock,4dff32b9-f918-4648-a399-80d746ecbd1a,https://tonies.com/de-de/tonies/tkkg-folge-2-vorsicht-bissig/,1,1,1,0
-01-0183,TKKG Junior,tkkg-junior,Auf frischer Tat ertappt,de-de,audio-play,stock,fe29fd46-5ab6-4c43-b1b2-fa97a3e88089,https://tonies.com/de-de/tonies/tkkg-junior/auf-frischer-tat-ertappt/,1,1,1,0
+01-0183,TKKG Junior,tkkg-junior,Auf frischer Tat ertappt,de-de,audio-play,stock,fe29fd46-5ab6-4c43-b1b2-fa97a3e88089,https://tonies.com/de-de/tonies/tkkg-junior/auf-frischer-tat-ertappt/,1,2,1,0
 01-0184,Disney,disney,Cars,de-de,audio-play,stock,303266df-8422-46ac-a681-93480b344693,https://tonies.com/de-de/tonies/disney/cars/,1,2,1,0
 01-0186,Zogg,zogg,Zogg/Tommi Tatze,de-de,audio-play-songs,stock,6349f6a1-1ae9-4c7a-8386-046cda8956e7,https://tonies.com/de-de/tonies/zogg-und-tommy-tatze/,1,1,1,0
 01-0187,Räuber Ratte,raeuber-ratte,Räuber Ratte/Superwurm,de-de,audio-play-songs,stock,fb4f13a7-4bf4-45cb-aa2e-00a7818f966d,https://tonies.com/de-de/tonies/raeuber-ratte/,1,1,1,0
@@ -306,7 +306,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000499,Sesamstraße,sesamstrasse,Krümelmonsters Mitmampfspaß,de-de,audio-play-songs,stock,80f5e588-f233-43d1-8f26-c1b71239f4f2,https://tonies.com/de-de/tonies/sesamstrasse/kruemelmonsters-mitmampfspass/,1,1,1,0
 10000507,Unter meinem Bett,unter-meinem-bett,Unter meinem Bett 5,de-de,music,stock,11adc939-cd2d-407c-99fc-742ec0fdb5fc,https://tonies.com/de-de/tonies/unter-meinem-bett/unter-meinem-bett-5/,1,1,1,0
 10000508,Giraffenaffen,giraffenaffen,Die Giraffenaffen Lieblingslieder,de-de,music,stock,caa6bf32-f978-4514-8377-b82167f58b6f,https://tonies.com/de-de/tonies/giraffenaffen/die-giraffenaffen-lieblingslieder/,1,1,1,0
-10000524,Feuerwehrmann Sam,feuerwehrmann-sam,Eine Insel voller Abenteuer,de-de,audio-play,stock,da613d17-78e1-4083-b01b-b26b87598bb3,https://tonies.com/de-de/tonies/feuerwehrmann-sam/eine-insel-voller-abenteuer/,1,1,1,0
+10000524,Feuerwehrmann Sam,feuerwehrmann-sam,Eine Insel voller Abenteuer,de-de,audio-play,stock,da613d17-78e1-4083-b01b-b26b87598bb3,https://tonies.com/de-de/tonies/feuerwehrmann-sam/eine-insel-voller-abenteuer/,1,2,1,0
 10000525,Rund um die Welt mit Fuchs und Schaf,rund-um-die-welt-mit-fuchs-und-schaf,Osaka & Serengeti,de-de,audio-play,stock,0da6d5b5-0ccb-4c58-bbff-fe1ff80952aa,https://tonies.com/de-de/tonies/rund-um-die-welt-mit-fuchs-und-schaf/rund-um-die-welt-mit-fuchs-und-schaf/,1,2,2,0
 10000526,Vaiana,disney-moana,Vaiana,de-de,audio-play-songs,stock,0b68e480-1da3-4d32-ac0f-0e4ea3f4d312,https://tonies.com/de-de/tonies/disney-vaiana/vaiana/,1,1,1,0
 10000527,Affenzahn Utopia,affenzahn-utopia,Die Abenteuer von Affenzahn,de-de,audio-play,stock,5c95a316-38c5-4038-b52a-c7ca736e3084,https://tonies.com/de-de/tonies/affenzahn-utopia/die-abenteuer-von-affenzahn/,1,1,1,0
