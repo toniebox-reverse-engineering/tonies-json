@@ -22,6 +22,11 @@ data:
   - Der Alleingang
   - Das Razzamoon-Konzert
   ids:
+  - audio-id: 1773759491
+    hash: 744f7b1419b7396948200aa114f5d0ee18aacf14
+    size: 39478770
+    tracks: 6
+    confidence: 1
   - audio-id: 1748957668
     hash: 7b110072e15cf8d52053cbfe17370f530dcd553f
     size: 39478770
