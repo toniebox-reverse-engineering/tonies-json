@@ -1,0 +1,34 @@
+article: '2000011682'
+lock-data: false
+data:
+- series: The Chronicles of Narnia
+  series-id: the-chronicles-of-narnia
+  episode: The Silver Chair (Book 6)
+  release: 1773964800
+  language: en-gb
+  category: audio-book
+  runtime: 19531
+  age: 9
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_8d786e929ba53c477482ade1a1de9cb93d9ac5c4262775facc823ab8/3_5nckMPGvXZ9M7l~k/the_chronicles_of_narnia_the_silver_chair_book__530x530.jpg
+  sample: null
+  web: https://tonies.com/en-gb/audio-content/the-chronicles-of-narnia/narnia-the-silver-chair-digital/
+  shop-id: 8f666730-0ce7-45d4-be37-6b15de4e507b
+  track-desc:
+  - 'Intro and Chapter 1: Behind the Gym'
+  - 'Chapter 2: Jill Is Given a Task'
+  - 'Chapter 3: The Sailing of the King'
+  - 'Chapter 4: A Parliament of Owls'
+  - 'Chapter 5: Puddleglum'
+  - 'Chapter 6: The Wild Waste Lands of the North'
+  - 'Chapter 7: The Hill of the Strange Trenches'
+  - 'Chapter 8: The House of Harfang'
+  - 'Chapter 9: How They Discovered Something Worth Knowing'
+  - 'Chapter 10: Travels Without the Sun'
+  - 'Chapter 11: In the Dark Castle'
+  - 'Chapter 12: The Queen of Underland'
+  - 'Chapter 13: Underland Without the Queen'
+  - 'Chapter 14: The Bottom of the World'
+  - 'Chapter 15: The Disappearance of Jill'
+  - 'Chapter 16: The Healing of Harms'
+  ids: []
