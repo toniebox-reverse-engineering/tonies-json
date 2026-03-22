@@ -3,7 +3,7 @@ lock-data: false
 data:
 - series: Lieblings-Kinderlieder
   series-id: lieblings-kinderlieder
-  episode: Kindergartenlieder
+  episode: Kindergartenlieder (Neuauflage 2026)
   release: 1767744000
   language: de-de
   category: music
@@ -44,4 +44,4 @@ data:
     hash: 7243a96990ab2229eed6c7e90ef357fa13ad417d
     size: 40710593
     tracks: 25
-    confidence: 1
+    confidence: 0
