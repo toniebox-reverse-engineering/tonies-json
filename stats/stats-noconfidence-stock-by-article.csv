@@ -444,7 +444,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000671,Die Eiskönigin II,disney-frozen-2,Die Eiskönigin 2,de-de,audio-play-songs,stock,2fe74d1e-2e0a-4a13-b813-beb6c3c7bb33,https://tonies.com/de-de/tonies/disney-die-eiskoenigin-ii/die-eiskoenigin-2/,1,2,1,0
 10000672,Disney,disney,Coco,de-de,audio-play-songs,stock,35783b5f-eae6-4837-90be-492d47251556,https://tonies.com/de-de/tonies/disney/coco/,1,1,1,0
 10000674,Frozen 2,disney-frozen-2,Frozen 2,en-gb,audio-play-songs,stock,39bbbc2b-23d3-4c00-a453-c13c9480b861,https://tonies.com/en-gb/tonies/disney-frozen-2/frozen-2/,1,1,1,0
-10000675,Disney,disney,Bambi,en-gb,audio-play-songs,stock,140747e8-c61d-464a-a50e-a1ae45929ecc,https://tonies.com/en-gb/tonies/disney/bambi/,1,1,1,0
+10000675,Bambi,disney-bambi,Bambi,en-gb,audio-play-songs,stock,140747e8-c61d-464a-a50e-a1ae45929ecc,https://tonies.com/en-gb/tonies/disney-bambi/bambi/,1,1,1,0
 10000676,Beauty and the Beast,disney-beauty-and-the-beast,Beauty and the Beast,en-gb,audio-book-songs,stock,579360f6-840b-47f3-95ea-85bc7eda9a74,https://tonies.com/en-gb/tonies/disney-beauty-and-the-beast/the-beauty-and-the-beast/,1,1,1,0
 10000679,Disney,,Frozen 2: Anna,en-us,Tonie,stock,7274253025431,,1,1,1,0
 10000680,Miraculous,miraculous,Miraculous - Ladybug,en-gb,audio-play,stock,43e720f5-91dd-40dd-becd-8154d5cc7fcf,https://tonies.com/en-gb/tonies/miraculous/miraculous-ladybug/,1,1,1,0
@@ -699,7 +699,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001313,Marvel,marvel-2,Spidey & His Amazing Friends: Spidey,en-gb,audio-play-songs,stock,a3707d68-5477-472d-b2ce-d3b34a208697,https://tonies.com/en-gb/tonies/marvel/spidey-his-amazing-friends-spidey/,1,0,0,0
 10001314,Roald Dahl,roald-dahl,Matilda,en-gb,audio-book,stock,dfaa869e-bb74-460d-a034-aab4ca9e1539,https://tonies.com/en-gb/tonies/roald-dahl/matilda/,1,0,0,0
 10001315,Giraffes Can't Dance,giraffes-can-t-dance,Giraffes Can't Dance,en-gb,audio-book,stock,78f480fc-db15-4718-a3a1-b424a70f4c3c,https://tonies.com/en-gb/tonies/giraffes-can-t-dance/giraffes-cant-dance/,1,3,3,0
-10001316,National Geographic Kids,national-geographic-kids,Dinosaur,en-gb,audio-play-educational,stock,4b0e863e-49f1-4d3e-ab61-0bf13ac045fb,https://tonies.com/en-gb/tonies/national-geographic-kids/dinosaur/,1,0,0,0
+10001316,National Geographic Kids,ng-kids-us,Dinosaur,en-gb,audio-play-educational,stock,4b0e863e-49f1-4d3e-ab61-0bf13ac045fb,https://tonies.com/en-gb/tonies/national-geographic-kids/dinosaur/,1,0,0,0
 10001318,National Geographic Kids,national-geographic-kids,Astronaut,en-gb,audio-play,stock,a7fdfa72-a9c0-4429-91c2-52e85a2739da,https://tonies.com/en-gb/tonies/national-geographic-kids/astronaut/,1,0,0,0
 10001322,DC,dc,Wonder Woman,en-gb,audio-play,stock,a25e821d-e17f-4dc3-be33-e8c51fe201c9,https://tonies.com/en-gb/tonies/dc/wonder-woman/,1,0,0,0
 10001323,The Dinosaur That Pooped,the-dinosaur-that-pooped,The Dinosaur That Pooped Collection,en-gb,audio-book,stock,d6412898-ee0e-41ce-8651-26e417f63221,https://tonies.com/en-gb/tonies/the-dinosaur-that-pooped/the-dinosaur-that-pooped-collection/,1,2,2,0
@@ -1478,7 +1478,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11002265,Wicked,wicked,Wicked,en-gb,audio-play-songs,stock,281698ea-f672-4dfc-934b-34d1f82ebc0b,https://tonies.com/en-gb/tonies/wicked/wicked/,1,0,0,0
 11002266,Vaiana,disney-moana,Vaiana 2,fr-fr,audio-play-songs,stock,5cb6c65c-57b6-4146-8423-6bd722fe68df,https://tonies.com/fr-fr/tonies/disney-vaiana/vaiana-2/,1,0,0,0
 11002272,Ms. Rachel,ms-rachel,Ms. Rachel,en-gb,audio-play-songs,stock,64e6aa9a-084c-4e7a-960e-3a49f3ed94ea,https://tonies.com/en-gb/tonies/ms-rachel/msrachel/,1,0,0,0
-11002274,Lieblings-Kinderlieder,lieblings-kinderlieder,Kindergartenlieder (Neuauflage 2026),de-de,music,stock,aadd8af4-78de-487d-ad02-993f36dba1e7,https://tonies.com/de-de/tonies/lieblings-kinderlieder/kindergartenlieder-neu/,1,1,0,0
+11002274,Lieblings-Kinderlieder,lieblings-kinderlieder,Kindergartenlieder,de-de,music,stock,aadd8af4-78de-487d-ad02-993f36dba1e7,https://tonies.com/de-de/tonies/lieblings-kinderlieder/kindergartenlieder-neu/,1,1,0,0
 11002277,Cocomelon,cocomelon,Spiel und Spaß mit JJ,de-de,music,stock,c2c79729-cb7a-4bed-b53b-e824411c3795,https://tonies.com/de-de/tonies/cocomelon/spiel-und-spass-mit-jj/,1,1,1,0
 11002278,Cocomelon,cocomelon,Mit JJ durch den Tag,de-de,music,stock,39afa3c2-45d0-4090-9b07-4c05701c788f,https://tonies.com/de-de/tonies/cocomelon/cocomelon-mit-jj-durch-den-tag/,1,0,0,0
 11002285,Disney,,Zootopia,en-us,Tonie,stock,9185415463063,,1,0,0,0
@@ -1623,7 +1623,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11004437,Wundervolle Welt der Tiere,wundervolle-welt-der-tiere,Wundervolle Welt der Tiere,de-de,audio-book,stock,060e9943-e36f-4245-b77f-9368654bc9dd,https://tonies.com/de-de/clever-tonies/wundervolle-welt-der-tiere/wundervolle-welt-der-tiere/,1,0,0,0
 11004564,GROßE EXPERTEN,grosse-experten,Das alte Ägypten,de-de,audio-play,stock,cf33f116-3361-49da-99d0-cde0efeccc54,https://tonies.com/de-de/clever-tonies/grosse-experten/grosse-experten-das-alte-aegypten/,1,0,0,0
 11004566,GROßE EXPERTEN,grosse-experten,Das Mittelalter,de-de,audio-play,stock,bb41193b-24d1-418c-9f75-279758541332,https://tonies.com/de-de/clever-tonies/grosse-experten/grosse-experten-das-mittelalter/,1,0,0,0
-11004634,Woozle Goozle,woozle-goozle,Woozle Goozle Set,de-de,audio-play,stock,6fec21db-3388-4b22-926b-df42a6de40f7,https://tonies.com/de-de/clever-tonies/woozle-goozle/woozle-goozle-set/,1,0,0,0
+11004634,Woozle Goozle,woozle-goozle-2,Woozle Goozle Set,de-de,audio-play,stock,6fec21db-3388-4b22-926b-df42a6de40f7,https://tonies.com/de-de/clever-tonies/woozle-goozle/woozle-goozle-set/,1,0,0,0
 11111111,Coming Soon Tonie 2,,,en-us,Tonie,stock,8416058638487,,1,0,0,0
 123456789,TEST Copy of Disney Encanto,,,en-us,Tonie,stock,9132808765591,,1,0,0,0
 43314534219927,The Elf on the Shelf,,,en-us,Tonie,stock,8072067055767,,1,0,0,0
