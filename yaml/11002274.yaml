@@ -3,7 +3,7 @@ lock-data: false
 data:
 - series: Lieblings-Kinderlieder
   series-id: lieblings-kinderlieder
-  episode: Kindergartenlieder (Neuauflage 2026)
+  episode: Kindergartenlieder
   release: 1767744000
   language: de-de
   category: music

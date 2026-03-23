@@ -2,7 +2,7 @@ article: '11004634'
 lock-data: false
 data:
 - series: Woozle Goozle
-  series-id: woozle-goozle
+  series-id: woozle-goozle-2
   episode: Woozle Goozle Set
   release: 1775606400
   language: de-de
@@ -10,7 +10,7 @@ data:
   runtime: 176
   age: 5
   origin: stock
-  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOOX11004634_2_a%20cop-47I0c8Hs.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOOX11004634_1_a-z2GGHv5F.png
   sample: https://cdn.tonies.de/o/audio_samples/53651f1ccb7cd3467bc0f100bf2a5be6a3b031924648efce7083b4ee/hoerprobe_11004634_woozle_goozle_set.mp3
   web: https://tonies.com/de-de/clever-tonies/woozle-goozle/woozle-goozle-set/
   shop-id: 6fec21db-3388-4b22-926b-df42a6de40f7
