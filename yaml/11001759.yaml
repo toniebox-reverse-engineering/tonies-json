@@ -22,6 +22,11 @@ data:
   - 'STORY: Where To Hide A Star'
   - 'STORY: Bonus Bedtime Story'
   ids:
+  - audio-id: 1774353361
+    hash: 2799fdfcb8a1d94bfc0e5f698cbaaf1f45a14242
+    size: 34808424
+    tracks: 6
+    confidence: 1
   - audio-id: 1767704919
     hash: 4b4dd3b623a85572ad87a0bc58d71cb21a893f0a
     size: 39092840
