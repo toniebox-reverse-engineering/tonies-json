@@ -1,0 +1,28 @@
+article: '11003475'
+lock-data: false
+data:
+- series: Timoté
+  series-id: timote
+  episode: Je Découvre Avec Timoté
+  release: 1774396800
+  language: fr-fr
+  category: audio-book
+  runtime: 53
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51018605-Tonie_Shado-ed1CwtUe.png
+  sample: https://cdn.tonies.de/o/audio_samples/8aefb3bd39d11c2bf7f389dbc281c1e5236239523c54b3a8c02f1ca0/00_je_decouvre_avec_timote_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/timote/je-decouvre-avec-timote/
+  shop-id: de6b3e07-7b38-4218-a3fc-afd6b27ab714
+  track-desc:
+  - Timoté à la piscine
+  - Timoté à l'aquarium
+  - Timoté visite le zoo
+  - Timoté visite la Bretagne
+  - Timoté fait du ski
+  - Timoté visite le Louvre
+  - Timoté se promène en forêt
+  - Timoté chez les pompiers
+  - Timoté à la ferme
+  - Timoté au bord de la mer
+  ids: []
