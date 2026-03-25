@@ -1,0 +1,26 @@
+article: '11003872'
+lock-data: false
+data:
+- series: Winnie L'Ourson
+  series-id: disney-winnie-the-pooh
+  episode: Tonie-Câlin - Disney - Winnie L'Ourson
+  release: 1774396800
+  language: fr-fr
+  category: audio-play
+  runtime: 35
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/winnie-cuddle-40XBeKUM.png
+  sample: https://cdn.tonies.de/o/audio_samples/2e748ef880c16250c0a6f2c2a3422aace1a7c0eaef4795aa5c7cca4b/disney_cuddle_tonies_winnie_extrait_wav.wav
+  web: https://tonies.com/fr-fr/tonies-calins/disney-winnie-lourson/tonie-calin-disney-winnie-l-ourson/
+  shop-id: 0f1c192f-0a64-4fae-ba77-89f8aada3c2d
+  track-desc:
+  - À la rencontre de Winnie
+  - 'Histoire : Winnie fait de la luge'
+  - 'Interlude : La chasse au miel de Winnie'
+  - 'Histoire : Winnie aux petits soins'
+  - 'Interlude : Les blagues de Winnie et Porcinet'
+  - 'Histoire : Le jardin secret de Winnie'
+  - 'Interlude : Une journée de grand vent'
+  - Le paysage sonore de Winnie
+  ids: []

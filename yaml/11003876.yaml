@@ -1,0 +1,26 @@
+article: '11003876'
+lock-data: false
+data:
+- series: Mickey Et Ses Amis
+  series-id: disney-mickey-mouse-friends
+  episode: Tonie-Câlin - Disney - Minnie
+  release: 1774396800
+  language: fr-fr
+  category: audio-play
+  runtime: 35
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51021400-Cuddle_Toni-iEl7tCxK.png
+  sample: https://cdn.tonies.de/o/audio_samples/41274dcf60b318299c992da0f6b7374c7f335f551150fac1bbda61d0/disney_cuddle_tonies_minnie_extrait_wav.wav
+  web: https://tonies.com/fr-fr/tonies-calins/disney-mickey-et-ses-amis/tonie-calin-disney-minnie/
+  shop-id: 41bc0a2e-08f6-4a9d-9802-e37487d23cc7
+  track-desc:
+  - À la rencontre de Minnie
+  - 'Histoire : La chasse au trésor secrète'
+  - 'Interlude : En cuisine avec Minnie'
+  - 'Histoire : Une belle journée pour naviguer'
+  - 'Interlude : Le joyeux défilé'
+  - 'Histoire : Le plus courageux des chiens'
+  - 'Interlude : À l’écoute des oiseaux'
+  - Le paysage sonore de Minnie
+  ids: []
