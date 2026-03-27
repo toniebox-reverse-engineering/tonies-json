@@ -22,6 +22,11 @@ data:
   - Das Zaubermikrofon
   - Das Bumbaloo-Fest
   ids:
+  - audio-id: 1774604042
+    hash: 27197e5298234b024165c1061801d212223f0a33
+    size: 41667937
+    tracks: 6
+    confidence: 1
   - audio-id: 1774266338
     hash: 4081a214287b915c5144defed2d68500ebd4e54c
     size: 41667937
