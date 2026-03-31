@@ -22,6 +22,11 @@ data:
   - Plopp-oder-Flopp
   - Der Schatz von Bumbaloo
   ids:
+  - audio-id: 1774946276
+    hash: 2ffe332560b3016aa7d37e4e93746f1e3698fe8c
+    size: 43237983
+    tracks: 6
+    confidence: 1
   - audio-id: 1774603973
     hash: 9ed72c0d74d5a41849ea012c8601de18ba1c40ed
     size: 43237983
