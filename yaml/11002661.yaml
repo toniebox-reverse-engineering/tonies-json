@@ -1,0 +1,23 @@
+article: '11002661'
+lock-data: false
+data:
+- series: Julia Donaldson
+  series-id: julia-donaldson
+  episode: 'Julia Donaldson: The Scarecrow''s Wedding'
+  release: 1776038400
+  language: en-gb
+  category: audio-book-songs
+  runtime: 34
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002661_Transparent-LgcjXFJE.png
+  sample: https://cdn.tonies.de/o/audio_samples/14f7c7d02c2ea3da3f9bff7c3c96924caa5c17cb2a2bc4a44d32c5a9/the_scarecrows_wedding_sample.mp3
+  web: https://tonies.com/en-gb/tonies/julia-donaldson/the-scarecrows-wedding/
+  shop-id: d80f582c-7cf5-44b9-be28-18c3eaf3f46a
+  track-desc:
+  - The Scarecrow's Wedding Complete Story
+  - The Scarecrow's Wedding Song
+  - The Scarecrow's Wedding Listening Game
+  - The Scarecrow's Wedding Instrumental
+  - The Scarecrow's Wedding Read-Along
+  ids: []
