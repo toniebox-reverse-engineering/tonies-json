@@ -19,8 +19,8 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000513,Disney,,and Pixar Finding Nemo,en-us,Tonie,stock,5519143960727,,1,1,1,0
 10000515,Disney,,Mulan,en-us,Tonie,stock,7011184312471,,1,1,1,0
 10000517,Disney,,"and Pixar Monsters, Inc.",en-us,Tonie,stock,6807592665239,,1,1,1,0
-10000534,Creative-Tonie,,Pirate,en-us,creative-tonie,stock,5519049130135,,1,0,0,0
-10000537,Creative-Tonie,,Blue & Red Superhero,en-us,creative-tonie,stock,6220672303255,,1,0,0,0
+10000534,Pirate Creative,,Pirate,en-us,Creative Tonie,stock,5519049130135,,1,0,0,0
+10000537,Blue & Red Superhero Creative,,Blue & Red Superhero,en-us,Creative Tonie,stock,6220672303255,,1,0,0,0
 10000538,Favorite Children's Songs,,Playtime Songs,en-us,Tonie,stock,5519401975959,,1,2,2,0
 10000539,Favorite Children's Songs,,Bedtime Songs,en-us,Tonie,stock,5519468626071,,1,2,2,0
 10000540,Favorite Children's Songs,,Celebration Songs,en-us,Tonie,stock,5519481045143,,1,2,2,0
@@ -28,8 +28,8 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000542,Peter Rabbit,,,en-us,Tonie,stock,6462410752151,,1,2,2,0
 10000543,Peppa Pig,,On the Road with Peppa,en-us,Tonie,stock,6807578935447,,1,2,2,0
 10000544,Spot's Fun with Friends,,,en-us,Tonie,stock,6220877955223,,1,2,2,0
-10000546,Creative-Tonie,,Fairy,en-us,creative-tonie,stock,5519037366423,,1,0,0,0
-10000547,Creative-Tonie,,Vampire,en-us,creative-tonie,stock,5515352014999,,1,0,0,0
+10000546,Fairy Creative,,Fairy,en-us,Creative Tonie,stock,5519037366423,,1,0,0,0
+10000547,Vampire Creative,,Vampire,en-us,Creative Tonie,stock,5515352014999,,1,0,0,0
 10000548,Julia Donaldson,,Stick Man,en-us,Tonie,stock,5519181971607,,1,1,1,0
 10000549,Julia Donaldson,,Zog,en-us,Tonie,stock,5519634989207,,1,1,1,0
 10000550,Julia Donaldson,,Room on the Broom,en-us,Tonie,stock,6042920288407,,1,2,2,0
@@ -40,7 +40,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000556,Guess How Much I Love You,,,en-us,Tonie,stock,6462409015447,,1,1,1,0
 10000557,Favorite Children's Songs,,Animal Songs,en-us,Tonie,stock,7099440169111,,1,3,3,0
 10000558,Favorite Children's Songs,,Counting Songs,en-us,Tonie,stock,5519656485015,,1,2,2,0
-10000559,Creative-Tonie,,Santa,en-us,creative-tonie,stock,8494533902487,,1,0,0,0
+10000559,Santa Creative,,Santa,en-us,Creative Tonie,stock,8494533902487,,1,0,0,0
 10000560,Favorite Children's Songs,,Traveling Songs,en-us,Tonie,stock,6661694652567,,1,3,3,0
 10000561,Julia Donaldson,,Highway Rat,en-us,Tonie,stock,6807571431575,,1,2,2,0
 10000562,Julia Donaldson,,The Gruffalo's Child,en-us,Tonie,stock,7065878364311,,1,2,2,0
@@ -54,14 +54,14 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000623,Disney,,Moana,en-us,Tonie,stock,7168607551639,,1,1,1,0
 10000624,Masha & the Bear,,,en-us,Tonie,stock,7099443478679,,1,1,1,0
 10000626,My Little Pony,,,en-us,Tonie,stock,7785751150743,,1,2,2,0
-10000628,Creative-Tonie,,Monster,en-us,creative-tonie,stock,8056753422487,,1,0,0,0
+10000628,Monster Creative,,Monster,en-us,Creative Tonie,stock,8056753422487,,1,0,0,0
 10000629,Octonauts,,Captain Barnacles,en-us,Tonie,stock,7325111025815,,1,1,1,0
 10000630,Sesame Street,,Cookie Monster,en-us,Tonie,stock,7099212398743,,1,2,2,0
 10000631,Spirit Untamed,,,en-us,Tonie,stock,7395881812119,,1,2,2,0
 10000632,Super Wings,,A World of Adventure,en-us,Tonie,stock,7065880428695,,1,2,2,0
 10000633,Trolls,,Poppy,en-us,Tonie,stock,7065882984599,,1,2,2,0
-10000635,Creative-Tonie,,Wizard,en-us,creative-tonie,stock,8056754176151,,1,1,0,0
-10000637,Creative-Tonie,,Yeti,en-us,creative-tonie,stock,7274255974551,,1,0,0,0
+10000635,Wizard Creative,,Wizard,en-us,Creative Tonie,stock,8056754176151,,1,1,0,0
+10000637,Yeti Creative,,Yeti,en-us,Creative Tonie,stock,7274255974551,,1,0,0,0
 10000638,Disney,,Mickey Mouse,en-us,Tonie,stock,7099444002967,,1,1,1,0
 10000641,Miraculous,,Tales of Ladybug & Cat Noir,en-us,Tonie,stock,7565339787415,,1,2,2,0
 10000642,The Snowman & the Snow Dog,,,en-us,Tonie,stock,7269035802775,,1,2,2,0
@@ -71,7 +71,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000654,SpongeBob SquarePants,,,en-us,Tonie,stock,8260101734551,,1,1,1,0
 10000655,Disney,,Minnie Mouse,en-us,Tonie,stock,7099444265111,,1,1,1,0
 10000656,Disney,,Beauty & the Beast,en-us,Tonie,stock,7219028885655,,1,2,2,0
-10000659,Creative-Tonie,,Singer,en-us,creative-tonie,stock,7274254827671,,1,0,0,0
+10000659,Singer Creative,,Singer,en-us,Creative Tonie,stock,7274254827671,,1,0,0,0
 10000660,Favorite Children's Songs,,Holiday Songs,en-us,Tonie,stock,7255819845783,,1,3,3,0
 10000679,Disney,,Frozen 2: Anna,en-us,Tonie,stock,7274253025431,,1,1,1,0
 10000685,Disney,,and Pixar Toy Story 2: Buzz Lightyear,en-us,Tonie,stock,7223047848087,,1,1,1,0
@@ -80,11 +80,11 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000700,Disney,,Winnie the Pooh,en-us,Tonie,stock,6972819964055,,1,1,1,0
 10000701,Diary of a Wimpy Kid,,,en-us,Tonie,stock,6972818555031,,1,1,1,0
 10000706,Sesame Street,,Elmo,en-us,Tonie,stock,7099209973911,,1,1,1,0
-10000723,Creative-Tonie,,Turquoise & Green Superhero,en-us,creative-tonie,stock,6220699238551,,1,0,0,0
+10000723,Turquoise & Green Superhero Creative,,Turquoise & Green Superhero,en-us,Creative Tonie,stock,6220699238551,,1,0,0,0
 10000724,PJ Masks,,Catboy,en-us,Tonie,stock,7745039204503,,1,2,2,0
 10000726,PAW Patrol,,Skye,en-us,Tonie,stock,7173602246807,,1,1,1,0
 10000727,PJ Masks,,Gekko,en-us,Tonie,stock,7745043103895,,1,2,2,0
-10000729,Creative-Tonie,,Pink & Purple Superhero,en-us,creative-tonie,stock,6220697763991,,1,0,0,0
+10000729,Pink & Purple Superhero Creative,,Pink & Purple Superhero,en-us,Creative Tonie,stock,6220697763991,,1,0,0,0
 10000731,PAW Patrol,,Marshall,en-us,Tonie,stock,7173595562135,,1,2,2,0
 10000748,Nap Time,nap-time-white-noise-tonie,White Noise,en-us,Tonie,stock,6220652150935,https://us.tonies.com/products/nap-time-white-noise-tonie,1,2,1,0
 10000749,Llama Llama,,,en-us,Tonie,stock,7173642748055,,1,2,2,0
@@ -122,7 +122,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000820,The Elf on the Shelf,,,en-us,Tonie,stock,8072067055767,,1,1,1,0
 10000821,Mindfulness,,Meditation with Mo the Sloth,en-us,Tonie,stock,8134363578519,,1,2,2,0
 10000822,Mia,,,en-us,Tonie,stock,7912821817495,,1,1,1,0
-10000824,Creative-Tonie,,Create Your Own,en-us,creative-tonie,stock,8057950568599,,1,1,0,0
+10000824,Create Your Own Creative,,Create Your Own,en-us,Creative Tonie,stock,8057950568599,,1,1,0,0
 10000882,Wild Kratts,,Chris,en-us,Tonie,stock,7395915956375,,1,2,2,0
 10000888,Tee and Mo,,Tee and Mo,en-us,Tonie,stock,7806564925591,,1,2,2,0
 10000925,LMNO Peas,,,en-us,Tonie,stock,7727258665111,,1,2,2,0
@@ -134,24 +134,24 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000938,Dr. Seuss,,The Lorax,en-us,Tonie,stock,9173752610967,,1,0,0,0
 10001002,Xavier Riddle,,,en-us,Tonie,stock,7695091630231,,1,2,2,0
 10001039,National Geographic Kids,,Penguin,en-us,Tonie,stock,7326666096791,,1,2,2,0
-10001049,Creative-Tonie,,Purple with Medium Hue,en-us,creative-tonie,stock,7154554372247,,1,0,0,0
-10001050,Creative-Tonie,,Red with Medium Hue,en-us,creative-tonie,stock,7154566070423,,1,0,0,0
-10001051,Creative-Tonie,,Green with Medium Hue,en-us,creative-tonie,stock,7154489819287,,1,0,0,0
-10001052,Creative-Tonie,,Light Blue with Medium Hue,en-us,creative-tonie,stock,7154498011287,,1,0,0,0
-10001053,Creative-Tonie,,Purple with Light Hue,en-us,creative-tonie,stock,7154551554199,,1,0,0,0
-10001054,Creative-Tonie,,Red with Light Hue,en-us,creative-tonie,stock,7154563907735,,1,0,0,0
-10001055,Creative-Tonie,,Green with Light Hue,en-us,creative-tonie,stock,7154486247575,,1,0,0,0
-10001056,Creative-Tonie,,Light Blue with Light Hue,en-us,creative-tonie,stock,7154494210199,,1,0,0,0
-10001057,Creative-Tonie,,Gray with Light Hue,en-us,creative-tonie,stock,7154429788311,,1,0,0,0
-10001058,Creative-Tonie,,Pink with Light Hue,en-us,creative-tonie,stock,7154505449623,,1,0,0,0
-10001059,Creative-Tonie,,Gray with Medium Hue,en-us,creative-tonie,stock,7154468946071,,1,0,0,0
-10001060,Creative-Tonie,,Pink with Medium Hue,en-us,creative-tonie,stock,7154507284631,,1,0,0,0
-10001061,Creative-Tonie,,Purple with Dark Hue,en-us,creative-tonie,stock,7154559320215,,1,0,0,0
-10001062,Creative-Tonie,,Red with Dark Hue,en-us,creative-tonie,stock,7154569216151,,1,0,0,0
-10001063,Creative-Tonie,,Green with Dark Hue,en-us,creative-tonie,stock,7154491162775,,1,0,0,0
-10001064,Creative-Tonie,,Light Blue with Dark Hue,en-us,creative-tonie,stock,7154500731031,,1,0,0,0
-10001065,Creative-Tonie,,Gray with Dark Hue,en-us,creative-tonie,stock,7154480742551,,1,0,0,0
-10001066,Creative-Tonie,,Pink with Dark Hue,en-us,creative-tonie,stock,7154508759191,,1,0,0,0
+10001049,Purple with Medium Hue Creative,,Purple with Medium Hue,en-us,Creative Tonie,stock,7154554372247,,1,0,0,0
+10001050,Red with Medium Hue Creative,,Red with Medium Hue,en-us,Creative Tonie,stock,7154566070423,,1,0,0,0
+10001051,Green with Medium Hue Creative,,Green with Medium Hue,en-us,Creative Tonie,stock,7154489819287,,1,0,0,0
+10001052,Light Blue with Medium Hue Creative,,Light Blue with Medium Hue,en-us,Creative Tonie,stock,7154498011287,,1,0,0,0
+10001053,Purple with Light Hue Creative,,Purple with Light Hue,en-us,Creative Tonie,stock,7154551554199,,1,0,0,0
+10001054,Red with Light Hue Creative,,Red with Light Hue,en-us,Creative Tonie,stock,7154563907735,,1,0,0,0
+10001055,Green with Light Hue Creative,,Green with Light Hue,en-us,Creative Tonie,stock,7154486247575,,1,0,0,0
+10001056,Light Blue with Light Hue Creative,,Light Blue with Light Hue,en-us,Creative Tonie,stock,7154494210199,,1,0,0,0
+10001057,Gray with Light Hue Creative,,Gray with Light Hue,en-us,Creative Tonie,stock,7154429788311,,1,0,0,0
+10001058,Pink with Light Hue Creative,,Pink with Light Hue,en-us,Creative Tonie,stock,7154505449623,,1,0,0,0
+10001059,Gray with Medium Hue Creative,,Gray with Medium Hue,en-us,Creative Tonie,stock,7154468946071,,1,0,0,0
+10001060,Pink with Medium Hue Creative,,Pink with Medium Hue,en-us,Creative Tonie,stock,7154507284631,,1,0,0,0
+10001061,Purple with Dark Hue Creative,,Purple with Dark Hue,en-us,Creative Tonie,stock,7154559320215,,1,0,0,0
+10001062,Red with Dark Hue Creative,,Red with Dark Hue,en-us,Creative Tonie,stock,7154569216151,,1,0,0,0
+10001063,Green with Dark Hue Creative,,Green with Dark Hue,en-us,Creative Tonie,stock,7154491162775,,1,0,0,0
+10001064,Light Blue with Dark Hue Creative,,Light Blue with Dark Hue,en-us,Creative Tonie,stock,7154500731031,,1,0,0,0
+10001065,Gray with Dark Hue Creative,,Gray with Dark Hue,en-us,Creative Tonie,stock,7154480742551,,1,0,0,0
+10001066,Pink with Dark Hue Creative,,Pink with Dark Hue,en-us,Creative Tonie,stock,7154508759191,,1,0,0,0
 10001071,Disney,,Pocahontas,en-us,Tonie,stock,7604933427351,https://us.tonies.com/products/disney-pocahontas-tonie,1,2,1,0
 10001073,Disney,,and Pixar Brave,en-us,Tonie,stock,7806523342999,,1,1,1,0
 10001074,Disney,,Doc McStuffins,en-us,Tonie,stock,7789732528279,,1,1,1,0
@@ -287,7 +287,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000560,Alejandro the Armadillo,,,en-us,Tonie,stock,8491398594711,,1,1,1,0
 11000567,Wow in the World,,Reggie,en-us,Tonie,stock,8260132044951,,1,1,1,0
 11000568,Lunar New Year,,,en-us,Tonie,stock,8614600212631,,1,1,1,0
-11000574,Creative-Tonie,,Mermaid,en-us,creative-tonie,stock,8134563692695,,1,0,0,0
+11000574,Mermaid Creative,,Mermaid,en-us,Creative Tonie,stock,8134563692695,,1,0,0,0
 11000611,Lalalinos,,Cosmo - Bumbaloo Beats,en-us,Tonie,stock,8753159831703,,1,1,1,0
 11000613,Lalalinos,,Scout - Move and Groove in Bumbaloo,en-us,Tonie,stock,8614794625175,,1,2,2,0
 11000617,Lalalinos,,Akio - The Best Band in Bumbaloo,en-us,Tonie,stock,8623894954135,,1,3,3,0
