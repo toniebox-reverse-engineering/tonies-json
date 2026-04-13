@@ -7,7 +7,7 @@ data:
   release: 1723075200
   language: en-gb
   category: audio-play
-  runtime: 0
+  runtime: 720
   age: 4
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11001109_Landscape_M-g0WYFH2o.jpg
@@ -15,15 +15,8 @@ data:
   web: https://tonies.com/en-gb/clever-tonies/joke-of-the-day/joke-of-the-day/
   shop-id: c31bee4a-d638-47da-b7c5-f27bd51ebb1d
   track-desc:
-  - 7th April
-  - 6th April
-  - 5th April
-  - 4th April
-  - 3rd April
-  - 2nd April
-  - 1st April
-  - 31st March
-  - Joke Of The Day Jingle
+  - 'Daily Release of Joke of The Day episode (Total Content: 2min x 355 original
+    episodes)'
   ids:
   - audio-id: 1775952338
     hash: 865021c90ac8f6109b407b8c4ba617b432f3293b
