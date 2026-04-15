@@ -1,0 +1,40 @@
+article: '11004679'
+lock-data: false
+data:
+- series: Lieblings-Literatur
+  series-id: lieblings-literatur
+  episode: Peter Pan
+  release: 1778630400
+  language: de-de
+  category: audio-book
+  runtime: 160
+  age: 7
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11004679_2_a-OFKCXke2.png
+  sample: https://cdn.tonies.de/o/audio_samples/e11c8a5d2dac49fefdad80bcf2b74e7588665f61a28e513e623a855f/peter_pan_hoerprobe.wav
+  web: https://tonies.com/de-de/book-tonies/lieblings-literatur/peter-pan/
+  shop-id: 75e1fd9e-5478-4795-9ffa-d998c7d68e13
+  track-desc:
+  - Nimmerland 1
+  - Nimmerland 2
+  - Peters Schatten 1
+  - Peters Schatten 2
+  - Das Abenteuer beginnt 1
+  - Das Abenteuer beginnt 2
+  - Fliegen 1
+  - Fliegen 2
+  - Die verlorenen Jungs 1
+  - Die verlorenen Jungs 2
+  - Wendy landet in Nimmerland 1
+  - Wendy landet in Nimmerland 2
+  - Der Kuchenhinterhalt 1
+  - Der Kuchenhinterhalt 2
+  - Abenteuer, Abenteuer und nochmal Abenteuer 1
+  - Abenteuer, Abenteuer und nochmal Abenteuer 2
+  - Abenteuer, Abenteuer und nochmal Abenteuer 3
+  - Kikerikiii in der Kajüte 1
+  - Kikerikiii in der Kajüte 2
+  - Kikerikiii in der Kajüte 3
+  - Zu Hause 1
+  - Zu Hause 2
+  ids: []

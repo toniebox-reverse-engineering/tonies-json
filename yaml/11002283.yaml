@@ -1,0 +1,26 @@
+article: '11002283'
+lock-data: false
+data:
+- series: Bobo Siebenschläfer
+  series-id: bobo-siebenschlaefer
+  episode: Bobo auf großer Reise und weitere Folgen
+  release: 1778630400
+  language: de-de
+  category: audio-play
+  runtime: 46
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX1002283_1_a-efgrgKkF.png
+  sample: https://cdn.tonies.de/o/audio_samples/d96e150c5fe265dd525eb14975e7d37d1dcc99f2a521144ea00b0fdf/hoerprobe_11002283_bobo_siebenschlaefer_bobo_auf_grosser_reise.mp3
+  web: https://tonies.com/de-de/tonies/bobo-siebenschlaefer/bobo-auf-grosser-reise-und-weitere-folgen/
+  shop-id: b98d283b-065f-4b0e-810e-d363077efc81
+  track-desc:
+  - Bobo auf großer Reise
+  - Bobo bastelt eine Lampe
+  - Bobo auf dem Wasserspielplatz
+  - Bobo und der große Karton
+  - Bobo macht Musik
+  - Bobo und die Papierflieger
+  - Bobo besucht Hedi
+  - Bobo im Wald
+  ids: []

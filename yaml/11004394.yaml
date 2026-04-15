@@ -1,0 +1,43 @@
+article: '11004394'
+lock-data: false
+data:
+- series: Lieblings-Literatur
+  series-id: lieblings-literatur
+  episode: Der geheime Garten
+  release: 1778630400
+  language: de-de
+  category: audio-book
+  runtime: 170
+  age: 7
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11004394_1_a-OPLm5RTs.png
+  sample: https://cdn.tonies.de/o/audio_samples/e63434bf9f5ec1dce9d6618fcb82f08c9bfc6e947050b217e7cb01a2/horprobe_der_geheime_garten.mp3
+  web: https://tonies.com/de-de/book-tonies/lieblings-literatur/der-geheime-garten/
+  shop-id: 369cbb3a-d273-4c8d-8e8a-3c6f823604ea
+  track-desc:
+  - Der Garten
+  - Ein trauriger Anfang
+  - Auf dem Weg nach Misslethwaite 1
+  - Auf dem Weg nach Misslethwaite 2
+  - Martha 1
+  - Martha 2
+  - Der erste Tag
+  - Das Rotkehlchen und Ben Weatherstaff
+  - Weinen in der Nacht
+  - Hinter der Tapetentür 1
+  - Hinter der Tapetentür 2
+  - Rotkehlchens Geheimnis
+  - Der geheime Garten 1
+  - Der geheime Garten 2
+  - Dickon! Endlich Dickon!
+  - Sorgenkind und Sorgenpapa 1
+  - Sorgenkind und Sorgenpapa 2
+  - Dickon kommt zu Besuch 1
+  - Dickon kommt zu Besuch 2
+  - Die große Überraschung 1
+  - Die große Überraschung 2
+  - Noch mehr Geheimnisse 1
+  - Noch mehr Geheimnisse 2
+  - Mr Craven kommt nach Hause 1
+  - Mr Craven kommt nach Hause 2
+  ids: []
