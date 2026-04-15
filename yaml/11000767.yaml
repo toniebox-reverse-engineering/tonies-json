@@ -29,6 +29,11 @@ data:
   - Die Kackwurstfabrik - Teil 12
   - Die Kackwurstfabrik - Teil 13
   ids:
+  - audio-id: 1776243888
+    hash: 2d0ea5a0fb7711ba9fbe8df97adee086af1950a8
+    size: 30372212
+    tracks: 13
+    confidence: 2
   - audio-id: 1717747747
     hash: d77b2482c6bea342a0a67868b4ee7766a5de2d69
     size: 30372212
