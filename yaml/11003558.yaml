@@ -30,4 +30,14 @@ data:
   - Tiger - Der Tiger und die Hummel
   - Tiger - Tiger schleichen durch den Dschungel (Klanglandschaft & Musik)
   - Tiger - Outro
-  ids: []
+  ids:
+  - audio-id: 1763982929
+    hash: 68629b6cc0b9da286cbfce55b97d22e4982cc2c2
+    size: 9175987
+    tracks: 5
+    confidence: 0
+  - audio-id: 1763982709
+    hash: 9b11cf0d8f69cf35bfb999c7688f31f3d998c933
+    size: 8750838
+    tracks: 5
+    confidence: 0
