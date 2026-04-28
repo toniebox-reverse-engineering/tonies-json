@@ -42,6 +42,11 @@ data:
   - 24 décembre
   - Chanson
   ids:
+  - audio-id: 1777379135
+    hash: d4eb6106f9a9bd0b6aea4ca75f07225f020e7c3c
+    size: 116667507
+    tracks: 26
+    confidence: 1
   - audio-id: 1770397511
     hash: 145e4f51e0c901e723781810b9db6243adbc8bf0
     size: 116667507

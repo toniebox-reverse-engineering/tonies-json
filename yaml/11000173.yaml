@@ -17,6 +17,11 @@ data:
   track-desc:
   - Intro Und Anleitung
   ids:
+  - audio-id: 1777379133
+    hash: d44372491f198050019de2115015b55cc22bfd44
+    size: 128853526
+    tracks: 26
+    confidence: 3
   - audio-id: 1770397513
     hash: 06fb6d7533b66422bb138e258f1acd3cf40a0496
     size: 128853526
