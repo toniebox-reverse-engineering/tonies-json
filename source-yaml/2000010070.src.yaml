@@ -4,10 +4,10 @@ data:
 - series: ''
   series-id: ''
   episode: ''
-  release: tonies-shopapi-de-de,,
+  release: ''
   language: ''
   category: ''
-  runtime: ''
+  runtime: tonies-shopapi-de-de,,
   age: ''
   origin: ''
   image: ''
