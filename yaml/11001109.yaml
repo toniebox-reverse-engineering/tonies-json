@@ -31,6 +31,11 @@ data:
   - 17th April
   - Joke Of The Day Jingle
   ids:
+  - audio-id: 1777507527
+    hash: 691a1164aabfb383ce333dc3eb3fa25b2972c9f4
+    size: 33264788
+    tracks: 15
+    confidence: 1
   - audio-id: 1777421101
     hash: 9ec007889e430acdfc4f6d80a5d56da519fc2127
     size: 33481898
