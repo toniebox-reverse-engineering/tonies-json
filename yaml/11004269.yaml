@@ -1,0 +1,28 @@
+article: '11004269'
+lock-data: false
+data:
+- series: Lottie Brooks
+  series-id: lottie-brooks
+  episode: Lottie Brooks - The Mega-Complicated Crushes of Lottie Brooks (Book 3)
+  release: 1778630400
+  language: en-gb
+  category: audio-book
+  runtime: 321
+  age: 9
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11004269_Landscape_7-0oeVziiM.png
+  sample: https://cdn.tonies.de/o/audio_samples/5dd22450ff32a806013f389d531988a9af22724a563698e388c2957e/the_mega_complicated_crushes_of_lottie_brooks.wav
+  web: https://tonies.com/en-gb/book-tonies/lottie-brooks/the-mega-complicated-crushes-of-lottie-brooks-book-3/
+  shop-id: 536300e8-6293-4a8a-867f-59c11961e9e0
+  track-desc:
+  - 01. INTRO - Opening Credits
+  - 02. STORY - Tuesday 3rd May
+  - 03. STORY - Sunday 15th May
+  - 04. STORY - Wednesday 1st June
+  - 05. STORY - Saturday 11th June
+  - 06. STORY - Friday 1st July
+  - 07. STORY - Tuesday 19th July
+  - 08. STORY - Monday 1st August
+  - 09. STORY - Sunday 14th August
+  - 10. OUTRO - Closing Credits
+  ids: []
