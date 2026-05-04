@@ -1,13 +1,13 @@
 article: '11001920'
 lock-data: false
 data:
-- series: ''
+- series: tonies-json-de-de,
   series-id: ''
   episode: ''
   release: ''
   language: ''
   category: ''
-  runtime: tonies-json-de-de,
+  runtime: ''
   age: ''
   origin: ''
   image: ''
