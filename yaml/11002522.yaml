@@ -1,0 +1,23 @@
+article: '11002522'
+lock-data: false
+data:
+- series: Flip & Oodle
+  series-id: flip-oodle
+  episode: Une Vie Sur Terre
+  release: 1778112000
+  language: fr-fr
+  category: audio-play
+  runtime: 65
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51014222-Tonie_Shado-p-H_3h1l.png
+  sample: https://cdn.tonies.de/o/audio_samples/cd96d01cff0cb66006535a7d3cc7b2aa23b600cc3712ce59f91cfbe9/11002522_flip_oodle_extraitmp3.mp3
+  web: https://tonies.com/fr-fr/tonies/flip-oodle/une-vie-sur-terre/
+  shop-id: fd248e84-8eb7-4a6e-8fd6-d1c9ded8d763
+  track-desc:
+  - Chanson et prologue
+  - Bienvenue sur Terre
+  - Dans l'obscurité
+  - L'équipe de rêve
+  - À des galaxies d’ici
+  ids: []
