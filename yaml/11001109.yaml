@@ -31,6 +31,11 @@ data:
   - 26th April
   - Joke Of The Day Jingle
   ids:
+  - audio-id: 1778285105
+    hash: 837ed48113175c7362fa81837c887c0324c4af23
+    size: 39737569
+    tracks: 15
+    confidence: 1
   - audio-id: 1778198706
     hash: 121967b76b9e5bbdace68fdd8baf2179ee197d5a
     size: 39086305
