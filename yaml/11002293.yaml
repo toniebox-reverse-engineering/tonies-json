@@ -14,27 +14,28 @@ data:
   sample: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Bullseye_Sample_1.mp3
   web: https://us.tonies.com/products/target-bullseye-tonie
   shop-id: '9160670707863'
-  ⁻ 'Story Part 1'
-  ⁻ 'Road Trip'
-  ⁻ 'Story Part 2'
-  ⁻ 'Seatbelt'
-  ⁻ 'Story Part 3'
-  ⁻ 'Taking the Long Way Around'
-  ⁻ 'Story Part 4'
-  ⁻ 'Je t’aime, Mon Océan'
-  ⁻ 'Story Part 5'
-  ⁻ 'Story Part 6'
-  ⁻ "I'm Bored"
-  ⁻ 'Story Part 7'
-  ⁻ "That's What I'm Talkin' About"
-  ⁻ 'Story Part 8'
-  ⁻ 'Story Part 9'
-  ⁻ 'Sweat Dreams'
-  ⁻ 'Story Part 10'
-  ⁻ 'Thunderstorm'
-  ⁻ 'Story Part 11'
-  ⁻ 'Maravilloso'
-  ⁻ 'Story Part 12'
+  track-desc:
+  - 'Story Part 1'
+  - 'Road Trip'
+  - 'Story Part 2'
+  - 'Seatbelt'
+  - 'Story Part 3'
+  - 'Taking the Long Way Around'
+  - 'Story Part 4'
+  - 'Je t’aime, Mon Océan'
+  - 'Story Part 5'
+  - 'Story Part 6'
+  - "I'm Bored"
+  - 'Story Part 7'
+  - "That's What I'm Talkin' About"
+  - 'Story Part 8'
+  - 'Story Part 9'
+  - 'Sweat Dreams'
+  - 'Story Part 10'
+  - 'Thunderstorm'
+  - 'Story Part 11'
+  - 'Maravilloso'
+  - 'Story Part 12'
   ids: 
   - audio-id: 1759333712
     hash: 002d1106d85b3079e4142133e40b04bfb97d4bae
