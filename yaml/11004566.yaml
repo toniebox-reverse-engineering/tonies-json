@@ -29,4 +29,9 @@ data:
   - Auf der Ritterburg 4
   - Auf der Ritterburg 5
   - Auf der Ritterburg 6
-  ids: []
+  ids:
+  - audio-id: 1773056455
+    hash: 2a577e8054118b09e10afed5a4e5046efaae079b
+    size: 46082242
+    tracks: 14
+    confidence: 1
