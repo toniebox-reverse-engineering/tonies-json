@@ -2,15 +2,15 @@ article: '2000011523'
 lock-data: false
 data:
 - series: ''
-  series-id: tonies-shopapi-de-de,
+  series-id: ''
   episode: ''
   release: ''
   language: ''
   category: ''
-  runtime: ''
+  runtime: tonies-shopapi-de-de,
   age: ''
   origin: ''
-  image: tonies-shopapi-de-de,
+  image: ''
   sample: ''
   web: ''
   shop-id: ''

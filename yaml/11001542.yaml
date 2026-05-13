@@ -15,21 +15,21 @@ data:
   web: https://tonies.com/de-de/tonies/bibi-tina/die-verlorene-freundschaft-relaunch/
   shop-id: a71a40bd-39c0-443d-8e0d-b76aa2598219
   track-desc:
-  - 01 Titellied
-  - 02 Wettreiten
-  - 03 Spinnefeind
-  - 04 Schlechte Stimmung
-  - 05 Streuner
-  - 06 Der Plan Der Eltern
-  - 07 Schichtdienst
-  - 08 Die Sache Mit Buggy
-  - 09 Begegnung Im Stall
-  - 10 Zu Spaet
-  - 11 Am Lagerfeuer
-  - 12 Bibis Und Tinas Streit
-  - 13 Du Zuerst
-  - 14 Die Grosse Versoehnung
-  - 15 Bonus Der Martinshof
+  - Titellied
+  - Wettreiten
+  - Spinnefeind
+  - Schlechte Stimmung
+  - Streuner
+  - Der Plan der Eltern
+  - Schichtdienst
+  - Die Sache mit Buggy
+  - Begegnung im Stall
+  - Zu spät
+  - Am Lagerfeuer
+  - Bibis und Tinas Streit
+  - Du zuerst
+  - Die grosse Versöhnung
+  - Bonus Der Martinshof
   ids:
   - audio-id: 1733831147
     hash: d6e8f5c2a38e78b7d52c878f316fd1f7a6011b82

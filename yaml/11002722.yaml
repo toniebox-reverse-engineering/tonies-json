@@ -15,28 +15,33 @@ data:
   web: https://tonies.com/de-de/tonies/die-schluempfe/papa-schlumpf/
   shop-id: 21b5ac33-cbd4-46c3-a8d6-7cec98e56751
   track-desc:
-  - 01 Intro
-  - 02 Episode 1 Die Verschlumpfung
-  - 03 Episode 1 Die Verschlumpfung
-  - 04 Episode 1 Die Verschlumpfung
-  - 05 Episode 1 Die Verschlumpfung
-  - 06 Episode 1 Die Verschlumpfung
-  - '07 Episode 2: Die Titelstory'
-  - '08 Episode 2: Die Titelstory'
-  - '09 Episode 2: Die Titelstory'
-  - '10 Episode 2: Die Titelstory'
-  - '11 Episode 2: Die Titelstory'
-  - '12 Episode 3: Der doppelte Papa Schlumpf'
-  - '13 Episode 3: Der doppelte Papa Schlumpf'
-  - '14 Episode 3: Der doppelte Papa Schlumpf'
-  - '15 Episode 3: Der doppelte Papa Schlumpf'
-  - '16 Episode 3: Der doppelte Papa Schlumpf'
-  - '17 Episode 4: Wer einmal lügt…'
-  - '18 Episode 4: Wer einmal lügt…'
-  - '19 Episode 4: Wer einmal lügt…'
-  - '20 Episode 4: Wer einmal lügt…'
-  - '21 Episode 4: Wer einmal lügt…'
-  - 22 Outro
+  - Die Schlümpfe – Der doppelte Papa Schlumpf – Intro
+  - Die Schlümpfe – Der doppelte Papa Schlumpf – Die Verschlumpfung (Teil 1)
+  - Die Schlümpfe – Der doppelte Papa Schlumpf – Die Verschlumpfung (Teil 2)
+  - Die Schlümpfe – Der doppelte Papa Schlumpf – Die Verschlumpfung (Teil 3)
+  - Die Schlümpfe – Der doppelte Papa Schlumpf – Die Verschlumpfung (Teil 4)
+  - Die Schlümpfe – Der doppelte Papa Schlumpf – Die Verschlumpfung (Teil 5)
+  - Die Schlümpfe – Der doppelte Papa Schlumpf – Die Titelstory (Teil 1)
+  - Die Schlümpfe – Der doppelte Papa Schlumpf – Die Titelstory (Teil 2)
+  - Die Schlümpfe – Der doppelte Papa Schlumpf – Die Titelstory (Teil 3)
+  - Die Schlümpfe – Der doppelte Papa Schlumpf – Die Titelstory (Teil 4)
+  - Die Schlümpfe – Der doppelte Papa Schlumpf – Die Titelstory (Teil 5)
+  - Die Schlümpfe – Der doppelte Papa Schlumpf – Der doppelte Papa Schlumpf (Teil
+    1)
+  - Die Schlümpfe – Der doppelte Papa Schlumpf – Der doppelte Papa Schlumpf (Teil
+    2)
+  - Die Schlümpfe – Der doppelte Papa Schlumpf – Der doppelte Papa Schlumpf (Teil
+    3)
+  - Die Schlümpfe – Der doppelte Papa Schlumpf – Der doppelte Papa Schlumpf (Teil
+    4)
+  - Die Schlümpfe – Der doppelte Papa Schlumpf – Der doppelte Papa Schlumpf (Teil
+    5)
+  - Die Schlümpfe – Der doppelte Papa Schlumpf – Wer einmal lügt… (Teil 1)
+  - Die Schlümpfe – Der doppelte Papa Schlumpf – Wer einmal lügt… (Teil 2)
+  - Die Schlümpfe – Der doppelte Papa Schlumpf – Wer einmal lügt… (Teil 3)
+  - Die Schlümpfe – Der doppelte Papa Schlumpf – Wer einmal lügt… (Teil 4)
+  - Die Schlümpfe – Der doppelte Papa Schlumpf – Wer einmal lügt… (Teil 5)
+  - Die Schlümpfe – Der doppelte Papa Schlumpf – Outro
   ids:
   - audio-id: 1757507048
     hash: e212d5aaf85d7be4cf8010f9a03b8ef9e7224a05
