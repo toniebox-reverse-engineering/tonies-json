@@ -273,7 +273,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10000155,Lieblings-Klassiker,lieblings-klassiker,Eine Weihnachtsgeschichte und vier weitere Klassiker,de-de,audio-book,stock,3d90a3b8-74c3-4d81-85f0-dd46e5ebbd85,https://tonies.com/de-de/tonies/lieblings-klassiker/eine-weihnachtsgeschichte-und-vier-weitere-klassiker/,1,1,1,0
 10000156,TKKG Junior,tkkg-junior,Der rote Retter,de-de,audio-play,stock,f995afa0-4092-43b7-bcd3-2e759a12e8b6,https://tonies.com/de-de/tonies/der-rote-retter/,1,1,1,0
 10000157,Wickie,wickie,Tanz mit dem Wolf und sechs weitere Episoden,de-de,audio-play,stock,4deb87fa-9827-44ec-a47f-37ec82a020c6,https://tonies.com/de-de/tonies/wickie/tanz-mit-dem-wolf-und-sechs-weitere-episoden/,2,6,4,0
-10000158,Die drei ???,die-drei-fragezeichen,Der Super-Papagei,de-de,audio-play,stock,659caea6-36b9-43c1-a38e-525d12383798,https://tonies.com/de-de/tonies/die-drei-fragezeichen/der-super-papagei/,4,10,7,0
+10000158,Die drei ???,die-drei-fragezeichen,Der Super-Papagei,de-de,audio-play,stock,659caea6-36b9-43c1-a38e-525d12383798,https://tonies.com/de-de/tonies/die-drei-fragezeichen/der-super-papagei/,4,9,6,0
 10000159,Creative-Tonie,,Builder,en-gb,creative-tonie,stock,356f8cd4-a58a-4d5c-9422-7696b0c6fda2,https://tonies.com/de-de///,1,0,0,0
 10000160,Favourite Children’s Songs,,Animal Songs,en-gb,audio-play,stock,,,1,1,1,0
 10000161,Favourite Classics,,Peter Pan and other classic stories,en-gb,audio-play,stock,,,1,1,1,0
@@ -766,7 +766,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001075,Arthur,,,en-us,Tonie,stock,7531730993303,,1,2,2,0
 10001078,Super Why!,,,en-us,Tonie,stock,7806562599063,,1,2,2,0
 10001079,Let's Go Luna,,,en-us,Tonie,stock,7774607343767,,1,2,2,0
-10001082,The Pout-Pout Fish,,,en-us,Tonie,stock,8210621038743,,1,0,0,0
+10001082,The Pout-Pout Fish,,,en-us,Tonie,stock,8210621038743,,1,1,0,0
 10001083,Daniel Tiger's Neighborhood,,,en-us,Tonie,stock,7371506385047,,1,2,2,0
 10001084,The 7 Habits of Happy Kids,,,en-us,Tonie,stock,8032007749783,,1,4,4,0
 10001085,Word Party,,,en-us,Tonie,stock,8007349600407,,1,2,2,0
@@ -1683,7 +1683,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11002283,Bobo Siebenschläfer,bobo-siebenschlaefer,Bobo auf großer Reise und weitere Folgen,de-de,audio-play,stock,b98d283b-065f-4b0e-810e-d363077efc81,https://tonies.com/de-de/tonies/bobo-siebenschlaefer/bobo-auf-grosser-reise-und-weitere-folgen/,1,0,0,0
 11002284,Disney,,and Pixar Up,en-us,Tonie,stock,9485293944983,,1,1,1,0
 11002285,Disney,,Zootopia,en-us,Tonie,stock,9185415463063,,1,0,0,0
-11002293,Target Bullseye,,,en-us,Tonie,stock,9160670707863,,1,1,1,0
+11002293,Target Bullseye,Target Bullseye,Target Bullseye,en-us,Tonie,stock,9160670707863,https://us.tonies.com/products/target-bullseye-tonie,1,1,1,0
 11002301,Caspar Babypants,,,en-us,Tonie,stock,9409150189719,,1,1,1,0
 11002351,Sleepy Jaguar,,Lullabies From The Sleepy Jungle,en-us,Tonie,stock,9425040474263,,1,1,1,0
 11002359,Sleepy Toucan,,Nature Sounds From The Sleepy Jungle,en-us,Tonie,stock,9425040539799,,1,0,0,0
