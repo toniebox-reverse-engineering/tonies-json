@@ -1,0 +1,23 @@
+article: '11003418'
+lock-data: false
+data:
+- series: Micky Maus Wunderhaus
+  series-id: disney-micky-maus-wunderhaus
+  episode: Micky Maus Wunderhaus - Minnie
+  release: 1781049600
+  language: de-de
+  category: audio-play-songs
+  runtime: 40
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11003418_1_a-ozEIE6Gw.png
+  sample: https://cdn.tonies.de/o/audio_samples/3a9740110df3d927a0d3904327c9789f20999c548e933e73cfdd7fd6/hoerprobe_11003418_disney_jr_micky_maus_wunderhaus_minnie.mp3
+  web: https://tonies.com/de-de/tonies/disney-micky-maus-wunderhaus/minnie-maus-wunderhaus-tonie/
+  shop-id: c776eca0-c6b3-43a8-92b5-a172df2b16c6
+  track-desc:
+  - Das ist das Micky Maus Wunderhaus (2025 Version)
+  - Minnies Dampforgel-Bahn, Teil 1
+  - Minnies Dampforgel-Bahn, Teil 2
+  - Minnies Dinnerparty, Teil 1
+  - Minnies Dinnerparty, Teil 2
+  ids: []
