@@ -1,0 +1,32 @@
+article: '11003411'
+lock-data: false
+data:
+- series: Tierische Sportsfreunde
+  series-id: tierische-sportsfreunde
+  episode: Das große Fußballturnier
+  release: 1778630400
+  language: de-de
+  category: audio-play
+  runtime: 62
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11003411_1_a-fknyZxAn.png
+  sample: https://cdn.tonies.de/o/audio_samples/565ac2c65c00a4fcf701eb032e65621445bb6d5f77c6c6f731895531/horprobe_sportsfreunde.wav
+  web: https://tonies.com/de-de/tonies/tierische-sportsfreunde/das-grosse-fussballturnier/
+  shop-id: 8b3f0461-cfe1-4438-9ad0-1b9b0a22682f
+  track-desc:
+  - Anpfiff
+  - Hammys Super Idee 1
+  - Hammys Super Idee 2
+  - Hammys Super Idee 3
+  - Der Teamwork Test 1
+  - Der Teamwork Test 2
+  - Der Teamwork Test 3
+  - Aufstehen Krone Richten Weiter 1
+  - Aufstehen Krone Richten Weiter 2
+  - Aufstehen Krone Richten Weiter 3
+  - Ein Gewinner Mit Herz 1
+  - Ein Gewinner Mit Herz 2
+  - Ein Gewinner Mit Herz 3
+  - Abpfiff
+  ids: []

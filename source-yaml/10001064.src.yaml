@@ -1,12 +1,12 @@
 article: '10001064'
 lock-data: false
 data:
-- series: ''
+- series: tonies-us-en-us,
   series-id: ''
   episode: ''
   release: ''
   language: ''
-  category: tonies-us-en-us,fix-creative-lang,
+  category: tonies-us-en-us,
   runtime: ''
   age: ''
   origin: ''

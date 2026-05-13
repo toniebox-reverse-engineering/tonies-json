@@ -1,0 +1,20 @@
+article: '11003537'
+lock-data: false
+data:
+- series: Vice-Versa
+  series-id: disney-inside-out
+  episode: Vice-Versa (1 et 2)
+  release: 1774396800
+  language: fr-fr
+  category: audio-play
+  runtime: 57
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/50006142-Tonie_Shado-WQq8OUxG.png
+  sample: https://cdn.tonies.de/o/audio_samples/71c3cb1402c747016888a6be1bc809682530a5bc7a058643e1257182/00_vice_versa_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/disney-vice-versa/vice-versa-1-et-2/
+  shop-id: 656d3ff9-af33-4eef-a9b2-cf752637d758
+  track-desc:
+  - Vice-Versa 1 - Le film
+  - Vice-Versa 2 - Le film
+  ids: []

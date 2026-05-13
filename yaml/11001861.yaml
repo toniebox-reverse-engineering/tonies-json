@@ -27,8 +27,13 @@ data:
   - Der kleine Prinz und ich und die Suche nach dem Brunnen
   - Der kleine Prinz kehrt heim
   ids:
+  - audio-id: 1778488192
+    hash: 920dc32b56e0d48423f376a948870b328f0a6b04
+    size: 49015663
+    tracks: 11
+    confidence: 1
   - audio-id: 1739354599
     hash: 40699144bca173e245fa766931ae35712aa385b1
     size: 49015663
     tracks: 11
-    confidence: 0
+    confidence: 1

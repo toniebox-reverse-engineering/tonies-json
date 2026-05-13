@@ -1,0 +1,33 @@
+article: '2000011684'
+lock-data: false
+data:
+- series: The Chronicles of Narnia
+  series-id: the-chronicles-of-narnia
+  episode: Prince Caspian (Book 4)
+  release: 1773964800
+  language: en-gb
+  category: audio-book
+  runtime: 16810
+  age: 9
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_311fd1bab51a69d85860f93ac9e848a0a8da49cbef3926ea6c63389d/3_SFjmFF3bChZDFBhK/the_chronicles_of_narnia_prince_caspian_book_4_530x530.jpg
+  sample: null
+  web: https://tonies.com/en-gb/audio-content/the-chronicles-of-narnia/narnia-prince-caspian-book-4-digital/
+  shop-id: e93bba5a-ce78-440f-a012-464bad87c9d2
+  track-desc:
+  - 'Intro + Chapter 1: The Island'
+  - 'Chapter 2: The Ancient Treasure House'
+  - 'Chapter 3: The Dwarf'
+  - 'Chapter 4: The Dwarf Tells of Prince Caspian'
+  - 'Chapter 5: Caspian''s Adventure in the Mountains'
+  - 'Chapter 6: The People That Lived in Hiding'
+  - 'Chapter 8: How They Left the Island'
+  - 'Chapter 9: What Lucy Saw'
+  - 'Chapter 10: The Return of the Lion'
+  - 'Chapter 11: The Lion Roars'
+  - 'Chapter 12: Sorcery and Sudden Vengeance'
+  - 'Chapter 13: The High King in Command'
+  - 'Chapter 14: How All Were Very Busy'
+  - 'Chapter 15: Aslan Makes a Door in the Air'
+  - 'Chapter 7: Old Narnia in Danger'
+  ids: []

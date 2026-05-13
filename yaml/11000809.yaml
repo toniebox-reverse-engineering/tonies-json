@@ -15,8 +15,10 @@ data:
   web: https://tonies.com/en-gb/tonies/paw-patrols-jungle-pups/jungle-pups-marshall/
   shop-id: 72c5f5d5-e102-46ab-a909-fa5d71300fa2
   track-desc:
-  - SONG - PAW Patrol Theme Song
-  - 'STORY: Jungle Pups - Pups Save the Big, Big Animals'
-  - 'STORY: Pups Save Alex''s Feathery Friends'
-  - 'STORY: Pups Save a Trophy'
+  - 01. INTRO
+  - 02. SONG - PAW Patrol Theme Song
+  - 03. STORY - Jungle Pups - Pups Save the Big, Big Animals
+  - 04. STORY - Pups Save Alex's Feathery Friends
+  - 05. STORY - Pups Save a Trophy
+  - 06. OUTRO
   ids: []

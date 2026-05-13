@@ -1,0 +1,24 @@
+article: '11003337'
+lock-data: false
+data:
+- series: Winnie Puuh
+  series-id: disney-winnie-puuh
+  episode: I-Aah
+  release: 1778630400
+  language: de-de
+  category: audio-play
+  runtime: 58
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11003337_1_a-H_2io0sg.png
+  sample: https://cdn.tonies.de/o/audio_samples/f689341da1480b50767fb9dd6a5a396ee9a618aa6aa72a4d127364af/hoerprobe_11003337_disney_i_aah.mp3
+  web: https://tonies.com/de-de/tonies/disney-winnie-puuh/winnie-puuh-i-aah/
+  shop-id: f20ef4d9-c7b2-475d-9659-6cdd64973481
+  track-desc:
+  - 'Kapitel 01: Winnie Puuh - Der Film'
+  - 'Kapitel 02: Winnie Puuh - Der Film'
+  - 'Kapitel 03: Winnie Puuh - Der Film'
+  - 'Kapitel 04: Winnie Puuh - Der Film'
+  - 'Kapitel 05: Winnie Puuh - Der Film'
+  - 'Kapitel 06: Winnie Puuh - Der Film'
+  ids: []

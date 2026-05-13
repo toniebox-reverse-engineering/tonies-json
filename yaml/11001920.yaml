@@ -1,7 +1,7 @@
 article: '11001920'
 lock-data: false
 data:
-- series: Leos Tag
+- series: Leo's Tag
   series-id: leos-tag
   episode: Hoppala, wer schnieft denn da?
   release: 1760400000
@@ -22,9 +22,9 @@ data:
   - Leo hat die Nase voll
   - Kuscheln ist die beste Medizin
   - Leo ist wieder da!
-  ids: 
+  ids:
   - audio-id: 1757409912
     hash: 81a776f65bb56eb7ddeacb6034b38050d4750c64
     size: 43148434
     tracks: 7
-    confidence: 0
+    confidence: 1

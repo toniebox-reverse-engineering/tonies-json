@@ -24,8 +24,13 @@ data:
   - 07 - Das Theaterstück
   - 08 - Gedichte
   ids:
+  - audio-id: 1778570562
+    hash: 348c167739aeef73bce32badcd892cd7003c865c
+    size: 28049102
+    tracks: 8
+    confidence: 1
   - audio-id: 1759749446
     hash: ab09273b94deedc3c7030e55b2323e14fe8731d0
     size: 28431811
     tracks: 8
-    confidence: 0
+    confidence: 1
