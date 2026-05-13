@@ -15,8 +15,12 @@ data:
   web: https://tonies.com/fr-fr/tonies/la-pat-patrouille/chase/
   shop-id: 2eada2d6-39e1-4d75-a2f3-04647e0aa13d
   track-desc:
+  - Introduction
+  - Générique de début
   - 'Mission secrète : La couronne'
+  - Intermède
   - 'Mission dino : À la recherche des œufs perdus'
+  - Générique de fin
   ids:
   - audio-id: 1632325818
     hash: 24f1439c30a364532175a08efc434591d709fe17

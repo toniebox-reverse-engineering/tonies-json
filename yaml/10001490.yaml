@@ -1,8 +1,8 @@
 article: '10001490'
 lock-data: false
 data:
-- series: Disney
-  series-id: disney
+- series: Tinkerbell
+  series-id: disney-tinker-bell
   episode: Tinker Bell
   release: 1670371200
   language: de-de
@@ -12,10 +12,10 @@ data:
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10001490-50004786-b-GJbKcPCF.png
   sample: https://cdn.tonies.de/o/audio_samples/317b32700c7dfc5ac4806075f9f5c52f3aaf90d06b159c26a72184f0/hoerprobe_10001490_disney_tinkerbell_tinkerbell.mp3
-  web: https://tonies.com/de-de/tonies/disney/tinkerbell/
+  web: https://tonies.com/de-de/tonies/disney-tinkerbell/tinkerbell/
   shop-id: a30c7c2d-23da-4abb-b654-365723f3165c
   track-desc:
-  - '– 4.: Disney Tinkerbell - Das Originalhörspiel zum Film'
+  - '04 : Disney Tinkerbell - Das Originalhörspiel zum Film'
   ids:
   - audio-id: 1668691218
     hash: c3bbffc2d416b142fffe090d20b758b2c8992fbb

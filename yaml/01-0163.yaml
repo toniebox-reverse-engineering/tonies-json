@@ -2,19 +2,21 @@ article: 01-0163
 lock-data: false
 data:
 - series: Kleiner Eisbär
-  series-id: null
+  series-id: kleiner-eisbaer
   episode: Lars, hilf mir fliegen!/ Lars rettet die Rentiere
   release: 1553126400
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 19
+  age: 4
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0163-98-0507-b-mHaYk14r.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/67b9b9aedd2d4a1610340467c8167b4c13317bb2f5b38f2f1ec87ce6/hoerprobe_kleiner_eisbaer_lars_hilft_fliegen.mp3
+  web: https://tonies.com/de-de/tonies/kleiner-eisbaer/lars-hilf-mir-fliegen-lars-rettet-die-rentiere/
+  shop-id: d908c641-d400-4a98-aa73-ff1f8c9f2db7
+  track-desc:
+  - Lars, hilf mir fliegen!
+  - Lars rettet die Rentiere
   ids:
   - audio-id: 1552300740
     hash: 46c52252a1b4d6eaa566a25ca75a055a80dc52c0

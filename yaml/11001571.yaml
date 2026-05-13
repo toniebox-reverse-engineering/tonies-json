@@ -1,0 +1,52 @@
+article: '11001571'
+lock-data: false
+data:
+- series: Tom Fletcher
+  series-id: tom-fletcher
+  episode: The Christmasaurus
+  release: 1728604800
+  language: en-gb
+  category: audio-book
+  runtime: 338
+  age: 6
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11001571-UK-Audioboo-Z0tV7pbz.png
+  sample: https://cdn.tonies.de/o/audio_samples/7b5926f4e70be27c20270080c785848e69b2362839e5c7186f62a289/the_christmasaurus_sample.wav
+  web: https://tonies.com/en-gb/book-tonies/tom-fletcher/the-christmasaurus/
+  shop-id: 19f2d763-92c5-4b6f-a056-29d4899880ec
+  track-desc:
+  - Opening Credits
+  - 'CHAPTER 1: William Trundle'
+  - 'CHAPTER 2: The Frozen Egg'
+  - 'CHAPTER 3: Santa''s Bottom'
+  - 'CHAPTER 4: Inside the Egg'
+  - 'CHAPTER 5: The Christmasaurus'
+  - 'CHAPTER 6: Magnificently Magical Flying Reindeer'
+  - 'CHAPTER 7: The Thing About William'
+  - 'CHAPTER 8: Wheely William'
+  - 'CHAPTER 9: Brenda the Revenger'
+  - 'CHAPTER 10: What William Wants'
+  - 'CHAPTER 11: Watching William'
+  - 'CHAPTER 12: A Stuffed Dinosaur'
+  - 'CHAPTER 13: The Night Before, the Night Before Christmas'
+  - 'CHAPTER 14: A Secret Passenger!'
+  - 'CHAPTER 15: The Hunter'
+  - 'CHAPTER 16: The Rarest Creature on the Planet'
+  - 'CHAPTER 17: A Dinosaur in the House'
+  - 'CHAPTER 18: A Boy and a Dinosaur'
+  - 'CHAPTER 19: Bumping into Brenda'
+  - 'CHAPTER 20: Swapping Secrets'
+  - 'CHAPTER 21: The Hunt Begins'
+  - 'CHAPTER 22: Cracking the Code'
+  - 'CHAPTER 23: Anicient Ghosts'
+  - 'CHAPTER 25: The Candy Cane'
+  - 'CHAPTER 26: Santa Returns'
+  - 'CHAPTER 26: Santa Returns'
+  - 'CHAPTER 27: What William Really Wants'
+  - 'CHAPTER 28: The Christmasaurus Stays'
+  - 'CHAPTER 29: Smoke'
+  - 'CHAPTER 30: A Trundle Tornado'
+  - 'CHAPTER 31: Game Over'
+  - 'CHAPTER 32: Feathers'
+  - 'CHAPTER 33: The Wonderful Thing About Christmas'
+  ids: []

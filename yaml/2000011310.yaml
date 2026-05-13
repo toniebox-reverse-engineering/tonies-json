@@ -1,0 +1,34 @@
+article: '2000011310'
+lock-data: false
+data:
+- series: Bibi Blocksberg
+  series-id: bibi-blocksberg
+  episode: 'Bibi Blocksberg, Bibi erzählt, Folge 5: Weihnachtsgeschichten'
+  release: 1742428800
+  language: de-de
+  category: audio-book
+  runtime: 3027
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/3a24cadaad87690f6fa2353a4a4e9f6672267827b37f3e50e49dd6fe/3_TyPtNXnHh_ylD0ZX/bibi_blocksberg_005_bibi_blocksberg_bibi_erza_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/bibi-blocksberg/bibi-blocksberg-bibi-erzahlt-folge-5-weihnachtsges/
+  shop-id: 85c02112-8d5d-433f-a53f-22ddfb060621
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  ids: []

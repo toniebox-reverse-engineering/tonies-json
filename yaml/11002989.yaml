@@ -1,0 +1,24 @@
+article: '11002989'
+lock-data: false
+data:
+- series: School of Talents
+  series-id: school-of-talents
+  episode: 'School of Talents - Erste Stunde: Tierisch laut!'
+  release: 0
+  language: de-de
+  category: audio-book
+  runtime: 173
+  age: 7
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11002989_1_a-r_qX3WhI.png
+  sample: https://cdn.tonies.de/o/audio_samples/07358176daa4aa4b502b3c3cb5ceb49a77d8012c57ce9193fb0946f7/hoerprobe_school_of_talents_erste_stunde.mp3
+  web: https://tonies.com/de-de/book-tonies/school-of-talents/school-of-talents-erste-stunde-tierisch-laut/
+  shop-id: 7593e3d7-6b66-47d3-ba0d-82257f797682
+  track-desc:
+  - '36:  School of Talents - Erste Stunde: Tierisch laut!'
+  ids:
+  - audio-id: 1747230768
+    hash: 26cdad4061211380783211b2d57ff4c97db145fc
+    size: 118519067
+    tracks: 36
+    confidence: 1

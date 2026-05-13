@@ -1,0 +1,27 @@
+article: '2000011610'
+lock-data: false
+data:
+- series: Weihnachtsmann & Co. KG
+  series-id: weihnachtsmann-co-kg
+  episode: Mission im Weltraum (Folge 5)
+  release: 1765497600
+  language: de-de
+  category: audio-play
+  runtime: 1704
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_f8548e69abeeda249104a7f50ae49829157f625113222d5ff8553aaa/3_90Bvr6xvTKhLMz5l/the_secret_world_of_santa_claus_mission_im_weltr_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/32816fbf0a7684cf1cd2255b4d3dc36cdb6f7c4d71e41b3bd1cffc1b/ch7812418848_sample.wav
+  web: https://tonies.com/de-de/audio-content/weihnachtsmann-co-kg/mission-im-weltraum-folge-5/
+  shop-id: 1b191af9-12f4-44ef-8fea-c89242876ee1
+  track-desc:
+  - Intro
+  - Kapitel 01 - Mission im Weltraum (Folge 005)
+  - Kapitel 02 - Mission im Weltraum (Folge 005)
+  - Kapitel 03 - Mission im Weltraum (Folge 005)
+  - Kapitel 04 - Mission im Weltraum (Folge 005)
+  - Kapitel 05 - Mission im Weltraum (Folge 005)
+  - Kapitel 06 - Mission im Weltraum (Folge 005)
+  - Kapitel 07 - Mission im Weltraum (Folge 005)
+  - Kapitel 08 - Mission im Weltraum (Folge 005)
+  ids: []

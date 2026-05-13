@@ -51,4 +51,9 @@ data:
   - Conni spielt Fußball - Teil 07
   - Conni spielt Fußball - Teil 08
   - Conni spielt Fußball - Teil 09
-  ids: []
+  ids:
+  - audio-id: 1761046453
+    hash: 1458bf5b387688152da67efcbb2f0f80d9f71bbc
+    size: 37786120
+    tracks: 35
+    confidence: 0

@@ -34,4 +34,9 @@ data:
   - Wenn ich groß bin (Teil 01)
   - Wenn ich groß bin (Teil 02)
   - Wenn ich groß bin (Teil 03)
-  ids: []
+  ids:
+  - audio-id: 1732539654
+    hash: b7e5cce4491d47be2b83f15bf631b5c00e719a69
+    size: 23812496
+    tracks: 19
+    confidence: 0

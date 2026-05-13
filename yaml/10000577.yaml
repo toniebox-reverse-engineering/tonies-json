@@ -4,7 +4,7 @@ data:
 - series: Moana
   series-id: disney-moana
   episode: Moana
-  release: 1628726400
+  release: 1754956800
   language: en-gb
   category: audio-play-songs
   runtime: 32
@@ -15,11 +15,11 @@ data:
   web: https://tonies.com/en-gb/tonies/disney-moana/moana/
   shop-id: 547dc87c-1ecd-44a3-b7a1-203a236da545
   track-desc:
-  - You're Welcome
-  - We know the Way
-  - Where You Are
-  - How Far I'll go
-  - Moana
+  - You're Welcome 🎵
+  - We Know The Way 🎵
+  - Where You Are 🎵
+  - How Far I'll Go 🎵
+  - Shiny 🎵
   - Story
   ids:
   - audio-id: 1625584604

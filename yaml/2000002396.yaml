@@ -34,4 +34,9 @@ data:
   - 'Folge 45: Ryder in Not - Track 2'
   - 'Folge 45: Ryder in Not - Track 3'
   - 'Folge 45: Ryder in Not - Track 4'
-  ids: []
+  ids:
+  - audio-id: 745410000
+    hash: 4e82dae4f89f1c7c8a55c81b2df581103574ffc2
+    size: 42945426
+    tracks: 19
+    confidence: 0

@@ -3,12 +3,12 @@ lock-data: false
 data:
 - series: Emil Grünbär
   series-id: emil-gruenbaer
-  episode: Emil Grünbar und die Bande – Abenteuer im Wald
+  episode: Janoschs Emil Grünbär und die Bande – Abenteuer im Wald
   release: 1720569600
   language: de-de
   category: audio-play
   runtime: 60
-  age: 4
+  age: 3
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX10001689_1_a-2OK4rtq8.png
   sample: https://cdn.tonies.de/o/audio_samples/9469878ac11125c2dce3d3bb2e375cd410c243fe91db1b865627882f/emil_gruenbaer_hoerprobe_86sek_44_16_master_140424.mp3

@@ -1,0 +1,48 @@
+article: '11002618'
+lock-data: false
+data:
+- series: David Walliams
+  series-id: david-walliams-2
+  episode: Robodog
+  release: 1744934400
+  language: en-gb
+  category: audio-book
+  runtime: 188
+  age: 7
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002618_6_Landscape-bY80Q68L.png
+  sample: https://cdn.tonies.de/o/audio_samples/54a898df84daccab5bb3d87cd6f023d1f0704385ba46a9e4b5419414/9780008581459_004_wav.wav
+  web: https://tonies.com/en-gb/book-tonies/david-walliams-2/robodog/
+  shop-id: 72d672bc-35c0-495a-aa0a-5af264ac521c
+  track-desc:
+  - Opening Credits
+  - PRELUDE
+  - Let's Meet The Heroes and The Villains In This Story...
+  - Welcome to Bedlam
+  - 'EPISODE 1: The Lost Patrol'
+  - 'EPISODE 2: Dog Disasters'
+  - 'EPISODE 3: Fur Mountain'
+  - 'EPISODE 4: The Evillest Cat In the World'
+  - 'EPISODE 5: Secret Laboratory'
+  - 'EPISODE 6: The Unthinkable'
+  - 'EPISODE 7: Under Arrest'
+  - 'EPISODE 8: Litter Tray'
+  - 'EPISODE 9: A Flying Dog'
+  - 'EPISODE 10: Challenging Challenges'
+  - 'EPISODE 11: ZAP!'
+  - 'EPISODE 12: Cats, Cats and More Cats'
+  - 'EPISODE 13: Ratty The Mouse'
+  - 'EPISODE 14: One Billion Dollars'
+  - 'EPISODE 15: A River of Gunge'
+  - 'EPISODE 16: Catrobatics'
+  - 'EPISODE 17: Parachute!'
+  - 'EPISODE 18: Midnight Feast'
+  - 'EPISODE 19: Dognapped!'
+  - 'EPISODE 20: Supercats!'
+  - 'EPISODE 21: Revenge'
+  - 'EPISODE 22: Bedlam''s Biggest Baddies'
+  - 'EPISODE 23: Outnumbered'
+  - 'EPISODE 24: Spin Cycle'
+  - 'EPISODE 25: Passing Out Parade'
+  - 'EPISODE 26: Love'
+  ids: []

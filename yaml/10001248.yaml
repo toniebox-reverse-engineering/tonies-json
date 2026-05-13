@@ -2,7 +2,7 @@ article: '10001248'
 lock-data: false
 data:
 - series: L'Heure De La Sieste
-  series-id: l-heure-de-la-sieste
+  series-id: nap-time
   episode: Sons De La Nature
   release: 0
   language: fr-fr
@@ -15,8 +15,28 @@ data:
   web: https://tonies.com/fr-fr/tonies/l-heure-de-la-sieste/sons-de-la-nature/
   shop-id: 6de6e867-e21b-48d3-958a-16d8933966b2
   track-desc:
-  - Sons de la nature
+  - Sons de la nature 01
+  - Sons de la nature 02
+  - Sons de la nature 03
+  - Sons de la nature 04
+  - Sons de la nature 05
+  - Sons de la nature 06
+  - Sons de la nature 07
+  - Sons de la nature 08
+  - Sons de la nature 09
+  - Sons de la nature 10
+  - Sons de la nature 11
+  - Sons de la nature 12
+  - Sons de la nature 13
+  - Sons de la nature 14
+  - Sons de la nature 15
+  - Sons de la nature 16
   ids:
+  - audio-id: 1758639846
+    hash: af3bd4b76dac9757782f9270ab71d123960d8303
+    size: 79479291
+    tracks: 16
+    confidence: 1
   - audio-id: 1628173123
     hash: 7d248b447bc002117f1e66b82281640b49dcb2e7
     size: 79772953

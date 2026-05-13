@@ -14,7 +14,37 @@ data:
   sample: null
   web: null
   shop-id: null
-  track-desc: []
+  track-desc:
+  - Abends will ich schlafen gehn
+  - Aber heidschi bumbeidschi
+  - Ade zur guten Nacht
+  - Der Mond ist aufgegangen
+  - Der Sandmann ist da
+  - Die Blümelein, sie schlafen
+  - Eia popeia
+  - Es schaukeln die Winde
+  - Es wird schon gleich dunkel
+  - Guten Abend, gut' Nacht
+  - Guter Mond, du gehst so stille
+  - Kein schöner Land
+  - Kinder brauchen Träume
+  - Kindlein mein, schlaf nun ein
+  - Kommt gezogen, kleine Vögel
+  - La Le Lu
+  - Leise, Peterle, leise
+  - Müde bin ich, geh zur Ruh
+  - Nun ruhen alle Wälder
+  - Schlaf wohl, du Himmelsknabe, du
+  - Schlaf Kindelein, süße
+  - Schlaf Kindlein, schlaf!
+  - Schlaf, mein kleines Mäuschen
+  - Schlafe mein Prinzchen
+  - Schlaflied für Anne
+  - So schlaf in Ruh'
+  - Still, still, still
+  - Weißt du, wie viel Sternlein stehen?
+  - Wenn ich ein Vöglein wär
+  - Wer hat die schönsten Schäfchen
   ids:
   - audio-id: 1490291885
     hash: 574bb050383e37d08f99b1412212ddd52c4983e5

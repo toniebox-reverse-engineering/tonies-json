@@ -11,7 +11,7 @@ data:
   age: 3
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000231-50001199-b-tn60cpGH.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/40064a5aed202f847ace98cd74c6223940c77f662e13e74bb2566e4c/hoerprobe_petzi_drei_landratten_bauen_ein_schiff_15sek.mp3
   web: https://tonies.com/de-de/tonies/petzi/drei-landratten-bauen-ein-schiff/
   shop-id: 1e64d690-554e-41d0-80cc-c994dcc6ce6f
   track-desc:

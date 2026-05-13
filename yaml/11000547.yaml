@@ -1,0 +1,23 @@
+article: '11000547'
+lock-data: false
+data:
+- series: Disney
+  series-id: null
+  episode: 'Winnie the Pooh: Piglet'
+  release: 1769787672
+  language: en-us
+  category: Tonie
+  runtime: 0
+  age: 99
+  origin: stock
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Piglet-11000547-PLPTB2MainImageTransparent.png?v=1776273036
+  sample: null
+  web: null
+  shop-id: '9409150058647'
+  track-desc: []
+  ids:
+  - audio-id: 1763749699
+    hash: 60bcb7b4c8289a7bf9ab2356fbab0c514ed877cf
+    size: 32182938
+    tracks: 4
+    confidence: 1

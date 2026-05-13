@@ -2,19 +2,24 @@ article: 01-0177
 lock-data: false
 data:
 - series: Lieblings-Klassiker
-  series-id: null
+  series-id: lieblings-klassiker
   episode: Peter Pan und 4 weitere Klassiker
   release: 1543449600
   language: de-de
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 61
+  age: 3
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0177-98-0550-b-hiO17Np4.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/9fdc59cf3fc39dec78c24d4c6d1e535ad787e123e4b812e569cc2688/hoerprobe_peter_pan_de.mp3
+  web: https://tonies.com/de-de/tonies/lieblings-klassiker/peter-pan-und-4-weitere-klassiker/
+  shop-id: 65a57179-7eb4-4898-9318-dffe5b245020
+  track-desc:
+  - Peter Pan
+  - Ali Baba und die 40 Räuber
+  - Gullivers Reisen
+  - Der kleine Lord
+  - Peterchens Mondfahrt
   ids:
   - audio-id: 1542991276
     hash: 0b501d1d69791e7c3a0574a7650f2ebe8ece3045

@@ -1,0 +1,30 @@
+article: '2000011348'
+lock-data: false
+data:
+- series: Ruthe
+  series-id: ruthe
+  episode: Ruthe, DIE HNO-WG und der Kult der Gehörnten
+  release: 1742428800
+  language: de-de
+  category: audio-play
+  runtime: 2845
+  age: 7
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/f7fd70e17cff8acea7239a0cd089b8c84d958389bc5a2d6ecc35c440/3_X7KJxXh9Xdds3Vk./ruthe_000_ruthe_die_hno_wg_und_der_kult_der_g_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/76a9cf24c39e3cd1a80de83b554a6fb05c2bbc4aedc09858734e7c8f/4001504146573_audiosample.mp3
+  web: https://tonies.com/de-de/audio-content/ruthe/ruthe-die-hno-wg-und-der-kult-der-gehornten/
+  shop-id: feb1a876-2c7a-4077-872c-a48e9eba7390
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  ids: []

@@ -21,4 +21,34 @@ data:
   - So sind die Lalalinos
   - Das Zaubermikrofon
   - Das Bumbaloo-Fest
-  ids: []
+  ids:
+  - audio-id: 1774946413
+    hash: 01ea14d5f5ffab4f38ffe6d9f87e341769761465
+    size: 41667937
+    tracks: 6
+    confidence: 1
+  - audio-id: 1774604042
+    hash: 27197e5298234b024165c1061801d212223f0a33
+    size: 41667937
+    tracks: 6
+    confidence: 1
+  - audio-id: 1774266338
+    hash: 4081a214287b915c5144defed2d68500ebd4e54c
+    size: 41667937
+    tracks: 6
+    confidence: 1
+  - audio-id: 1773760610
+    hash: d817ffe07037783474bf1caa6f74138fc7043442
+    size: 41667937
+    tracks: 6
+    confidence: 1
+  - audio-id: 1748958321
+    hash: a50be00a2a021a9af3d2120de75ca472f8cc2624
+    size: 41667937
+    tracks: 6
+    confidence: 1
+  - audio-id: 1731581822
+    hash: 9f7c375c00feeb827fee8f70f85e7af2f520c77f
+    size: 41519231
+    tracks: 6
+    confidence: 0

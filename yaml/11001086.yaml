@@ -1,0 +1,23 @@
+article: '11001086'
+lock-data: false
+data:
+- series: Canticos
+  series-id: null
+  episode: null
+  release: 1743429463
+  language: en-us
+  category: Tonie
+  runtime: 0
+  age: 99
+  origin: stock
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Canticos-11001086-PLPTB2MainImageTransparent.png?v=1774883338
+  sample: null
+  web: null
+  shop-id: '8921888882839'
+  track-desc: []
+  ids:
+  - audio-id: 1744998457
+    hash: 9e691c75f51b33a447114c46b5d9eafcdc678255
+    size: 34174614
+    tracks: 19
+    confidence: 1

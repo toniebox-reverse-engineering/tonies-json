@@ -1,0 +1,49 @@
+article: '11003569'
+lock-data: false
+data:
+- series: Grimm und Möhrchen
+  series-id: grimm-und-moehrchen
+  episode: Grimm und Möhrchen – Ein Zesel zieht ein
+  release: 1759881600
+  language: de-de
+  category: audio-book
+  runtime: 91
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11003569_1_a-LxHsQJ3b.png
+  sample: https://cdn.tonies.de/o/audio_samples/f85b6c3e3b77bf425f84980f2c0eaff45e4466f69956c9dbd4fa05a4/hoerprobe_11003569_grimm_und_mohrchen.mp3
+  web: https://tonies.com/de-de/book-tonies/grimm-und-moehrchen/grimm-und-moehrchen-ein-zesel-zieht-ein/
+  shop-id: 866087a2-d67e-4802-9040-c2cd95aec3cc
+  track-desc:
+  - 01 Grimm und Möhrchen
+  - 02 Grimm und Möhrchen
+  - 03 Grimm und Möhrchen
+  - 04 Grimm und Möhrchen
+  - 05 Grimm und Möhrchen
+  - 06 Grimm und Möhrchen
+  - 07 Grimm und Möhrchen
+  - 08 Grimm und Möhrchen
+  - 09 Grimm und Möhrchen
+  - 10 Grimm und Möhrchen
+  - 11 Grimm und Möhrchen
+  - 12 Grimm und Möhrchen
+  - 13 Grimm und Möhrchen
+  - 14 Grimm und Möhrchen
+  - 15 Grimm und Möhrchen
+  - 16 Grimm und Möhrchen
+  - 17 Grimm und Möhrchen
+  - 18 Grimm und Möhrchen
+  - 19 Grimm und Möhrchen
+  - 20 Grimm und Möhrchen
+  - 21 Grimm und Möhrchen
+  - 22 Grimm und Möhrchen
+  - 23 Grimm und Möhrchen
+  - 24 Grimm und Möhrchen
+  - 25 Grimm und Möhrchen
+  - 26 Grimm und Möhrchen
+  ids:
+  - audio-id: 1758538552
+    hash: 2c95e78a18acb47c785431f17c02686ad3db92f3
+    size: 61203754
+    tracks: 26
+    confidence: 1

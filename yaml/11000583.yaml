@@ -1,8 +1,8 @@
 article: '11000583'
 lock-data: false
 data:
-- series: Alix Pix 2
-  series-id: alix-pix-2
+- series: Alix Pix
+  series-id: alix-pix-1
   episode: Mystères, Petits Pièges Et Sortilèges
   release: 0
   language: fr-fr
@@ -10,9 +10,9 @@ data:
   runtime: 66
   age: 5
   origin: stock
-  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51003494-Tonie_Shado-0HqVXf-3.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51003494-Tonie_Shado-8TyPCzO8.png
   sample: https://cdn.tonies.de/o/audio_samples/34f9687edb5c8ebe2a6fc6414867331a884c74933a609107ffc1bf0a/11000583_alix_pix_2_extraitmp3.mp3
-  web: https://tonies.com/fr-fr/tonies/alix-pix-2/mysteres-petits-pieges-et-sortileges/
+  web: https://tonies.com/fr-fr/tonies/alix-pix/mysteres-petits-pieges-et-sortileges/
   shop-id: d75a824b-f197-44c2-8c0a-b41bc691b8dc
   track-desc:
   - Introduction

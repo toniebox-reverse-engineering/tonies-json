@@ -10,12 +10,17 @@ data:
   runtime: 0
   age: 99
   origin: stock
-  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-PawPatrol-Chase-Transparent.png?v=1734730723
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Chase-10000571-PLPTB2MainImageTransparent.png?v=1774883304
   sample: null
   web: null
   shop-id: '7101766893719'
   track-desc: []
   ids:
+  - audio-id: 1747852964
+    hash: ef80dd29f964d9ef727c6e520d7e44209ac0b1b1
+    size: 41924440
+    tracks: 6
+    confidence: 3
   - audio-id: 1729890688
     hash: cf624e043bf415063235984482c51be0577f59f2
     size: 41924440

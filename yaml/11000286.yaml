@@ -15,13 +15,7 @@ data:
   web: https://tonies.com/de-de/tonies/disney-findet-nemo/findet-dorie/
   shop-id: a3adb9f7-f8d7-4864-b44e-630fb659bca5
   track-desc:
-  - 'Kapitel 01: Findet Dorie'
-  - 'Kapitel 02: Findet Dorie'
-  - 'Kapitel 03: Findet Dorie'
-  - 'Kapitel 04: Findet Dorie'
-  - 'Kapitel 05: Findet Dorie'
-  - 'Kapitel 06: Findet Dorie'
-  - 'Kapitel 07: Findet Dorie'
+  - '07: Disney - Findet Dorie'
   ids:
   - audio-id: 1721192976
     hash: 55c01baa583cfaaa98b81c325c73a72573e3da7a

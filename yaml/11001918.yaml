@@ -1,0 +1,153 @@
+article: '11001918'
+lock-data: false
+data:
+- series: Snowflake and the Missing Christmas Lights Advent Calendar
+  series-id: null
+  episode: null
+  release: 1758895852
+  language: en-us
+  category: Tonie
+  runtime: 0
+  age: 99
+  origin: stock
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Snowflake-11001918-PLPTB2MainImageTransparent.png?v=1774883316
+  sample: null
+  web: null
+  shop-id: '9166191132823'
+  track-desc: []
+  ids:
+  - audio-id: 1766642420
+    hash: 2e4bbb850ab2494cc91a16ab8328a027f09a07d2
+    size: 99644731
+    tracks: 25
+    confidence: 1
+  - audio-id: 1766556020
+    hash: e20718740ad897686db5bbf9882cba195aab4603
+    size: 108338691
+    tracks: 27
+    confidence: 1
+  - audio-id: 1766469612
+    hash: 4b5ca7f6945537ef28f6e832d1bd2b8f1ee9910e
+    size: 98474962
+    tracks: 26
+    confidence: 1
+  - audio-id: 1766383210
+    hash: 2ea6dd2622b74e16b2ed2c08019bbcfe1ce48f53
+    size: 95038344
+    tracks: 25
+    confidence: 1
+  - audio-id: 1766296810
+    hash: 17d0123abd965aed23cba5d552237ec7e60f4e46
+    size: 89717820
+    tracks: 24
+    confidence: 1
+  - audio-id: 1766210410
+    hash: 1ba30138946ecda1201df9fb7ec568f519d0be5e
+    size: 86532917
+    tracks: 23
+    confidence: 1
+  - audio-id: 1766124011
+    hash: 902bdd78830539cc88bab7dbae180d03e41c189d
+    size: 84447902
+    tracks: 22
+    confidence: 1
+  - audio-id: 1766037610
+    hash: 0e5b47a0617030b1494454c8c2c17f692ce3853f
+    size: 78591727
+    tracks: 21
+    confidence: 1
+  - audio-id: 1765951209
+    hash: fc43b1ee7dfc9529320a45b4156d3f8170f53da5
+    size: 71749543
+    tracks: 20
+    confidence: 1
+  - audio-id: 1765864809
+    hash: fe0e37a38a71bd2c68f623ccdb4d7f97fa73660e
+    size: 67474097
+    tracks: 19
+    confidence: 1
+  - audio-id: 1765778403
+    hash: d345281f7c536bfd3dacbf9518041495cac37f67
+    size: 64805944
+    tracks: 18
+    confidence: 1
+  - audio-id: 1765692003
+    hash: ad5a82d0179fb17c7c71eebbbfc4f93e24ffe528
+    size: 61716352
+    tracks: 17
+    confidence: 1
+  - audio-id: 1765605603
+    hash: b0cfebc9ee5ed1a53cd55e1bcf9606f5ab43158d
+    size: 59174059
+    tracks: 16
+    confidence: 1
+  - audio-id: 1765519206
+    hash: dc2a1e11ecb42caa9a7701f9d3bc632252b94570
+    size: 52555204
+    tracks: 15
+    confidence: 1
+  - audio-id: 1765432804
+    hash: c3e91b27fcfd21c116229bf51899b7a2ec56b57f
+    size: 49030728
+    tracks: 14
+    confidence: 1
+  - audio-id: 1765346403
+    hash: 51cf1f03658ba595b122a27fec75dac635c892ba
+    size: 44875011
+    tracks: 13
+    confidence: 1
+  - audio-id: 1765260004
+    hash: 9f2f4a5bc0c72d4843a1cceda340c79e161f2fe9
+    size: 42264437
+    tracks: 12
+    confidence: 1
+  - audio-id: 1765173604
+    hash: 8a83f3eb577639b638fa959a9a24bf0af5c3e262
+    size: 33610710
+    tracks: 10
+    confidence: 1
+  - audio-id: 1765087203
+    hash: bcaac29c5b7c8a8d4eb380db72816b7669a534ff
+    size: 34003926
+    tracks: 10
+    confidence: 1
+  - audio-id: 1765000803
+    hash: 22e3afab91872b359dbd33e0af0e52ae27566853
+    size: 28494083
+    tracks: 9
+    confidence: 1
+  - audio-id: 1764914404
+    hash: 2046aed617bcd447bd696ce5af8c1aeb7608d568
+    size: 26517085
+    tracks: 8
+    confidence: 1
+  - audio-id: 1764828003
+    hash: e256ecaa3e75b6e9ea097d5939fcf16b625d29e8
+    size: 23622446
+    tracks: 7
+    confidence: 1
+  - audio-id: 1764741603
+    hash: f4d8a74bbf2af7e7054b9528ab6a9907daefadb3
+    size: 19398309
+    tracks: 6
+    confidence: 1
+  - audio-id: 1764655228
+    hash: c7f66188b95dd9e29899b67d4b8f9ceabfae53bc
+    size: 14498121
+    tracks: 5
+    confidence: 1
+  - audio-id: 1764568828
+    hash: d6ae1af492354c458aef3e1ab3adc8cb548e4318
+    size: 8784214
+    tracks: 3
+    confidence: 1
+  - audio-id: 1762963183
+    hash: e415e5ac2dc038a4a0689a9e42cc3bf22b82e2c6
+    size: 4254570
+    tracks: 1
+    confidence: 1
+  - audio-id: 1761589480
+    hash: f2d361f0aeeceac0c36ab8678dc6b1abcf7ea9b9
+    size: 4248156
+    tracks: 1
+    confidence: 1

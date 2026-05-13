@@ -1,20 +1,51 @@
 article: '11001609'
 lock-data: false
 data:
-- series: null
-  series-id: null
-  episode: null
-  release: 0
-  language: null
-  category: null
-  runtime: 0
-  age: 99
-  origin: null
-  image: null
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+- series: Tom Fletcher
+  series-id: tom-fletcher
+  episode: The Christmasaurus and the Winter Witch
+  release: 1728604800
+  language: en-gb
+  category: audio-book
+  runtime: 373
+  age: 6
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11001609-UK-Audioboo-fxEbU946.png
+  sample: https://cdn.tonies.de/o/audio_samples/f853f8ad2d0783e5af274db0220885e7842798a500e686e18f73869f/the_christmasaurus_and_the_winter_witch_sample.wav
+  web: https://tonies.com/en-gb/book-tonies/tom-fletcher/the-christmasaurus-and-the-winter-witch/
+  shop-id: ae9b85d5-3b82-40af-aea8-5f46f996a20c
+  track-desc:
+  - 'PROLOGUE: The Future'
+  - 'CHAPTER 1: The Beginning of This Story'
+  - 'CHAPTER 2: Reunited'
+  - 'CHAPTER 3: Welcome to the North Pole'
+  - 'CHAPTER 4: A Forest Full of Wishes'
+  - 'CHAPTER 5: Elfville'
+  - 'CHAPTER 6: The Oldest Christmas Tree'
+  - 'CHAPTER 7: Sub-Zero'
+  - 'CHAPTER 8: The Winter Witch'
+  - 'CHAPTER 9: Forbidden'
+  - 'CHAPTER 10: A-maze-ing!'
+  - 'CHAPTER 11: Thundersnow'
+  - 'CHAPTER 12: Back to the Prologue'
+  - 'CHAPTER 13: One More Stop'
+  - 'CHAPTER 14: Home Is Where the Truth Is'
+  - 'CHAPTER 15: What Brenda Wanted'
+  - 'CHAPTER 16: Growing Trouble'
+  - 'CHAPTER 17: The Puzzle of the Dancing Jinglewatts'
+  - 'CHAPTER 18: Disturbing Belief'
+  - 'CHAPTER 19: Bean and Gone!'
+  - 'CHAPTER 20: The Gift of the Year'
+  - 'CHAPTER 21: Invisible Elves'
+  - 'CHAPTER 22: It''s Christmas!'
+  - 'CHAPTER 23: Back to the North Pole'
+  - 'CHAPTER 24: Snowhere to Be Seen'
+  - 'CHAPTER 25: Following Brenda'
+  - 'CHAPTER 26: Christmas Eve Again'
+  - 'CHAPTER 27: Future Super-Scrooge'
+  - 'CHAPTER 28: Forever Frozen'
+  - 'CHAPTER 29: Lost in Time'
+  - 'CHAPTER 30: A Forgotten Wish'
   ids:
   - audio-id: 1728994806
     hash: 26d87a1ab823fab9477879830db4e0cf066b5af6

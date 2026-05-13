@@ -1,0 +1,19 @@
+article: '11002835'
+lock-data: false
+data:
+- series: Les Copains Du Dodo
+  series-id: sleepy-friends
+  episode: Tonie-Veilleuse - Doudou Pingouin
+  release: 1759363200
+  language: fr-fr
+  category: music
+  runtime: 75
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/NL_PenguinSleepy_Fro-4bawfaCh.png
+  sample: https://videos.ctfassets.net/l6vo76cztcax/4n1E1jjFwUlEJ1zCqVXXan/96e9e63d35522c998161940e61fb91b7/SleepyPenguinNL-sample__1_.mp4
+  web: https://tonies.com/fr-fr/tonies/les-copains-du-dodo/tonie-veilleuse-doudou-pingouin/
+  shop-id: cf367b48-bda7-4cde-8b43-3adc385e1fd1
+  track-desc:
+  - Doudou Pingouin dans l'océan enchanté (Pistes 1 à 6)
+  ids: []

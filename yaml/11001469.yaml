@@ -20,6 +20,26 @@ data:
   - 'Hoch hinaus: Tiere in den Bergen'
   - 'Dünen-Draufgänger: Tiere in der Wüste'
   ids:
+  - audio-id: 1770115122
+    hash: e42d83771f61b0a683c481ac29025739fc2f5b1f
+    size: 20621031
+    tracks: 6
+    confidence: 1
+  - audio-id: 1770115097
+    hash: d0757ee721718012400078a3014016c5f7fc442a
+    size: 22694607
+    tracks: 6
+    confidence: 1
+  - audio-id: 1770115058
+    hash: aff68fe3de5168aa3cf6f85317fb91a31ee8aa19
+    size: 21748522
+    tracks: 6
+    confidence: 1
+  - audio-id: 1770114993
+    hash: 835a2d5c34451789f9596dd3280c181d4545efac
+    size: 22302489
+    tracks: 6
+    confidence: 1
   - audio-id: 1728480340
     hash: c70b3e9e55c7a5e82596bd6528f03ac72995d2ae
     size: 22694607

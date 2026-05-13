@@ -1,0 +1,33 @@
+article: '2000011305'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: 'Bibi & Tina, Folge 116: Das Grusellabyrinth'
+  release: 1742169600
+  language: de-de
+  category: audio-play
+  runtime: 3520
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/d3283092f76df7bc359e70f3bd5027d87525408b7420e0d5ddb3c992/3_VG2_Xrf8JnlDGBKS/bibi_tina_116_bibi_tina_folge_116__das_gr_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/96199f0124d8751dbd668c7882beaa91346164e7407883449ea7dda0/4033694221167_audiosample.mp3
+  web: https://tonies.com/de-de/audio-content/bibi-tina/bibi-tina-folge-116-das-grusellabyrinth/
+  shop-id: 49cceafb-a822-4100-8733-cfddac06237a
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  ids: []

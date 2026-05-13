@@ -2,13 +2,13 @@ article: '10000853'
 lock-data: false
 data:
 - series: ''
-  series-id: tonies-json-fr-fr,
+  series-id: ''
   episode: ''
   release: ''
   language: ''
   category: ''
   runtime: ''
-  age: ''
+  age: tonies-json-fr-fr,
   origin: ''
   image: ''
   sample: ''

@@ -1,0 +1,42 @@
+article: '11002635'
+lock-data: false
+data:
+- series: Sunspeed Explorers
+  series-id: sunspeed-explorers
+  episode: Sunspeed Explorers - Set
+  release: 1749600000
+  language: de-de
+  category: audio-play
+  runtime: 129
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11002635_1_a-UVxozqx9.png
+  sample: https://cdn.tonies.de/o/audio_samples/9d35702f12ff69c0d5ff8a5f33e857d8826dfb0c495252e0ff77e85d/horprobe_sunspeed_explorers_set_1.wav
+  web: https://tonies.com/de-de/clever-tonies/gemeinsam-fuer-eine-gruene-zukunft/sunspeed-explorers-set/
+  shop-id: 1e5f13d5-ceda-4c36-8195-ea85a9284cdb
+  track-desc:
+  - Meeresschutz in Australien
+  - Müllfrei in Japan
+  - Grünes Kopenhagen
+  - Kenia recycelt
+  ids:
+  - audio-id: 1746441486
+    hash: 2703573cba5c9a31fa2f05f2715214d3e5d7dbd5
+    size: 24960323
+    tracks: 5
+    confidence: 0
+  - audio-id: 1746441411
+    hash: c0277e053509099f3d37aa2e7cbb671a1b2278f5
+    size: 24014174
+    tracks: 5
+    confidence: 0
+  - audio-id: 1746441467
+    hash: 0acc5a5e09b0c54c72751651004c6295ad14f72b
+    size: 21766383
+    tracks: 5
+    confidence: 0
+  - audio-id: 1746441428
+    hash: fab7c9d3eba1a19d75db61e57aab70b3583d0461
+    size: 22461697
+    tracks: 5
+    confidence: 0

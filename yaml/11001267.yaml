@@ -1,0 +1,23 @@
+article: '11001267'
+lock-data: false
+data:
+- series: Gabby's Dollhouse
+  series-id: null
+  episode: Cakey Cat
+  release: 1751033620
+  language: en-us
+  category: Tonie
+  runtime: 0
+  age: 99
+  origin: stock
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Cakey-Cat-11001267-PLPTB2MainImageTransparent.png?v=1774883288
+  sample: null
+  web: null
+  shop-id: '9000607350935'
+  track-desc: []
+  ids:
+  - audio-id: 1752644108
+    hash: 69dd134284bd13b82303b9f76d1f6bac61cedc39
+    size: 37163548
+    tracks: 6
+    confidence: 1

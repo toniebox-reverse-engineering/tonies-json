@@ -20,6 +20,11 @@ data:
   - Große Giganten und winzige Wunder
   - Hübsche Helden und verrückte Verwandler
   ids:
+  - audio-id: 1753171139
+    hash: fa06fe2c9a13601216a64c7bb61a380d76ebbc8e
+    size: 25991208
+    tracks: 6
+    confidence: 0
   - audio-id: 1708685270
     hash: bf83a29db5de33852810304a5b67d17e4808f4e9
     size: 26053172

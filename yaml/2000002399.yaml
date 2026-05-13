@@ -47,4 +47,9 @@ data:
   - 'Kapitel 06: Biberprobleme (Folge 56)'
   - 'Kapitel 07: Biberprobleme (Folge 56)'
   - 'Kapitel 08: Biberprobleme (Folge 56)'
-  ids: []
+  ids:
+  - audio-id: 717754674
+    hash: 0e0c7a4e7592f29ad040fd5acb146628cbf3a758
+    size: 37817655
+    tracks: 32
+    confidence: 0

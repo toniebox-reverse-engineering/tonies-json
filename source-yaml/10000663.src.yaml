@@ -1,0 +1,18 @@
+article: '10000663'
+lock-data: false
+data:
+- series: fix-whitespace-title,
+  series-id: tonies-shopapi-en-gb,
+  episode: ''
+  release: ''
+  language: ''
+  category: ''
+  runtime: tonies-shopapi-en-gb,
+  age: tonies-shopapi-en-gb,
+  origin: ''
+  image: ''
+  sample: tonies-shopapi-en-gb,
+  web: tonies-shopapi-en-gb,
+  shop-id: tonies-shopapi-en-gb,
+  track-desc: tonies-shopapi-en-gb,
+  ids: []

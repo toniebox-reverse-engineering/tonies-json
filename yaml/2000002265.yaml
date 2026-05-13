@@ -49,4 +49,9 @@ data:
   - Conni lernt backen - Teil 06
   - Conni lernt backen - Teil 07
   - Conni lernt backen - Teil 08
-  ids: []
+  ids:
+  - audio-id: 1761046561
+    hash: c439368e72590ef991a5bb24d141d527bef53461
+    size: 34782056
+    tracks: 33
+    confidence: 0

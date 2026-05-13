@@ -1,0 +1,23 @@
+article: '2000011465'
+lock-data: false
+data:
+- series: Zoés Zauberschrank
+  series-id: zoes-zauberschrank
+  episode: Verknotete Arme / Sonniger Sonnentag / Spuren im Sand / Schweres leicht
+    gemacht
+  release: 1753315200
+  language: de-de
+  category: audio-play
+  runtime: 2838
+  age: 4
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/bd4cabc6060bfadc4dd4901020a279256dc1853f8f3c9d5c8171c688/3_3qg5b9shJqlH~V4N/zoes_zauberschrank_003_verknotete_arme___sonni_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/zoes-zauberschrank/verknotete-arme-sonniger-sonnentag-spuren-im-sand/
+  shop-id: e4a620f8-b883-4d11-b6c4-e3d23046484e
+  track-desc:
+  - Verknotete Arme
+  - Sonniger Sonnentag
+  - Spuren im Sand
+  - Schweres leicht gemacht
+  ids: []

@@ -1,0 +1,25 @@
+article: '11002281'
+lock-data: false
+data:
+- series: Bobo Siebenschläfer
+  series-id: bobo-siebenschlaefer
+  episode: Bobo baggert und weitere Folgen
+  release: 1778630400
+  language: de-de
+  category: audio-play
+  runtime: 40
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11002281_1_a-JPkEp5oV.png
+  sample: https://cdn.tonies.de/o/audio_samples/1b4a4e631209a00ddaee6f52125403141070cd0cf33dd1486f0c00dc/hoerprobe_11002281_bobo_siebenschlaefer_bobo_baggert.mp3
+  web: https://tonies.com/de-de/tonies/bobo-siebenschlaefer/bobo-baggert-und-weitere-folgen/
+  shop-id: 920af437-3e14-4817-a6ab-f6064c4e9424
+  track-desc:
+  - Bobo baggert
+  - Bobo und der Handwerker
+  - Bobo zeltet im Garten
+  - Bobo malt mit Fingerfarben
+  - Bobo und die Blumenwiese
+  - Bobo will jetzt spielen
+  - Bobo und sein großer Cousin
+  ids: []

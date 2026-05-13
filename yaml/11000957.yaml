@@ -1,0 +1,37 @@
+article: '11000957'
+lock-data: false
+data:
+- series: Daniel Tiger
+  series-id: daniel-tiger
+  episode: Daniel Tiger's Neighbourhood
+  release: 1750032000
+  language: en-gb
+  category: audio-play-songs
+  runtime: 29
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11000957_4_Landscape-TrdyCBJ8.png
+  sample: https://cdn.tonies.de/o/audio_samples/a9c9543ab9c21cac735b2e49673b33d4046ceab8a919ac5da6547c99/daniel_tiger_audio_clip.mp3
+  web: https://tonies.com/en-gb/tonies/daniel-tiger/daniel-tiger-daniel-tiger-uk/
+  shop-id: 7fd14d2a-907b-418c-9d9c-e07c503c0fab
+  track-desc:
+  - SONG - Beautiful Day in the Neighbourhood
+  - STORY - Good Morning, Daniel
+  - STORY - Potty Time with Daniel
+  - SONG - Bathroom Boogie
+  - STORY - Morning Routine with Daniel
+  - SONG - Breakfast Time
+  - SONG - Brushing Teeth
+  - STORY - Daniel’s Day of Many Feelings
+  - STORY - The Neighbourhood Carnival
+  - SONG - Strategy Song
+  - STORY - Nightime in the Neighbourhood 1
+  - SONG - Goodnight Sun
+  - STORY - Nightime in the Neighbourhood 2
+  - SONG - Beautiful Night in the Neighbourhood
+  - STORY - Goodnight, Daniel
+  - SONG - Sail to the Soapy Seas
+  - SONG - Brusha Brusha
+  - SONG - Goodnight Daniel
+  - SONG - It’s Such a Good Feeling
+  ids: []

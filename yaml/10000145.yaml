@@ -2,19 +2,33 @@ article: '10000145'
 lock-data: false
 data:
 - series: Mein Lotta-Leben
-  series-id: null
+  series-id: mein-lotta-leben
   episode: Alles voller Kaninchen
   release: 1588809600
   language: de-de
   category: audio-book
-  runtime: 0
-  age: 99
+  runtime: 69
+  age: 8
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000145-50001335-b-sAxI1mB-.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/0bca9e3bfc630488998e767f644f0396d927e5e736a6cd95484e5929/hoerprobe_mein_lotta_leben_alles_voller_kaninchen_ext.mp3
+  web: https://tonies.com/de-de/tonies/mein-lotta-leben/alles-voller-kaninchen/
+  shop-id: 6aa1b6ef-9eab-4af9-a6bd-877c08f76618
+  track-desc:
+  - Freitag, der 19. August 1
+  - Freitag, der 19. August 2
+  - Freitag, der 19. August 3
+  - 6. Montag, der 22. August 1
+  - 6. Montag, der 22. August 2
+  - 6. Montag, der 22. August 3
+  - Dienstag, der 23. August
+  - Donnerstag, der 25. August
+  - Freitag, der 26. August
+  - Samstag, der 27. August
+  - Mittwoch, der 31. August
+  - Donnerstag, der 1. September
+  - Freitag, der 2. September
+  - Sonntag, der 4. September
   ids:
   - audio-id: 1587460453
     hash: 9a17fbea993fa326711a4fe3ba1136acb3427bd2

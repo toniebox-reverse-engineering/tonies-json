@@ -1,0 +1,24 @@
+article: '11002613'
+lock-data: false
+data:
+- series: Daily Routines
+  series-id: daily-routines
+  episode: Tidy Up Timer
+  release: 1755043200
+  language: en-gb
+  category: audio-play
+  runtime: 35
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002613-UK-CleverTo-1rem4Y9x.png
+  sample: https://cdn.tonies.de/o/audio_samples/9ba04e2c9a61445e80180f1a2a3ffee405d0d28e87c9356e092f832a/copy_of_tonies_tidy_up_timer_agent_triple_o_clean_sample.wav
+  web: https://tonies.com/en-gb/clever-tonies/daily-routines/tidy-up-timer/
+  shop-id: 46129f10-c0f9-44fa-a5e3-d00b286bb549
+  track-desc:
+  - MISSION - Welcome to Mission Control
+  - MISSION - Disguise Surprise
+  - MISSION - Book Crooks
+  - MISSION - Operation Beddy Byes
+  - MISSION - Play to Win (With Song!)
+  - MISSION - Mission Accomplished
+  ids: []

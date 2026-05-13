@@ -10,12 +10,17 @@ data:
   runtime: 0
   age: 99
   origin: stock
-  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-eloise-transparent.png?v=1734730723
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Eloise-10000800-PLPTB2MainImageTransparent.png?v=1774883332
   sample: null
   web: null
   shop-id: '7789733904535'
   track-desc: []
   ids:
+  - audio-id: 1742315017
+    hash: 5b57b3e54f11be5cab0cc6226de61d04b2797d68
+    size: 87936991
+    tracks: 29
+    confidence: 1
   - audio-id: 1731545762
     hash: 0cfdda008e378f75340647c10706050b5f66a1a1
     size: 84052266

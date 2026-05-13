@@ -1,20 +1,26 @@
 article: '10001312'
 lock-data: false
 data:
-- series: null
-  series-id: null
-  episode: null
-  release: 0
-  language: null
-  category: null
-  runtime: 0
-  age: 99
-  origin: null
-  image: null
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+- series: Favourite Tales
+  series-id: favourite-tales
+  episode: Pride Tales
+  release: 1653004800
+  language: en-gb
+  category: audio-play-songs
+  runtime: 66
+  age: 4
+  origin: stock
+  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/1-cKVL02KR.png
+  sample: https://cdn.tonies.de/o/audio_samples/0b56b48c9f802497e639bfbf440c28b3ea6eb3ddb217bf6005edf42c/1_sample_clip__happy_pride_everyone.wav
+  web: https://tonies.com/en-gb/tonies/favourite-tales/pride-tales/
+  shop-id: f6065a08-8be5-4ec7-8e1a-2fe632483d84
+  track-desc:
+  - Happy Pride Everyone
+  - Rainbow Parade
+  - Coral by the Sea
+  - Colours of Love
+  - Family Day
+  - The Purple Dress
   ids:
   - audio-id: 1653049381
     hash: 70e626f79108abfa1f51b6b2b4cc74063c72ddee

@@ -1,0 +1,22 @@
+article: '11001877'
+lock-data: false
+data:
+- series: Ma Pause Zen
+  series-id: ma-pause-zen
+  episode: Prendre Confiance Avec Ella L'Éléphante
+  release: 1756944000
+  language: fr-fr
+  category: audio-play
+  runtime: 55
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51008241-Tonie_Shado-xhc6ju3g.png
+  sample: https://cdn.tonies.de/o/audio_samples/2a2ced0ac884ff14a1bdd49b4c5a30f512be506bb4156e1b6134a44d/tonies_bien_etre_ella_ep01_entrer_dans_la_foret_110625.mp3
+  web: https://tonies.com/fr-fr/tonies/ma-pause-zen/prendre-confiance-avec-ella-l-elephante/
+  shop-id: e8502056-d329-4323-9086-9fc8fb702cc2
+  track-desc:
+  - La forêt des affirmations
+  - L'arbre qui tremble
+  - La prairie des progrès
+  - La mer des émotions
+  ids: []

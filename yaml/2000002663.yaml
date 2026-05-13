@@ -60,4 +60,9 @@ data:
   - Rollos Rede (Teil 09)
   - Rollos Rede (Teil 10)
   - Rollos Rede (Outro)
-  ids: []
+  ids: 
+  - audio-id: 1757060834
+    hash: ab9bea304a2064e19c7058aae55baaa98a1cbc0b
+    size: 39166989
+    tracks: 45
+    confidence: 0

@@ -3,19 +3,24 @@ lock-data: false
 data:
 - series: Lalalinos
   series-id: null
-  episode: Scout Tonie - Move and Groove in Bumbaloo
+  episode: Scout - Move and Groove in Bumbaloo
   release: 1735588416
   language: en-us
   category: Tonie
   runtime: 0
   age: 99
   origin: stock
-  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tonies-PDP-Scout-Transparent_2.png?v=1737477431
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Lalalinos_-Scout-11000613-PLPTB2MainImageTransparent.png?v=1774883271
   sample: null
   web: null
   shop-id: '8614794625175'
   track-desc: []
   ids:
+  - audio-id: 1744312523
+    hash: c9c77a64a94867418311228fefd8f141b54367ba
+    size: 39656991
+    tracks: 6
+    confidence: 1
   - audio-id: 1740060960
     hash: 6f15f2853d952027dc373d6e3bdf7c85af79d120
     size: 39487888

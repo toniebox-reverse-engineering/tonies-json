@@ -24,6 +24,11 @@ data:
   - Von Steinen und Gebeinen
   - Blackbeard hat das letzte Wort
   ids:
+  - audio-id: 1747128270
+    hash: aee8aa43136a48c863c16116f3fa62c2f25dbc13
+    size: 51486676
+    tracks: 4
+    confidence: 1
   - audio-id: 1701182307
     hash: 1c8e7a59075b3d2e7f277dd7b3de821a906f644c
     size: 51584410
@@ -38,6 +43,11 @@ data:
     hash: baf7a9fef8b948b9efb38593778804d191d3269f
     size: 42621145
     tracks: 8
+    confidence: 1
+  - audio-id: 731032636
+    hash: 98256d22b1af4723047ed45ab2ad157d96ae3c41
+    size: 51486676
+    tracks: 4
     confidence: 1
 - series: Die drei ???
   series-id: null

@@ -1,0 +1,26 @@
+article: '11003880'
+lock-data: false
+data:
+- series: Lilo & Stitch
+  series-id: disney-lilo-stitch
+  episode: Tonie-Câlin - Disney - Stitch
+  release: 1774396800
+  language: fr-fr
+  category: audio-play
+  runtime: 35
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51021413-Cuddle_Toni-DgzfKXdp.png
+  sample: https://cdn.tonies.de/o/audio_samples/f7da16cce6367ee253b3ab6131a352ca6e5603a67484d5a307230ee5/disney_cuddle_tonies_stitch_extrait_wav.wav
+  web: https://tonies.com/fr-fr/tonies-calins/disney-lilo-stitch/tonie-calin-disney-stitch/
+  shop-id: 2084223f-5dda-4629-8f9c-dada91549078
+  track-desc:
+  - À la rencontre de Stitch
+  - 'Histoire : Gentil, Stitch !'
+  - 'Interlude : Le super giga château de sable'
+  - 'Histoire : Vas-y, Stitch !'
+  - 'Interlude : Sacré Stitch !'
+  - 'Histoire : Stitch va à la plage'
+  - 'Interlude : Stitch raconte son histoire'
+  - Le paysage sonore de Stitch
+  ids: []

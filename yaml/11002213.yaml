@@ -1,0 +1,46 @@
+article: '11002213'
+lock-data: false
+data:
+- series: Captain Underpants
+  series-id: audiobooks-captain-underpants
+  episode: Captain Underpants and the Attack of the Talking Toilets
+  release: 1728604800
+  language: en-gb
+  category: audio-book
+  runtime: 59
+  age: 7
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11001589-US-Audioboo-3ydwvh9D.png
+  sample: https://cdn.tonies.de/o/audio_samples/904cc74cee2fdab92c2a78b94e98549901a09687a9477029e1151c32/captain_underpants_and_the_attack_of_the_talking_toilets_sample.wav
+  web: https://tonies.com/en-gb/book-tonies/audiobooks-captain-underpants/captain-underpants-and-the-attack-of-the-talking-toilets/
+  shop-id: 7a06be4a-9538-47eb-9405-8e5b8c767414
+  track-desc:
+  - INTRO
+  - 'CHAPTER 1: George and Harold'
+  - 'CHAPTER 2: This Story'
+  - 'CHAPTER 3: The Flashback'
+  - 'CHAPTER 4: The Invention'
+  - 'CHAPTER 5: Bigger and Better Things'
+  - 'CHAPTER 6: The Invention Convention'
+  - 'CHAPTER 7: Busted'
+  - 'CHAPTER 8: The Invention Convention Detention'
+  - 'CHAPTER 9: Captain Underpants and the Attack of the Talking Toilets'
+  - 'CHAPTER 10: A Big Mistake'
+  - 'CHAPTER 11: The Invention Convention Detention Suspension'
+  - 'CHAPTER 12: Things Get Worse'
+  - 'CHAPTER 13: It’s Too Late!'
+  - 'CHAPTER 14: The Talking Toilet Takeover'
+  - 'CHAPTER 15: Creamed Chipped Beef to the Rescue!'
+  - 'CHAPTER 16: The Turbo Toilet 2000'
+  - 'CHAPTER 17: The Extremely Graphic Violence Chapter, Part 1'
+  - 'CHAPTER 18: Harold and the Purple Ballpoint Pen'
+  - 'CHAPTER 19: The Incredible Robo-Plunger'
+  - 'CHAPTER 20: The Extremely Graphic Violence Chapter, Part 2'
+  - 'CHAPTER 21: The Aftermath'
+  - 'CHAPTER 22: To Make a Long Story Short'
+  - 'CHAPTER 23: After the Aftermath'
+  - 'CHAPTER 24: Principals for the Day (Or, The Invention Convention Detention Suspension
+    Prevention)'
+  - Fun Facts
+  - Legal Copyright
+  ids: []

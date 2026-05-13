@@ -55,4 +55,9 @@ data:
   - Teil 07
   - Teil 08
   - Der Mond hört uns beim Singen zu (Lied)
-  ids: []
+  ids:
+  - audio-id: 1736764470
+    hash: 2906a841a91363d00465ecd7463f7c83edf3d728
+    size: 49060005
+    tracks: 40
+    confidence: 0

@@ -1,20 +1,32 @@
 article: '10000663'
 lock-data: false
 data:
-- series: 'Mr Bean '
-  series-id: null
+- series: Mr Bean
+  series-id: mr-bean
   episode: Mr Bean
   release: 1631145600
   language: en-gb
   category: music
-  runtime: 0
-  age: 99
+  runtime: 36
+  age: 5
   origin: stock
   image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10000663-50002112-b-4kOvL_lW.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/6e02d6db58bf3aef6a6963115cf7b071e7448f3066238fb72509712a/audio_sample_mr_bean_ext.mp3
+  web: https://tonies.com/en-gb/tonies/mr-bean/mr-bean/
+  shop-id: 9c9e748c-ef09-443b-b19f-0019f4dfc08b
+  track-desc:
+  - I'm Bean, Mr Bean
+  - I Love Dancing
+  - Pizza Bean
+  - Cup of Tea
+  - Let's Dance
+  - Seaside Holiday
+  - The Spooky Song
+  - Teddy
+  - The Happy Birthday Song
+  - I Love My Car
+  - You Can Do It!
+  - The Excellent Song
   ids:
   - audio-id: 1624353992
     hash: 3cb345ff3c9c4c233f4b143b8957e165dec7de4c

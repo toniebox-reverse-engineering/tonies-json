@@ -55,4 +55,9 @@ data:
   - Karneval in Rio (Teil 08)
   - Karneval in Rio (Teil 09)
   - Karneval in Rio (Teil 10)
-  ids: []
+  ids:
+  - audio-id: 1699261099
+    hash: 24a46dc4e50ff0a132c29acd0a05faa4f978b5bf
+    tracks: 40
+    size: 33811302
+    confidence: 0

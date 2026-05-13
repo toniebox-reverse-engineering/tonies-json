@@ -34,4 +34,9 @@ data:
   - 'Folge 12: Das Schneemonster - Track 2'
   - 'Folge 12: Das Schneemonster - Track 3'
   - 'Folge 12: Das Schneemonster - Track 4'
-  ids: []
+  ids:
+  - audio-id: 512506755
+    hash: d137de8ae208d4f583105d4edbc3a105c5d07b5e
+    size: 45537754
+    tracks: 19
+    confidence: 0

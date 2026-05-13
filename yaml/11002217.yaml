@@ -1,0 +1,40 @@
+article: '11002217'
+lock-data: false
+data:
+- series: The Questioneers
+  series-id: the-questioneers
+  episode: Ada Twist and the Perilous Pants
+  release: 1728604800
+  language: en-gb
+  category: audio-book
+  runtime: 76
+  age: 6
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002217-UK-Audioboo-aJ131HBw.png
+  sample: https://cdn.tonies.de/o/audio_samples/f15ba0f41c3ae225171f34fa11d483924e8ef071cf734d0531013018/ada_twist_sample.wav
+  web: https://tonies.com/en-gb/book-tonies/the-questioneers/ada-twist-and-the-perilous-pants/
+  shop-id: 0a50c7fa-45fa-4d2c-8493-2b04e04314cf
+  track-desc:
+  - CHAPTER 1
+  - CHAPTER 2
+  - CHAPTER 3
+  - CHAPTER 4
+  - CHAPTER 5
+  - CHAPTER 6
+  - CHAPTER 7
+  - CHAPTER 8
+  - CHAPTER 9
+  - CHAPTER 10
+  - CHAPTER 11
+  - CHAPTER 12
+  - CHAPTER 13
+  - CHAPTER 14
+  - CHAPTER 15
+  - CHAPTER 16
+  - CHAPTER 17
+  - 'CHAPTER:  Citizen Science'
+  - 'CHAPTER:  Ode To A Gas'
+  - 'CHAPTER: That''s For The Birds'
+  - 'CHAPTER: Think About This'
+  - Credits
+  ids: []

@@ -1,0 +1,26 @@
+article: '2000011370'
+lock-data: false
+data:
+- series: Lalalinos
+  series-id: lalalinos
+  episode: Ça groove à Bumbaloo - l'album musical
+  release: 1753228800
+  language: fr-fr
+  category: music
+  runtime: 1036
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_67b63561f7d0ced0b9f4e389742356e5197316db01a3e6e6e6bcd6eb/3_Y7sqn4z_DJfSgZTC/lalalinos_ca_groove_a_bumbaloo_l_album_musical_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/342a9a161af5af3e2157e422e1fb2d9d24625a2b40d9e2f6c1cf7a04/lalalinos_ca_groove_scout_album_musical_extrait.mp3
+  web: https://tonies.com/fr-fr/tonie-librairie/lalalinos/ca-groove-a-bumbaloo-lalbum-musical/
+  shop-id: 597eec06-039f-498b-b77a-3b6fa82e7562
+  track-desc:
+  - Mon harmonica
+  - Ça s'appelle un échange
+  - Coup d'pouce
+  - Cogite
+  - Le Drible-rimes-ball
+  - Quand on fait une chanson
+  - Une formidable quête
+  - Le trésor de Bumbaloo
+  ids: []

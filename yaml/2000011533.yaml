@@ -1,0 +1,27 @@
+article: '2000011533'
+lock-data: false
+data:
+- series: Caillou
+  series-id: caillou
+  episode: 'Folgen 197-202: Caillou lernt Auto fahren'
+  release: 1756857600
+  language: de-de
+  category: audio-play
+  runtime: 4356
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/837f0119451b97f1d9d04161bdf8a2b83c2fb4c093af0ccc9d957ae2/3_HldG336hhJf9hGcy/caillou_197_folgen_197_202__caillou_lernt_auto_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/b3c2da9c592c87a73f2f20dacf2bfa067c093eff4ea07d415a68f070/4013575900480_preview.mp3
+  web: https://tonies.com/de-de/audio-content/caillou/folgen-197-202-caillou-lernt-auto-fahren/
+  shop-id: 930f3bef-e0d5-445f-b81a-fbf70b508316
+  track-desc:
+  - Caillou Intro
+  - Caillou Vorspann
+  - 'Folge 197: Caillou Singt / Die Spielzeugkiste'
+  - 'Folge 198: Ein Guter Freund / Caillou Lernt Auto Fahren'
+  - 'Folge 199: Einmal Süß, Einmal Sauer / Caillous Großer Freund'
+  - 'Folge 200: Das Fingerpuppenspiel / Caillou Schickt Einen Brief'
+  - 'Folge 201: Caillous Sammlung / Caillou Hat Schlechte Laune'
+  - 'Folge 202: Es Ist Weihnachten / Caillou Lernt Schwimmen'
+  - Caillou Abspann
+  ids: []

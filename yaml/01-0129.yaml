@@ -14,7 +14,37 @@ data:
   sample: null
   web: null
   shop-id: null
-  track-desc: []
+  track-desc:
+  - Hab ‘ne Tante aus Marokko
+  - Rucki Zucki
+  - Heidi
+  - If you‘re happy and you know it
+  - Meine Oma fährt im Hühnerstall Motorrad
+  - Die Biene Maja
+  - Eine Insel mit zwei Bergen
+  - Head and shoulders
+  - Es tanzt ein Bi-Ba-Butzemann
+  - Probier‘s mal mit Gemütlichkeit
+  - Hörst du die Regenwürmer husten
+  - Wie schön, dass du geboren bist
+  - Drei Chinesen mit dem Kontrabass
+  - Das rote Pferd
+  - Das Flummilied
+  - Incy wincy spider
+  - Schnappi
+  - Old MacDonald had a farm
+  - Der Cowboy Jim aus Texas
+  - Die Affen rasen durch den Wald
+  - Das singende Känguru
+  - Nackidei
+  - Theo (Der Bananenbrot-Song)
+  - So a schöner Tag (Fliegerlied)
+  - Ich bin ein Musikante
+  - Grün, grün, grün sind alle meine Kleider
+  - Der Gorilla mit der Sonnenbrille
+  - Von den blauen Bergen kommen wir
+  - Ein Mann, der sich Kolumbus nannt
+  - Wer hat an der Uhr gedreht?
   ids:
   - audio-id: 1679477120
     hash: ae70d7cfcb577c98e378c953bf2efbb5864ae952

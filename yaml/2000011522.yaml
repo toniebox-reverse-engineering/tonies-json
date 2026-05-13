@@ -1,0 +1,33 @@
+article: '2000011522'
+lock-data: false
+data:
+- series: P'tits Véhicules
+  series-id: ptits-vehicules
+  episode: 'P''tits Véhicules : 15 histoires'
+  release: 1754265600
+  language: fr-fr
+  category: audio-book
+  runtime: 2906
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_fe214f450b00ad041114d1ea8327fd344b0eacb2514af5517c842f5b/3_RsLbHCwmHJF-c4_h/p_tits_vehicules_p_tits_vehicules___15_histoires_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/21a804db76a0a6e704d9c84c11d1b2732d6f0bbe80a5ea0707a4b33c/le_camion_a_pizzas_de_lucas_sample.mp3
+  web: https://tonies.com/fr-fr/tonie-librairie/ptits-vehicules/ptits-vehicules-15-histoires/
+  shop-id: c211fc1e-8e6d-477c-bab7-c1de1ea3cc71
+  track-desc:
+  - Le Tracteur de Fleur
+  - Le Camion de pompier de Léon
+  - La Formule 1 de Gabin
+  - Le Camion Poubelle de Marcel
+  - La Tractopelle d'Axelle
+  - Le Camion à Pizzas de Lucas
+  - L'Ambulance de Clémence
+  - Le Bateau de Léo
+  - La Moto de Police de Yannis
+  - La Caravane de Julie et Ethan
+  - La Grue de Lulu
+  - La Moto de Margot
+  - Le Camion Citerne de Gwen
+  - Le Vélo de Mattéo
+  - Le Train de Bastien
+  ids: []

@@ -23,6 +23,26 @@ data:
   - 'Chapter 6: Paddington and the Christmas Shopping'
   - 'Chapter 7: Christmas'
   ids:
+  - audio-id: 1770397513
+    hash: f5afc66e0ba0a4caeb81d57381d50d46d859f42e
+    size: 114507767
+    tracks: 21
+    confidence: 1
+  - audio-id: 1759217322
+    hash: 386ce5deef162203d24fdc37da44720afbaefbb9
+    size: 114507767
+    tracks: 21
+    confidence: 1
+  - audio-id: 1758731179
+    hash: c63ad8b2ba22498b769d0742cacf4fccd90f4f4f
+    size: 112244950
+    tracks: 21
+    confidence: 1
+  - audio-id: 1747225107
+    hash: 6bec98695c91881d9ceb90716178cea879047bb1
+    size: 114558833
+    tracks: 7
+    confidence: 1
   - audio-id: 1721924102
     hash: 8619b6be0889e0ad7a7675448beed9856566641b
     size: 114558833

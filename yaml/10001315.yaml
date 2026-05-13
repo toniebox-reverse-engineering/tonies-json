@@ -2,7 +2,7 @@ article: '10001315'
 lock-data: false
 data:
 - series: Giraffes Can't Dance
-  series-id: giraffes-can-t-dance
+  series-id: gir-cant-dance-us
   episode: Giraffes Can't Dance
   release: 0
   language: en-gb
@@ -16,9 +16,40 @@ data:
   shop-id: 78f480fc-db15-4718-a3a1-b424a70f4c3c
   track-desc:
   - Giraffes Can't Dance
-  - Giraffes Can't Dance Read Along
-  - Giraffes Can't Dance Song
+  - Giraffes Can't Dance
+  - Giraffes Can't Dance
+  - Giraffes Can't Dance
+  - Giraffes Can't Dance
+  - Giraffes Can't Dance
+  - Giraffes Can't Dance
+  - Giraffes Can't Dance
+  - Giraffes Can't Dance
+  - Giraffes Can't Dance
+  - Giraffes Can't Dance
+  - Giraffes Can't Dance
+  - Giraffes Can't Dance
+  - Giraffes Can't Dance
+  - Giraffes Can't Dance
+  - Giraffes Can't Dance
+  - Giraffes Can't Dance
+  - Giraffes Can't Dance
+  - Giraffes Can't Dance
+  - Giraffes Can't Dance
+  - Giraffes Can't Dance
+  - Giraffes Can't Dance
+  - Giraffes Can't Dance
+  - Giraffes Can't Dance - Outro and Author
   ids:
+  - audio-id: 1751870915
+    hash: ceed70e0efc7994539b3b15af3707af5426480d2
+    size: 23285803
+    tracks: 24
+    confidence: 1
+  - audio-id: 1751625184
+    hash: f5d1b2b304474ff42da9cb883b07dcb4c2f50e0a
+    size: 23231224
+    tracks: 24
+    confidence: 1
   - audio-id: 1669127542
     hash: 9a683032baffde6dd20d9c2c8685d3c7f37ec1d6
     size: 23245195

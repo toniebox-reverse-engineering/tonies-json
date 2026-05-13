@@ -15,10 +15,10 @@ data:
   web: https://tonies.com/en-gb/tonies/peter-rabbit/the-peter-rabbit-collection/
   shop-id: 92b11bf7-5357-430b-bd4c-df794c197263
   track-desc:
-  - The Tale of Peter Rabbit™️
-  - The Tale of Benjamin Bunny™️
-  - The Tale of Mr. Tod™️
-  - The Tale of The Flopsy Bunnies™️
+  - 01. STORY - The Tale of Peter Rabbit™️
+  - 02. STORY - The Tale of Benjamin Bunny™️
+  - 03. STORY - The Tale of Mr. Tod™️
+  - 04. STORY - The Tale of The Flopsy Bunnies™️
   ids:
   - audio-id: 1611154008
     hash: efe4ddef42d7ad8d9673217633d77b712beee31d

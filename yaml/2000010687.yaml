@@ -42,4 +42,9 @@ data:
   - 'Kapitel 05: Rancheroo-Tag (Folge 12)'
   - 'Kapitel 06: Rancheroo-Tag (Folge 12)'
   - 'Kapitel 07: Rancheroo-Tag (Folge 12)'
-  ids: []
+  ids:
+  - audio-id: 1703251236
+    hash: 5cd9a4ebf62d9e7ac0e09ee7657ef5e9de8d6612
+    size: 40408519
+    tracks: 27
+    confidence: 0

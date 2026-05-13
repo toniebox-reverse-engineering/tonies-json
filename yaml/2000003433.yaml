@@ -23,4 +23,9 @@ data:
   - Kapitel 06
   - Kapitel 07
   - Kapitel 08
-  ids: []
+  ids:
+  - audio-id: 1732263485
+    hash: d0a761d8ba2e5f99308d468b93e7d2ccc512d2dc
+    size: 30420956
+    tracks: 8
+    confidence: 0

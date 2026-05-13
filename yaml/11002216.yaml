@@ -1,0 +1,45 @@
+article: '11002216'
+lock-data: false
+data:
+- series: The Questioneers
+  series-id: the-questioneers
+  episode: Rosie Revere and the Raucous Riveters
+  release: 1728604800
+  language: en-gb
+  category: audio-book
+  runtime: 69
+  age: 6
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002216-UK-Audioboo-s7tYDGa7.png
+  sample: https://cdn.tonies.de/o/audio_samples/3370bf6b4c9d2acac7c64d4d5c6133ece87bd1bd6b3077b477a46f95/rosie_revere_and_the_raucous_riveters_sample.wav
+  web: https://tonies.com/en-gb/book-tonies/the-questioneers/rosie-revere-and-the-raucous-riveters-uk/
+  shop-id: bcaa51ba-4504-4bae-a4c9-582a0fcbd416
+  track-desc:
+  - CHAPTER 1
+  - CHAPTER 2
+  - CHAPTER 3
+  - CHAPTER 4
+  - CHAPTER 5
+  - CHAPTER 6
+  - CHAPTER 7
+  - CHAPTER 8
+  - CHAPTER 9
+  - CHAPTER 10
+  - CHAPTER 11
+  - CHAPTER 12
+  - CHAPTER 13
+  - CHAPTER 14
+  - CHAPTER 15
+  - CHAPTER 16
+  - CHAPTER 17
+  - CHAPTER 18
+  - CHAPTER 19
+  - CHAPTER 20
+  - CHAPTER 21
+  - CHAPTER 22
+  - 'CHAPTER: Ode To A Valve'
+  - 'CHAPTER: About Valves'
+  - 'CHAPTER: About The Riveters'
+  - 'CHAPTER: Think About This'
+  - Credits
+  ids: []

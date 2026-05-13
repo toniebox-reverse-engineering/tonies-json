@@ -2,7 +2,7 @@ article: '10001247'
 lock-data: false
 data:
 - series: L'Heure De La Sieste
-  series-id: l-heure-de-la-sieste
+  series-id: nap-time
   episode: Bruit Blanc
   release: 0
   language: fr-fr
@@ -15,5 +15,20 @@ data:
   web: https://tonies.com/fr-fr/tonies/l-heure-de-la-sieste/bruit-blanc/
   shop-id: 8476f287-de40-4ee7-8919-b7798a4c4b41
   track-desc:
-  - Bruit blanc
+  - Bruit blanc 01
+  - Bruit blanc 02
+  - Bruit blanc 03
+  - Bruit blanc 04
+  - Bruit blanc 05
+  - Bruit blanc 06
+  - Bruit blanc 07
+  - Bruit blanc 08
+  - Bruit blanc 09
+  - Bruit blanc 10
+  - Bruit blanc 11
+  - Bruit blanc 12
+  - Bruit blanc 13
+  - Bruit blanc 14
+  - Bruit blanc 15
+  - Bruit blanc 16
   ids: []

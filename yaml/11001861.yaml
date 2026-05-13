@@ -2,8 +2,8 @@ article: '11001861'
 lock-data: false
 data:
 - series: Der kleine Prinz
-  series-id: der-kleine-prinz
-  episode: The Little Prince - Der kleine Prinz (Neuauflage)
+  series-id: the-little-prince
+  episode: Der kleine Prinz (Neuauflage 2025)
   release: 1741737600
   language: de-de
   category: audio-book
@@ -26,4 +26,14 @@ data:
   - Der kleine Prinz und der Fuchs
   - Der kleine Prinz und ich und die Suche nach dem Brunnen
   - Der kleine Prinz kehrt heim
-  ids: []
+  ids:
+  - audio-id: 1778488192
+    hash: 920dc32b56e0d48423f376a948870b328f0a6b04
+    size: 49015663
+    tracks: 11
+    confidence: 1
+  - audio-id: 1739354599
+    hash: 40699144bca173e245fa766931ae35712aa385b1
+    size: 49015663
+    tracks: 11
+    confidence: 1

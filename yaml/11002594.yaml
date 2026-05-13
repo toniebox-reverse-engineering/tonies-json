@@ -1,0 +1,65 @@
+article: '11002594'
+lock-data: false
+data:
+- series: David Walliams
+  series-id: david-walliams-2
+  episode: Gangsta Granny Strikes Again!
+  release: 1744934400
+  language: en-gb
+  category: audio-book
+  runtime: 252
+  age: 7
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002594_%20Landscape-YoTNcGC0.png
+  sample: https://cdn.tonies.de/o/audio_samples/69760009e557a1d24ffa79b2ce5bf22952c4ef1495b6830f59824599/gangsta_granny_strikes_again_sample.wav
+  web: https://tonies.com/en-gb/book-tonies/david-walliams-2/gangsta-granny-strikes-again/
+  shop-id: 1dc4ca6a-f733-4755-bee4-893cc03fcae5
+  track-desc:
+  - Opening Credits
+  - Meet The Characters In The Story
+  - 'CHAPTER 1: A Beautiful Bouquet of Cabbages'
+  - 'CHAPTER 2: Clever Clog'
+  - 'CHAPTER 3: Puddle of Trouble'
+  - 'CHAPTER 4: A Galloping Postbox'
+  - 'CHAPTER 5: Number-One Pin Up'
+  - 'CHAPTER 6: Biscuit Tin'
+  - 'CHAPTER 7: The Coolest Kid In The World'
+  - 'CHAPTER 8: Low-Speed Chase'
+  - 'CHAPTER 9: Giant Fruit Lolly'
+  - 'CHAPTER 10: Double Bluff!'
+  - 'CHAPTER 11: Tiny Moustache'
+  - 'CHAPTER 12: Grounded!'
+  - 'CHAPTER 13: Number-One-Suspect'
+  - 'CHAPTER 14: Two Left Feet'
+  - 'CHAPTER 15: Clueless'
+  - 'CHAPTER 16: Identical Strangers'
+  - 'CHAPTER 17: March of the Bins'
+  - 'CHAPTER 18: A Deep Sense of Dread'
+  - 'CHAPTER 19: Plucked to Perfection'
+  - 'CHAPTER 20: All A Blur'
+  - 'CHAPTER 21: Broken Buttock'
+  - 'CHAPTER 22: A Mysterious Figure'
+  - 'CHAPTER 23: Giant Mushrooms'
+  - 'CHAPTER 24: Bong!'
+  - 'CHAPTER 25: Dynamite!'
+  - 'CHAPTER 26: Bog Water'
+  - 'CHAPTER 27: Used Tissue'
+  - 'CHAPTER 28: Nasties'
+  - 'CHAPTER 29: The Return of Fudge'
+  - 'CHAPTER 30: Abra Kebabra'
+  - 'CHAPTER 31: Raj Meets The Queen'
+  - 'CHAPTER 32: Top-Secret Mission'
+  - 'CHAPTER 33: Seven Corgis Sleeping'
+  - 'CHAPTER 34: You Are Only Old Once!'
+  - 'CHAPTER 35: Water Slide'
+  - 'CHAPTER 36: Trespassers'
+  - 'CHAPTER 37: PC Raj'
+  - 'CHAPTER 38: A Trap'
+  - 'CHAPTER 39: Revenge of the Oldies'
+  - 'CHAPTER 40: Dummy'
+  - 'CHAPTER 41: Kinda Spooky'
+  - 'CHAPTER 42: A Proper Gangsta'
+  - 'CHAPTER 43: A Mum-And-Dad Sandwich'
+  - 'CHAPTER 44: The Queen''s Speech'
+  - Closing Credits
+  ids: []

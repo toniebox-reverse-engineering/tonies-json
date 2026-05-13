@@ -1,0 +1,31 @@
+article: '2000011496'
+lock-data: false
+data:
+- series: Benjamin Blümchen
+  series-id: benjamin-bluemchen
+  episode: 'Benjamin Blümchen, Folge 13: Benjamin im Krankenhaus'
+  release: 1753747200
+  language: de-de
+  category: audio-book
+  runtime: 2722
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/5c8d8a2a26722cf50ec6ee42c12dc5b064cdcba97505b21897d57c9f/3_BzKXh1-._tx~JClB/benjamin_blumchen_013_benjamin_blumchen_folge_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/7af6b88f7e0cc12c9aeb0fc5055627a2df098140c2bed761769ad070/4033694265130_audiosample.mp3
+  web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/benjamin-blumchen-folge-13-benjamin-im-krankenhaus/
+  shop-id: 3fe54abd-37c1-4cd9-ac2d-7ad7003e7cae
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  ids: []

@@ -1,0 +1,28 @@
+article: '2000011371'
+lock-data: false
+data:
+- series: Lalalinos
+  series-id: lalalinos
+  episode: Les superstars de Bumbaloo - l'album musical
+  release: 1750118400
+  language: fr-fr
+  category: music
+  runtime: 1172
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_7e4b3f63b67d48d693a2cac4b0fb7d63dc4b20c2dcec773344020043/3_zrrqZGBgc_2cBqJr/lalalinos_les_superstars_de_bumbaloo_l_album_m_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/372559cc80f7e6d08bee3cbfb8ff2c52117448b688e5119d1d504d36/lalalinos_les_superstars_akio_album_musical_extrait.mp3
+  web: https://tonies.com/fr-fr/tonie-librairie/lalalinos/les-superstars-de-bumbaloo-lalbum-musical/
+  shop-id: 966155cf-053d-4c8c-a1e3-801008fa2839
+  track-desc:
+  - Le rythme des Lalalinos
+  - S'en tenir au plan
+  - Tu es unique
+  - L'harmonie c'est la clé
+  - Nous c'est l'harmonie
+  - J'suis au top !
+  - Le micro magique
+  - Tout ce que je veux
+  - Pop Corn
+  - Bumba Bumba
+  ids: []

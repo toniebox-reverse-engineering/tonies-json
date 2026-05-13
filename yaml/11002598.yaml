@@ -1,0 +1,51 @@
+article: '11002598'
+lock-data: false
+data:
+- series: Tom Fletcher
+  series-id: tom-fletcher
+  episode: The Creakers
+  release: 1747353600
+  language: en-gb
+  category: audio-book
+  runtime: 108
+  age: 7
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002598-UK-Audioboo-eADICmGN.png
+  sample: https://cdn.tonies.de/o/audio_samples/23aad31ffc5d3b81c8c22263e5f51afc7f36cc985d3606fb346f7892/creakers_sample.wav
+  web: https://tonies.com/en-gb/book-tonies/tom-fletcher/the-creakers/
+  shop-id: e13a41b5-e7bc-477f-9904-69b6a59cfeed
+  track-desc:
+  - OPENING CREDITS
+  - 'PROLOGUE: The Night It All Began'
+  - 'CHAPTER 1: The Day It All Began'
+  - 'CHAPTER 2: The Goodbye Note'
+  - 'CHAPTER 3: Helpful'
+  - 'CHAPTER 4: Lucy Wasn''t Alone'
+  - 'CHAPTER 5: The First Creaker'
+  - 'CHAPTER: 6: The Day after'
+  - 'CHAPTER 7: Four Creakers'
+  - 'CHAPTER 8: The Woleb'
+  - 'CHAPTER 9: The Plan'
+  - 'CHAPTER 10: The Creaker Trap'
+  - 'CHAPTER 11: Catching Creakers'
+  - 'CHAPTER 12: Grunt, Guff, Scratch and Sniff'
+  - CHAPTER 13
+  - 'CHAPTER 14: Human Spells'
+  - 'CHAPTER 15: Back to the Woleb'
+  - 'CHAPTER 16: The Marshmallow of Your Dreams'
+  - 'CHAPTER 17: You''re Not Here'
+  - 'CHAPTER 18: The Bog Tavern'
+  - 'CHAPTER 19: Creakerland'
+  - 'CHAPTER 20: Normellatron'
+  - 'CHAPTER 21: Lucy In Creakerland'
+  - 'CHAPTER 22: Trapped!'
+  - 'CHAPTER 23: Lucy''s Orders'
+  - 'CHAPTER 24: Sunlight'
+  - 'CHAPTER 25: The Creaker King'
+  - 'CHAPTER 26: The Weird Work Of The Woleb'
+  - 'CHAPTER 27: Going Home'
+  - 'CHAPTER 28: The Whopping Great Drilling Machine'
+  - 'CHAPTER 29: Lucy''s Big Idea'
+  - 'CHAPTER 30: Wakey-Wakey, Whiffington!'
+  - 'EPILOGUE: Tomorra'
+  ids: []

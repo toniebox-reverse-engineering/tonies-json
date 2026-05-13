@@ -1,0 +1,24 @@
+article: '11002834'
+lock-data: false
+data:
+- series: Sleepy Friends
+  series-id: sleepy-friends
+  episode: Penguin Night Light Tonie
+  release: 1758326400
+  language: en-gb
+  category: music
+  runtime: 140
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002834_Landscape_1-eZ-ZnBl5.jpg
+  sample: null
+  web: https://tonies.com/en-gb/tonies/sleepy-friends/sleepy-friends-penguin-night-light/
+  shop-id: dfa9f01b-a56a-485c-9d0b-164deaf45ad7
+  track-desc:
+  - 01. Whispering Intro
+  - 02. Sleepy Penguin Night Light
+  - 03. Sleepy Penguin Night Light
+  - 04. Sleepy Penguin Night Light
+  - 05. Sleepy Penguin Night Light
+  - 06. Sleepy Penguin Night Light
+  ids: []

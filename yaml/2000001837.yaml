@@ -33,4 +33,9 @@ data:
   - Die neue Straße von Herrn Bulle (Teil 01)
   - Die neue Straße von Herrn Bulle (Teil 02)
   - Die neue Straße von Herrn Bulle (Teil 03)
-  ids: []
+  ids:
+  - audio-id: 1701246275
+    hash: 95916bd1fd53d4348e0acff55610fc0ed6684017
+    size: 22799259
+    tracks: 18
+    confidence: 0

@@ -1,0 +1,18 @@
+article: '11002087'
+lock-data: false
+data:
+- series: Tonie Créatif
+  series-id: null
+  episode: Mon Coffret De Coloriage Féerique
+  release: 1743638400
+  language: fr-fr
+  category: creative-tonie
+  runtime: 0
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/hero-1-kC-CJWQE.png
+  sample: https://cdn.tonies.de/o/audio_samples/add810174bb90707862cf145fb5c4760c6cf1de60d971f8eefebe260/11002087_petite_fee_et_la_magie_disparue_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies-creatifs/mon-coffret-de-coloriage-feerique/
+  shop-id: eb3cb998-4eaa-4130-a065-fe115a73f464
+  track-desc: []
+  ids: []

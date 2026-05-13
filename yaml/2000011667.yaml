@@ -1,0 +1,26 @@
+article: '2000011667'
+lock-data: false
+data:
+- series: Mes Comptines Préférées
+  series-id: mes-comptines-preferees
+  episode: Mes Chansons d'amour
+  release: 1770163200
+  language: fr-fr
+  category: music
+  runtime: 1258
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_f41a7bd207834acc5ae6e56432704c7ef85200962a46454e18d60913/3_Vzf~vXVh.zljD84J/favourite_children_s_songs_mes_chansons_d_amour_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/e54477179c5c82a13751e62f15e3c4eeb10716b254e3c9da206cf254/mes_chansons_d_amour_extraitwav.wav
+  web: https://tonies.com/fr-fr/tonie-librairie/mes-comptines-preferees/mes-chansons-d-amour/
+  shop-id: d56d4eba-f4ec-4f16-9cd1-4371a87f556c
+  track-desc:
+  - C'est quoi l'amour
+  - Comment dit-on je t'aime
+  - Je t'aime à l'infini
+  - J'ai le coeur qui bat
+  - Moi je m'aime
+  - Bientôt la Saint-Valentin
+  - Inconditionnel
+  - Je t'aime d'amour
+  ids: []

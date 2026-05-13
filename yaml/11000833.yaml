@@ -1,0 +1,25 @@
+article: '11000833'
+lock-data: false
+data:
+- series: Mini-Loup
+  series-id: mini-loup
+  episode: Mini-Loup Pompier
+  release: 1764201600
+  language: fr-fr
+  category: audio-play
+  runtime: 48
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51004695-Tonie_Shado-zWLzzHq0.png
+  sample: https://cdn.tonies.de/o/audio_samples/1afca08653112aa66f6dc6f4bc22c39ee8ca6983126726ded25a6c9d/00_mini_loup_3_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/mini-loup/mini-loup-pompier/
+  shop-id: 9e094ca3-895d-4a45-af20-02b92a09a51e
+  track-desc:
+  - Générique
+  - Mini-Loup pompier
+  - Mini-Loup en classe de neige
+  - Mini-Loup est amoureux
+  - Mini-Loup au poney club
+  - Mini-Loup et la dent de lait
+  - Mini-Loup champion de foot
+  ids: []

@@ -1,0 +1,33 @@
+article: '11003558'
+lock-data: false
+data:
+- series: Dschungel Set
+  series-id: dschungel-set
+  episode: My First Tonies - Dschungel Set
+  release: 1770768000
+  language: de-de
+  category: audio-play-songs
+  runtime: 36
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11003558_5_a-5y_qLYBI.png
+  sample: https://cdn.tonies.de/o/audio_samples/9289b4cc3bfb403fe12a523dc557116168f95250f79eb00b2a7ff80e/my_first_tonies_dschungel_set_affee_audio_sample.wav
+  web: https://tonies.com/de-de/my-first-tonies/dschungel-set/my-first-tonies-dschungel-set/
+  shop-id: 6561955c-60d9-4fa6-8f2a-55c0fbcd634e
+  track-desc:
+  - Affe - Geräusch & Lied
+  - Affe - Hörst du die Affen?
+  - Affe - Mama Affe und ihr Äffchen
+  - Affe - Affen springen von Baum zu Baum (Klanglandschaft & Musik)
+  - Affe - Outro
+  - Papagei - Geräusch Lied
+  - Papagei - Hörst Du Den Papagei
+  - Papagei - Du Papagei
+  - Papagei - Papageien Fliegen Kunterbunt Klanglandschaft Musik
+  - Papagei - Outro
+  - Tiger - Geräusch & Lied
+  - Tiger - Hörst du den Tiger?
+  - Tiger - Der Tiger und die Hummel
+  - Tiger - Tiger schleichen durch den Dschungel (Klanglandschaft & Musik)
+  - Tiger - Outro
+  ids: []

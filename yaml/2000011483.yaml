@@ -1,0 +1,33 @@
+article: '2000011483'
+lock-data: false
+data:
+- series: Benjamin Blümchen
+  series-id: benjamin-bluemchen
+  episode: 'Benjamin Blümchen, Folge 157: als Sänger'
+  release: 1753747200
+  language: de-de
+  category: audio-book
+  runtime: 2739
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/2191361657c9375165eb706fd0f24de92a095876a2972d69d40cfdae/3_Qd5g7wDsXFNl5C9k/benjamin_blumchen_157_benjamin_blumchen_folge_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/482a8923969b5f0966d76bf93fc3d040ff77928a9bf0e6414c4c4e35/4033694255575_audiosample.mp3
+  web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/benjamin-blumchen-folge-157-als-sanger/
+  shop-id: c490d1a9-aae9-4751-9d6b-960da839c9a8
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  ids: []

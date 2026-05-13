@@ -2,13 +2,13 @@ article: '11000410'
 lock-data: false
 data:
 - series: ''
-  series-id: tonies-json-en-gb,
+  series-id: ''
   episode: ''
-  release: ''
+  release: tonies-json-en-gb,
   language: ''
   category: ''
   runtime: ''
-  age: ''
+  age: tonies-json-en-gb,
   origin: ''
   image: ''
   sample: ''

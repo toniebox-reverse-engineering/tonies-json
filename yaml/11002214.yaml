@@ -1,0 +1,48 @@
+article: '11002214'
+lock-data: false
+data:
+- series: Captain Underpants
+  series-id: audiobooks-captain-underpants
+  episode: Captain Underpants and the Invasion of the Incredibly Naughty Cafeteria
+    Ladies from Outer Space
+  release: 1728604800
+  language: en-gb
+  category: audio-book
+  runtime: 55
+  age: 7
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002214-UK-Audioboo-zN8ZfjCH.png
+  sample: https://cdn.tonies.de/o/audio_samples/8bf843e72d3e928fd27e84bf5267a60cb9b97cf8d1f7555e43924441/captain_underpants_and_the_invasion_of_the_incredibly_naughty_cafeteria_ladies_from_outer_space_sampl.wav
+  web: https://tonies.com/en-gb/book-tonies/audiobooks-captain-underpants/captain-underpants-and-the-invasion-of-the-incredibly-naughty-cafeteria-ladies-from-outer-space/
+  shop-id: 1c12941b-6dcc-4593-8e8c-4667e2343ece
+  track-desc:
+  - INTRO
+  - 'CHAPTER 1: George and Harold'
+  - 'CHAPTER 2: The Evil Space Guys'
+  - 'CHAPTER 3: Fun with Science'
+  - 'CHAPTER 4: The Setup'
+  - 'CHAPTER 5: Mr. Krupp’s Krispy Krupcakes'
+  - 'CHAPTER 6: What Happened Next'
+  - 'CHAPTER 6.5: Here Comes the Goop!'
+  - 'CHAPTER 7: The Wrath of the Cafeteria Ladies'
+  - 'CHAPTER 8: Captain Underpants and the Night of the Living Lunch Ladies'
+  - 'CHAPTER 9: Quittin’ Time'
+  - 'CHAPTER 10: Busted!'
+  - 'CHAPTER 11: Brown Baggin’ It'
+  - 'CHAPTER 12: The Bottom of This'
+  - 'CHAPTER 13: He Doesn’t Believe Them'
+  - 'CHAPTER 14: It’s Too Late'
+  - 'CHAPTER 15: The Incredibly Graphic Violence Chapter, Part 1'
+  - 'CHAPTER 16: The Assault of the Equally Evil Lunchroom Zombie Nerds'
+  - 'CHAPTER 17: Oh Yeah?'
+  - 'CHAPTER 18: Space Slaves'
+  - 'CHAPTER 19: The Big Switcheroo'
+  - 'CHAPTER 20: The Great Escape'
+  - 'CHAPTER 21: The Deliriously Dangerous Death-Defying Dandelion of Doom'
+  - 'CHAPTER 22: The Incredibly Graphic Violence Chapter, Part 2'
+  - 'CHAPTER 23: The Twenty-third Chapter'
+  - 'CHAPTER 24: To Make a Long Story Short'
+  - 'CHAPTER 25: Back to Normal?'
+  - Fun Facts
+  - Legal Copyright
+  ids: []

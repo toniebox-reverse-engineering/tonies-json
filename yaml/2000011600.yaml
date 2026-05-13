@@ -1,0 +1,28 @@
+article: '2000011600'
+lock-data: false
+data:
+- series: Weihnachtsmann & Co. KG
+  series-id: weihnachtsmann-co-kg
+  episode: Fliegen müsste man können (Folge 15)
+  release: 1765497600
+  language: de-de
+  category: audio-play
+  runtime: 1851
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_aea655dbcc5ad6ecd1caa2d48cebaa3ce638c7b1a1cb8153db56da2d/3_-dV5C4NfDHzYhLmT/the_secret_world_of_santa_claus_fliegen_musste_m_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/32816fbf0a7684cf1cd2255b4d3dc36cdb6f7c4d71e41b3bd1cffc1b/ch7812418848_sample.wav
+  web: https://tonies.com/de-de/audio-content/weihnachtsmann-co-kg/fliegen-musste-man-konnen-folge-15/
+  shop-id: c0410b2e-ce4f-42d2-bfb8-44c160484b5d
+  track-desc:
+  - Intro
+  - Kapitel 01 - Fliegen müsste man können (Folge 015)
+  - Kapitel 02 - Fliegen müsste man können (Folge 015)
+  - Kapitel 03 - Fliegen müsste man können (Folge 015)
+  - Kapitel 04 - Fliegen müsste man können (Folge 015)
+  - Kapitel 05 - Fliegen müsste man können (Folge 015)
+  - Kapitel 06 - Fliegen müsste man können (Folge 015)
+  - Kapitel 07 - Fliegen müsste man können (Folge 015)
+  - Kapitel 08 - Fliegen müsste man können (Folge 015)
+  - Kapitel 09 - Fliegen müsste man können (Folge 015)
+  ids: []

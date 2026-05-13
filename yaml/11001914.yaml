@@ -1,0 +1,39 @@
+article: '11001914'
+lock-data: false
+data:
+- series: Enid Blyton
+  series-id: enid-blyton
+  episode: The Magic Faraway Tree
+  release: 1728604800
+  language: en-gb
+  category: audio-book
+  runtime: 226
+  age: 6
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11001914-UK-Audioboo-Pnf0Zdxu.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/3132f6961ffdd9b5a1cadbb29c61e988a10cc3ddd9508be099d9c2ef/sample_magic_faraway_tree.m4a
+  web: https://tonies.com/en-gb/book-tonies/enid-blyton/the-magic-faraway-tree/
+  shop-id: 37b4d799-d44d-4801-a01e-e6c6f964c9bc
+  track-desc:
+  - 'CHAPTER 1: Rick comes to stay'
+  - 'CHAPTER 2: Off to the Enchanted Wood'
+  - 'CHAPTER 3: The Land of Topsy-Turvy'
+  - 'CHAPTER 4: The Land of Spells'
+  - 'CHAPTER 5: Saucepan makes a muddle'
+  - 'CHAPTER 6: What can they do now?'
+  - 'CHAPTER 7: Mr Change-About and the Enchanter'
+  - 'CHAPTER 8: How can they escape?'
+  - 'CHAPTER 9: The Land of Dreams'
+  - 'CHAPTER 10: A few more adventures'
+  - 'CHAPTER 11: Up the tree again'
+  - 'CHAPTER 12: The Land of Do-As-You-Please'
+  - CHAPTER 13:The Land of Toys
+  - 'CHAPTER 14:  An exciting rescue'
+  - 'CHAPTER 15: A shock for the toys'
+  - 'CHAPTER 16:  The Land of Goodies'
+  - 'CHAPTER 17: Rick gets everyone into trouble'
+  - 'CHAPTER 18: A surprising visitor'
+  - 'CHAPTER 19: The Land of the Old Woman'
+  - 'CHAPTER 20 & 21:  The Land of Magic Medicines AND Some peculiar adventures'
+  - 'CHAPTER 22: Watzisname has some strange news'
+  ids: []

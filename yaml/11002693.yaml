@@ -1,0 +1,38 @@
+article: '11002693'
+lock-data: false
+data:
+- series: null
+  series-id: null
+  episode: null
+  release: 0
+  language: null
+  category: null
+  runtime: 0
+  age: 99
+  origin: null
+  image: null
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1756235447
+    hash: 231ec227e0ad16344355ef5aa5ff0106c0d52292
+    size: 20307322
+    tracks: 5
+    confidence: 1
+  - audio-id: 1756235371
+    hash: dae36837e3e344412540bb117d0d819b1319dd30
+    size: 21512078
+    tracks: 5
+    confidence: 1
+  - audio-id: 1756235310
+    hash: ee8a171e3dea07bad4a5d2b991468bb146547801
+    size: 22565912
+    tracks: 5
+    confidence: 1
+  - audio-id: 1756235252
+    hash: 023869ad44a874086266333c381d20541e286553
+    size: 20506313
+    tracks: 5
+    confidence: 1

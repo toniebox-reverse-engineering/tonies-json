@@ -1,0 +1,32 @@
+article: '11001179'
+lock-data: false
+data:
+- series: Trolls
+  series-id: trolls
+  episode: Les Trolls 3 - Viva
+  release: 1756944000
+  language: fr-fr
+  category: audio-play-songs
+  runtime: 57
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51003078-Tonie_Shado-KYom1sWL.png
+  sample: https://cdn.tonies.de/o/audio_samples/b4433096601e8186b2a38ce8ccde98d9d3f6385564be39f4770f7e32/11001179_les_trolls_3_extrait_2_mp3.mp3
+  web: https://tonies.com/fr-fr/tonies/trolls/les-trolls-3-viva/
+  shop-id: 446588eb-56bd-4f9d-a8b6-6dbab1755d1b
+  track-desc:
+  - Chapitre 1 - Le groupe familial
+  - Chapitre 2 - Le retour de John Dory
+  - Chapitre 3 - Le plan de Velvet et Veneer
+  - Chapitre 4 - Sur la route
+  - Chapitre 5 - Bienvenue à Vacances Land
+  - Chapitre 6 - Le dernier bro
+  - Chapitre 7 - Viva ferme les portes
+  - Chapitre 8 - Floyd tente de s'échapper
+  - Chapitre 9 - Échec de l'harmonie familiale
+  - Chapitre 10 - Les Brozone arrivent au Rage Dome
+  - Chapitre 11 - Sur le tapis rouge
+  - Chapitre 12 - L'harmonie familiale parfaite
+  - Chapitre 13 - Rapprochement
+  - Chapitre 14 - La plus grande réunion de famille du monde
+  ids: []

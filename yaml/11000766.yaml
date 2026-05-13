@@ -22,6 +22,11 @@ data:
   - Das Dschungelbuch - Part 1
   - Das Dschungelbuch - Part 2
   ids:
+  - audio-id: 1770645777
+    hash: d168475133f4ab7309a53645a3b5cfebdb3acfe5
+    size: 43516244
+    tracks: 6
+    confidence: 2
   - audio-id: 1717659108
     hash: 8c574e34f00bd76a1a899684f624d99308d85d24
     size: 43516244

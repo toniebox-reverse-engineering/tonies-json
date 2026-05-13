@@ -34,4 +34,9 @@ data:
   - 'Folge 8: Hunde im Nebel - Track 2'
   - 'Folge 8: Hunde im Nebel - Track 3'
   - 'Folge 8: Hunde im Nebel - Track 4'
-  ids: []
+  ids:
+  - audio-id: 355228773
+    hash: 94975223adeada011697944071a4b99406c3fec4
+    size: 36876215
+    tracks: 19
+    confidence: 0

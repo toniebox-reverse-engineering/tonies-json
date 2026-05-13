@@ -1,0 +1,33 @@
+article: '11003563'
+lock-data: false
+data:
+- series: tonies® Original
+  series-id: tonies-originals
+  episode: My First Tonies - Jungle Set
+  release: 1755216000
+  language: en-gb
+  category: audio-play-songs
+  runtime: 0
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11003563_Landscape_1-eY11AOK0.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/f85186e99e84cf58d7baae36e33155f66dfcbf6921021e6ea7c15bc4/jungle_sample_parrot_song.wav
+  web: https://tonies.com/en-gb/my-first-tonies/tonies-originals/my-first-tonies-jungle-set/
+  shop-id: 5cf96a60-e3ae-4ed2-8f53-8a7d3c6c01b8
+  track-desc:
+  - Monkey - Monkey Sound & Song
+  - Monkey - Can You Hear the Monkeys?
+  - Monkey - Up in the Treetops
+  - Monkey - Monkeying Around (Soundscape & Music)
+  - Monkey - Outro
+  - Tiger - Tiger Sound & Song
+  - Tiger - Can You Hear the Tiger?
+  - Tiger - The Tiger and the Bumblebee
+  - Tiger - Tigers in the Jungle (Soundscape & Music)
+  - Tiger - Outro
+  - Parrot - Parrot Sound & Song
+  - Parrot - Can You Hear the Parrot?
+  - Parrot - Hello, Little Parrot!
+  - Parrot -  Parrot Talk Time (Soundscape & Music)
+  - Parrot - Outro
+  ids: []

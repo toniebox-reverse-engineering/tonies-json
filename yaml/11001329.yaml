@@ -2,8 +2,8 @@ article: '11001329'
 lock-data: false
 data:
 - series: Schlummerbande
-  series-id: schlummerbande
-  episode: Schlummeroktopus - Gutenachtgeschichte aus dem Ozean
+  series-id: sleepy-friends
+  episode: Schlummeroktopus - Eine Gutenachtgeschichte aus dem Ozean
   release: 1741737600
   language: de-de
   category: audio-play-songs
@@ -24,4 +24,9 @@ data:
   - Die Schlummerkuhle
   - Der Wal und die Meeresschlummerblume
   - Schlaf schön, kleiner Oktopus
-  ids: []
+  ids:
+  - audio-id: 1741882493
+    hash: 0154f0aa1240f4931f4dca5cabb5180506cee403
+    size: 36053457
+    tracks: 9
+    confidence: 1

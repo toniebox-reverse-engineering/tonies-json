@@ -1,0 +1,26 @@
+article: '11003869'
+lock-data: false
+data:
+- series: The Lion King
+  series-id: disney-the-lion-king
+  episode: Disney Plush Simba
+  release: 0
+  language: en-gb
+  category: audio-play
+  runtime: 30
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11003869_Transparent-CxT0-Byk.png
+  sample: https://cdn.tonies.de/o/audio_samples/7259cfd82ccf25ccd4d8adf55d69d6ab439f3f0e207cd536ef669d4d/cuddle_simba_audiosample.wav
+  web: https://tonies.com/en-gb/tonies/disney-the-lion-king/disney-plush-simba/
+  shop-id: e2e2f0ef-d030-4161-9876-aec5b43613a9
+  track-desc:
+  - 01. INTRO - Simba Says Hello
+  - 02. STORY - The Great Cub-House Serach
+  - 03. INTERSTITIAL - Jungle Joke Session
+  - 04. STORY - A Wild Night Out
+  - 05. INTERSTITIAL - An Echo Adventure
+  - 06. STORY - No Need To Hurry
+  - 07. INTERSTITIAL - Simba's Cave Concert
+  - 08. SOUNDSCAPE - Simba's Soundscape
+  ids: []

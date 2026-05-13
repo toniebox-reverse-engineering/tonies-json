@@ -2,7 +2,7 @@ article: '10001960'
 lock-data: false
 data:
 - series: Favourite Classics
-  series-id: favourite-classics
+  series-id: mes-classiques-preferes
   episode: The Wizard of Oz
   release: 1715558400
   language: en-gb

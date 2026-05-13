@@ -23,6 +23,11 @@ data:
   - 'STORY: Swapsies'
   - 'QUIZ: The Music Quiz'
   ids:
+  - audio-id: 1744277456
+    hash: 8625b12c910f18da6e89767ea92c525f9ee7a330
+    size: 47512654
+    tracks: 7
+    confidence: 1
   - audio-id: 1728480490
     hash: 00cafea29d02ca370ba754384dc34fd698e093f9
     size: 46894475

@@ -2,19 +2,32 @@ article: 01-0192
 lock-data: false
 data:
 - series: Der Räuber Hotzenplotz
-  series-id: null
+  series-id: der-raeuber-hotzenplotz
   episode: Und die Mondrakete
   release: 1572998400
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 50
+  age: 5
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0192-50000864-b-nRdiB8jz.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/ea59360f5594f563a7542e23a656682c333cabdd802152efe3f6e5dd/hoerprobe_der_raeuber_hotzenplotz_und_die_mondrakete_ext.mp3
+  web: https://tonies.com/de-de/tonies/der-raeuber-hotzenplotz/und-die-mondrakete/
+  shop-id: d1806c9a-5f16-4ace-be5e-03782b025dea
+  track-desc:
+  - Kasperl und Seppel im Wald
+  - Bei der Großmutter
+  - Im tiefen Wald
+  - Kasperl träumt
+  - Im Wald
+  - Der Plan
+  - Hotzenplotz träumt
+  - Hotzenplotz erwacht
+  - Beim Oberwachtmeister
+  - Die Mondrakete
+  - Übergabe an Dimpfelmoser
+  - Das Fest
+  - Die Absage
   ids:
   - audio-id: 1571641839
     hash: 1df274da1cbb7469b25af32f2a0549f59189b012

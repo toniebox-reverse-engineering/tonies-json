@@ -1,20 +1,63 @@
 article: '11001907'
 lock-data: false
 data:
-- series: null
-  series-id: null
-  episode: null
-  release: 0
-  language: null
-  category: null
-  runtime: 0
-  age: 99
-  origin: null
-  image: null
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+- series: Tom Fletcher
+  series-id: tom-fletcher
+  episode: The Christmasaurus and the Naughty List
+  release: 1728604800
+  language: en-gb
+  category: audio-book
+  runtime: 375
+  age: 6
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11001907-UK-Audioboo-UM7Qd1oO.png
+  sample: https://cdn.tonies.de/o/audio_samples/8e0fbd85cf2c2f279e401f515dea17504ee940c484e782c0e4aadf45/the_christmasaurus_and_the_naughty_list__sample.wav
+  web: https://tonies.com/en-gb/book-tonies/tom-fletcher/the-christmasaurus-and-the-naughty-list/
+  shop-id: 3524aeb5-316c-410f-8ce8-4ed49a7edc98
+  track-desc:
+  - Opening Credits
+  - 'Chapter 1: Previously on the Christmasaurus'
+  - 'Chapter 2: Back to the North Pole'
+  - 'Chapter 3: The Shadows of the Naughty List'
+  - 'CHAPTER 4: Breaking rules'
+  - 'CHAPTER 5: Ronnie Nutbog'
+  - 'CHAPTER 6: Nutbog''s Savings'
+  - 'CHAPTER 7: Old Granny Nutbog'
+  - 'CHAPTER 8: Being nice'
+  - 'CHAPTER 9: Sold!'
+  - 'CHAPTER 10: Truely and Utterly Snottersworth'
+  - 'CHAPTER 11: A Secret Gargoyle'
+  - CHAPTER 12:The Royal Toymaker
+  - 'CHAPTER 13: Royal Passengers'
+  - 'CHAPTER 14: Putting Things Right'
+  - 'CHAPTER 15: Delivering in the Dark'
+  - 'CHAPTER 16: GamerKidd3000'
+  - 'CHAPTER 17: Where It All Went Pong'
+  - 'CHAPTER 18: Feeling So Low, Flying Solo'
+  - 'CHAPTER 19: Christmasaurus3000'
+  - 'CHAPTER 20: Football-o-saurus'
+  - 'CHAPTER 21: Ping Gets His Pong Back'
+  - 'CHAPTER 22: Ella Noying'
+  - 'CHAPTER 23: Dumping Dinner'
+  - 'CHAPTER 24: Sprouts'
+  - 'CHAPTER 25: Ella and the Elves'
+  - 'CHAPTER 26: The Snow Ranch'
+  - 'CHAPTER 27: Buttercream'
+  - 'CHAPTER 28: Gemolina Shine'
+  - 'CHAPTER 29: Whatever It Takes'
+  - 'CHAPTER 30: A Singing Tornado'
+  - 'CHAPTER 31: Encore'
+  - 'CHAPTER 32: Dorothy Dorkins'
+  - 'CHAPTER 33: Showtime'
+  - 'CHAPTER 34: Where''s William?'
+  - 'CHAPTER 35: William Trundle'
+  - 'CHAPTER 36: It Gets Worse for William'
+  - 'CHAPTER 37: William and the Christmasaurus'
+  - 'CHAPTER 38: A Blue Hope'
+  - 'CHAPTER 39: Another Tooth'
+  - 'CHAPTER 40: Switcheroo'
+  - 'CHAPTER 41: The Gift of Second Chances'
+  - Acknowledgements
   ids:
   - audio-id: 1729149240
     hash: a1ddbc05a300e52fa667df29155fb6c24e9035bd

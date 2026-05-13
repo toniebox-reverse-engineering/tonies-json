@@ -1,0 +1,30 @@
+article: '11001189'
+lock-data: false
+data:
+- series: Qui Que Quoi
+  series-id: qui-que-quoi
+  episode: Les Châteaux Forts
+  release: 1767225600
+  language: fr-fr
+  category: audio-play-educational
+  runtime: 43
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51006192-Tonie_Shado-ffE5ax_K.png
+  sample: https://cdn.tonies.de/o/audio_samples/392a62ecc6f7e42abff5965b7bce9616c4264ba6ec834a4aa031b691/11001189_qui_que_quoi_chateaux_forts_00_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/qui-que-quoi/les-chateaux-forts/
+  shop-id: fc101ccb-d84a-48db-bb2d-cb37a633b4f5
+  track-desc:
+  - Générique
+  - Introduction
+  - Arrivée au château
+  - En avant pour le château en pierre !
+  - Un tournoi au château
+  - 'La basse-cour : un vrai village'
+  - 'Les habitants de la haute cour : le roi et sa famille'
+  - Comment les enfants du roi sont-ils éduqués ?
+  - Les troubadours
+  - Un mystère au château
+  - La bataille des questions
+  - Générique de fin
+  ids: []

@@ -1,0 +1,48 @@
+article: '11002215'
+lock-data: false
+data:
+- series: Captain Underpants
+  series-id: audiobooks-captain-underpants
+  episode: Captain Underpants and the Perilous Plot of Professor Poopypants
+  release: 1728604800
+  language: en-gb
+  category: audio-book
+  runtime: 63
+  age: 7
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002215-UK-Audioboo-cBr7Xwde.png
+  sample: https://cdn.tonies.de/o/audio_samples/29581377e8367fbf1c46f66c4867c7a18264782e62516752be34575d/captain_underpants_and_the_perilous_plot_of_professor_poopypants_sample.wav
+  web: https://tonies.com/en-gb/book-tonies/audiobooks-captain-underpants/captain-underpants-and-the-perilous-plot-of-professor-poopypants/
+  shop-id: a69e8c25-4976-4da8-987f-744d4e2b9340
+  track-desc:
+  - INTRO
+  - 'CHAPTER 1: George and Harold'
+  - 'CHAPTER 2: All Hail New Swissland'
+  - 'CHAPTER 3: The Field Trip'
+  - 'CHAPTER 4: Left Behind'
+  - 'CHAPTER 5: The Fun Begins'
+  - 'CHAPTER 6: Bye Bye, Mr. Fyde'
+  - 'CHAPTER 7: Here, Oh Here'
+  - 'CHAPTER 8: The Sweetness and Innocence of Children'
+  - 'CHAPTER 9: The Gerbil Jogger 2000'
+  - 'CHAPTER 10: Just One More Thing'
+  - 'CHAPTER 11: Captain Underpants and the Pied Pooper of Piqua'
+  - 'CHAPTER 12: Professor P. Goes Cra-Z'
+  - 'CHAPTER 13: Honey, I Shrunk the School'
+  - 'CHAPTER 14: The Perilous Plot'
+  - 'CHAPTER 15: The Name Change-O-Chart 2000'
+  - 'CHAPTER 16: Fluffy and Cheeseball'
+  - 'CHAPTER 17: Captain Underpants to the Rescue'
+  - 'CHAPTER 18: Are You There, God? It’s Us, Fluffy and Cheeseball'
+  - 'CHAPTER 19: The Flight of the Goofy Glider'
+  - 'CHAPTER 20: X-tra, X-tra, X-tra, X-tra, X-tra, X-tra, X-tra, X-tra, X-tra Large
+    Underpants'
+  - 'CHAPTER 21: The Incredibly Graphic Violence Chapter'
+  - 'CHAPTER 22: The Twenty-Second Chapter'
+  - 'CHAPTER 23: To Make a Long Story Short'
+  - 'CHAPTER 24: The Chapter Before the Last Chapter'
+  - 'CHAPTER 25: The Chapter After the Chapter Before the Last Chapter'
+  - Fun Facts
+  - Professor Poopypant’s Name Change-O-Chart 2000
+  - Legal Copyright
+  ids: []

@@ -1,0 +1,55 @@
+article: '11001912'
+lock-data: false
+data:
+- series: David Walliams
+  series-id: david-walliams-2
+  episode: Gangsta Granny
+  release: 1728604800
+  language: en-gb
+  category: audio-book
+  runtime: 211
+  age: 7
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11001912-UK-Audioboo-HmJIlIHK.png
+  sample: https://cdn.tonies.de/o/audio_samples/0f69d26989e2d7c9093bcbdd39ffb90107c8f24b589602695b3bca6e/gangsta_granny_sample.wav
+  web: https://tonies.com/en-gb/book-tonies/david-walliams-2/gangsta-granny/
+  shop-id: 64811e00-144f-4915-b0b1-73a4baf3d250
+  track-desc:
+  - Opening Credits
+  - 'CHAPTER 1: Cabbagy Water'
+  - 'CHAPTER 2: A Duck Quacking'
+  - 'CHAPTER 3: Plumbing Weekly'
+  - 'CHAPTER 4: Mystery and Wonder'
+  - 'CHAPTER 5: A Little Broken'
+  - 'CHAPTER 6: Cold Wet Egg'
+  - 'CHAPTER 7: Bags of Manure'
+  - 'CHAPTER 8: A Small Wig in a Jar'
+  - 'CHAPTER 9: The Black Cat'
+  - 'CHAPTER 10: Everything'
+  - 'CHAPTER 11: Cheesy Beans and Sausage'
+  - 'CHAPTER 12: The Love Bomb'
+  - 'CHAPTER 13: A Lifetime of Crime'
+  - 'CHAPTER 14: Nosy Neighbour'
+  - 'CHAPTER 15: Reckless and Thrilling'
+  - 'CHAPTER 16: ‘N’‘O’ Spells ‘NO’'
+  - 'CHAPTER 17: Planning the Heist'
+  - 'CHAPTER 18: Visiting Hours'
+  - 'CHAPTER 19: A Small Explosive Device'
+  - 'CHAPTER 20: Boom Boom Boom'
+  - 'CHAPTER 21: A Tap-Shoe'
+  - 'CHAPTER 22: Lycra Lynch Mob'
+  - 'CHAPTER 23: Caught by the Fuzz'
+  - 'CHAPTER 24: Dark Waters'
+  - 'CHAPTER 25: Haunted by Ghosts'
+  - 'CHAPTER 26: A Figure in the Dark'
+  - 'CHAPTER 27: An Audience with the Queen'
+  - 'CHAPTER 28: Hung, Drawn and Quartered'
+  - 'CHAPTER 29: Armed Police'
+  - 'CHAPTER 30: A Packet of Sugar'
+  - 'CHAPTER 31: Golden Light'
+  - 'CHAPTER 32: A Family Sandwich'
+  - 'CHAPTER 33: Silence'
+  - 'CHAPTER 34: Zimmer Frame'
+  - Postscript
+  - Closing Credits
+  ids: []

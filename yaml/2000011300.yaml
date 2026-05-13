@@ -1,0 +1,33 @@
+article: '2000011300'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: 'Bibi & Tina, Folge 111: Pst, Waldtiere!'
+  release: 1742169600
+  language: de-de
+  category: audio-book
+  runtime: 3087
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/911bec0958e0179d617d04625540ce11c6d9cabed4f3ef7fcab8df43/3_TcNvtybNgrsGlKMR/bibi_tina_111_bibi_tina_folge_111__pst_w_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/8673fefae6ee19825055f64ed1790b342a7b9962ea62a7a386e536fb/4033694221112_audiosample.mp3
+  web: https://tonies.com/de-de/audio-content/bibi-tina/bibi-tina-folge-111-pst-waldtiere/
+  shop-id: dd8dc223-e42a-4c3c-8332-561503822c4c
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  ids: []

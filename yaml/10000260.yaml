@@ -1,8 +1,8 @@
 article: '10000260'
 lock-data: false
 data:
-- series: Disney
-  series-id: disney
+- series: Findet Nemo
+  series-id: disney-finding-nemo
   episode: Findet Nemo
   release: 1603324800
   language: de-de
@@ -12,15 +12,10 @@ data:
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000260-50001234-b-A-Z2g-Qk.png
   sample: https://cdn.tonies.de/o/audio_samples/527e99e18ea7f434dea0aefdfcd22901d5ac953d0b36bd893e63f9d1/hoerprobe_disney_findet_nemo_ext.mp3
-  web: https://tonies.com/de-de/tonies/disney/findet-nemo/
+  web: https://tonies.com/de-de/tonies/disney-findet-nemo/findet-nemo/
   shop-id: 38a17126-3f7a-4224-85c6-0fd313085fa7
   track-desc:
-  - Kapitel 1
-  - Kapitel 2
-  - Kapitel 3
-  - Kapitel 4
-  - Kapitel 5
-  - Kapitel 6
+  - '01 - 06: Disney - Findet Nemo'
   ids:
   - audio-id: 1603186614
     hash: 8f2b06c048ab02600e92357d1671e6e1fe9fb066

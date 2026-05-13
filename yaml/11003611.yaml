@@ -1,0 +1,43 @@
+article: '11003611'
+lock-data: false
+data:
+- series: Enid Blyton
+  series-id: enid-blyton
+  episode: One-A-Day Christmas Stories
+  release: 1760313600
+  language: en-gb
+  category: audio-book
+  runtime: 275
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11003611_Landscape_7-xfxbkTc9.png
+  sample: https://cdn.tonies.de/o/audio_samples/79fdddbe08b08f988f88d16b240e0c011eacc26eee98054f45c50770/one_a_day_christmas_stories_sample.wav
+  web: https://tonies.com/en-gb/book-tonies/enid-blyton/one-a-day-christmas-stories/
+  shop-id: 04dea33e-0b8f-4261-9ed8-0ac1aca2a400
+  track-desc:
+  - 01_STORY_The Christmas Present
+  - 02_STORY_The Midnight Goblins
+  - 03_STORY_The Christmas Tree Fairy
+  - 04_STORY_ ‘What They Did at Miss Brown’s School’
+  - 05_STORY_The Stolen Reindeer
+  - 06_STORY_The Vanishing Nuts
+  - 07_STORY_The Christmas Tree Aeroplane
+  - 08_STORY_A Christmas Story
+  - 09_STORY_The Little Fairy Doll
+  - 10_STORY_The Very Lovely Pattern
+  - 11_STORY_The Cold Snowman
+  - 12_STORY_The Lucky Number
+  - 13_STORY_The Little Fir Tree
+  - 14_STORY_Bobo's Magic Stocking
+  - 15_STORY_The Big Girl’s Balloon
+  - 16_STORY_Amelia Jane and the Snow
+  - 17_STORY_The Very Full Stocking
+  - 18_STORY_A Week Before Christmas
+  - 19_STORY_The Cracker Fairies
+  - 20_STORY_The Dog That Hated Christmas
+  - 21_STORY_The Goblin Who Stole Sweets
+  - 22_STORY_The Christmas Tree Party
+  - 23_STORY_The Little Christmas Tree
+  - 24_STORY_What Happened on Christmas Eve
+  - 25_STORY_The Little Reindeer Bell
+  ids: []

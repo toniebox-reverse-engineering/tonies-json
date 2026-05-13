@@ -2,7 +2,7 @@ article: '10001231'
 lock-data: false
 data:
 - series: Peppa Pig
-  series-id: peppa-pig
+  series-id: peppa-pig-2
   episode: George Pig
   release: 1655856000
   language: en-gb
@@ -15,14 +15,14 @@ data:
   web: https://tonies.com/en-gb/tonies/peppa-pig/george-pig/
   shop-id: cb1db431-ea37-4502-b206-d11288d30da8
   track-desc:
-  - George’s New Dinosaur
-  - The Big Tale of Little Peppa
-  - The Biggest Muddy Puddle in the World
-  - Peppa’s Circus
-  - Grampy Rabbit in Space
-  - Granny Pig’s Perfume
-  - Mr Bull in a China Shop
-  - The Children’s Fete
-  - The Sandpit
-  - Daddy Pig’s Lost Keys
+  - 01. STORY - George’s New Dinosaur
+  - 02. STORY - The Big Tale of Little Peppa
+  - 03. STORY - The Biggest Muddy Puddle in the World
+  - 04. STORY - Peppa’s Circus
+  - 05. STORY - Grampy Rabbit in Space
+  - 06. STORY - Granny Pig’s Perfume
+  - 07. STORY - Mr Bull in a China Shop
+  - 08. STORY - The Children’s Fete
+  - 09. STORY - The Sandpit
+  - 10. STORY - Daddy Pig’s Lost Keys
   ids: []

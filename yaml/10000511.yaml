@@ -1,18 +1,23 @@
 article: '10000511'
 lock-data: false
 data:
-- series: Disney & Pixar
+- series: Disney
   series-id: null
-  episode: 'Toy Story: Woody'
-  release: 1597343902
+  episode: 'and Pixar Toy Story: Woody'
+  release: 1756314116
   language: en-us
   category: Tonie
   runtime: 0
   age: 99
   origin: stock
-  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-ToyStory-Transparent.png?v=1734730747
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Woody-10000511-PLPTB2MainImageTransparent.png?v=1774883288
   sample: null
   web: null
   shop-id: '5519373369495'
   track-desc: []
-  ids: []
+  ids:
+  - audio-id: 1598274871
+    hash: 8fac5c837cc918611d38922bf9a0ebed148c5298
+    size: 20907351
+    tracks: 5
+    confidence: 1

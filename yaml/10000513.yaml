@@ -1,18 +1,23 @@
 article: '10000513'
 lock-data: false
 data:
-- series: Disney & Pixar
+- series: Disney
   series-id: null
-  episode: Finding Nemo
+  episode: and Pixar Finding Nemo
   release: 1597337219
   language: en-us
   category: Tonie
   runtime: 0
   age: 99
   origin: stock
-  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/products/Tonies-PDP-Assets-Nemo-Transparent.png?v=1734730712
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Finding-Nemo-10000513-PLPTB2MainImageTransparent.png?v=1774883294
   sample: null
   web: null
   shop-id: '5519143960727'
   track-desc: []
-  ids: []
+  ids:
+  - audio-id: 1598255592
+    hash: 9d7f408a08bab7eac5f933d559d4dde6256cd511
+    size: 23054949
+    tracks: 5
+    confidence: 3

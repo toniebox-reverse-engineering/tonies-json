@@ -3,7 +3,7 @@ lock-data: false
 data:
 - series: Schlummerbande
   series-id: sleepy-friends
-  episode: Einschlafmelodien - Schlummerschaf im Zauberwald
+  episode: Schlummerschaf - Einschlafmelodien aus dem Zauberwald
   release: 1663113600
   language: de-de
   category: music
@@ -15,17 +15,30 @@ data:
   web: https://tonies.com/de-de/tonies/schlummerbande/einschlafmelodien-schlummerschaf-im-zauberwald/
   shop-id: 6e520ab0-9ebb-4c73-bf0d-7633d935d37a
   track-desc:
-  - Schlummerschaf im Zauberwald
-  - Schlummerschaf im Zauberwald
-  - Schlummerschaf im Zauberwald
-  - Schlummerschaf im Zauberwald
-  - Schlummerschaf im Zauberwald
-  - Schlummerschaf im Zauberwald
-  - Schlummerschaf im Zauberwald
-  - Schlummerschaf im Zauberwald
-  - Schlummerschaf im Zauberwald
-  - Schlummerschaf im Zauberwald
+  - Schlummerschaf im Zauberwald - 01
+  - Schlummerschaf im Zauberwald - 02
+  - Schlummerschaf im Zauberwald - 03
+  - Schlummerschaf im Zauberwald - 04
+  - Schlummerschaf im Zauberwald - 05
+  - Schlummerschaf im Zauberwald - 06
+  - Schlummerschaf im Zauberwald - 07
+  - Schlummerschaf im Zauberwald - 08
+  - Schlummerschaf im Zauberwald - 09
+  - Schlummerschaf im Zauberwald - 10
+  - Schlummerschaf im Zauberwald - 11
+  - Schlummerschaf im Zauberwald - 12
+  - Schlummerschaf im Zauberwald - 13
+  - Schlummerschaf im Zauberwald - 14
+  - Schlummerschaf im Zauberwald - 15
+  - Schlummerschaf im Zauberwald - 16
+  - Schlummerschaf im Zauberwald - 17
+  - Schlummerschaf im Zauberwald - 18
   ids:
+  - audio-id: 1758628670
+    hash: 5aa214356c2d84b4a4e5a4aefcc46bad6ef8dcf0
+    size: 114788931
+    tracks: 18
+    confidence: 1
   - audio-id: 1662711040
     hash: 76d2fc59e26a4c339c0c6543563b29fcd792e28c
     size: 114706234

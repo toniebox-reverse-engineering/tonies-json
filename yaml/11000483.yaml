@@ -1,0 +1,23 @@
+article: '11000483'
+lock-data: false
+data:
+- series: Moshi
+  series-id: null
+  episode: Fluttercup
+  release: 1748612243
+  language: en-us
+  category: Tonie
+  runtime: 0
+  age: 99
+  origin: stock
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Moshi_-Fluttercup-11000483-PLPTB2MainImageTransparent.png?v=1774883339
+  sample: null
+  web: null
+  shop-id: '8984508006551'
+  track-desc: []
+  ids:
+  - audio-id: 1747077272
+    hash: 73b4c9c2e7fa5255b279db515c945a0f556bce4b
+    size: 64555879
+    tracks: 4
+    confidence: 1

@@ -22,6 +22,11 @@ data:
   - Châtelain et le royaume secret
   - Kaleb et le Soleil qui crépite
   ids:
+  - audio-id: 1755614386
+    hash: 00589c69b62eb494013bd75cdd08d2f3e9a8da1e
+    size: 53565606
+    tracks: 6
+    confidence: 1
   - audio-id: 1697111847
     hash: 578ddaf87be3d9c349786052707835ab43cc41f4
     size: 53771456

@@ -2,19 +2,26 @@ article: 01-0008
 lock-data: false
 data:
 - series: Das Sams
-  series-id: null
+  series-id: das-sams
   episode: Am Samstag kam das Sams zurück
   release: 0
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 55
+  age: 6
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0008-98-0060-b-ky7cu1SZ.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/96d3510a429c03ba2743b5739c00fcaa54961a6170ed30a7e1c74e3f/hoerprobe_sams_am_samstag_kam_das_sams_zurueck_1_128_kbps.mp3
+  web: https://tonies.com/de-de/tonies/das-sams/am-samstag-kam-das-sams-zurueck/
+  shop-id: 10fa8945-4e49-45bd-8a0f-bd2fdd96dcc7
+  track-desc:
+  - Am Samstag schien die Sonne
+  - Wer kommt vorbei?
+  - Kaum hatte Herr Taschenbier
+  - Herr Taschenbier nahm das Sams an die Hand
+  - Am Montagmorgen
+  - Am nächsten Morgen
+  - Am nächsten Morgen
   ids:
   - audio-id: 1561988350
     hash: 57af2ff64e14ab0e9d30162d128efbd9011c0e33

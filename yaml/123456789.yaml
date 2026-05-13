@@ -1,0 +1,18 @@
+article: '123456789'
+lock-data: false
+data:
+- series: TEST Copy of Disney Encanto
+  series-id: null
+  episode: null
+  release: 1753375364
+  language: en-us
+  category: Tonie
+  runtime: 0
+  age: 99
+  origin: stock
+  image: null
+  sample: null
+  web: null
+  shop-id: '9132808765591'
+  track-desc: []
+  ids: []

@@ -1,0 +1,30 @@
+article: '11004305'
+lock-data: false
+data:
+- series: tonies® Originals
+  series-id: tonies-originals
+  episode: Piou, Petit Poussin (Histoires De Pâques Et De Printemps)
+  release: 1773100800
+  language: fr-fr
+  category: audio-play
+  runtime: 56
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51015100-Tonie_Shado-Rx1HQ4tc.png
+  sample: https://cdn.tonies.de/o/audio_samples/20655653a2ca081d9b33526d548fcf342702a7b24964cf5b408772f7/11004305_piou_extrait.wav
+  web: https://tonies.com/fr-fr/tonies/tonies-originals-2/piou-petit-poussin-histoires-de-paques-et-de-printemps/
+  shop-id: ab28792d-d91f-4370-ac65-02c4acfdec50
+  track-desc:
+  - Bonjour la ferme - introduction
+  - Le retour du printemps (chanson)
+  - Coucou, moi c'est Piou !
+  - Piou, petit poussin (chanson)
+  - Joyeuses Pâquerettes
+  - Un ami pour la vie (chanson)
+  - À la rescousse
+  - À la campagne (chanson)
+  - Piou et les fleurs de poussin
+  - Le pissenlit (chanson)
+  - Vive la pluie !
+  - Il pleut (chanson)
+  ids: []

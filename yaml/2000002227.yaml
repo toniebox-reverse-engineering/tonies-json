@@ -65,4 +65,9 @@ data:
   - '03: Licht aus! - Teil 46'
   - '03: Licht aus! - Teil 47'
   - Willkommen in der Schule der magischen Tiere
-  ids: []
+  ids:
+  - audio-id: 1747381091
+    hash: b559b96d11166a8fa61587f43a312a32f1634d63
+    size: 58172800
+    tracks: 50
+    confidence: 0

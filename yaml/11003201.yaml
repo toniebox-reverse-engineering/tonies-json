@@ -1,0 +1,22 @@
+article: '11003201'
+lock-data: false
+data:
+- series: Les Aristochats
+  series-id: disney-aristocats
+  episode: Les Aristochats (Marie)
+  release: 1767225600
+  language: fr-fr
+  category: audio-play-songs
+  runtime: 48
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51005924-Tonie_Shado-ze0fZS4O.png
+  sample: https://cdn.tonies.de/o/audio_samples/b931e56d6b6350338c1270da20e32a65bf1b5f222aed3d53e37b96ec/11003201_les_aristochats_extrait_mp3.mp3
+  web: https://tonies.com/fr-fr/tonies/disney-les-aristochats/les-aristochats/
+  shop-id: 53c181e2-1bdf-4f8f-8465-2b11a387448a
+  track-desc:
+  - Partie 1 (inclus la chanson "Des gammes et des arpèges")
+  - Partie 2 (inclus la chanson "Thomas O'Malley")
+  - Partie 3
+  - Partie 4 (inclus la chanson "Tout le monde veut devenir un cat")
+  ids: []

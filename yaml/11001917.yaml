@@ -1,0 +1,46 @@
+article: '11001917'
+lock-data: false
+data:
+- series: Calendrier De L'Avent
+  series-id: adventskalender
+  episode: Pompon Et Les Lumières De Noël
+  release: 1759363200
+  language: fr-fr
+  category: audio-play
+  runtime: 150
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51008389-Tonie_Shado--1udpIql.png
+  sample: https://cdn.tonies.de/o/audio_samples/d9e7ddf0dc724028999a9185695cde34e1c94fecf08543ac2178f6e3/11001917_calendrierpompon_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/calendrier-de-l-avent/pompon-et-les-lumieres-de-noel/
+  shop-id: d122ab72-0ce2-4c98-a7d7-999f05354c73
+  track-desc:
+  - Présentation de Pompon
+  - 'Chapitre 1: Bienvenue au village de la forêt d’hiver !'
+  - 'Chapitre 2: Mais que se passe-t-il chez le Père Noël ?'
+  - 'Chapitre 3: Une équipe très spéciale !'
+  - 'Chapitre 4: Premiers pas de l’enquête !'
+  - 'Chapitre 5: Mais où est passé monsieur Blaireau ?'
+  - 'Chapitre 6: Le Sapin argenté a vu quelque chose'
+  - 'Chapitre 7: Chez Craco le corbeau'
+  - 'Chapitre 8: Et si c’était les écureuils ?'
+  - 'Chapitre 9: Et si les bonhommes de neige savaient quelque chose ?'
+  - 'Chapitre 10: Une visite à Léon, le petit renne'
+  - 'Chapitre 11: Et si le renard était le voleur ?'
+  - 'Chapitre 12: Quand rien ne se passe comme prévu !'
+  - 'Chapitre 13: Dans la tanière de l’ours'
+  - 'Chapitre 14: La chouette pourrait-elle nous aider ?'
+  - 'Chapitre 15: La piste mène bien aux ratons laveurs. À moins que… ?'
+  - 'Chapitre 16: Pompon s’est perdu'
+  - 'Chapitre 17: Gribouille vole !'
+  - 'Chapitre 18: Ouille ouille ouille, Chouette a pris un coup sur la tête !'
+  - 'Chapitre 19: Au lac enchanté'
+  - 'Chapitre 20: Démonstration de force de Madame Canard !'
+  - 'Chapitre 21: Le cas de Monsieur Blaireau...'
+  - 'Chapitre 22: La 13ème petite lumière'
+  - 'Chapitre 23: Pompon et Gribouille arriveront-ils à temps ?'
+  - 'Chapitre 24: Joyeux Noël à tous !'
+  - Chanson 1 - Dans la forêt enneigée
+  - Chanson 2 - Les bruits de Noël
+  - Chanson 3 - La magie de l’hiver roi
+  ids: []

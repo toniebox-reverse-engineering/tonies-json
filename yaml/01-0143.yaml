@@ -2,19 +2,28 @@ article: 01-0143
 lock-data: false
 data:
 - series: Heule Eule
-  series-id: null
+  series-id: heule-eule
   episode: Heule Eule und andere Geschichten – Die Hörspiele
   release: 1540425600
   language: de-de
   category: audio-play
-  runtime: 0
-  age: 99
+  runtime: 32
+  age: 3
   origin: stock
   image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0143-98-0422-b-YYgtM3mT.png
-  sample: null
-  web: null
-  shop-id: null
-  track-desc: []
+  sample: https://cdn.tonies.de/o/audio_samples/908c1491e6d12eb5a4f88c6ae2b2cc55dbf0da7bd5f46577fa9f3352/hoerprobe_heule_eule.mp3
+  web: https://tonies.com/de-de/tonies/heule-eule/
+  shop-id: 7930ebe5-1ac4-4591-8c0d-a6a4178535ed
+  track-desc:
+  - Heule Eule
+  - Da landete der Rabe
+  - Zu guter Letzt kam jetzt auch
+  - Heule Eule - Nein, ich lasse
+  - Nun kam der Hirschkäfer
+  - Heule Eule - Ich will mein BUMM!
+  - Zum Glück flatterte in diesem
+  - „Krah! Na raus mit der Sprache!“
+  - Absage
   ids:
   - audio-id: 1539358350
     hash: 5a8e64a9d90f1aef66f3b2505218dce5bbbd59b5

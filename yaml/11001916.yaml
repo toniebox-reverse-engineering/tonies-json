@@ -1,0 +1,150 @@
+article: '11001916'
+lock-data: false
+data:
+- series: Adventskalender
+  series-id: adventskalender
+  episode: Adventskalender 2025 – Flöckchen und die verschwundenen Weihnachtslichter
+  release: 1757462400
+  language: de-de
+  category: audio-play
+  runtime: 120
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11001916_1_a-momB1SeP.png
+  sample: https://cdn.tonies.de/o/audio_samples/f28cd2f3464ca6323f68ef7164aad4c7572743fa45b22f69bbae2528/audio_sample_flockchen.wav
+  web: https://tonies.com/de-de/tonies/adventskalender/adventskalender-tonie-2025-floeckchen-und-die-verschwundenen-weihnachtslichter/
+  shop-id: 7555b9a9-2216-4a20-8fb5-e2cde5f8be84
+  track-desc:
+  - Flöckchen und die verlorenen Weihnachtslichter Anleitung
+  - Flöckchen und die verlorenen Weihnachtslichter Intro
+  ids:
+  - audio-id: 1766617222
+    hash: cf2a0f78ae12287342cfe5ad13f68b4dfdb91b9f
+    size: 94057822
+    tracks: 26
+    confidence: 1
+  - audio-id: 1766530820
+    hash: 57308cc58348cd683843fd895764cee831fb5f9f
+    size: 115399609
+    tracks: 28
+    confidence: 1
+  - audio-id: 1766444412
+    hash: 98e144d7b994ba202f48e99ea20ae4da748b44f9
+    size: 104991673
+    tracks: 27
+    confidence: 1
+  - audio-id: 1766358010
+    hash: efe912cab40e0bf2c219a1f00dd59aae834c1840
+    size: 101804985
+    tracks: 26
+    confidence: 1
+  - audio-id: 1766271610
+    hash: 820e42fab7edfe0aeeddd722e53a46d39d9e2ec9
+    size: 95558585
+    tracks: 25
+    confidence: 1
+  - audio-id: 1766185210
+    hash: a1c7f3c8bb7b621c416926225943d8752188ee93
+    size: 92498873
+    tracks: 24
+    confidence: 1
+  - audio-id: 1766098811
+    hash: b683cc89601806782dc20abc4cc9b4017f22e652
+    size: 90377145
+    tracks: 23
+    confidence: 1
+  - audio-id: 1766012411
+    hash: c3b9f65aced817fb5908c878bd3536ad80320407
+    size: 84962233
+    tracks: 22
+    confidence: 1
+  - audio-id: 1765926009
+    hash: c534952c47f5a693810219bd62fc02d78a198ca4
+    size: 76327865
+    tracks: 21
+    confidence: 1
+  - audio-id: 1765839610
+    hash: 8badbbb4a2ba9f92fb474bf082cbfeb08c0344f0
+    size: 71560121
+    tracks: 20
+    confidence: 1
+  - audio-id: 1765753202
+    hash: d1305c69a895cd3ca67942ba98b4e52e49817833
+    size: 68185017
+    tracks: 19
+    confidence: 1
+  - audio-id: 1765666803
+    hash: 72c73f08faadbde9fa01003ba3b3158df5e3eb84
+    size: 64981945
+    tracks: 18
+    confidence: 1
+  - audio-id: 1765580404
+    hash: 0e549c4e25b10c53d9f2905d0d4c28809e43b806
+    size: 62679993
+    tracks: 17
+    confidence: 1
+  - audio-id: 1765494007
+    hash: bbcd8847c40686a09a06db0eef21c231381a61c1
+    size: 55159737
+    tracks: 16
+    confidence: 1
+  - audio-id: 1765407606
+    hash: e0c6be527eb91b82f903ecf43424e850a4099730
+    size: 51121081
+    tracks: 15
+    confidence: 1
+  - audio-id: 1765321204
+    hash: 8b763489e978be77dc386e20c5d51b92ab4aa8d2
+    size: 47332281
+    tracks: 14
+    confidence: 1
+  - audio-id: 1765234804
+    hash: 2b55ddcb0ca80780c208c8ee8d26ecd5d0f18391
+    size: 44284857
+    tracks: 13
+    confidence: 1
+  - audio-id: 1765148405
+    hash: ccddfc27b12641f73f5dbeb994ebf725bb7ffc3b
+    size: 39132089
+    tracks: 12
+    confidence: 1
+  - audio-id: 1765062003
+    hash: 471849c84919ff89740df641b2e1167c630ac13c
+    size: 36113337
+    tracks: 11
+    confidence: 1
+  - audio-id: 1764975603
+    hash: d2e09d29909a2cb09f0e650a8301cd4552e0f73d
+    size: 30194617
+    tracks: 10
+    confidence: 1
+  - audio-id: 1764889204
+    hash: 5189ed88d5030a246d9851df486a647c94f0d85f
+    size: 28634041
+    tracks: 9
+    confidence: 1
+  - audio-id: 1764802804
+    hash: da77b859b500a4050df252c9993730f7333c2806
+    size: 25484217
+    tracks: 8
+    confidence: 1
+  - audio-id: 1764716403
+    hash: 7a072e58ad3832b61edebf312cbb5c8530e2046c
+    size: 21879737
+    tracks: 7
+    confidence: 1
+  - audio-id: 1764630028
+    hash: 0a0b4d2d3c70d67655a362b0e1f22ff05aed720d
+    size: 15743929
+    tracks: 6
+    confidence: 1
+  - audio-id: 1764543628
+    hash: 249148d61949a9340e5135cdf84d61fdb1d6d520
+    size: 6406557
+    tracks: 3
+    confidence: 1
+  - audio-id: 1753356605
+    hash: a31719d5ded7245202b9d4631b3573f3648d5315
+    size: 4012755
+    tracks: 2
+    confidence: 1

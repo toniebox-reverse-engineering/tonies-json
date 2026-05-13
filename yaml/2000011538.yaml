@@ -1,0 +1,44 @@
+article: '2000011538'
+lock-data: false
+data:
+- series: Caillou
+  series-id: caillou
+  episode: 'Folgen 25-28: Jeden Tag eine Burg'
+  release: 1756857600
+  language: de-de
+  category: audio-play
+  runtime: 3019
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/311f09ff525a484d58d84ae1f2facee3314e56ee47c51ab50f708837/3_gxvBQqm1~Fv.c.FY/caillou_025_folgen_25_28__jeden_tag_eine_burg_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/665e531e32252c6ed5870573d2906a779e68e9bf7261faf716bd4a42/4061229420525_preview.mp3
+  web: https://tonies.com/de-de/audio-content/caillou/folgen-25-28-jeden-tag-eine-burg/
+  shop-id: ac6d379e-3fc7-4c27-a3fd-e703e7f5bceb
+  track-desc:
+  - Caillou Titelsong (2024)
+  - 'Kapitel 01: Jeden Tag eine Burg (Folge 25)'
+  - 'Kapitel 02: Jeden Tag eine Burg (Folge 25)'
+  - 'Kapitel 03: Jeden Tag eine Burg (Folge 25)'
+  - 'Kapitel 04: Jeden Tag eine Burg (Folge 25)'
+  - 'Kapitel 05: Jeden Tag eine Burg (Folge 25)'
+  - 'Kapitel 06: Jeden Tag eine Burg (Folge 25)'
+  - 'Credits: Jeden Tag eine Burg (Folge 25)'
+  - 'Kapitel 01: Der kaputte Dino (Folge 26)'
+  - 'Kapitel 02: Der kaputte Dino (Folge 26)'
+  - 'Kapitel 03: Der kaputte Dino (Folge 26)'
+  - 'Kapitel 04: Der kaputte Dino (Folge 26)'
+  - 'Kapitel 05: Der kaputte Dino (Folge 26)'
+  - 'Credits: Der kaputte Dino (Folge 26)'
+  - 'Kapitel 01: Leo zieht um, Teil 1 (Folge 27)'
+  - 'Kapitel 02: Leo zieht um, Teil 1 (Folge 27)'
+  - 'Kapitel 03: Leo zieht um, Teil 1 (Folge 27)'
+  - 'Kapitel 04: Leo zieht um, Teil 1 (Folge 27)'
+  - 'Kapitel 05: Leo zieht um, Teil 1 (Folge 27)'
+  - 'Credits: Leo zieht um, Teil 1 (Folge 27)'
+  - 'Kapitel 01: Leo zieht um, Teil 2 (Folge 28)'
+  - 'Kapitel 02: Leo zieht um, Teil 2 (Folge 28)'
+  - 'Kapitel 03: Leo zieht um, Teil 2 (Folge 28)'
+  - 'Kapitel 04: Leo zieht um, Teil 2 (Folge 28)'
+  - 'Kapitel 05: Leo zieht um, Teil 2 (Folge 28)'
+  - 'Credits: Leo zieht um, Teil 2 (Folge 28)'
+  ids: []
