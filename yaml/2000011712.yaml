@@ -1,0 +1,42 @@
+article: '2000011712'
+lock-data: false
+data:
+- series: Die Fuchsbande
+  series-id: die-fuchsbande
+  episode: 'Folge 48: Fall 95: Das wandernde Weiß/Fall 96: Der farblose Künstler'
+  release: 1779235200
+  language: de-de
+  category: audio-play
+  runtime: 4070
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_d502d5c1ba78aea819801a3a48e55c399eaf3d3784ac695b04cab09b/3_-shq7cJyGDtrdsSF/the_fox_pack_folge_48__fall_95__das_wandernde_we_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/die-fuchsbande/folge-48-fall-95-das-wandernde-weifall-96-der-farb/
+  shop-id: 64769f6f-0bfb-4b0b-b311-588ece22bd3e
+  track-desc:
+  - 'Fall 95: Das wandernde Weiß (Inhaltsangabe)'
+  - Die Fuchsbande Titelsong
+  - 'Fall 95: Das wandernde Weiß (Teil 01)'
+  - 'Fall 95: Das wandernde Weiß (Teil 02)'
+  - 'Fall 95: Das wandernde Weiß (Teil 03)'
+  - 'Fall 95: Das wandernde Weiß (Teil 04)'
+  - 'Fall 95: Das wandernde Weiß (Teil 05)'
+  - 'Fall 95: Das wandernde Weiß (Teil 06)'
+  - 'Fall 95: Das wandernde Weiß (Teil 07)'
+  - 'Fall 95: Das wandernde Weiß (Teil 08)'
+  - 'Fall 95: Das wandernde Weiß (Teil 09)'
+  - Der Mond ist aufgegangen (Fuchsbande-Version)
+  - 'Fall 96: Der farblose Künstler (Inhaltsangabe)'
+  - Die Fuchsbande Titelsong (Reprise)
+  - 'Fall 96: Der farblose Künstler (Teil 01)'
+  - 'Fall 96: Der farblose Künstler (Teil 02)'
+  - 'Fall 96: Der farblose Künstler (Teil 03)'
+  - 'Fall 96: Der farblose Künstler (Teil 04)'
+  - 'Fall 96: Der farblose Künstler (Teil 05)'
+  - 'Fall 96: Der farblose Künstler (Teil 06)'
+  - 'Fall 96: Der farblose Künstler (Teil 07)'
+  - 'Fall 96: Der farblose Künstler (Teil 08)'
+  - 'Fall 96: Der farblose Künstler (Teil 09)'
+  - 'Fall 96: Der farblose Künstler (Outro)'
+  ids: []
