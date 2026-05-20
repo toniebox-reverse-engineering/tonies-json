@@ -31,6 +31,11 @@ data:
   - 7th May
   - Joke Of The Day Jingle
   ids:
+  - audio-id: 1779235504
+    hash: 7bc76a9e206dd653593eef99cdb9ea303c1af958
+    size: 41589552
+    tracks: 15
+    confidence: 1
   - audio-id: 1779149104
     hash: 4c37a7ead666e8382ce8f27d6d742e3cd938aafe
     size: 41046854
