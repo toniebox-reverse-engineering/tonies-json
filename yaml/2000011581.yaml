@@ -7,15 +7,43 @@ data:
   release: 1759363200
   language: de-de
   category: audio-play
-  runtime: 23340
+  runtime: 7945
   age: 3
   origin: tunes
-  image: https://cdn.tonies.de/o/images/1_92b141d559190922ce5514052c860411923ea3b11b4fb6ce99d9f52a/3_6J0YsCP4Vr5f0scY/adventskalender_2025_adventskalender_2025_floc_530x530.jpg
+  image: https://cdn.tonies.de/o/images/1_7fb74db3e26bfea637dfabcf36c19eaa76b9cb8c37acf1646eeee910/3_6J0YsCP4Vr5f0scY/adventskalender_2025_adventskalender_2025_floc_530x530.jpg
   sample: https://cdn.tonies.de/o/audio_samples/f28cd2f3464ca6323f68ef7164aad4c7572743fa45b22f69bbae2528/copy_of_audio_sample_flockchen.wav
   web: https://tonies.com/de-de/audio-content/adventskalender-2025/adventskalender-2025-flockchen-und-die-verschwunde/
   shop-id: b10f4d58-00a4-46b4-a941-e439870c06b4
   track-desc:
-  - Flöckchen und die verlorenen Weihnachtslichter Anleitung
-  - Flöckchen und die verlorenen Weihnachtslichter Intro
-  - Silence 90min
-  ids: []
+  - Hallo, Flöckchen!
+  - Willkommen im Winterwalddorf!
+  - Was ist los beim Weihnachtsmann?
+  - Ein ganz besonderes Team!
+  - Auf geht’s mit der Suche!
+  - Hallo Herr Dachs, sind Sie da?
+  - Die Sagenhaft Summende Silbertanne hat etwas gesehen
+  - Zu Besuch bei Rabe Sansibar
+  - Sind es etwa die Eichhörnchen gewesen?
+  - Ob die Schneemänner etwas wissen?
+  - Ein Besuch bei Noel, dem kleinen Rentier
+  - Was, wenn der Fuchs der Dieb ist?
+  - Es kommt alles anders, als gedacht!
+  - In der Bärenhöhle
+  - Ob die Eule weiterhelfen kann?
+  - Die Spur führt zu den Waschbären. Oder doch nicht?
+  - Flöckchen geht verloren
+  - Oskar fliegt!
+  - Autsch! Die Eule stößt sich den Kopf
+  - Der Zaubersee
+  - Frau Ente zeigt, was sie kann!
+  - Die Sache mit Herrn Dachs
+  - Das 13. Lichtlein
+  - Ob Flöckchen und Oskar es rechtzeitig schaffen?
+  - Fröhliche Weihnachten euch allen!
+  - Song: Gli-Gla-Glitzerweiß
+  ids:
+  - audio-id: 585206671
+    hash: 86e254951ba99a9012008970d93188e3b39e5bf4
+    size: 94057822
+    tracks: 26
+    confidence: 0
