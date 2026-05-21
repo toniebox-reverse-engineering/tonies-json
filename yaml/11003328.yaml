@@ -26,6 +26,11 @@ data:
   - Das Grüffelokind Pt4
   - Das Grüffelokind Pt5
   ids:
+  - audio-id: 1779314543
+    hash: e298a2c6d0cdba8faf6d55665dcf9e63cff22319
+    size: 37992349
+    tracks: 10
+    confidence: 1
   - audio-id: 1769176823
     hash: 9486c5153240779867740fd8a9b369cbcd6c59de
     size: 37479752
