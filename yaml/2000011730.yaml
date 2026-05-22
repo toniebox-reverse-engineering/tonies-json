@@ -1,0 +1,37 @@
+article: '2000011730'
+lock-data: false
+data:
+- series: Dora
+  series-id: dora
+  episode: Abenteuerlicher Freunde-Jahrestag (Folge 011-013)
+  release: 1779408000
+  language: de-de
+  category: audio-play
+  runtime: 3455
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_f155eb3d2a2c374a2f640bb6cf253f6d4a1faf314f273efe43c8f221/3_XP6L3ff3vwQl-3sz/dora_the_explorer_abenteuerlicher_freunde_jahres_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/39bc9cb5b4f1b4b1877d25f78714f625001c5042784245a60b48be5b/ch7812541932_sample.wav
+  web: https://tonies.com/de-de/audio-content/dora/abenteuerlicher-freunde-jahrestag-folge-011-013/
+  shop-id: dae717de-01e0-4dbd-962c-95bd07260afe
+  track-desc:
+  - Dora - Titelsong
+  - Kapitel 01 - Abenteuerlicher Freunde-Jahrestag (Folge 011)
+  - Kapitel 02 - Abenteuerlicher Freunde-Jahrestag (Folge 011)
+  - Kapitel 03 - Abenteuerlicher Freunde-Jahrestag (Folge 011)
+  - Kapitel 04 - Abenteuerlicher Freunde-Jahrestag (Folge 011)
+  - Kapitel 05 - Abenteuerlicher Freunde-Jahrestag (Folge 011)
+  - Kapitel 06 - Abenteuerlicher Freunde-Jahrestag (Folge 011)
+  - Kapitel 01 - Der kleine Axolotl (Folge 012)
+  - Kapitel 02 - Der kleine Axolotl (Folge 012)
+  - Kapitel 03 - Der kleine Axolotl (Folge 012)
+  - Kapitel 04 - Der kleine Axolotl (Folge 012)
+  - Kapitel 05 - Der kleine Axolotl (Folge 012)
+  - Kapitel 06 - Der kleine Axolotl (Folge 012)
+  - Kapitel 01 - Das Seifenblasen-Malheur (Folge 013)
+  - Kapitel 02 - Das Seifenblasen-Malheur (Folge 013)
+  - Kapitel 03 - Das Seifenblasen-Malheur (Folge 013)
+  - Kapitel 04 - Das Seifenblasen-Malheur (Folge 013)
+  - Kapitel 05 - Das Seifenblasen-Malheur (Folge 013)
+  - Kapitel 06 - Das Seifenblasen-Malheur (Folge 013)
+  ids: []

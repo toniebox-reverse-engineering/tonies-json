@@ -1,0 +1,36 @@
+article: '2000011729'
+lock-data: false
+data:
+- series: Dora
+  series-id: dora
+  episode: Der magische Alebrije-Baum (Folge 008-010)
+  release: 1779408000
+  language: de-de
+  category: audio-play
+  runtime: 3186
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_60d54d5f9e468a9bbf029c26189ad9e68a229d67eb4bac287c7c2df7/3_8-zjR7g6XtwVYfl~/dora_the_explorer_der_magische_alebrije_baum_fo_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/39bc9cb5b4f1b4b1877d25f78714f625001c5042784245a60b48be5b/ch7812541932_sample.wav
+  web: https://tonies.com/de-de/audio-content/dora/der-magische-alebrije-baum-folge-008-010/
+  shop-id: 277aa8d7-3062-436a-89ad-6eed92074c5e
+  track-desc:
+  - Dora - Titelsong
+  - Kapitel 01 - Der magische Alebrije-Baum (Folge 008)
+  - Kapitel 02 - Der magische Alebrije-Baum (Folge 008)
+  - Kapitel 03 - Der magische Alebrije-Baum (Folge 008)
+  - Kapitel 04 - Der magische Alebrije-Baum (Folge 008)
+  - Kapitel 05 - Der magische Alebrije-Baum (Folge 008)
+  - Kapitel 06 -Der magische Alebrije-Baum (Folge 008)
+  - Kapitel 01 - Eine köstliche Abkühlung (Folge 009)
+  - Kapitel 02 - Eine köstliche Abkühlung (Folge 009)
+  - Kapitel 03 - Eine köstliche Abkühlung (Folge 009)
+  - Kapitel 04 - Eine köstliche Abkühlung (Folge 009)
+  - Kapitel 05 - Eine köstliche Abkühlung (Folge 009)
+  - Kapitel 06 - Eine köstliche Abkühlung (Folge 009)
+  - Kapitel 01 - Das große rote Huhn (Folge 010)
+  - Kapitel 02 - Das große rote Huhn (Folge 010)
+  - Kapitel 03 - Das große rote Huhn (Folge 010)
+  - Kapitel 04 - Das große rote Huhn (Folge 010)
+  - Kapitel 05 - Das große rote Huhn (Folge 010)
+  ids: []
