@@ -3,38 +3,83 @@ lock-data: false
 data:
 - series: WAS IST WAS
   series-id: was-ist-was
-  episode: WAS IST WAS - Set
+  episode: Erfindungen - Bionik
   release: 1709078400
   language: de-de
   category: audio-play
-  runtime: 299
+  runtime: 69
   age: 5
   origin: stock
-  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/11000788-DACH-Clever-AB57ELV7.png
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/11000788-DACH-Clever-tTqyJDr6.png
   sample: https://cdn.tonies.de/o/audio_samples/0364583148b7e177ae9a0bf2caf00b45eb76acb3255c798b23e64669/hoerprobe_11000788_was_ist_was_set.mp3
   web: https://tonies.com/de-de/clever-tonies/was-ist-was/was-ist-was-set/
   shop-id: 3348d614-8647-4ad8-bf10-7b8e976d1c76
   track-desc:
   - Erfindungen - Bionik
-  - Unser Körper - Das Gehirn
-  - Roboter & Androiden - Supercomputer
-  - Städte der Zukunft - Wolkenkratzer
   ids:
   - audio-id: 1708683988
     hash: 9290efd97572f1bdd302d7f7df947eab03cfb72b
     size: 57437593
     tracks: 25
     confidence: 0
+- series: WAS IST WAS
+  series-id: was-ist-was
+  episode: Unser Körper - Das Gehirn
+  release: 1709078400
+  language: de-de
+  category: audio-play
+  runtime: 73
+  age: 5
+  origin: stock
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/11000788-DACH-Clever-oAvSNs2r.png
+  sample: https://cdn.tonies.de/o/audio_samples/0364583148b7e177ae9a0bf2caf00b45eb76acb3255c798b23e64669/hoerprobe_11000788_was_ist_was_set.mp3
+  web: https://tonies.com/de-de/clever-tonies/was-ist-was/was-ist-was-set/
+  shop-id: 3348d614-8647-4ad8-bf10-7b8e976d1c76
+  track-desc:
+  - Unser Körper - Das Gehirn
+  ids:
   - audio-id: 1708683912
     hash: ce3c47b7510c37de4a40c5b3866577dbc3bf7542
     size: 57137792
     tracks: 33
     confidence: 0
+- series: WAS IST WAS
+  series-id: was-ist-was
+  episode: Roboter & Androiden - Supercomputer
+  release: 1709078400
+  language: de-de
+  category: audio-play
+  runtime: 75
+  age: 5
+  origin: stock
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/11000788-DACH-Clever-YCho7QQF.png
+  sample: https://cdn.tonies.de/o/audio_samples/0364583148b7e177ae9a0bf2caf00b45eb76acb3255c798b23e64669/hoerprobe_11000788_was_ist_was_set.mp3
+  web: https://tonies.com/de-de/clever-tonies/was-ist-was/was-ist-was-set/
+  shop-id: 3348d614-8647-4ad8-bf10-7b8e976d1c76
+  track-desc:
+  - Roboter & Androiden - Supercomputer
+  ids:
   - audio-id: 1708683882
     hash: afab73b68d25b427af5fa8fe2ed13da42bce7a20
     size: 60315387
     tracks: 34
     confidence: 0
+- series: WAS IST WAS
+  series-id: was-ist-was
+  episode: Städte der Zukunft - Wolkenkratzer
+  release: 1709078400
+  language: de-de
+  category: audio-play
+  runtime: 79
+  age: 5
+  origin: stock
+  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/11000788-DACH-Clever-B1qe0Wsh.png
+  sample: https://cdn.tonies.de/o/audio_samples/0364583148b7e177ae9a0bf2caf00b45eb76acb3255c798b23e64669/hoerprobe_11000788_was_ist_was_set.mp3
+  web: https://tonies.com/de-de/clever-tonies/was-ist-was/was-ist-was-set/
+  shop-id: 3348d614-8647-4ad8-bf10-7b8e976d1c76
+  track-desc:
+  - Städte der Zukunft - Wolkenkratzer
+  ids:
   - audio-id: 1708683942
     hash: dcccdd2660532a26ddbc4839b5d0d904f3add773
     size: 62408619
