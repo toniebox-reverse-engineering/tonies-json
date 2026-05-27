@@ -1,0 +1,35 @@
+article: '11003664'
+lock-data: false
+data:
+- series: Bêtes De Champions
+  series-id: betes-de-champions
+  episode: Le Grand Tournoi De Foot
+  release: 1779926400
+  language: fr-fr
+  category: audio-play
+  runtime: 60
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51016902-Tonie_Shado-oLXC2jQX.png
+  sample: https://cdn.tonies.de/o/audio_samples/06cec766cbc8b01f1875784cdb7db7b2514972da168640c9050b1675/11003664_betes_de_champions_00_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/betes-de-champions/le-grand-tournoi-de-foot/
+  shop-id: e73c40e3-c6ba-4086-bbf6-7b76ef647b2a
+  track-desc:
+  - Générique
+  - 'Épisode 1 : La grande idée d''Hamsti (Acte I)'
+  - 'Épisode 1 : La grande idée d''Hamsti (Acte II)'
+  - 'Épisode 1 : La grande idée d''Hamsti (Acte III)'
+  - 'Interlude : Maitriser le contrôle'
+  - 'Épisode 2 : L''esprit d''équipe (Acte I)'
+  - 'Épisode 2 : L''esprit d''équipe (Acte II)'
+  - 'Épisode 2 : L''esprit d''équipe (Acte III)'
+  - 'Interlude : L''esprit d''équipe en action'
+  - 'Épisode 3 : Le retour des champions du ballon (Acte I)'
+  - 'Épisode 3 : Le retour des champions du ballon (Acte II)'
+  - 'Épisode 3 : Le retour des champions du ballon (Acte III)'
+  - 'Interlude : Apprendre la résilience'
+  - 'Épisode 4 : Coeur de champion (Acte I)'
+  - 'Épisode 4 : Coeur de champion (Acte II)'
+  - 'Épisode 4 : Coeur de champion (Acte III)'
+  - 'Épilogue : Le coup de sifflet final'
+  ids: []
