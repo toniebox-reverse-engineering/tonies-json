@@ -15,6 +15,7 @@ data:
   web: https://tonies.com/en-gb/clever-tonies/today-with-tonies/today-with-tonies/
   shop-id: a742a774-63b0-450f-8303-6552b3c99bc9
   track-desc:
+  - Wednesday 27th May
   - Tuesday 26th May
   - Monday 25th May
   - Sunday 24th May
@@ -28,7 +29,6 @@ data:
   - Saturday 16th May
   - Friday 15th May
   - Thursday 14th May
-  - Wednesday 13th May
   - Today With Tonies Jingle
   ids:
   - audio-id: 1779750305

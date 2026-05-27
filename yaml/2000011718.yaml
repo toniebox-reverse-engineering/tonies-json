@@ -1,0 +1,21 @@
+article: '2000011718'
+lock-data: false
+data:
+- series: Teufelskicker
+  series-id: teufelskicker
+  episode: WM 2026-Wissen 06 - Die Maskottchen
+  release: 1779840000
+  language: de-de
+  category: audio-play
+  runtime: 725
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_9de6cebd3cadd05f3d7b5a7a8a9f3549f5d4014f1a99cf29b9778d23/3_6KshbWhpXQdmGfpF/the_ballalloes_wm_2026_wissen_06_die_maskottch_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/teufelskicker/wm-2026-wissen-06-die-maskottchen/
+  shop-id: cd51fdc3-f75d-45d7-9ace-daaad22be78e
+  track-desc:
+  - 'Kapitel 01: Die Maskottchen (WM 2026-Wissen 06)'
+  - 'Kapitel 02: Die Maskottchen (WM 2026-Wissen 06)'
+  - 'Kapitel 03: Die Maskottchen (WM 2026-Wissen 06)'
+  ids: []
