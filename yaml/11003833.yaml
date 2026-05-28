@@ -1,0 +1,30 @@
+article: '11003833'
+lock-data: false
+data:
+- series: Sous l'océan
+  series-id: ocean-set
+  episode: Coffret Mes Premiers Tonies - Sous L'Océan
+  release: 1779926400
+  language: fr-fr
+  category: audio-play-songs
+  runtime: 36
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51020990-Tonie_Cover--5c3GBZ3.png
+  sample: https://cdn.tonies.de/o/audio_samples/74efff496c8340994f793744e0143e0d962beb869ff037a3e58a3ec3/11003833_mftocean_seal_extrait.mp3
+  web: https://tonies.com/fr-fr/mes-premiers-tonies/ozean-set/mes-premiers-tonies-sous-l-ocean/
+  shop-id: 0ca4b8e0-caba-41c7-9fa9-d1494c77b64a
+  track-desc:
+  - Dauphin - Hihihi ! et la chanson du dauphin
+  - Dauphin - Tu entends le dauphin ?
+  - Dauphin - Neufs dauphins qui surfent
+  - Dauphin - On joue dans les flots (ambiance sonore et musique)
+  - Mouette - Kaark ! Kaark ! et la chanson de la mouette
+  - Mouette - Tu entends la mouette ?
+  - Mouette - Momo la mouette
+  - Mouette - Au-dessus des vagues (ambiance sonore et musique)
+  - Phoque - Ark ! Ark ! et la chanson du phoque
+  - Phoque - Tu entends le phoque ?
+  - Phoque - Un petit phoque très curieux
+  - Phoque - Plongée dans l'océan (ambiance sonore et musique)
+  ids: []

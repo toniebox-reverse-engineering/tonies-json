@@ -1,0 +1,30 @@
+article: '11004135'
+lock-data: false
+data:
+- series: Sur le chantier
+  series-id: construction-set
+  episode: Mes Premiers Tonies - Sur Le Chantier
+  release: 1779926400
+  language: fr-fr
+  category: audio-play-songs
+  runtime: 36
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51022497-Tonie_Cover-Np609sI4.png
+  sample: https://cdn.tonies.de/o/audio_samples/f9e7243466b18d506fd6d79ef56e84a138a1011b3f0fa4fcf99b7ca3/11004135_mftconstruction_concretemixer_extrait.mp3
+  web: https://tonies.com/fr-fr/mes-premiers-tonies/sur-le-chantier/mes-premiers-tonies-sur-le-chantier/
+  shop-id: e42f9d82-f544-4977-bae4-068d6631e043
+  track-desc:
+  - Pelleteuse - Tclac-tclac ! et la chanson de la pelleteuse
+  - Pelleteuse - Tu entends la pelleteuse ?
+  - Pelleteuse - Un tas de terre et de cailloux
+  - Pelleteuse - Ça creuse ! (ambiance sonore et musique)
+  - Camion-benne - Vroum ! Vroum ! et la chanson du camion-benne
+  - Camion-benne - Tu entends le camion-benne ?
+  - Camion-benne - Un nouveau chantier
+  - Camion-benne - Transporter et tout vider (ambiance sonore et musique)
+  - Bétonnière -  Floup-floup-floup ! et la chanson de la bétonnière
+  - Bétonnière - Tu entends la bétonnière ?
+  - Bétonnière - Betty la petite bétonnière
+  - Bétonnière - Tourne, tourne, et tourne (ambiance sonore et musique)
+  ids: []
