@@ -1,8 +1,8 @@
 article: '10000858'
 lock-data: false
 data:
-- series: tonies-json-fr-fr,
-  series-id: tonies-json-fr-fr,
+- series: ''
+  series-id: ''
   episode: ''
   release: ''
   language: ''
@@ -10,9 +10,9 @@ data:
   runtime: ''
   age: ''
   origin: ''
-  image: ''
+  image: tonies-json-fr-fr,
   sample: ''
-  web: tonies-json-fr-fr,
+  web: ''
   shop-id: ''
   track-desc: ''
   ids: []
