@@ -10,7 +10,7 @@ data:
   runtime: 193
   age: 5
   origin: stock
-  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/11000796-DACH-Clever-z5Rr7hIr.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/11000796-DACH-Clever-z5Rr7hIr.png
   sample: https://cdn.tonies.de/o/audio_samples/3a266bf413d737524c86fa4cd1678d5490ec8ad12d7eb5405fdafca3/horprobe_11000796_geolino_mini_set_ozeane.mp3
   web: https://tonies.com/de-de/clever-tonies/geo/geolino-mini-set/
   shop-id: d93b7568-a0af-4135-ac99-1e76e47a581f
@@ -19,23 +19,23 @@ data:
   - Alles über Sterne + Planeten
   - Alles über Meere + Ozeane
   - Alles über die Arktis + Antarktis
-  ids: 
-  - audio-id: 1708683284 # Alles über Vulkane
+  ids:
+  - audio-id: 1708683284
     hash: a3a9fe7ff438159290f063955a56b8d7cd9035f5
     size: 35644983
     tracks: 1
     confidence: 0
-  - audio-id: 1708683351 # Alles über Sterne + Planeten
+  - audio-id: 1708683351
     hash: 2ee776425bb02cee6d60309a3c54d56ee646374f
     size: 41076790
     tracks: 1
     confidence: 0
-  - audio-id: 1708683394 # Alles über Meere + Ozeane
+  - audio-id: 1708683394
     hash: f8e068aa298a5f90fb866ccf6d09394cef352012
     size: 36195519
     tracks: 1
     confidence: 0
-  - audio-id: 1708683439 # Alles über die Arktis + Antarktis
+  - audio-id: 1708683439
     hash: 515b28c8d781881586c49fd55c9137b1555d816f
     size: 34845527
     tracks: 1
