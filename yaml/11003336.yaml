@@ -2,7 +2,7 @@ article: '11003336'
 lock-data: false
 data:
 - series: Winnie Puuh
-  series-id: disney-winnie-puuh
+  series-id: disney-winnie-the-pooh
   episode: Ferkels großes Abenteuer
   release: 1778630400
   language: de-de
@@ -19,5 +19,5 @@ data:
   - 'Kapitel 02: Ferkels großes Abenteuer'
   - 'Kapitel 03: Ferkels großes Abenteuer'
   - 'Kapitel 04: Ferkels großes Abenteuer'
-  - Wär' ich bloß nicht so klein
+  - 'Lied: Wär’ ich bloß nicht so klein'
   ids: []
