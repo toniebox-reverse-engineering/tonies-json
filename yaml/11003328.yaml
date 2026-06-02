@@ -2,7 +2,7 @@ article: '11003328'
 lock-data: false
 data:
 - series: Der Grüffelo
-  series-id: der-grueffelo
+  series-id: der-gruffelo
   episode: Der Grüffelo & Das Grüffelokind (Relaunch 2026)
   release: 1773187200
   language: de-de
@@ -15,16 +15,16 @@ data:
   web: https://tonies.com/de-de/tonies/der-grueffelo/der-grueffelo-das-grueffelokind-relaunch-2026/
   shop-id: dafccb91-1e48-4a46-8704-58d26af2b8d5
   track-desc:
-  - Der Grüffelo Pt1
-  - Der Grüffelo Pt2
-  - Der Grüffelo Pt3
-  - Der Grüffelo Pt4
-  - Der Grüffelo Pt5
-  - Das Grüffelokind Pt1
-  - Das Grüffelokind Pt2
-  - Das Grüffelokind Pt3
-  - Das Grüffelokind Pt4
-  - Das Grüffelokind Pt5
+  - Der Grüffelo - Teil 1
+  - Der Grüffelo - Teil 2
+  - Der Grüffelo - Teil 3
+  - Der Grüffelo - Teil 4
+  - Der Grüffelo - Teil 5
+  - Das Grüffelokind - Teil 1
+  - Das Grüffelokind - Teil 2
+  - Das Grüffelokind - Teil 3
+  - Das Grüffelokind - Teil 4
+  - Das Grüffelokind - Teil 5
   ids:
   - audio-id: 1779314543
     hash: e298a2c6d0cdba8faf6d55665dcf9e63cff22319
