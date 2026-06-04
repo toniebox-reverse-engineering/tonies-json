@@ -1,0 +1,26 @@
+article: '11002388'
+lock-data: false
+data:
+- series: Sleepy Friends
+  series-id: sleepy-friends
+  episode: 'Sleepy Friends: Sleepy Crocodile (UK)'
+  release: 1781222400
+  language: en-gb
+  category: music
+  runtime: 38
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002388_Landscape_7-poAv43jt.png
+  sample: null
+  web: https://tonies.com/en-gb/tonies/sleepy-friends/sleepy-friends-sleepy-crocodile-uk/
+  shop-id: 1b5f264e-3d31-45b5-a958-d2fb1953eb41
+  track-desc:
+  - 01. INTRO (Tonies Whispering Intro)
+  - 02. SONG - Nightfall in the Jungle
+  - 03. STORY - The Red Parrot
+  - 04. STORY - Take Me to the Waterfall
+  - 05. STORY - Frog Friend
+  - 06. STORY - Build Our Cave
+  - 07. STORY - A Ride on the Turtle's Shell
+  - 08. STORY - No place like home
+  ids: []

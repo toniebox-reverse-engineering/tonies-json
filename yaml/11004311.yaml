@@ -1,0 +1,35 @@
+article: '11004311'
+lock-data: false
+data:
+- series: InvestiGators
+  series-id: investigators
+  episode: 'InvestiGators: A Laugh-Out-Loud Audiobook Adventure! (Book 1)'
+  release: 1781222400
+  language: en-gb
+  category: audio-book
+  runtime: 134
+  age: 7
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11004311_Square_1-KT8gDD84.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/343c2b90018c37d46dc4ea0fc68f968a945ed092409584dc2ddf195c/investigators_laughoutloudaudiobookadventure_sample.wav
+  web: https://tonies.com/en-gb/book-tonies/investigators/investigators-a-laugh-out-loud-audiobook-adventure-book-1/
+  shop-id: 923ffb6a-5462-486e-bcfc-72a6c0feea1a
+  track-desc:
+  - 00_Intro
+  - 01_STORY_Chapter 1
+  - 02_STORY_Chapter 2
+  - 03_STORY_Chapter 3
+  - 04_STORY_Chapter 4
+  - 05_STORY_Chapter 5
+  - 06_STORY_Chapter 6
+  - 07_STORY_Chapter 7
+  - 08_STORY_Chapter 8
+  - ''
+  - 09_STORY_Chapter 9
+  - 10_STORY_Chapter 10
+  - 11_STORY_Chapter 11
+  - 12_STORY_Chapter 12
+  - 13_STORY_Chapter 13
+  - 14_Epilogue
+  - 15_Credits
+  ids: []

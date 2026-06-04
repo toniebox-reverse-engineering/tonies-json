@@ -1,0 +1,29 @@
+article: '11002360'
+lock-data: false
+data:
+- series: Sleepy Friends
+  series-id: sleepy-friends
+  episode: 'Sleepy Friends: Sleepy Toucan - Nature Sounds from the Jungle (UK)'
+  release: 1781222400
+  language: en-gb
+  category: music
+  runtime: 120
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002360_Landscape_7-pUkf1TwC.png
+  sample: https://cdn.tonies.de/o/audio_samples/7a56fc67a0d599ec8e65009c525b03548c0c619294b1fa8c2b58619f/audio_sample_sleepy_toucan.wav
+  web: https://tonies.com/en-gb/tonies/sleepy-friends/toucan/
+  shop-id: 9eed89b5-304f-4a68-b9df-3dd0344becf6
+  track-desc:
+  - 01. SOUNDSCAPE - Sleepy Toucan
+  - 02. SOUNDSCAPE - Sleepy Toucan
+  - 03. SOUNDSCAPE - Sleepy Toucan
+  - 04. SOUNDSCAPE - Sleepy Toucan
+  - 05. SOUNDSCAPE - Sleepy Toucan
+  - 06. SOUNDSCAPE - Sleepy Toucan
+  - 07. SOUNDSCAPE - Sleepy Toucan
+  - 08. SOUNDSCAPE - Sleepy Toucan
+  - 09. SOUNDSCAPE - Sleepy Toucan
+  - 10. SOUNDSCAPE - Sleepy Toucan
+  - 11. SOUNDSCAPE - Sleepy Toucan
+  ids: []

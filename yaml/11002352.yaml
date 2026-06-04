@@ -1,0 +1,32 @@
+article: '11002352'
+lock-data: false
+data:
+- series: Sleepy Friends
+  series-id: sleepy-friends
+  episode: 'Sleepy Friends: Sleepy Jaguar - Lullabies from the Sleepy Jungle (UK)'
+  release: 1781222400
+  language: en-gb
+  category: music
+  runtime: 140
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002352_Landscape_7-Thgb3vOb.png
+  sample: https://cdn.tonies.de/o/audio_samples/1525c995f9b7499e251ea76a0c42cd3f1dfc369686169fe8ae91d005/audio_sample_sleepy_jaguar.wav
+  web: https://tonies.com/en-gb/tonies/sleepy-friends/sleepy-jaguar-lullabies-from-the-sleepy-jungle/
+  shop-id: e08a74fb-fa5e-4537-badf-6314a3658df2
+  track-desc:
+  - 01. SOUNDSCAPE - Sleepy Jaguar
+  - 02. SOUNDSCAPE - Sleepy Jaguar
+  - 03. SOUNDSCAPE - Sleepy Jaguar
+  - 04. SOUNDSCAPE - Sleepy Jaguar
+  - 05. SOUNDSCAPE - Sleepy Jaguar
+  - 06. SOUNDSCAPE - Sleepy Jaguar
+  - 07. SOUNDSCAPE - Sleepy Jaguar
+  - 08. SOUNDSCAPE - Sleepy Jaguar
+  - 09. SOUNDSCAPE - Sleepy Jaguar
+  - 10. SOUNDSCAPE - Sleepy Jaguar
+  - 11. SOUNDSCAPE - Sleepy Jaguar
+  - 12. SOUNDSCAPE - Sleepy Jaguar
+  - 13. SOUNDSCAPE - Sleepy Jaguar
+  - 14. SOUNDSCAPE - Sleepy Jaguar
+  ids: []
