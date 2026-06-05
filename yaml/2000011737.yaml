@@ -1,0 +1,42 @@
+article: '2000011737'
+lock-data: false
+data:
+- series: TKKG
+  series-id: tkkg
+  episode: 'Folge 241: Das Rätsel der Gruselvilla'
+  release: 1780617600
+  language: de-de
+  category: audio-play
+  runtime: 3922
+  age: 8
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_1fb91f557ad4cb08ffd8f316ff5499c92ae01bd370c896b3409f029c/3_Mgt_Vx130ZM9x1Zk/tkkg_folge_241__das_ratsel_der_gruselvilla_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/tkkg/folge-241-das-ratsel-der-gruselvilla/
+  shop-id: c4756014-0962-4383-a987-c2ad8e4d54fb
+  track-desc:
+  - 'Inhaltsangabe:  Das Rätsel der Gruselvilla (Folge 241)'
+  - TKKG Titelsong
+  - 'Kapitel 01:  Das Rätsel der Gruselvilla (Folge 241)'
+  - 'Kapitel 02:  Das Rätsel der Gruselvilla (Folge 241)'
+  - 'Kapitel 03:  Das Rätsel der Gruselvilla (Folge 241)'
+  - 'Kapitel 04:  Das Rätsel der Gruselvilla (Folge 241)'
+  - 'Kapitel 05:  Das Rätsel der Gruselvilla (Folge 241)'
+  - 'Kapitel 06:  Das Rätsel der Gruselvilla (Folge 241)'
+  - 'Kapitel 07:  Das Rätsel der Gruselvilla (Folge 241)'
+  - 'Kapitel 08:  Das Rätsel der Gruselvilla (Folge 241)'
+  - 'Kapitel 09:  Das Rätsel der Gruselvilla (Folge 241)'
+  - 'Kapitel 10:  Das Rätsel der Gruselvilla (Folge 241)'
+  - 'Kapitel 11:  Das Rätsel der Gruselvilla (Folge 241)'
+  - 'Kapitel 12:  Das Rätsel der Gruselvilla (Folge 241)'
+  - 'Kapitel 13:  Das Rätsel der Gruselvilla (Folge 241)'
+  - 'Kapitel 14:  Das Rätsel der Gruselvilla (Folge 241)'
+  - 'Kapitel 15:  Das Rätsel der Gruselvilla (Folge 241)'
+  - 'Kapitel 16:  Das Rätsel der Gruselvilla (Folge 241)'
+  - 'Kapitel 17:  Das Rätsel der Gruselvilla (Folge 241)'
+  - 'Kapitel 18:  Das Rätsel der Gruselvilla (Folge 241)'
+  - 'Kapitel 19:  Das Rätsel der Gruselvilla (Folge 241)'
+  - 'Kapitel 20:  Das Rätsel der Gruselvilla (Folge 241)'
+  - TKKG Schlußsong
+  - 'Outro:  Das Rätsel der Gruselvilla (Folge 241)'
+  ids: []
