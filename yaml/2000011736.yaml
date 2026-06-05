@@ -2,7 +2,7 @@ article: '2000011736'
 lock-data: false
 data:
 - series: Folgen 255-256
-  series-id: null
+  series-id: lego-ninjago
   episode: Das Versprechen von Ras
   release: 1780617600
   language: de-de
@@ -10,7 +10,7 @@ data:
   runtime: 3469
   age: 6
   origin: tunes
-  image: null
+  image: https://cdn.tonies.de/o/images/1_eb953b82c4af5e74060514526fb5de05856e9b1d9c146e6c7f3deae0/3_-qCM9HGzf4HMXxpz/lego_ninjago_083_folgen_255_256__das_versprech_530x530.jpg
   sample: https://cdn.tonies.de/o/audio_samples/d4e979c894c293eb9e097c54a312508f4ae587fcc8d691cbed637efe/4013575964314_preview.mp3
   web: https://tonies.com/de-de/audio-content/folgen-255-256-das-versprechen-von-ras/
   shop-id: 2612a961-1700-472a-bfb8-d15f2fa4a344

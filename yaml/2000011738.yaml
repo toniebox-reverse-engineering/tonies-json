@@ -2,7 +2,7 @@ article: '2000011738'
 lock-data: false
 data:
 - series: Folge 49
-  series-id: null
+  series-id: die-fuchsbande
   episode: 'Fall 97: Die lasche Limonade/Fall 98: Die verknopfte Spur'
   release: 1780012800
   language: de-de
@@ -10,7 +10,7 @@ data:
   runtime: 3846
   age: 3
   origin: tunes
-  image: null
+  image: https://cdn.tonies.de/o/images/1_663e3f049728d24c224859eb51439e9dc1c0a38169d0358ebff62445/3_~cx6j_CmQTDcG9DM/the_fox_pack_folge_49__fall_97__die_lasche_limon_530x530.jpg
   sample: null
   web: https://tonies.com/de-de/audio-content/folge-49-fall-97-die-lasche-limonadefall-98-die-ve/
   shop-id: 3d65907c-b29c-4181-a0e3-0e32d2ddde87
