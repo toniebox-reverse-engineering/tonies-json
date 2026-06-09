@@ -1,7 +1,7 @@
 article: '10001313'
 lock-data: false
 data:
-- series: Marvel
+- series: Marvel Spidey and His Amazing Friends
   series-id: marvel-2
   episode: 'Spidey & His Amazing Friends: Spidey'
   release: 1695168000
@@ -10,7 +10,7 @@ data:
   runtime: 40
   age: 3
   origin: stock
-  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/10001313%202-s0dYDXfi.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/10001313%202-s0dYDXfi.png
   sample: https://cdn.tonies.de/o/audio_samples/c9331251e79cc25779338642ed0b511665d13eb92162699e3db216e2/10001313_spidey_his_amazing_friends_spidey_sample.wav
   web: https://tonies.com/en-gb/tonies/marvel/spidey-his-amazing-friends-spidey/
   shop-id: a3707d68-5477-472d-b2ce-d3b34a208697
