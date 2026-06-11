@@ -10,22 +10,18 @@ data:
   runtime: 58
   age: 4
   origin: stock
-  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/51000650-Tonie_Shado-wRKlQm0i.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11000205_Transparent-XaWVmYLX.png
   sample: https://cdn.tonies.de/o/audio_samples/e2929ec4b4aa82865566c13398ac1b027c767bc3dae851e349e9ddb7/10001934_encanto_sample.wav
   web: https://tonies.com/en-gb/tonies/disney-encanto/encanto/
   shop-id: fe6b6a25-404f-42fd-9895-45b40582701c
   track-desc:
-  - The Family Madrigal
-  - Surface Pressure
-  - We Don't Talk About Bruno
-  - What Else Can I Do?
-  - Dos Oruguitas
-  - 'Encanto Storyette: Part 1'
-  - 'Encanto Storyette: Part 2'
-  - 'Encanto Storyette: Part 3'
-  - 'Encanto Storyette: Spanish Version Part 1'
-  - 'Encanto Storyette: Spanish Version Part 2'
-  - 'Encanto Storyette: Spanish Version Part 3'
+  - 01. SONG - The Family Madrigal
+  - 02. SONG - Surface Pressure
+  - 03. SONG - We Don't Talk About Bruno
+  - 04. SONG - What Else Can I Do?
+  - 05. SONG - Dos Oruguitas
+  - 06. STORY - Encanto (English)
+  - 07. STORY - Encanto (Spanish)
   ids:
   - audio-id: 1759176165
     hash: ac4631e0338c5ad8a348f969e6e379092ab98712

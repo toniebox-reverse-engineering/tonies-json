@@ -3,7 +3,7 @@ lock-data: false
 data:
 - series: Today with tonies
   series-id: today-with-tonies
-  episode: tonies Mini Podcast
+  episode: Today with tonies® Podcast
   release: 1699228800
   language: en-gb
   category: audio-play
