@@ -8,7 +8,7 @@ data:
   language: en-gb
   category: audio-play
   runtime: 32
-  age: 2
+  age: 3
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/10000335-50001024-b-P92RQqDd.png
   sample: https://cdn.tonies.de/o/audio_samples/5701be3b9d6aa3c2220aeaccb81f5b5adb74314b7545d8d5af027986/audio_sample_winnie_the_pooh.mp3
