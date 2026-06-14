@@ -31,6 +31,11 @@ data:
   - 1st June
   - Joke Of The Day Jingle
   ids:
+  - audio-id: 1781395502
+    hash: 4018f6852fbecf0f4b6e61a72d9035759ce9afa4
+    size: 44035289
+    tracks: 15
+    confidence: 1
   - audio-id: 1781309102
     hash: 5f914a62a9ccf296ec24f1be33cdd12869fe42da
     size: 43956096
