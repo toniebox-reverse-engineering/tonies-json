@@ -31,6 +31,11 @@ data:
   - 3rd June
   - Joke Of The Day Jingle
   ids:
+  - audio-id: 1781568303
+    hash: 9ab3abbce7d0b0c7bff965b8e3b7220a327ef6b6
+    size: 43055671
+    tracks: 15
+    confidence: 1
   - audio-id: 1781481902
     hash: f163e9d26fd23118c69471e0855135b66a2f4925
     size: 43946825
