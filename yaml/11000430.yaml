@@ -36,6 +36,11 @@ data:
   - Der Spukusaurus - Teil 4
   - Der Spukusaurus - Teil 5
   ids:
+  - audio-id: 1781715262
+    hash: e257af44d045fd5d0d90df1f7a7859c2fdcf50d7
+    size: 41504578
+    tracks: 20
+    confidence: 0
   - audio-id: 1701031920
     hash: 4e7c01522a4b4b269f1a7df9f600685cc551437f
     size: 41595999
