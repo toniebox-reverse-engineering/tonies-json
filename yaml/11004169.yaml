@@ -1,0 +1,47 @@
+article: '11004169'
+lock-data: false
+data:
+- series: Bluey
+  series-id: bluey
+  episode: Multipack Bluey - Bluey, Bingo, Muffin
+  release: 1791331200
+  language: de-de
+  category: audio-play
+  runtime: 136
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/50005177-DACH-110038-9s7YvaOL.png
+  sample: null
+  web: https://tonies.com/de-de/tonies/bluey/3er-set-bluey-bingo-muffin/
+  shop-id: 282b7fbc-7e71-4c46-b46c-1b824a17ce29
+  track-desc:
+  - Bluey - INTRO
+  - Bluey - TITELSONG
+  - 'Bluey - EPISODE: OMA'
+  - 'Bluey - EPISODE: ENTENTORTE'
+  - 'Bluey - EPISODE: VERSPRECHEN'
+  - 'Bluey - EPISODE: DIE BABYSITTER'
+  - 'Bluey - EPISODE: FRÜHGEBURT'
+  - 'Bluey - EPISODE: AM BACH'
+  - 'Bluey - EPISODE: ZELTEN'
+  - Bluey - OUTRO
+  - Bingo - INTRO
+  - Bingo - TITELSONG
+  - 'Bingo - EPISODE: MÜLL'
+  - 'Bingo - EPISODE: MÜDE BEINE'
+  - 'Bingo - EPISODE: MÜLLABFURH'
+  - 'Bingo - EPISODE: STOCKVOGEL'
+  - 'Bingo - EPISODE: WARTEN'
+  - 'Bingo - EPISODE: ENTSPANNEN'
+  - 'Bingo - EPISODE: SCHLAF GUT'
+  - Bingo - OUTRO
+  - Muffin - INTRO
+  - Muffin - TITELSONG
+  - 'Muffin - EPISODE: KRAGEN-MUFFIN'
+  - 'Muffin - EPISODE: OMA MOBIL'
+  - 'Muffin - EPISODE: BABY-WETTRENNEN'
+  - 'Muffin - EPISODE: CRICKET'
+  - 'Muffin - EPISODE: MÄRCHEN'
+  - 'Muffin - EPISODE: DRACHE'
+  - Muffin - OUTRO
+  ids: []
