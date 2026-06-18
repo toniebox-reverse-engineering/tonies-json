@@ -31,6 +31,11 @@ data:
   - 5th June
   - Joke Of The Day Jingle
   ids:
+  - audio-id: 1781741104
+    hash: eb6ebb1070adca919aa20760bd5a59fb686db62e
+    size: 42036158
+    tracks: 15
+    confidence: 1
   - audio-id: 1781683662
     hash: cf2f1673e38c014da739387f0a6f7407cdbe9504
     size: 42755257
