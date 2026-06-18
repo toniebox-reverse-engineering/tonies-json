@@ -11,7 +11,7 @@ data:
   age: 5
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_863374e4b7447addd6e23985159c8380e6aea66ac3c3e86f88c143a0/3_NwnQ_GPMw77NkTwS/sunspeed_explorers_sunspeed_explorers_2__grow_wi_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/44597a5e2d2721bc70a806ff6921dc160dfae159ec647ae958c60830/letitrain_audiosample_1.wav
   web: https://tonies.com/en-gb/audio-content/sunspeed-explorers/protecting-the-planet-saving-tomorrow/
   shop-id: 85e4e0ea-9d4c-409b-ab22-424e82c7fc0c
   track-desc:
