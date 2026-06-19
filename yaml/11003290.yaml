@@ -3,7 +3,7 @@ lock-data: false
 data:
 - series: Toy Story
   series-id: toy-story-2
-  episode: 'Disney and Pixar Toy Story 5: Bullseye'
+  episode: Toy Story 5
   release: 1781827200
   language: en-gb
   category: audio-play
@@ -15,5 +15,5 @@ data:
   web: https://tonies.com/en-gb/tonies/disney-toy-story/toy-story-5-bullseye/
   shop-id: 6bf840f9-1539-43ca-9a7b-1875d4f28c88
   track-desc:
-  - Holding Content
+  - Toy Story 5 Story
   ids: []
