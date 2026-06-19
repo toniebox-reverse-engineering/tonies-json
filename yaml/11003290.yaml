@@ -11,9 +11,9 @@ data:
   age: 3
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11003290_Transparent-EmwTJfUk.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/c55cd3a588ac4b9d2a4f912b1e3abd2567c5f51332eadd37d1a7d2a0/bullseye_toy_story_5_audio_sample.mp3
   web: https://tonies.com/en-gb/tonies/disney-toy-story/toy-story-5-bullseye/
   shop-id: 6bf840f9-1539-43ca-9a7b-1875d4f28c88
   track-desc:
-  - Toy Story 5 Story
+  - Toy Story 5 - Bullseye
   ids: []
