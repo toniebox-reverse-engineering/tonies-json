@@ -10,7 +10,7 @@ data:
   runtime: 54
   age: 5
   origin: stock
-  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/BOX11000594_1_a-_0KEfcED.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11000594_1_a-_0KEfcED.png
   sample: https://cdn.tonies.de/o/audio_samples/8023451d0b50f15573e44a8942522b2e86dee9ff32106bbfaa26b916/hoerprobe_11000594_asterix_die_odyssee.mp3
   web: https://tonies.com/de-de/tonies/asterix/asterix-idefix-dogmatix-en-dach/
   shop-id: 12db35ae-f4a8-48c1-aa8a-b0b4fd3aa9cc
