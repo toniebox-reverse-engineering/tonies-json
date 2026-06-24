@@ -31,6 +31,11 @@ data:
   - Thursday 11th June
   - Today With Tonies Jingle
   ids:
+  - audio-id: 1782255918
+    hash: ebcee3e925dda4c72a4715fddd6c01355e52904d
+    size: 153566438
+    tracks: 15
+    confidence: 1
   - audio-id: 1782169503
     hash: 967e48de62e744cc3fad51139720385532a8c527
     size: 153541862
