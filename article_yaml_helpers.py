@@ -5,6 +5,12 @@ import os
 import yaml
 import pickle
 import json
+import sys
+
+# Force Python to search the current working directory for imports first.
+# This ensures that when scripts are run via symlinks from other directories,
+# they find the correct config file in the current directory.
+sys.path.insert(0, os.getcwd())
 from tonies_json_config import Config
 
 class YamlStruct:
