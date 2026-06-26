@@ -10,9 +10,9 @@ data:
   runtime: ''
   age: ''
   origin: ''
-  image: ''
+  image: tonies-shopapi-fr-fr-image,
   sample: ''
-  web: tonies-json-fr-fr,
+  web: ''
   shop-id: ''
   track-desc: ''
   ids: []

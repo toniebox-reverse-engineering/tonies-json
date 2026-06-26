@@ -8,9 +8,9 @@ data:
   language: ''
   category: ''
   runtime: ''
-  age: tonies-shopapi-de-de,
+  age: ''
   origin: ''
-  image: ''
+  image: tonies-shopapi-de-de-image,
   sample: ''
   web: ''
   shop-id: ''

@@ -2,7 +2,7 @@ article: 01-0042
 lock-data: false
 data:
 - series: ''
-  series-id: tonies-shopapi-de-de,
+  series-id: ''
   episode: ''
   release: ''
   language: ''
@@ -10,7 +10,7 @@ data:
   runtime: ''
   age: ''
   origin: ''
-  image: ''
+  image: tonies-shopapi-de-de-image,
   sample: ''
   web: ''
   shop-id: ''
