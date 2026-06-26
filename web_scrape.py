@@ -271,6 +271,11 @@ def extract_data_tonies_shopapi(lang, article, product_data, source):
         yaml_data = filter_data(article, yaml_data)
         merge_yaml_data(article, yaml_data, source, overwrite=False, cache_id=cache_id)
 
+        if yaml_data.get("image") is not None:
+            image_update = YamlStruct.get_data()
+            image_update["image"] = yaml_data["image"]
+            merge_yaml_data(article, image_update, source + "-image", overwrite=True, cache_id=cache_id)
+
 def update_yaml_files(article, yaml_data):
     if yaml_data is None:
         return
