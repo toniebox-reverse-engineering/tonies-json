@@ -10,7 +10,7 @@ data:
   runtime: 60
   age: 3
   origin: stock
-  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000143-98-1008-b-OHyav2rn.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/10000143-98-1008-b-OHyav2rn.png
   sample: https://cdn.tonies.de/o/audio_samples/435e1a93a09ce1392894667534ea49e6503a64d60a6c795a7eb7e353/hoerprobe_10000143_kinderliederzug_bitte_alle_einsteigen.mp3
   web: https://tonies.com/de-de/tonies/bitte-alle-einsteigen/
   shop-id: a6e90b48-cfea-4019-941b-5173deffd3a0

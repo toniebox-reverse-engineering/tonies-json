@@ -10,7 +10,7 @@ data:
   runtime: 197
   age: 6
   origin: stock
-  image: https://08ee523e746768fd7148-f76a52ba8f0c340564df978383fc4de2.ssl.cf3.rackcdn.com/Image%202-yo-t7bzB.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/Image%202-yo-t7bzB.png
   sample: https://cdn.tonies.de/o/audio_samples/a9752297258492d1d816bbf9f0ae04d02afe2285816ff08e13a2c704/charlie_and_the_chocolate_factory_sample.wav
   web: https://tonies.com/en-gb/tonies/roald-dahl/charlie-and-the-chocolate-factory/
   shop-id: 8f126ee9-900c-447f-8517-5d317f59844b

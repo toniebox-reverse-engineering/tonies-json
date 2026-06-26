@@ -10,7 +10,7 @@ data:
   runtime: 40
   age: 3
   origin: stock
-  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0110-98-0334-b-XhHKt0b6.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/01-0110-98-0334-b-XhHKt0b6.png
   sample: https://cdn.tonies.de/o/audio_samples/8ad1fc9ed39d7284923d5b6ed600d1cbd22aa301693f959deeb08822/hoerprobe_rabe_socke_alles_schule.mp3
   web: https://tonies.com/de-de/tonies/der-kleine-rabe-socke/alles-schule/
   shop-id: 9fd060c5-9a01-4668-bb15-984ed76a593c

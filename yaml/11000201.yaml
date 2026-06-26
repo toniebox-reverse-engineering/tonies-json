@@ -10,7 +10,7 @@ data:
   runtime: 51
   age: 3
   origin: stock
-  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/BOX11000201_1_a-2S-txmYN.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11000201_1_a-2S-txmYN.png
   sample: https://cdn.tonies.de/o/audio_samples/1a087dc1b1c99f9e0342ebfddfb066d64e78cba386d9386a40942075/hoerprobe_11000201_schlaf_schon_neuauflage.mp3
   web: https://tonies.com/de-de/tonies/die-sendung-mit-dem-elefanten/schlaf-schon-neuauflage-2023/
   shop-id: fe510ac5-e375-4b01-a68f-5da58aee59e9

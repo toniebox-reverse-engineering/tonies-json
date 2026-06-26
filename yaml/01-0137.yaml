@@ -10,7 +10,7 @@ data:
   runtime: 28
   age: 4
   origin: stock
-  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0137-b-6_zPmLKY.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/01-0137-b-6_zPmLKY.png
   sample: https://cdn.tonies.de/o/audio_samples/113f4e5703afa4df419acc5a3605f4bf47e5df9f63e298ad801aa8dc/1_113f4e5703afa4df419acc5a3605f4bf47e5df9f63e298ad801aa8dc_hoerprobe_stockmann.mp3
   web: https://tonies.com/de-de/tonies/stockmann/
   shop-id: ff1495a6-918f-4170-a74a-80d0eb630fb8

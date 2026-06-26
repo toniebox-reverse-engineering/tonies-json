@@ -10,7 +10,7 @@ data:
   runtime: 60
   age: 3
   origin: stock
-  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/BOX11000736_1_a-HwFWQZLb.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11000736_1_a-HwFWQZLb.png
   sample: https://cdn.tonies.de/o/audio_samples/9aa35c07a84f67922aefaff1dbc3c30cf18ba46c71d76ce1b49cc4a1/horprobe_11000736_lieblings_klassiker_der_zauberer_von_oz_und_zwei_weitere_klassiker.mp3
   web: https://tonies.com/de-de/tonies/lieblings-klassiker/der-zauberer-von-oz-und-zwei-weitere-klassiker/
   shop-id: 6c4a4d73-bce2-4960-a05b-7369c90e62bd
