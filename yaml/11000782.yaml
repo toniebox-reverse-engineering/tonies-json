@@ -31,6 +31,11 @@ data:
   - Wednesday 17th June
   - Today With Tonies Jingle
   ids:
+  - audio-id: 1782774318
+    hash: 19dec820dbbba54a4896970b5b6e32b0c3fc10e0
+    size: 156019942
+    tracks: 15
+    confidence: 1
   - audio-id: 1782687918
     hash: ee4990cb6d5e690a5f3df62f7115245a95c447f2
     size: 155856102
