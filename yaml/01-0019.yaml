@@ -10,7 +10,7 @@ data:
   runtime: 21
   age: 4
   origin: stock
-  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0019-98-0090-b-j3K9c6nT.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/01-0019-98-0090-b-j3K9c6nT.png
   sample: https://cdn.tonies.de/o/audio_samples/2a3247e41750f894757e9d39006864525db220fdb8b980a9409626f8/hoerprobe_der_grueffelo.mp3
   web: https://tonies.com/de-de/tonies/der-grueffelo/
   shop-id: 414515eb-e236-4315-864f-db615a72e3ad
