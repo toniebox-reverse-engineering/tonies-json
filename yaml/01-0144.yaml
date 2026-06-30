@@ -10,7 +10,7 @@ data:
   runtime: 60
   age: 3
   origin: stock
-  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0144-98-0423-b-v7mRq5dh.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/01-0144-98-0423-b-v7mRq5dh.png
   sample: https://cdn.tonies.de/o/audio_samples/6f866d97eef9841985a4e30edad3d94b398f591cc7dd746531db97c8/hoerprobe_fuchsbande_1_2.mp3
   web: https://tonies.com/de-de/tonies/fuchsbande-fall-1-und-2/
   shop-id: 19a880a9-6c7b-49db-bcf7-9e0515481b76

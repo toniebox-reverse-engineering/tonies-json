@@ -2,7 +2,7 @@ article: '10001964'
 lock-data: false
 data:
 - series: ''
-  series-id: tonies-json-en-gb,
+  series-id: ''
   episode: ''
   release: ''
   language: ''
@@ -10,7 +10,7 @@ data:
   runtime: ''
   age: ''
   origin: ''
-  image: ''
+  image: tonies-shopapi-en-gb-image,
   sample: ''
   web: ''
   shop-id: ''

@@ -10,7 +10,7 @@ data:
   runtime: 32
   age: 5
   origin: stock
-  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0020-98-0091-b-HVOj8kjL.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/01-0020-98-0091-b-HVOj8kjL.png
   sample: https://cdn.tonies.de/o/audio_samples/fc226bba3e4f2b6a35ffd3e743d8c7e62dfd7d071af5d999f91ddef5/die_olchis_fussballmeister_hoerprobe.mp3
   web: https://tonies.com/de-de/tonies/die-olchis/die-olchis-werden-fussballmeister/
   shop-id: f5202347-4881-4e82-9f81-a0ebe56e1a68

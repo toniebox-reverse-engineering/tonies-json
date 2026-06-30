@@ -10,7 +10,7 @@ data:
   runtime: 55
   age: 3
   origin: stock
-  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/BOX11000289_1_a-OKBTqjR_.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11000289_1_a-OKBTqjR_.png
   sample: https://cdn.tonies.de/o/audio_samples/aeca1534d43283b2340f22020e53c2f9ae4ab88c2f6d408142fe2266/horprobe_11000289_paw_patrol_hier_kommt_tracker.mp3
   web: https://tonies.com/de-de/tonies/paw-patrol/hier-kommt-tracker/
   shop-id: 34d7fd02-ac3c-43f0-9e85-f008738e6f58

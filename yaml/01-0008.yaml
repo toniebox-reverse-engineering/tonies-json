@@ -10,7 +10,7 @@ data:
   runtime: 55
   age: 6
   origin: stock
-  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0008-98-0060-b-ky7cu1SZ.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/01-0008-98-0060-b-ky7cu1SZ.png
   sample: https://cdn.tonies.de/o/audio_samples/96d3510a429c03ba2743b5739c00fcaa54961a6170ed30a7e1c74e3f/hoerprobe_sams_am_samstag_kam_das_sams_zurueck_1_128_kbps.mp3
   web: https://tonies.com/de-de/tonies/das-sams/am-samstag-kam-das-sams-zurueck/
   shop-id: 10fa8945-4e49-45bd-8a0f-bd2fdd96dcc7

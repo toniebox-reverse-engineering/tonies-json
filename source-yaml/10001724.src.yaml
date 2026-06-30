@@ -2,15 +2,15 @@ article: '10001724'
 lock-data: false
 data:
 - series: ''
-  series-id: tonies-json-fr-fr,
-  episode: tonies-json-fr-fr,fix-whitespace-title,
+  series-id: ''
+  episode: ''
   release: ''
   language: ''
   category: ''
   runtime: ''
   age: ''
   origin: ''
-  image: ''
+  image: tonies-shopapi-fr-fr-image,
   sample: ''
   web: ''
   shop-id: ''

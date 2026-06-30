@@ -10,7 +10,7 @@ data:
   runtime: 60
   age: 5
   origin: stock
-  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0182-98-0556-b-RfBvCHlM.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/01-0182-98-0556-b-RfBvCHlM.png
   sample: https://cdn.tonies.de/o/audio_samples/d45de7bb62972ff215c9dd8cfed3db44b6a388a42d716d32a51deb9e/hoerprobe_tkkgjunior_vorsicht_bissig.mp3
   web: https://tonies.com/de-de/tonies/tkkg-folge-2-vorsicht-bissig/
   shop-id: 4dff32b9-f918-4648-a399-80d746ecbd1a

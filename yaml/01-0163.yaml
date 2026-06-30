@@ -10,7 +10,7 @@ data:
   runtime: 19
   age: 4
   origin: stock
-  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/01-0163-98-0507-b-mHaYk14r.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/01-0163-98-0507-b-mHaYk14r.png
   sample: https://cdn.tonies.de/o/audio_samples/67b9b9aedd2d4a1610340467c8167b4c13317bb2f5b38f2f1ec87ce6/hoerprobe_kleiner_eisbaer_lars_hilft_fliegen.mp3
   web: https://tonies.com/de-de/tonies/kleiner-eisbaer/lars-hilf-mir-fliegen-lars-rettet-die-rentiere/
   shop-id: d908c641-d400-4a98-aa73-ff1f8c9f2db7

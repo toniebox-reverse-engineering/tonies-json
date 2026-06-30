@@ -10,7 +10,7 @@ data:
   runtime: 65
   age: 5
   origin: stock
-  image: https://278163f382d2bab4b036-4f5ec62496a160f3570d3b6e48fc4516.ssl.cf3.rackcdn.com/10000132-50000868-b-OPUBBioJ.png
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/10000132-50000868-b-OPUBBioJ.png
   sample: https://cdn.tonies.de/o/audio_samples/b610af468d2ecb64f7debf0581343bfd951af4a77dfe5c024b8d9007/hoerprobe_fuenf_freunde_und_das_versunkene_schiff_ext.mp3
   web: https://tonies.com/de-de/tonies/fuenf-freunde-und-das-versunkene-schiff/
   shop-id: 7dfdbb41-ed55-40f7-bd3e-0154e00a24c5
