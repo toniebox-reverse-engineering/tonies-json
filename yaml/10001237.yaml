@@ -1,0 +1,21 @@
+article: '10001237'
+lock-data: false
+data:
+- series: Avengers
+  series-id: avengers
+  episode: 'Marvel: Iron Man'
+  release: 1783900800
+  language: en-gb
+  category: audio-play
+  runtime: 53
+  age: 7
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/10001237_Transparent-eaqL5zIG.png
+  sample: https://cdn.tonies.de/o/audio_samples/7c0527e25c45df7f32b15d3a70b554d71ac956771ddd31095d7abd87/marvel_iron_man_audio_sample.mp3
+  web: https://tonies.com/en-gb/tonies/avengers/marvel-avengers-iron-man/
+  shop-id: 3cbb3d2b-65f7-47a6-9091-11b3fa8f2bba
+  track-desc:
+  - '01. STORY - Iron Man: Invincible!'
+  - '02. STORY - Iron Man: Time Warp Teamwork'
+  - '03. STORY - Iron Man: Attack of the Sludge'
+  ids: []

@@ -1,0 +1,21 @@
+article: '11003330'
+lock-data: false
+data:
+- series: Avengers
+  series-id: avengers
+  episode: 'Marvel : Captain America'
+  release: 1783900800
+  language: en-gb
+  category: audio-play
+  runtime: 53
+  age: 7
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11003330_Transparent-NqTDVITQ.png
+  sample: https://cdn.tonies.de/o/audio_samples/a9a7c951c6635495f3d882c41d40f82658c49e0d91bc2c1eeb580f24/marvel_captain_america_sample.mp3
+  web: https://tonies.com/en-gb/tonies/avengers/marvel-avengers-captain-america/
+  shop-id: e33eb12d-a03e-4237-83e3-f085ca95913e
+  track-desc:
+  - '01. STORY - Captain America: The Awesome Origin of Captain America!'
+  - '02. STORY - Captain America: America vs. Hydra'
+  - '03. STORY - Captain America: Museum Mayhem'
+  ids: []

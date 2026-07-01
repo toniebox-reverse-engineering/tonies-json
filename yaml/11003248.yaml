@@ -1,0 +1,38 @@
+article: '11003248'
+lock-data: false
+data:
+- series: CoComelon
+  series-id: cocomelon
+  episode: Moonbug - Cocomelon
+  release: 1783900800
+  language: en-gb
+  category: music
+  runtime: 65
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11003248_Transparent-qW4AnHao.png
+  sample: https://cdn.tonies.de/o/audio_samples/fd5ee6bdd31715d451cd41df7e1297e6cb4e7c46250b4c8fb4f49d17/cocomelon_audiosample.wav
+  web: https://tonies.com/en-gb/tonies/cocomelon/cocomelon-classic-jj/
+  shop-id: ffb8400f-c8fe-4ede-bef7-5a2060f04635
+  track-desc:
+  - 1. SONG - Hello Song
+  - 2. SONG - Wheels on the Bus
+  - 3. SONG - First Day of School
+  - 4. SONG - My Name Song
+  - 5. SONG - Teacher Song
+  - 6. SONG - ABC Song
+  - 7. SONG - Shape Song
+  - 8. SONG - The Colours Song
+  - 9. SONG - Sharing Song
+  - 10. SONG - Sorry Excuse Me
+  - 11. SONG - Looby Loo
+  - 12. SONG - Train Song
+  - 13. SONG - Balloon Boat Race
+  - 14. SONG - Yes Yes Vegetable Song
+  - 15. SONG - Playdate with Cody
+  - 16. SONG - Peek A Boo
+  - 17. SONG - Heads Shoulders Knees Toes
+  - 18. SONG - Boo Boo Song
+  - 19. SONG - Doctor Check Up
+  - 20. SONG - Funny Face Song
+  ids: []
