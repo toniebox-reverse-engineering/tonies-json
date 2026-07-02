@@ -2,7 +2,7 @@ article: '2000011760'
 lock-data: false
 data:
 - series: School of Talents 5
-  series-id: null
+  series-id: school-of-talents
   episode: 'Fünfte Stunde: Klassen treffen!'
   release: 1782950400
   language: de-de
@@ -10,7 +10,7 @@ data:
   runtime: 12158
   age: 8
   origin: tunes
-  image: null
+  image: https://cdn.tonies.de/o/images/bd91af73ee1fa06a89a62227659101bf2cdefed80bd25d9c2d7898a6/3_2DvvsW7Wp2rsG3p4/school_of_talents_005_school_of_talents_5__fun_530x530.jpg
   sample: https://cdn.tonies.de/o/audio_samples/e0d41052852f0cb9043a3f2370d5b5993c3139a6aeb9339633d60884/9783844933734_preview.mp3
   web: https://tonies.com/de-de/audio-content/school-of-talents-5-funfte-stunde-klassen-treffen/
   shop-id: 0e37ae0a-5678-4e09-9061-d757846afe1b

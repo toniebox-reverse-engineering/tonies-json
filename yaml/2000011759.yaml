@@ -2,7 +2,7 @@ article: '2000011759'
 lock-data: false
 data:
 - series: School of Talents 4
-  series-id: null
+  series-id: school-of-talents
   episode: 'Vierte Stunde: Schulfest im Schneckentempo!'
   release: 1782950400
   language: de-de
@@ -10,7 +10,7 @@ data:
   runtime: 10389
   age: 8
   origin: tunes
-  image: null
+  image: https://cdn.tonies.de/o/images/1_2b8b29452ad4c98e674ebb976b7f0c70b9fc13a9567ca84fadfae906/3_Trsx-t-tjStjdPFb/school_of_talents_004_school_of_talents_4__vie_530x530.jpg
   sample: https://cdn.tonies.de/o/audio_samples/4277f4edaf98a890862f693f6d5c6a3749ab3e2b07574afa20a655ce/9783844930009_preview.mp3
   web: https://tonies.com/de-de/audio-content/school-of-talents-4-vierte-stunde-schulfest-im-sch/
   shop-id: 0c31adb0-358e-414c-a41d-fe1500886f90
