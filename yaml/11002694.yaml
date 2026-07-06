@@ -1,8 +1,8 @@
 article: '11002694'
 lock-data: false
 data:
-- series: tonies® Original
-  series-id: tonies-originals
+- series: Sunspeed Explorers
+  series-id: sunspeed-explorers
   episode: The Sunspeed Explorers
   release: 1750809600
   language: en-gb
@@ -12,7 +12,7 @@ data:
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11002694_2_Landscape-4h87uzvh.jpg
   sample: https://cdn.tonies.de/o/audio_samples/d7835e2fb2a864706b89ebab4952c92c9cbd1237b1522244a8cf72d0/copy_of_sample_sunspeedexplorers1.wav
-  web: https://tonies.com/en-gb/clever-tonies/tonies-originals/the-sunspeed-explorers/
+  web: https://tonies.com/en-gb/clever-tonies/sunspeed-explorers/the-sunspeed-explorers/
   shop-id: 9813c1b9-5dbc-4d4c-8b2c-f8c3cb745d0d
   track-desc:
   - Diving In - Intro
