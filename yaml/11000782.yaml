@@ -7,7 +7,7 @@ data:
   release: 1699228800
   language: en-gb
   category: audio-play
-  runtime: 140
+  runtime: 40
   age: 4
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11000782_Square_1-sf-TvzgJy2U.jpg
@@ -15,21 +15,7 @@ data:
   web: https://tonies.com/en-gb/clever-tonies/today-with-tonies/today-with-tonies/
   shop-id: a742a774-63b0-450f-8303-6552b3c99bc9
   track-desc:
-  - Tuesday 7th July
-  - Monday 6th July
-  - Sunday 5th July
-  - Saturday 4th July
-  - Friday 3rd July
-  - Thursday 2nd July
-  - Wednesday 1st July
-  - Tuesday 30th June
-  - Monday 29th June
-  - Sunday 28th June
-  - Saturday 27th June
-  - Friday 26th June
-  - Thursday 25th June
-  - Wednesday 24th June
-  - Today With Tonies Jingle
+  - '-'
   ids:
   - audio-id: 1783292705
     hash: c511c8a6df3f23145abdc2809fd335ec6e06b9db
