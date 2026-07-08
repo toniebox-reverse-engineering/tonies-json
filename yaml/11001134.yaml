@@ -43,6 +43,11 @@ data:
   - Pettersson und Findus - Mein Gartenjahr Herbst und Winter - Teil 26
   - Pettersson und Findus - Mein Gartenjahr Herbst und Winter - Teil 27
   ids:
+  - audio-id: 1783516850
+    hash: 1af637a52e691c0c436b45a8f5e6b7551c15511f
+    size: 67286674
+    tracks: 27
+    confidence: 2
   - audio-id: 1728034508
     hash: 28b447e3418e714d631ed1bb1fbd5813cdd8b6ac
     size: 67286674

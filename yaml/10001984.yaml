@@ -24,6 +24,11 @@ data:
   - Batman Quiz
   - Der Riddler
   ids:
+  - audio-id: 1783512860
+    hash: 92c89921562e9d97479e6514950e5dcf75bbd3d0
+    size: 49394310
+    tracks: 8
+    confidence: 1
   - audio-id: 1727879244
     hash: 9c6d0252e679a16dd63b207915396d200b8b1aa3
     size: 49394310
