@@ -2,7 +2,7 @@ article: '11003409'
 lock-data: false
 data:
 - series: SuperKitties
-  series-id: superkitties
+  series-id: 5bc8c131-3875-4767-8aa7-78e87e379cf2
   episode: SuperKitties - Ginny
   release: 1783468800
   language: de-de
