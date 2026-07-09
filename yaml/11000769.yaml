@@ -15,15 +15,20 @@ data:
   web: https://tonies.com/de-de/clever-tonies/leo-und-die-abentuermaschine/leo-und-die-mondlandung-dach/
   shop-id: 8d5d24ce-d5ed-4b4f-8188-eae0f4c561a2
   track-desc:
-  - Intro
-  - Der Blick In Die Sterne
-  - Der Raketenstart
-  - Die Reise Zum Mond
-  - Die Mondlandung
-  - Der Erste Mensch Auf Dem Mond
-  - Der Rückflug
-  - Credits
+  - Intro Track 01
+  - Der Blick In Die Sterne Track 02
+  - Der Raketenstart Track 03
+  - Die Reise Zum Mond Track 04
+  - Die Mondlandung Track 05
+  - Der Erste Mensch Auf Dem Mond Track 06
+  - Der Rückflug Track 07
+  - Credits Track 08
   ids:
+  - audio-id: 1783515819
+    hash: 710de59a53bae2bf8a58216524305ba5e3932c84
+    size: 48273267
+    tracks: 8
+    confidence: 1
   - audio-id: 1709205834
     hash: 435f449f5f6a2888c36254383fbfef330adc2867
     size: 47643881

@@ -43,6 +43,11 @@ data:
   - Pettersson und Findus - Mein Gartenjahr Frühling und Sommer - Teil 26
   - Pettersson und Findus - Mein Gartenjahr Frühling und Sommer - Teil 27
   ids:
+  - audio-id: 1783516114
+    hash: e8e74de212cbb1f0480ea15606bd72422150ae5c
+    size: 72573738
+    tracks: 27
+    confidence: 1
   - audio-id: 1709205938
     hash: 0104d8105e986645e6b8f282f3524b4f30626bde
     size: 71328524

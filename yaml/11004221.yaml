@@ -1,0 +1,23 @@
+article: '11004221'
+lock-data: false
+data:
+- series: Mickey Mouse Clubhouse
+  series-id: disney-mickey-mouse-clubhouse
+  episode: Mickey Mouse Clubhouse - Minnie
+  release: 1783900800
+  language: en-gb
+  category: audio-play-songs
+  runtime: 41
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11004221_Transparent-pLfFDZbY.png
+  sample: https://cdn.tonies.de/o/audio_samples/ec3dd26bc7dbe3d672c493f0fe503200cf7765b46258e8d3c0a824bf/minnie_mch_audio_sample2.mp3
+  web: https://tonies.com/en-gb/tonies/disney-mickey-mouse-clubhouse/mickey-mouse-clubhouse-minnie/
+  shop-id: 105bce55-987b-40e5-89ff-981f90adae6c
+  track-desc:
+  - SONG - Hot Dog!
+  - SONG - Minnie Mouse Clubhouse
+  - SONG - If You're Happy And You Know It
+  - STORY - Minnie's Tune Train Storyteller
+  - STORY - Minnie's Dinner Party Storyteller
+  ids: []

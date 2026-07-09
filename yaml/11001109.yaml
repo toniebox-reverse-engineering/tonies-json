@@ -15,22 +15,67 @@ data:
   web: https://tonies.com/en-gb/clever-tonies/joke-of-the-day/joke-of-the-day/
   shop-id: c31bee4a-d638-47da-b7c5-f27bd51ebb1d
   track-desc:
+  - 8th July
+  - 7th July
+  - 6th July
+  - 5th July
+  - 4th July
+  - 3rd July
+  - 2nd July
+  - 1st July
   - 30th June
   - 29th June
   - 28th June
   - 27th June
   - 26th June
   - 25th June
-  - 24th June
-  - 23rd June
-  - 22nd June
-  - 21st June
-  - 20th June
-  - 19th June
-  - 18th June
-  - 17th June
   - Joke Of The Day Jingle
   ids:
+  - audio-id: 1783469144
+    hash: b00a8766e45d09e6ee61020b710b29a311a5d22a
+    size: 40132170
+    tracks: 15
+    confidence: 1
+  - audio-id: 1783382704
+    hash: 1732bd6ece01c2e007655bdfaeb931741b8b7fe0
+    size: 40918707
+    tracks: 15
+    confidence: 1
+  - audio-id: 1783296304
+    hash: 29120fc9a8f02078997a596cad323887ff5fe78b
+    size: 41647208
+    tracks: 15
+    confidence: 1
+  - audio-id: 1783209904
+    hash: 57c3c356c11cd261464eafefc29c4b07139a9428
+    size: 41999072
+    tracks: 15
+    confidence: 1
+  - audio-id: 1783123504
+    hash: a3930754f562e3b5f10387c70dbb6047e513fe17
+    size: 41994079
+    tracks: 15
+    confidence: 1
+  - audio-id: 1783037104
+    hash: 02b3496f6196237e82f3eabc954a0d936a510ea3
+    size: 42354884
+    tracks: 15
+    confidence: 1
+  - audio-id: 1782950704
+    hash: 0030e24cb2ce39a7f85fc09d6f00b4b9fb177905
+    size: 42446061
+    tracks: 15
+    confidence: 1
+  - audio-id: 1782864304
+    hash: 629260ecc1a052e140880bae7b6e29c22e0635d4
+    size: 41993427
+    tracks: 15
+    confidence: 1
+  - audio-id: 1782777918
+    hash: 57bde834e85a4298e5719e54623c2acc9513cf30
+    size: 41829885
+    tracks: 15
+    confidence: 1
   - audio-id: 1782691518
     hash: 945ec78cc217eeb69d7358ce9b97443c294e6d0e
     size: 41101319

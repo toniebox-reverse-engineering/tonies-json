@@ -7,7 +7,7 @@ data:
   release: 1699228800
   language: en-gb
   category: audio-play
-  runtime: 140
+  runtime: 40
   age: 4
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11000782_Square_1-sf-TvzgJy2U.jpg
@@ -15,22 +15,67 @@ data:
   web: https://tonies.com/en-gb/clever-tonies/today-with-tonies/today-with-tonies/
   shop-id: a742a774-63b0-450f-8303-6552b3c99bc9
   track-desc:
+  - Wednesday 8th July
+  - Tuesday 7th July
+  - Monday 6th July
+  - Sunday 5th July
+  - Saturday 4th July
+  - Friday 3rd July
+  - Thursday 2nd July
+  - Wednesday 1st July
   - Tuesday 30th June
   - Monday 29th June
   - Sunday 28th June
   - Saturday 27th June
   - Friday 26th June
   - Thursday 25th June
-  - Wednesday 24th June
-  - Tuesday 23rd June
-  - Monday 22nd June
-  - Sunday 21st June
-  - Saturday 20th June
-  - Friday 19th June
-  - Thurdsay 18th June
-  - Wednesday 17th June
   - Today With Tonies Jingle
   ids:
+  - audio-id: 1783465544
+    hash: fb34968cf37c6dc90165a0c110121220db659d13
+    size: 154705126
+    tracks: 15
+    confidence: 1
+  - audio-id: 1783379104
+    hash: 646979087bdbe41aca7dedae0ef7f0ce8eb03e63
+    size: 156638438
+    tracks: 15
+    confidence: 1
+  - audio-id: 1783292705
+    hash: c511c8a6df3f23145abdc2809fd335ec6e06b9db
+    size: 156642534
+    tracks: 15
+    confidence: 1
+  - audio-id: 1783206304
+    hash: 442b53bfc58563ba23803dc7bcfb3ccebc0e614d
+    size: 158104806
+    tracks: 15
+    confidence: 1
+  - audio-id: 1783119904
+    hash: da16bf74b22f4f04e46324d1e0b2819130c1ce76
+    size: 158035174
+    tracks: 15
+    confidence: 1
+  - audio-id: 1783033504
+    hash: e1ef900bcf4c51d8aad8c50bfedd1aa2898ecb5d
+    size: 157150438
+    tracks: 15
+    confidence: 1
+  - audio-id: 1782947104
+    hash: ff8dd41d0088bfa8a87808db1f837bec0131e5fc
+    size: 156380390
+    tracks: 15
+    confidence: 1
+  - audio-id: 1782860704
+    hash: def6a8c549b06645a1edd453cc734d5f3192a264
+    size: 158297318
+    tracks: 15
+    confidence: 1
+  - audio-id: 1782774318
+    hash: 19dec820dbbba54a4896970b5b6e32b0c3fc10e0
+    size: 156019942
+    tracks: 15
+    confidence: 1
   - audio-id: 1782687918
     hash: ee4990cb6d5e690a5f3df62f7115245a95c447f2
     size: 155856102

@@ -1,0 +1,44 @@
+article: '10001931'
+lock-data: false
+data:
+- series: Pinkfong
+  series-id: pinkfong
+  episode: Baby Shark
+  release: 1783900800
+  language: en-gb
+  category: music
+  runtime: 34
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/10001931_Transparent-KbLKY5mg.png
+  sample: https://cdn.tonies.de/o/audio_samples/ae01979965146200d123ff05179755dfd683b387514e225b32a7d8ab/baby_shark_audio_sample.mp3
+  web: https://tonies.com/en-gb/tonies/pinkfong/baby-shark/
+  shop-id: 0060b1af-cb7e-4e86-905b-1691ae21c08a
+  track-desc:
+  - 01. SONG - Baby Shark
+  - 02. SONG - Baby Shark on the Bus
+  - 03. SONG - Good Morning
+  - 04. SONG - Baby Shark
+  - 05. SONG - Baby Shark on the Bus
+  - 06. SONG - Good Morning
+  - 07. SONG - Shark Finger Family
+  - 08. SONG - Baby Shark is Lost in the Forest
+  - 09. SONG - Monkey Banana
+  - 10. SONG - Shark 123
+  - 11. SONG - Shark ABC
+  - 12. SONG - Wacky Sharky Family
+  - 13. SONG - Eensy Weensy Baby Spiders
+  - 14. SONG - Where Did My Color Go
+  - 15. SONG - Pirate Baby Shark
+  - 16. SONG - I Love You Super-Duper
+  - 17. SONG - S-H-A-R-K
+  - 18. SONG - Have You Ever Seen Shark’s Tail
+  - 19. SONG - Baby Shark Hiccup
+  - 20. SONG - Boogers
+  - 21. SONG - Wash Your Hands with Baby Shark
+  - 22. SONG - Dust Your Worries Away
+  - 23. SONG - I’m Really Really Angry
+  - 24. SONG - If Sharks Are Happy
+  - 25. SONG - Twinkle Twinkle Little Shark
+  - 26. SONG - Baby Shark Lullaby
+  ids: []
