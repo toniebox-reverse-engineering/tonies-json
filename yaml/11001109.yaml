@@ -31,6 +31,11 @@ data:
   - 30th June
   - Joke Of The Day Jingle
   ids:
+  - audio-id: 1783901141
+    hash: 7e4419fac0f29e6036b6e0b744f556936f7cc454
+    size: 38405668
+    tracks: 15
+    confidence: 1
   - audio-id: 1783814742
     hash: 7f2380e2833da92af73f8be334217972feb7a9a3
     size: 38857612

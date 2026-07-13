@@ -24,6 +24,11 @@ data:
   - 07 Kurt Einhorn wider Willen - Magie
   - 08 Kurt Einhorn wider Willen - Rosen
   ids:
+  - audio-id: 1783950543
+    hash: 9258d1538ac112607d48627006751fedf00c72a0
+    size: 47967400
+    tracks: 8
+    confidence: 1
   - audio-id: 1747232683
     hash: e0b2f7fdb6fe18ac623d5616909a40a68dd06d06
     size: 47967400
