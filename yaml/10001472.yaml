@@ -3,7 +3,7 @@ lock-data: false
 data:
 - series: PAW Patrol
   series-id: paw-patrol
-  episode: Der Piratenschatz
+  episode: Rubble - Der Piratenschatz
   release: 1668038400
   language: de-de
   category: audio-play
