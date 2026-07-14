@@ -26,6 +26,11 @@ data:
   - 09 Ela das All eroberte
   - 10 Ela das All eroberte
   ids:
+  - audio-id: 1784027895
+    hash: 6cfe75565b7853d0ff051688e74ddeea300a25d9
+    size: 60684534
+    tracks: 10
+    confidence: 1
   - audio-id: 1749801509
     hash: cf488c1623373fe76dfc3b5164d58f9ed26ffd4f
     size: 60684534

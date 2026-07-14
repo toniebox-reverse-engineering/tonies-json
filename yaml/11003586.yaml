@@ -35,6 +35,11 @@ data:
   - Ein neuer Mensch 1
   - Ein neuer Mensch 2
   ids:
+  - audio-id: 1784032893
+    hash: 7c92991f6a67fc4bbfdb280be7b615b13b78db41
+    size: 104263153
+    tracks: 19
+    confidence: 2
   - audio-id: 1754476794
     hash: 94bb0a1d89a7a290d44b9d0960db4ceee29c50e9
     size: 104263153

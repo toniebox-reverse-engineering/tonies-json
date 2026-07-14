@@ -39,6 +39,11 @@ data:
   - Eine halbe Stunde später ...
   - Plötzlich öffnete sich die Ladentür ...
   ids:
+  - audio-id: 1784025222
+    hash: 2206846cd1441e113426cd7ca140161cbdf791fa
+    size: 116188829
+    tracks: 23
+    confidence: 1
   - audio-id: 1747232532
     hash: e3500805aec94d2bf07ce7ef4e91bf3f2b83d36f
     size: 116188829
