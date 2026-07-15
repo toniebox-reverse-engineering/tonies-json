@@ -1,0 +1,24 @@
+article: '11003410'
+lock-data: false
+data:
+- series: Toy Story
+  series-id: disney-toy-story
+  episode: Toy Story 5
+  release: 1786492800
+  language: de-de
+  category: audio-play
+  runtime: 60
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11003410_1_a-YoLxDR44.png
+  sample: null
+  web: https://tonies.com/de-de/tonies/disney-toy-story/toy-story-5-bullseye-tonie/
+  shop-id: 76483d49-07ef-4303-8734-634c6acd82b8
+  track-desc:
+  - 'Kapitel 01: Toy Story 5'
+  - 'Kapitel 02: Toy Story 5'
+  - 'Kapitel 03: Toy Story 5'
+  - 'Kapitel 04: Toy Story 5'
+  - 'Kapitel 05: Toy Story 5'
+  - 'Kapitel 06: Toy Story 5'
+  ids: []

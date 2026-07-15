@@ -1,0 +1,36 @@
+article: '11005608'
+lock-data: false
+data:
+- series: FC Bayern München
+  series-id: fc-bayern-muenchen
+  episode: Die Welt des FC Bayern
+  release: 1786492800
+  language: de-de
+  category: audio-play
+  runtime: 198
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11005608_3_a_new-Fv--pabh.png
+  sample: null
+  web: https://tonies.com/de-de/clever-tonies/fc-bayern-muenchen/die-welt-des-fc-bayern-pocket-tonie/
+  shop-id: 1e18c438-f92f-4754-b3a0-03d0cf5d7072
+  track-desc:
+  - Der magische Fußball
+  - Wo steckt der Teamgeist?
+  - Weitermachen lohnt sich
+  - Eine Arena voller Gefühle
+  - Wenn das Stadion leise wird...
+  - Die Entdeckung der Schatzkammer
+  - Was Profis so stark macht
+  - Ganz schön hoch hinaus
+  - Fußball ist für alle da
+  - Hier beginnt der Traum
+  - Der große Sprung
+  - Kann jeder Profi werden?
+  - Der FC Bayern und seine Sterne
+  - Wie alles begann
+  - Der Kaiser und der Bomber
+  - Gemeinsam feiern
+  - In der ganzen Welt unterwegs
+  - Mia san Mia
+  ids: []
