@@ -1,0 +1,23 @@
+article: '11003868'
+lock-data: false
+data:
+- series: null
+  series-id: null
+  episode: null
+  release: 0
+  language: null
+  category: null
+  runtime: 0
+  age: 99
+  origin: null
+  image: null
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1775048590
+    hash: d943fc5a2760386463c06f89c8f9ec28bc7f511a
+    size: 26888452
+    tracks: 8
+    confidence: 1
