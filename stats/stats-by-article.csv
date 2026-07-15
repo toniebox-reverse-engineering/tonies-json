@@ -1367,6 +1367,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000729,Jasmine,disney-jasmine,Jasmine,en-gb,audio-play-songs,stock,5a3f3dfa-bab3-4ec2-b12a-10f3283bc182,https://tonies.com/en-gb/tonies/jasmine/,1,2,2,0
 11000730,Horrible Histories,horrible-histories,Vicious Vikings,en-gb,audio-book,stock,c165654e-4ec3-4c06-82fa-99d2de13f18c,https://tonies.com/en-gb/tonies/horrible-histories/vicious-vikings/,1,2,2,0
 11000732,Judith Kerr,judith-kerr,The Tiger Who Came to Tea,en-gb,audio-book,stock,020db413-0976-46f0-ba3b-0c8ff07ae560,https://tonies.com/en-gb/tonies/judith-kerr/the-tiger-who-came-to-tea/,1,1,1,0
+11000735,Avengers,avengers,Iron Man,de-de,audio-play,stock,ddb04683-1c90-40e0-b83f-26970f4668ce,https://tonies.com/de-de/tonies/avengers/marvel-avengers-iron-man-tonie/,1,0,0,0
 11000736,Lieblings-Klassiker,mes-classiques-preferes,Der Zauberer von Oz und zwei weitere Klassiker,de-de,audio-book,stock,6c4a4d73-bce2-4960-a05b-7369c90e62bd,https://tonies.com/de-de/tonies/lieblings-klassiker/der-zauberer-von-oz-und-zwei-weitere-klassiker/,1,1,1,0
 11000737,Jasmin,jasmine,Jasmin,de-de,audio-play,stock,f1acb7cf-0037-433a-9ea8-037b4e308a9d,https://tonies.com/de-de/tonies/disney-jasmin/prinzessin-jasmin/,1,1,1,0
 11000739,Kung Fu Panda,kung-fu-panda,Kung Fu Panda,de-de,audio-play,stock,ad0985a4-9351-4345-a978-877693353487,https://tonies.com/de-de/tonies/kung-fu-panda/kung-fu-panda/,1,1,0,0
@@ -1795,11 +1796,14 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11003322,Peppa Pig,,The New Baby Sister,en-us,Tonie,stock,9425040572567,,1,0,0,0
 11003328,Der Grüffelo,der-gruffelo,Der Grüffelo & Das Grüffelokind (Relaunch 2026),de-de,audio-play,stock,dafccb91-1e48-4a46-8704-58d26af2b8d5,https://tonies.com/de-de/tonies/der-grueffelo/der-grueffelo-das-grueffelokind-relaunch-2026/,1,2,2,0
 11003330,Avengers,avengers,Marvel : Captain America,en-gb,audio-play,stock,e33eb12d-a03e-4237-83e3-f085ca95913e,https://tonies.com/en-gb/tonies/avengers/marvel-avengers-captain-america/,1,0,0,0
+11003331,Avengers,avengers,Captain America,de-de,audio-play,stock,9b2b1dca-1772-41d1-b6a0-436a829a5956,https://tonies.com/de-de/tonies/avengers/marvel-avengers-captain-america-tonie/,1,0,0,0
 11003332,MARVEL Spider-Man,,,en-us,Tonie,stock,9620437991575,,1,0,0,0
 11003333,Spider-Man,spider-man,Marvel: Spider-Man,en-gb,audio-play,stock,23c1261d-e004-41c3-9b63-b0dddff0ae34,https://tonies.com/en-gb/tonies/spider-man/marvel-spider-man/,1,0,0,0
+11003334,Spider-Man,spider-man,Spider-Man,de-de,audio-play,stock,01ac9d92-5ff1-4e49-8ec3-46be6d8d2300,https://tonies.com/de-de/tonies/spider-man/marvel-avengers-spider-man-tonie/,1,0,0,0
 11003336,Winnie Puuh,disney-winnie-the-pooh,Ferkels großes Abenteuer,de-de,audio-play,stock,44c8af68-8cdd-49ec-b660-2352dffe5dad,https://tonies.com/de-de/tonies/disney-winnie-puuh/ferkels-grosses-abenteuer/,1,0,0,0
 11003337,Winnie Puuh,disney-winnie-the-pooh,I-Aah,de-de,audio-play,stock,f20ef4d9-c7b2-475d-9659-6cdd64973481,https://tonies.com/de-de/tonies/disney-winnie-puuh/winnie-puuh-i-aah/,1,0,0,0
 11003409,SuperKitties,5bc8c131-3875-4767-8aa7-78e87e379cf2,SuperKitties - Ginny,de-de,audio-play,stock,7e90a844-2a3e-424b-be3d-7985330138d0,https://tonies.com/de-de/tonies/superkitties/superkitties-ginny-tonie/,1,0,0,0
+11003410,Toy Story,disney-toy-story,Toy Story 5,de-de,audio-play,stock,76483d49-07ef-4303-8734-634c6acd82b8,https://tonies.com/de-de/tonies/disney-toy-story/toy-story-5-bullseye-tonie/,1,0,0,0
 11003411,Tierische Sportsfreunde,tierische-sportsfreunde,Das große Fußballturnier,de-de,audio-play,stock,8b3f0461-cfe1-4438-9ad0-1b9b0a22682f,https://tonies.com/de-de/tonies/tierische-sportsfreunde/das-grosse-fussballturnier/,1,0,0,0
 11003416,Micky Maus Wunderhaus,disney-micky-maus-wunderhaus,Micky Maus Wunderhaus - Micky,de-de,audio-play-songs,stock,40d4507c-e488-491c-a34b-bf119efbba80,https://tonies.com/de-de/tonies/disney-micky-maus-wunderhaus/micky-maus-wunderhaus-tonie/,1,0,0,0
 11003418,Micky Maus Wunderhaus,disney-micky-maus-wunderhaus,Micky Maus Wunderhaus - Minnie,de-de,audio-play-songs,stock,c776eca0-c6b3-43a8-92b5-a172df2b16c6,https://tonies.com/de-de/tonies/disney-micky-maus-wunderhaus/minnie-maus-wunderhaus-tonie/,1,0,0,0
@@ -1841,6 +1845,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11003771,GEOlino,geo,"GEOlino Mini - Alles über Polizei, Feuerwehr und Rettung",de-de,audio-play,stock,ca0468c6-4a01-4cb1-9f16-0b554127f5f7,https://tonies.com/de-de/clever-tonies/geo/geolino-mini-alles-ueber-polizei-feuerwehr-und-rettung/,1,1,1,0
 11003772,Lichterkinder,lichterkinder-2,Lichterkinder - Das kleine 1x1,de-de,music,stock,0ab2c74f-0fce-43ef-a043-940eef333eca,https://tonies.com/de-de/clever-tonies/lichterkinder/das-kleine-einmaleins/,1,1,1,0
 11003773,MIRA und das fliegende Haus,mira,MIRA und das fliegende Haus - Der Familienzauber,de-de,audio-play,stock,fcbb6954-3ffe-42fc-8872-618cefe1608c,https://tonies.com/de-de/clever-tonies/mira/mira-und-das-fliegende-haus-der-familienzauber/,1,1,1,0
+11003779,DIKKA,dikka,DIKKA - Boom Schakkalakka,de-de,music,stock,a9bb2f15-a257-42e2-8146-d99af97fdb77,https://tonies.com/de-de/tonies/dikka/dikka-boom-schakkalakka-tonie/,1,0,0,0
 11003780,Die Schlümpfe,die-schlumpfe,Hefty Schlumpf - Wer ist heftiger? & 3 weitere schlumpfige Abenteuer,de-de,audio-play,stock,e874deb3-9c10-456b-86a9-b77856207b2d,https://tonies.com/de-de/tonies/die-schluempfe/hefty-schlumpf/,1,1,1,0
 11003830,Ocean My First Tonies Set,,3 Pack,en-us,Tonie,stock,9568546259095,,1,0,0,0
 11003833,Sous l'océan,ocean-set,Coffret Mes Premiers Tonies - Sous L'Océan,fr-fr,audio-play-songs,stock,0ca4b8e0-caba-41c7-9fa9-d1494c77b64a,https://tonies.com/fr-fr/mes-premiers-tonies/sous-l-ocean/mes-premiers-tonies-sous-l-ocean/,1,0,0,0
@@ -1885,6 +1890,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11004737,Ella,ella,Ella in der Schule,de-de,audio-book,stock,0b255375-dfe5-4512-b7cd-deccdf682100,https://tonies.com/de-de/book-tonies/ella/ella-in-der-schule-als-book-tonie/,1,0,0,0
 11004859,Sommerby,sommerby,Ein Sommer in Sommerby,de-de,audio-book,stock,a0228e54-64f1-4652-9e7c-15e8fe9067f4,https://tonies.com/de-de/book-tonies/sommerby/ein-sommer-in-sommerby/,1,0,0,0
 11004910,America's 250th Anniversary Creative,,,en-us,Tonie,stock,9493729018007,,1,0,0,0
+11005608,FC Bayern München,fc-bayern-muenchen,Die Welt des FC Bayern,de-de,audio-play,stock,1e18c438-f92f-4754-b3a0-03d0cf5d7072,https://tonies.com/de-de/clever-tonies/fc-bayern-muenchen/die-welt-des-fc-bayern-pocket-tonie/,1,0,0,0
 11111111,Coming Soon Tonie 2,,,en-us,Tonie,stock,8416058638487,,1,0,0,0
 123456789,TEST Copy of Disney Encanto,,,en-us,Tonie,stock,9132808765591,,1,0,0,0
 2000000000,Benjamin Blümchen,benjamin-bluemchen,5:0 für Benjamin,de-de,audio-play,tunes,216ab895-8d92-44e7-b3ae-cb085cf5ada7,https://tonies.com/de-de/audio-content/benjamin-bluemchen/50-fur-benjamin/,1,0,0,0
