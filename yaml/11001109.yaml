@@ -31,6 +31,11 @@ data:
   - 4th July
   - Joke Of The Day Jingle
   ids:
+  - audio-id: 1784246711
+    hash: 6125a3364b313bf0acdf32e95f4a7d487c05890c
+    size: 37944869
+    tracks: 15
+    confidence: 1
   - audio-id: 1784160339
     hash: 0869e1ad26b9e166d2f3b0a1b28b11c877421436
     size: 37316387
