@@ -1,0 +1,24 @@
+article: '2000011693'
+lock-data: false
+data:
+- series: Lalalinos
+  series-id: stronger-together
+  episode: Music In Us - Cosmo
+  release: 1784332800
+  language: en-gb
+  category: audio-play-songs
+  runtime: 2798
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_9af87d71f8bebb2fb2d4c6640fa8ffbe9ba0522881a4df19c553e67c/3_WNjKBFSFj.lp-Bfh/lalalinos_music_in_us_cosmo_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/357102c105c9691aad1ab7c89a8749ee28d58bb867018658b06da085/cosmo_s2_audiosample.wav
+  web: https://tonies.com/en-gb/audio-content/stronger-together/lalalinos-cosmos-music-in-us-digital/
+  shop-id: be164682-fb74-469a-b15d-1dad58386bec
+  track-desc:
+  - Theme Song
+  - Intro
+  - Bumbaloo Boogie
+  - A Case Of The Bibbleups
+  - Cosmo's Thingy Try-a-Thon
+  - Beat The Cold
+  ids: []

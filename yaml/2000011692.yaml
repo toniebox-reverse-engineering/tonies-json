@@ -1,0 +1,24 @@
+article: '2000011692'
+lock-data: false
+data:
+- series: Lalalinos
+  series-id: stronger-together
+  episode: Scout
+  release: 1784332800
+  language: en-gb
+  category: audio-play-songs
+  runtime: 2846
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_8a6a4d426f749fbda564ba321871bc9c8bd88f16ea77e1889ae76dba/3_KXMS7cdkFsbZzX8s/lalalinos_scout_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/8d1d323421db194732dde25ad698cb0a1f72d4ac942e8cea7641a964/scount_s2_audio_sample.wav
+  web: https://tonies.com/en-gb/audio-content/stronger-together/lalalinos-scout-stronger-together-digital/
+  shop-id: 772c990e-662a-4cda-9ae0-0967e50aed7d
+  track-desc:
+  - LaLaLost chicks
+  - Theme Song
+  - O Bumbaloo
+  - Intro
+  - The Missing Music
+  - The Copy Cats
+  ids: []
