@@ -2,7 +2,7 @@ article: '11000197'
 lock-data: false
 data:
 - series: Favourite Myths
-  series-id: favourite-myths
+  series-id: favorite-myths-2
   episode: Pegasus (Greek Myths)
   release: 1720742400
   language: en-gb
@@ -16,12 +16,12 @@ data:
   shop-id: 2fb4d9e4-476e-47af-8afd-1020f9ecd45b
   track-desc:
   - INTRO
-  - STORY - The Creation of the World
-  - STORY - Theseus and the Minotaur
-  - STORY -  Demeter and Persephone
-  - STORY - Perseus and Medusa
-  - STORY -  Pegasus and Bellerophon
-  - EPILOGUE
+  - 'STORY: The Creation of the World'
+  - 'STORY: Theseus and The Minotaur'
+  - 'STORY: Demeter and Persephone'
+  - 'STORY: Perseus and Medusa'
+  - 'STORY: Pegasus and Bellerophon'
+  - OUTRO
   ids:
   - audio-id: 1721820472
     hash: e9da60dfbe97183c711e1c0c2d3067d77d71f409

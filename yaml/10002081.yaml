@@ -1,7 +1,7 @@
 article: '10002081'
 lock-data: false
 data:
-- series: Paw Patrol
+- series: PAW Patrol
   series-id: paw-patrol
   episode: Everest
   release: 1681948800
@@ -15,8 +15,12 @@ data:
   web: https://tonies.com/en-gb/tonies/paw-patrol/everest/
   shop-id: b0b9c565-d84e-4087-ae5b-2d11082779d8
   track-desc:
-  - PAW Patrol Theme Song
-  - The New Pup
-  - Pups Save the Deer
-  - Pups and a Whale of a Tale
+  - Intro
+  - SONG - PAW Patrol Theme Song
+  - STORY - The New Pup
+  - Interstitial 1
+  - STORY - Pups Save the Deer
+  - Interstitial 2
+  - STORY - Pups and a Whale of a Tale
+  - Outro
   ids: []

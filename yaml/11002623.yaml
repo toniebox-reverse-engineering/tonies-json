@@ -2,7 +2,7 @@ article: '11002623'
 lock-data: false
 data:
 - series: Peppa Pig
-  series-id: peppa-pig
+  series-id: peppa-pig-2
   episode: Peppa und das neue Baby
   release: 1773187200
   language: de-de
@@ -15,13 +15,13 @@ data:
   web: https://tonies.com/de-de/tonies/peppa-pig/peppa-und-das-neue-baby/
   shop-id: 7febc22f-9352-4073-9702-2c6b84532d89
   track-desc:
-  - Die große Neuigkeit
-  - Der Geschwisterkurs
-  - Patchwork Decke
-  - Das neue Baby
-  - Babynamen
-  - Das Baby halten
-  - Mama-Zeit
+  - Peppa Pig Das Neue Baby 1 Die Grosse Neuigkeit
+  - Peppa Pig Das Neue Baby 2 Der Geschwisterkurs
+  - Peppa Pig Das Neue Baby 3 Patchwork Decke
+  - Peppa Pig Das Neue Baby 4 Das Neue Baby
+  - Peppa Pig Das Neue Baby 5 Babynamen
+  - Peppa Pig Das Neue Baby 6 Das Baby Halten
+  - Peppa Pig Das Neue Baby 7 Mama-Zeit
   ids:
   - audio-id: 1770710931
     hash: 8ac55023a9881594df209418da4192b6dd726a9e

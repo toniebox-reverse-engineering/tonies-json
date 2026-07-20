@@ -1,19 +1,24 @@
 article: '10002052'
 lock-data: false
 data:
-- series: Disney
-  series-id: disney
+- series: Hercules
+  series-id: disney-hercules
   episode: Hercules
   release: 1708387200
   language: en-gb
   category: audio-play-songs
   runtime: 47
-  age: 5
+  age: 4
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/Image%202-SuN1jfmD.png
   sample: https://cdn.tonies.de/o/audio_samples/883f615bdffc9a624ee43d1d0e88f510cc1f7fc7706648b0fda6eddf/10002052_hercules_sample.wav
-  web: https://tonies.com/en-gb/tonies/disney/hercules/
+  web: https://tonies.com/en-gb/tonies/disney-hercules/hercules/
   shop-id: 0b3ec635-3e26-407e-b063-a4cea3649ea9
   track-desc:
-  - Hercules
+  - Hercules Part 1
+  - Hercules Part 2
+  - Hercules Part 3
+  - Hercules Part 4
+  - Hercules Part 5
+  - Hercules Part 6
   ids: []

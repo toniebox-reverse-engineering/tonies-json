@@ -1,7 +1,7 @@
 article: '11000224'
 lock-data: false
 data:
-- series: Paw Patrol
+- series: PAW Patrol
   series-id: paw-patrol
   episode: Rocky
   release: 1681948800
@@ -15,9 +15,14 @@ data:
   web: https://tonies.com/en-gb/tonies/paw-patrol/rocky/
   shop-id: 4974cfd8-9943-41b0-bb38-0f8f30cfead3
   track-desc:
-  - PAW Patrol Theme Song
-  - Pups Save the Honey
-  - Rocky Saves Himself
-  - 'Ultimate Rescue: Pups and the Hidden Golden Bones'
-  - Pups Save a Trash-Dinger
+  - 01. INTRO
+  - 02. SONG - PAW Patrol Theme Song
+  - 03. STORY - Pups Save the Honey
+  - 04. INTERLUDE
+  - 05. STORY - Rocky Saves Himself
+  - 06. INTERLUDE
+  - '07. STORY - Ultimate Rescue: Pups and the Hidden Golden Bones'
+  - 08. INTERLUDE
+  - 09. STORY - Pups Save a Trash-Dinger
+  - 10. OUTRO
   ids: []

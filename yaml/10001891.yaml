@@ -1,18 +1,18 @@
 article: '10001891'
 lock-data: false
 data:
-- series: Disney
-  series-id: disney
+- series: Coco
+  series-id: disney-coco
   episode: Coco
   release: 1666137600
   language: en-gb
   category: audio-play-songs
   runtime: 46
-  age: 3
+  age: 5
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/10001891-50005919-b-0Nf6C1aU.png
   sample: https://cdn.tonies.de/o/audio_samples/da401dd394e064e8a8b2c22848badb316f4528331682cec9b70df3ca/coco_audiosample.wav
-  web: https://tonies.com/en-gb/tonies/disney/coco/
+  web: https://tonies.com/en-gb/tonies/disney-coco/coco/
   shop-id: c9e09f10-ea65-429e-b924-e8ec167def7b
   track-desc:
   - Remember Me (Dúo)
