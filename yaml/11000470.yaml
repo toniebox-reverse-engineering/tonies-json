@@ -20,6 +20,11 @@ data:
   - Magical Moshlight Body Scan - Meditation track
   - Symphony for SleepyPaws - Instrumental
   ids:
+  - audio-id: 1784540512
+    hash: 3c92b5234cbfe36c16a120d619b8293149dd9474
+    size: 60527564
+    tracks: 4
+    confidence: 1
   - audio-id: 1759219107
     hash: c76e416f2392736278c1334920b0a25169157c39
     size: 60539897
