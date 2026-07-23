@@ -31,6 +31,11 @@ data:
   - 10th July
   - Joke Of The Day Jingle
   ids:
+  - audio-id: 1784765125
+    hash: 6e234808fa3e1572a9a100345433f4623438317d
+    size: 34400846
+    tracks: 15
+    confidence: 1
   - audio-id: 1784678724
     hash: 0c70281ddfe34abacad007b54b69a231fd8c6050
     size: 34991136
