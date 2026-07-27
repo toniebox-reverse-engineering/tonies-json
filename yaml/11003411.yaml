@@ -29,4 +29,9 @@ data:
   - Ein Gewinner Mit Herz 2
   - Ein Gewinner Mit Herz 3
   - Abpfiff
-  ids: []
+  ids:
+  - audio-id: 1774361120
+    hash: 17d52d81cc172ffcdd66e0a77bbbb9e916ffd37c
+    size: 46105503
+    tracks: 14
+    confidence: 1

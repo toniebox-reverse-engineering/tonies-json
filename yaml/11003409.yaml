@@ -21,4 +21,9 @@ data:
   - Die SuperKitties und die verschwundenen Valentinskarten
   - Die SuperKitties und die goldenen Glöckchen
   - Die SuperKitties - Abspann
-  ids: []
+  ids:
+  - audio-id: 1779965732
+    hash: cc1d553cdae2eb0265ff7338901915f624d4da56
+    size: 42417460
+    tracks: 6
+    confidence: 1
