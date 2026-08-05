@@ -11,7 +11,7 @@ data:
   age: 5
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11005608_3_a_new-Fv--pabh.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/e1ba543417a27260e5ff788c10d9185e63d29c2df19bf1143f81032c/horprobe_die_welt_des_fc_bayerns.wav
   web: https://tonies.com/de-de/clever-tonies/fc-bayern-muenchen/die-welt-des-fc-bayern-pocket-tonie/
   shop-id: 1e18c438-f92f-4754-b3a0-03d0cf5d7072
   track-desc:
