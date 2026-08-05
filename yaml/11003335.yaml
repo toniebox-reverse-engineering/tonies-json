@@ -1,0 +1,21 @@
+article: '11003335'
+lock-data: false
+data:
+- series: Marvel
+  series-id: avengers-2
+  episode: Spider-Man
+  release: 1785369600
+  language: fr-fr
+  category: audio-play
+  runtime: 55
+  age: 7
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51017932-Tonie_Shado-Y2AYbAbg.png
+  sample: https://cdn.tonies.de/o/audio_samples/c8cc9e5898c373563e5b82aa8cf2e7beaafa7d99c2183fdfc94209a5/11003335_marvel_spider_man_extraitwav.wav
+  web: https://tonies.com/fr-fr/tonies/marvel/spider-man/
+  shop-id: da266bfe-9358-4736-8202-28aa86856966
+  track-desc:
+  - L'histoire de Spider-Man
+  - Le choc des éléments
+  - Les envahisseurs du portail
+  ids: []

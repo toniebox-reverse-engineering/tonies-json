@@ -1,0 +1,21 @@
+article: '11004219'
+lock-data: false
+data:
+- series: Marvel
+  series-id: marvel
+  episode: Iron Man
+  release: 1785369600
+  language: fr-fr
+  category: audio-play
+  runtime: 53
+  age: 7
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/50003774-Tonie_Shado-TkB5P3vw.png
+  sample: https://cdn.tonies.de/o/audio_samples/acf6ebb310cda56e53f80a5ec9d6dd542b6703fb591caa4aa54c733a/11004219_marvel_iron_man_extraitwav.wav
+  web: https://tonies.com/fr-fr/tonies/marvel/iron-man/
+  shop-id: bd01896e-0b5b-4a29-adc0-f26dd2dda5e9
+  track-desc:
+  - 'MARVEL Iron Man : Invincible !'
+  - 'MARVEL Iron Man : Une aventure spatio-temporelle !'
+  - 'MARVEL Iron Man : Attaque Toxique !'
+  ids: []

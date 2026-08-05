@@ -1,0 +1,24 @@
+article: '2000011772'
+lock-data: false
+data:
+- series: Lalalinos
+  series-id: stronger-together
+  episode: Friendaloo Songs - The Music Album
+  release: 1785369600
+  language: en-us
+  category: music
+  runtime: 1015
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_1ea4c6981ed59d87f93b1dee0d15cda7c9ef53b1f987e92829684bb7/3_SKSzX6YBpN.XrBW1/lalalinos_friendaloo_songs_the_music_album_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/35a2d1facad33322e65e47e86d491f9e246bf0151c3728b65f0d0ae6/lalalinos_friendaloo_day_album_sample.wav
+  web: https://tonies.com/en-gb/audio-content/stronger-together/friendaloo-songs-the-music-album/
+  shop-id: ee9da906-697b-4e14-bfdb-002bb5a5fc89
+  track-desc:
+  - Friendship is Forever
+  - Friendaloo Day
+  - Harmony
+  - My Friendaloo
+  - Poof Magic
+  - We Click Tight
+  ids: []

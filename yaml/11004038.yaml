@@ -1,0 +1,19 @@
+article: '11004038'
+lock-data: false
+data:
+- series: Toy Story
+  series-id: toy-story-2
+  episode: Toy Story 5
+  release: 1785369600
+  language: fr-fr
+  category: audio-play
+  runtime: 47
+  age: 4
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51017729-Tonie_Shado-7GDencPw.png
+  sample: https://cdn.tonies.de/o/audio_samples/7b72da07b1771192327c12d4bd6090bbb61751ccfe13a747180fd073/toy_story_5_fr_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/disney-toy-story/toy-story-5/
+  shop-id: e0f8f518-1995-47b2-b4fc-f709f650ca1e
+  track-desc:
+  - Toy Story 5 - Le film
+  ids: []

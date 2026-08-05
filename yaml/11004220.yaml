@@ -1,0 +1,21 @@
+article: '11004220'
+lock-data: false
+data:
+- series: Marvel
+  series-id: marvel
+  episode: Captain America
+  release: 1785369600
+  language: fr-fr
+  category: audio-play
+  runtime: 53
+  age: 7
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51009373-Tonie_Shado-GQxRZ53f.png
+  sample: https://cdn.tonies.de/o/audio_samples/cd8124e0f46f7f1d11912023930090fe5d7083f57fa22bdcb4cbb0f6/11004220_marvel_captain_america_extraitwav.wav
+  web: https://tonies.com/fr-fr/tonies/marvel/captain-america/
+  shop-id: 019e00a7-129e-4651-9b6c-e2e893f2e37c
+  track-desc:
+  - Les origines de Captain America
+  - L’Amérique contre Hydra
+  - Panique au Musée
+  ids: []
