@@ -1,0 +1,28 @@
+article: '10001644'
+lock-data: false
+data:
+- series: Bluey
+  series-id: bluey
+  episode: Bluey Tonie
+  release: 1788480000
+  language: en-gb
+  category: audio-play
+  runtime: 47
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/bluey-q-LIa1NY.png
+  sample: https://cdn.tonies.de/o/audio_samples/24a9f475a6b0fe51e95ff7c3a1c49f92d1ed57c957b3871e08b9c1ba/bluey_audio_sample.wav
+  web: https://tonies.com/en-gb/tonies/bluey/bluey/
+  shop-id: b2a99f05-effd-4c75-8f50-dd89a09ea9bb
+  track-desc:
+  - 01. INTRO - Dan Brumm Intro
+  - 02. SONG - THEME SONG
+  - 03. EPISODE - GRANNIES
+  - 04. EPISODE - DUCK CAKE
+  - 05. EPISODE - PROMISES
+  - 06. EPISODE - DOUBLE BABYSITTER
+  - 07. EPISODE - EARLY BABY
+  - 08. EPISODE - THE CREEK
+  - 09. EPISODE - CAMPING
+  - 10. OUTRO – THEME SONG
+  ids: []

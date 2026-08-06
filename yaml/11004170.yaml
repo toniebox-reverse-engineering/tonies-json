@@ -1,0 +1,53 @@
+article: '11004170'
+lock-data: false
+data:
+- series: Bluey
+  series-id: bluey
+  episode: Multipack Bluey - Bluey, Bingo, Muffin
+  release: 1788480000
+  language: en-gb
+  category: audio-play
+  runtime: 136
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11004170_Transparent-5CJf5deu.png
+  sample: https://cdn.tonies.de/o/audio_samples/24a9f475a6b0fe51e95ff7c3a1c49f92d1ed57c957b3871e08b9c1ba/bluey_audio_sample.wav
+  web: https://tonies.com/en-gb/tonies/bluey/multipack-bluey-bluey-bingo-muffin/
+  shop-id: 693000cd-8177-4f65-b4ec-4419cc27a8f8
+  track-desc:
+  - 'Bluey:'
+  - 01. INTRO - Dan Brumm Intro
+  - 02. SONG - THEME SONG
+  - 03. EPISODE - GRANNIES
+  - 04. EPISODE - DUCK CAKE
+  - 05. EPISODE - PROMISES
+  - 06. EPISODE - DOUBLE BABYSITTER
+  - 07. EPISODE - EARLY BABY
+  - 08. EPISODE - THE CREEK
+  - 09. EPISODE - CAMPING
+  - 10. OUTRO – THEME SONG
+  - ''
+  - 'Bingo:'
+  - 01. INTRO - Dan Brumm Intro
+  - 02. SONG - THEME SONG
+  - 03. EPISODE - THE DUMP
+  - 04. EPISODE - PIGGYBACK
+  - 05. EPISODE - BIN NIGHT
+  - 06. EPISODE - STICKBIRD
+  - 07. EPISODE - TAKEAWAY
+  - 08. EPISODE - RELAX
+  - 09. EPISODE - SLEEPYTIME
+  - 10. OUTRO – THEME SONG
+  - ''
+  - 'Muffin:'
+  - 01. INTRO - Dan Brumm Intro
+  - 02. SONG - THEME SONG
+  - 03. EPISODE - MUFFIN CONE
+  - 04. EPISODE - GRANNY MOBILE
+  - 05. EPISODE - BABY RACE
+  - 06. EPISODE - CRICKET
+  - 07. EPISODE - FAIRYTALE
+  - 08. EPISODE - DRAGON
+  - 09. OUTRO – THEME SONG
+  - ''
+  ids: []
