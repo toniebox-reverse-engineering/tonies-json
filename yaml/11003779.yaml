@@ -11,7 +11,7 @@ data:
   age: 4
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11003779_1_a-8Pp7VOZZ.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/c434f36d59ea324c812d8d0fef0053ef0c9019a1fb4d1bee7d88b696/000_dikka_boom_schakkalakka_sample_1m.wav
   web: https://tonies.com/de-de/tonies/dikka/dikka-boom-schakkalakka-tonie/
   shop-id: a9bb2f15-a257-42e2-8146-d99af97fdb77
   track-desc:

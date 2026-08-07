@@ -1,0 +1,29 @@
+article: '2000011774'
+lock-data: false
+data:
+- series: Benjamin Blümchen
+  series-id: benjamin-bluemchen
+  episode: 'Benjamin Blümchen, Folge 171: als Kleingärtner'
+  release: 1785974400
+  language: de-de
+  category: audio-play
+  runtime: 2665
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_aa10d575bd10f794d1f8543deb2fc35afc18a31ea1675a7a2daa9b36/3_lS7yt99RNYFWLQql/benjamin_blumchen_171_benjamin_blumchen_folge_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/2076f2b88bd6b097cd1cbbc1ede9bd366018b2cc2962cbd454d42f8f/4033694255711_audiosample.mp3
+  web: https://tonies.com/de-de/audio-content/benjamin-bluemchen/benjamin-blumchen-folge-171-als-kleingartner/
+  shop-id: 24751acf-244c-4b52-a422-468174b9a2f4
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  ids: []
