@@ -15,12 +15,36 @@ data:
   web: https://tonies.com/de-de/tonies/pj-masks/zeit-ein-held-zu-sein/
   shop-id: 748ce7a3-fc32-43e5-9410-6bffc96dca52
   track-desc:
-  - Geckos Stimme ist weg
-  - Catboy und das gestohlene Schwert
-  - Catboy gegen Robo-Cat
-  - Eulette und die Verschenk-Eule
-  - Catboy und der fliegende Roller
-  - Catboy und die Funkelblitzheldin
+  - Geckos Stimme ist weg - 01
+  - Geckos Stimme ist weg - 02
+  - Geckos Stimme ist weg - 03
+  - Geckos Stimme ist weg - 04
+  - Geckos Stimme ist weg - 05
+  - Catboy und das gestohlene Schwert - 01
+  - Catboy und das gestohlene Schwert - 02
+  - Catboy und das gestohlene Schwert - 03
+  - Catboy und das gestohlene Schwert - 04
+  - Catboy und das gestohlene Schwert - 05
+  - Catboy gegen Robo-Cat - 01
+  - Catboy gegen Robo-Cat - 02
+  - Catboy gegen Robo-Cat - 03
+  - Catboy gegen Robo-Cat - 04
+  - Catboy gegen Robo-Cat - 05
+  - Eulette und die Verschenk-Eule - 01
+  - Eulette und die Verschenk-Eule - 02
+  - Eulette und die Verschenk-Eule - 03
+  - Eulette und die Verschenk-Eule - 04
+  - Eulette und die Verschenk-Eule - 05
+  - Catboy und der fliegende Roller - 01
+  - Catboy und der fliegende Roller - 02
+  - Catboy und der fliegende Roller - 03
+  - Catboy und der fliegende Roller - 04
+  - Catboy und der fliegende Roller - 05
+  - Catboy und die Funkelblitzheldin - 01
+  - Catboy und die Funkelblitzheldin - 02
+  - Catboy und die Funkelblitzheldin - 03
+  - Catboy und die Funkelblitzheldin - 04
+  - Catboy und die Funkelblitzheldin - 05
   ids:
   - audio-id: 1669113581
     hash: a2d79ae46a8fcdef903fc7b840f167bf86f79747

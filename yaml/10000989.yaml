@@ -15,7 +15,12 @@ data:
   web: https://tonies.com/de-de/tonies/disney/cars-2/
   shop-id: bfc34250-a35a-4ccd-a42c-c99775e3714c
   track-desc:
-  - '1'
+  - 'Cars 2'
+  - 'Cars 2'
+  - 'Cars 2'
+  - 'Cars 2'
+  - 'Cars 2'
+  - 'Cars 2'
   ids:
   - audio-id: 1642603602
     hash: 616ee0c5fd79e8a63dfc1104e357d6c25bf04319
