@@ -3,7 +3,7 @@ lock-data: false
 data:
 - series: PAW Patrol
   series-id: paw-patrol
-  episode: Die Hundeschau
+  episode: Rocky - Die Hundeschau
   release: 1689120000
   language: de-de
   category: audio-play
