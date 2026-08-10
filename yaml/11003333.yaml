@@ -2,8 +2,8 @@ article: '11003333'
 lock-data: false
 data:
 - series: Spider-Man
-  series-id: spider-man
-  episode: 'Marvel: Spider-Man'
+  series-id: spider-man-2
+  episode: 'MARVEL: Spider-Man'
   release: 1783900800
   language: en-gb
   category: audio-play
@@ -15,7 +15,7 @@ data:
   web: https://tonies.com/en-gb/tonies/spider-man/marvel-spider-man/
   shop-id: 23c1261d-e004-41c3-9b63-b0dddff0ae34
   track-desc:
-  - '01. STORY - Spider-Man: The Story of Spider-Man'
-  - '02. STORY - Spider-Man: Shock and Awe'
-  - '03. STORY - Spider-Man: Attack of the Portal Crashers'
+  - The Story of Spider Man
+  - Shock And Awe
+  - Attack of the Portal Crashers
   ids: []

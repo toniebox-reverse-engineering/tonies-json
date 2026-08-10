@@ -3,7 +3,7 @@ lock-data: false
 data:
 - series: CoComelon
   series-id: cocomelon
-  episode: Moonbug - Cocomelon
+  episode: CoComelon - Classic JJ (relaunched)
   release: 1783900800
   language: en-gb
   category: music
@@ -15,24 +15,24 @@ data:
   web: https://tonies.com/en-gb/tonies/cocomelon/cocomelon-classic-jj/
   shop-id: ffb8400f-c8fe-4ede-bef7-5a2060f04635
   track-desc:
-  - 1. SONG - Hello Song
-  - 2. SONG - Wheels on the Bus
-  - 3. SONG - First Day of School
-  - 4. SONG - My Name Song
-  - 5. SONG - Teacher Song
-  - 6. SONG - ABC Song
-  - 7. SONG - Shape Song
-  - 8. SONG - The Colours Song
-  - 9. SONG - Sharing Song
-  - 10. SONG - Sorry Excuse Me
-  - 11. SONG - Looby Loo
-  - 12. SONG - Train Song
-  - 13. SONG - Balloon Boat Race
-  - 14. SONG - Yes Yes Vegetable Song
-  - 15. SONG - Playdate with Cody
-  - 16. SONG - Peek A Boo
-  - 17. SONG - Heads Shoulders Knees Toes
-  - 18. SONG - Boo Boo Song
-  - 19. SONG - Doctor Check Up
-  - 20. SONG - Funny Face Song
+  - Hello Song
+  - Wheels On The Bus
+  - First Day of School
+  - My Name Song
+  - Teacher Song
+  - ABC Song
+  - Shape Song
+  - The Colours Song
+  - Sharing Song
+  - Sorry Excuse Me
+  - Looby Lou
+  - Train Song
+  - Balloon Boat Race
+  - Yes Yes Vegetable Song
+  - Playdate With Cody
+  - Peek A Boo
+  - Head, Shoulders, Knees and Toes
+  - Boo Boo Song
+  - Doctor Check Up
+  - Funny Face Song
   ids: []
