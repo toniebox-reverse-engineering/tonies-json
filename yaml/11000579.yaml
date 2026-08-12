@@ -1,0 +1,27 @@
+article: '11000579'
+lock-data: false
+data:
+- series: Pokémon
+  series-id: pokemon
+  episode: Pikachu
+  release: 1786492800
+  language: fr-fr
+  category: audio-play
+  runtime: 78
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/50005354-Tonie_Shado-XZTLVxCD.png
+  sample: null
+  web: https://tonies.com/fr-fr/tonies/pokemon/pikachu/
+  shop-id: d2c94b34-8630-49b4-9d49-38bb6b7aba2a
+  track-desc:
+  - À la rencontre de Pikachu
+  - Introduction à l’univers et aux personnages
+  - 'Histoire 1 : Pikachu et la chose qui fait du bruit'
+  - 'Académie des Dresseurs et Dresseuses : Les Baies'
+  - Combat de capacités Pokémon
+  - 'Histoire 2 : Pikachu et la chasse aux Baies'
+  - 'Académie des Dresseurs et Dresseuses : Les évolutions d’Évoli'
+  - 'Histoire 3 : La tempête et le pique-nique'
+  - Conclusion
+  ids: []

@@ -1,0 +1,27 @@
+article: '11003817'
+lock-data: false
+data:
+- series: Pokémon
+  series-id: pokemon
+  episode: Glumanda
+  release: 1787097600
+  language: de-de
+  category: audio-play
+  runtime: 77
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51020910-Tonie_Shado-2AEOeGeW.png
+  sample: https://cdn.tonies.de/o/audio_samples/8c4521ddfcbee4728130d1f86a12d64702e2d3626295b2fc1ae5bea5/pdp_sample_glumanda.mp3
+  web: https://tonies.com/de-de/tonies/pokemon/glumanda/
+  shop-id: 942ef221-5867-48f8-a6d8-0c284164a5b7
+  track-desc:
+  - Hallo Glumanda!
+  - Einführung in die Welt von Glumanda
+  - 'Geschichte 1: Glumanda sucht seinen Funken'
+  - 'Trainer-Akademie: Typenvorteil'
+  - 'Spezial-Event: Pokémon-Power-Attacken'
+  - 'Geschichte 2: Piis Ausflug'
+  - 'Trainer-Akademie: Wie Pokémon stärker werden'
+  - 'Geschichte 3: Feuer und Eis'
+  - Abschluss
+  ids: []

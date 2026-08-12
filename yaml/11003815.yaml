@@ -1,0 +1,27 @@
+article: '11003815'
+lock-data: false
+data:
+- series: Pokémon
+  series-id: pokemon
+  episode: Bisasam
+  release: 1787097600
+  language: de-de
+  category: audio-play
+  runtime: 79
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51020902-Tonie_Shado-pkPK_-JW.png
+  sample: https://cdn.tonies.de/o/audio_samples/83c79b9e50718dbc2cba0f059c915bf7432e1b04a484ae048d0fd857/pdp_sample_bisasam.mp3
+  web: https://tonies.com/de-de/tonies/pokemon/bisasam/
+  shop-id: 3fad2bbd-d39e-44a6-91c8-e2dc7ca9af3d
+  track-desc:
+  - Hallo Bisasam!
+  - Einführung in die Welt von Bisasam
+  - 'Geschichte 1: Bisasams clevere Flucht'
+  - 'Trainer-Akademie: Pokémon-Attacken'
+  - 'Spezial-Event: Pokémon-Power-Attacken'
+  - 'Geschichte 2: Bisasam und das Geheimnis des Lagerfeuers'
+  - 'Trainer-Akademie: Wo man Pokémon findet'
+  - 'Geschichte 3: Bisasam als Retter in der Not'
+  - Abschluss
+  ids: []

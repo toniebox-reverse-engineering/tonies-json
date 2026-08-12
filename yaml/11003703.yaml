@@ -1,0 +1,27 @@
+article: '11003703'
+lock-data: false
+data:
+- series: Pokémon
+  series-id: pokemon
+  episode: 'Pokémon: Pikachu'
+  release: 1786492800
+  language: en-gb
+  category: audio-play
+  runtime: 78
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11003703_Transparent-c7COHg8s.png
+  sample: https://cdn.tonies.de/o/audio_samples/aab1d0b9b411440f5a398f780df7da93331dc158ad564b925a47a644/pokemon_pikachu_pdp_sample.wav
+  web: https://tonies.com/en-gb/tonies/pokemon/pokemon-pikachu/
+  shop-id: e9f3721c-084a-4b20-aeca-96b6cc9b64f0
+  track-desc:
+  - 1. Meet Pikachu
+  - 2. Introduction to the World and Characters
+  - '3. Story 1: Pikachu and the Very Loud Something'
+  - '4. Trainer Academy: Berries'
+  - 5. Pokémon Power Moves
+  - '6. Story 2: Pikachu and the Berry Hunt'
+  - '7. Trainer Academy: Eevee’s Evolutions'
+  - '8. Story 3: The Storm and the Picnic'
+  - 9. Concluding Segment
+  ids: []

@@ -1,0 +1,27 @@
+article: '11003699'
+lock-data: false
+data:
+- series: Pokémon
+  series-id: pokemon
+  episode: 'Pokémon: Squirtle'
+  release: 1787097600
+  language: en-gb
+  category: audio-play
+  runtime: 67
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11003699_Transparent-fQD1awHr.png
+  sample: https://cdn.tonies.de/o/audio_samples/bc82af8dc9d0975e1b6d0a423b8a32490b1acc5b1cf363c06f87aa00/pokemon_squirtle_pdp_sample.wav
+  web: https://tonies.com/en-gb/tonies/pokemon/pokemon-squirtle/
+  shop-id: dddd35a8-a70d-485b-8725-f11f161447be
+  track-desc:
+  - 01. Meet Squirtle
+  - 02. Introduction to the World and Characters
+  - '03. Story 1: Splash into Summer!'
+  - '04. Trainer Academy: Poké Balls'
+  - 05. Pokémon Power Moves
+  - '06. Story 2: Squirtle’s Beachside Mystery'
+  - '07. Trainer Academy: First Partner Pokémon'
+  - '08. Story 3: Camping Trip Troubles'
+  - 09. Concluding Segment
+  ids: []

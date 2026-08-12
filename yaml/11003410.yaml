@@ -2,7 +2,7 @@ article: '11003410'
 lock-data: false
 data:
 - series: Toy Story
-  series-id: disney-toy-story
+  series-id: toy-story-2
   episode: Toy Story 5
   release: 1786492800
   language: de-de
@@ -15,10 +15,10 @@ data:
   web: https://tonies.com/de-de/tonies/disney-toy-story/toy-story-5-bullseye-tonie/
   shop-id: 76483d49-07ef-4303-8734-634c6acd82b8
   track-desc:
-  - 'Kapitel 01: Toy Story 5'
-  - 'Kapitel 02: Toy Story 5'
-  - 'Kapitel 03: Toy Story 5'
-  - 'Kapitel 04: Toy Story 5'
-  - 'Kapitel 05: Toy Story 5'
-  - 'Kapitel 06: Toy Story 5'
+  - Toy Story 5 - Kapitel 1
+  - Toy Story 5 - Kapitel 2
+  - Toy Story 5 - Kapitel 3
+  - Toy Story 5 - Kapitel 4
+  - Toy Story 5 - Kapitel 5
+  - Toy Story 5 - Kapitel 6
   ids: []

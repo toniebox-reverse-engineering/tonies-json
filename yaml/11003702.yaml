@@ -1,0 +1,27 @@
+article: '11003702'
+lock-data: false
+data:
+- series: Pokémon
+  series-id: pokemon
+  episode: 'Pokémon: Bulbasaur'
+  release: 1787097600
+  language: en-gb
+  category: audio-play
+  runtime: 79
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11003702_Transparent-s8ljoOwr.png
+  sample: https://cdn.tonies.de/o/audio_samples/1ac6550d058ba9abb0db043d4b31351dcc3ba77993685cf0fee856ed/pokemon_bubasaur_pdp_sample.wav
+  web: https://tonies.com/en-gb/tonies/pokemon/pokemon-bulbasaur/
+  shop-id: c420d77e-a618-4fbd-abc6-784e74e69c37
+  track-desc:
+  - 01. Meet Bulbasaur
+  - 02. Introduction to the World and Characters
+  - '03. Story 1: Bulbasaur’s Clever Escape'
+  - '04. Trainer Academy: Pokémon Moves'
+  - 05. Pokémon Power Moves
+  - '06. Story 2: Bulbasaur and the Campfire Mystery'
+  - '07. Trainer Academy: Where to Find Pokémon'
+  - '08. Story 3: Bulbasaur to the Rescue!'
+  - 09. Concluding Segment.
+  ids: []

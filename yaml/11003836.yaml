@@ -1,0 +1,29 @@
+article: '11003836'
+lock-data: false
+data:
+- series: Nico Sternbaum
+  series-id: nico-sternbaum
+  episode: Schüttel den Weihnachtsbaum
+  release: 1788912000
+  language: de-de
+  category: audio-play
+  runtime: 52
+  age: 2
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11003836_1_a-26RC5HeN.png
+  sample: https://cdn.tonies.de/o/audio_samples/04fe838d94a78ac424d89ee8dfcbd2150c8b8c8d508a01e17be06f72/horprobe_schuttel_den_weihnachtsbaum.mp3
+  web: https://tonies.com/de-de/tonies/nico-sternbaum/nico-sternbaum-schuettel-den-weihnachtsbaum/
+  shop-id: ddc2bd70-5c2a-45bc-b784-bcafb0486466
+  track-desc:
+  - Schüttel den Weihnachtsbaum – Einführung
+  - Beim Tannenbaum
+  - Bei den Eichhörnchenkindern
+  - Bei Familie Maus
+  - Bei Herrn Igel
+  - Bei den Hasenkindern
+  - Bei Familie Reh
+  - Bei den Vögeln
+  - Beim Tannenbaum schmücken
+  - Wir haben allen geholfen
+  - Mitmach-Lied mit Weihnachtsbaum-Strophe
+  ids: []

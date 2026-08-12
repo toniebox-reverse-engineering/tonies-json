@@ -1,0 +1,27 @@
+article: '11003696'
+lock-data: false
+data:
+- series: Pokémon
+  series-id: pokemon
+  episode: 'Pokémon: Charmander'
+  release: 1787097600
+  language: en-gb
+  category: audio-play
+  runtime: 77
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11003696_Transparent-KA40uXTo.png
+  sample: https://cdn.tonies.de/o/audio_samples/7223e5e0ccbae16462da0f7ff743addbb8a53659b7fc7011c1d2d436/pokemon_charmander_pdp_sample.wav
+  web: https://tonies.com/en-gb/tonies/pokemon/pokemon-charmander/
+  shop-id: 9e2ba628-ff48-44a4-85de-a364048a4a04
+  track-desc:
+  - 01. Meet Charmander
+  - 02. Introduction to the World and Characters
+  - '03. Story 1: Charmander Searches for Its Spark'
+  - '04. Trainer Academy: Type Advantages'
+  - 05. Pokémon Power Moves
+  - '06. Story 2: Cleffa’s Day Out'
+  - '07. Trainer Academy: How Pokémon Get Stronger'
+  - '08. Story 4: Fire and Ice'
+  - 09. Concluding Segment
+  ids: []
