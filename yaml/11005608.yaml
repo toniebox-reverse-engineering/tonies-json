@@ -2,7 +2,7 @@ article: '11005608'
 lock-data: false
 data:
 - series: FC Bayern München
-  series-id: fc-bayern-muenchen
+  series-id: e015ffc8-2f27-4100-a47b-1179f01086b8
   episode: Die Welt des FC Bayern
   release: 1786492800
   language: de-de
@@ -15,22 +15,5 @@ data:
   web: https://tonies.com/de-de/clever-tonies/fc-bayern-muenchen/die-welt-des-fc-bayern-pocket-tonie/
   shop-id: 1e18c438-f92f-4754-b3a0-03d0cf5d7072
   track-desc:
-  - Der magische Fußball
-  - Wo steckt der Teamgeist?
-  - Weitermachen lohnt sich
-  - Eine Arena voller Gefühle
-  - Wenn das Stadion leise wird...
-  - Die Entdeckung der Schatzkammer
-  - Was Profis so stark macht
-  - Ganz schön hoch hinaus
-  - Fußball ist für alle da
-  - Hier beginnt der Traum
-  - Der große Sprung
-  - Kann jeder Profi werden?
-  - Der FC Bayern und seine Sterne
-  - Wie alles begann
-  - Der Kaiser und der Bomber
-  - Gemeinsam feiern
-  - In der ganzen Welt unterwegs
-  - Mia san Mia
+  - Die Welt Des Fc Bayern Holding Message Anton
   ids: []
