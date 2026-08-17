@@ -1854,10 +1854,10 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11003614,The Chronicles of Narnia,the-chronicles-of-narnia,"The Lion, the Witch and the Wardrobe",en-gb,audio-book,stock,6594e9db-f45b-4b75-a360-ddfb7f4f5008,https://tonies.com/en-gb/book-tonies/the-chronicles-of-narnia/the-lion-the-witch-and-the-wardrobe/,1,0,0,0
 11003663,Paddington,paddington-bear,Die schönsten Geschichten von Paddington,de-de,audio-book,stock,c085ee7a-bfd3-4ce7-8e60-0c2fbd8b366f,https://tonies.com/de-de/tonies/paddington/paddington-die-schoensten-geschichten-von-paddington/,1,1,1,0
 11003664,Bêtes De Champions,all-star-animals,Le Grand Tournoi De Foot,fr-fr,audio-play,stock,e73c40e3-c6ba-4086-bbf6-7b76ef647b2a,https://tonies.com/fr-fr/tonies/betes-de-champions/le-grand-tournoi-de-foot/,1,0,0,0
-11003696,Pokémon,pokemon,Pokémon: Charmander,en-gb,audio-play,stock,9e2ba628-ff48-44a4-85de-a364048a4a04,https://tonies.com/en-gb/tonies/pokemon/pokemon-charmander/,1,0,0,0
-11003699,Pokémon,pokemon,Pokémon: Squirtle,en-gb,audio-play,stock,dddd35a8-a70d-485b-8725-f11f161447be,https://tonies.com/en-gb/tonies/pokemon/pokemon-squirtle/,1,0,0,0
-11003702,Pokémon,pokemon,Pokémon: Bulbasaur,en-gb,audio-play,stock,c420d77e-a618-4fbd-abc6-784e74e69c37,https://tonies.com/en-gb/tonies/pokemon/pokemon-bulbasaur/,1,0,0,0
-11003703,Pokémon,pokemon,Pokémon: Pikachu,en-gb,audio-play,stock,e9f3721c-084a-4b20-aeca-96b6cc9b64f0,https://tonies.com/en-gb/tonies/pokemon/pokemon-pikachu/,1,0,0,0
+11003696,Pokémon,bdca2572-8434-4369-8e7b-5eeabbb0bb1f,Pokémon: Charmander,en-gb,audio-play,stock,9e2ba628-ff48-44a4-85de-a364048a4a04,https://tonies.com/en-gb/tonies/pokemon/pokemon-charmander/,1,0,0,0
+11003699,Pokémon,bdca2572-8434-4369-8e7b-5eeabbb0bb1f,Pokémon: Squirtle,en-gb,audio-play,stock,dddd35a8-a70d-485b-8725-f11f161447be,https://tonies.com/en-gb/tonies/pokemon/pokemon-squirtle/,1,0,0,0
+11003702,Pokémon,bdca2572-8434-4369-8e7b-5eeabbb0bb1f,Pokémon: Bulbasaur,en-gb,audio-play,stock,c420d77e-a618-4fbd-abc6-784e74e69c37,https://tonies.com/en-gb/tonies/pokemon/pokemon-bulbasaur/,1,0,0,0
+11003703,Pokémon,bdca2572-8434-4369-8e7b-5eeabbb0bb1f,Pokémon: Pikachu,en-gb,audio-play,stock,e9f3721c-084a-4b20-aeca-96b6cc9b64f0,https://tonies.com/en-gb/tonies/pokemon/pokemon-pikachu/,1,0,0,0
 11003771,GEOlino,geo,"GEOlino Mini - Alles über Polizei, Feuerwehr und Rettung",de-de,audio-play,stock,ca0468c6-4a01-4cb1-9f16-0b554127f5f7,https://tonies.com/de-de/clever-tonies/geo/geolino-mini-alles-ueber-polizei-feuerwehr-und-rettung/,1,1,1,0
 11003772,Lichterkinder,lichterkinder-2,Lichterkinder - Das kleine 1x1,de-de,music,stock,0ab2c74f-0fce-43ef-a043-940eef333eca,https://tonies.com/de-de/clever-tonies/lichterkinder/das-kleine-einmaleins/,1,1,1,0
 11003773,MIRA und das fliegende Haus,mira,MIRA und das fliegende Haus - Der Familienzauber,de-de,audio-play,stock,fcbb6954-3ffe-42fc-8872-618cefe1608c,https://tonies.com/de-de/clever-tonies/mira/mira-und-das-fliegende-haus-der-familienzauber/,1,1,1,0
@@ -1870,6 +1870,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11003819,Pokémon,pokemon,Schiggy,de-de,audio-play,stock,c97c41a8-c89d-4eb6-86e3-19ce44a7a2db,https://tonies.com/de-de/tonies/pokemon/schiggy/,1,0,0,0
 11003820,Pokémon,bdca2572-8434-4369-8e7b-5eeabbb0bb1f,Carapuce,fr-fr,audio-play,stock,f0cf90a9-9d12-4f9d-8544-361e393e5c90,https://tonies.com/fr-fr/tonies/pokemon/carapuce/,1,0,0,0
 11003830,Ocean My First Tonies Set,,3 Pack,en-us,Tonie,stock,9568546259095,,1,0,0,0
+11003832,Ocean Set,ocean-set,My First Tonies: Ocean Set,en-gb,audio-play-songs,stock,016bd9f7-5d84-455f-aa19-91c80a0c7653,https://tonies.com/en-gb/my-first-tonies/ocean-set/ocean-set/,1,0,0,0
 11003833,Sous l'océan,ocean-set,Coffret Mes Premiers Tonies - Sous L'Océan,fr-fr,audio-play-songs,stock,0ca4b8e0-caba-41c7-9fa9-d1494c77b64a,https://tonies.com/fr-fr/mes-premiers-tonies/sous-l-ocean/mes-premiers-tonies-sous-l-ocean/,1,0,0,0
 11003835,Peppa Pig,peppa-pig,Schorschs neue Klänge,de-de,audio-play,stock,11e40f48-8f17-472f-98ce-1a88d8ea09f8,https://tonies.com/de-de/tonies/peppa-pig/schorsch-neue-klaenge/,1,0,0,0
 11003836,Nico Sternbaum,nico-sternbaum,Schüttel den Weihnachtsbaum,de-de,audio-play,stock,ddc2bd70-5c2a-45bc-b784-bcafb0486466,https://tonies.com/de-de/tonies/nico-sternbaum/nico-sternbaum-schuettel-den-weihnachtsbaum/,1,0,0,0
@@ -6430,6 +6431,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 2000011772,Lalalinos,stronger-together,Friendaloo Songs - The Music Album,en-us,music,tunes,ee9da906-697b-4e14-bfdb-002bb5a5fc89,https://tonies.com/en-gb/audio-content/stronger-together/friendaloo-songs-the-music-album/,1,0,0,0
 2000011773,Bibi & Tina,bibi-tina,"Bibi & Tina, Folge 123: Schnitzeljagd bei Nacht",de-de,audio-play,tunes,fb1cb121-9e4c-40bb-bfb0-82ff73f530a4,https://tonies.com/de-de/audio-content/bibi-tina/bibi-tina-folge-123-schnitzeljagd-bei-nacht/,1,0,0,0
 2000011774,Benjamin Blümchen,benjamin-bluemchen,"Benjamin Blümchen, Folge 171: als Kleingärtner",de-de,audio-play,tunes,24751acf-244c-4b52-a422-468174b9a2f4,https://tonies.com/de-de/audio-content/benjamin-bluemchen/benjamin-blumchen-folge-171-als-kleingartner/,1,0,0,0
+2000011775,Bibi & Tina,bibi-tina,"Bibi & Tina, Folge 125: Im ungarischen Wald",de-de,audio-play,tunes,5e05abf9-c427-4f5e-96ba-3084c9994f4a,https://tonies.com/de-de/audio-content/bibi-tina/bibi-tina-folge-125-im-ungarischen-wald/,1,0,0,0
 2000011782,Flip & Oodle,life-on-earth,Life on Earth - Flip,en-gb,audio-play,tunes,8e02a06e-0b42-4dbc-8819-9b6829b51402,https://tonies.com/en-gb/audio-content/life-on-earth/flip-oodle/,1,0,0,0
 2000011783,Flip & Oodle,flip-oodle,Leben auf der Erde,de-de,audio-play,tunes,b001a422-eaf3-4b54-b508-003a7bfc5fa9,https://tonies.com/de-de/audio-content/flip-oodle/leben-auf-der-erde/,1,0,0,0
 2000011788,Die drei ???,die-drei-fragezeichen,Folge 240: und die schwarze Rose,de-de,audio-play,tunes,7823cd45-b53f-43de-a45b-888003bf7a0e,https://tonies.com/de-de/audio-content/die-drei-fragezeichen/folge-240-und-die-schwarze-rose/,1,0,0,0
