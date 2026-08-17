@@ -2,7 +2,7 @@ article: '11003703'
 lock-data: false
 data:
 - series: Pokémon
-  series-id: pokemon
+  series-id: bdca2572-8434-4369-8e7b-5eeabbb0bb1f
   episode: 'Pokémon: Pikachu'
   release: 1786492800
   language: en-gb
@@ -15,13 +15,5 @@ data:
   web: https://tonies.com/en-gb/tonies/pokemon/pokemon-pikachu/
   shop-id: e9f3721c-084a-4b20-aeca-96b6cc9b64f0
   track-desc:
-  - 1. Meet Pikachu
-  - 2. Introduction to the World and Characters
-  - '3. Story 1: Pikachu and the Very Loud Something'
-  - '4. Trainer Academy: Berries'
-  - 5. Pokémon Power Moves
-  - '6. Story 2: Pikachu and the Berry Hunt'
-  - '7. Trainer Academy: Eevee’s Evolutions'
-  - '8. Story 3: The Storm and the Picnic'
-  - 9. Concluding Segment
+  - Content Placeholder
   ids: []

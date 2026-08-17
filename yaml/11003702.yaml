@@ -2,7 +2,7 @@ article: '11003702'
 lock-data: false
 data:
 - series: Pokémon
-  series-id: pokemon
+  series-id: bdca2572-8434-4369-8e7b-5eeabbb0bb1f
   episode: 'Pokémon: Bulbasaur'
   release: 1787097600
   language: en-gb
@@ -15,13 +15,5 @@ data:
   web: https://tonies.com/en-gb/tonies/pokemon/pokemon-bulbasaur/
   shop-id: c420d77e-a618-4fbd-abc6-784e74e69c37
   track-desc:
-  - 01. Meet Bulbasaur
-  - 02. Introduction to the World and Characters
-  - '03. Story 1: Bulbasaur’s Clever Escape'
-  - '04. Trainer Academy: Pokémon Moves'
-  - 05. Pokémon Power Moves
-  - '06. Story 2: Bulbasaur and the Campfire Mystery'
-  - '07. Trainer Academy: Where to Find Pokémon'
-  - '08. Story 3: Bulbasaur to the Rescue!'
-  - 09. Concluding Segment.
+  - Content Placeholder
   ids: []

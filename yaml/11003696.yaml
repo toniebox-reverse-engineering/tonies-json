@@ -2,7 +2,7 @@ article: '11003696'
 lock-data: false
 data:
 - series: Pokémon
-  series-id: pokemon
+  series-id: bdca2572-8434-4369-8e7b-5eeabbb0bb1f
   episode: 'Pokémon: Charmander'
   release: 1787097600
   language: en-gb
@@ -15,13 +15,5 @@ data:
   web: https://tonies.com/en-gb/tonies/pokemon/pokemon-charmander/
   shop-id: 9e2ba628-ff48-44a4-85de-a364048a4a04
   track-desc:
-  - 01. Meet Charmander
-  - 02. Introduction to the World and Characters
-  - '03. Story 1: Charmander Searches for Its Spark'
-  - '04. Trainer Academy: Type Advantages'
-  - 05. Pokémon Power Moves
-  - '06. Story 2: Cleffa’s Day Out'
-  - '07. Trainer Academy: How Pokémon Get Stronger'
-  - '08. Story 4: Fire and Ice'
-  - 09. Concluding Segment
+  - Content Placeholder
   ids: []

@@ -1,0 +1,40 @@
+article: '11003832'
+lock-data: false
+data:
+- series: Ocean Set
+  series-id: ocean-set
+  episode: 'My First Tonies: Ocean Set'
+  release: 1786579200
+  language: en-gb
+  category: audio-play-songs
+  runtime: 37
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11003832_Transparent-nojjboFL.png
+  sample: https://cdn.tonies.de/o/audio_samples/2aba6610bea3e9bd3b4fac045ae7e348ee9f66a864e270d144d02cd0/dolphin_uk_song_sample.wav
+  web: https://tonies.com/en-gb/my-first-tonies/ocean-set/ocean-set/
+  shop-id: 016bd9f7-5d84-455f-aa19-91c80a0c7653
+  track-desc:
+  - 'Tracklist:'
+  - Dolphin
+  - 01. INTRO - Dolphin Sound & Song
+  - 02. STORY - Can you hear the Dolphin?
+  - 03. STORY - Let's count them!
+  - 04. SOUNDSCAPE
+  - 05. OUTRO
+  - 'Running Time: 12 minutes, 37s'
+  - Seal
+  - 01. INTRO - Seal Sound & Song
+  - 02. STORY - Can you hear the little Seal?
+  - 03. STORY - Curious, little Seal
+  - 04. SOUNDSCAPE
+  - 05. OUTRO
+  - 'Running Time: 12 minutes, 26s'
+  - Seagull
+  - 01. INTRO - Seagull Sound & Song
+  - 02. STORY - Can you hear the Seagull?
+  - 03. STORY - JoJo, The Seagull
+  - 04. SOUNDSCAPE
+  - 05. OUTRO
+  - 'Running Time: 12 minutes, 40s'
+  ids: []
