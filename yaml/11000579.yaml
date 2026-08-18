@@ -11,9 +11,17 @@ data:
   age: 5
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/50005354-Tonie_Shado-XZTLVxCD.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/d74fb5db9bb2b7e340c63c52ac3d376efc91a1de37c7eb9b895a7130/11000579_pokemon_pikachu_fr_audio_sample.wav
   web: https://tonies.com/fr-fr/tonies/pokemon/pikachu/
   shop-id: d2c94b34-8630-49b4-9d49-38bb6b7aba2a
   track-desc:
-  - Placeholder
+  - 1. À la rencontre de Pikachu
+  - 2.  Introduction à l’univers et aux personnages
+  - '3. Histoire 1 : Pikachu et la chose qui fait du bruit'
+  - '4. Académie des Dresseurs et Dresseuses : Les Baies'
+  - 5. Combat de capacités Pokémon
+  - '6. Histoire 2 : Pikachu et la chasse aux Baies'
+  - '7. Académie des Dresseurs et Dresseuses : Les évolutions d’Évoli'
+  - '8. Histoire 3 : La tempête et le pique-nique'
+  - 9. Conclusion
   ids: []

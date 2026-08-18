@@ -11,9 +11,18 @@ data:
   age: 5
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51020914-Tonie_Shado-wya_71cM.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/36f479b25fc4845caa81d0b0b20943d15e94f61c9a327963e3bd4f5d/11003818_pokemon_charmander_fr_audio_sample.mp3
   web: https://tonies.com/fr-fr/tonies/pokemon/salameche/
   shop-id: cb03ed56-c794-4273-b60f-295bea1f6d2e
   track-desc:
-  - Content Placeholder
+  - 1. À la rencontre de Salamèche
+  - 2.  Introduction à l’univers et aux personnages
+  - '3. Histoire 1 : Salamèche à la recherche de son étincelle'
+  - '4. Académie des Dresseurs et Dresseuses : Les avantages des types'
+  - 5. Combat de capacités Pokémon
+  - '6. Histoire 2 : La journée de Mélo'
+  - '7. Académie des Dresseurs et Dresseuses : Comment les Pokémon deviennent plus
+    forts'
+  - '8. Histoire 3 : Le feu et la glace'
+  - 9. Conclusion
   ids: []

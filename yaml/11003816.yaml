@@ -11,9 +11,17 @@ data:
   age: 5
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51020906-Tonie_Shado-0XA9N41q.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/c5fe6139d0e1cd8edc6595ed98fcd3fc1dcee0cd3797abf27399faf0/11003816_pokemon_bulbasaur_fr_audio_sample.mp3
   web: https://tonies.com/fr-fr/tonies/pokemon/bulbizarre/
   shop-id: d49e4afc-db68-4014-87c7-7d079c8d93f7
   track-desc:
-  - Content Placeholder
+  - 1. À la rencontre de Bulbizarre
+  - 2.  Introduction à l’univers et aux personnages
+  - '3. Histoire 1 : La fuite rusée de Bulbizarre'
+  - '4. Académie des Dresseurs et Dresseuses : Les capacités des Pokémon'
+  - 5. Combat de capacités Pokémon
+  - '6. Histoire 2 : Bulbizarre et le mystère du feu de camp'
+  - '7. Académie des Dresseurs et Dresseuses : Où trouver des Pokémon'
+  - '8. Histoire 3 : Bulbizarre à la rescousse !'
+  - 9. Conclusion
   ids: []
