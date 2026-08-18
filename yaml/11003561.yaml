@@ -30,4 +30,19 @@ data:
   - Pferd - Mama Pferd und ihr Fohlen
   - Pferd - Pferde auf der Wiese (Klanglandschaft & Musik)
   - Pferd - Outro
-  ids: []
+  ids:
+  - audio-id: 1763977309
+    hash: cc80ab65f0534c5f20529f2ba3c777183443c956
+    size: 8447066
+    tracks: 5
+    confidence: 0
+  - audio-id: 1763979250
+    hash: 4edaf9e962544c022611a8a739e1ae259f710a74
+    size: 8995720
+    tracks: 5
+    confidence: 0
+  - audio-id: 1763978986
+    hash: 727907fc605b90f14f6ff8af19286cbe0517000a
+    size: 8807957
+    tracks: 5
+    confidence: 0
