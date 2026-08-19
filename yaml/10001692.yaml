@@ -2,7 +2,7 @@ article: '10001692'
 lock-data: false
 data:
 - series: Pokémon
-  series-id: pokemon
+  series-id: bdca2572-8434-4369-8e7b-5eeabbb0bb1f
   episode: Pikachu
   release: 1787097600
   language: de-de

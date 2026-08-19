@@ -2,7 +2,7 @@ article: '11003819'
 lock-data: false
 data:
 - series: Pokémon
-  series-id: pokemon
+  series-id: bdca2572-8434-4369-8e7b-5eeabbb0bb1f
   episode: Schiggy
   release: 1787097600
   language: de-de
@@ -22,6 +22,6 @@ data:
   - 'Spezial-Event: Pokémon-Power-Attacken'
   - 'Geschichte 2: Schiggys Strandgeheimnis'
   - 'Trainer-Akademie: Erste Partner-Pokémon'
-  - 'Geschichte 3: Probleme beim Campingausflug'
+  - 'Geschichte 3: Probleme beim Camping-Ausflug'
   - Abschluss
   ids: []
