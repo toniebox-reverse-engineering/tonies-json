@@ -31,6 +31,11 @@ data:
   - Sunday 9th August
   - Today With Tonies Jingle
   ids:
+  - audio-id: 1787353514
+    hash: 90b13f9c7e74f8be27829d0c6f983c72ea938f79
+    size: 145513702
+    tracks: 15
+    confidence: 1
   - audio-id: 1787267115
     hash: 7f98a30989140919ab09a3041b6bafc3dc810ea7
     size: 144223462

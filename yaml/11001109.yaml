@@ -31,6 +31,11 @@ data:
   - 9th August
   - Joke Of The Day Jingle
   ids:
+  - audio-id: 1787357114
+    hash: 9e6071bce5bd5a5f6af83c6a369f95f7325920e1
+    size: 19557975
+    tracks: 15
+    confidence: 1
   - audio-id: 1787270713
     hash: 4d7d3238bfedecb245da7d3e1695f2a429c9b0a7
     size: 19711991
