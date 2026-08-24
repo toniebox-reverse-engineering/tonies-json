@@ -3,8 +3,8 @@ lock-data: false
 data:
 - series: ''
   series-id: ''
-  episode: ''
-  release: tonies-shopapi-de-de,
+  episode: tonies-json-de-de,
+  release: ''
   language: ''
   category: ''
   runtime: ''
