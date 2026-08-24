@@ -1,0 +1,39 @@
+article: '11004136'
+lock-data: false
+data:
+- series: Construction Set
+  series-id: construction-set
+  episode: 'My First Tonies: Construction Set'
+  release: 1786579200
+  language: en-gb
+  category: audio-play-songs
+  runtime: 36
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/SKU_Transparent-h8K-kSDx.png
+  sample: https://cdn.tonies.de/o/audio_samples/beb4a9a8980291ae8883cbbb8f992aff951a083fc5bcd5f51c1eae9f/digger_combo_sample_song_narration.wav
+  web: https://tonies.com/en-gb/my-first-tonies/construction-set/construction-set/
+  shop-id: c19ec62b-34fd-4f29-b94b-1031b919e3fd
+  track-desc:
+  - 1. Digger
+  - 01. INTRO - Digger Sound & Song
+  - 02. STORY - Can you hear the Digger?
+  - 03. STORY - Digger Rhyme Time
+  - 04. SOUNDSCAPE
+  - 05. OUTRO
+  - 'Running Time: 12 minutes, 8 seconds'
+  - 2. Tipper Truck
+  - 01. INTRO - Tipper Truck Sound & Song
+  - 02. STORY - Can you hear the tipper truck?
+  - 03. STORY -  New building site
+  - 04. SOUNDSCAPE
+  - 05. OUTRO
+  - 'Running Time: 12 minutes, 18 seconds'
+  - 3. Concrete Mixer
+  - 01. INTRO - Concrete Mixer Sound & Song
+  - 02. STORY - Can you hear the Concrete Mixer?
+  - 03. STORY - Tommy, The Concrete Mixer
+  - 04. SOUNDSCAPE
+  - 05. OUTRO
+  - 'Running Time: 12 minutes, 17 seconds'
+  ids: []
