@@ -3,7 +3,7 @@ lock-data: false
 data:
 - series: Bluey
   series-id: bluey
-  episode: Multipack Bluey - Bluey, Bingo, Muffin
+  episode: Multipack - Bluey, Bingo, Muffin
   release: 1788480000
   language: en-gb
   category: audio-play
@@ -26,7 +26,6 @@ data:
   - 08. EPISODE - THE CREEK
   - 09. EPISODE - CAMPING
   - 10. OUTRO – THEME SONG
-  - ''
   - 'Bingo:'
   - 01. INTRO - Dan Brumm Intro
   - 02. SONG - THEME SONG
@@ -38,7 +37,6 @@ data:
   - 08. EPISODE - RELAX
   - 09. EPISODE - SLEEPYTIME
   - 10. OUTRO – THEME SONG
-  - ''
   - 'Muffin:'
   - 01. INTRO - Dan Brumm Intro
   - 02. SONG - THEME SONG
@@ -49,5 +47,4 @@ data:
   - 07. EPISODE - FAIRYTALE
   - 08. EPISODE - DRAGON
   - 09. OUTRO – THEME SONG
-  - ''
   ids: []
