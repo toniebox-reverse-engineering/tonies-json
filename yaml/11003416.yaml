@@ -20,4 +20,9 @@ data:
   - Das große Post-Durcheinander, Teil 2
   - Das Marsianer Wunderhaus, Teil 1
   - Das Marsianer Wunderhaus, Teil 2
-  ids: []
+  ids:
+  - audio-id: 1777363407
+    hash: bd3a49139b876f4b097f6b046b1bd10b98922fbc
+    size: 33085362
+    tracks: 5
+    confidence: 1

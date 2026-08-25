@@ -23,4 +23,9 @@ data:
   - Bobo und die Papierflieger
   - Bobo besucht Hedi
   - Bobo im Wald
-  ids: []
+  ids:
+  - audio-id: 1774959905
+    hash: 94e9da0fd06d7ff9f4d7d3878ea2ced47fc37a93
+    size: 38699527
+    tracks: 8
+    confidence: 1

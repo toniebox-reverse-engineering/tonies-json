@@ -20,4 +20,9 @@ data:
   - Minnies Dampforgel-Bahn, Teil 2
   - Minnies Dinnerparty, Teil 1
   - Minnies Dinnerparty, Teil 2
-  ids: []
+  ids:
+  - audio-id: 1777363761
+    hash: ab5be5492f48b1c29092914dbcf23344e19b4539
+    size: 30403490
+    tracks: 5
+    confidence: 1

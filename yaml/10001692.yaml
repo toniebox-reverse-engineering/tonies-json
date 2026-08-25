@@ -24,4 +24,9 @@ data:
   - 'Trainer-Akademie: Evolis Entwicklungen'
   - 'Geschichte 3: Der Sturm und das Picknick'
   - Abschluss
-  ids: []
+  ids:
+  - audio-id: 1787090414
+    hash: 297b5269cc53155d5f376b840ca8e986d5047e53
+    size: 58209397
+    tracks: 9
+    confidence: 1

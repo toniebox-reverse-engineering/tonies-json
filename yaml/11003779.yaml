@@ -32,4 +32,9 @@ data:
   - 'Bonustrack: Mein Hobby ist Ferien'
   - 'Bonustrack: Nein heißt Nein'
   - 'Bonustrack: Der tollste Tag deines Lebens'
-  ids: []
+  ids:
+  - audio-id: 1786014013
+    hash: 42a2c99fd8e84a751fcd152ffb6a0a6a7f35d779
+    size: 39260697
+    tracks: 17
+    confidence: 1

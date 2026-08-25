@@ -24,4 +24,9 @@ data:
   - 'Trainer-Akademie: Erste Partner-Pokémon'
   - 'Geschichte 3: Probleme beim Camping-Ausflug'
   - Abschluss
-  ids: []
+  ids:
+  - audio-id: 1787090415
+    hash: db9a39db7af90f55726ddb7bfb8dfa9bbe0ead13
+    size: 47828826
+    tracks: 9
+    confidence: 1

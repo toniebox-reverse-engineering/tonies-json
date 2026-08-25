@@ -22,4 +22,9 @@ data:
   - Bobo und die Blumenwiese
   - Bobo will jetzt spielen
   - Bobo und sein großer Cousin
-  ids: []
+  ids:
+  - audio-id: 1774951033
+    hash: 20b394fb916ff5605b6e76ea16fba2594a8b0432
+    size: 33398696
+    tracks: 7
+    confidence: 1
