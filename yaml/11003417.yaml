@@ -1,0 +1,23 @@
+article: '11003417'
+lock-data: false
+data:
+- series: La Maison de Mickey
+  series-id: disney-la-maison-de-mickey
+  episode: La Maison de Mickey - Minnie
+  release: 1787702400
+  language: fr-fr
+  category: audio-play-songs
+  runtime: 40
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51009232-Tonie_Shado-NllzIwK2.png
+  sample: https://cdn.tonies.de/o/audio_samples/3c73a40c59efd2193ae23b2a67bd3eec9c338cf10e52beae64652031/mickey_clubhouse_minnie_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/disney-la-maison-de-mickey/la-maison-de-mickey-minnie/
+  shop-id: 9c613697-ae2b-4788-a116-55e0b1875c50
+  track-desc:
+  - Bingo (chanson)
+  - La Maison de Minnie (chanson)
+  - Si ton coeur est rempli de joie (chanson)
+  - Le petit train musical de Minnie (histoire)
+  - Le dîner de Minnie (histoire)
+  ids: []
