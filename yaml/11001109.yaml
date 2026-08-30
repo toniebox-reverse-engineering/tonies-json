@@ -31,6 +31,11 @@ data:
   - 17th August
   - Joke Of The Day Jingle
   ids:
+  - audio-id: 1788048314
+    hash: fc2c6974cddfefe0aa4b891ce0c62f98dfeee32c
+    size: 20714664
+    tracks: 15
+    confidence: 1
   - audio-id: 1787961914
     hash: 9cec9fff7bac8f7cb222fff9dda4cfc8acbf2885
     size: 20595105
