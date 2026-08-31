@@ -15,36 +15,33 @@ data:
   web: https://tonies.com/en-gb/tonies/bluey/multipack-bluey-bluey-bingo-muffin/
   shop-id: 693000cd-8177-4f65-b4ec-4419cc27a8f8
   track-desc:
-  - 'Bluey:'
-  - 01. INTRO - Dan Brumm Intro
-  - 02. SONG - THEME SONG
-  - 03. EPISODE - GRANNIES
-  - 04. EPISODE - DUCK CAKE
-  - 05. EPISODE - PROMISES
-  - 06. EPISODE - DOUBLE BABYSITTER
-  - 07. EPISODE - EARLY BABY
-  - 08. EPISODE - THE CREEK
-  - 09. EPISODE - CAMPING
-  - 10. OUTRO – THEME SONG
-  - 'Bingo:'
-  - 01. INTRO - Dan Brumm Intro
-  - 02. SONG - THEME SONG
-  - 03. EPISODE - THE DUMP
-  - 04. EPISODE - PIGGYBACK
-  - 05. EPISODE - BIN NIGHT
-  - 06. EPISODE - STICKBIRD
-  - 07. EPISODE - TAKEAWAY
-  - 08. EPISODE - RELAX
-  - 09. EPISODE - SLEEPYTIME
-  - 10. OUTRO – THEME SONG
-  - 'Muffin:'
-  - 01. INTRO - Dan Brumm Intro
-  - 02. SONG - THEME SONG
-  - 03. EPISODE - MUFFIN CONE
-  - 04. EPISODE - GRANNY MOBILE
-  - 05. EPISODE - BABY RACE
-  - 06. EPISODE - CRICKET
-  - 07. EPISODE - FAIRYTALE
-  - 08. EPISODE - DRAGON
-  - 09. OUTRO – THEME SONG
+  - 'Bingo: INTRO'
+  - 'Bingo: SONG - Theme Song'
+  - 'Bingo: EPISODE - The Dump'
+  - 'Bingo: EPISODE - Piggyback'
+  - 'Bingo: EPISODE - Bin Night'
+  - 'Bingo: EPISODE - Stickbird'
+  - 'Bingo: EPISODE - Takeaway'
+  - 'Bingo: EPISODE - Relax'
+  - 'Bingo: EPISODE - Sleepytime'
+  - 'Bingo: OUTRO'
+  - 'Muffin: INTRO'
+  - 'Muffin: SONG - Theme Song'
+  - 'Muffin: EPISODE - Muffin Cone'
+  - 'Muffin: EPISODE - Granny Mobile'
+  - 'Muffin: EPISODE - Baby Race'
+  - 'Muffin: EPISODE - Cricket'
+  - 'Muffin: EPISODE - Fairy Tale'
+  - 'Muffin: EPISODE - Dragons'
+  - 'Muffin: OUTRO'
+  - 'Bluey: INTRO'
+  - 'Bluey: SONG - Theme Song'
+  - 'Bluey: EPISODE - Grannies'
+  - 'Bluey: EPISODE - Duck Cake'
+  - 'Bluey: EPISODE - Promises'
+  - 'Bluey: EPISODE - Double Babysitter'
+  - 'Bluey: EPISODE - Early Baby'
+  - 'Bluey: EPISODE - The Creek'
+  - 'Bluey: EPISODE - Camping'
+  - 'Bluey: OUTRO'
   ids: []
