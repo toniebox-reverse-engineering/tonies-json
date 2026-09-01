@@ -1,0 +1,27 @@
+article: '11003605'
+lock-data: false
+data:
+- series: The Last Airbender
+  series-id: the-last-airbender
+  episode: The Last Airbender - Aang
+  release: 1789257600
+  language: en-gb
+  category: audio-play
+  runtime: 69
+  age: 7
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11003605_Transparent-d4BIoN-H.png
+  sample: https://cdn.tonies.de/o/audio_samples/3e9a611f1ca2eed9d8637ff8aa18798e8d59c2e390d3e6adc7989c64/avatar_the_last_airbender_sample.mp3
+  web: https://tonies.com/en-gb/tonies/the-last-airbender/the-last-airbender-aang/
+  shop-id: a437e307-7914-43d7-b320-a886fa53078c
+  track-desc:
+  - Prologue
+  - Uncle Iroh’s Wisdom 1
+  - Story 1 - Water
+  - Uncle Iroh’s Wisdom 2
+  - Story 2 - Earth
+  - Uncle Iroh’s Wisdom 3
+  - Story 3 - Fire
+  - Uncle Iroh’s Wisdom 4
+  - Story 4 - Air
+  ids: []
