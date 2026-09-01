@@ -1,0 +1,26 @@
+article: '11004867'
+lock-data: false
+data:
+- series: Enchanted Bedtime Stories
+  series-id: enchanted-bedtime-stories
+  episode: Enchanted Bedtime Stories
+  release: 1789084800
+  language: en-gb
+  category: audio-book
+  runtime: 80
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11004867_Landscape_1-6G-rUYEa.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/82c8288883c3306924318e45479c14d39de5df9fa00ae23b542fefb8/enchanted_bedtime_stories_sample.mp3
+  web: https://tonies.com/en-gb/book-tonies/enchanted-bedtime-stories/enchanted-bedtime-stories/
+  shop-id: 26bc269f-b4e1-41ce-80c4-fd9a9c25b91f
+  track-desc:
+  - STORY - Gribit
+  - STORY - Toby Twanger
+  - STORY - Sugarplum
+  - STORY - Mr Goldsworth
+  - STORY - Betty Brownthumb
+  - 06. STORY - Jean Macaron
+  - STORY - Pearl the Unicorn
+  - STORY - The Great Big Shush
+  ids: []

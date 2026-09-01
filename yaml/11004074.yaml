@@ -1,0 +1,25 @@
+article: '11004074'
+lock-data: false
+data:
+- series: Peppa Pig
+  series-id: peppa-pig
+  episode: 'Peppa Pig: George''s New Sounds'
+  release: 1789084800
+  language: en-gb
+  category: audio-play
+  runtime: 63
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11004074_Transparent-IDuZapfE.png
+  sample: https://cdn.tonies.de/o/audio_samples/66dacc4feff242c429b4fe401ea49990a4e65fab222f27b3c2ebb2a9/george_s_new_sounds_sample.wav
+  web: https://tonies.com/en-gb/tonies/peppa-pig/georges-new-sounds/
+  shop-id: 5f53997b-886a-4096-94b4-cdd2626c3f92
+  track-desc:
+  - 01. STORY - Hearing Test
+  - 02. STORY - Favourite Sound
+  - 03. STORY - Hearing Aid
+  - 04. STORY - Sci-Fi Convention
+  - 05. STORY - Oink and Seek
+  - 06. STORY - Nee-Naw
+  - '07. STORY - Bonus: Playgroup Visitor'
+  ids: []

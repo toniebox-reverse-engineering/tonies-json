@@ -1,0 +1,22 @@
+article: '11004470'
+lock-data: false
+data:
+- series: Natural History Museum
+  series-id: discovery-crew
+  episode: 'Natural History Museum: Discovery Crew - Investigate Dinosaurs'
+  release: 1789084800
+  language: en-gb
+  category: audio-play
+  runtime: 94
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11004470_Landscape_3--yxvs4Hb.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/eec0bc4aaa614bc8dd18164ae4df8475068af917ce0a19ea55cb43f5/natural_history_museum_dinsosaurs_sample.wav
+  web: https://tonies.com/en-gb/clever-tonies/discovery-crew/natural-history-museum-discovery-crew-investigate-dinosaurs/
+  shop-id: 1ec2d741-1fd1-4773-ac91-f186643771a8
+  track-desc:
+  - 'Discovery Crew: Investigate Dinosaurs - Desert Predators'
+  - 'Discovery Crew: Investigate Dinosaurs - Jungle Giants'
+  - 'Discovery Crew: Investigate Dinosaurs - British Discoveries'
+  - 'Discovery Crew: Investigate Dinosaurs - Prehistoric Poles'
+  ids: []

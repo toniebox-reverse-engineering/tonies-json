@@ -1,0 +1,30 @@
+article: '11004442'
+lock-data: false
+data:
+- series: Wonderblocks
+  series-id: cc16b56e-5450-4b8a-aa94-3b91ce8bd1fc
+  episode: Wonderblocks
+  release: 1789084800
+  language: en-gb
+  category: audio-play
+  runtime: 101
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11004442_Landscape_1-TSEUBS_G.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/f6be1e9e9d21a018616264bf7481be97e2e74f0fe8f3f22afb6f2be9/wonderblocks_audio_sample.wav
+  web: https://tonies.com/en-gb/clever-tonies/wonderblocks/wonderblocks/
+  shop-id: bd185e84-928c-4630-b91d-0ff47960965b
+  track-desc:
+  - Episode 1 – Secret Agent Chicken
+  - Join Secret Agent Chicken, Go and Stop on a feather-filled mystery packed with
+    secret missions, clever inventions and fun sound puzzles.
+  - Episode 2 – The Three Bears
+  - From breakfast mysteries to beach adventures, help The Three Bears problem solve
+    and enjoy a day packed with surprises and fun.
+  - Episode 3 – Here We Go Again
+  - Meet Again, the Wonderblock who loves to repeat! Can you help create loopable
+    patterns to help save the day?
+  - Episode 4 – Go & Stop – Best Friends
+  - It's Cow's birthday! Join Go and Stop as they plan the perfect party, solving
+    fun puzzles and learning teamwork every step of the way.
+  ids: []
