@@ -24,4 +24,9 @@ data:
   - 'Trainer Academy: Where to Find Pokémon'
   - 'Story 3: Bulbasaur to the Rescue!'
   - Concluding Segment
-  ids: []
+  ids:
+  - audio-id: 1787094014
+    hash: e40724efe6357b35e2466cd4fe385f13da1528c9
+    size: 58848277
+    tracks: 9
+    confidence: 1

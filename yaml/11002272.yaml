@@ -39,4 +39,9 @@ data:
   - SONG - Lazy Lion
   - SONG - If You Should Meet An Elephant
   - OUTRO - Bye Bye Friends
-  ids: []
+  ids:
+  - audio-id: 1756805591
+    hash: 7eec911770b14f31240150abd0d8b4b471d693e3
+    size: 42252819
+    tracks: 24
+    confidence: 1

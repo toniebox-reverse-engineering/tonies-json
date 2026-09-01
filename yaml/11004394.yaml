@@ -40,4 +40,9 @@ data:
   - Noch mehr Geheimnisse 2
   - Mr Craven kommt nach Hause 1
   - Mr Craven kommt nach Hause 2
-  ids: []
+  ids:
+  - audio-id: 1774362087
+    hash: 3ed36db55c006c17f22f1704b2864d9436b1e822
+    size: 111699867
+    tracks: 25
+    confidence: 1

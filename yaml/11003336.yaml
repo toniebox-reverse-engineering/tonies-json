@@ -20,4 +20,9 @@ data:
   - 'Kapitel 03: Ferkels großes Abenteuer'
   - 'Kapitel 04: Ferkels großes Abenteuer'
   - 'Lied: Wär’ ich bloß nicht so klein'
-  ids: []
+  ids:
+  - audio-id: 1776772647
+    hash: 34e95f1f7e382845cdd38d8fc2eda85f6c0157ff
+    size: 36731236
+    tracks: 5
+    confidence: 1

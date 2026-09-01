@@ -17,4 +17,9 @@ data:
   track-desc:
   - Intro
   - Der magische Fußball
-  ids: []
+  ids:
+  - audio-id: 1787868014
+    hash: 7fa958501fd5ca15190a34eb657fc8c5d19a1966
+    size: 8172541
+    tracks: 1
+    confidence: 1

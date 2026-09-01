@@ -24,4 +24,9 @@ data:
   - 'Trainer Academy: How Pokémon Get Stronger'
   - 'Story 3: Fire and Ice'
   - Concluding Segment
-  ids: []
+  ids:
+  - audio-id: 1787094014
+    hash: daf45cd0eba3bdf9cfe8015b44db5a1abb9ce979
+    size: 57045386
+    tracks: 9
+    confidence: 1
