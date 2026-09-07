@@ -2,9 +2,9 @@ article: '11004867'
 lock-data: false
 data:
 - series: Enchanted Bedtime Stories
-  series-id: enchanted-bedtime-stories
+  series-id: fefdef11-9d65-4097-9317-2ab775aa09b6
   episode: Enchanted Bedtime Stories
-  release: 1789084800
+  release: 1789257600
   language: en-gb
   category: audio-book
   runtime: 80
@@ -15,12 +15,13 @@ data:
   web: https://tonies.com/en-gb/book-tonies/enchanted-bedtime-stories/enchanted-bedtime-stories/
   shop-id: 26bc269f-b4e1-41ce-80c4-fd9a9c25b91f
   track-desc:
+  - Intro
   - STORY - Gribit
   - STORY - Toby Twanger
   - STORY - Sugarplum
-  - STORY - Mr Goldsworth
+  - STORY - Mr. Goldsworth
   - STORY - Betty Brownthumb
-  - 06. STORY - Jean Macaron
-  - STORY - Pearl the Unicorn
-  - STORY - The Great Big Shush
+  - STORY - Jean Macaron
+  - STORY - Pearl The Unicorn
+  - STORY - The Big Shush
   ids: []

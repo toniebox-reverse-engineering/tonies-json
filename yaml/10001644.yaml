@@ -15,14 +15,14 @@ data:
   web: https://tonies.com/en-gb/tonies/bluey/bluey/
   shop-id: b2a99f05-effd-4c75-8f50-dd89a09ea9bb
   track-desc:
-  - 01. INTRO - Dan Brumm Intro
-  - 02. SONG - THEME SONG
-  - 03. EPISODE - GRANNIES
-  - 04. EPISODE - DUCK CAKE
-  - 05. EPISODE - PROMISES
-  - 06. EPISODE - DOUBLE BABYSITTER
-  - 07. EPISODE - EARLY BABY
-  - 08. EPISODE - THE CREEK
-  - 09. EPISODE - CAMPING
-  - 10. OUTRO – THEME SONG
+  - INTRO
+  - SONG - Theme Song
+  - EPISODE - Grannies
+  - EPISODE - Duck Cake
+  - EPISODE - Promises
+  - EPISODE - Double Babysitter
+  - EPISODE - Early Baby
+  - EPISODE - The Creek
+  - EPISODE - Camping
+  - OUTRO
   ids: []
