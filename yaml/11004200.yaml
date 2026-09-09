@@ -1,0 +1,24 @@
+article: '11004200'
+lock-data: false
+data:
+- series: Barbie
+  series-id: barbie
+  episode: Du kannst alles sein
+  release: 1791331200
+  language: de-de
+  category: audio-play
+  runtime: 50
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/Tonies_11004200_1-O27ZMAZ4.png
+  sample: null
+  web: https://tonies.com/de-de/tonies/barbie/du-kannst-alles-sein/
+  shop-id: 63b835c2-3a20-4552-ae55-800e716d3581
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  ids: []

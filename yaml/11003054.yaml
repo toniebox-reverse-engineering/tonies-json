@@ -1,0 +1,38 @@
+article: '11003054'
+lock-data: false
+data:
+- series: Helene Fischer
+  series-id: hfk-helene-fischer-kids
+  episode: Die schönsten Kinderlieder
+  release: 1791331200
+  language: de-de
+  category: music
+  runtime: 48
+  age: 2
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/Tonies_11003054_1-Zt5EGvuN.png
+  sample: https://cdn.tonies.de/o/audio_samples/5dbfb8527544c69d5eb23e77a79af9f441120eb4193c18a3c78b94e6/hoerprobe_11003054_helene_fischer_kids_die_schoensten_kinderlieder.mp3
+  web: https://tonies.com/de-de/tonies/hfk-helene-fischer-kids/die-schoensten-kinderlieder/
+  shop-id: e94cf34b-be97-411c-9973-0230c890f58e
+  track-desc:
+  - Hallo, hallo, schön, dass du da bist
+  - So ein schöner Tag (Fliegerlied)
+  - Fünf kleine Fische
+  - Baby Shark
+  - Tschu Tschu wa
+  - Das Lied über mich
+  - Es tanzt ein Bi-Ba-Butzemann
+  - Hände waschen
+  - Hoppe, hoppe Reiter
+  - Die Räder vom Bus
+  - Meine Hände sind verschwunden
+  - Guck mal diese Biene da
+  - Das rote Pferd
+  - Hoki Poki
+  - Der Körperteil Blues
+  - Die Jahresuhr
+  - Wer will fleißige Handwerker seh'n
+  - Zeigt her eure Füße ISRC
+  - Ich lieb’ den Frühling (Bonus)
+  - Grün, grün, grün sind alle meine Kleider (Bonus)
+  ids: []

@@ -1,0 +1,34 @@
+article: '11005134'
+lock-data: false
+data:
+- series: GROßE EXPERTEN
+  series-id: grosse-experten
+  episode: Piraten
+  release: 1791331200
+  language: de-de
+  category: audio-play
+  runtime: 60
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/Tonies_11005134_1-3AV5XhCz.png
+  sample: https://cdn.tonies.de/o/audio_samples/1ccf6d8a9db69ab4aae3425b8766ec2d44cfeb73f98def23c6d551a2/horprobe_ge_piraten.mp3
+  web: https://tonies.com/de-de/clever-tonies/grosse-experten/grosse-experten-piraten/
+  shop-id: bc832f17-9c31-4a97-922b-24e643273039
+  track-desc:
+  - Titelsong
+  - Die schwarze Flagge 1
+  - Die schwarze Flagge 2
+  - Die schwarze Flagge 3
+  - Die schwarze Flagge 4
+  - Die schwarze Flagge 5
+  - Die schwarze Flagge 6
+  - Die schwarze Flagge 7
+  - Der Piratenschatz 1
+  - Der Piratenschatz 2
+  - Der Piratenschatz 3
+  - Der Piratenschatz 4
+  - Der Piratenschatz 5
+  - Der Piratenschatz 6
+  - Der Piratenschatz 7
+  - Der Piratenschatz 8
+  ids: []

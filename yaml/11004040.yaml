@@ -1,0 +1,38 @@
+article: '11004040'
+lock-data: false
+data:
+- series: Si-Sa-Singemaus
+  series-id: detlev-joecker
+  episode: Lern,- Spiel- und Spaßlieder
+  release: 1791331200
+  language: de-de
+  category: music
+  runtime: 50
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/Tonies_11004040_1-OtXHFiZA.png
+  sample: https://cdn.tonies.de/o/audio_samples/d165a2bb66a608ee27a6ec9c84130b6ac5ac527de589e7040f724dce/hoerprobe_11004040_detlev_joecker_lern_spiel_und_spasslieder.mp3
+  web: https://tonies.com/de-de/tonies/detlev-joecker/detlev-joecker-lern-spiel-und-spasslieder/
+  shop-id: ddfcedae-bb25-4519-988a-8b9d6eda0bad
+  track-desc:
+  - Si-Sa-Singemaus
+  - 1,2,3 im Sauseschritt
+  - Wir fahren mit der Bimmelbahn
+  - Ach, wie bin ich müde (Das Wachmacherlied)
+  - Wir gehen jetzt im Kreise
+  - Guten Tag, liebe Leute
+  - Beim Sommerfest auf der Wiese
+  - Das Flummilied
+  - Wischi wischi waschi
+  - Das Kille-Kitzel-Monster
+  - Besucht uns mal im Kindergarten
+  - Mein nagelneuer Roboter
+  - Zauberer Schrappelschrut
+  - Himpel Und Pimpel
+  - Das Lied vom Wackelpudding
+  - Zwerg Wackelmütze
+  - Komm mit mir
+  - Schritt Vor Schritt
+  - Wißt ihr, was die Bienen träumen
+  - Bist du müde kleine Maus
+  ids: []

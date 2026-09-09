@@ -1,0 +1,39 @@
+article: '11003897'
+lock-data: false
+data:
+- series: SpongeBob Schwammkopf
+  series-id: spongebob-schwammkopf
+  episode: Patrick, der Postbote und weitere Abenteuer
+  release: 1791331200
+  language: de-de
+  category: audio-play
+  runtime: 62
+  age: 6
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/Tonies_11003897_1-25tskoe4.png
+  sample: https://cdn.tonies.de/o/audio_samples/08480cfc2f56d8ac166f5f3b9b32847c17c03b2234d8bdb96ab585f4/horprobe_02_spongebob_schwammkopf_patrick_der_postbote_kapitel_01.wav
+  web: https://tonies.com/de-de/tonies/spongebob-schwammkopf/patrick-der-postbote-und-weitere-abenteuer/
+  shop-id: 8c911770-038a-4498-82f2-39c01b820283
+  track-desc:
+  - Titelsong
+  - Patrick, der Postbote – Teil 1
+  - Patrick, der Postbote – Teil 2
+  - Patrick, der Postbote – Teil 3
+  - Patrick, der Postbote – Teil 4
+  - Patrick, der Postbote – Teil 5
+  - Fahrrad-Fahrtraining – Teil 1
+  - Fahrrad-Fahrtraining – Teil 2
+  - Fahrrad-Fahrtraining – Teil 3
+  - Fahrrad-Fahrtraining – Teil 4
+  - Fahrrad-Fahrtraining – Teil 5
+  - Die Muschelplage – Teil 1
+  - Die Muschelplage – Teil 2
+  - Die Muschelplage – Teil 3
+  - Die Muschelplage – Teil 4
+  - Die Muschelplage – Teil 5
+  - Der Haustier-Stein – Teil 1
+  - Der Haustier-Stein – Teil 2
+  - Der Haustier-Stein – Teil 3
+  - Der Haustier-Stein – Teil 4
+  - Der Haustier-Stein – Teil 5
+  ids: []

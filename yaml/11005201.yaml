@@ -1,0 +1,33 @@
+article: '11005201'
+lock-data: false
+data:
+- series: GROßE EXPERTEN
+  series-id: grosse-experten
+  episode: Die Eisenbahn
+  release: 1791331200
+  language: de-de
+  category: audio-play
+  runtime: 60
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/Tonies_11005201_1-1OPEjMXI.png
+  sample: https://cdn.tonies.de/o/audio_samples/9885273d51a42c355e2a6b11504d5feb4b3075fc4be575a67032cd14/horprobe_eisenbahn.mp3
+  web: https://tonies.com/de-de/clever-tonies/grosse-experten/grosse-experten-die-eisenbahn/
+  shop-id: 43655a0b-0bcc-4ab2-8a36-8aed66ac6fd6
+  track-desc:
+  - Titelsong
+  - Vollgas im ICE 1
+  - Vollgas im ICE 2
+  - Vollgas im ICE 3
+  - Vollgas im ICE 4
+  - Vollgas im ICE 5
+  - Vollgas im ICE 6
+  - Vollgas im ICE 7
+  - Vollgas im ICE 8
+  - Freie Fahrt mit der Dampflok 1
+  - Freie Fahrt mit der Dampflok 2
+  - Freie Fahrt mit der Dampflok 3
+  - Freie Fahrt mit der Dampflok 4
+  - Freie Fahrt mit der Dampflok 5
+  - Freie Fahrt mit der Dampflok 6
+  ids: []
