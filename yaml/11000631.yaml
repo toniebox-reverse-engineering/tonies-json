@@ -17,6 +17,11 @@ data:
   track-desc:
   - Welcome to The Little Reindeer's Christmas Wish
   ids:
+  - audio-id: 1788947439
+    hash: d30c7b8568750d50fa25e28599911d613e9b3b03
+    size: 137938567
+    tracks: 25
+    confidence: 1
   - audio-id: 1777379130
     hash: a37aadd99d6be43eb0a2f3e413efffe0b7088af1
     size: 137938567
