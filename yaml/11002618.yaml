@@ -45,4 +45,9 @@ data:
   - 'EPISODE 24: Spin Cycle'
   - 'EPISODE 25: Passing Out Parade'
   - 'EPISODE 26: Love'
-  ids: []
+  ids:
+  - audio-id: 1742915769
+    hash: 88cf15de26b75accd6caba46ba3d13fcb6779d01
+    size: 132313979
+    tracks: 30
+    confidence: 1

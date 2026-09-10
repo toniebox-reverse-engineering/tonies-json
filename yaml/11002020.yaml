@@ -23,4 +23,9 @@ data:
   - La Mélodie du Chocolat
   - L’Atelier des Délices
   - Rendez-vous à Noël prochain
-  ids: []
+  ids:
+  - audio-id: 1761837589
+    hash: ce1764d05387fc7e819c7086d6898e34564edcd6
+    size: 52324682
+    tracks: 8
+    confidence: 1

@@ -48,4 +48,9 @@ data:
   - Chapter 16 - What Happened About The Statues - Part 2
   - Chapter 17 - The Hunting of the White Stag - Part 1
   - Chapter 17 - The Hunting of the White Stag - Part 2
-  ids: []
+  ids:
+  - audio-id: 1762251671
+    hash: a079f4dce8e5b26497104ad050dd926c80c964d6
+    size: 164118498
+    tracks: 33
+    confidence: 1

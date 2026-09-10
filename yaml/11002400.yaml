@@ -20,4 +20,9 @@ data:
   - SONG - The Tiddler Song
   - SONG - The Tiddler Song (Instrumental)
   - READALONG
-  ids: []
+  ids:
+  - audio-id: 1753694219
+    hash: 06c112de061e3b5294576ef89c0ddeabbb8ae648
+    size: 28424910
+    tracks: 5
+    confidence: 1

@@ -40,4 +40,9 @@ data:
   - The Thirteenth Light
   - Will Snowflake and Oscar Make It in Time??
   - Merry Christmas Everyone!
-  ids: []
+  ids:
+  - audio-id: 1766620820
+    hash: 29541946b636c4f4a3f8bacdf11ab2f0e859cc05
+    size: 99603135
+    tracks: 25
+    confidence: 1

@@ -20,4 +20,9 @@ data:
   - The Smeds And The Smoos Listening Game
   - The Smeds And The Smoos Singalong
   - The Smeds And The Smoos Readalong
-  ids: []
+  ids:
+  - audio-id: 1761839150
+    hash: e93bcc364e41e4f4546ee112cb2d2273a9aae7f5
+    size: 24037923
+    tracks: 5
+    confidence: 1
