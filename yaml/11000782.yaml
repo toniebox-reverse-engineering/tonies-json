@@ -31,6 +31,11 @@ data:
   - Friday 28th August
   - Today With Tonies Jingle
   ids:
+  - audio-id: 1788995106
+    hash: 8dc6e9d9d6a5b687c7c35b0b0d2f6c3d8754b949
+    size: 144604390
+    tracks: 15
+    confidence: 1
   - audio-id: 1788908714
     hash: f6b48fd0dd2150670f0b1a48395ada0f5c4b9fa9
     size: 144469222
