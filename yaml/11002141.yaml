@@ -36,6 +36,16 @@ data:
   - Grand Prix of Europe – Teil 19
   - Grand Prix of Europe – Teil 20
   ids:
+  - audio-id: 596807292
+    hash: d668a75c6d3d2e38e1688a4f6abdd3252dd0b506
+    size: 50247709
+    tracks: 20
+    confidence: 0
+  - audio-id: 1753335616
+    hash: e7172652564e038c49734d287d078dc410b947d5
+    size: 50247709
+    tracks: 20
+    confidence: 0
   - audio-id: 1753791403
     hash: bc1b9a258a7e69dc3643d19b650400aece91d178
     size: 50247709
