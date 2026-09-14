@@ -619,7 +619,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001012,Disney,disney,La Princesse Et La Grenouille,fr-fr,audio-play-songs,stock,ce8463ff-9a07-427f-9076-817b96e99eaf,https://tonies.com/fr-fr/tonies/disney/la-princesse-et-la-grenouille/,1,0,0,0
 10001014,Astérix,asterix,Astérix Le Gaulois,fr-fr,audio-play,stock,a542033a-7c62-485a-96a7-3ade5246aeb1,https://tonies.com/fr-fr/tonies/asterix/asterix-le-gaulois/,1,1,1,0
 10001015,Raiponce,disney-tangled,Raiponce,fr-fr,audio-play-songs,stock,062ae954-5c52-4004-80ae-8a7ba250dbb7,https://tonies.com/fr-fr/tonies/disney-raiponce/raiponce/,1,1,1,0
-10001016,C'Est Toujours Pas Sorcier,c-est-toujours-pas-sorcier,Sur Les Traces Des Dinosaures,fr-fr,audio-play-educational,stock,a5433bd6-3436-4dbb-aa0c-3e36b239f155,https://tonies.com/fr-fr/tonies/c-est-toujours-pas-sorcier/sur-les-traces-des-dinosaures/,1,0,0,0
+10001016,C'Est Toujours Pas Sorcier,c-est-toujours-pas-sorcier,Sur Les Traces Des Dinosaures,fr-fr,audio-play-educational,stock,a5433bd6-3436-4dbb-aa0c-3e36b239f155,https://tonies.com/fr-fr/tonies/c-est-toujours-pas-sorcier/sur-les-traces-des-dinosaures/,1,1,0,0
 10001017,Mes Contes Préférés,mes-contes-preferes,Le Petit Chaperon Rouge Et 3 Autres Contes,fr-fr,audio-play,stock,e805a0d2-d351-4055-9971-4e0ecdad90ed,https://tonies.com/fr-fr/tonies/mes-contes-preferes/le-petit-chaperon-rouge-et-3-autres-contes/,1,1,1,0
 10001018,Mes Classiques Préférés,mes-classiques-preferes,Pinocchio Et 2 Autres Classiques,fr-fr,audio-play,stock,0367b6fd-d667-4283-8191-e6b5c9fd935b,https://tonies.com/fr-fr/tonies/mes-classiques-preferes/pinocchio-et-2-autres-classiques/,1,1,1,0
 10001019,Mes Comptines Préférées,lieblings-kinderlieder,À Mimer,fr-fr,music,stock,24d9c453-5a60-4c36-8942-30e9ace867ac,https://tonies.com/fr-fr/tonies/mes-comptines-preferees/mimer/,1,1,1,0
@@ -702,7 +702,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001259,Lieblings-Kinderlieder,lieblings-kinderlieder,Schlaflieder 2,de-de,music,stock,be76f9ef-9f0c-478a-98d1-641c74d8eb35,https://tonies.com/de-de/tonies/lieblings-kinderlieder/schlaflieder-2-2021/,1,1,1,0
 10001260,La Pat' Patrouille,paw-patrol,Marcus,fr-fr,audio-play,stock,6f152f87-3936-4c00-99d3-24160147dc0d,https://tonies.com/fr-fr/tonies/la-pat-patrouille/marcus/,1,1,1,0
 10001261,C'Est Toujours Pas Sorcier,c-est-toujours-pas-sorcier,Plongée Dans Les Océans,fr-fr,audio-play-educational,stock,eec0c5c9-e292-4d0a-b48a-eec64d447cc8,https://tonies.com/fr-fr/tonies/c-est-toujours-pas-sorcier/plongee-dans-les-oceans/,1,0,0,0
-10001262,C'Est Toujours Pas Sorcier,c-est-toujours-pas-sorcier,Les Secrets De L'Espace,fr-fr,audio-play-educational,stock,f0f0f01e-7fe2-4b10-beab-f6fd0f645a29,https://tonies.com/fr-fr/tonies/c-est-toujours-pas-sorcier/les-secrets-de-l-espace/,1,0,0,0
+10001262,C'Est Toujours Pas Sorcier,c-est-toujours-pas-sorcier,Les Secrets De L'Espace,fr-fr,audio-play-educational,stock,f0f0f01e-7fe2-4b10-beab-f6fd0f645a29,https://tonies.com/fr-fr/tonies/c-est-toujours-pas-sorcier/les-secrets-de-l-espace/,1,1,0,0
 10001263,La Belle Et La Bête,disney-beauty-and-the-beast,La Belle Et La Bête,fr-fr,audio-play-songs,stock,086010d5-5f16-446f-b40b-11f180287aaa,https://tonies.com/fr-fr/tonies/disney-la-belle-et-la-bete/la-belle-et-la-bete/,1,1,1,0
 10001264,Snöfrid aus dem Wiesental,snofrid-2,Das wahrlich große Geheimnis von Appelgarden,de-de,audio-book,stock,e5aa0626-9c2d-44f9-9508-3b4855281ecb,https://tonies.com/de-de/tonies/snoefrid-aus-dem-wiesental/geheimnis-von-appelgarden/,1,1,1,0
 10001266,La Pat' Patrouille,paw-patrol,Stella,fr-fr,audio-play,stock,464a08bb-7421-4ae0-a113-42f57c19142d,https://tonies.com/fr-fr/tonies/la-pat-patrouille/stella/,1,0,0,0
@@ -1193,7 +1193,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000576,Drôles De Petites Bêtes,droles-de-petites-betes,Camille La Chenille,fr-fr,audio-book,stock,1ede1777-a81d-4ba8-88d7-3831ca8972e8,https://tonies.com/fr-fr/tonies/droles-de-petites-betes/camille-la-chenille/,1,0,0,0
 11000577,Mini-Loup,mini-loup,Mini-Loup À L'École,fr-fr,audio-play,stock,7179ae82-db42-4163-bfb5-76f186e58e34,https://tonies.com/fr-fr/tonies/mini-loup/mini-loup-a-l-ecole/,1,0,0,0
 11000578,Tara Duncan,tara-duncan-2,Vive La Magie !,fr-fr,audio-play,stock,d8b13c6d-2add-42af-98b9-8c22e24115c4,https://tonies.com/fr-fr/tonies/tara-duncan/vive-la-magie/,1,0,0,0
-11000579,Pokémon,bdca2572-8434-4369-8e7b-5eeabbb0bb1f,Pikachu,fr-fr,audio-play,stock,d2c94b34-8630-49b4-9d49-38bb6b7aba2a,https://tonies.com/fr-fr/tonies/pokemon/pikachu/,1,0,0,0
+11000579,Pokémon,bdca2572-8434-4369-8e7b-5eeabbb0bb1f,Pikachu,fr-fr,audio-play,stock,d2c94b34-8630-49b4-9d49-38bb6b7aba2a,https://tonies.com/fr-fr/tonies/pokemon/pikachu/,1,1,0,0
 11000580,Totally Spies,totally-spies,Alex,fr-fr,audio-play,stock,d322ad3d-3d19-4b5c-b3c2-f38e268bed93,https://tonies.com/fr-fr/tonies/totally-spies/alex/,1,0,0,0
 11000581,Totally Spies,totally-spies,Clover,fr-fr,audio-play,stock,25812e47-d636-41b8-811a-3d3fc6fd7396,https://tonies.com/fr-fr/tonies/totally-spies/clover/,1,0,0,0
 11000583,Alix Pix,alix-pix-1,"Mystères, Petits Pièges Et Sortilèges",fr-fr,audio-play,stock,d75a824b-f197-44c2-8c0a-b41bc691b8dc,https://tonies.com/fr-fr/tonies/alix-pix/mysteres-petits-pieges-et-sortileges/,1,0,0,0
@@ -1508,7 +1508,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11002144,Dora,dora-the-explorer,Dora the explorer,en-gb,audio-play-songs,stock,c5d3bc91-c0fa-418c-a689-a364699ef538,https://tonies.com/en-gb/tonies/dora-the-explorer/dora-the-explorer/,1,0,0,0
 11002145,Zootopia,disney-zoomania,Zootropolis,en-gb,audio-play,stock,b4743afb-0d9c-476e-80da-47b75837f523,https://tonies.com/en-gb/tonies/disney-zootopia/zootropolis/,1,0,0,0
 11002151,Tales of the Teenage Mutant Ninja Turtles,,Leonardo,en-us,Tonie,stock,9148582002839,,1,1,1,0
-11002167,Tortues Ninja,teenage-mutant-ninja-turtles,Leonardo,fr-fr,audio-play,stock,dbfb2ee0-6f50-4922-bc8a-9f37f504cf92,https://tonies.com/fr-fr/tonies/tortues-ninja/leonardo/,1,0,0,0
+11002167,Tortues Ninja,teenage-mutant-ninja-turtles,Leonardo,fr-fr,audio-play,stock,dbfb2ee0-6f50-4922-bc8a-9f37f504cf92,https://tonies.com/fr-fr/tonies/tortues-ninja/leonardo/,1,1,0,0
 11002173,Disney,,Minnie Mouse Clubhouse,en-us,Tonie,stock,9614910685335,,1,1,1,0
 11002209,Hot Wheels,,,en-us,Tonie,stock,9185415200919,,1,1,1,0
 11002211,tonies® Original,tonies-originals,Potty Training,en-gb,audio-play,stock,aea3bd46-51aa-42bd-8b39-b95ac5573bb1,https://tonies.com/en-gb/tonies/tonies-originals/potty-training/,1,1,1,0
