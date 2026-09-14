@@ -26,4 +26,9 @@ data:
   - Beim Tannenbaum schmücken
   - Wir haben allen geholfen
   - Mitmach-Lied mit Weihnachtsbaum-Strophe
-  ids: []
+  ids:
+  - audio-id: 1789040570
+    hash: 303769a669934b63c5f5d6ae8afe0b6b71a11113
+    size: 35133633
+    tracks: 21
+    confidence: 1
