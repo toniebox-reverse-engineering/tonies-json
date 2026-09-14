@@ -1,0 +1,23 @@
+article: '11000676'
+lock-data: false
+data:
+- series: Globis verrückte Abenteuer
+  series-id: null
+  episode: Globis verrückte Abenteuer
+  release: null
+  language: de-ch
+  category: audio-play
+  runtime: 53
+  age: 3
+  origin: stock
+  image: null
+  sample: null
+  web: null
+  shop-id: null
+  track-desc: []
+  ids:
+  - audio-id: 1720515724
+    hash: ac6a429646ea2cc16d3890295df136e4b82938c2
+    size: 38790330
+    tracks: 16
+    confidence: 0
