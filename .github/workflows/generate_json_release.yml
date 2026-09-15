@@ -30,6 +30,7 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout tools
+        if: github.event_name != 'pull_request'
         uses: actions/checkout@v4
         with:
           repository: toniebox-reverse-engineering/tonies-json-tools
@@ -38,9 +39,9 @@ jobs:
       - name: Checkout YAMLs
         uses: actions/checkout@v4
         with:
-          repository: toniebox-reverse-engineering/tonies-json
           path: tonies-json
       - name: Checkout tonies.json release Repo
+        if: github.event_name != 'pull_request'
         uses: actions/checkout@v4
         with:
           repository: toniebox-reverse-engineering/tonies-json
@@ -48,26 +49,30 @@ jobs:
           path: tonies-json-release
           
       - name: Delete old artifacts tonies-json-release
+        if: github.event_name != 'pull_request'
         run: |
           cd tonies-json-release
           rm -f tonies.json toniesV2.json
           
       - name: Prepare python
         run: |
-          pip3 install requests protobuf
+          pip3 install requests protobuf pyyaml
           
       - name: Prepare directories
+        if: github.event_name != 'pull_request'
         run: |
           cd tonies-json-tools
           ./create_dirs.py
           
       - name: Run yaml2tonies-json.py
         run: |
-          cd tonies-json-tools
           if [[ "${{ github.event_name }}" == "pull_request" ]]; then
             echo "Running in simulate mode for PR validation..."
+            cd tonies-json
+            [ -f tonies_json_config.py ] || cp tonies_json_config.example.py tonies_json_config.py
             ./yaml2tonies-json.py --simulate
           else
+            cd tonies-json-tools
             ./yaml2tonies-json.py
           fi
           
