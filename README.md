@@ -14,7 +14,7 @@ DON'T change the values manually. Even if the tracks count seems to be wrong, if
     tracks: 4
     confidence: 0
 ```
-Always put the newest (highes audio-id) at the top. If there is alread
+Always put the newest (highes audio-id) at the top. If there is already an entry, don't remove it!
 
 Please don't edit files within the source-yaml folder. These files contain meta data, the scraper produces.
 
