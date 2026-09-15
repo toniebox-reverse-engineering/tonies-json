@@ -11,7 +11,7 @@ data:
   age: 5
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/Tonies_11004200_1-O27ZMAZ4.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/2b85929e76398b0b36abcd1164e946533caad1c7bddc0cd7cad136d7/horprobe_barbie_classic_tonie.mp3
   web: https://tonies.com/de-de/tonies/barbie/du-kannst-alles-sein/
   shop-id: 63b835c2-3a20-4552-ae55-800e716d3581
   track-desc:
