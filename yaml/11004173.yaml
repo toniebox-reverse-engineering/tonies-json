@@ -1,0 +1,47 @@
+article: '11004173'
+lock-data: false
+data:
+- series: Bluey
+  series-id: bluey
+  episode: Coffret 3 Figurines Bluey
+  release: 1789603200
+  language: fr-fr
+  category: audio-play
+  runtime: 137
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/image-pdt-3-tonies-QX7iwCEF.png
+  sample: https://cdn.tonies.de/o/audio_samples/44e47f7054dc006afb0c32984a631d3f7036f696f5ab6fb63db57b02/11004276__bluey_bluey_extrait_wav2.wav
+  web: https://tonies.com/fr-fr/tonies/bluey/coffret-3-figurines-bluey/
+  shop-id: 87a52270-6f95-4fa4-bef3-fd77c117a70c
+  track-desc:
+  - Bluey - Introduction
+  - Bluey - Chanson générique
+  - Bluey - Les grands-mères
+  - Bluey - Le Gâteau Canard
+  - Bluey - Les promesses
+  - Bluey - Deux baby-sitters
+  - Bluey - Le bébé prématuré
+  - Bluey - La crique
+  - Bluey - Camping
+  - Bluey - Chanson générique
+  - Bingo - Introduction
+  - Bingo - Chanson générique
+  - Bingo - La déchetterie
+  - Bingo - Les jambes fatiguées
+  - Bingo - Le soir des poubelles
+  - Bingo - L'oiseau-bâton
+  - Bingo - Plats à emporter
+  - Bingo - Détends-toi
+  - Bingo - C'est l'heure de dormir
+  - Bingo - Chanson générique
+  - Muffin - Introduction
+  - Muffin - Chanson générique
+  - Muffin - La collerette de Muffin
+  - Muffin - Le scooter à mamies
+  - Muffin - La course des bébés
+  - Muffin - Le cricket
+  - Muffin - Le petit bisou
+  - Muffin - Le dragon
+  - Muffin - Chanson générique
+  ids: []
