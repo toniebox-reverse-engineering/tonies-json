@@ -15,13 +15,13 @@ data:
   web: https://tonies.com/de-de/tonies/disney-fantasia/fantasia/
   shop-id: 12e47cf6-3d9b-4fc0-87d6-0da027b80cae
   track-desc:
-  01 - Toccata und Fuge in d-moll, BWV 565 (Johann Sebastian Bach)
-  02 - Nussknacker-Suite, Op. 71a (Peter Ilich Tchaikovsky)
-  03 - Der Zauberlehrling (Paul Dukas)
-  04 - Le Sacre du Printemps (Igor Stravinski)
-  05 - Sinfonien F-Dur, Op. 68 „Pastorale“ (Ludwig van Beethoven)
-  06 - Der Tanz der Stunden aus der Oper La Gioconda (Amilcare Ponchielli)
-  07 - Eine Nacht auf dem kahlen Berge (Modest Mussorgski, Arr: Nikolai Rimski-Korsakow) und Ave Maria (Franz Schubert)
+  Toccata und Fuge in d-moll, BWV 565 (Johann Sebastian Bach)
+  Nussknacker-Suite, Op. 71a (Peter Ilich Tchaikovsky)
+  Der Zauberlehrling (Paul Dukas)
+  Le Sacre du Printemps (Igor Stravinski)
+  Sinfonien F-Dur, Op. 68 „Pastorale“ (Ludwig van Beethoven)
+  Der Tanz der Stunden aus der Oper La Gioconda (Amilcare Ponchielli)
+  Eine Nacht auf dem kahlen Berge (Modest Mussorgski, Arr. Nikolai Rimski-Korsakow) und Ave Maria (Franz Schubert)
   ids:
   - audio-id: 1678897164
     hash: 1b6f6de9e251bc783b70d24847a1bf4a58676917
