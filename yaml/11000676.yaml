@@ -1,0 +1,39 @@
+article: '11000676'
+lock-data: false
+data:
+- series: GLOBI
+  series-id: GLOBI
+  episode: Globis verrückte Geschichten Abenteuer
+  release: 0
+  language: de-de
+  category: audio-play
+  runtime: 53
+  age: 3
+  origin: stock
+  image: https://www.spiilegge.ch/de/media/tonies-globi-globis-verrueckte-geschichten-abenteuer.xJ2me0W2zEInB72rofkWfg.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc:
+  - Wie gaat's, wie staat's
+  - Begegnig mit em Maikäfer Mainrad Maier
+  - Audienz bi de Ameisia de Zwoote vo Ameisianie
+  - I de Höhli vo de Familie Zottelfass
+  - De ABC-Rap vo de Höhlebewohner
+  - De Globi als Iglu-Architekt
+  - S_Grüezi-Komitee Pingwino
+  - Pinguin-Song (Lied)
+  - Mit de Vespa underwägs
+  - Em Papst sis Geheimnis
+  - Strandferie zur Belohnig
+  - En Banküberfall
+  - D_Gauner werded gschnappt
+  - Gratuliere Globi
+  - Räuber und Poli-Lied
+  - Uf widergüx
+  ids:
+  - audio-id: 1720515724
+    hash: ac6a429646ea2cc16d3890295df136e4b82938c2
+    size: 38790330
+    tracks: 16
+    confidence: 0
