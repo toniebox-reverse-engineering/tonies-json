@@ -19,4 +19,24 @@ data:
   - Eule findet den Beat - Mit Gefühl
   - Eule findet den Beat - Mit Instrumenten
   - Eule findet den Beat - Auf Europatour
-  ids: []
+  ids:
+  - audio-id: 1772452065
+    hash: c62af599ce7b2b2fbd0a3cf91509e879357fb0d9
+    size: 51373416
+    tracks: 28
+    confidence: 0
+  - audio-id: 1772451529
+    hash: 9967f2f11376d5eaf9f0115b0bf511502c6b336e
+    size: 46914663
+    tracks: 24
+    confidence: 0
+  - audio-id: 1772450766
+    hash: 7ea271960d2cd5e9d173513bc1a3c2fb07555884
+    size: 48219798
+    tracks: 28
+    confidence: 0
+  - audio-id: 1772450149
+    hash: e03fc53237029752fba1cd702c0a0cc3417bd5fd
+    size: 51653089
+    tracks: 26
+    confidence: 0
