@@ -5,6 +5,8 @@ This repository (master branch) contains all YAML files used for the generation 
 
 ## Contributions
 Please use teddyCloud to generate the id block for the YAML: Navigate to the taf file in the library (or content if library is not enabled) and double click on the row. A modal will be shown which contains the information.
+Be sure you have no figurine with alternative content via myTonies!
+Please do not add audio-ids of files that you encoded yourself or downloaded from the internet. Those audio-ids are worthless.
 
 DON'T change the values manually. Even if the tracks count seems to be wrong, if you compare it to the track-desc.
 ```
