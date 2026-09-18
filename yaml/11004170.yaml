@@ -15,7 +15,7 @@ data:
   web: https://tonies.com/en-gb/tonies/bluey/multipack-bluey-bluey-bingo-muffin/
   shop-id: 693000cd-8177-4f65-b4ec-4419cc27a8f8
   track-desc:
-  - 'Bingo: INTRO - Dan Brumm Intro'
+  - 'Bingo: INTRO'
   - 'Bingo: SONG - Theme Song'
   - 'Bingo: EPISODE - The Dump'
   - 'Bingo: EPISODE - Piggyback'
@@ -25,7 +25,7 @@ data:
   - 'Bingo: EPISODE - Relax'
   - 'Bingo: EPISODE - Sleepytime'
   - 'Bingo: OUTRO'
-  - 'Muffin: INTRO - Dan Brumm Intro'
+  - 'Muffin: INTRO'
   - 'Muffin: SONG - Theme Song'
   - 'Muffin: EPISODE - Muffin Cone'
   - 'Muffin: EPISODE - Granny Mobile'
@@ -34,7 +34,7 @@ data:
   - 'Muffin: EPISODE - Fairy Tale'
   - 'Muffin: EPISODE - Dragons'
   - 'Muffin: OUTRO'
-  - 'Bluey: INTRO - Dan Brumm Intro'
+  - 'Bluey: INTRO'
   - 'Bluey: SONG - Theme Song'
   - 'Bluey: EPISODE - Grannies'
   - 'Bluey: EPISODE - Duck Cake'
