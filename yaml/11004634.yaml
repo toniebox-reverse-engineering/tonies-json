@@ -72,4 +72,24 @@ data:
   - 'Woozle Goozle Folge 21: Bienen Kapitel 04'
   - 'Woozle Goozle Folge 21: Bienen Kapitel 05'
   - 'Woozle Goozle Folge 21: Bienen Kapitel 06'
-  ids: []
+  ids:
+  - audio-id: 1772456688
+    hash: 669ecf1462a274c6dd127e425662db63b2651f74
+    size: 25858664
+    tracks: 12
+    confidence: 0
+  - audio-id: 1775642492
+    hash: aadac49fa1c90afd6da3d0baf6398ae52eb4272f
+    size: 37317467
+    tracks: 17
+    confidence: 0
+  - audio-id: 1775647074
+    hash: a05cf3aa8d81b55af051512ba54a9de931fc03cf
+    size: 26614788
+    tracks: 12
+    confidence: 0
+  - audio-id: 1775647259
+    hash: ab43b4aebad155cb32992f8af889717ca91c4b62
+    size: 35878763
+    tracks: 18
+    confidence: 0
