@@ -25,4 +25,9 @@ data:
   - 08. INTERLUDE
   - 09. STORY - Pups Save a Trash-Dinger
   - 10. OUTRO
-  ids: []
+  ids:
+  - audio-id: 1680604755
+    hash: 005a4c373eea4901fe8edb13024aca1eff4c9ce6
+    size: 45364925
+    tracks: 10
+    confidence: 0
