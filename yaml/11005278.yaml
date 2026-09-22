@@ -11,7 +11,7 @@ data:
   age: 9
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/Tonies_11005278_2-Ol2g2Yqi.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/149700f185eeb81faa8b41593c393e01c34653468e00ebc14ba063e7/hoerprobe_11005278_mein_lotta_leben_suesser_die_esel_nie_singen.mp3
   web: https://tonies.com/de-de/book-tonies/mein-lotta-leben/suesser-die-esel-nie-singen/
   shop-id: e061aace-4aed-4833-abc5-e3cd3e10da46
   track-desc:
