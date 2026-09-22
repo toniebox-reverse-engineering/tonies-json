@@ -23,4 +23,9 @@ data:
   - 06. INTERSTITIAL
   - 07. STORY - Pups Save Ryder’s Surprise
   - OUTRO
-  ids: []
+  ids:
+  - audio-id: 1758107091
+    hash: 6417aae9eed2a4792d122ddbf090774dc36c7086
+    size: 41559846
+    tracks: 8
+    confidence: 0
