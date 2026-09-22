@@ -20,6 +20,10 @@ Always put the newest (highes audio-id) at the top. If there is already an entry
 
 Please don't edit files within the source-yaml folder. These files contain meta data, the scraper produces.
 
+## Other notes
+- To find the right article number, take a look into the packaging. You usually find it on the left side of the sticker label.
+- GB and US Tonies may have distinct article numbers, but sometimes have the same content -> same audio-id etc.
+
 ## Confidence
 The confidence values shows how many automatic confirmations we have in our database. Usually for YAMLs containing an entry with >0 confidence no manually additions are needed. (Manual entries are always 0). In rare cases, we may have a wrong connection. Also if a tonie contains alternative content, it may have an audio-id of an 20*.yaml.
 
