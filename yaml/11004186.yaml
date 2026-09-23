@@ -1,0 +1,30 @@
+article: 11004186
+lock-data: false
+data:
+- series: D Mimigs
+  series-id: migros-promotion-2026
+  episode: 'D Mimigs: Rettet de Wald'
+  release: null
+  language: de-ch
+  category: audio-play
+  runtime: 36
+  age: null
+  origin: stock
+  image: https://cdn.tonies.de/o/images/1_7f944a2c1b891a603ef4c7f5122983f28de29f04afbde406fe03986b/3_y6_1Bqcmh6M84fmk/die_mimigs__rettet_de_wald_only_tonie_530x530.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc:
+  - Titelsong vode Mimigs
+  - Am Miguel sini Gschicht
+  - Die dunkli Wulche
+  - De verschwundeni Fluss
+  - Das git riese Ärger
+  - De Wald wird grettet
+  - Das sind d Mimigs
+  ids:
+  - audio-id: 454218204
+    hash: 21524ad9d856ac09e0dbe2f92cdd57ad3bc063a4
+    size: 26054406
+    tracks: 7
+    confidence: 0
