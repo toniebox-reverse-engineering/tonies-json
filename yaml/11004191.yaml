@@ -1,20 +1,27 @@
-article: '11004191'
+article: 11004191
 lock-data: false
 data:
-- series: null
-  series-id: null
-  episode: null
+- series: D Mimigs
+  series-id: migros-promotion-2026
+  episode: 'D Mimigs: Schnappet d Diebin'
   release: 0
-  language: null
-  category: null
-  runtime: 0
-  age: 99
-  origin: null
-  image: null
+  language: de-ch
+  category: audio-play
+  runtime: 38
+  age: 3
+  origin: stock
+  image: https://cdn.tonies.de/o/images/1_b31e311ee36530786a962b55b4efee9f790abcb8ddde5467c5638323/3_KCvrqvzGBGRmnj-m/d_mimigs__schnappet_d_diebin_only_tonie_530x530.png
   sample: null
   web: null
   shop-id: null
-  track-desc: []
+  track-desc:
+  - Titelsong vode Mimigs
+  - De Malva ihri Gschicht
+  - S magische M-Portal
+  - Am Jim sis Problem
+  - S Gheimnis vode Spieluhr
+  - Zrugg uf Mimondo
+  - Das sind d Mimigs
   ids:
   - audio-id: 324937339
     hash: 7740d9d19bacf6639112567bdffc9389aa644769
