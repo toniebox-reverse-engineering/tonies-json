@@ -1,0 +1,30 @@
+article: 11004187
+lock-data: false
+data:
+- series: D Mimigs
+  series-id: migros-promotion-2026
+  episode: 'D Mimigs: Insel-Olympiade'
+  release: null
+  language: de-ch
+  category: audio-play
+  runtime: 42
+  age: 3
+  origin: stock
+  image: https://cdn.tonies.de/o/images/1_ac3211761352972d8c0646fc94d1fd4c681abee0229ae8793ee48dd8/3_kBjC2Wy1f1p-fznh/d_mimigs__insel_olympiade_only_tonie_530x530.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc:
+  - Titelsong vode Mimigs
+  - Am Mike sini Gschicht
+  - D Insel-Olympiade
+  - De Tag vom Wettkampf
+  - De roti Stei
+  - D Siegerehrig
+  - Das sind d Mimigs
+  ids:
+  - audio-id: 938262214
+    hash: d5adcec4218b2286e5097867b7e8c8ee23ba09f3
+    size: 29645980
+    tracks: 7
+    confidence: 0
