@@ -1,0 +1,30 @@
+article: 11004189
+lock-data: false
+data:
+- series: D Mimigs
+  series-id: migros-promotion-2026
+  episode: 'D Mimigs: De Super-Spielplatz'
+  release: null
+  language: de-ch
+  category: audio-play
+  runtime: 31
+  age: 3
+  origin: stock
+  image: https://cdn.tonies.de/o/images/1_aff60ebd1fd2037f8e6ec0709078b527347ed5fc5cb061dfde81772f/3_nKCcNQxlGBHc4xNk/d_mimigs__de_super_spielplatz_only_tonie_530x530.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc:
+  - Titelsong vode Mimigs
+  - De Melba ihri Gschicht
+  - Superschlechti Luune
+  - De Super-Spielplatz
+  - De Brief
+  - En Platz für d Chind
+  - Das sind d Mimigs
+  ids:
+  - audio-id: 600486395
+    hash: 9179243e5bd8700e5a7fdc458c25f10814a264df
+    size: 21959225
+    tracks: 7
+    confidence: 0
