@@ -1,0 +1,26 @@
+article: '11004075'
+lock-data: false
+data:
+- series: Peppa Pig
+  series-id: peppa-pig-2
+  episode: Les Nouveaux Sons De George
+  release: 1790208000
+  language: fr-fr
+  category: audio-play
+  runtime: 63
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51019790-Tonie_Shado-ZCbC81Ba.png
+  sample: https://cdn.tonies.de/o/audio_samples/45edca14549c7bf1e36c79b1eb7bb6107ac79abb8384df5c68f604e4/fr_peppa_nouveauxsonsgeorge_extraitmp3.mp3
+  web: https://tonies.com/fr-fr/tonies/peppa-pig/les-nouveaux-sons-de-george/
+  shop-id: 18df8a42-a3a4-4153-bd7d-3d589a5fe2b0
+  track-desc:
+  - Le test d'audition
+  - Les sons préférés de George
+  - L'appareil auditif
+  - La convention de science-fiction
+  - Cache-cochon
+  - Pin-pon
+  - Une visite à la garderie
+  - Copyrights
+  ids: []
