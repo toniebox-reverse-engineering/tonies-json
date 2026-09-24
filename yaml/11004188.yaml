@@ -1,0 +1,30 @@
+article: 11004188
+lock-data: false
+data:
+- series: D Mimigs
+  series-id: migros-promotion-2026
+  episode: 'D Mimigs: Tüftel-Duell'
+  release: null
+  language: de-ch
+  category: audio-play
+  runtime: 43
+  age: 3
+  origin: stock
+  image: https://cdn.tonies.de/o/images/1_b63acb4df3f0ec92d4a1b5edc4034019687c9f4ec7869208f9c6fdad/3_bJnLscZFP45lTHN0/d_mimigs__tuftel_duell_only_tonie_530x530.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc:
+  - Titelsong vode Mimigs
+  - De Millie ihri Gschicht
+  - D Super-Erfindig vode Millie
+  - Chrüsimüsi im Baumhus
+  - Debi si isch alles
+  - Die tollsti Erfindig vode Welt
+  - Das sind d Mimigs
+  ids:
+  - audio-id: 697562005
+    hash: dd50f836bde32b6fd3d035b22cbc154cbc30e340
+    size: 30186221
+    tracks: 7
+    confidence: 0
