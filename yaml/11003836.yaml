@@ -27,6 +27,11 @@ data:
   - Wir haben allen geholfen
   - Mitmach-Lied mit Weihnachtsbaum-Strophe
   ids:
+  - audio-id: 1790322744
+    hash: a680bbf2751a53714199f60e2ab71200672fc874
+    size: 35118808
+    tracks: 22
+    confidence: 1
   - audio-id: 1789040570
     hash: 303769a669934b63c5f5d6ae8afe0b6b71a11113
     size: 35133633
