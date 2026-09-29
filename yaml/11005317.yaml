@@ -11,7 +11,7 @@ data:
   age: 3
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51005115-Tonie_Shado-xyA7cEPt.png
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/90aca04eceea853800e8b8fdf3866d67d84c480e8f31b35f8a5a830f/11005317_calendriermila_extrait.wav
   web: https://tonies.com/fr-fr/tonies/calendrier-de-l-avent/un-voeu-etoile-pour-noel/
   shop-id: 4b1076bd-0a3e-49d9-bda6-5c464b529c6c
   track-desc:
