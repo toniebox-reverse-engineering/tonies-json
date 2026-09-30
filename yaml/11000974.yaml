@@ -24,6 +24,11 @@ data:
   - 07 Peppa Pig Der Piratengeburtstag
   - 08 Peppa Pig Kostuemparty
   ids:
+  - audio-id: 1790758919
+    hash: cbec739fe4ca45bc65216c4cb2d5bd6aa48963ef
+    size: 30481699
+    tracks: 8
+    confidence: 1
   - audio-id: 1724233798
     hash: 54b11cba3217cf481a33a5341e04ce7ffba3fbec
     size: 30481699

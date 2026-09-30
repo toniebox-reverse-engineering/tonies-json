@@ -37,6 +37,11 @@ data:
   - Absage Die (un)langweiligste Schule der Welt
   - Extro Die (un)langweiligste Schule der Welt
   ids:
+  - audio-id: 1790758996
+    hash: bff60470c0cda905a32d4c32f68cc414386a4c2e
+    size: 114244532
+    tracks: 21
+    confidence: 1
   - audio-id: 1745478351
     hash: 5edbe1ecbd01cfaeba7374e5b5590197dd4cba72
     size: 114244532

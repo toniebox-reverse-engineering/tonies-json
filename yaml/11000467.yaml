@@ -27,6 +27,11 @@ data:
   - The Archaeologist
   - Outro
   ids:
+  - audio-id: 1790758447
+    hash: f790ffa39f7d61470d2049a2357e3242c8a8bfef
+    size: 53176294
+    tracks: 11
+    confidence: 1
   - audio-id: 1704208223
     hash: e09a5ed93ac2909007f9a41daa13177c66037dcc
     size: 53244074

@@ -28,6 +28,11 @@ data:
   - Der große Waldgeist 3
   - Der große Waldgeist 4
   ids:
+  - audio-id: 1790759037
+    hash: c04883a04551b54fe129b4564fe159c3b0006136
+    size: 44924348
+    tracks: 12
+    confidence: 1
   - audio-id: 1734424075
     hash: 52c23972913aa196031e32cde835277399c8f1e3
     size: 44924348
