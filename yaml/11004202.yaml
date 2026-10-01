@@ -1,0 +1,24 @@
+article: '11004202'
+lock-data: false
+data:
+- series: Barbie
+  series-id: barbie
+  episode: 'Barbie: You Can Be Anything'
+  release: 1791849600
+  language: en-gb
+  category: audio-play
+  runtime: 46
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/11004202_Transparent-0jeDAOL3.png
+  sample: https://cdn.tonies.de/o/audio_samples/b8fb5e17760032fc70ffca08d68030c3993f4ca39b130b6e13050c6b/barbie_audio_sample.mp3
+  web: https://tonies.com/en-gb/tonies/barbie/barbie-you-can-be-anything/
+  shop-id: 053c7611-637e-432e-a6d8-44f590016cc7
+  track-desc:
+  - STORY - Career Week Assignment
+  - STORY - Wildlife Veterinarian
+  - STORY - Fashion Designer
+  - STORY - Surf Shop CEO
+  - STORY - Video Game Developer
+  - STORY - Career Week Presentations
+  ids: []
