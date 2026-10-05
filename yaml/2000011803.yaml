@@ -1,8 +1,8 @@
-article: '2000011794'
+article: '2000011803'
 lock-data: false
 data:
 - series: Lalalinos
-  series-id: zusammen-sind-wir-stark
+  series-id: stronger-together
   episode: Halloween Album
   release: 1791158400
   language: en-us
@@ -12,8 +12,8 @@ data:
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_e7229da0f7bdc1880e557f0ff530d9ba61a6b638db92e634f514fa91/3_DDdk3MkCpVx-pNwl/lalalinos_halloween_album_530x530.jpg
   sample: https://cdn.tonies.de/o/audio_samples/c03b51c96b7f35fda464375c3fb83af22bc4ce5a131a0fae1fdaf413/lalalinos_halloweenalbum_sample.wav
-  web: https://tonies.com/de-de/audio-content/zusammen-sind-wir-stark/halloween-album/
-  shop-id: 938b63e5-9283-4c5d-9c83-0a7ec0ad1f24
+  web: https://tonies.com/en-gb/audio-content/stronger-together/halloween-album-uk/
+  shop-id: b9e7fb8b-ad17-43e0-88ad-d4005c397532
   track-desc:
   - Halloween Theme
   - Black Cat Scaredy Cat
