@@ -1649,7 +1649,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11001988,PAW Patrol,paw-patrol,Ryder,de-de,audio-play,stock,e9c0cd11-5761-488b-aad4-84d3f1533e3e,https://tonies.com/de-de/tonies/paw-patrol/ryder/,1,1,1,0
 11001994,,,,,,,,,1,4,4,0
 11001997,,,,,,,,,1,4,4,0
-11002020,tonies® Originals,tonies-originals,Un Noël À Croquer,fr-fr,audio-play,stock,e6a1ba95-c7f5-4aa5-949e-e14c7129032e,https://tonies.com/fr-fr/tonies/tonies-originals-2/un-noel-a-croquer/,1,1,1,0
+11002020,tonies Originals,tonies-originals-2,Un Noël À Croquer,fr-fr,audio-play,stock,e6a1ba95-c7f5-4aa5-949e-e14c7129032e,https://tonies.com/fr-fr/tonies/tonies-originals/un-noel-a-croquer/,1,1,1,0
 11002021,Mister Rogers' Neighborhood,,,en-us,Tonie,stock,9425040310423,,1,1,1,0
 11002027,Finding Dory,finding-dory,Finding Dory,en-gb,audio-play,stock,b5de3826-319f-4f46-92f2-998245e6810c,https://tonies.com/en-gb/tonies/disney-finding-dory/finding-dory/,1,0,0,0
 11002028,La Journée De Léo,la-journee-de-leo,Mission : Tous Sur Le Pot !,fr-fr,audio-play-songs,stock,5af60dc6-f4c6-415a-8f03-1b765a65447d,https://tonies.com/fr-fr/tonies/la-journee-de-leo/mission-tous-sur-le-pot/,1,0,0,0
@@ -6503,6 +6503,15 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 2000011801,Die unlangweiligste Schule der Welt,die-unlangweiligste-schule-der-welt,Geisterstunde,de-de,audio-book,tunes,120ddf78-2181-478b-becd-47584871e7e5,https://tonies.com/de-de/audio-content/die-unlangweiligste-schule-der-welt/die-unlangweiligste-schule-der-welt-6-geisterstund/,1,0,0,0
 2000011803,Lalalinos,stronger-together,Halloween Album,en-us,music,tunes,b9e7fb8b-ad17-43e0-88ad-d4005c397532,https://tonies.com/en-gb/audio-content/stronger-together/halloween-album-uk/,1,0,0,0
 2000011804,Lalalinos,plus-forts-ensemble,Joyeux Halloween,fr-fr,music,tunes,d204ab85-1e28-454d-afeb-3e5f79d4e4b3,https://tonies.com/fr-fr/tonie-librairie/plus-forts-ensemble/joyeux-halloween/,1,0,0,0
+2000011805,Hans de Beer,hans-de-beer,"Valentino Frosch - Konstantin, das Krokodil - Bobo und Susu (Schweizer Mundart)",de-ch,audio-play,tunes,c912ccc1-bc6a-420a-893b-b62d3aed7456,https://tonies.com/de-de/audio-content/hans-de-beer/valentino-frosch-konstantin-das-krokodil-bobo-und/,1,0,0,0
+2000011806,Hans Fischer,hans-fischer,Der Geburtstag (Schweizer Mundart),de-ch,audio-play,tunes,149084b8-dc38-4540-ba00-0bd6cff19759,https://tonies.com/de-de/audio-content/hans-fischer/der-geburtstag-schweizer-mundart/,1,0,0,0
+2000011807,Marcus Pfister,marcus-pfister,Mundart-Geschichten von Marcus Pfister (ungekürzt),de-ch,audio-play,tunes,832f78cb-0c54-4473-bb51-39921f51026b,https://tonies.com/de-de/audio-content/marcus-pfister/mundart-geschichten-von-marcus-pfister-ungekurzt/,1,0,0,0
+2000011808,Brigitte Hegglin-Bartholet,brigitte-hegglin-bartholet,De vergässeni Grittibänz,de-ch,audio-play,tunes,a718e4c7-e3f9-4a9e-8b78-99922c8f7a8c,https://tonies.com/de-de/audio-content/brigitte-hegglin-bartholet/de-vergasseni-grittibanz/,1,0,0,0
+2000011809,Elisabeth Debrunner,elisabeth-debrunner,"Gipsy, de Chindergartehund",de-ch,audio-play,tunes,c395c643-c381-46e4-b6e3-739629e5f301,https://tonies.com/de-de/audio-content/elisabeth-debrunner/gipsy-de-chindergartehund/,1,0,0,0
+2000011810,"Hans de Beer, Burny Bos",hans-de-beer-burny-bos,Ich bin MäuseKatzenBärenStark (Schweizer Mundart),de-ch,audio-play,tunes,bad3bde0-7ff0-4d87-a577-98bdc36a59af,https://tonies.com/de-de/audio-content/hans-de-beer-burny-bos/ich-bin-mausekatzenbarenstark-schweizer-mundart/,1,0,0,0
+2000011811,Kleiner Eisbär (Schweizer Mundart),kleiner-eisbaer-schweizer-mundart,Kleiner Eisbär kennst du den Weg? (Schweizer Mundart),de-ch,audio-play,tunes,2fc62295-df91-46d3-a9e4-5c382c4d6e21,https://tonies.com/de-de/audio-content/kleiner-eisbaer-schweizer-mundart/kleiner-eisbar-kennst-du-den-weg-schweizer-mundart/,1,0,0,0
+2000011812,Brigitte Weninger,brigitte-weninger,Pauli - Wo isch de Nickel?,de-de,audio-play,tunes,29762f3e-e2ab-4600-8ab0-0551b8f519f4,https://tonies.com/de-de/audio-content/brigitte-weninger/wo-isch-de-nickel/,1,0,0,0
+2000011813,Lieve Beaten,lieve-beaten,Die schlau chlii Häx,de-de,audio-play,tunes,ffe077b5-14dd-43d6-8427-b6182951eda5,https://tonies.com/de-de/audio-content/lieve-beaten/die-schlau-chlii-hax/,1,0,0,0
 43314534219927,The Elf on the Shelf,,,en-us,Tonie,stock,8072067055767,,1,0,0,0
 43314558009495,Favorite Masterpieces,,The Nutcracker,en-us,Tonie,stock,8072076656791,,1,0,0,0
 43314564169879,Maestro,,,en-us,Tonie,stock,8072079147159,,1,0,0,0
