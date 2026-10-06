@@ -1,8 +1,8 @@
 article: '11002020'
 lock-data: false
 data:
-- series: ''
-  series-id: ''
+- series: tonies-json-fr-fr,
+  series-id: tonies-json-fr-fr,
   episode: ''
   release: ''
   language: ''
@@ -10,9 +10,9 @@ data:
   runtime: ''
   age: ''
   origin: ''
-  image: tonies-shopapi-fr-fr-image,
+  image: ''
   sample: ''
-  web: ''
+  web: tonies-json-fr-fr,
   shop-id: ''
   track-desc: ''
   ids: []
