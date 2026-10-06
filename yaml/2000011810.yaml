@@ -1,0 +1,31 @@
+article: '2000011810'
+lock-data: false
+data:
+- series: Hans de Beer, Burny Bos
+  series-id: hans-de-beer-burny-bos
+  episode: Ich bin MäuseKatzenBärenStark (Schweizer Mundart)
+  release: 1791244800
+  language: de-ch
+  category: audio-play
+  runtime: 2456
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_31ddea30d8fc7386bb9734e24f7b9718c205ff00e777ba24c93d80ec/3_9T.Sd55cNk3nFy27/hans_de_beer_burny_bos_ich_bin_mausekatzenbaren_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/6a2b0ade993a496677d0bfeb31b28640691abefa8693c84f9db1ac91/4066004892597_001_001_128.mp3
+  web: https://tonies.com/de-de/audio-content/hans-de-beer-burny-bos/ich-bin-mausekatzenbarenstark-schweizer-mundart/
+  shop-id: bad3bde0-7ff0-4d87-a577-98bdc36a59af
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  ids: []

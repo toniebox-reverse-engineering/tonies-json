@@ -1,0 +1,33 @@
+article: '2000011811'
+lock-data: false
+data:
+- series: Kleiner Eisbär (Schweizer Mundart)
+  series-id: kleiner-eisbaer-schweizer-mundart
+  episode: Kleiner Eisbär kennst du den Weg? (Schweizer Mundart)
+  release: 1791244800
+  language: de-ch
+  category: audio-play
+  runtime: 2753
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_8f1c08c126d63bd22b3ee92dcfd21e81512f178e3c75079d1f9d369d/3_01s69vPnQTbGv9Sx/kleiner_eisbar_schweizer_mundart_kleiner_eisba_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/91a86698938211fd4e9af864661dfaaa3cb92ee1097d238d5b1b78e8/4066004892627_001_001_128.mp3
+  web: https://tonies.com/de-de/audio-content/kleiner-eisbaer-schweizer-mundart/kleiner-eisbar-kennst-du-den-weg-schweizer-mundart/
+  shop-id: 2fc62295-df91-46d3-a9e4-5c382c4d6e21
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  ids: []

@@ -1,0 +1,32 @@
+article: '2000011809'
+lock-data: false
+data:
+- series: Elisabeth Debrunner
+  series-id: elisabeth-debrunner
+  episode: Gipsy, de Chindergartehund
+  release: 1791244800
+  language: de-ch
+  category: audio-play
+  runtime: 2698
+  age: 6
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_ba761c2887f502261e3208e66e9ec8121e8173a4f6e0294d7b3943e1/3_-gdvcbql9sngcvv6/elisabeth_debrunner_gipsy_de_chindergartehund_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/2a1071ae1f3f593ba137a6eb000348c7866df3d54c140deaaedf8e87/4066004892726_001_001_128.mp3
+  web: https://tonies.com/de-de/audio-content/elisabeth-debrunner/gipsy-de-chindergartehund/
+  shop-id: c395c643-c381-46e4-b6e3-739629e5f301
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  ids: []

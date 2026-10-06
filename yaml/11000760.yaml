@@ -8,38 +8,38 @@ data:
   language: fr-fr
   category: audio-play
   runtime: 116
-  age: 4
+  age: 3
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/50006305-Tonie_Shado-eYVZXUA0.png
   sample: https://cdn.tonies.de/o/audio_samples/89cb15e54bc131147cfd7c760133d9adb4205e0bfe1fe2ea9460bb56/11000760_calendrierhusky_extrait_site.mp3
   web: https://tonies.com/fr-fr/tonies/calendrier-de-l-avent/un-noel-magique-pour-les-amis-de-la-foret/
   shop-id: c7996b2b-b5e5-44aa-8002-e455517d2c25
   track-desc:
-  - Introduction - présentation d'Anouk
-  - 1er décembre
-  - 2 décembre
-  - 3 décembre
-  - 4 décembre
-  - 5 décembre
-  - 6 décembre
-  - 7 décembre
-  - 8 décembre
-  - 9 décembre
-  - 10 décembre
-  - 11 décembre
-  - 12 décembre
-  - 13 décembre
-  - 14 décembre
-  - 15 décembre
-  - 16 décembre
-  - 17 décembre
-  - 18 décembre
-  - 19 décembre
-  - 20 décembre
-  - 21 décembre
-  - 22 décembre
-  - 23 décembre
-  - 24 décembre
+  - Présentation d’Anouk
+  - 'Chapitre 1: Personne n’a envie de fêter Noël'
+  - 'Chapitre 2: Les trois amis ont une idée'
+  - 'Chapitre 3: Oh oh, ça chauffe!'
+  - 'Chapitre 4: L’idée du pot de confiture'
+  - 'Chapitre 5: Un gentil compliment pour chacun'
+  - 'Chapitre 6: Et moi ? demande la souris'
+  - 'Chapitre 7: L’affaire du coussin en plumes'
+  - 'Chapitre 8: Enfin, l‘ambiance de Noël !'
+  - 'Chapitre 9: Il ne manque plus que le sapin de Noël'
+  - 'Chapitre 10: Bravo Timi !'
+  - 'Chapitre 11: En route pour le bureau de poste des pigeons'
+  - 'Chapitre 12: Enfin, le courrier arrive !'
+  - 'Chapitre 13: Le chant de Noël de la forêt d‘hiver'
+  - 'Chapitre 14: Et maintenant, en cuisine !'
+  - 'Chapitre 15: Les sablés de Noël'
+  - 'Chapitre 16: Il faut un plan de construction'
+  - 'Chapitre 17: La maison en pain d‘épices'
+  - 'Chapitre 18: Qu’y a-t-il au menu ?'
+  - 'Chapitre 19: Soupe festive de carabistouilles !'
+  - 'Chapitre 20: La première neige'
+  - 'Chapitre 21: Mais où est passé le blaireau?'
+  - 'Chapitre 22: Annulation expres'
+  - 'Chapitre 23: Noël est sauvé !'
+  - 'Chapitre 24: Joyeux Noël !'
   ids:
   - audio-id: 1766617221
     hash: b71f51610b3aae58ee7dd742615f7a42da2d691d
