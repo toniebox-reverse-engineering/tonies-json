@@ -11,7 +11,7 @@ data:
   age: 1
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_62ea6679bb87b4e39246144de1be142e4b14f1f094fd463af4ebb2cc/3_Lwc6BP.5Cs3gqcJQ/sleepy_friends_three_little_bedtime_stories_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/ddc689360bbf8d43d564d8bad75650f58f227ce56f82cb775be96db9/three_little_bedtime_stories_sample_mixdown.wav
   web: https://tonies.com/en-gb/audio-content/sleepy-friends/sleepy-friends-three-little-bedtime-stories/
   shop-id: f32484e2-310a-457b-803a-2fceaa7afb9f
   track-desc:
