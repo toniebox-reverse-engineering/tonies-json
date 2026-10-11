@@ -35,4 +35,9 @@ data:
   - Zeigt her eure Füße ISRC
   - Ich lieb’ den Frühling (Bonus)
   - Grün, grün, grün sind alle meine Kleider (Bonus)
-  ids: []
+  ids:
+  - audio-id: 1788433644
+    hash: aa53d5d9a3958d9690e8e12b4d0274150e2bbaa7
+    size: 36424659
+    tracks: 20
+    confidence: 1

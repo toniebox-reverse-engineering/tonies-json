@@ -31,4 +31,9 @@ data:
   - Der Piratenschatz 6
   - Der Piratenschatz 7
   - Der Piratenschatz 8
-  ids: []
+  ids:
+  - audio-id: 1784637488
+    hash: 2307f11ca95e0ed5965367832ca4b29737823e23
+    size: 42562633
+    tracks: 16
+    confidence: 1

@@ -90,4 +90,9 @@ data:
   - 'Kapitel 73 - Der kleine Vampir: Band 1'
   - 'Kapitel 74 - Der kleine Vampir: Band 1'
   - 'Kapitel 75 - Der kleine Vampir: Band 1'
-  ids: []
+  ids:
+  - audio-id: 1788862292
+    hash: b4e42b74a9db5ca7ce41dff422eee6598c31b7f8
+    size: 147036508
+    tracks: 75
+    confidence: 1
