@@ -26,6 +26,11 @@ data:
   - Das nicht so spaßige Spaßhaus 1
   - Das nicht so spaßige Spaßhaus 2
   ids:
+  - audio-id: 1791976060
+    hash: e25d97564972ccf7c1d61309360cf41a76b28220
+    size: 39406752
+    tracks: 9
+    confidence: 3
   - audio-id: 1701031871
     hash: 6e4f294628c256414f5e70db1b5f9957acb4c4f5
     size: 39486836
