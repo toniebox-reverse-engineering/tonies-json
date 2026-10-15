@@ -2,7 +2,7 @@ article: '10001313'
 lock-data: false
 data:
 - series: tonies-json-en-gb,
-  series-id: ''
+  series-id: tonies-json-en-gb,
   episode: ''
   release: ''
   language: ''
@@ -10,9 +10,9 @@ data:
   runtime: ''
   age: ''
   origin: ''
-  image: tonies-json-en-gb,
+  image: ''
   sample: ''
-  web: ''
+  web: tonies-json-en-gb,
   shop-id: ''
-  track-desc: ''
+  track-desc: tonies-json-en-gb,
   ids: []
