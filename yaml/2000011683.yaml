@@ -11,7 +11,7 @@ data:
   age: 9
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_f051010588901c32024b4d1a0f0ed1961b9e279f5dcab05f37e59176/3__hGsD_qlgCMX90bP/the_chronicles_of_narnia_the_horse_and_his_boy__530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/85f39a32dc03e5d1dffbebaa445f1fd14da49dfc711c1bd8a0166752/audio_sample_the_horse_and_his_boy.wav
   web: https://tonies.com/en-gb/audio-content/the-chronicles-of-narnia/narnia-the-horse-and-his-boy-book-digital/
   shop-id: d40b9bab-00d4-4172-8939-bdd64812664a
   track-desc:

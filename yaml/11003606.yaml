@@ -1,0 +1,39 @@
+article: '11003606'
+lock-data: false
+data:
+- series: Der Herr der Elemente
+  series-id: der-herr-der-elemente
+  episode: Der Herr der Elemente – Aang
+  release: 1794355200
+  language: de-de
+  category: audio-play
+  runtime: 58
+  age: 7
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/Tonies_11003606_1-5NhhZFuK.png
+  sample: https://cdn.tonies.de/o/audio_samples/dd155773b79bc57a815286f2d78f4e9e199b1db1178fe4c0dc50dd97/hoerprobe_11003606_avatar_der_herr_der_elemente.mp3
+  web: https://tonies.com/de-de/tonies/der-herr-der-elemente/der-herr-der-elemente-aang/
+  shop-id: 7219ed08-34d3-4c6f-8706-32a10cda7e5a
+  track-desc:
+  - Der Junge im Eisberg – Intro
+  - Der Junge im Eisberg – Kapitel 01
+  - Der Junge im Eisberg – Kapitel 02
+  - Der Junge im Eisberg – Kapitel 03
+  - Der Junge im Eisberg – Kapitel 04
+  - Der Junge im Eisberg – Kapitel 05
+  - Der Junge im Eisberg – Kapitel 06
+  - Der Junge im Eisberg – Kapitel 07
+  - Der Junge im Eisberg – Kapitel 08
+  - Der Junge im Eisberg – Kapitel 09
+  - Der Junge im Eisberg – Kapitel 10
+  - Der Avatar kehrt zurück – Intro
+  - Der Avatar kehrt zurück – Kapitel 01
+  - Der Avatar kehrt zurück – Kapitel 02
+  - Der Avatar kehrt zurück – Kapitel 03
+  - Der Avatar kehrt zurück – Kapitel 04
+  - Der Avatar kehrt zurück – Kapitel 05
+  - Der Avatar kehrt zurück – Kapitel 06
+  - Der Avatar kehrt zurück – Kapitel 07
+  - Der Avatar kehrt zurück – Kapitel 08
+  - Der Avatar kehrt zurück – Kapitel 09
+  ids: []

@@ -5,14 +5,40 @@ data:
   series-id: calendrier-de-l-avent-digital
   episode: Le petit renne qui rêvait d'avoir des ailes (2026)
   release: 0
-  language: null
+  language: fr-fr
   category: null
-  runtime: 0
+  runtime: 35799
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_9333e331175e52b37fe57e8967ef5f11da2bf0a1c8198d3f90319f9a/3_wzfxYpLCb3.tbMy8/advent_calendars_le_petit_renne_qui_revait_d_avo_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/e1319255720a900b5a69b3f748739891eeab4d2d4a4ff15d76c60d4b/11000349_calendrierrenne_extrait.wav
   web: https://tonies.com/fr-fr/tonie-librairie/calendrier-de-l-avent-digital/le-petit-renne-qui-revait-davoir-des-ailes-2026/
   shop-id: 19c97ca8-d9cd-479d-a89e-7b1677ce530f
-  track-desc: []
+  track-desc:
+  - Présentation de Léon
+  - 'Chapitre 1 : Bienvenue dans le village de Noël'
+  - 'Chapitre 2 : L''histoire de la nuit des poussières d''étoiles'
+  - 'Chapitre 3 : Léon rêve de voler'
+  - 'Chapitre 4 : Le discours de Papa Renne'
+  - 'Chapitre 5 : Léon reçoit son cadeau pour la nuit des poussières d''étoile'
+  - 'Chapitre 6 : La visite chez le Père Noël'
+  - 'Chapitre 7 : Liv veut attraper de la poussière d’étoiles'
+  - 'Chapitre 8 : Luciole a disparu !'
+  - 'Chapitre 9 : Tout le monde a reçu des ailes, sauf Léon'
+  - 'Chapitre 10 : Léon dit la vérité'
+  - 'Chapitre 11 : Liv et Louka ont une idée !'
+  - 'Chapitre 12 : Les fées des glaces peuvent-elles aider ?'
+  - 'Chapitre 13 : Chez les elfes de Noël'
+  - 'Chapitre 14 : Chez les lutins de la forêt enneigée'
+  - 'Chapitre 15 : La sorcière Pagaille pourrait-elle aider ?'
+  - 'Chapitre 16 : L’éléphant jaune'
+  - 'Chapitre 17 : Bouillon de griffes, escogriffe et ébouriffe'
+  - 'Chapitre 18 : La fabricatrice de bidules'
+  - 'Chapitre 19 : Les ailes sont prêtes !'
+  - 'Chapitre 20 : Pfiou, voler n’est pas si facile que ça !'
+  - 'Chapitre 21 : Enfin c’est dit !'
+  - 'Chapitre 22 : Le Père Noël doit réfléchir'
+  - 'Chapitre 23 : Avec un peu de magie de Noël'
+  - 'Chapitre 24 : C’est parti pour la tournée de Noël !'
+  - Chanson - Cette nuit, la poussière d’étoiles pleuv’ra
   ids: []

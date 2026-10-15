@@ -11,7 +11,7 @@ data:
   age: 9
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_8d786e929ba53c477482ade1a1de9cb93d9ac5c4262775facc823ab8/3_5nckMPGvXZ9M7l~k/the_chronicles_of_narnia_the_silver_chair_book__530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/3e82d6dd4e3006a33c33ff4b71ed2291de7523fa21362bb7123cef66/audio_sample_the_silver_chair.wav
   web: https://tonies.com/en-gb/audio-content/the-chronicles-of-narnia/narnia-the-silver-chair-digital/
   shop-id: 8f666730-0ce7-45d4-be37-6b15de4e507b
   track-desc:

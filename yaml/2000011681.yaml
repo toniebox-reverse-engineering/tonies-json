@@ -11,7 +11,7 @@ data:
   age: 9
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_0db1b5ad287026a2af203f4f944860fc30824edbb98f53dcd2a4bfd1/3_bD0f4Tr~7vs6sndy/the_chronicles_of_narnia_the_last_battle_book_7_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/785b5fefa4441a8e19241618767338183df3914d5a0c4d4301b0e5bd/audio_sample_the_last_battle.wav
   web: https://tonies.com/en-gb/audio-content/the-chronicles-of-narnia/narnia-the-last-battle-digital/
   shop-id: 881aa0b3-529d-4286-b067-cb308b5202d2
   track-desc:

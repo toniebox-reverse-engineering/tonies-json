@@ -1,0 +1,34 @@
+article: '11004230'
+lock-data: false
+data:
+- series: Disney Baby
+  series-id: disney-disney-baby
+  episode: Klaviermelodien zum Einschlafen
+  release: 1794355200
+  language: de-de
+  category: music
+  runtime: 40
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/Tonies_11004230_1-UtBCA4GO.png
+  sample: https://cdn.tonies.de/o/audio_samples/a7f83d75fb375caf2b80205ac69b93e27b2f2597ff0c025b73f0e08c/disney_piano_lullabies_audio_sample.wav
+  web: https://tonies.com/de-de/tonies/disney-disney-baby/disney-baby-klaviermelodien-zum-einschlafen/
+  shop-id: 9d33627b-b164-46a4-a7b1-d8f47e3c9735
+  track-desc:
+  - Ich bin bereit
+  - Ein Traum wird wahr
+  - In deiner Welt
+  - Kann es wirklich Liebe sein
+  - Probier’s mal mit Gemütlichkeit
+  - Hakuna Matata
+  - Zum ersten Mal
+  - Sei hier Gast
+  - Funkel, funkel kleiner Stern
+  - Alouette
+  - Wiegenlied
+  - Kuschel dich ein, mein Liebling
+  - Kopf und Schulter, Knie und Fuß
+  - Wir tanzen um den Maulbeerbaum
+  - Es regnet, es schüttet!
+  - Londons Brücke hat ein Loch
+  ids: []

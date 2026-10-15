@@ -11,7 +11,7 @@ data:
   age: 9
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_cc7f99b48f4e056578098164acdc241aac13ffda11c2d3d7697e66a9/3_t9s-JSvZ~JxFkDKj/the_chronicles_of_narnia_the_voyage_of_the_dawn__530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/29ea0bd0e256f29e393ec816bf217aa8658feab7e88cb85f0c9c8976/audio_sample_the_voyage_of_the_dawn_treader.wav
   web: https://tonies.com/en-gb/audio-content/the-chronicles-of-narnia/narnia-the-voyage-of-the-dawn-treader/
   shop-id: 91ca1db3-8c44-401c-8758-2cf2f4fe6e06
   track-desc:

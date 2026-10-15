@@ -11,7 +11,7 @@ data:
   age: 9
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_cabd535e42adcf6400c4b3660e4717e18b8086a80f6dbb2c6b5649e2/3_mtjFl28jtvPt1n7j/the_chronicles_of_narnia_the_magician_s_nephew__530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/1073d535240fe679568e4604e47d68b2150b1cc5974b880a43e2bf52/audio_sample_the_magician_s_nephew.wav
   web: https://tonies.com/en-gb/audio-content/the-chronicles-of-narnia/narnia-the-magicians-nephew-book-digital/
   shop-id: 191f18a7-e768-4652-af2d-80d66ea1e7ff
   track-desc:
