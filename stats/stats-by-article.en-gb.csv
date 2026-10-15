@@ -198,7 +198,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001310,National Geographic Kids,national-geographic-kids,Horse,en-gb,audio-play,stock,43b50845-bb90-4599-9b18-12592e17f313,https://tonies.com/en-gb/tonies/national-geographic-kids/horse-uk/,1,0,0,0
 10001311,Sleepy Friends,sleepy-friends,Lullaby Melodies with Sleepy Sheep,en-gb,audio-book,stock,0b7755cc-cd79-4a82-aabc-5aa90927b773,https://tonies.com/en-gb/tonies/sleepy-friends/lullaby-melodies-with-sleepy-sheep/,1,0,0,0
 10001312,Favourite Tales,favourite-tales,Pride Tales,en-gb,audio-play-songs,stock,f6065a08-8be5-4ec7-8e1a-2fe632483d84,https://tonies.com/en-gb/tonies/favourite-tales/pride-tales/,1,1,1,0
-10001313,Marvel Spidey and His Amazing Friends,marvel-2,Spidey & His Amazing Friends: Spidey,en-gb,audio-play-songs,stock,a3707d68-5477-472d-b2ce-d3b34a208697,https://tonies.com/en-gb/tonies/marvel/spidey-his-amazing-friends-spidey/,1,0,0,0
+10001313,Spidey and His Amazing Friends,marvel-spidey-and-his-amazing-friends,Spidey & His Amazing Friends: Spidey,en-gb,audio-play-songs,stock,a3707d68-5477-472d-b2ce-d3b34a208697,https://tonies.com/en-gb/tonies/marvel-spidey-and-his-amazing-friends/spidey-his-amazing-friends-spidey/,1,0,0,0
 10001314,Roald Dahl,roald-dahl,Matilda,en-gb,audio-book,stock,dfaa869e-bb74-460d-a034-aab4ca9e1539,https://tonies.com/en-gb/tonies/roald-dahl/matilda/,1,0,0,0
 10001315,Giraffes Can't Dance,gir-cant-dance-us,Giraffes Can't Dance,en-gb,audio-book,stock,78f480fc-db15-4718-a3a1-b424a70f4c3c,https://tonies.com/en-gb/tonies/giraffes-can-t-dance/giraffes-cant-dance/,1,3,3,0
 10001316,National Geographic Kids,ng-kids-us,Dinosaur,en-gb,audio-play-educational,stock,4b0e863e-49f1-4d3e-ab61-0bf13ac045fb,https://tonies.com/en-gb/tonies/national-geographic-kids/dinosaur/,1,0,0,0
@@ -531,6 +531,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 2000011727,All-Star Animals,all-star-animals,All Star Football: The Golden Whistle Games: Football,en-gb,audio-play,tunes,ec8e74e3-f235-4402-bc18-0e11a4b55d31,https://tonies.com/en-gb/audio-content/all-star-animals/all-star-football-the-golden-whistle-games-footbal/,1,0,0,0
 2000011782,Flip & Oodle,life-on-earth,Life on Earth - Flip,en-gb,audio-play,tunes,8e02a06e-0b42-4dbc-8819-9b6829b51402,https://tonies.com/en-gb/audio-content/life-on-earth/flip-oodle/,1,0,0,0
 2000011814,Farm Set,farm-set,On The Sunny Farm,en-gb,audio-play,tunes,bc84d861-379b-4e8c-b50f-815d6827f8e0,https://tonies.com/en-gb/audio-content/farm-set/my-first-farm/,1,0,0,0
+2000011821,Dino Rockstars,dino-rockstars,The Greatest Band of Prehistoric Time,en-gb,music,tunes,09abb104-0c61-469c-9e6e-7da162f5de7f,https://tonies.com/en-gb/audio-content/dino-rockstars/dino-rockstars/,1,0,0,0
 99-0002,Creative-Tonie,,Creativ-Tonie (DUMMY) - UK,en-gb,creative-tonie,stock,,,1,1,0,0
 99-0003,Creative-Tonie,,Creativ-Tonie (DUMMY) - US,en-gb,creative-tonie,stock,,,1,1,0,0
 box-en-gb-00-00000000,System sounds en-gb,system-en-gb,Jingle (Startup),en-gb,system,stock,,,1,1,1,0

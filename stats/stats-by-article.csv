@@ -848,7 +848,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 10001310,National Geographic Kids,national-geographic-kids,Horse,en-gb,audio-play,stock,43b50845-bb90-4599-9b18-12592e17f313,https://tonies.com/en-gb/tonies/national-geographic-kids/horse-uk/,1,0,0,0
 10001311,Sleepy Friends,sleepy-friends,Lullaby Melodies with Sleepy Sheep,en-gb,audio-book,stock,0b7755cc-cd79-4a82-aabc-5aa90927b773,https://tonies.com/en-gb/tonies/sleepy-friends/lullaby-melodies-with-sleepy-sheep/,1,0,0,0
 10001312,Favourite Tales,favourite-tales,Pride Tales,en-gb,audio-play-songs,stock,f6065a08-8be5-4ec7-8e1a-2fe632483d84,https://tonies.com/en-gb/tonies/favourite-tales/pride-tales/,1,1,1,0
-10001313,Marvel Spidey and His Amazing Friends,marvel-2,Spidey & His Amazing Friends: Spidey,en-gb,audio-play-songs,stock,a3707d68-5477-472d-b2ce-d3b34a208697,https://tonies.com/en-gb/tonies/marvel/spidey-his-amazing-friends-spidey/,1,0,0,0
+10001313,Spidey and His Amazing Friends,marvel-spidey-and-his-amazing-friends,Spidey & His Amazing Friends: Spidey,en-gb,audio-play-songs,stock,a3707d68-5477-472d-b2ce-d3b34a208697,https://tonies.com/en-gb/tonies/marvel-spidey-and-his-amazing-friends/spidey-his-amazing-friends-spidey/,1,0,0,0
 10001314,Roald Dahl,roald-dahl,Matilda,en-gb,audio-book,stock,dfaa869e-bb74-460d-a034-aab4ca9e1539,https://tonies.com/en-gb/tonies/roald-dahl/matilda/,1,0,0,0
 10001315,Giraffes Can't Dance,gir-cant-dance-us,Giraffes Can't Dance,en-gb,audio-book,stock,78f480fc-db15-4718-a3a1-b424a70f4c3c,https://tonies.com/en-gb/tonies/giraffes-can-t-dance/giraffes-cant-dance/,1,3,3,0
 10001316,National Geographic Kids,ng-kids-us,Dinosaur,en-gb,audio-play-educational,stock,4b0e863e-49f1-4d3e-ab61-0bf13ac045fb,https://tonies.com/en-gb/tonies/national-geographic-kids/dinosaur/,1,0,0,0
@@ -1858,6 +1858,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11003603,Pokémon,,Bulbasaur,en-us,Tonie,stock,9639364067479,,1,0,0,0
 11003604,Avatar,,The Last Airbender - Aang,en-us,Tonie,stock,9682017222807,,1,0,0,0
 11003605,The Last Airbender,the-last-airbender,The Last Airbender - Aang,en-gb,audio-play,stock,a437e307-7914-43d7-b320-a886fa53078c,https://tonies.com/en-gb/tonies/the-last-airbender/the-last-airbender-aang/,1,0,0,0
+11003606,Der Herr der Elemente,der-herr-der-elemente,Der Herr der Elemente – Aang,de-de,audio-play,stock,7219ed08-34d3-4c6f-8706-32a10cda7e5a,https://tonies.com/de-de/tonies/der-herr-der-elemente/der-herr-der-elemente-aang/,1,0,0,0
 11003611,Enid Blyton,enid-blyton,One-A-Day Christmas Stories,en-gb,audio-book,stock,04dea33e-0b8f-4261-9ed8-0ac1aca2a400,https://tonies.com/en-gb/book-tonies/enid-blyton/one-a-day-christmas-stories/,1,0,0,0
 11003612,Enid Blyton,enid-blyton,The Folk of the Faraway Tree,en-gb,audio-book,stock,9537145d-0a6b-44b2-95bf-8da327b0c776,https://tonies.com/en-gb/book-tonies/enid-blyton/the-folk-of-the-faraway-tree/,1,0,0,0
 11003613,Enid Blyton,enid-blyton,Five-Minute Stories,en-gb,audio-book,stock,a25475f5-c5d7-4113-bc22-8a5a82ad123f,https://tonies.com/en-gb/book-tonies/enid-blyton/five-minute-stories/,1,1,1,0
@@ -1911,6 +1912,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11003894,Les Copains Du Dodo,sleepy-friends,Tonie-Veilleuse - Doudou Croco,fr-fr,music,stock,2ac2f019-3990-4dcf-bbad-23c0b467d4c0,https://tonies.com/fr-fr/tonies/les-copains-du-dodo/tonie-veilleuse-doudou-croco/,1,0,0,0
 11003897,SpongeBob Schwammkopf,spongebob-squarepants,"Patrick, der Postbote und weitere Abenteuer",de-de,audio-play,stock,8c911770-038a-4498-82f2-39c01b820283,https://tonies.com/de-de/tonies/spongebob-schwammkopf/patrick-der-postbote-und-weitere-abenteuer/,1,0,0,0
 11003994,Eule findet den Beat,eule-findet-den-beat,Eule findet den Beat Set,de-de,audio-play-songs,stock,12da9697-0974-4a45-b7e6-f8de2db74ce7,https://tonies.com/de-de/clever-tonies/eule-findet-den-beat/eule-findet-den-beat-set/,1,4,0,0
+11004023,"Mein Knopf, ein Universum",mein-knopf-ein-universum,"Mein Knopf, ein Universum & Mein Knopf, ein Universum - Auf zu neuen Wunsch-Abenteuern",de-de,audio-play-songs,stock,f2855f16-e9ce-4bab-aa42-f9b857d1644d,https://tonies.com/de-de/tonies/mein-knopf-ein-universum/mein-knopf-ein-universum-mein-knopf-ein-universum-auf-zu-neuen-wunsch-abenteuern/,1,0,0,0
 11004038,Toy Story,toy-story-2,Toy Story 5,fr-fr,audio-play,stock,e0f8f518-1995-47b2-b4fc-f709f650ca1e,https://tonies.com/fr-fr/tonies/disney-toy-story/toy-story-5/,1,0,0,0
 11004040,Si-Sa-Singemaus,53e3d10c-3b5e-4c75-90aa-8e134aca0bfe,"Lern,- Spiel- und Spaßlieder",de-de,music,stock,ddfcedae-bb25-4519-988a-8b9d6eda0bad,https://tonies.com/de-de/tonies/detlev-joecker/detlev-joecker-lern-spiel-und-spasslieder/,1,0,0,0
 11004073,Peppa Pig,,George’s New Sounds,en-us,Tonie,stock,9682017255575,,1,0,0,0
@@ -1941,6 +1943,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11004222,Winnie L'Ourson,disney-winnie-the-pooh,Porcinet,fr-fr,audio-play-songs,stock,f33605d8-64b5-4801-ab6f-edfb450907e9,https://tonies.com/fr-fr/tonies/disney-winnie-lourson/porcinet/,1,0,0,0
 11004227,Disney,,Baby: Peaceful Piano Sleep Music,en-us,Tonie,stock,9685640839319,,1,0,0,0
 11004228,Disney Baby,disney-disney-baby,Disney Baby: Peaceful Piano Sleep Music,en-gb,music,stock,5baf2531-3964-48e7-8c1e-be551214d9be,https://tonies.com/en-gb/tonies/disney-disney-baby/disney-baby-peaceful-piano-sleep-music/,1,0,0,0
+11004230,Disney Baby,disney-disney-baby,Klaviermelodien zum Einschlafen,de-de,music,stock,9d33627b-b164-46a4-a7b1-d8f47e3c9735,https://tonies.com/de-de/tonies/disney-disney-baby/disney-baby-klaviermelodien-zum-einschlafen/,1,0,0,0
 11004232,The Wiggles,,Dorothy The Dinosaur,en-us,Tonie,stock,9485293977751,,1,1,1,0
 11004269,Lottie Brooks,lottie-brooks,Lottie Brooks - The Mega-Complicated Crushes of Lottie Brooks (Book 3),en-gb,audio-book,stock,536300e8-6293-4a8a-867f-59c11961e9e0,https://tonies.com/en-gb/book-tonies/lottie-brooks/the-mega-complicated-crushes-of-lottie-brooks-book-3/,1,0,0,0
 11004270,Lottie Brooks,lottie-brooks,Lottie Brooks - The Extremely Embarrassing Life of Lottie Brooks (Book 1),en-gb,audio-book,stock,5ed03409-8179-4581-83a6-f6904d25dd64,https://tonies.com/en-gb/book-tonies/lottie-brooks/the-extremely-embarrassing-life-of-lottie-brooks-book-1/,1,0,0,0
@@ -1963,6 +1966,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11004859,Sommerby,sommerby,Ein Sommer in Sommerby,de-de,audio-book,stock,a0228e54-64f1-4652-9e7c-15e8fe9067f4,https://tonies.com/de-de/book-tonies/sommerby/ein-sommer-in-sommerby/,1,1,1,0
 11004867,Enchanted Bedtime Stories,fefdef11-9d65-4097-9317-2ab775aa09b6,Enchanted Bedtime Stories,en-gb,audio-book,stock,26bc269f-b4e1-41ce-80c4-fd9a9c25b91f,https://tonies.com/en-gb/book-tonies/enchanted-bedtime-stories/enchanted-bedtime-stories/,1,0,0,0
 11004871,100 Wörter in den Sprachen dieser Welt,ea55133c-483b-409c-afa4-45d711a13b4e,100 Wörter in den Sprachen dieser Welt - Set,de-de,audio-play-educational,stock,22e5c0cd-b996-495d-a727-095153a526b6,https://tonies.com/de-de/clever-tonies/100-woerter-in-den-sprachen-dieser-welt/100-woerter-in-den-sprachen-dieser-welt/,1,0,0,0
+11004875,PAW Patrol,paw-patrol,Der Dino Film,de-de,audio-play,stock,fb58c697-3a77-41af-a5e9-a6fe1290add0,https://tonies.com/de-de/tonies/paw-patrol/der-dino-film/,1,0,0,0
 11004910,America's 250th Anniversary Creative,,,en-us,Tonie,stock,9493729018007,,1,0,0,0
 11004961,"Little People, Big Dreams",kleine-menschen-grosse-ziele,Little People Big Dreams - Music Legends,en-gb,audio-book,stock,50e7369e-01de-4001-9f79-882369cea31d,https://tonies.com/en-gb/clever-tonies/little-people-big-dreams/music-legends/,1,0,0,0
 11005134,GROßE EXPERTEN,grosse-experten,Piraten,de-de,audio-play,stock,bc832f17-9c31-4a97-922b-24e643273039,https://tonies.com/de-de/clever-tonies/grosse-experten/grosse-experten-piraten/,1,1,1,0
@@ -6498,6 +6502,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 2000011792,Ein Mädchen namens Willow,ein-maedchen-namens-willow,Ein Mädchen namens Willow 4: Nebeltanz,de-de,audio-play,tunes,cfd522b0-b767-4464-a55b-d2cec2d5248a,https://tonies.com/de-de/audio-content/ein-maedchen-namens-willow/ein-madchen-namens-willow-4-nebeltanz/,1,0,0,0
 2000011793,Schlummerbande,schlummerbande,Schlummerente: Eine Klangreise durch den Schlummerwald,de-de,music,tunes,884a6dfb-2e7d-4fbe-b702-49543bb25495,https://tonies.com/de-de/audio-content/schlummerbande/schlummerente-eine-klangreise-durch-den-schlummerw/,1,0,0,0
 2000011794,Lalalinos,zusammen-sind-wir-stark,Halloween Album,en-us,music,tunes,938b63e5-9283-4c5d-9c83-0a7ec0ad1f24,https://tonies.com/de-de/audio-content/zusammen-sind-wir-stark/halloween-album/,1,0,0,0
+2000011795,Die drei ??? Kids,die-drei-kids,Folge 104: Teuflische Küche,de-de,audio-play,tunes,75ff2d8e-3be4-45f4-926c-607fd9a8e157,https://tonies.com/de-de/audio-content/die-drei-kids/folge-104-teuflische-kuche/,1,0,0,0
 2000011796,"Kurt, Einhorn wider Willen",kurt-einhorn-wider-willen,EinHorn kommt selten allein,de-de,audio-book,tunes,e1975d7b-f61e-400a-9808-634ac4cf1b1a,https://tonies.com/de-de/audio-content/kurt-einhorn-wider-willen/einhorn-kommt-selten-allein/,1,0,0,0
 2000011797,"Kurt, Einhorn wider Willen",kurt-einhorn-wider-willen,Ein Horn - eine Mission,de-de,audio-book,tunes,c8f9b96a-e6fb-4164-b9fc-43d26a22f883,https://tonies.com/de-de/audio-content/kurt-einhorn-wider-willen/ein-horn-eine-mission/,1,0,0,0
 2000011798,Die unlangweiligste Schule der Welt,die-unlangweiligste-schule-der-welt,Die entführte Lehrerin,de-de,audio-book,tunes,220509dc-9e2e-49c6-a900-63b9bfb92d21,https://tonies.com/de-de/audio-content/die-unlangweiligste-schule-der-welt/die-unlangweiligste-schule-der-welt-3-die-entfuhrt/,1,0,0,0
@@ -6516,7 +6521,9 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 2000011812,Brigitte Weninger,brigitte-weninger,Pauli - Wo isch de Nickel?,de-de,audio-play,tunes,29762f3e-e2ab-4600-8ab0-0551b8f519f4,https://tonies.com/de-de/audio-content/brigitte-weninger/wo-isch-de-nickel/,1,0,0,0
 2000011813,Lieve Beaten,lieve-beaten,Die schlau chlii Häx,de-de,audio-play,tunes,ffe077b5-14dd-43d6-8427-b6182951eda5,https://tonies.com/de-de/audio-content/lieve-beaten/die-schlau-chlii-hax/,1,0,0,0
 2000011814,Farm Set,farm-set,On The Sunny Farm,en-gb,audio-play,tunes,bc84d861-379b-4e8c-b50f-815d6827f8e0,https://tonies.com/en-gb/audio-content/farm-set/my-first-farm/,1,0,0,0
-2000011815,Calendriers de l'Avent,calendrier-de-l-avent-digital,Le petit renne qui rêvait d'avoir des ailes (2026),,,tunes,19c97ca8-d9cd-479d-a89e-7b1677ce530f,https://tonies.com/fr-fr/tonie-librairie/calendrier-de-l-avent-digital/le-petit-renne-qui-revait-davoir-des-ailes-2026/,1,0,0,0
+2000011815,Calendriers de l'Avent,calendrier-de-l-avent-digital,Le petit renne qui rêvait d'avoir des ailes (2026),fr-fr,,tunes,19c97ca8-d9cd-479d-a89e-7b1677ce530f,https://tonies.com/fr-fr/tonie-librairie/calendrier-de-l-avent-digital/le-petit-renne-qui-revait-davoir-des-ailes-2026/,1,0,0,0
+2000011821,Dino Rockstars,dino-rockstars,The Greatest Band of Prehistoric Time,en-gb,music,tunes,09abb104-0c61-469c-9e6e-7da162f5de7f,https://tonies.com/en-gb/audio-content/dino-rockstars/dino-rockstars/,1,0,0,0
+2000011825,Bauernhof Set,bauernhof-set,Auf dem kleinen bunten Bauernhof,de-de,audio-book-songs,tunes,2c201fa6-6c46-4a10-9e00-548656e5b83e,https://tonies.com/de-de/audio-content/bauernhof-set/auf-dem-kleinen-bunten-bauernhof/,1,0,0,0
 43314534219927,The Elf on the Shelf,,,en-us,Tonie,stock,8072067055767,,1,0,0,0
 43314558009495,Favorite Masterpieces,,The Nutcracker,en-us,Tonie,stock,8072076656791,,1,0,0,0
 43314564169879,Maestro,,,en-us,Tonie,stock,8072079147159,,1,0,0,0
