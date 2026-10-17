@@ -1353,7 +1353,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000624,Dino Rockstars,,The Greatest Band of Prehistoric Time,en-us,Tonie,stock,9685640675479,,1,0,0,0
 11000628,Petit Ours Brun,petit-ours-brun-2,Petit Ours Brun (Vol. 2),fr-fr,audio-book,stock,0de86d8f-849e-49d2-8eba-b20712eabd46,https://tonies.com/fr-fr/tonies/petit-ours-brun/petit-ours-brun-vol-2/,1,0,0,0
 11000629,Gus Le Chevalier Minus,gus,Gus,fr-fr,audio-play,stock,eaf4efc3-3b94-407d-bfb2-a04ba8f65803,https://tonies.com/fr-fr/tonies/gus/gus/,1,1,1,0
-11000631,Advent calendar,advent-calendar,The Little Reindeer's Christmas Wish,en-gb,audio-play,stock,2fbcc068-b538-478b-9081-cac9565e3df9,https://tonies.com/en-gb/tonies/advent-calendar/the-little-reindeers-christmas-wish/,1,12,12,0
+11000631,Advent Calendar,adventskalender,The Little Reindeer's Christmas Wish - Advent Calendar,en-gb,audio-play,stock,2fbcc068-b538-478b-9081-cac9565e3df9,https://tonies.com/en-gb/tonies/advent-calendar/the-little-reindeers-christmas-wish/,1,12,12,0
 11000639,Duck & Goose,,,en-us,Tonie,stock,8984950210711,,1,1,1,0
 11000645,PAW Patrol Jungle Pups,,Chase,en-us,Tonie,stock,8258466644119,,1,1,1,0
 11000646,PAW Patrol Jungle Pups,,Marshall,en-us,Tonie,stock,8258467790999,,1,1,1,0
@@ -1625,7 +1625,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11001916,Adventskalender,adventskalender,Adventskalender 2025 – Flöckchen und die verschwundenen Weihnachtslichter,de-de,audio-play,stock,7555b9a9-2216-4a20-8fb5-e2cde5f8be84,https://tonies.com/de-de/tonies/adventskalender/adventskalender-tonie-2025-floeckchen-und-die-verschwundenen-weihnachtslichter/,1,26,26,0
 11001917,Calendrier De L'Avent,adventskalender,Pompon Et Les Lumières De Noël,fr-fr,audio-play,stock,d122ab72-0ce2-4c98-a7d7-999f05354c73,https://tonies.com/fr-fr/tonies/calendrier-de-l-avent/pompon-et-les-lumieres-de-noel/,1,0,0,0
 11001918,Snowflake and the Missing Christmas Lights Advent Calendar,,,en-us,Tonie,stock,9166191132823,,1,27,27,0
-11001919,tonies® Original,tonies-originals,Advent Calendar 2025: Snowflake and the Missing Christmas Lights,en-gb,audio-play,stock,142ee0ec-7b61-4930-ba8a-1bf5bc48e676,https://tonies.com/en-gb/tonies/tonies-originals/advent-calendar-2025-snowflake-and-the-missing-christmas-lights/,1,1,1,0
+11001919,Advent Calendar,adventskalender,Advent Calendar: Snowflake and the Missing Christmas Lights,en-gb,audio-play,stock,142ee0ec-7b61-4930-ba8a-1bf5bc48e676,https://tonies.com/en-gb/tonies/advent-calendar/advent-calendar-snowflake-and-the-missing-christmas-lights/,1,1,1,0
 11001920,Leo's Tag,leos-tag,"Hoppala, wer schnieft denn da?",de-de,audio-play-songs,stock,bc7b310f-a910-4f80-bd92-3811abd5ea1c,https://tonies.com/de-de/tonies/leos-tag/hoppala-wer-schnieft-denn-da/,1,1,1,0
 11001921,Peanuts,,A Charlie Brown Christmas (Vince Guaraldi Trio),en-us,Tonie,stock,9166191100055,,1,1,1,0
 11001923,,,,,,,,,1,1,1,0
@@ -6521,8 +6521,14 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 2000011812,Brigitte Weninger,brigitte-weninger,Pauli - Wo isch de Nickel?,de-de,audio-play,tunes,29762f3e-e2ab-4600-8ab0-0551b8f519f4,https://tonies.com/de-de/audio-content/brigitte-weninger/wo-isch-de-nickel/,1,0,0,0
 2000011813,Lieve Beaten,lieve-beaten,Die schlau chlii Häx,de-de,audio-play,tunes,ffe077b5-14dd-43d6-8427-b6182951eda5,https://tonies.com/de-de/audio-content/lieve-beaten/die-schlau-chlii-hax/,1,0,0,0
 2000011814,Farm Set,farm-set,On The Sunny Farm,en-gb,audio-play,tunes,bc84d861-379b-4e8c-b50f-815d6827f8e0,https://tonies.com/en-gb/audio-content/farm-set/my-first-farm/,1,0,0,0
-2000011815,Calendriers de l'Avent,calendrier-de-l-avent-digital,Le petit renne qui rêvait d'avoir des ailes (2026),fr-fr,,tunes,19c97ca8-d9cd-479d-a89e-7b1677ce530f,https://tonies.com/fr-fr/tonie-librairie/calendrier-de-l-avent-digital/le-petit-renne-qui-revait-davoir-des-ailes-2026/,1,0,0,0
+2000011815,Calendriers de l'Avent,calendrier-de-l-avent-digital,Le petit renne qui rêvait d'avoir des ailes (2026),fr-fr,audio-play,tunes,19c97ca8-d9cd-479d-a89e-7b1677ce530f,https://tonies.com/fr-fr/tonie-librairie/calendrier-de-l-avent-digital/le-petit-renne-qui-revait-davoir-des-ailes-2026/,1,0,0,0
+2000011816,Adventskalender-Downloads,adventskalender-digital,Adventskalender 2025 - Flöckchen und die verschwundenen Weihnachtslichter,de-de,audio-play,tunes,e110eeb0-7c66-4fe5-8e4c-56829d76d589,https://tonies.com/de-de/audio-content/adventskalender-digital/adventskalender-2025-flockchen-relaunch/,1,0,0,0
+2000011817,Adventskalender-Downloads,adventskalender-digital,Adventskalender 2024 - Ein Fest für die Waldfreunde,de-de,audio-play,tunes,a2cfe7bc-42ec-4052-8b9b-bd29f4158084,https://tonies.com/de-de/audio-content/adventskalender-digital/ein-fest-fur-die-waldfreunde-digital/,1,0,0,0
+2000011818,Adventskalender-Downloads,adventskalender-digital,"Adventskalender 2023 - Wünsch dir was, kleines Rentier",de-de,audio-play,tunes,8ff4b63b-1fca-4d74-a708-48e89b7d0e31,https://tonies.com/de-de/audio-content/adventskalender-digital/wunsch-dir-was-kleines-rentier/,1,0,0,0
+2000011819,Adventskalender-Downloads,adventskalender-digital,Adventskalender 2026 - Ein knuspriges Weihnachtsfest,de-de,audio-play,tunes,76e4f889-7b56-4843-aa70-00966bde2335,https://tonies.com/de-de/audio-content/adventskalender-digital/gingerbread-ein-knuspriges-weihnachtsfest-digital/,1,0,0,0
+2000011820,Adventskalender-Downloads,adventskalender-digital,Adventskalender 2026 - Milas Weihnachtsreise,de-de,audio-play,tunes,162e204b-af2e-466c-b4b6-b55bc7439e23,https://tonies.com/de-de/audio-content/adventskalender-digital/milas-weihnachtsreise-digital/,1,0,0,0
 2000011821,Dino Rockstars,dino-rockstars,The Greatest Band of Prehistoric Time,en-gb,music,tunes,09abb104-0c61-469c-9e6e-7da162f5de7f,https://tonies.com/en-gb/audio-content/dino-rockstars/dino-rockstars/,1,0,0,0
+2000011822,Calendriers de l'Avent,calendrier-de-l-avent-digital,Pompon et les lumières de Noël (Mode Calendrier),fr-fr,audio-play,tunes,13c0d225-6889-471e-a758-6589af69f14a,https://tonies.com/fr-fr/tonie-librairie/calendrier-de-l-avent-digital/pompon-et-les-lumieres-de-noel-digital/,1,0,0,0
 2000011825,Bauernhof Set,bauernhof-set,Auf dem kleinen bunten Bauernhof,de-de,audio-book-songs,tunes,2c201fa6-6c46-4a10-9e00-548656e5b83e,https://tonies.com/de-de/audio-content/bauernhof-set/auf-dem-kleinen-bunten-bauernhof/,1,0,0,0
 43314534219927,The Elf on the Shelf,,,en-us,Tonie,stock,8072067055767,,1,0,0,0
 43314558009495,Favorite Masterpieces,,The Nutcracker,en-us,Tonie,stock,8072076656791,,1,0,0,0
