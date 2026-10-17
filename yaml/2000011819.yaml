@@ -1,0 +1,20 @@
+article: '2000011819'
+lock-data: false
+data:
+- series: Adventskalender-Downloads
+  series-id: adventskalender-digital
+  episode: Adventskalender 2026 - Ein knuspriges Weihnachtsfest
+  release: 1792108800
+  language: de-de
+  category: audio-play
+  runtime: 16850
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_1eeead6c43201d7d255eac1abfc1c4627921d26e4c3bc84ad031b124/3_RyhyKHzb3PK~-ffJ/advent_calendars_adventskalender_2026_ein_knus_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/11fa79c28009e4db34c6b17c446389d94eaea73849a92cf598324fbe/horprobe_ein_knuspriges_weihnachtsfest.mp3
+  web: https://tonies.com/de-de/audio-content/adventskalender-digital/gingerbread-ein-knuspriges-weihnachtsfest-digital/
+  shop-id: 76e4f889-7b56-4843-aa70-00966bde2335
+  track-desc:
+  - Anleitung
+  - Einführung
+  ids: []

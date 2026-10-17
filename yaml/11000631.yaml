@@ -1,9 +1,9 @@
 article: '11000631'
 lock-data: false
 data:
-- series: Advent calendar
-  series-id: advent-calendar
-  episode: The Little Reindeer's Christmas Wish
+- series: Advent Calendar
+  series-id: adventskalender
+  episode: The Little Reindeer's Christmas Wish - Advent Calendar
   release: 1697760000
   language: en-gb
   category: audio-play
@@ -15,7 +15,31 @@ data:
   web: https://tonies.com/en-gb/tonies/advent-calendar/the-little-reindeers-christmas-wish/
   shop-id: 2fbcc068-b538-478b-9081-cac9565e3df9
   track-desc:
-  - Welcome to The Little Reindeer's Christmas Wish
+  - 00. INTRO
+  - 01. STORY - Chapter 1
+  - 02. STORY - Chapter 2
+  - 03. STORY - Chapter 3
+  - 04. STORY - Chapter 4
+  - 05. STORY - Chapter 5
+  - 06. STORY - Chapter 6
+  - 07. STORY - Chapter 7
+  - 08. STORY - Chapter 8
+  - 09. STORY - Chapter 9
+  - 10. STORY - Chapter 10
+  - 11. STORY - Chapter 11
+  - 12. STORY - Chapter 12
+  - 13. STORY - Chapter 13
+  - 14. STORY - Chapter 14
+  - 15. STORY - Chapter 15
+  - 16. STORY - Chapter 16
+  - 17. STORY - Chapter 17
+  - 18. STORY - Chapter 18
+  - 19. STORY - Chapter 19
+  - 20. STORY - Chapter 20
+  - 21. STORY - Chapter 21
+  - 22. STORY - Chapter 22
+  - 23. STORY - Chapter 23
+  - 24. STORY - Chapter 24
   ids:
   - audio-id: 1790762494
     hash: acd18808e464a34b3b41ea11db84467fdc47a7cd
