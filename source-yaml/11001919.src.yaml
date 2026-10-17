@@ -1,10 +1,10 @@
 article: '11001919'
 lock-data: false
 data:
-- series: ''
-  series-id: ''
-  episode: ''
-  release: ''
+- series: tonies-json-en-gb,
+  series-id: tonies-json-en-gb,
+  episode: tonies-json-en-gb,
+  release: tonies-json-en-gb,
   language: ''
   category: ''
   runtime: ''
@@ -12,7 +12,7 @@ data:
   origin: ''
   image: ''
   sample: ''
-  web: ''
+  web: tonies-json-en-gb,
   shop-id: ''
   track-desc: tonies-json-en-gb,
   ids: []
