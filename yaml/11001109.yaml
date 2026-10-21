@@ -31,6 +31,11 @@ data:
   - 8th October
   - Joke of The Day Jingle
   ids:
+  - audio-id: 1792537526
+    hash: 280525e6fba6f8f61d50af52a8417cc26223ac72
+    size: 24282303
+    tracks: 15
+    confidence: 1
   - audio-id: 1792451126
     hash: 71f0aaa76e21f381c2704e457dee6e05afe4bfda
     size: 24333029
