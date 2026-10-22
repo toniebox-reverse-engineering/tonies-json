@@ -15,6 +15,7 @@ data:
   web: https://tonies.com/de-de/tonies/unser-sandmaennchen/nachts-wenn-alles-schlaeft/
   shop-id: df2d5a3c-163c-4a0a-a4f7-19c3aac04486
   track-desc:
+  - Sandmannlied (Anfangsmusik)
   - Der Maulwurf, der sich verbuddelt hatte
   - Mein Teddy
   - Der Nachtzug
@@ -25,6 +26,7 @@ data:
   - Kuschellied
   - Das Nachtkonzert
   - Das Schlaflied aus dem Radio
+  - Sandmannlied (Endmusik)
   ids:
   - audio-id: 1527152598
     hash: f22e73de2efc60fc313c27ccfba87dac0ac23f1e
