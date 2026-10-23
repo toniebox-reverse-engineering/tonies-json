@@ -7,7 +7,7 @@ data:
   release: 1788912000
   language: de-de
   category: audio-play
-  runtime: 143
+  runtime: 136
   age: 5
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11005320_1_a-YnWRPlDY.png
@@ -17,9 +17,9 @@ data:
   track-desc:
   - Intro
   - Die besondere Bäckerei
-  ids: 
-   - audio-id: 1788360016
-     hash: 555eace0e1392eae3e75c11876814d8c41a47135
-     size: 3857104
-     tracks: 2
-     confidence: 0
+  ids:
+  - audio-id: 1788360016
+    hash: 555eace0e1392eae3e75c11876814d8c41a47135
+    size: 3857104
+    tracks: 2
+    confidence: 0
