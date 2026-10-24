@@ -218,7 +218,7 @@ def extract_data_tonies_us(lang, article, product_data, source):
                     "series": ("title", lambda x: split_title(clean_title(x))[0]),
                     "episode": ("title", lambda x: split_title(clean_title(x))[1]),
                     "release": ("published_at", lambda x: convert_to_unix_timestamp(x)),
-                    "language": (None, lang),
+                    "language": (None, extract_language(product_data["tags"], lang)),
                     "runtime": (None, 0),
                     "age": (None, extract_age_range(product_data["tags"])),
                     "origin": (None, "stock"),  # Fixed value
@@ -230,12 +230,9 @@ def extract_data_tonies_us(lang, article, product_data, source):
         }
         map_fields(yaml_data, product_data, field_mapping)
 
-        cache_id = 0
-        if yaml_data["language"] != lang: # skip duplicates that are in multiple shops
-            cache_id = 1
-
+        # No check for duplicates from other shops: the US shop sells only its own products, also those in Spanish
         yaml_data = filter_data(article, yaml_data)
-        merge_yaml_data(article, yaml_data, source, overwrite=True, cache_id=cache_id)
+        merge_yaml_data(article, yaml_data, source, overwrite=True)
     
 def extract_data_tonies_shopapi(lang, article, product_data, source):                
     if is_update_locked(article):
@@ -436,6 +433,12 @@ def fix_age(age):
     if age is None:
         return 99
     return age
+def extract_language(tags, lang):
+    # Bilingual tonies ("Language | English & Espa\u00f1ol (Spanish)") count as English
+    if "Language | Espa\u00f1ol (Spanish)" in tags:
+        return "es-us"
+    return lang
+
 def extract_age_range(tags):
     # "Age: 5+" is the minimum age; products without it carry ranges like "Age Range | 5-6" or "Age 5-6", whose lower bound is the minimum age
     for prefix in ("Age: ", "Age Range | ", "Age "):
