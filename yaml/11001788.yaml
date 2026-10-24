@@ -1,0 +1,30 @@
+article: '11001788'
+lock-data: false
+data:
+- series: Rebel Girls
+  series-id: null
+  episode: Musicians Series
+  release: 0
+  language: en-us
+  category: Clever Tonie
+  runtime: 0
+  age: 5
+  origin: stock
+  image: https://explore.rebelgirls.com/wp-content/uploads/2024/09/tonies-2pk-1.png
+  sample: null
+  web: null
+  shop-id: null
+  track-desc:
+  - Punk Rockers
+  - Trailblazers
+  ids:
+  - audio-id: 1727801776
+    hash: b3c05eaa8218cb275c6fd8794b911b48ca042983
+    size: 19136262
+    tracks: 2
+    confidence: 0
+  - audio-id: 1727801746
+    hash: 5e30c56d8ee95dd06251b640ca1302e72af2d8f4
+    size: 22658732
+    tracks: 2
+    confidence: 0

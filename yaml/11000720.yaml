@@ -26,6 +26,11 @@ data:
   - Einschlafmelodie "Der kleine Bär im Schlummerwald" - 08
   - Einschlafmelodie "Der kleine Bär im Schlummerwald" - 09
   ids:
+  - audio-id: 1767468429
+    hash: 143f6b0e457832bbdfaea777b6dbb2586a2e6c74
+    size: 75819267
+    tracks: 11
+    confidence: 0
   - audio-id: 1717423922
     hash: 7b91dfc7bb39f1b74de7df115a2ca2d8f0111d31
     size: 67963645

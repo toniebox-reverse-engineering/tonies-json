@@ -1,19 +1,19 @@
 article: '11003878'
 lock-data: false
 data:
-- series: null
+- series: Disney
   series-id: null
-  episode: null
-  release: 0
-  language: null
-  category: null
+  episode: Lilo & Stitch Cuddle
+  release: 1770738105
+  language: en-us
+  category: Plush Toys
   runtime: 0
   age: 99
-  origin: null
-  image: null
+  origin: stock
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Cuddle-Stitch-11003878-PLPTB2MainImageTransparent.png?v=1774883284
   sample: null
   web: null
-  shop-id: null
+  shop-id: '9425040343191'
   track-desc: []
   ids:
   - audio-id: 1769608379
