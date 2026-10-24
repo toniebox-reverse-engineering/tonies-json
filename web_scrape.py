@@ -255,7 +255,7 @@ def extract_data_tonies_shopapi(lang, article, product_data, source):
             "sample": ("audioSampleUrl",),
             "web": ("productUrl", lambda x: f'https://tonies.com{x}'),
             "shop-id": ("productId",),
-            "track-desc": ("tracks", lambda x: x.split("\n") if x is not None else None),
+            "track-desc": ("tracks", lambda x: x.splitlines() if x is not None else None),
         }
         map_fields(yaml_data, product_data, field_mapping)
 
