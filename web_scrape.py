@@ -225,7 +225,7 @@ def extract_data_tonies_us(lang, article, product_data, source):
                     "category": ("product_type",),
                     "image": ("variants", "featured_image", "src", ("images", "src")), #mapper uses first entry of variants, fallback to images if not available
                     "sample": (None, None),
-                    "web": (None, None),
+                    "web": ("handle", lambda x: f'https://us.tonies.com/products/{x}'),
                     "shop-id": ("id", lambda x: str(x)),
         }
         map_fields(yaml_data, product_data, field_mapping)
