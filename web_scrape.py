@@ -7,7 +7,7 @@ import copy
 import os
 import yaml
 import time
-from datetime import datetime
+from datetime import datetime, timezone
 
 from article_yaml_helpers import YamlStruct, YamlHelper, GeneralHelper
 from tonies_json_config import Config
@@ -217,7 +217,7 @@ def extract_data_tonies_us(lang, article, product_data, source):
         field_mapping = {
                     "series": ("title", lambda x: split_title(clean_title(x))[0]),
                     "episode": ("title", lambda x: split_title(clean_title(x))[1]),
-                    "release": ("published_at", lambda x: convert_to_unix_timestamp(x)),
+                    "release": (None, extract_us_release(product_data)),
                     "language": (None, extract_language(product_data["tags"], lang)),
                     "runtime": (None, 0),
                     "age": (None, extract_age_range(product_data["tags"])),
@@ -438,6 +438,20 @@ def fix_age(age):
     if age is None:
         return 99
     return age
+def extract_us_release(product_data):
+    # "Publication Date: 02/03/2026" is the release day; published_at changes whenever the shop republishes the product.
+    # A publication date before the product was created in the shop is a placeholder (01/01/2020 on Creative Tonies from 2021).
+    created = convert_to_unix_timestamp(product_data["created_at"])
+    for tag in product_data["tags"]:
+        if tag.startswith("Publication Date: "):
+            try:
+                release = int(datetime.strptime(tag[len("Publication Date: "):], "%m/%d/%Y").replace(tzinfo=timezone.utc).timestamp())
+            except ValueError:
+                continue
+            if release >= created:
+                return release
+    return convert_to_unix_timestamp(product_data["published_at"])
+
 def extract_language(tags, lang):
     # Bilingual tonies ("Language | English & Espa\u00f1ol (Spanish)") count as English
     if "Language | Espa\u00f1ol (Spanish)" in tags:
