@@ -21,6 +21,16 @@ data:
     euch!'
   - 'Der große Gesundheits-Check: Viren, Fitness, Vitamine - Das check ich für euch!'
   ids:
+  - audio-id: 1784642742
+    hash: 5f133a1521347e2fb5ea86098a9bbefa11118a1c
+    size: 41785263
+    tracks: 26
+    confidence: 0
+  - audio-id: 1784642576
+    hash: 979ba9c83cbc51bb4554e001586a6f6d5c23ece0
+    size: 41459250
+    tracks: 27
+    confidence: 0
   - audio-id: 1720006727
     hash: aadc93e7f316703c28a07dc5c802e01cf0f9ccbb
     size: 43077025

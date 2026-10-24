@@ -1,19 +1,19 @@
 article: '11003871'
 lock-data: false
 data:
-- series: null
+- series: Disney
   series-id: null
-  episode: null
-  release: 0
-  language: null
-  category: null
+  episode: Winnie The Pooh Cuddle
+  release: 1770738167
+  language: en-us
+  category: Plush Toys
   runtime: 0
   age: 99
-  origin: null
-  image: null
+  origin: stock
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Cuddle-Winnie-The-Pooh-11003871-PLPTB2MainImageTransparent.png?v=1774883282
   sample: null
   web: null
-  shop-id: null
+  shop-id: '9425040441495'
   track-desc: []
   ids:
   - audio-id: 1769604505

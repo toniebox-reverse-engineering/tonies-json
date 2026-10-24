@@ -1,19 +1,19 @@
 article: '11003874'
 lock-data: false
 data:
-- series: null
+- series: Disney
   series-id: null
-  episode: null
-  release: 0
-  language: null
-  category: null
+  episode: Minnie Mouse Cuddle
+  release: 1770738191
+  language: en-us
+  category: Plush Toys
   runtime: 0
   age: 99
-  origin: null
-  image: null
+  origin: stock
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Cuddle-Minnie-11003874-PLPTB2MainImageTransparent.png?v=1774883316
   sample: null
   web: null
-  shop-id: null
+  shop-id: '9425040375959'
   track-desc: []
   ids:
   - audio-id: 1770108995

@@ -1,0 +1,42 @@
+article: '11002554'
+lock-data: false
+data:
+- series: Clever Tonies Set
+  series-id: null
+  episode: 'Animal World: Wildlife in the Woods'
+  release: 1769787720
+  language: en-us
+  category: Clever Tonie
+  runtime: 0
+  age: 99
+  origin: stock
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Wildlife-in-the-Woods-11002554-PLPTB2MainImageTransparent.png?v=1775052475
+  sample: null
+  web: null
+  shop-id: '9409150025879'
+  track-desc:
+  - Amongst Giants
+  - Discover the Amazon
+  - Fantastical Forests
+  - Mighty Mangroves
+  ids:
+  - audio-id: 1763071687
+    hash: f18b3a1fd1dcebe355fd35d62b814f2ad5c83a61
+    size: 21227478
+    tracks: 6
+    confidence: 0
+  - audio-id: 1763071208
+    hash: a5c05632283d9f3bfd05667c6a13e414a3c06ff3
+    size: 19333704
+    tracks: 6
+    confidence: 0
+  - audio-id: 1763070889
+    hash: 4eb0657bb7ad94f7e14abb6c01e70b8b58835e21
+    size: 20479333
+    tracks: 6
+    confidence: 0
+  - audio-id: 1763070497
+    hash: c0aefad9c8235c29012197ea9f1b566c32566116
+    size: 19690772
+    tracks: 6
+    confidence: 0

@@ -1,20 +1,24 @@
 article: '11001994'
 lock-data: false
 data:
-- series: null
+- series: The Questioneers
   series-id: null
-  episode: null
-  release: 0
-  language: null
-  category: null
+  episode: Books 1-4
+  release: 1727710126
+  language: en-us
+  category: Audiobook
   runtime: 0
   age: 99
-  origin: null
-  image: null
+  origin: stock
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Questioneers-11001994-PLPTB2MainImageTransparent.png?v=1775606021
   sample: null
   web: null
-  shop-id: null
-  track-desc: []
+  shop-id: '8398416937111'
+  track-desc:
+  - Rosie Revere and the Raucous Riveters
+  - Ada Twist and the Perilous Pants
+  - Iggy Peck and the Mysterious Mansion
+  - Sofia Valdez and the Vanishing Vote
   ids:
   - audio-id: 1727825267
     hash: f526700b3745ef6bc7893d196e17b8be8580f78d

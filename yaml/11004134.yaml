@@ -1,0 +1,38 @@
+article: '11004134'
+lock-data: false
+data:
+- series: Baustellen Set
+  series-id: baustellenfahrzeuge-set
+  episode: My First Tonies - Baustellen Set
+  release: 1791331200
+  language: de-de
+  category: audio-play-songs
+  runtime: 36
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11004134_9_a-d59tJAt-.png
+  sample: https://cdn.tonies.de/o/audio_samples/d9a6e4be47cad03ca7f35a8149fc42cf33f383e31c5b1e16595f8a84/construction_set_dach_audio_sample.wav
+  web: https://tonies.com/de-de/my-first-tonies/baustellenfahrzeuge-set/my-first-tonies-baustellen-set/
+  shop-id: 2acd1923-8228-4b97-b619-108d97910f1e
+  track-desc:
+  - Kipplaster - Geräusch & Lied
+  - Kipplaster - Hörst du den Kipplaster?
+  - Kipplaster - Eine Überraschung für den Kipplaster
+  - Kipplaster - Der Kipplaster packt mit an! (Klanglandschaft & Musik)
+  - Kipplaster - Outro
+  - Betonmischer - Geräusch & Lied
+  - Betonmischer - Hörst du den Betonmischer?
+  - Betonmischer - Tommy, der kleine Betonmischer
+  - Betonmischer - Der Betonmischer mischt mit! (Klanglandschaft & Musik)
+  - Betonmischer - Outro
+  - Bagger - Geräusch & Lied
+  - Bagger - Hörst du den Bagger?
+  - Bagger - Was macht der kleine Bagger?
+  - Bagger - Der Bagger baggert los (Klanglandschaft & Musik)
+  - Bagger - Outro
+  ids:
+  - audio-id: 1783933139
+    hash: 365bedfbbb6f5a23c2eaa974186d36f92e1faa57
+    size: 8204167
+    tracks: 5
+    confidence: 0
