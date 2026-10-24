@@ -1,20 +1,24 @@
 article: '11002693'
 lock-data: false
 data:
-- series: null
+- series: Clever Tonies Set
   series-id: null
-  episode: null
-  release: 0
-  language: null
-  category: null
+  episode: Sunspeed Explorers
+  release: 1753797422
+  language: en-us
+  category: Clever Tonie
   runtime: 0
   age: 99
-  origin: null
-  image: null
+  origin: stock
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Sunspeed-Explorers-11002693-PLPTB2MainImageTransparent.png?v=1775052473
   sample: null
   web: null
-  shop-id: null
-  track-desc: []
+  shop-id: '9095589593239'
+  track-desc:
+  - Diving In!
+  - No Waste!
+  - Share It!
+  - Use Again!
   ids:
   - audio-id: 1756235447
     hash: 231ec227e0ad16344355ef5aa5ff0106c0d52292

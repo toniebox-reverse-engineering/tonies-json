@@ -1,0 +1,32 @@
+article: '11002329'
+lock-data: false
+data:
+- series: Magic Tree House
+  series-id: null
+  episode: Books 1-4
+  release: 1758895855
+  language: en-us
+  category: Audiobook
+  runtime: 0
+  age: 99
+  origin: stock
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Magic-Tree-House-11002329-PLPTB2MainImageTransparent.png?v=1775052472
+  sample: null
+  web: null
+  shop-id: '9160670740631'
+  track-desc:
+  - Dinosaurs Before Dark
+  - The Knight at Dawn
+  - Mummies in the Morning
+  - Pirates Past Noon
+  ids:
+  - audio-id: 1758741675
+    hash: 0405238ad8b051dbe14de0cc4abbb0898363e53f
+    size: 27334334
+    tracks: 12
+    confidence: 0
+  - audio-id: 1758741476
+    hash: 001e7812919ac6facfd5c722d098a8a5890e98a9
+    size: 25299941
+    tracks: 12
+    confidence: 0

@@ -28,6 +28,11 @@ data:
   - Kapitel 11 - Ludwig van Beethoven - Mondscheinsonate
   - Kapitel 12 - Johannes Brahms - Sechs Klavierstücke Op 118
   ids:
+  - audio-id: 1767468642
+    hash: b96d08efbe06820ca23268c3adb40b79e6f631a7
+    size: 77841863
+    tracks: 14
+    confidence: 0
   - audio-id: 1727440095
     hash: af2199266affde39ed16d64126026b7491564b47
     size: 67459446

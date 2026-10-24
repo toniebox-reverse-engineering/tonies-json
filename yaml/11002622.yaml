@@ -1,0 +1,42 @@
+article: '11002622'
+lock-data: false
+data:
+- series: Amelia Bedelia & Friends
+  series-id: null
+  episode: Books 1-4
+  release: 1758895852
+  language: en-us
+  category: Audiobook
+  runtime: 0
+  age: 99
+  origin: stock
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Amelia-Bedelia-11002622-PLPTB2MainImageTransparent.png?v=1775052475
+  sample: null
+  web: null
+  shop-id: '9166229176471'
+  track-desc:
+  - Beat the Clock
+  - The Cat's Meow
+  - Arise and Shine
+  - Paint the Town
+  ids:
+  - audio-id: 1758737851
+    hash: 947564736bce9e406e9f0e307d4b37dafaf5a3e3
+    size: 52643863
+    tracks: 13
+    confidence: 0
+  - audio-id: 1758737772
+    hash: 046a52fb514e1a1899454de412ef1875fd8d31b6
+    size: 50468706
+    tracks: 14
+    confidence: 0
+  - audio-id: 1758737690
+    hash: 00d6bfeef8c8050298b2a91edd4265874bc2765f
+    size: 43315065
+    tracks: 14
+    confidence: 0
+  - audio-id: 1758737618
+    hash: 451ec2915d81f57932cd707599fa54784545db7e
+    size: 44578450
+    tracks: 14
+    confidence: 0

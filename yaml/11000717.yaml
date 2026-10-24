@@ -1,19 +1,19 @@
 article: '11000717'
 lock-data: false
 data:
-- series: null
+- series: Clever Tonies Set
   series-id: null
-  episode: null
-  release: 0
-  language: null
-  category: null
+  episode: Wondery Kids
+  release: 1725372691
+  language: en-us
+  category: Clever Tonie
   runtime: 0
   age: 99
-  origin: null
-  image: null
+  origin: stock
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Wondery-Kids-11000717-PLPTB2MainImageTransparent.png?v=1775052472
   sample: null
   web: null
-  shop-id: null
+  shop-id: '8260118282391'
   track-desc: []
   ids:
   - audio-id: 1739267550

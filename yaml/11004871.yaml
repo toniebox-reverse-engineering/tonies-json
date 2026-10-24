@@ -35,4 +35,24 @@ data:
   - '100 Wörter Spanisch: Spanien – Das Kino'
   - '100 Wörter Spanisch: Spanien – Hallo Madrid!'
   - '100 Wörter Spanisch: Spanien – Der Zoo'
-  ids: []
+  ids:
+  - audio-id: 1789116437
+    hash: 40e01e2afe234a719b19dc1fbe551c870c090141
+    size: 29347100
+    tracks: 5
+    confidence: 0
+  - audio-id: 1786524270
+    hash: 9e9b817aece4c84a9f6f109a49bb108fd4f03bda
+    size: 27911804
+    tracks: 5
+    confidence: 0
+  - audio-id: 1786524196
+    hash: 2e537fd679fa9eec4e0e26e2d03646bd6079dc51
+    size: 27650906
+    tracks: 5
+    confidence: 0
+  - audio-id: 1786524025
+    hash: 5ac2643139f9538e693fe1571d27fd02b386a03f
+    size: 21715890
+    tracks: 5
+    confidence: 0

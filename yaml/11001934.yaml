@@ -1,16 +1,16 @@
 article: '11001934'
 lock-data: false
 data:
-- series: null
+- series: The Questioneers
   series-id: null
-  episode: null
-  release: 0
-  language: null
-  category: null
+  episode: Iggy Peck and the Mysterious Mansion
+  release: 1727710126
+  language: en-us
+  category: Audiobook
   runtime: 0
   age: 99
-  origin: null
-  image: null
+  origin: stock
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Questioneers-11001994-PLPTB2MainImageTransparent.png?v=1775606021
   sample: null
   web: null
   shop-id: null

@@ -20,6 +20,21 @@ data:
   - 3. Ich liebe mich!
   - 4. Ich bin schön!
   ids:
+  - audio-id: 1790759246
+    hash: 333e3b2c96c629cb590070a47b530304433d43b9
+    size: 23059209
+    tracks: 8
+    confidence: 0
+  - audio-id: 1790759205
+    hash: 0df6583daa078989141bc4e0394574afd17854d3
+    size: 28977976
+    tracks: 9
+    confidence: 0
+  - audio-id: 1790758966
+    hash: c96bdfdd9c8f9fc2bfad860eeb1b77b2fa455b70
+    size: 30470505
+    tracks: 10
+    confidence: 0
   - audio-id: 1784645017
     hash: fa74930e3b508803c994b422cfd4846561960512
     size: 28076381

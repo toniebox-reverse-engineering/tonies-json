@@ -1,0 +1,42 @@
+article: '11003683'
+lock-data: false
+data:
+- series: The Chronicles of Narnia
+  series-id: null
+  episode: Books 1-4
+  release: 1764775905
+  language: en-us
+  category: Audiobook
+  runtime: 0
+  age: 99
+  origin: stock
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Chronicles-of-Narnia-Part-1-11003683-PLPTB2MainImageTransparent.png?v=1775240052
+  sample: null
+  web: null
+  shop-id: '9220712464535'
+  track-desc:
+  - The Magician's Nephew
+  - The Lion, the Witch and the Wardrobe
+  - The Horse and His Boy
+  - Prince Caspian
+  ids:
+  - audio-id: 1761087688
+    hash: 5afc6d93126938b1b19a1cdcad5021acc1691680
+    size: 177287468
+    tracks: 15
+    confidence: 0
+  - audio-id: 1761086093
+    hash: 3cad14c675f326fd24df3ed0db3d2d0bb93cf559
+    size: 174454436
+    tracks: 15
+    confidence: 0
+  - audio-id: 1761084545
+    hash: c0f3e45b1e5cf0cf57f859413aeed18cebe33029
+    size: 164085745
+    tracks: 18
+    confidence: 0
+  - audio-id: 1761083152
+    hash: 0f1db6eebb41e82ce40647fa5ca5a29a1ed306fe
+    size: 157582161
+    tracks: 15
+    confidence: 0
