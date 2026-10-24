@@ -31,6 +31,9 @@ urls = [
 # Regular expression pattern to match JSON content
 tonies_pattern = re.compile(r'type="application/json">(.*?)</script></body></html>', re.DOTALL)
 
+# US shop product types that are tonies with an article number as sku. Left out: bundles, accessories, "tonies Set" (sku is no article number) and "My First Tonie" (its titles, e.g. "Pig My First Tonie", do not split into series and episode)
+us_tonie_product_types = ["Tonie", "Creative Tonie", "Clever Tonie", "Audiobook", "Plush Toys"]
+
 # Shop picture names that show the figure standing on a Toniebox
 toniebox_image_pattern = re.compile(r'-j-|Tonieb|Tonie_Tonie', re.IGNORECASE)
 
@@ -619,7 +622,7 @@ def extract_data(index, data):
             extract_data_tonies(lang, article, product, source)
     elif urls[index]["scrap"] == "tonies-us":
         for product in data:
-            if product["product_type"] == "Tonie" or product["product_type"] == "Creative Tonie":
+            if product["product_type"] in us_tonie_product_types:
                 if len(product["variants"]) > 0:
                     article = product["variants"][0]["sku"]
                     extract_data_tonies_us(lang, article, product, source)
