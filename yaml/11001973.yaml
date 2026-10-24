@@ -1,20 +1,25 @@
 article: '11001973'
 lock-data: false
 data:
-- series: null
+- series: Captain Underpants
   series-id: null
-  episode: null
-  release: 0
-  language: null
-  category: null
+  episode: Books 1-4
+  release: 1727710111
+  language: en-us
+  category: Audiobook
   runtime: 0
   age: 99
-  origin: null
-  image: null
+  origin: stock
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Captain-Underpants-11001973-PLPTB2MainImageTransparent.png?v=1775606021
   sample: null
   web: null
-  shop-id: null
-  track-desc: []
+  shop-id: '8398403829911'
+  track-desc:
+  - The Adventures of Captain Underpants
+  - Captain Underpants and the Attack of the Talking Toilets
+  - Captain Underpants and the Invasion of the Incredibly Naughty Cafeteria Ladies
+    from Outer Space
+  - Captain Underpants and the Perilous Plot of Professor Poopypants
   ids:
   - audio-id: 1726267310
     hash: 45f1a7a660dcf59c14542f00ae7a110bfcfe3fa1

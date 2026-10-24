@@ -20,6 +20,26 @@ data:
   - 3. Die Erde 1-29
   - 4. Erfindungen 1-21
   ids:
+  - audio-id: 1784712694
+    hash: 547b85ddafe7e8082c327eb0acd7f48ff05d5993
+    size: 66861412
+    tracks: 21
+    confidence: 0
+  - audio-id: 1784712536
+    hash: dd54509474a078b29063a1260069cf0253b350da
+    size: 63429990
+    tracks: 25
+    confidence: 0
+  - audio-id: 1784712471
+    hash: f44f26883b6cff758fb63a0b31e50c3261452dd7
+    size: 57803454
+    tracks: 20
+    confidence: 0
+  - audio-id: 1784712011
+    hash: 44610a17bb84087efa4d3a3506b9f323b68311d8
+    size: 57352887
+    tracks: 29
+    confidence: 0
   - audio-id: 1749798654
     hash: 3ee80444bfc504d6642436fe47274c8c47698ee3
     size: 57803454

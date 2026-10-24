@@ -1,20 +1,24 @@
 article: '11001766'
 lock-data: false
 data:
-- series: null
+- series: Clever Tonies Set
   series-id: null
-  episode: null
-  release: 0
-  language: null
-  category: null
+  episode: Crayola Art Adventures
+  release: 1758895853
+  language: en-us
+  category: Clever Tonie
   runtime: 0
   age: 99
-  origin: null
-  image: null
+  origin: stock
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Crayola-Art-Adventures-11001766-PLPTB2MainImageTransparent.png?v=1775052473
   sample: null
   web: null
-  shop-id: null
-  track-desc: []
+  shop-id: '9165213663383'
+  track-desc:
+  - Places
+  - Faces
+  - Sounds
+  - Squiggles
   ids:
   - audio-id: 1758738686
     hash: b7976d1980bf7a2cbe165b5c7a44e8a5453b740e

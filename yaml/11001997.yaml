@@ -1,20 +1,24 @@
 article: '11001997'
 lock-data: false
 data:
-- series: null
+- series: Big Nate
   series-id: null
-  episode: null
-  release: 0
-  language: null
-  category: null
+  episode: Books 1-4
+  release: 1727710094
+  language: en-us
+  category: Audiobook
   runtime: 0
   age: 99
-  origin: null
-  image: null
+  origin: stock
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Big-Nate-11001997-PLPTB2MainImageTransparent.png?v=1775606022
   sample: null
   web: null
-  shop-id: null
-  track-desc: []
+  shop-id: '8398412972183'
+  track-desc:
+  - Big Nate
+  - Big Nate Strikes Again
+  - Big Nate on a Roll
+  - Big Nate Goes for Broke
   ids:
   - audio-id: 1727817186
     hash: 9d27068144300931d38418548da0313dc60d432f

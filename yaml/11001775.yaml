@@ -1,20 +1,24 @@
 article: '11001775'
 lock-data: false
 data:
-- series: null
+- series: Clever Tonies Set
   series-id: null
-  episode: null
-  release: 0
-  language: null
-  category: null
+  episode: Space Explorers Club
+  release: 1758895854
+  language: en-us
+  category: Clever Tonie
   runtime: 0
   age: 99
-  origin: null
-  image: null
+  origin: stock
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Space-Explorers-Club-11001775-PLPTB2MainImageTransparent.png?v=1775052473
   sample: null
   web: null
-  shop-id: null
-  track-desc: []
+  shop-id: '9160670806167'
+  track-desc:
+  - Gas & Ice Giants
+  - Rocky Planets
+  - The Moon
+  - The Sun
   ids:
   - audio-id: 1759350106
     hash: 37c5e34fa7bfaf4b89f658000322c376da1ba04e
