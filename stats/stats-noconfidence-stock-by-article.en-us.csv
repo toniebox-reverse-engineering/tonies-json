@@ -273,7 +273,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000483,Moshi,,Fluttercup,en-us,Tonie,stock,8984508006551,,1,2,2,0
 11000484,Disney,,and Pixar Inside Out,en-us,Tonie,stock,8472681840791,,1,1,1,0
 11000499,Piney,,The Lonesome Pine,en-us,Tonie,stock,8225978941591,,1,1,1,0
-11000526,Disney,,Wish,en-us,Tonie,stock,8124400664727,,1,1,1,0
+11000526,Disney,,Wish,en-us,Tonie,stock,8124400664727,,1,2,1,0
 11000527,Pinkalicious,,,en-us,Tonie,stock,8562942181527,,1,1,1,0
 11000528,More About Paddington,,,en-us,Tonie,stock,8614602834071,,1,0,0,0
 11000529,Kung Fu Panda,,,en-us,Tonie,stock,8472681414807,,1,1,1,0
@@ -304,6 +304,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000709,Clever Tonies Set,,Kid Comedy,en-us,Tonie,stock,8076776112279,,1,17,17,0
 11000710,Clever Tonies Set,,Inventions and Innovation,en-us,Tonie,stock,8076775555223,,1,16,16,0
 11000712,Clever Tonies Set,,Gentle Giant Dinosaurs,en-us,Tonie,stock,8076776341655,,1,16,16,0
+11000717,Clever Tonies Set,,Wondery Kids,en-us,Clever Tonie,stock,8260118282391,,1,8,8,0
 11000741,Canciones Infantiles Favoritas,,Canciones De Viaje En Español,en-us,Tonie,stock,8623950823575,,1,2,2,0
 11000742,Canciones Infantiles Favoritas,,Canciones De Animales En Español,en-us,Tonie,stock,8623938011287,,1,2,2,0
 11000743,Canciones Infantiles Favoritas,,Canciones Para Contar En Español,en-us,Tonie,stock,8623955771543,,1,2,2,0
@@ -320,6 +321,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11000859,Clever Tonies Set,,Cool Jobs,en-us,Tonie,stock,8134563299479,,1,4,4,0
 11000881,Clever Tonies Set,,Animal World: Record Breakers,en-us,Tonie,stock,8134563168407,,1,13,13,0
 11000886,Clever Tonies Set,,Cool Jobs,en-us,Tonie,stock,8134563299479,,1,0,0,0
+11000893,Clever Tonies Set,,Rebel Girls Creators Series,en-us,Clever Tonie,stock,8679887798423,,1,4,4,0
 11000926,Pinocho y Otros Cuentos Clásicos Tonie (en Español),,,en-us,Tonie,stock,9161066381463,,1,1,1,0
 11000927,El Gato Con Botas & Otros Cuentos Clásicos Tonie (en Español),,,en-us,Tonie,stock,9185415168151,,1,1,1,0
 11000928,Caperucita Roja y Otros Cuentos De Hadas Tonie (en Español),,,en-us,Tonie,stock,9161066315927,,1,1,1,0
@@ -328,6 +330,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11001086,Canticos,,,en-us,Tonie,stock,8921888882839,,1,1,1,0
 11001170,Elephant & Piggie,,,en-us,Tonie,stock,8911599468695,,1,1,1,0
 11001242,Disney,,Moana 2: Simea,en-us,Tonie,stock,8757194457239,,1,3,3,0
+11001248,Clever Tonies Set,,Animal World: Wild Survivors,en-us,Clever Tonie,stock,8679950778519,,1,4,4,0
 11001266,Gabby's Dollhouse,,MerCat,en-us,Tonie,stock,9185415233687,,1,1,1,0
 11001267,Gabby's Dollhouse,,Cakey Cat,en-us,Tonie,stock,9000607350935,,1,1,1,0
 11001268,Gabby's Dollhouse,,Kitty Fairy,en-us,Tonie,stock,9128606302359,,1,1,1,0
@@ -341,11 +344,19 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11001347,"In Otter Words, I Love You",,,en-us,Tonie,stock,9493729214615,,1,1,1,0
 11001348,Sleepy Whale,,Lullabies from the Ocean,en-us,Tonie,stock,8740305895575,,1,2,2,0
 11001363,Disney,,and Pixar Finding Dory,en-us,Tonie,stock,8517893259415,,1,4,4,0
+11001474,Clever Tonies Set,,Animal World: Precious Pets,en-us,Clever Tonie,stock,8679945404567,,1,4,4,0
+11001497,Clever Tonies Set,,Animal World: Animals of Africa,en-us,Clever Tonie,stock,9095587758231,,1,4,4,0
 11001505,Wonder,,,en-us,Tonie,stock,9185415331991,,1,1,1,0
 11001510,Jurassic World,,Camp Cretaceous,en-us,Tonie,stock,8562972393623,,1,1,1,0
 11001516,Sleepy Duck,,A Sound Journey Through the Forest,en-us,Tonie,stock,9166229340311,,1,1,1,0
+11001587,Captain Underpants,,Book Tonie,en-us,Audiobook,stock,,,1,1,1,0
+11001589,Captain Underpants,,Book Tonie,en-us,Audiobook,stock,,,1,1,1,0
+11001615,Ramona,,Book Tonie,en-us,Audiobook,stock,,,1,1,1,0
 11001621,Sleepy Penguin,,White Noise from the Ocean,en-us,Tonie,stock,8756368703639,,1,5,5,0
+11001766,Clever Tonies Set,,Crayola Art Adventures,en-us,Clever Tonie,stock,9165213663383,,1,4,4,0
+11001775,Clever Tonies Set,,Space Explorers Club,en-us,Clever Tonie,stock,9160670806167,,1,4,4,0
 11001781,CoComelon,,Cody,en-us,Tonie,stock,8961124434071,,1,1,1,0
+11001788,Rebel Girls,,Musicians Series,en-us,Clever Tonie,stock,,,1,2,0,0
 11001835,Favorite Classics,,A Christmas Carol,en-us,Tonie,stock,9639381893271,,1,0,0,0
 11001851,Disney,,"Bundle with Tigger, Woody & Stitch - Red",en-us,Tonie,stock,8481763459223,,1,0,0,0
 11001852,Disney,,"Bundle with Belle, Cinderella & Ariel - Pink",en-us,Tonie,stock,8482426847383,,1,0,0,0
@@ -357,11 +368,27 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11001870,Mindfulness,,Movement with Marty the Monkey,en-us,Tonie,stock,8985771770007,,1,0,0,0
 11001874,Mindfulness,,Affirmations with Greta the Elephant,en-us,Tonie,stock,8985769050263,,1,1,1,0
 11001878,Disney,,and Pixar Toy Story: Woody Tonie (en Español),en-us,Tonie,stock,8565943992471,,1,1,1,0
+11001890,Captain Underpants,,Book Tonie,en-us,Audiobook,stock,,,1,1,1,0
+11001892,Captain Underpants,,Book Tonie,en-us,Audiobook,stock,,,1,1,1,0
+11001894,Big Nate,,Book Tonie,en-us,Audiobook,stock,,,1,1,1,0
+11001896,Big Nate,,Book Tonie,en-us,Audiobook,stock,,,1,1,1,0
+11001897,Big Nate,,Book Tonie,en-us,Audiobook,stock,,,1,1,1,0
+11001898,Big Nate,,Book Tonie,en-us,Audiobook,stock,,,1,1,1,0
 11001918,Snowflake and the Missing Christmas Lights Advent Calendar,,,en-us,Tonie,stock,9166191132823,,1,27,27,0
 11001921,Peanuts,,A Charlie Brown Christmas (Vince Guaraldi Trio),en-us,Tonie,stock,9166191100055,,1,1,1,0
+11001923,The Questioneers,,Ada Twist and the Perilous Pants,en-us,Audiobook,stock,,,1,1,1,0
+11001931,Ramona,,Book Tonie,en-us,Audiobook,stock,,,1,1,1,0
+11001932,Ramona,,Book Tonie,en-us,Audiobook,stock,,,1,1,1,0
+11001933,The Questioneers,,Rosie Revere and the Raucous Riveters,en-us,Audiobook,stock,,,1,1,1,0
+11001934,The Questioneers,,Iggy Peck and the Mysterious Mansion,en-us,Audiobook,stock,,,1,1,1,0
+11001935,The Questioneers,,Sofia Valdez and the Vanishing Vote,en-us,Audiobook,stock,,,1,1,1,0
 11001960,How to Train Your Dragon,,Toothless,en-us,Tonie,stock,9185415135383,,1,1,1,0
+11001973,Captain Underpants,,Books 1-4,en-us,Audiobook,stock,8398403829911,,1,4,4,0
 11001977,PAW Patrol,,Ryder,en-us,Tonie,stock,9148582101143,,1,1,1,0
 11001985,Molly of Denali,,,en-us,Tonie,stock,9409149993111,,1,1,1,0
+11001987,Ramona,,Books 1-4,en-us,Audiobook,stock,8398407958679,,1,7,7,0
+11001994,The Questioneers,,Books 1-4,en-us,Audiobook,stock,8398416937111,,1,4,4,0
+11001997,Big Nate,,Books 1-4,en-us,Audiobook,stock,8398412972183,,1,4,4,0
 11002021,Mister Rogers' Neighborhood,,,en-us,Tonie,stock,9425040310423,,1,1,1,0
 11002052,Dora,,,en-us,Tonie,stock,9161066348695,,1,1,1,0
 11002080,The Laurie Berkner Band,,Harry the Chipmunk's Treasure Hunt,en-us,Tonie,stock,9632256098455,,1,1,1,0
@@ -372,15 +399,19 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11002140,Aprendiendo A Ir Al Baño Tonie (en Español),,,en-us,Tonie,stock,9161066283159,,1,1,1,0
 11002151,Tales of the Teenage Mutant Ninja Turtles,,Leonardo,en-us,Tonie,stock,9148582002839,,1,1,1,0
 11002173,Disney,,Minnie Mouse Clubhouse,en-us,Tonie,stock,9614910685335,,1,1,1,0
-11002209,Hot Wheels,,,en-us,Tonie,stock,9185415200919,,1,1,1,0
+11002209,Hot Wheels,,,en-us,Tonie,stock,9185415200919,,1,2,1,0
 11002237,Sam's Club Disney Bundle with Red Toniebox,,,en-us,Tonie,stock,8533490204823,,1,0,0,0
 11002284,Disney,,and Pixar Up,en-us,Tonie,stock,9485293944983,,1,1,1,0
 11002285,Disney,,Zootopia,en-us,Tonie,stock,9185415463063,,1,0,0,0
 11002293,Target Bullseye,Target Bullseye,Target Bullseye,en-us,Tonie,stock,9160670707863,https://us.tonies.com/products/target-bullseye-tonie,1,1,1,0
 11002301,Caspar Babypants,,,en-us,Tonie,stock,9409150189719,,1,1,1,0
+11002329,Magic Tree House,,Books 1-4,en-us,Audiobook,stock,9160670740631,,1,2,0,0
 11002351,Sleepy Jaguar,,Lullabies From The Sleepy Jungle,en-us,Tonie,stock,9425040474263,,1,1,1,0
 11002359,Sleepy Toucan,,Nature Sounds From The Sleepy Jungle,en-us,Tonie,stock,9425040539799,,1,1,1,0
 11002386,Sleepy Crocodile,,Bedtime Story From The Sleepy Jungle,en-us,Tonie,stock,9425040408727,,1,1,1,0
+11002554,Clever Tonies Set,,Animal World: Wildlife in the Woods,en-us,Clever Tonie,stock,9409150025879,,1,4,0,0
+11002622,Amelia Bedelia & Friends,,Books 1-4,en-us,Audiobook,stock,9166229176471,,1,4,0,0
+11002693,Clever Tonies Set,,Sunspeed Explorers,en-us,Clever Tonie,stock,9095589593239,,1,4,4,0
 11002720,Tales of the Teenage Mutant Ninja Turtles,,Donatello,en-us,Tonie,stock,9685640773783,,1,0,0,0
 11002928,Lalalinos,,Mission Akio,en-us,Tonie,stock,9488878796951,,1,1,1,0
 11002932,Lalalinos,,Mission Cosmo,en-us,Tonie,stock,9488878829719,,1,1,1,0
@@ -397,12 +428,21 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11003322,Peppa Pig,,The New Baby Sister,en-us,Tonie,stock,9425040572567,,1,1,1,0
 11003329,MARVEL Captain America,,,en-us,Tonie,stock,9647752872087,,1,1,1,0
 11003332,MARVEL Spider-Man,,,en-us,Tonie,stock,9620437991575,,1,0,0,0
-11003560,My First Tonies,,Farm Set,en-us,Tonie,stock,9156842487959,,1,1,1,0
+11003560,My First Tonies,,Farm Set,en-us,Tonie,stock,9156842487959,,1,4,1,0
 11003600,Pokémon,,Charmander,en-us,Tonie,stock,9639364100247,,1,0,0,0
 11003602,Pokémon,,Squirtle,en-us,Tonie,stock,9639364165783,,1,1,1,0
 11003603,Pokémon,,Bulbasaur,en-us,Tonie,stock,9639364067479,,1,0,0,0
 11003604,Avatar,,The Last Airbender - Aang,en-us,Tonie,stock,9682017222807,,1,0,0,0
+11003683,The Chronicles of Narnia,,Books 1-4,en-us,Audiobook,stock,9220712464535,,1,4,0,0
+11003801,Danny Go!,,Dance Party,en-us,Clever Tonie,stock,9185415397527,,1,1,0,0
 11003830,Ocean My First Tonies Set,,3 Pack,en-us,Tonie,stock,9568546259095,,1,0,0,0
+11003856,Danny Go!,,Adventure Beats,en-us,Clever Tonie,stock,9185415299223,,1,1,0,0
+11003859,Disney,,Mickey Mouse Cuddle,en-us,Plush Toys,stock,9425040605335,,1,1,1,0
+11003862,Disney,,Olaf Cuddle,en-us,Plush Toys,stock,9425040507031,,1,1,1,0
+11003866,Disney,,Simba Cuddle,en-us,Plush Toys,stock,9425040212119,,1,1,1,0
+11003871,Disney,,Winnie The Pooh Cuddle,en-us,Plush Toys,stock,9425040441495,,1,1,1,0
+11003874,Disney,,Minnie Mouse Cuddle,en-us,Plush Toys,stock,9425040375959,,1,1,1,0
+11003878,Disney,,Lilo & Stitch Cuddle,en-us,Plush Toys,stock,9425040343191,,1,1,1,0
 11003888,Favorite Children's Songs,,Halloween & Spooky Songs 2,en-us,Tonie,stock,9647753166999,,1,0,0,0
 11004073,Peppa Pig,,George’s New Sounds,en-us,Tonie,stock,9682017255575,,1,0,0,0
 11004085,Ally and the Alebrije,,,en-us,Tonie,stock,9685641035927,,1,0,0,0
