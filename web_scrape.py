@@ -265,6 +265,11 @@ def extract_data_tonies_shopapi(lang, article, product_data, source):
             if first and not toniebox_image_pattern.search(first.rsplit("/", 1)[-1]):
                 yaml_data["image"] = first
 
+        if is_web_cuddle_tonie(yaml_data["web"]): # the plush alone where the shop has it ("_1_a"); the second picture shows it beside its cover
+            alone = [image.get("url") for image in images if "_1_a" in (image.get("url") or "").rsplit("/", 1)[-1]]
+            if alone:
+                yaml_data["image"] = alone[0]
+
         if get_web_creative_tonie_category(yaml_data["web"]) is not None: #first image on creatives, missing featured image
             field_mapping = {
                 "image": ("images", 0, "url",(None, yaml_data["image"])), 
@@ -515,7 +520,7 @@ for index, url_set in enumerate(urls):
         while True:
             offset = page * pageSize
             url = url_set["url"].replace("{limit}", str(pageSize)).replace("{offset}", str(offset))
-            url = url.replace("{category}", "tonies,clever-tonies,creative-tonies,tunes,book-tonies")
+            url = url.replace("{category}", "tonies,clever-tonies,creative-tonies,tunes,book-tonies,cuddle-tonies")
             response = requests.get(url)
             
             if response.status_code != 200:
@@ -628,6 +633,9 @@ def extract_data(index, data):
             if document["productTypeKey"] in ["tonie", "creative-tonie", "tunes"]:
                 article = document["salesId"]
                 extract_data_tonies_shopapi(lang, article, document, source)
+
+def is_web_cuddle_tonie(url):
+    return url is not None and ("/cuddle-tonies/" in url or "/tonies-calins/" in url)
 
 def get_web_creative_tonie_category(url):
     if url is None:
