@@ -31,6 +31,9 @@ urls = [
 # Regular expression pattern to match JSON content
 tonies_pattern = re.compile(r'type="application/json">(.*?)</script></body></html>', re.DOTALL)
 
+# Shop picture names that show the figure standing on a Toniebox
+toniebox_image_pattern = re.compile(r'-j-|Tonieb|Tonie_Tonie', re.IGNORECASE)
+
 def convert_to_int(value):
     try:
         return int(str(value)[:-3])
@@ -255,6 +258,12 @@ def extract_data_tonies_shopapi(lang, article, product_data, source):
             "track-desc": ("tracks", lambda x: x.split("\n") if x is not None else None),
         }
         map_fields(yaml_data, product_data, field_mapping)
+
+        images = product_data.get("images") or []
+        if len(images) == 2: # figure alone and figure on a Toniebox, in either order
+            first = images[0].get("url")
+            if first and not toniebox_image_pattern.search(first.rsplit("/", 1)[-1]):
+                yaml_data["image"] = first
 
         if get_web_creative_tonie_category(yaml_data["web"]) is not None: #first image on creatives, missing featured image
             field_mapping = {
