@@ -442,30 +442,15 @@ def fix_age(age):
         return 99
     return age
 def extract_age_range(tags):
-    age_range = None
-    
-    for tag in tags:
-        if tag.startswith("Age Range | "):
-            age_range_str = tag.replace("Age Range | ", "")
-            try:
-                age_range = int(age_range_str)
-                break  # Exit the loop if a numeric age range is found
-            except ValueError:
-                continue  # Continue searching for a valid numeric age range
-    
-    if age_range is None:
+    # "Age: 5+" is the minimum age; products without it carry ranges like "Age Range | 5-6" or "Age 5-6", whose lower bound is the minimum age
+    for prefix in ("Age: ", "Age Range | ", "Age "):
         for tag in tags:
-            if tag.startswith("Age "):
-                age_range_str = tag.replace("Age ", "")
+            if tag.startswith(prefix):
                 try:
-                    age_range = int(age_range_str)
-                    break  # Exit the loop if a numeric age range is found
+                    return fix_age(int(tag[len(prefix):].split("-")[0].rstrip("+")))
                 except ValueError:
-                    continue  # Continue searching for a valid numeric age range
-    
-    age_range = fix_age(age_range)
-    
-    return age_range
+                    continue  # Continue searching for a valid numeric age
+    return fix_age(None)
 
 # Dictionary to store the JSON data
 json_data = {}
