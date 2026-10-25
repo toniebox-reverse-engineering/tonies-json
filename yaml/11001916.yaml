@@ -15,9 +15,38 @@ data:
   web: https://tonies.com/de-de/tonies/adventskalender/adventskalender-tonie-2025-floeckchen-und-die-verschwundenen-weihnachtslichter/
   shop-id: 7555b9a9-2216-4a20-8fb5-e2cde5f8be84
   track-desc:
-  - Flöckchen und die verlorenen Weihnachtslichter Anleitung
-  - Flöckchen und die verlorenen Weihnachtslichter Intro
+  - Hallo, Flöckchen!
+  - Willkommen im Winterwalddorf!
+  - Was ist los beim Weihnachtsmann?
+  - Ein ganz besonderes Team!
+  - Auf geht’s mit der Suche!
+  - Hallo Herr Dachs, sind Sie da?
+  - Die Sagenhaft Summende Silbertanne hat etwas gesehen
+  - Zu Besuch bei Rabe Sansibar
+  - Sind es etwa die Eichhörnchen gewesen?
+  - Ob die Schneemänner etwas wissen?
+  - Ein Besuch bei Noel, dem kleinen Rentier
+  - Was, wenn der Fuchs der Dieb ist?
+  - Es kommt alles anders, als gedacht!
+  - In der Bärenhöhle
+  - Ob die Eule weiterhelfen kann?
+  - Die Spur führt zu den Waschbären. Oder doch nicht?
+  - Flöckchen geht verloren
+  - Oskar fliegt!
+  - Autsch! Die Eule stößt sich den Kopf
+  - Der Zaubersee
+  - Frau Ente zeigt, was sie kann!
+  - Die Sache mit Herrn Dachs
+  - Das 13. Lichtlein
+  - Ob Flöckchen und Oskar es rechtzeitig schaffen?
+  - Fröhliche Weihnachten euch allen!
+  - Song: Gli-Gla-Glitzerweiß
   ids:
+  - audio-id: 739068395
+    hash: e45c4ecd7fd101d58e347ca16d115ba4c8a56284
+    size: 94057822
+    tracks: 26
+    confidence: 0
   - audio-id: 1766617222
     hash: cf2a0f78ae12287342cfe5ad13f68b4dfdb91b9f
     size: 94057822
