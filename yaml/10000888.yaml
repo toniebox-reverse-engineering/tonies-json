@@ -4,15 +4,15 @@ data:
 - series: Tee and Mo
   series-id: null
   episode: Tee and Mo
-  release: 1670427140
+  release: 1670371200
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 3
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tee-and-Mo-10000888-PLPTB2MainImageTransparent.png?v=1774883319
   sample: null
-  web: null
+  web: https://us.tonies.com/products/tee-mo-tonie
   shop-id: '7806564925591'
   track-desc: []
   ids:

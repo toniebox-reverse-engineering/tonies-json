@@ -1,18 +1,18 @@
 article: '11000717'
 lock-data: false
 data:
-- series: Clever Tonies Set
+- series: Wondery Kids Pocket Tonies
   series-id: null
-  episode: Wondery Kids
-  release: 1725372691
+  episode: 4 Pack
+  release: 1725926400
   language: en-us
   category: Clever Tonie
   runtime: 0
-  age: 99
+  age: 5
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Wondery-Kids-11000717-PLPTB2MainImageTransparent.png?v=1775052472
   sample: null
-  web: null
+  web: https://us.tonies.com/products/clever-tonies-set-wondery-kids
   shop-id: '8260118282391'
   track-desc: []
   ids:

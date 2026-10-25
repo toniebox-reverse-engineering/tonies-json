@@ -1,18 +1,18 @@
 article: '11003683'
 lock-data: false
 data:
-- series: The Chronicles of Narnia
+- series: The Chronicles of Narnia Book Tonies (Books 1-4)
   series-id: null
-  episode: Books 1-4
-  release: 1764775905
+  episode: 4 Pack
+  release: 1765152000
   language: en-us
   category: Audiobook
   runtime: 0
-  age: 99
+  age: 9
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Chronicles-of-Narnia-Part-1-11003683-PLPTB2MainImageTransparent.png?v=1775240052
   sample: null
-  web: null
+  web: https://us.tonies.com/products/audiobooks-chronicles-of-narnia
   shop-id: '9220712464535'
   track-desc:
   - The Magician's Nephew

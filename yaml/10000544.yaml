@@ -4,15 +4,15 @@ data:
 - series: Spot's Fun with Friends
   series-id: null
   episode: null
-  release: 1613141241
+  release: 1613433600
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 3
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Spot-10000544-PLPTB2MainImageTransparent.png?v=1774883286
   sample: null
-  web: null
+  web: https://us.tonies.com/products/spots-fun-friends-tonie
   shop-id: '6220877955223'
   track-desc: []
   ids:

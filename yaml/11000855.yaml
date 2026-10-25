@@ -4,15 +4,15 @@ data:
 - series: Mo Willems' The Pigeon Series
   series-id: null
   episode: null
-  release: 1727439134
+  release: 1730764800
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 3
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Pigeon-11000855-PLPTB2MainImageTransparent.png?v=1774883321
   sample: null
-  web: null
+  web: https://us.tonies.com/products/mo-willems-tonie
   shop-id: '8558127120535'
   track-desc: []
   ids:

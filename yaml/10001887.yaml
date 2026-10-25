@@ -4,15 +4,15 @@ data:
 - series: Camp Snoopy
   series-id: null
   episode: null
-  release: 1767018777
+  release: 1767225600
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 5
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Camp-Snoopy-10001887-PLPTB2MainImageTransparent.png?v=1774883331
   sample: null
-  web: null
+  web: https://us.tonies.com/products/peanuts-camp-snoopy-tonie
   shop-id: '9229082656919'
   track-desc: []
   ids:

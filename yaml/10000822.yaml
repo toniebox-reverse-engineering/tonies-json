@@ -4,15 +4,15 @@ data:
 - series: Mia
   series-id: null
   episode: null
-  release: 1677015670
+  release: 1709337600
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 3
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Mia-10000822-PLPTB2MainImageTransparent.png?v=1774883330
   sample: null
-  web: null
+  web: https://us.tonies.com/products/mia-tonie
   shop-id: '7912821817495'
   track-desc: []
   ids:

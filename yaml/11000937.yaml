@@ -4,15 +4,15 @@ data:
 - series: Rapunzel & Otros Cuentos De Hadas Tonie (en Español)
   series-id: null
   episode: null
-  release: 1761747847
-  language: en-us
+  release: 1762214400
+  language: es-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 5
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Rapunzel-en-Espanol-11000937-PLPTB2MainImageTransparent.png?v=1774883328
   sample: null
-  web: null
+  web: https://us.tonies.com/products/rapunzel-and-tales-espanol
   shop-id: '9185415364759'
   track-desc: []
   ids:

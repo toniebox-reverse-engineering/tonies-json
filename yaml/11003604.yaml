@@ -4,15 +4,15 @@ data:
 - series: Avatar
   series-id: null
   episode: The Last Airbender - Aang
-  release: 1787925893
+  release: 1788825600
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 7
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Avatar-Aang-11003604-PLPTB2MainImageTransparent.png?v=1785168642
   sample: null
-  web: null
+  web: https://us.tonies.com/products/avatar-the-last-airbender-aang-tonie
   shop-id: '9682017222807'
   track-desc: []
   ids: []

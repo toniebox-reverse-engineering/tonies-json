@@ -4,15 +4,15 @@ data:
 - series: Favorite Tales
   series-id: null
   episode: Annie Oakley
-  release: 1665499639
+  release: 1665619200
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 5
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Annie-Oakley-10001152-PLPTB2MainImageTransparent.png?v=1774883336
   sample: null
-  web: null
+  web: https://us.tonies.com/products/annie-oakley-tonie
   shop-id: '7789754515607'
   track-desc: []
   ids:

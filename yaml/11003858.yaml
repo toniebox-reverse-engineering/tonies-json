@@ -1,0 +1,26 @@
+article: '11003858'
+lock-data: false
+data:
+- series: Micky Maus & Freunde
+  series-id: disney-micky-maus-freunde
+  episode: Cuddle Tonie Micky Maus
+  release: 1778630400
+  language: de-de
+  category: audio-play
+  runtime: 30
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11003858_1_a-sRh3miyF.png
+  sample: https://cdn.tonies.de/o/audio_samples/738ba87782339d4ae33d626fe2491e76106566005fafc7d834265bfc/horprobe_micky.wav
+  web: https://tonies.com/de-de/cuddle-tonies/disney-micky-maus-freunde/disney-mickey/
+  shop-id: 9cd2aa77-c9eb-4e70-bfac-abde35f8fa5b
+  track-desc:
+  - Micky sagt Hallo!
+  - 'Geschichte: Micky geht campen'
+  - Ein sonniger Nachmittag mit Micky
+  - 'Geschichte: Koch Micky'
+  - Das Picknick-Chaos
+  - 'Geschichte: Eine Überraschung für Pluto'
+  - Micky auf dem Bauernhof
+  - Mickys Klanglandschaft
+  ids: []

@@ -1,0 +1,26 @@
+article: '11003875'
+lock-data: false
+data:
+- series: Micky Maus & Freunde
+  series-id: disney-micky-maus-freunde
+  episode: Cuddle Tonie Minnie
+  release: 1778630400
+  language: de-de
+  category: audio-play
+  runtime: 30
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11003875_1_a-7oPhBfJw.png
+  sample: https://cdn.tonies.de/o/audio_samples/e65c4ef76554100f0d521f14ccaacbd0e4b744433d7dd37b2af82b98/horprobe_minnie.wav
+  web: https://tonies.com/de-de/cuddle-tonies/disney-micky-maus-freunde/disney-minnie/
+  shop-id: 6199b754-6fcc-4a32-afa8-aa4d59f0e942
+  track-desc:
+  - Minnie sagt Hallo!
+  - 'Geschichte: Minnies geheime Schnitzeljagd'
+  - Backen mit Minnie
+  - 'Geschichte: Ein guter Tag für einen Segelausflug'
+  - Minnie beim Nachbarschaftsumzug
+  - 'Geschichte: Der mutigste Hund'
+  - Vögel beobachten mit Minnie
+  - Minnies Klanglandschaft
+  ids: []

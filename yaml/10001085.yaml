@@ -4,15 +4,15 @@ data:
 - series: Word Party
   series-id: null
   episode: null
-  release: 1684856165
+  release: 1717027200
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 3
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Word-Party-10001085-PLPTB2MainImageTransparent.png?v=1774883343
   sample: null
-  web: null
+  web: https://us.tonies.com/products/word-party-tonie
   shop-id: '8007349600407'
   track-desc: []
   ids:

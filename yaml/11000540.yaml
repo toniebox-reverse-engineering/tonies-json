@@ -4,15 +4,15 @@ data:
 - series: Trolls
   series-id: null
   episode: Viva
-  release: 1698772433
+  release: 1732406400
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 3
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Viva-11000540-PLPTB2MainImageTransparent.png?v=1774883297
   sample: null
-  web: null
+  web: https://us.tonies.com/products/trolls-viva-tonie
   shop-id: '7806499094679'
   track-desc: []
   ids:

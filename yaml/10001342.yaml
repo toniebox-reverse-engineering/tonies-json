@@ -4,15 +4,15 @@ data:
 - series: We're Going On A Bear Hunt
   series-id: null
   episode: null
-  release: 1666104716
+  release: 1666224000
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 4
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/We_re-Going-On-A-Bear-Hunt-10001342-PLPTB2MainImageTransparent.png?v=1774883298
   sample: null
-  web: null
+  web: https://us.tonies.com/products/were-going-on-bear-hunt-tonie
   shop-id: '7806506926231'
   track-desc: []
   ids:

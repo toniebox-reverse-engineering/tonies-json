@@ -4,15 +4,15 @@ data:
 - series: LeVar Burton
   series-id: null
   episode: null
-  release: 1628545545
+  release: 1631145600
   language: en-us
   category: Creative Tonie
   runtime: 0
-  age: 99
+  age: 4
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/LeVar-Burton-10001826-PLPTB2MainImageTransparent.png?v=1775762518
   sample: null
-  web: null
+  web: https://us.tonies.com/products/levar-burton-tonie
   shop-id: '6978548727959'
   track-desc: []
   ids:

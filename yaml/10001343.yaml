@@ -4,15 +4,15 @@ data:
 - series: Giraffes Can't Dance
   series-id: null
   episode: null
-  release: 1670427149
+  release: 1670371200
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 1
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Giraffes-Can_t-Dance-10001343-PLPTB2MainImageTransparent.png?v=1774883309
   sample: null
-  web: null
+  web: https://us.tonies.com/products/giraffes-cant-dance-tonie
   shop-id: '7806566563991'
   track-desc: []
   ids:

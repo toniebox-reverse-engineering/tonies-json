@@ -4,15 +4,15 @@ data:
 - series: More About Paddington
   series-id: null
   episode: null
-  release: 1735588307
+  release: 1736208000
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 3
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/More-About-Paddington-11000528-PLPTB2MainImageTransparent.png?v=1774883306
   sample: null
-  web: null
+  web: https://us.tonies.com/products/more-about-paddington-tonie
   shop-id: '8614602834071'
   track-desc: []
   ids: []

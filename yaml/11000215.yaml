@@ -4,15 +4,15 @@ data:
 - series: Favorite Myths
   series-id: null
   episode: Greek Mythology
-  release: 1691789205
+  release: 1723593600
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 5
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Greek-Myths-11000215-PLPTB2MainImageTransparent.png?v=1774883307
   sample: null
-  web: null
+  web: https://us.tonies.com/products/favorite-myths-greek-mythology-tonie
   shop-id: '8041065513111'
   track-desc: []
   ids:

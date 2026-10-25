@@ -1,18 +1,18 @@
 article: '11001248'
 lock-data: false
 data:
-- series: Clever Tonies Set
+- series: Animal World Wild Survivors Pocket Tonies
   series-id: null
-  episode: 'Animal World: Wild Survivors'
-  release: 1738338548
+  episode: 4 Pack
+  release: 1740614400
   language: en-us
   category: Clever Tonie
   runtime: 0
-  age: 99
+  age: 5
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Wild-Survivors-11001248-PLPTB2MainImageTransparent.png?v=1775052472
   sample: null
-  web: null
+  web: https://us.tonies.com/products/animal-world-wild-survivors
   shop-id: '8679950778519'
   track-desc: []
   ids:

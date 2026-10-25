@@ -1,18 +1,18 @@
 article: '11000708'
 lock-data: false
 data:
-- series: Clever Tonies Set
+- series: Marine Life Pocket Tonies
   series-id: null
-  episode: Marine Life
-  release: 1698169287
+  episode: 4 Pack
+  release: 1729814400
   language: en-us
-  category: Tonie
+  category: Clever Tonie
   runtime: 0
-  age: 99
+  age: 5
   origin: stock
-  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Marinelife-main.jpg?v=1713267865
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Marine-Life-11000708-PLPTB2MainImageTransparent.png?v=1775052472
   sample: null
-  web: null
+  web: https://us.tonies.com/products/clever-tonies-set-marine-life
   shop-id: '8076775293079'
   track-desc: []
   ids:

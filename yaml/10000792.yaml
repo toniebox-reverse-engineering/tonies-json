@@ -4,15 +4,15 @@ data:
 - series: Dr. Seuss
   series-id: null
   episode: The Cat in the Hat
-  release: 1657037920
+  release: 1656547200
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 3
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/The-Cat-in-the-Hat-10000792-PLPTB2MainImageTransparent.png?v=1774883342
   sample: null
-  web: null
+  web: https://us.tonies.com/products/dr-seuss-cat-in-the-hat-tonie
   shop-id: '7373087670423'
   track-desc: []
   ids:

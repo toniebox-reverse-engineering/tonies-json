@@ -4,15 +4,15 @@ data:
 - series: Disney
   series-id: null
   episode: 'Frozen: Elsa'
-  release: 1603320617
+  release: 1604534400
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 3
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Elsa-10000510-PLPTB2MainImageTransparent.png?v=1774883291
   sample: null
-  web: null
+  web: https://us.tonies.com/products/disney-frozen-elsa-tonie
   shop-id: '5519647244439'
   track-desc: []
   ids:

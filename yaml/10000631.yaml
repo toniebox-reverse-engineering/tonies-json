@@ -4,15 +4,15 @@ data:
 - series: Spirit Untamed
   series-id: null
   episode: null
-  release: 1648727961
+  release: 1648771200
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 3
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Spirit-Untamed-10000631-PLPTB2MainImageTransparent.png?v=1774883344
   sample: null
-  web: null
+  web: https://us.tonies.com/products/spirit-untamed-tonie
   shop-id: '7395881812119'
   track-desc: []
   ids:

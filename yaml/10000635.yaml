@@ -4,15 +4,15 @@ data:
 - series: Wizard Creative
   series-id: null
   episode: Wizard
-  release: 1694039612
+  release: 1726012800
   language: en-us
   category: Creative Tonie
   runtime: 0
-  age: 99
+  age: 3
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Wizard-10000635-PLPTB2MainImageTransparent.png?v=1775762518
   sample: null
-  web: null
+  web: https://us.tonies.com/products/wizard-creative-tonie
   shop-id: '8056754176151'
   track-desc: []
   ids:

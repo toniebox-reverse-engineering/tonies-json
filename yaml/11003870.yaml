@@ -1,0 +1,26 @@
+article: '11003870'
+lock-data: false
+data:
+- series: Winnie Puuh
+  series-id: disney-winnie-puuh
+  episode: Cuddle Tonie Winnie
+  release: 1778630400
+  language: de-de
+  category: audio-play
+  runtime: 38
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/BOX11003870_1_a-hyTLlGa7.png
+  sample: https://cdn.tonies.de/o/audio_samples/575c4cf4d1d2b3ee35470d07dd629b3d3767559887c18a955c204523/horprobe_winnie.wav
+  web: https://tonies.com/de-de/cuddle-tonies/disney-winnie-puuh/disney-winnie-puuh/
+  shop-id: 3ed4a37b-ab0b-47ad-8d7e-1392ee5011dc
+  track-desc:
+  - Puuh sagt Hallo!
+  - 'Geschichte: Puuh geht Schlitten fahren'
+  - Puuhs Honig-Suche
+  - 'Geschichte: Wer kümmert sich? Puuh!'
+  - Puuhs und Ferkels Witzestunde
+  - 'Geschichte: Puuhs geheimer Garten'
+  - Ein stürmisches Abenteuer
+  - Puuhs Klanglandschaft
+  ids: []

@@ -4,15 +4,15 @@ data:
 - series: Peter Rabbit
   series-id: null
   episode: null
-  release: 1615824686
+  release: 1616025600
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 3
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Peter-Rabbit-10000542-PLPTB2MainImageTransparent.png?v=1774883280
   sample: null
-  web: null
+  web: https://us.tonies.com/products/peter-rabbit-tonie
   shop-id: '6462410752151'
   track-desc: []
   ids:

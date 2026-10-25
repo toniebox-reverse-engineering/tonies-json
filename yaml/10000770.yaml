@@ -4,15 +4,15 @@ data:
 - series: Beethoven's Wig
   series-id: null
   episode: null
-  release: 1624928620
+  release: 1625097600
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 3
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Beethoven_s-Wig-10000770-PLPTB2MainImageTransparent.png?v=1774883332
   sample: null
-  web: null
+  web: https://us.tonies.com/products/beethovens-wig-tonie
   shop-id: '6897940005015'
   track-desc: []
   ids:

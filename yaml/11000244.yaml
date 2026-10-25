@@ -4,15 +4,15 @@ data:
 - series: Tiny Chef
   series-id: null
   episode: null
-  release: 1698772416
+  release: 1732233600
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 3
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tiny-Chef-11000244-PLPTB2MainImageTransparent.png?v=1774883327
   sample: null
-  web: null
+  web: https://us.tonies.com/products/tiny-chef-tonie
   shop-id: '8085915074711'
   track-desc: []
   ids:

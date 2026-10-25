@@ -1,18 +1,18 @@
 article: '11001775'
 lock-data: false
 data:
-- series: Clever Tonies Set
+- series: Space Explorers Club Pocket Tonies
   series-id: null
-  episode: Space Explorers Club
-  release: 1758895854
+  episode: 4 Pack
+  release: 1759708800
   language: en-us
   category: Clever Tonie
   runtime: 0
-  age: 99
+  age: 5
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Space-Explorers-Club-11001775-PLPTB2MainImageTransparent.png?v=1775052473
   sample: null
-  web: null
+  web: https://us.tonies.com/products/clever-tonies-set-space-explorers-club
   shop-id: '9160670806167'
   track-desc:
   - Gas & Ice Giants

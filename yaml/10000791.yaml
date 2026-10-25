@@ -4,15 +4,15 @@ data:
 - series: Dr. Seuss
   series-id: null
   episode: How The Grinch Stole Christmas!
-  release: 1667486438
+  release: 1667433600
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 4
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/The-Grinch-10000791-PLPTB2MainImageTransparent.png?v=1774883274
   sample: null
-  web: null
+  web: https://us.tonies.com/products/dr-seuss-how-the-grinch-stole-christmas-tonie
   shop-id: '7801055510679'
   track-desc: []
   ids:

@@ -4,15 +4,15 @@ data:
 - series: Sesame Street
   series-id: null
   episode: Elmo
-  release: 1630352998
+  release: 1631750400
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 3
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Elmo-10000706-PLPTB2MainImageTransparent.png?v=1774883314
   sample: null
-  web: null
+  web: https://us.tonies.com/products/sesame-street-elmo-tonie
   shop-id: '7099209973911'
   track-desc: []
   ids:

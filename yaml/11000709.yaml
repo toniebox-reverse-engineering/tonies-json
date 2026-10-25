@@ -1,18 +1,18 @@
 article: '11000709'
 lock-data: false
 data:
-- series: Clever Tonies Set
+- series: Kid Comedy Pocket Tonies
   series-id: null
-  episode: Kid Comedy
-  release: 1698169280
+  episode: 4 Pack
+  release: 1729814400
   language: en-us
-  category: Tonie
+  category: Clever Tonie
   runtime: 0
-  age: 99
+  age: 5
   origin: stock
-  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Kidcomedy-main.jpg?v=1713267985
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Kid-Comedy-11000709-PLPTB2MainImageTransparent.png?v=1775052471
   sample: null
-  web: null
+  web: https://us.tonies.com/products/clever-tonies-set-kid-comedy
   shop-id: '8076776112279'
   track-desc: []
   ids:

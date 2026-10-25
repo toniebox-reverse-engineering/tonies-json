@@ -4,15 +4,15 @@ data:
 - series: The Snowman & the Snow Dog
   series-id: null
   episode: null
-  release: 1637238686
+  release: 1637193600
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 3
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/The-Snowman--the-Snow-Dog-10000642-PLPTB2MainImageTransparent.png?v=1786731942
   sample: null
-  web: null
+  web: https://us.tonies.com/products/snowman-snow-dog-tonie
   shop-id: '7269035802775'
   track-desc: []
   ids:

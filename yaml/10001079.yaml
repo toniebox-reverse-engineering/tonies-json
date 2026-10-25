@@ -4,15 +4,15 @@ data:
 - series: Let's Go Luna
   series-id: null
   episode: null
-  release: 1663692935
+  release: 1663804800
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 4
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Let_s-Go-Luna-10001079-PLPTB2MainImageTransparent.png?v=1774883325
   sample: null
-  web: null
+  web: https://us.tonies.com/products/lets-go-luna-tonie
   shop-id: '7774607343767'
   track-desc: []
   ids:

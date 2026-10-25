@@ -4,15 +4,15 @@ data:
 - series: Favorite Tales
   series-id: null
   episode: Christmas Tales
-  release: 1667486449
+  release: 1667433600
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 5
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Christmas-Tales-10001257-PLPTB2MainImageTransparent.png?v=1774883343
   sample: null
-  web: null
+  web: https://us.tonies.com/products/christmas-tales-tonie
   shop-id: '7801067339927'
   track-desc: []
   ids:

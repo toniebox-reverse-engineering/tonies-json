@@ -4,15 +4,15 @@ data:
 - series: Care Bears
   series-id: null
   episode: Cheer Bear
-  release: 1705425390
+  release: 1707177600
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 3
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Cheer-Bear-11000234-PLPTB2MainImageTransparent.png?v=1774883317
   sample: null
-  web: null
+  web: https://us.tonies.com/products/care-bears-cheer-bear-tonie
   shop-id: '8134562513047'
   track-desc: []
   ids:

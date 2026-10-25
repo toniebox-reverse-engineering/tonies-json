@@ -4,15 +4,15 @@ data:
 - series: Eloise
   series-id: null
   episode: null
-  release: 1665499659
+  release: 1665619200
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 4
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Eloise-10000800-PLPTB2MainImageTransparent.png?v=1774883332
   sample: null
-  web: null
+  web: https://us.tonies.com/products/eloise-tonie
   shop-id: '7789733904535'
   track-desc: []
   ids:

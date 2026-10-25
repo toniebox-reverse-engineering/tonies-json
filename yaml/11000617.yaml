@@ -4,15 +4,15 @@ data:
 - series: Lalalinos
   series-id: null
   episode: Akio - The Best Band in Bumbaloo
-  release: 1735588406
+  release: 1736640000
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 3
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Lalalinos_-Akio-11000617-PLPTB2MainImageTransparent.png?v=1774883270
   sample: null
-  web: null
+  web: https://us.tonies.com/products/lalalinos-akio-tonie
   shop-id: '8623894954135'
   track-desc: []
   ids:

@@ -4,15 +4,15 @@ data:
 - series: Favorite Tales
   series-id: null
   episode: Puss in Boots
-  release: 1667855468
+  release: 1667865600
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 5
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Puss-in-Boots-10000569-PLPTB2MainImageTransparent.png?v=1774883268
   sample: null
-  web: null
+  web: https://us.tonies.com/products/favorite-tales-puss-in-boots-tonie
   shop-id: '7806510694551'
   track-desc: []
   ids:

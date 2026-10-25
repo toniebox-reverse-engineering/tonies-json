@@ -1,18 +1,18 @@
 article: '11001474'
 lock-data: false
 data:
-- series: Clever Tonies Set
+- series: Animal World Precious Pets Pocket Tonies
   series-id: null
-  episode: 'Animal World: Precious Pets'
-  release: 1740757539
+  episode: 4 Pack
+  release: 1742256000
   language: en-us
   category: Clever Tonie
   runtime: 0
-  age: 99
+  age: 5
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Precious-Pets-11001474-PLPTB2MainImageTransparent.png?v=1775052473
   sample: null
-  web: null
+  web: https://us.tonies.com/products/animal-world-precious-pets
   shop-id: '8679945404567'
   track-desc: []
   ids:

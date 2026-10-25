@@ -4,15 +4,15 @@ data:
 - series: GoNoodle x tonies® Mindfulness
   series-id: null
   episode: null
-  release: 1619534230
+  release: 1619481600
   language: en-us
   category: Creative Tonie
   runtime: 0
-  age: 99
+  age: 5
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/GoNoodle-Mindfulness-10001366-PLPTB2MainImageTransparent.png?v=1775762518
   sample: null
-  web: null
+  web: https://us.tonies.com/products/gonoodle-tonie
   shop-id: '6664641773719'
   track-desc: []
   ids:

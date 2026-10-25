@@ -1,18 +1,18 @@
 article: '11001997'
 lock-data: false
 data:
-- series: Big Nate
+- series: Big Nate Book Tonies
   series-id: null
-  episode: Books 1-4
-  release: 1727710094
+  episode: 4 Pack
+  release: 1727913600
   language: en-us
   category: Audiobook
   runtime: 0
-  age: 99
+  age: 8
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Big-Nate-11001997-PLPTB2MainImageTransparent.png?v=1775606022
   sample: null
-  web: null
+  web: https://us.tonies.com/products/audiobooks-big-nate
   shop-id: '8398412972183'
   track-desc:
   - Big Nate

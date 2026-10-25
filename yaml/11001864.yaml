@@ -4,15 +4,15 @@ data:
 - series: Disney
   series-id: null
   episode: 'Frozen: Una Aventura Congelada Tonie (en Español)'
-  release: 1730382733
-  language: en-us
+  release: 1731369600
+  language: es-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 3
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Frozen-en-Espanol-11001864-PLPTB2MainImageTransparent.png?v=1774883291
   sample: null
-  web: null
+  web: https://us.tonies.com/products/disney-frozen-espanol
   shop-id: '8565948055703'
   track-desc: []
   ids:

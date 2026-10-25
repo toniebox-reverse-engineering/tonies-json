@@ -4,15 +4,15 @@ data:
 - series: Santa Creative
   series-id: null
   episode: Santa
-  release: 1727403197
+  release: 1728950400
   language: en-us
   category: Creative Tonie
   runtime: 0
-  age: 99
+  age: 3
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Santa-10000559-PLPTB2MainImageTransparent.png?v=1775762517
   sample: null
-  web: null
+  web: https://us.tonies.com/products/santa-creative-tonie
   shop-id: '8494533902487'
   track-desc: []
   ids: []

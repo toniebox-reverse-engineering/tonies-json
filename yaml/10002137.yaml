@@ -4,15 +4,15 @@ data:
 - series: Jan Brett Collection
   series-id: null
   episode: null
-  release: 1679422761
+  release: 1714176000
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 5
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Jan-Brett-10002137-PLPTB2MainImageTransparent.png?v=1774883319
   sample: null
-  web: null
+  web: https://us.tonies.com/products/jan-brett-collection-tonie
   shop-id: '7953348198551'
   track-desc: []
   ids:

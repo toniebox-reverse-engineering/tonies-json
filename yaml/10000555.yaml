@@ -4,15 +4,15 @@ data:
 - series: Elmer & Friends Story Collection
   series-id: null
   episode: null
-  release: 1614184156
+  release: 1614297600
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 3
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Elmer-10000555-PLPTB2MainImageTransparent.png?v=1774883317
   sample: null
-  web: null
+  web: https://us.tonies.com/products/elmer-friends-story-collection-tonie
   shop-id: '6220876841111'
   track-desc: []
   ids:

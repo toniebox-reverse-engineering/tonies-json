@@ -1,18 +1,18 @@
 article: '11002329'
 lock-data: false
 data:
-- series: Magic Tree House
+- series: Magic Tree House Book Tonies
   series-id: null
-  episode: Books 1-4
-  release: 1758895855
+  episode: 4 Pack
+  release: 1759708800
   language: en-us
   category: Audiobook
   runtime: 0
-  age: 99
+  age: 6
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Magic-Tree-House-11002329-PLPTB2MainImageTransparent.png?v=1775052472
   sample: null
-  web: null
+  web: https://us.tonies.com/products/audiobook-tonies-magic-treehouse
   shop-id: '9160670740631'
   track-desc:
   - Dinosaurs Before Dark

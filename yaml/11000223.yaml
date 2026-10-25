@@ -4,15 +4,15 @@ data:
 - series: Mindfulness
   series-id: null
   episode: Yoga with Sara the Llama
-  release: 1703266167
+  release: 1704240000
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 3
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Sara-the-Llama-11000223-PLPTB2MainImageTransparent.png?v=1774883271
   sample: null
-  web: null
+  web: https://us.tonies.com/products/yoga-tonie
   shop-id: '8134363644055'
   track-desc: []
   ids:

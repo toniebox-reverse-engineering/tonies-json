@@ -4,15 +4,15 @@ data:
 - series: PAW Patrol
   series-id: null
   episode: Tracker
-  release: 1697489163
+  release: 1732060800
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 3
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Tracker-11000266-PLPTB2MainImageTransparent.png?v=1774883279
   sample: null
-  web: null
+  web: https://us.tonies.com/products/paw-patrol-tracker-tonie
   shop-id: '8081283317911'
   track-desc: []
   ids:

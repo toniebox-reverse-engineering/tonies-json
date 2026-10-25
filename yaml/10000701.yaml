@@ -4,15 +4,15 @@ data:
 - series: Diary of a Wimpy Kid
   series-id: null
   episode: null
-  release: 1626185375
+  release: 1626307200
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 8
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Diary-of-a-Wimpy-Kid-10000701-PLPTB2MainImageTransparent.png?v=1774883340
   sample: null
-  web: null
+  web: https://us.tonies.com/products/diary-of-a-wimpy-kid-tonie
   shop-id: '6972818555031'
   track-desc: []
   ids:

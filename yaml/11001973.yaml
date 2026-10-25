@@ -1,18 +1,18 @@
 article: '11001973'
 lock-data: false
 data:
-- series: Captain Underpants
+- series: Captain Underpants Book Tonies
   series-id: null
-  episode: Books 1-4
-  release: 1727710111
+  episode: 4 Pack
+  release: 1727913600
   language: en-us
   category: Audiobook
   runtime: 0
-  age: 99
+  age: 7
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Captain-Underpants-11001973-PLPTB2MainImageTransparent.png?v=1775606021
   sample: null
-  web: null
+  web: https://us.tonies.com/products/audiobooks-captain-underpants
   shop-id: '8398403829911'
   track-desc:
   - The Adventures of Captain Underpants

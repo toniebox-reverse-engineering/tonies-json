@@ -8,11 +8,11 @@ data:
   language: en-us
   category: Creative Tonie
   runtime: 0
-  age: 99
+  age: 3
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Purple-with-Medium-Hue-10001049-PLPTB2MainImageTransparent.png?v=1775762520
   sample: null
-  web: null
+  web: https://us.tonies.com/products/creative-tonie-purple-medium
   shop-id: '7154554372247'
   track-desc: []
   ids: []

@@ -4,15 +4,15 @@ data:
 - series: Emma Memma
   series-id: null
   episode: null
-  release: 1774620312
+  release: 1775520000
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 3
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/11004139-PLPTB2MainImageTransparent.png?v=1775562906
   sample: null
-  web: null
+  web: https://us.tonies.com/products/emma-memma-tonie
   shop-id: '9215748407447'
   track-desc: []
   ids:

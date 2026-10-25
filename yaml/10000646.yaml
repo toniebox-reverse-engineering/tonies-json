@@ -4,15 +4,15 @@ data:
 - series: PJ Masks
   series-id: null
   episode: Owlette
-  release: 1661871467
+  release: 1661990400
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 4
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Owlette-10000646-PLPTB2MainImageTransparent.png?v=1774883272
   sample: null
-  web: null
+  web: https://us.tonies.com/products/pj-masks-owlette-tonie
   shop-id: '7745044775063'
   track-desc: []
   ids:

@@ -4,15 +4,15 @@ data:
 - series: Xavier Riddle
   series-id: null
   episode: null
-  release: 1663692960
+  release: 1663804800
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 5
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Xavier-Riddle-10001002-PLPTB2MainImageTransparent.png?v=1774883334
   sample: null
-  web: null
+  web: https://us.tonies.com/products/xavier-riddle-tonie
   shop-id: '7695091630231'
   track-desc: []
   ids:

@@ -4,15 +4,15 @@ data:
 - series: DC
   series-id: null
   episode: Wonder Woman
-  release: 1689702772
+  release: 1722384000
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 5
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Wonder-Woman-10001344-PLPTB2MainImageTransparent.png?v=1774883318
   sample: null
-  web: null
+  web: https://us.tonies.com/products/dc-wonder-woman-tonie
   shop-id: '8032004931735'
   track-desc: []
   ids:

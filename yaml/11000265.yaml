@@ -4,15 +4,15 @@ data:
 - series: King of Kindergarten
   series-id: null
   episode: null
-  release: 1722433630
+  release: 1724284800
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 3
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/King-of-Kindergarten-11000265-PLPTB2MainImageTransparent.png?v=1774883326
   sample: null
-  web: null
+  web: https://us.tonies.com/products/king-of-kindergarten-tonie
   shop-id: '8260127948951'
   track-desc: []
   ids:

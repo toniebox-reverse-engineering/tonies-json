@@ -4,15 +4,15 @@ data:
 - series: The Very Hungry Caterpillar & Friends
   series-id: null
   episode: null
-  release: 1650977497
+  release: 1650931200
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 3
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/The-Very-Hungry-Caterpillar-10000785-PLPTB2MainImageTransparent.png?v=1774883296
   sample: null
-  web: null
+  web: https://us.tonies.com/products/very-hungry-caterpillar-friends-tonie
   shop-id: '7536602120343'
   track-desc: []
   ids:

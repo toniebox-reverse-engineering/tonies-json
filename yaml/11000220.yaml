@@ -4,15 +4,15 @@ data:
 - series: Miffy
   series-id: null
   episode: null
-  release: 1678140082
+  release: 1719705600
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 3
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Miffy-11000220-PLPTB2MainImageTransparent.png?v=1774883287
   sample: null
-  web: null
+  web: https://us.tonies.com/products/miffy-tonie
   shop-id: '7940552360087'
   track-desc: []
   ids:

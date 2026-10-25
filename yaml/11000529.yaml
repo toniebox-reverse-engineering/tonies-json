@@ -4,15 +4,15 @@ data:
 - series: Kung Fu Panda
   series-id: null
   episode: null
-  release: 1722433537
+  release: 1724112000
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 6
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Kung-Fu-Panda-11000529-PLPTB2MainImageTransparent.png?v=1774883271
   sample: null
-  web: null
+  web: https://us.tonies.com/products/kung-fu-panda-tonie
   shop-id: '8472681414807'
   track-desc: []
   ids:

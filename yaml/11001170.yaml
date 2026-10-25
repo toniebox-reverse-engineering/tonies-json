@@ -4,15 +4,15 @@ data:
 - series: Elephant & Piggie
   series-id: null
   episode: null
-  release: 1743429455
+  release: 1745280000
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 3
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Elephant--Piggie-11001170-PLPTB2MainImageTransparent.png?v=1786732453
   sample: null
-  web: null
+  web: https://us.tonies.com/products/elephant-piggie-tonie
   shop-id: '8911599468695'
   track-desc: []
   ids:

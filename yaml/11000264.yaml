@@ -4,15 +4,15 @@ data:
 - series: Carmen Sandiego
   series-id: null
   episode: null
-  release: 1705425271
+  release: 1707782400
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 5
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Carmen-Sandiego-11000264-PLPTB2MainImageTransparent.png?v=1774883335
   sample: null
-  web: null
+  web: https://us.tonies.com/products/carmen-sandiego-tonie
   shop-id: '8134562775191'
   track-desc: []
   ids:

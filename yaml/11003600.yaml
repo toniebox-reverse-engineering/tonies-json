@@ -4,15 +4,15 @@ data:
 - series: Pokémon
   series-id: null
   episode: Charmander
-  release: 1786539349
+  release: 1787356800
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 5
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Charmander-11003600-PLPTB2MainImageTransparent.png?v=1782238286
   sample: null
-  web: null
+  web: https://us.tonies.com/products/pokemon-charmander-tonie
   shop-id: '9639364100247'
   track-desc: []
   ids: []

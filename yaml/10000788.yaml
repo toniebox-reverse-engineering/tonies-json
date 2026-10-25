@@ -4,15 +4,15 @@ data:
 - series: Roald Dahl
   series-id: null
   episode: James & the Giant Peach
-  release: 1671575129
+  release: 1704412800
   language: en-us
   category: Tonie
   runtime: 0
-  age: 99
+  age: 5
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/James--the-Giant-Peach-10000788-PLPTB2MainImageTransparent.png?v=1786731015
   sample: null
-  web: null
+  web: https://us.tonies.com/products/roald-dahl-james-giant-peach-tonie
   shop-id: '7868702654615'
   track-desc: []
   ids:

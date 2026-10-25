@@ -1,0 +1,18 @@
+article: '11003323'
+lock-data: false
+data:
+- series: A Series of Unfortunate Events Book Tonies
+  series-id: null
+  episode: 4 Pack
+  release: 1771286400
+  language: en-us
+  category: Audiobook
+  runtime: 0
+  age: 9
+  origin: stock
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/A-Series-of-Unfortunate-Events-11003323-PLPTB2MainImageTransparent.png?v=1775052475
+  sample: null
+  web: https://us.tonies.com/products/audiobooks-a-series-of-unfortunate-events
+  shop-id: '9220712398999'
+  track-desc: []
+  ids: []

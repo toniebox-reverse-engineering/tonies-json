@@ -1,18 +1,18 @@
 article: '11002622'
 lock-data: false
 data:
-- series: Amelia Bedelia & Friends
+- series: Amelia Bedelia & Friends Book Tonies
   series-id: null
-  episode: Books 1-4
-  release: 1758895852
+  episode: 4 Pack
+  release: 1761782400
   language: en-us
   category: Audiobook
   runtime: 0
-  age: 99
+  age: 6
   origin: stock
   image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/Amelia-Bedelia-11002622-PLPTB2MainImageTransparent.png?v=1775052475
   sample: null
-  web: null
+  web: https://us.tonies.com/products/audiobook-tonies-amelia-bedelia
   shop-id: '9166229176471'
   track-desc:
   - Beat the Clock
