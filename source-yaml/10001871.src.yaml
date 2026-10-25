@@ -8,11 +8,11 @@ data:
   language: ''
   category: ''
   runtime: ''
-  age: ''
+  age: tonies-us-en-us,
   origin: ''
-  image: tonies-us-en-us,
+  image: ''
   sample: ''
-  web: ''
+  web: tonies-us-en-us,
   shop-id: ''
   track-desc: ''
   ids: []

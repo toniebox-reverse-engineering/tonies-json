@@ -1,18 +1,18 @@
 article: '11000859'
 lock-data: false
 data:
-- series: ''
+- series: tonies-us-en-us,
   series-id: ''
-  episode: ''
-  release: ''
+  episode: tonies-us-en-us,
+  release: tonies-us-en-us,
   language: ''
-  category: ''
+  category: tonies-us-en-us,
   runtime: ''
-  age: ''
+  age: tonies-us-en-us,
   origin: ''
-  image: tonies-us-en-us,
+  image: ''
   sample: ''
-  web: ''
+  web: tonies-us-en-us,
   shop-id: ''
   track-desc: ''
   ids: []

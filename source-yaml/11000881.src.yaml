@@ -5,14 +5,14 @@ data:
   series-id: ''
   episode: tonies-us-en-us,
   release: tonies-us-en-us,
-  language: tonies-us-en-us,
+  language: ''
   category: tonies-us-en-us,
   runtime: ''
-  age: ''
-  origin: tonies-us-en-us,
-  image: tonies-us-en-us,
+  age: tonies-us-en-us,
+  origin: ''
+  image: ''
   sample: ''
-  web: ''
-  shop-id: tonies-us-en-us,
+  web: tonies-us-en-us,
+  shop-id: ''
   track-desc: ''
   ids: []
