@@ -15,4 +15,9 @@ data:
   web: https://us.tonies.com/products/favorite-classics-christmas-carol-tonie
   shop-id: '9639381893271'
   track-desc: []
-  ids: []
+  ids:
+  - audio-id: 1781270005
+    hash: a076fad72bac625ffa568cc26e7ace2d7b7f692b
+    size: 25145662
+    tracks: 8
+    confidence: 1

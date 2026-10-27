@@ -15,4 +15,9 @@ data:
   web: https://us.tonies.com/products/disney-zootopia-tonie
   shop-id: '9185415463063'
   track-desc: []
-  ids: []
+  ids:
+  - audio-id: 1764180028
+    hash: 80f11508f471581221f483674846a981722f8a4c
+    size: 36518630
+    tracks: 4
+    confidence: 1
