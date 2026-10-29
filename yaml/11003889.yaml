@@ -11,9 +11,9 @@ data:
   age: 3
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51021457-Tonie_Shado-GhD4PCx3.png
-  sample: null
+  sample: https://assets.ctfassets.net/l6vo76cztcax/390s36PIYg0dh7npQndmXi/7eeb3133af01b590e984a66c7473bc2e/e2c00d6b-9ec8-4e78-959d-55d383ae5486.mp3
   web: https://tonies.com/fr-fr/tonies/a-lecoute-des-animaux/tilda-et-la-jungle-qui-chante/
   shop-id: 6545e5cf-b637-491e-a96c-a3c38318e7f7
   track-desc:
-  - Content Placeholder
+  - '-'
   ids: []
