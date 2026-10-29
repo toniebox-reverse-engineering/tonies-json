@@ -1,0 +1,28 @@
+article: '11003834'
+lock-data: false
+data:
+- series: Fabuleuses Créatures
+  series-id: fabuleuses-creatures
+  episode: Nori
+  release: 1793232000
+  language: fr-fr
+  category: audio-play
+  runtime: 70
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51021040-Tonie_Shado-5JFVPzI3.png
+  sample: https://cdn.tonies.de/o/audio_samples/07aa6e8cc9f5fcf1aff58bca7fc898a1b20554f1214c916c959838bf/11003834_fabuleuses_creatures_nori_extraitwav.wav
+  web: https://tonies.com/fr-fr/tonies/fabuleuses-creatures/nori/
+  shop-id: dfe3a29b-62e2-493d-a28e-14f426462d5a
+  track-desc:
+  - Le Courant Argenté
+  - La course des raies-voiles
+  - La nouvelle montagne
+  - Les méduses égarées
+  - La disparition des chants
+  - La grotte interdite
+  - Le lac retourné
+  - Le trésor du Capitaine Azur
+  - Une soirée au clair de lune
+  - L'apprenti du Gardien des Histoires
+  ids: []

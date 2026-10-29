@@ -1,0 +1,19 @@
+article: '11003889'
+lock-data: false
+data:
+- series: À L'Écoute Des Animaux
+  series-id: a-lecoute-des-animaux
+  episode: Tilda Et La Jungle Qui Chante
+  release: 1793232000
+  language: fr-fr
+  category: audio-play
+  runtime: 57
+  age: 3
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51021457-Tonie_Shado-GhD4PCx3.png
+  sample: null
+  web: https://tonies.com/fr-fr/tonies/a-lecoute-des-animaux/tilda-et-la-jungle-qui-chante/
+  shop-id: 6545e5cf-b637-491e-a96c-a3c38318e7f7
+  track-desc:
+  - Content Placeholder
+  ids: []
