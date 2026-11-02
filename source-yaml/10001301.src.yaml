@@ -4,7 +4,7 @@ data:
 - series: ''
   series-id: ''
   episode: ''
-  release: tonies-us-en-us,
+  release: ''
   language: ''
   category: ''
   runtime: ''
@@ -12,7 +12,7 @@ data:
   origin: ''
   image: ''
   sample: ''
-  web: tonies-us-en-us,
+  web: ''
   shop-id: ''
   track-desc: ''
   ids: []

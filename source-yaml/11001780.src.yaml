@@ -2,15 +2,15 @@ article: '11001780'
 lock-data: false
 data:
 - series: ''
-  series-id: ''
-  episode: ''
+  series-id: tonies-json-en-gb,
+  episode: tonies-json-en-gb,
   release: ''
   language: ''
   category: ''
   runtime: ''
-  age: ''
+  age: tonies-json-en-gb,
   origin: ''
-  image: tonies-shopapi-en-gb-image,
+  image: ''
   sample: ''
   web: ''
   shop-id: ''
