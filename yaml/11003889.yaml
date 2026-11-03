@@ -11,9 +11,19 @@ data:
   age: 3
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51021457-Tonie_Shado-GhD4PCx3.png
-  sample: https://assets.ctfassets.net/l6vo76cztcax/390s36PIYg0dh7npQndmXi/7eeb3133af01b590e984a66c7473bc2e/e2c00d6b-9ec8-4e78-959d-55d383ae5486.mp3
+  sample: https://cdn.tonies.de/o/audio_samples/c4a191c6d6dc1f8ba86a5faf2c6fc9d6f6ffedf9a422d28ef69cc4d6/11003889_a_l_ecoute_des_animaux_tilda_et_la_jungle_qui_chante_extrait.wav
   web: https://tonies.com/fr-fr/tonies/a-lecoute-des-animaux/tilda-et-la-jungle-qui-chante/
   shop-id: 6545e5cf-b637-491e-a96c-a3c38318e7f7
   track-desc:
-  - '-'
+  - Introduction
+  - Tonton Lucas est revenu ! (inclus "La ballade de la jungle")
+  - Dans la jungle ?! (inclus "J’irais bien embrasser ma mère")
+  - Le paon (inclus "Je n’aime pas ma voix")
+  - La tortue (inclus "Pas trop vite")
+  - Le cobra & la mangouste (inclus "Meilleurs ennemis")
+  - Le crocodile (inclus "Ma vie de croco des marais")
+  - Le petit singe (inclus "Macaque, roi du mic-mac !")
+  - L'éléphante (inclus "Le chef, c’est Grand-Maman")
+  - Rani Tigra (inclus "Mon petit chat")
+  - Rentrer à la maison (inclus "Je veux rentrer !" & "Au revoir, Tilda !"
   ids: []
