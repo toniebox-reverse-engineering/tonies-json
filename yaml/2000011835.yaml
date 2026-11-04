@@ -1,0 +1,24 @@
+article: '2000011835'
+lock-data: false
+data:
+- series: Djo le cerveau
+  series-id: djo-le-cerveau
+  episode: Les super-pouvoirs du corps vol.2
+  release: 1792972800
+  language: fr-fr
+  category: audio-play
+  runtime: 3639
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_a853fabcfe01f83073252afa1012a84f918be5b1abe55c49868f290d/3_m..NXWqQJTtVbFV1/djo_le_cerveau_les_super_pouvoirs_du_corps_vol2_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/e752ece337322a986844d01b56e5be90b006c139a23e18c791609439/djo_vol_2_tonies_sample.wav
+  web: https://tonies.com/fr-fr/tonie-librairie/djo-le-cerveau/les-super-pouvoirs-du-corps-vol2/
+  shop-id: 3c70468f-fe5d-4972-9740-62d137ae2bf6
+  track-desc:
+  - Le rhume des foins
+  - La varicelle
+  - J'ai attrapé un coup de soleil
+  - La langue tire la langue
+  - Toucher c'est l'adopter
+  - Allo Papa dodo !
+  ids: []

@@ -1,0 +1,28 @@
+article: '2000011840'
+lock-data: false
+data:
+- series: Popa Noël
+  series-id: popa-noel-nen-fait-qua-sa-tete
+  episode: Popa Noël vol.3
+  release: 1792972800
+  language: fr-fr
+  category: audio-play
+  runtime: 7179
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_75c6e33195450416b7cc906c0f31aa18e87a05859273dad6fa053246/3_7Ql34BlCRpJkpc-D/popa_noel_saison_3_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/16319219839ab68beab10df140b14d1ac51c1133d8ce65ebe0cab0b3/popa_s3_tonies_sample.wav
+  web: https://tonies.com/fr-fr/tonie-librairie/popa-noel-nen-fait-qua-sa-tete/popa-noel-vol-3/
+  shop-id: f8f5c0bd-7c01-4041-8c4b-926ea586d3f7
+  track-desc:
+  - Le grand bazar des bêtes perdues
+  - Une pagaille monstre !
+  - Des courriers en retard
+  - Un rêve de Royaume
+  - Le casting des animaux volants
+  - Le dragon timide
+  - Néné est amoureux
+  - Popa est dé-bor-dé
+  - La nuit des secrets
+  - Enfin !
+  ids: []

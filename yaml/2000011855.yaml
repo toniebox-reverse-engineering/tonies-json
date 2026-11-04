@@ -1,0 +1,28 @@
+article: '2000011855'
+lock-data: false
+data:
+- series: The Christmas Crystals
+  series-id: the-christmas-crystals
+  episode: A North Pole Adventure
+  release: -61317820800
+  language: en-us
+  category: audio-play
+  runtime: 5393
+  age: 5
+  origin: tunes
+  image: null
+  sample: https://cdn.tonies.de/o/audio_samples/ddf6d8ae2b309b278ae63825dba569c49a4b0a86fa846fbd78a3322b/thechristmascrystals_audiosample_wav.wav
+  web: https://tonies.com/en-gb/audio-content/the-christmas-crystals/a-north-pole-adventure/
+  shop-id: cefa0398-1b7b-4c42-82c2-9d43b242a28d
+  track-desc:
+  - 'Chapter 1: Theme Song'
+  - 'Chapter 2: Christmas Eve'
+  - 'Chapter 3: Kat Arrives At The North Pole'
+  - 'Chapter 4: The Ice Palace'
+  - 'Chapter 5: The Search Begins'
+  - 'Chapter 6: The Candy Cane Woods'
+  - 'Chapter 7: Arctic Island'
+  - 'Chapter 8: Mirror Lake'
+  - 'Chapter 9: The Floogelmeister'
+  - 'Chapter 10: Christmas Day'
+  ids: []

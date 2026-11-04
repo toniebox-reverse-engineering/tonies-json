@@ -3,14 +3,14 @@ lock-data: false
 data:
 - series: Favorite Classics
   series-id: null
-  episode: A Christmas Carol & Tales
+  episode: A Christmas Carol
   release: 1792454400
   language: en-us
   category: Tonie
   runtime: 0
   age: 5
   origin: stock
-  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/A-Christmas-Carol-11001835-PLPTB2MainImageTransparent.png?v=1781205132
+  image: https://cdn.shopify.com/s/files/1/0403/5431/6439/files/A-Christmas-Carol-11001835-PLPTB2MainImageTransparent.png?v=1793829734
   sample: null
   web: https://us.tonies.com/products/favorite-classics-christmas-carol-tonie
   shop-id: '9639381893271'

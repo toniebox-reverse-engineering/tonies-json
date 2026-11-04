@@ -12,7 +12,7 @@ data:
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/3b0dd326-e471-4c81-b93e-7cd0db90e1b0/10000037-50000077-g-y4ylkDYC.png
   sample: null
-  web: null
-  shop-id: null
+  web: https://tonies.com/en-gb/creative-tonies/creative-tonie-unicorn/
+  shop-id: 653a9696-5ce7-44d0-a8b3-a0d85ce585c7
   track-desc: []
   ids: []

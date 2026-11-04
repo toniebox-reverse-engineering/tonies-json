@@ -1,0 +1,25 @@
+article: '2000011836'
+lock-data: false
+data:
+- series: Djo le cerveau
+  series-id: djo-le-cerveau
+  episode: Les super-pouvoirs du corps vol.1
+  release: 1792972800
+  language: fr-fr
+  category: audio-play
+  runtime: 3752
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_4172d8682e3e1e5f08c49106316f4b346212ed136ef6e31bdd7ad411/3_VCJvb.QsW4knD5Y6/djo_le_cerveau_les_super_pouvoirs_du_corps_vol1_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/4a9fb782a6f98228e9c4c2ea0774b5f89846ea647979068377475408/djo_vol_1_tonies_sample.wav
+  web: https://tonies.com/fr-fr/tonie-librairie/djo-le-cerveau/les-super-pouvoirs-du-corps-vol1/
+  shop-id: b747542b-6765-4840-8202-73479f68c635
+  track-desc:
+  - L'appendicite
+  - À vue de nez
+  - À un cheveau près
+  - Il y a un os
+  - La carie
+  - La conjonctivite
+  - Le dégât des ongles
+  ids: []
