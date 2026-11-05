@@ -270,6 +270,11 @@ def extract_data_tonies_shopapi(lang, article, product_data, source):
             if alone:
                 yaml_data["image"] = alone[0]
 
+        if is_web_my_first_tonies(yaml_data["web"]): # the whole set; the second picture can be an award badge or a photo of a child playing
+            first = images[0].get("url") if images else None
+            if first:
+                yaml_data["image"] = first
+
         if get_web_creative_tonie_category(yaml_data["web"]) is not None: #first image on creatives, missing featured image
             field_mapping = {
                 "image": ("images", 0, "url",(None, yaml_data["image"])), 
@@ -525,7 +530,7 @@ for index, url_set in enumerate(urls):
         while True:
             offset = page * pageSize
             url = url_set["url"].replace("{limit}", str(pageSize)).replace("{offset}", str(offset))
-            url = url.replace("{category}", "tonies,clever-tonies,creative-tonies,tunes,book-tonies,cuddle-tonies")
+            url = url.replace("{category}", "tonies,clever-tonies,creative-tonies,tunes,book-tonies,cuddle-tonies,my-first-tonies")
             response = requests.get(url)
             
             if response.status_code != 200:
@@ -641,6 +646,9 @@ def extract_data(index, data):
 
 def is_web_cuddle_tonie(url):
     return url is not None and ("/cuddle-tonies/" in url or "/tonies-calins/" in url)
+
+def is_web_my_first_tonies(url):
+    return url is not None and ("/my-first-tonies/" in url or "/mes-premiers-tonies/" in url)
 
 def get_web_creative_tonie_category(url):
     if url is None:
