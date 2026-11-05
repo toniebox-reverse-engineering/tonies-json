@@ -15,4 +15,9 @@ data:
   web: https://us.tonies.com/products/marvel-spider-man-tonie
   shop-id: '9620437991575'
   track-desc: []
-  ids: []
+  ids:
+  - audio-id: 1780391471
+    hash: 4de843c83a9c33983ac24d4241f53e3fec965570
+    size: 42488595
+    tracks: 3
+    confidence: 1

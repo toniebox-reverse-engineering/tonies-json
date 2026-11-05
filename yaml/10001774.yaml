@@ -15,4 +15,9 @@ data:
   web: https://us.tonies.com/products/marvel-iron-man-tonie
   shop-id: '9647753035927'
   track-desc: []
-  ids: []
+  ids:
+  - audio-id: 1780999290
+    hash: d3c609cc19dc43922d34b2c97d8bca4f5351ab24
+    size: 41339037
+    tracks: 3
+    confidence: 1

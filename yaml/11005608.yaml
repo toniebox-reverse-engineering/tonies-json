@@ -22,6 +22,11 @@ data:
   - Eine Arena voller Gefühle
   - Wenn das Stadion leise wird...
   ids:
+  - audio-id: 1793919604
+    hash: bfcf18a7efdf49b50e80b05665aa5e08449666e7
+    size: 43530531
+    tracks: 7
+    confidence: 1
   - audio-id: 1793011188
     hash: 7282e1ef14f4a1a5b2bad76c9b77129abfcd2936
     size: 35796730
