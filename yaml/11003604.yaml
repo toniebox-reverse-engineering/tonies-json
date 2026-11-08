@@ -15,4 +15,9 @@ data:
   web: https://us.tonies.com/products/avatar-the-last-airbender-aang-tonie
   shop-id: '9682017222807'
   track-desc: []
-  ids: []
+  ids:
+  - audio-id: 1788254016
+    hash: a2535926952423f19f97f1382bd3434d58028b27
+    size: 50583858
+    tracks: 9
+    confidence: 1

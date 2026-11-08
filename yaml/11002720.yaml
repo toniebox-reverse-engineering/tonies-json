@@ -15,4 +15,9 @@ data:
   web: https://us.tonies.com/products/tmnt-donatello-tonie
   shop-id: '9685640773783'
   track-desc: []
-  ids: []
+  ids:
+  - audio-id: 1788446085
+    hash: 3bde5c76b935a1f46380f50226a977afb728a8ef
+    size: 34034172
+    tracks: 7
+    confidence: 1

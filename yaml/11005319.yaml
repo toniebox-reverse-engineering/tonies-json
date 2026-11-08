@@ -15,4 +15,9 @@ data:
   web: https://us.tonies.com/products/advent-calendar-tonie-hollys-christmas-adventure
   shop-id: '9682017288343'
   track-desc: []
-  ids: []
+  ids:
+  - audio-id: 1787323635
+    hash: 5f5451c2f433ae1ac9bfbc7109b81a71859d17ec
+    size: 4801590
+    tracks: 2
+    confidence: 1
