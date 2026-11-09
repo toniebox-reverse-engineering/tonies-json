@@ -1,0 +1,18 @@
+article: '40000003'
+lock-data: false
+data:
+- series: Pack Djo Le Cerveau (Vol.1 et 2) + Tonie
+  series-id: null
+  episode: Pack Djo Le Cerveau (Vol.1 et 2) + Tonie
+  release: 1793836800
+  language: null
+  category: null
+  runtime: 0
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/pack-djo-yCjkXlrt.png
+  sample: null
+  web: https://tonies.com/fr-fr/packs/pack-djo-le-cerveau/
+  shop-id: 1c0fcb13-9084-488c-9809-a67c9408fe11
+  track-desc: []
+  ids: []

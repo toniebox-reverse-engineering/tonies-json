@@ -1,0 +1,18 @@
+article: '40000004'
+lock-data: false
+data:
+- series: Pack Les Veggies (Vol.1 et 2) + Tonie
+  series-id: null
+  episode: Pack Les Veggies (Vol.1 et 2) + Tonie
+  release: 1793836800
+  language: null
+  category: null
+  runtime: 0
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/pack-veggies-Dlys2onE.png
+  sample: null
+  web: https://tonies.com/fr-fr/packs/pack-les-veggies-tonie/
+  shop-id: 5b86704f-4afe-442a-b48b-3189cf6e4d68
+  track-desc: []
+  ids: []
