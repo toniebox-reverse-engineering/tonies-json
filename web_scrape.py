@@ -46,6 +46,9 @@ def convert_to_int(value):
         return 0
     
 def lang_cleanup(value):
+    if value is None:
+        print(f"Missing language code")
+        return None
     lang = value.lower()
     if lang == 'de' or lang == 'de-de':
         return 'de-de'
