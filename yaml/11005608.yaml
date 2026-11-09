@@ -23,6 +23,11 @@ data:
   - Wenn das Stadion leise wird...
   - Die Entdeckung der Schatzkammer
   ids:
+  - audio-id: 1794231944
+    hash: 60a7586276ec2915d05e1cc4b8fa42655f7e1dc9
+    size: 43136662
+    tracks: 7
+    confidence: 1
   - audio-id: 1793919604
     hash: bfcf18a7efdf49b50e80b05665aa5e08449666e7
     size: 43530531

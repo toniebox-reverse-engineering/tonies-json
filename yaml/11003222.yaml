@@ -15,4 +15,9 @@ data:
   web: https://us.tonies.com/products/sofia-the-first-royal-magic-tonie
   shop-id: '9685640708247'
   track-desc: []
-  ids: []
+  ids:
+  - audio-id: 1787048898
+    hash: 1e21d7d3d37aa9bd7d057beef91f8678a1aae544
+    size: 28433612
+    tracks: 5
+    confidence: 1

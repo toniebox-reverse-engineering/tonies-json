@@ -15,4 +15,9 @@ data:
   web: https://us.tonies.com/products/dino-rockstars-tonie
   shop-id: '9685640675479'
   track-desc: []
-  ids: []
+  ids:
+  - audio-id: 1791966435
+    hash: b0920cb9aa81e02e7f24e22483dd74e95824ce85
+    size: 45187561
+    tracks: 38
+    confidence: 1

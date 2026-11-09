@@ -15,4 +15,9 @@ data:
   web: https://us.tonies.com/products/peppa-pig-georges-new-sounds-tonie
   shop-id: '9682017255575'
   track-desc: []
-  ids: []
+  ids:
+  - audio-id: 1787571115
+    hash: 31a044b7473ea7d6c7f14c1903d5bfc64e52dd4b
+    size: 44750412
+    tracks: 8
+    confidence: 1
