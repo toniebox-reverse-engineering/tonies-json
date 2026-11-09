@@ -298,7 +298,7 @@ def update_yaml_files(article, yaml_data):
         return
     updated = False
     yaml_base = get_yaml(article)
-    yaml_base["article"] = article
+    yaml_base["article"] = str(article)
     yaml_src_data = get_active_data(yaml_base)
     for attr, data in yaml_data.items():
         if (attr == "ids"):
@@ -322,7 +322,7 @@ def update_yaml_source_file(article, yaml_source_data):
         return
     updated = False
     yaml_base = get_yaml_source(article, create=False)
-    yaml_base["article"] = article
+    yaml_base["article"] = str(article)
     yaml_src_data = get_active_data(yaml_base)
     for attr, data in yaml_source_data.items():
         if (attr == "ids"):
@@ -345,7 +345,7 @@ def get_yaml(article, create=True):
     else:
         print(f"Prepare new YAML for {article}")
         yaml_base = YamlStruct.get_base()
-        yaml_base["article"] == article
+        yaml_base["article"] = str(article)
         yaml_base["data"].append(YamlStruct.get_data())
         if create:
             with open(get_yaml_path(article), "w") as yaml_file:
@@ -359,7 +359,7 @@ def get_yaml_source(article, create=True):
             yaml_base = yaml.safe_load(yaml_file)
     else:
         yaml_base = YamlStruct.get_base()
-        yaml_base["article"] == article
+        yaml_base["article"] = str(article)
         yaml_base["data"].append(YamlStruct.get_data())
         if create:
             with open(get_yaml_source_path(article), "w") as yaml_file:
@@ -750,9 +750,9 @@ for filename in sorted(os.listdir(yaml_dir)):
         with open(yaml_path, 'r') as yaml_file:
             yaml_base = yaml.safe_load(yaml_file)
 
-        if yaml_base["article"] != article:
+        if str(yaml_base["article"]) != article:
             if yaml_base["article"] is None:
-                yaml_base["article"] = article
+                yaml_base["article"] = str(article)
                 with open(get_yaml_path(article), "w") as yaml_file:
                     yaml.safe_dump(yaml_base, yaml_file, default_flow_style=False, sort_keys=False, allow_unicode=True)
                 print(f"Fixed empty article in yaml for {article}")
