@@ -15,13 +15,13 @@ data:
   web: https://tonies.com/de-de/clever-tonies/fc-bayern-muenchen/die-welt-des-fc-bayern-pocket-tonie/
   shop-id: 1e18c438-f92f-4754-b3a0-03d0cf5d7072
   track-desc:
-  - Intro
+  - Die Entdeckung der Schatzkammer
   - Der magische Fußball
   - Wo steckt der Teamgeist?
   - Weitermachen lohnt sich
   - Eine Arena voller Gefühle
   - Wenn das Stadion leise wird...
-  - Die Entdeckung der Schatzkammer
+  - Outro
   ids:
   - audio-id: 1794231944
     hash: 60a7586276ec2915d05e1cc4b8fa42655f7e1dc9
