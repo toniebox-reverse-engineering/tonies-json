@@ -1525,7 +1525,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11002032,Alma Studio,alma,Les Veggies,fr-fr,audio-play,stock,e63c0bf6-1b95-4fb5-bfea-6186836111b0,https://tonies.com/fr-fr/tonies/alma/les-veggies/,1,0,0,0
 11002048,Hot Wheels,hot-wheels,Hot Wheels,en-gb,audio-play,stock,86b71b22-eb42-444a-8630-eba604db2612,https://tonies.com/en-gb/tonies/hot-wheels/hot-wheels/,1,0,0,0
 11002051,Worldwide Tales,w-wide-tales,South Asian Tales,en-gb,audio-play,stock,847cfb9f-8003-435b-8dad-072be54676c4,https://tonies.com/en-gb/tonies/worldwide-tales/south-asian-tales/,1,0,0,0
-11002052,Dora,,,en-us,Tonie,stock,9161066348695,https://us.tonies.com/products/dora-the-explorer-tonie,1,1,1,0
+11002052,Dora the Explorer,,,en-us,Tonie,stock,9161066348695,https://us.tonies.com/products/dora-the-explorer-tonie,1,1,1,0
 11002070,Dora,dora-the-explorer,Dora,fr-fr,audio-play,stock,75b6eb5a-f964-43b1-89f3-305cb130cf88,https://tonies.com/fr-fr/tonies/dora/dora/,1,0,0,0
 11002078,Bibi Blocksberg,bibi-blocksberg,Ausgehext!,de-de,audio-play,stock,1873e8fa-8d86-4f0a-acff-f5383e5e0e35,https://tonies.com/de-de/tonies/bibi-blocksberg/ausgehext/,1,2,2,0
 11002080,The Laurie Berkner Band,,Harry the Chipmunk's Treasure Hunt,en-us,Tonie,stock,9632256098455,https://us.tonies.com/products/laurie-berkner-harry-the-chipmunk-tonie,1,1,1,0
@@ -1533,7 +1533,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11002135,Sesame Street,,Elmo & Tango Tonie (en Español),es-us,Tonie,stock,9148582068375,https://us.tonies.com/products/sesame-street-elmo-tango-espanol,1,1,1,0
 11002136,Sesame Street,,Elmo Tonie (en Español),es-us,Tonie,stock,9148582133911,https://us.tonies.com/products/sesame-street-elmo-espanol,1,1,1,0
 11002137,Sesame Street,,Comegalletas Tonie (en Español),es-us,Tonie,stock,9148582035607,https://us.tonies.com/products/sesame-street-cookie-monster-espanol,1,0,0,0
-11002140,Aprendiendo A Ir Al Baño Tonie (en Español),,,es-us,Tonie,stock,9161066283159,https://us.tonies.com/products/potty-training-tonie-en-espanol,1,1,1,0
+11002140,Aprendiendo a ir al baño,,Potty Training Tonie (en Español),es-us,Tonie,stock,9161066283159,https://us.tonies.com/products/potty-training-tonie-en-espanol,1,1,1,0
 11002141,Europa-Park,europa-park,Ed & Edda – Grand Prix of Europe,de-de,audio-play,stock,8a8fc8d5-3662-46a9-ba88-4ac6025c3da3,https://tonies.com/de-de/tonies/europa-park/ed-edda-grand-prix-of-europe/,1,3,0,0
 11002143,Gabby's Dollhouse,gab-dollhouse-us,Kitty Fairy,en-gb,audio-play-songs,stock,8223d81e-4721-4c08-863e-7f50163e4a9c,https://tonies.com/en-gb/tonies/gabby-s-dollhouse/gabbys-dollhouse-kitty-fairy/,1,0,0,0
 11002144,Dora,dora-the-explorer,Dora the explorer,en-gb,audio-play-songs,stock,c5d3bc91-c0fa-418c-a689-a364699ef538,https://tonies.com/en-gb/tonies/dora-the-explorer/dora-the-explorer/,1,0,0,0
@@ -1799,7 +1799,7 @@ article,series,series-id,episode,language,category,origin,shop-id,web,data-sets,
 11003894,Les Copains Du Dodo,sleepy-friends,Tonie-Veilleuse - Doudou Croco,fr-fr,music,stock,2ac2f019-3990-4dcf-bbad-23c0b467d4c0,https://tonies.com/fr-fr/tonies/les-copains-du-dodo/tonie-veilleuse-doudou-croco/,1,0,0,0
 11003897,SpongeBob Schwammkopf,spongebob-squarepants,"Patrick, der Postbote und weitere Abenteuer",de-de,audio-play,stock,8c911770-038a-4498-82f2-39c01b820283,https://tonies.com/de-de/tonies/spongebob-schwammkopf/patrick-der-postbote-und-weitere-abenteuer/,1,1,1,0
 11003994,Eule findet den Beat,eule-findet-den-beat,Eule findet den Beat Set,de-de,audio-play-songs,stock,12da9697-0974-4a45-b7e6-f8de2db74ce7,https://tonies.com/de-de/clever-tonies/eule-findet-den-beat/eule-findet-den-beat-set/,1,4,0,0
-11004023,"Mein Knopf, ein Universum",mein-knopf-ein-universum,"Mein Knopf, ein Universum & Mein Knopf, ein Universum - Auf zu neuen Wunsch-Abenteuern",de-de,audio-play-songs,stock,f2855f16-e9ce-4bab-aa42-f9b857d1644d,https://tonies.com/de-de/tonies/mein-knopf-ein-universum/mein-knopf-ein-universum-mein-knopf-ein-universum-auf-zu-neuen-wunsch-abenteuern/,1,0,0,0
+11004023,"Mein Knopf, ein Universum",d028ee37-8fa6-4c36-bdef-327c6b21357d,"Mein Knopf, ein Universum & Mein Knopf, ein Universum - Auf zu neuen Wunsch-Abenteuern",de-de,audio-play-songs,stock,f2855f16-e9ce-4bab-aa42-f9b857d1644d,https://tonies.com/de-de/tonies/mein-knopf-ein-universum/mein-knopf-ein-universum-mein-knopf-ein-universum-auf-zu-neuen-wunsch-abenteuern/,1,0,0,0
 11004038,Toy Story,toy-story-2,Toy Story 5,fr-fr,audio-play,stock,e0f8f518-1995-47b2-b4fc-f709f650ca1e,https://tonies.com/fr-fr/tonies/disney-toy-story/toy-story-5/,1,0,0,0
 11004040,Si-Sa-Singemaus,53e3d10c-3b5e-4c75-90aa-8e134aca0bfe,"Lern,- Spiel- und Spaßlieder",de-de,music,stock,ddfcedae-bb25-4519-988a-8b9d6eda0bad,https://tonies.com/de-de/tonies/detlev-joecker/detlev-joecker-lern-spiel-und-spasslieder/,1,1,1,0
 11004073,Peppa Pig,,George’s New Sounds,en-us,Tonie,stock,9682017255575,https://us.tonies.com/products/peppa-pig-georges-new-sounds-tonie,1,1,1,0
