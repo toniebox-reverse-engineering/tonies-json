@@ -11,7 +11,7 @@ data:
   age: 7
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/Tonies_11003606_1-5NhhZFuK.png
-  sample: https://cdn.tonies.de/o/audio_samples/dd155773b79bc57a815286f2d78f4e9e199b1db1178fe4c0dc50dd97/hoerprobe_11003606_avatar_der_herr_der_elemente.mp3
+  sample: https://cdn.tonies.de/o/audio_samples/8b95e5471edd2cdd744051ad3ddf7a0df3c13d4e7f7bebaa0a7fc3ec/avatar_s01_f01_der_junge_im_eisberg_intro.wav
   web: https://tonies.com/de-de/tonies/der-herr-der-elemente/der-herr-der-elemente-aang/
   shop-id: 7219ed08-34d3-4c6f-8706-32a10cda7e5a
   track-desc:

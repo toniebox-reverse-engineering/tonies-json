@@ -1,0 +1,23 @@
+article: '2000011862'
+lock-data: false
+data:
+- series: Häsli Ingo
+  series-id: haesli-ingo
+  episode: De Ingo gaht go poschte / De Ingo gaht id Ferie
+  release: 1794441600
+  language: de-ch
+  category: audio-play
+  runtime: 1028
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_170ce78c4eaffb6766e10bc5808704016773ada33dfb8c702ead8846/3_KBQvr_RBGBdHznlj/hasli_ingo_de_ingo_gaht_go_poschte___de_ingo_gah_530x530.jpg
+  sample: null
+  web: https://tonies.com/de-de/audio-content/haesli-ingo/de-ingo-gaht-go-poschte-de-ingo-gaht-id-ferie/
+  shop-id: 87c4bf23-3039-40a5-af21-8cf5535e277f
+  track-desc:
+  - De Ingo gaht go poschte – Teil 1
+  - De Ingo gaht go poschte – Teil 2
+  - De Ingo gaht id Ferie – Teil 1
+  - De Ingo gaht id Ferie – Teil 2
+  - De Ingo gaht id Ferie – Teil 3
+  ids: []
