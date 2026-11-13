@@ -1,0 +1,34 @@
+article: '2000011831'
+lock-data: false
+data:
+- series: Bibi & Tina
+  series-id: bibi-tina
+  episode: Bibi & Tina, Hella in Falkenstein (Hörspiel-Special)
+  release: 1794528000
+  language: de-de
+  category: audio-play
+  runtime: 3386
+  age: 5
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_1f95dcce83815c043e8c1de2c6b6536a2393705f3be4e2fbe4cf52e7/3_X.6QF7L5Vkp7p0q4/bibi_tina_000_bibi_tina_hella_in_falkenst_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/dcfda426c94dadb19633def44bc236fd04e04e5bdb9f3133d7b7a11f/4033694124444_audiosample.mp3
+  web: https://tonies.com/de-de/audio-content/bibi-tina/bibi-tina-hella-in-falkenstein-horspiel-special/
+  shop-id: ed364381-2d1d-4d68-a0d1-54f235b7b4c1
+  track-desc:
+  - Kapitel 1
+  - Kapitel 2
+  - Kapitel 3
+  - Kapitel 4
+  - Kapitel 5
+  - Kapitel 6
+  - Kapitel 7
+  - Kapitel 8
+  - Kapitel 9
+  - Kapitel 10
+  - Kapitel 11
+  - Kapitel 12
+  - Kapitel 13
+  - Kapitel 14
+  - Kapitel 15
+  - Kapitel 16
+  ids: []
