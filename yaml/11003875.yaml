@@ -23,4 +23,9 @@ data:
   - 'Geschichte: Der mutigste Hund'
   - Vögel beobachten mit Minnie
   - Minnies Klanglandschaft
-  ids: []
+  ids:
+  - audio-id: 1775049783
+    hash: c4af9e053898c92de3f3d0c3fb4dc1bf16913b71
+    size: 23058686
+    tracks: 8
+    confidence: 1

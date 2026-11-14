@@ -36,4 +36,9 @@ data:
   - Der Avatar kehrt zurück – Kapitel 07
   - Der Avatar kehrt zurück – Kapitel 08
   - Der Avatar kehrt zurück – Kapitel 09
-  ids: []
+  ids:
+  - audio-id: 1794479772
+    hash: 118f97a9a4a8c0385c47fd48a06c31fa6f7f16e8
+    size: 43661619
+    tracks: 21
+    confidence: 1

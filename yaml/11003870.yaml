@@ -23,4 +23,9 @@ data:
   - 'Geschichte: Puuhs geheimer Garten'
   - Ein stürmisches Abenteuer
   - Puuhs Klanglandschaft
-  ids: []
+  ids:
+  - audio-id: 1778170693
+    hash: 8a229758e640389e4d3715c45bb466b37cadfc79
+    size: 29117859
+    tracks: 8
+    confidence: 1
