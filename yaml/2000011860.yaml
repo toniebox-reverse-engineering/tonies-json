@@ -11,7 +11,7 @@ data:
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_b2a4cc751eef8182876fcdc654581c19869d8889f3b6a640d9761516/3_RY9MWq8VMXmG6-Yf/trudi_gerster_tiergschichte_verzellt_vo_de_trudi_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/b12aef5828d4368c84ced940f2fb9e9022262ef12734fe39ac9cfdb4/tiergschichte_verzellt_vo_de_trudi_gerster_00602438899760_t60_audtrk.wav
   web: https://tonies.com/de-de/audio-content/trudi-gerster/tiergschichte-verzellt-vo-de-trudi-gerster/
   shop-id: 66b96f91-5b9e-4fa7-af64-2c34cb64bb08
   track-desc:

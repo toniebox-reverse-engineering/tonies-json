@@ -11,7 +11,7 @@ data:
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_e32e29bbcae46908bdaa5973981923ee660b67089fe5f0a84184e95a/3_B2pgg8KJ7gwCPKwr/trudi_gerster_lieblingsgschichte_verzellt_vo_de__530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/94b55ad0bfa94d975af55fb3eb63d3068ee4b52c1b8bd9a33f99ff5a/lieblingsgschichte_verzellt_vo_de_trudi_gerster_00602445223060_t176_audtrk.wav
   web: https://tonies.com/de-de/audio-content/trudi-gerster/lieblingsgschichte-verzellt-vo-de-trudi-gerster/
   shop-id: 7ba6a1a2-f9bc-4a3f-b78c-05565faaba1f
   track-desc:

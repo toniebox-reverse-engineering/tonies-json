@@ -11,7 +11,7 @@ data:
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_fce39a2574a041028a721339bc98f4c87576db5bfcc599adff4c0aee/3_NxxL7lsHqj4x44HF/hasli_ingo_de_ingo_fiirt_wiehnachte_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/c460e649b64fbadfa9b5eb946226a98d3a0c2b77856112f35375b26e/de_ingo_fiirt_wiehnachte_00602465030907_t26_audtrk.wav
   web: https://tonies.com/de-de/audio-content/haesli-ingo/de-ingo-fiirt-wiehnachte/
   shop-id: 95ce4046-8bd3-4dbb-99f7-847526487f0e
   track-desc:

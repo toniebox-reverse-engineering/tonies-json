@@ -11,7 +11,7 @@ data:
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_a9a2d56f72cd10d9c33c77e1f12e90befa4577ae4c035a23ce260924/3_KX_TzBcq9RFJyFNt/trudi_gerster_gschichte_vo_prinze_und_prinzassin_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/c04150421de72b04d0ecd77585d91e1488a7b8b05742ed064928bfe7/gschichte_vo_prinze_und_prinzassinne_verzellt_vo_de_trudi_gerster_00602445008292_t80_audtrk.wav
   web: https://tonies.com/de-de/audio-content/trudi-gerster/gschichte-vo-prinze-und-prinzassinne-verzellt-vo-d/
   shop-id: 81dca979-1065-4a76-b412-ff483619d0f5
   track-desc:

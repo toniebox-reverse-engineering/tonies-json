@@ -11,7 +11,7 @@ data:
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_170ce78c4eaffb6766e10bc5808704016773ada33dfb8c702ead8846/3_KBQvr_RBGBdHznlj/hasli_ingo_de_ingo_gaht_go_poschte___de_ingo_gah_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/3ce5c03a049314c8a45b62ac600f4c20923442ea217b36c7bedaa2c1/de_ingo_gaht_go_poschte_de_ingo_gaht_id_ferie_00602465818512_t10_audtrk.wav
   web: https://tonies.com/de-de/audio-content/haesli-ingo/de-ingo-gaht-go-poschte-de-ingo-gaht-id-ferie/
   shop-id: 87c4bf23-3039-40a5-af21-8cf5535e277f
   track-desc:

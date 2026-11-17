@@ -1,0 +1,20 @@
+article: '2000011823'
+lock-data: false
+data:
+- series: Calendriers de l'Avent
+  series-id: calendrier-de-l-avent-digital
+  episode: Un Noël magique pour les amis de la forêt (Mode Calendrier)
+  release: 1794700800
+  language: fr-fr
+  category: audio-play
+  runtime: 13688
+  age: 3
+  origin: tunes
+  image: https://cdn.tonies.de/o/images/1_8defaca3d85d9da5253cc8a928913eae1cc1ef1ef980ebb07ed810ab/3_P~.hFyv3MK~-.ldp/advent_calendars_un_noel_magique_pour_les_amis_d_530x530.jpg
+  sample: https://cdn.tonies.de/o/audio_samples/89cb15e54bc131147cfd7c760133d9adb4205e0bfe1fe2ea9460bb56/11000760_calendrierhusky_extrait_site.mp3
+  web: https://tonies.com/fr-fr/tonie-librairie/calendrier-de-l-avent-digital/un-noel-magique-pour-les-amis-de-la-foret-digital/
+  shop-id: ebebadb7-2f59-4286-a661-799995036896
+  track-desc:
+  - Instructions
+  - Présentation d’Anouk
+  ids: []

@@ -11,7 +11,7 @@ data:
   age: 3
   origin: tunes
   image: https://cdn.tonies.de/o/images/1_3dd11e889c37fb1d2d04e9ab7b28cf0f49f3e8fc81371bf0a46e59d9/3_Qz0RBb5t4nQSq1Hf/hasli_ingo_s_hasli_ingo_singt_schwiizer_chinderl_530x530.jpg
-  sample: null
+  sample: https://cdn.tonies.de/o/audio_samples/ecd672c64b86e8dbf8ec3e93f74e5a9aa68d0bf5d1880df2fd6f6cbd/s_hasli_ingo_singt_schwiizer_chinderlieder_teil_2_herbst_winter_00602475607038_t42_audtrk.flac
   web: https://tonies.com/de-de/audio-content/haesli-ingo/shasli-ingo-singt-schwiizer-chinderlieder-teil-2-h/
   shop-id: a2f5cfae-a882-4561-8d91-6710231ecb23
   track-desc:
