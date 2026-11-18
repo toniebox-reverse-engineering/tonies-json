@@ -1,0 +1,33 @@
+article: '11003831'
+lock-data: false
+data:
+- series: Ozean Set
+  series-id: ozean-set
+  episode: My First Tonies - Ozean Set
+  release: 1791331200
+  language: de-de
+  category: audio-play-songs
+  runtime: 36
+  age: 1
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51020990-DE-Tonie_Co-kTohAG0z.png
+  sample: https://cdn.tonies.de/o/audio_samples/a8be1bc1e76c745831c6bc9bdc5b397e3fc8439c2e0fd64c61491667/audio_sample_ocean_set_dach.wav
+  web: https://tonies.com/de-de/my-first-tonies/ozean-set/my-first-tonies-ozean-set/
+  shop-id: 8346a12c-3a8d-40fc-b052-3eb756dd3cad
+  track-desc:
+  - Möwe - Geräusch & Lied 🎵
+  - Möwe - Hörst du die Möwe?
+  - Möwe - Hallo, ich bin die Möwe Josefine!
+  - Möwe - Möwen im Wind (Klanglandschaft & Musik)
+  - Möwe - Outro
+  - Delfin - Geräusch & Lied 🎵
+  - Delfin - Hörst du den Delfin?
+  - Delfin - Komm, wir zählen die Delfine!
+  - Delfin - Delfin auf Unterwasserreise (Klanglandschaft & Musik)
+  - Delfin - Outro
+  - Robbe - Geräusch & Lied 🎵
+  - Robbe - Hörst du die Robbe?
+  - Robbe - Die kleine Robbe findet einen Schatz
+  - Robbe - Robbenabenteuer (Klanglandschaft & Musik)
+  - Robbe - Outro
+  ids: []
