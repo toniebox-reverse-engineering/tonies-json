@@ -31,6 +31,11 @@ data:
   - 5th November
   - Joke of The Day Jingle
   ids:
+  - audio-id: 1794960325
+    hash: 91cd4c2cb2269171b9e2a41d7e3a6fb9fc4f4260
+    size: 21196591
+    tracks: 15
+    confidence: 1
   - audio-id: 1794873929
     hash: 27619c250d80748a3c5f62a5181dfa2208f0075e
     size: 21628063
