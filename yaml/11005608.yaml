@@ -23,6 +23,11 @@ data:
   - Wenn das Stadion leise wird...
   - Outro
   ids:
+  - audio-id: 1795129236
+    hash: 6f9002cd44583ac4d760f3047dcad55364785dd6
+    size: 51166279
+    tracks: 8
+    confidence: 1
   - audio-id: 1794231944
     hash: 60a7586276ec2915d05e1cc4b8fa42655f7e1dc9
     size: 43136662
