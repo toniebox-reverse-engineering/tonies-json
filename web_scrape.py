@@ -180,14 +180,7 @@ def extract_data_tonies(lang, article, product_data, source):
         }
         map_fields(yaml_data, product_data, field_mapping)
 
-        cache_name = f'{article}.tonies.{lang}.html'
-        timeout, html_content = GeneralHelper.load_cache(cache_name, 60*60*24)
-
-        if timeout or html_content is None: # Only update if older than 24h
-            response = requests.get(yaml_data["web"])
-            if response.status_code == 200:
-                html_content = response.text
-                GeneralHelper.save_cache(cache_name, html_content)
+        html_content = load_product_page(f'{article}.tonies.{lang}.html', yaml_data["web"])
 
         cache_id = 0
         if yaml_data["language"] != lang: # skip duplicates that are in multiple shops
@@ -197,10 +190,8 @@ def extract_data_tonies(lang, article, product_data, source):
             print(f"Invalid html_content for {article}, skipping update")
             return
         
-        match = tonies_pattern.search(html_content)
-        if match:
-            json_str = match.group(1)
-            data = json.loads(json_str)
+        data = get_page_json(tonies_pattern, html_content)
+        if data is not None:
             try:
                 yaml_data["track-desc"] = data["props"]["pageProps"]["product"]["tracks"]
             except (KeyError, TypeError):
@@ -237,6 +228,25 @@ def extract_data_tonies_us(lang, article, product_data, source):
         yaml_data = filter_data(article, yaml_data)
         merge_yaml_data(article, yaml_data, source, overwrite=True)
     
+def load_product_page(cache_name, url):
+    is_cached, html_content = GeneralHelper.load_cache(cache_name, 60*60*24)
+
+    if not is_cached or html_content is None: # Only update if older than 24h
+        response = requests.get(url)
+        if response.status_code == 200:
+            html_content = response.text
+            GeneralHelper.save_cache(cache_name, html_content)
+    return html_content
+
+def get_page_json(pattern, html_content):
+    match = pattern.search(html_content)
+    if match is None:
+        return None
+    try:
+        return json.loads(match.group(1))
+    except json.JSONDecodeError:
+        return None
+
 def extract_data_tonies_shopapi(lang, article, product_data, source):                
     if is_update_locked(article):
         return
