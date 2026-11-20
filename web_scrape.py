@@ -2,12 +2,14 @@
 
 import requests
 import re
+import html
 import json
 import copy
 import os
 import yaml
 import time
 from datetime import datetime, timezone
+from urllib.parse import urlparse
 
 from article_yaml_helpers import YamlStruct, YamlHelper, GeneralHelper
 from tonies_json_config import Config
@@ -30,6 +32,15 @@ urls = [
 
 # Regular expression pattern to match JSON content
 tonies_pattern = re.compile(r'type="application/json">(.*?)</script></body></html>', re.DOTALL)
+
+# The product of a US shop page with its tracklist and audio sample, which products.json does not have. The first block is the page's own product, later ones are recommendations.
+us_product_pattern = re.compile(r'<script data-product-json type="application/json">(.*?)</script>', re.DOTALL)
+
+# Seconds to wait after loading a US shop page. Without a pause the shop answered 429 Too Many Requests after about 76 pages and then for about 8 minutes, also for products.json; with one second all of its about 430 pages went through.
+us_page_delay = 1
+
+# Hosts that answered 429 Too Many Requests in this run; their pages are not asked for again until the next run.
+throttled_hosts = set()
 
 # US shop product types that are tonies with an article number as sku. Left out: bundles, accessories, "tonies Set" (sku is no article number) and "My First Tonie" (its titles, e.g. "Pig My First Tonie", do not split into series and episode)
 us_tonie_product_types = ["Tonie", "Creative Tonie", "Clever Tonie", "Audiobook", "Plush Toys"]
@@ -224,18 +235,33 @@ def extract_data_tonies_us(lang, article, product_data, source):
         }
         map_fields(yaml_data, product_data, field_mapping)
 
+        html_content = load_product_page(f'{article}.tonies-us.{lang}.html', yaml_data["web"], delay=us_page_delay)
+        page_product = get_page_json(us_product_pattern, html_content) if html_content is not None else None
+        if page_product is None:
+            print(f"No product data on the page of {article}, skipping tracks")
+        else:
+            yaml_data["track-desc"] = [html.unescape(re.sub(r'<[^>]+>', '', track)).strip() for track in re.findall(r'<li>(.*?)</li>', page_product.get("tracklist") or "", re.DOTALL)]
+            yaml_data["sample"] = page_product.get("audio_sample")
+
         # No check for duplicates from other shops: the US shop sells only its own products, also those in Spanish
         yaml_data = filter_data(article, yaml_data)
         merge_yaml_data(article, yaml_data, source, overwrite=True)
     
-def load_product_page(cache_name, url):
+def load_product_page(cache_name, url, delay=0):
     is_cached, html_content = GeneralHelper.load_cache(cache_name, 60*60*24)
 
     if not is_cached or html_content is None: # Only update if older than 24h
+        host = urlparse(url).netloc
+        if host in throttled_hosts:
+            return html_content
         response = requests.get(url)
         if response.status_code == 200:
             html_content = response.text
             GeneralHelper.save_cache(cache_name, html_content)
+        elif response.status_code == 429:
+            print(f"{host} answered 429 Too Many Requests, no more pages from it in this run")
+            throttled_hosts.add(host)
+        time.sleep(delay)
     return html_content
 
 def get_page_json(pattern, html_content):
