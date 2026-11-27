@@ -40,4 +40,9 @@ data:
   - 'Kapitel 03: Miguel und das Compi-Problem (Folge 16)'
   - 'Kapitel 04: Miguel und das Compi-Problem (Folge 16)'
   - 'Kapitel 05: Miguel und das Compi-Problem (Folge 16)'
-  ids: []
+  ids:
+  - audio-id: 1781722953
+    hash: 20555429b1e3dde57f3afea19df8a385d7709804
+    size: 39521588
+    tracks: 25
+    confidence: 0
