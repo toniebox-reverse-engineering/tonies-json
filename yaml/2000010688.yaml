@@ -46,4 +46,9 @@ data:
   - 'Kapitel 05: Adoptosaurus Rex (Folge 48)'
   - 'Kapitel 06: Adoptosaurus Rex (Folge 48)'
   - 'Kapitel 07: Adoptosaurus Rex (Folge 48)'
-  ids: []
+  ids:
+  - audio-id: 1703251242
+    hash: a2f1063aa4c988007ce21646f2869ce626c42dc0
+    size: 49868244
+    tracks: 31
+    confidence: 0
