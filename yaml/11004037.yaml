@@ -1,8 +1,8 @@
 article: '11004037'
 lock-data: false
 data:
-- series: tonies Originals
-  series-id: tonies-originals-2
+- series: Grizzy et les lemmings
+  series-id: 1b5b7b06-ad75-4131-a3e1-0138ec3422d1
   episode: Grizzy Et Les Lemmings
   release: 0
   language: fr-fr
@@ -11,16 +11,16 @@ data:
   age: 3
   origin: stock
   image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51022047-Tonie_Shado-6ofOZGM0.png
-  sample: null
-  web: https://tonies.com/fr-fr/tonies/tonies-originals/grizzy-et-les-lemmings/
+  sample: https://cdn.tonies.de/o/audio_samples/2bd6c6ddfefee7afb66f2cb2fe1b750978ca730e6a240336949c8a1f/11004037_00_grizzy_et_les_lemmings_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/grizzy-et-les-lemmings/grizzy-et-les-lemmings/
   shop-id: db41509d-e836-4a24-bfe2-e313f1b73bc0
   track-desc:
-  - 1. Générique
-  - 2. Ours à haute tension
-  - 3. Ours aléatoire
-  - 4. Ours boréal
-  - 5. Lemmings en orbite
-  - 6. Soins intensifs
-  - 7. Inspecteur Grizzy
-  - 8. Mon voisin l'Ours
+  - Générique
+  - Ours à haute tension
+  - Ours aléatoire
+  - Ours boréal
+  - Lemmings en orbite
+  - Soins intensifs
+  - Inspecteur Grizzy
+  - Mon voisin l'Ours
   ids: []
