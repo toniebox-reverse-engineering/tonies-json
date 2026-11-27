@@ -44,4 +44,19 @@ data:
   - 'Muffin - EPISODE: MÄRCHEN'
   - 'Muffin - EPISODE: DRACHE'
   - Muffin - OUTRO
-  ids: []
+  ids:
+  - audio-id: 1789482080
+    hash: e564fb06f6f71b5d80531b69085e79a17ec53800
+    size: 35737938
+    tracks: 10
+    confidence: 0
+  - audio-id: 1788177144
+    hash: c104629a120fa7e1651de81e269428732efbe952
+    size: 30561613
+    tracks: 9
+    confidence: 0
+  - audio-id: 1788176835
+    hash: 66cd146c25e48263017d7e4b3616d8c7d886ae7a
+    size: 34881874
+    tracks: 10
+    confidence: 0
