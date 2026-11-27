@@ -43,4 +43,9 @@ data:
   - 'Kapitel 04: Miguels Lasso-Werfer (Folge 32)'
   - 'Kapitel 05: Miguels Lasso-Werfer (Folge 32)'
   - 'Kapitel 06: Miguels Lasso-Werfer (Folge 32)'
-  ids: []
+  ids:
+  - audio-id: 1703251239
+    hash: 073eb5d63840ab4e4391d30ff5a0a8483935e16f
+    size: 45056433
+    tracks: 28
+    confidence: 0
