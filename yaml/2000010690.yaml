@@ -43,4 +43,9 @@ data:
   - 'Kapitel 05: Müffelblumen-Attacke (Folge 44)'
   - 'Kapitel 06: Müffelblumen-Attacke (Folge 44)'
   - 'Kapitel 07: Müffelblumen-Attacke (Folge 44)'
-  ids: []
+  ids:
+  - audio-id: 391812350
+    hash: 12e72bd61aefe10653c57cfcbc4dcbe4f6418391
+    size: 44860410
+    tracks: 28
+    confidence: 0
