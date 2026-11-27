@@ -44,4 +44,9 @@ data:
   - 'Kapitel 05: Eine neue Herde (Folge 28)'
   - 'Kapitel 06: Eine neue Herde (Folge 28)'
   - 'Kapitel 07: Eine neue Herde (Folge 28)'
-  ids: []
+  ids:
+  - audio-id: 1713969627
+    hash: 94852f53f4a580b85e6ff47c192596c0029f1286
+    size: 45936965
+    tracks: 29
+    confidence: 0
