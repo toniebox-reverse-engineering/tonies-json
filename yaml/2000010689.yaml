@@ -47,4 +47,9 @@ data:
   - 'Kapitel 06: Niemand ist perfekt (Folge 52)'
   - 'Kapitel 07: Niemand ist perfekt (Folge 52)'
   - 'Kapitel 08: Niemand ist perfekt (Folge 52)'
-  ids: []
+  ids:
+  - audio-id: 1703251243
+    hash: 7dbe6af1e31f8003c0ea65e39a2beb9157fc6040
+    size: 48452791
+    tracks: 32
+    confidence: 0
