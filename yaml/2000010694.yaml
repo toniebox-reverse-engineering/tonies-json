@@ -43,4 +43,9 @@ data:
   - 'Kapitel 06: Wilder freier Donnerfuß (Folge 24)'
   - 'Kapitel 07: Wilder freier Donnerfuß (Folge 24)'
   - 'Kapitel 08: Wilder freier Donnerfuß (Folge 24)'
-  ids: []
+  ids:
+  - audio-id: 1703251238
+    hash: 3dd2fa257f4e5439f658f38d29b5a5cb1d4e7078
+    size: 46784893
+    tracks: 28
+    confidence: 0
