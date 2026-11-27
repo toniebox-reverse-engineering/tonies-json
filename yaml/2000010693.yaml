@@ -42,4 +42,9 @@ data:
   - 'Kapitel 04: Dino-Ei-Alarm (Folge 40)'
   - 'Kapitel 05: Dino-Ei-Alarm (Folge 40)'
   - 'Kapitel 06: Dino-Ei-Alarm (Folge 40)'
-  ids: []
+  ids:
+  - audio-id: 1703251241
+    hash: 79740c78b38c0453463f693702114416cd8a4729
+    size: 43387349
+    tracks: 27
+    confidence: 0
