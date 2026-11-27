@@ -41,4 +41,9 @@ data:
   - 'Kapitel 04: Clovers Höhenangst (Folge 20)'
   - 'Kapitel 05: Clovers Höhenangst (Folge 20)'
   - 'Kapitel 06: Clovers Höhenangst (Folge 20)'
-  ids: []
+  ids:
+  - audio-id: 1703251237
+    hash: af8bfb3109eaceff4a892682e60c248f8cac3fcd
+    size: 43808878
+    tracks: 26
+    confidence: 0
