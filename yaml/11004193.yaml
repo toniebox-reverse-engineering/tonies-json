@@ -1,0 +1,25 @@
+article: '11004193'
+lock-data: false
+data:
+- series: Les P'tits Monstres
+  series-id: les-ptits-monstres
+  episode: Lune, Mission Frousse
+  release: 1795737600
+  language: fr-fr
+  category: audio-play
+  runtime: 67
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51022759-Tonie_Shado-1if27QG7.png
+  sample: https://assets.ctfassets.net/l6vo76cztcax/lLxiRfmfvI354GyzcQJvA/44749f76d0d47d7bb79ae0c163d6343e/11004193_Ptits_Monstres-Lune_extrait.mp3
+  web: https://tonies.com/fr-fr/tonies/les-ptits-monstres/lune-mission-frousse/
+  shop-id: 3084b71d-f160-4c36-a90c-d48735b8ed8b
+  track-desc:
+  - 1. La leçon de vol
+  - 2. Le manoir du rire
+  - 3. Contrôle de frousse
+  - 4. Les parents débarquent
+  - 5. Chasseurs de monstres
+  - 6. Pelote est amoureuse
+  - 7. SOS monstre en détresse
+  ids: []

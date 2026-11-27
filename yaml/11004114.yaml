@@ -1,0 +1,19 @@
+article: '11004114'
+lock-data: false
+data:
+- series: Ratatouille
+  series-id: ratatouille
+  episode: Ratatouille
+  release: 1795737600
+  language: fr-fr
+  category: audio-play
+  runtime: 47
+  age: 5
+  origin: stock
+  image: https://images.cdn.europe-west1.gcp.commercetools.com/cffb5678-47af-495c-9f19-1c2ccfc5910c/51004107-Tonie_Shado-n1t_9HIh.png
+  sample: https://cdn.tonies.de/o/audio_samples/5408e00fbfbd72ac07dc71085486e2c69173212ce03dc2d9fe9b2e28/11004114_01_ratatouille_sample.mp3
+  web: https://tonies.com/fr-fr/tonies/disney-ratatouille/disney-ratatouille/
+  shop-id: a3516a12-1323-4ff9-935d-4608f1bdf0a1
+  track-desc:
+  - Ratatouille, l'histoire du film
+  ids: []
