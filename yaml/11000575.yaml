@@ -21,4 +21,9 @@ data:
   - Huguette la guêpe
   - Georges le rouge-gorge
   - Nora petit rat de l'Opéra
-  ids: []
+  ids:
+  - audio-id: 1742217940
+    hash: 03af40d8943d8fefd0bca771c6bfdb7636801761
+    size: 24344737
+    tracks: 6
+    confidence: 0
